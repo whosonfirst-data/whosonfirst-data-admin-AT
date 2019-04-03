@@ -1,0 +1,79 @@
+{
+  "id": 1226455363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83333,46.58333,14.83333,46.58333",
+    "geom:latitude":46.58333,
+    "geom:longitude":14.83333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20801.0",
+    "gn:asciiname":"Sankt Margarethen",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766559,
+    "gn:latitude":46.58333,
+    "gn:longitude":14.83333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Margarethen",
+    "gn:population":87,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Margarethen ob Bleiburg",
+        "Sankt Margarethen"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838365,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766559
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8dc06d4dbe1a61146d78409ce7227e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838365,
+            "locality_id":1226455363,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226455363,
+    "wof:lastmodified":1537584932,
+    "wof:name":"Sankt Margarethen",
+    "wof:parent_id":1108838365,
+    "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83333,
+    46.58333,
+    14.83333,
+    46.58333
+],
+  "geometry": {"coordinates":[14.83333,46.58333],"type":"Point"}
+}

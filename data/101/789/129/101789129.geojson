@@ -1,0 +1,103 @@
+{
+  "id": 101789129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":1017263.460617,
+    "geom:bbox":"11.890885458,47.2548481014,11.9028962852,47.2746211977",
+    "geom:latitude":47.265183,
+    "geom:longitude":11.897044,
+    "iso:country":"AT",
+    "lbl:latitude":47.265257,
+    "lbl:longitude":11.897453,
+    "mps:latitude":47.265257,
+    "mps:longitude":11.897453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aschau"
+    ],
+    "name:deu_x_preferred":[
+        "Aschau"
+    ],
+    "name:epo_x_preferred":[
+        "Aschau"
+    ],
+    "name:fra_x_preferred":[
+        "Aschau"
+    ],
+    "name:nld_x_preferred":[
+        "Aschau"
+    ],
+    "name:pol_x_preferred":[
+        "Aschau"
+    ],
+    "name:ron_x_preferred":[
+        "Aschau"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Tirol",
+    "qs:a1r":"0",
+    "qs:a2":"Schwaz",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Aschau im Zillertal",
+    "qs:la_lc":"*AT70902",
+    "qs:level":"locality",
+    "qs:loc":"Aschau",
+    "qs:loc_alt":"Aschau",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837849,
+        85632785,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782362,
+        "gp:id":550440,
+        "qs:id":1333504,
+        "qs_pg:id":1154692,
+        "wd:id":"Q425416"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a93de602b2d72edb5a79ac9c3f2510b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837849,
+            "locality_id":101789129,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":101789129,
+    "wof:lastmodified":1527715898,
+    "wof:name":"Aschau",
+    "wof:parent_id":1108837849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.89088545798097,
+    47.25484810137272,
+    11.90289628520333,
+    47.2746211976617
+],
+  "geometry": {"coordinates":[[[11.89794374731247,47.2746211976617],[11.90058426395387,47.2745750541157],[11.90048583793293,47.27187559640731],[11.90180602636457,47.27185250196379],[11.90157625715455,47.26555375538703],[11.90289628520333,47.26553064813385],[11.90276492945412,47.26193135669098],[11.9001250543289,47.26197755148371],[11.90009226452867,47.26107772661931],[11.89613251213495,47.26114689720589],[11.89590350187177,47.25484810137272],[11.89458374152434,47.2548711229648],[11.89461643018768,47.25577095270017],[11.8932966460373,47.25579395872302],[11.89336198221037,47.25759361780968],[11.89204215150824,47.25761660872104],[11.89220540349243,47.26211575114377],[11.89088545798097,47.26213872831556],[11.89091808995965,47.26303855595836],[11.89223805822451,47.2630155783288],[11.8923686916072,47.266614882738],[11.89368874983808,47.266591887245],[11.89385218789693,47.27109100572579],[11.89781269763967,47.27102191617325],[11.89794374731247,47.2746211976617]]],"type":"Polygon"}
+}

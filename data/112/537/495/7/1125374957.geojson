@@ -1,0 +1,82 @@
+{
+  "id": 1125374957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10756,48.28702,14.10756,48.28702",
+    "geom:latitude":48.28702,
+    "geom:longitude":14.10756,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":5284,
+    "gn:population":5809,
+    "iso:country":"AT",
+    "lbl:latitude":48.28702,
+    "lbl:longitude":14.10756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873114,
+    "qs_pg:gn_pop":5284,
+    "qs_pg:name":"Alkoven",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":358075,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873114,
+        "qs_pg:id":358075
+    },
+    "wof:country":"AT",
+    "wof:created":1497047662,
+    "wof:geomhash":"033fa032f6ef49d7d60d4eab18c58b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1125374957,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125374957,
+    "wof:lastmodified":1534531031,
+    "wof:name":"Alkoven",
+    "wof:parent_id":102049863,
+    "wof:placetype":"localadmin",
+    "wof:population":5809,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834811
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10756,
+    48.28702,
+    14.10756,
+    48.28702
+],
+  "geometry": {"coordinates":[14.10756,48.28702],"type":"Point"}
+}

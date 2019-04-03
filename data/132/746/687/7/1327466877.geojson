@@ -1,0 +1,74 @@
+{
+  "id": 1327466877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80612,48.26068,13.80612,48.26068",
+    "geom:latitude":48.26068,
+    "geom:longitude":13.80612,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40830.0",
+    "gn:asciiname":"Oberwoedling",
+    "gn:country_code":"AT",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769589,
+    "gn:latitude":48.26068,
+    "gn:longitude":13.80612,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberw\u00f6dling",
+    "gn:population":96,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835231,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769589
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2012ab77f993864534242cf2a7cfaff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835231,
+            "locality_id":1327466877,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327466877,
+    "wof:lastmodified":1536629371,
+    "wof:name":"Oberwoedling",
+    "wof:parent_id":1108835231,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80612,
+    48.26068,
+    13.80612,
+    48.26068
+],
+  "geometry": {"coordinates":[13.80612,48.26068],"type":"Point"}
+}

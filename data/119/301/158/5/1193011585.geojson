@@ -1,0 +1,74 @@
+{
+  "id": 1193011585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.94198,47.26788,9.94198,47.26788",
+    "geom:latitude":47.26788,
+    "geom:longitude":9.94198,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801",
+    "gn:admin3_code":"80109.0",
+    "gn:asciiname":"Zafernalpe",
+    "gn:country_code":"AT",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":9653565,
+    "gn:latitude":47.26788,
+    "gn:longitude":9.94198,
+    "gn:modification_date":"2014-10-08",
+    "gn:name":"Zafernalpe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zafera Alpe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837939,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9653565
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"739ae5812425a0f6a3db6c1777b0a0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837939,
+            "locality_id":1193011585,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1193011585,
+    "wof:lastmodified":1537584989,
+    "wof:name":"Zafernalpe",
+    "wof:parent_id":1108837939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.94198,
+    47.26788,
+    9.94198,
+    47.26788
+],
+  "geometry": {"coordinates":[9.94198,47.26788],"type":"Point"}
+}

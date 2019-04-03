@@ -1,0 +1,82 @@
+{
+  "id": 1125270257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41731,48.26086,13.41731,48.26086",
+    "geom:latitude":48.26086,
+    "geom:longitude":13.41731,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":748,
+    "gn:population":764,
+    "iso:country":"AT",
+    "lbl:latitude":48.26086,
+    "lbl:longitude":13.41731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872096,
+    "qs_pg:gn_pop":748,
+    "qs_pg:name":"Senftenbach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743323,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872096,
+        "qs_pg:id":743323
+    },
+    "wof:country":"AT",
+    "wof:created":1497042096,
+    "wof:geomhash":"55cc1550ddda9276dafc84ab74e652b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1125270257,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125270257,
+    "wof:lastmodified":1534379107,
+    "wof:name":"Senftenbach",
+    "wof:parent_id":102049851,
+    "wof:placetype":"localadmin",
+    "wof:population":764,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835691
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41731,
+    48.26086,
+    13.41731,
+    48.26086
+],
+  "geometry": {"coordinates":[13.41731,48.26086],"type":"Point"}
+}

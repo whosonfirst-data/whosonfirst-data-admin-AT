@@ -1,0 +1,71 @@
+{
+  "id": 1209615871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54975,48.00669,13.54975,48.00669",
+    "geom:latitude":48.00669,
+    "geom:longitude":13.54975,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"417.0",
+    "gn:admin3_code":"41711.0",
+    "gn:asciiname":"Unterheikerding",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762880,
+    "gn:latitude":48.00669,
+    "gn:longitude":13.54975,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterheikerding",
+    "gn:population":20,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heikerting",
+        "Unterheikerding"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762880
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9415bacc91f8744c35e86add92a94fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209615871
+        }
+    ],
+    "wof:id":1209615871,
+    "wof:lastmodified":1537584918,
+    "wof:name":"Unterheikerding",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54975,
+    48.00669,
+    13.54975,
+    48.00669
+],
+  "geometry": {"coordinates":[13.54975,48.00669],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125274385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73137,48.29053,15.73137,48.29053",
+    "geom:latitude":48.29053,
+    "geom:longitude":15.73137,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7986,
+    "gn:population":7716,
+    "iso:country":"AT",
+    "lbl:latitude":48.29053,
+    "lbl:longitude":15.73137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873014,
+    "qs_pg:gn_pop":7986,
+    "qs_pg:name":"Herzogenburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":108790,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873014,
+        "qs_pg:id":108790
+    },
+    "wof:country":"AT",
+    "wof:created":1497042255,
+    "wof:geomhash":"072ff468d43d6998cbc64c8e0addf64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125274385,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125274385,
+    "wof:lastmodified":1534531060,
+    "wof:name":"Herzogenburg",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:population":7716,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836215
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73137,
+    48.29053,
+    15.73137,
+    48.29053
+],
+  "geometry": {"coordinates":[15.73137,48.29053],"type":"Point"}
+}

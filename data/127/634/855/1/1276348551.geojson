@@ -1,0 +1,74 @@
+{
+  "id": 1276348551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,46.98333,14.15,46.98333",
+    "geom:latitude":46.98333,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20518.0",
+    "gn:asciiname":"Unteralpe",
+    "gn:country_code":"AT",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763132,
+    "gn:latitude":46.98333,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unteralpe",
+    "gn:population":62,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838231,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763132
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a0a6befdc75ad128f12d18a897369f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838231,
+            "locality_id":1276348551,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1276348551,
+    "wof:lastmodified":1536758166,
+    "wof:name":"Unteralpe",
+    "wof:parent_id":1108838231,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    46.98333,
+    14.15,
+    46.98333
+],
+  "geometry": {"coordinates":[14.15,46.98333],"type":"Point"}
+}

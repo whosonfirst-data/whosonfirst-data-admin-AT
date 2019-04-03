@@ -1,0 +1,91 @@
+{
+  "id": 1125273059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.1642,48.20809,13.1642,48.20809",
+    "geom:latitude":48.20809,
+    "geom:longitude":13.1642,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":899,
+    "gn:population":1009,
+    "iso:country":"AT",
+    "lbl:latitude":48.20809,
+    "lbl:longitude":13.1642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u0441\u0431\u0430\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0431\u0430\u0445"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u5df4\u8d6b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871978,
+    "qs_pg:gn_pop":899,
+    "qs_pg:name":"Moosbach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108448,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871978,
+        "qs_pg:id":108448
+    },
+    "wof:country":"AT",
+    "wof:created":1497042210,
+    "wof:geomhash":"4c612f3a01de34fa3569826ab39be764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1125273059,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125273059,
+    "wof:lastmodified":1534379103,
+    "wof:name":"Moosbach",
+    "wof:parent_id":102049833,
+    "wof:placetype":"localadmin",
+    "wof:population":1009,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834759
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.1642,
+    48.20809,
+    13.1642,
+    48.20809
+],
+  "geometry": {"coordinates":[13.1642,48.20809],"type":"Point"}
+}

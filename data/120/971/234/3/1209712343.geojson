@@ -1,0 +1,71 @@
+{
+  "id": 1209712343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7,46.88333,12.7,46.88333",
+    "geom:latitude":46.88333,
+    "geom:longitude":12.7,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"707.0",
+    "gn:admin3_code":"70702.0",
+    "gn:asciiname":"Unteralkus",
+    "gn:country_code":"AT",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763133,
+    "gn:latitude":46.88333,
+    "gn:longitude":12.7,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Unteralkus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837481,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763133
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5e6477ea53c2d7e5e0b00d173682d565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837481,
+            "locality_id":1209712343,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1209712343,
+    "wof:lastmodified":1536390131,
+    "wof:name":"Unteralkus",
+    "wof:parent_id":1108837481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7,
+    46.88333,
+    12.7,
+    46.88333
+],
+  "geometry": {"coordinates":[12.7,46.88333],"type":"Point"}
+}

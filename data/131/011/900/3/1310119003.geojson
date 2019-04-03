@@ -1,0 +1,74 @@
+{
+  "id": 1310119003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99457,46.69738,13.99457,46.69738",
+    "geom:latitude":46.69738,
+    "geom:longitude":13.99457,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21009.0",
+    "gn:asciiname":"Stiegl",
+    "gn:country_code":"AT",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764332,
+    "gn:latitude":46.69738,
+    "gn:longitude":13.99457,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stiegl",
+    "gn:population":305,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838139,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764332
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"209668282cdaadcd615a0e94fa9b51a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838139,
+            "locality_id":1310119003,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310119003,
+    "wof:lastmodified":1536976385,
+    "wof:name":"Stiegl",
+    "wof:parent_id":1108838139,
+    "wof:placetype":"locality",
+    "wof:population":305,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99457,
+    46.69738,
+    13.99457,
+    46.69738
+],
+  "geometry": {"coordinates":[13.99457,46.69738],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293797057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56667,46.61667,13.56667,46.61667",
+    "geom:latitude":46.61667,
+    "geom:longitude":13.56667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"207",
+    "gn:admin3_code":"20719.0",
+    "gn:asciiname":"Kreublach",
+    "gn:country_code":"AT",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773524,
+    "gn:latitude":46.61667,
+    "gn:longitude":13.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kreublach",
+    "gn:population":33,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838345,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773524
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c51647a4170d51096c2fc9fecc014cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838345,
+            "locality_id":1293797057,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293797057,
+    "wof:lastmodified":1536836740,
+    "wof:name":"Kreublach",
+    "wof:parent_id":1108838345,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56667,
+    46.61667,
+    13.56667,
+    46.61667
+],
+  "geometry": {"coordinates":[13.56667,46.61667],"type":"Point"}
+}

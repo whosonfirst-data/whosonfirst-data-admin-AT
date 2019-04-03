@@ -1,0 +1,71 @@
+{
+  "id": 1243296685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15741,48.4675,14.15741,48.4675",
+    "geom:latitude":48.4675,
+    "geom:longitude":14.15741,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41337.0",
+    "gn:asciiname":"Hansberg",
+    "gn:country_code":"AT",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776888,
+    "gn:latitude":48.4675,
+    "gn:longitude":14.15741,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Hansberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836011,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776888
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1d4c4382b1a1d819fd45ec96c6070b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836011,
+            "locality_id":1243296685,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243296685,
+    "wof:lastmodified":1537020527,
+    "wof:name":"Hansberg",
+    "wof:parent_id":1108836011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15741,
+    48.4675,
+    14.15741,
+    48.4675
+],
+  "geometry": {"coordinates":[14.15741,48.4675],"type":"Point"}
+}

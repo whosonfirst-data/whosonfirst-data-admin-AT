@@ -1,0 +1,74 @@
+{
+  "id": 1226653637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07077,48.26137,16.07077,48.26137",
+    "geom:latitude":48.26137,
+    "geom:longitude":16.07077,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"321.0",
+    "gn:admin3_code":"32131.0",
+    "gn:asciiname":"Reichersberg",
+    "gn:country_code":"AT",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2599253,
+    "gn:latitude":48.26137,
+    "gn:longitude":16.07077,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reichersberg",
+    "gn:population":171,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835869,
+        85632785,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2599253
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7ccd448fcafba455b0a4bb20d54ab22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835869,
+            "locality_id":1226653637,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1226653637,
+    "wof:lastmodified":1536846898,
+    "wof:name":"Reichersberg",
+    "wof:parent_id":1108835869,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07077,
+    48.26137,
+    16.07077,
+    48.26137
+],
+  "geometry": {"coordinates":[16.07077,48.26137],"type":"Point"}
+}

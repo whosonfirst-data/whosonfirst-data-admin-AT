@@ -1,0 +1,71 @@
+{
+  "id": 1209815917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51036,47.85493,14.51036,47.85493",
+    "geom:latitude":47.85493,
+    "geom:longitude":14.51036,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"415",
+    "gn:admin3_code":"41507.0",
+    "gn:asciiname":"Sulzbauer",
+    "gn:country_code":"AT",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610069,
+    "gn:latitude":47.85493,
+    "gn:longitude":14.51036,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Sulzbauer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836105,
+        85632785,
+        102049819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610069
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7110f74f54d203c9ebfa684936e93468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836105,
+            "locality_id":1209815917,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1209815917,
+    "wof:lastmodified":1536383923,
+    "wof:name":"Sulzbauer",
+    "wof:parent_id":1108836105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51036,
+    47.85493,
+    14.51036,
+    47.85493
+],
+  "geometry": {"coordinates":[14.51036,47.85493],"type":"Point"}
+}

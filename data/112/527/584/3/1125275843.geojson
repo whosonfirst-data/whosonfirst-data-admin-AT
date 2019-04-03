@@ -1,0 +1,94 @@
+{
+  "id": 1125275843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58634,46.95596,14.58634,46.95596",
+    "geom:latitude":46.95596,
+    "geom:longitude":14.58634,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1683,
+    "gn:population":1431,
+    "iso:country":"AT",
+    "lbl:latitude":46.95596,
+    "lbl:longitude":14.58634,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0425\u044e\u0442\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u044e\u0442\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u044e\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bb8\u6ed5\u8d1d\u683c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872770,
+    "qs_pg:gn_pop":1683,
+    "qs_pg:name":"H\u00fcttenberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":904327,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872770,
+        "qs_pg:id":904327
+    },
+    "wof:country":"AT",
+    "wof:created":1497042306,
+    "wof:geomhash":"bee175f24730cb80d71994374e767077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1125275843,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125275843,
+    "wof:lastmodified":1534379106,
+    "wof:name":"H\u00fcttenberg",
+    "wof:parent_id":102049697,
+    "wof:placetype":"localadmin",
+    "wof:population":1431,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838219
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58634,
+    46.95596,
+    14.58634,
+    46.95596
+],
+  "geometry": {"coordinates":[14.58634,46.95596],"type":"Point"}
+}

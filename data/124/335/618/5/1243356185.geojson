@@ -1,0 +1,74 @@
+{
+  "id": 1243356185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97086,46.97665,15.97086,46.97665",
+    "geom:latitude":46.97665,
+    "geom:longitude":15.97086,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62386.0",
+    "gn:asciiname":"Loedersdorf II",
+    "gn:country_code":"AT",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592497,
+    "gn:latitude":46.97665,
+    "gn:longitude":15.97086,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"L\u00f6dersdorf II",
+    "gn:population":119,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839241,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592497
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0c1502bc6b804caa7f2fba1a0790d997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839241,
+            "locality_id":1243356185,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243356185,
+    "wof:lastmodified":1536936474,
+    "wof:name":"Loedersdorf II",
+    "wof:parent_id":1108839241,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97086,
+    46.97665,
+    15.97086,
+    46.97665
+],
+  "geometry": {"coordinates":[15.97086,46.97665],"type":"Point"}
+}

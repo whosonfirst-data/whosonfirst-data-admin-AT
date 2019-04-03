@@ -1,0 +1,74 @@
+{
+  "id": 1243364623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85367,48.18612,13.85367,48.18612",
+    "geom:latitude":48.18612,
+    "geom:longitude":13.85367,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40813.0",
+    "gn:asciiname":"Unterdoppl",
+    "gn:country_code":"AT",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763066,
+    "gn:latitude":48.18612,
+    "gn:longitude":13.85367,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterdoppl",
+    "gn:population":9,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835193,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763066
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"97bae90bed0d58a53cca6b5b6b9fab0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835193,
+            "locality_id":1243364623,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243364623,
+    "wof:lastmodified":1536924268,
+    "wof:name":"Unterdoppl",
+    "wof:parent_id":1108835193,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85367,
+    48.18612,
+    13.85367,
+    48.18612
+],
+  "geometry": {"coordinates":[13.85367,48.18612],"type":"Point"}
+}

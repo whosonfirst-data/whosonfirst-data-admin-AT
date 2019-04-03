@@ -1,0 +1,71 @@
+{
+  "id": 1327051343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.4575,46.80611,12.4575,46.80611",
+    "geom:latitude":46.80611,
+    "geom:longitude":12.4575,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70706.0",
+    "gn:asciiname":"Sankt Katharina",
+    "gn:country_code":"AT",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217365,
+    "gn:latitude":46.80611,
+    "gn:longitude":12.4575,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Sankt Katharina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837491,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217365
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"64c5a66fbf34daa8d216269601f071b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837491,
+            "locality_id":1327051343,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1327051343,
+    "wof:lastmodified":1536733351,
+    "wof:name":"Sankt Katharina",
+    "wof:parent_id":1108837491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4575,
+    46.80611,
+    12.4575,
+    46.80611
+],
+  "geometry": {"coordinates":[12.4575,46.80611],"type":"Point"}
+}

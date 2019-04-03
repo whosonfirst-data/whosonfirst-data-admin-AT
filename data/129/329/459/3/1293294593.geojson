@@ -1,0 +1,71 @@
+{
+  "id": 1293294593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,48.1,14.75,48.1",
+    "geom:latitude":48.1,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30522.0",
+    "gn:asciiname":"Ramsau",
+    "gn:country_code":"AT",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767997,
+    "gn:latitude":48.1,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Ramsau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835933,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767997
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"43699dde5408094417c7f64f2314fe14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835933,
+            "locality_id":1293294593,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293294593,
+    "wof:lastmodified":1537062325,
+    "wof:name":"Ramsau",
+    "wof:parent_id":1108835933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    48.1,
+    14.75,
+    48.1
+],
+  "geometry": {"coordinates":[14.75,48.1],"type":"Point"}
+}

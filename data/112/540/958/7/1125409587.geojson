@@ -1,0 +1,94 @@
+{
+  "id": 1125409587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7149,47.5383,12.7149,47.5383",
+    "geom:latitude":47.5383,
+    "geom:longitude":12.7149,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1128,
+    "gn:population":1145,
+    "iso:country":"AT",
+    "lbl:latitude":47.5383,
+    "lbl:longitude":12.7149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0442\u0438\u043d-\u041b\u043e\u0444\u0435\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0442\u0438\u043d-\u041b\u043e\u0444\u0435\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0442\u0456\u043d-\u0431\u0430\u0439-\u041b\u043e\u0444\u0435\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u5f17\u9644\u8fd1\u5723\u9a6c\u4e01"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872250,
+    "qs_pg:gn_pop":1128,
+    "qs_pg:name":"Sankt Martin bei Lofer",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155214,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872250,
+        "qs_pg:id":1155214
+    },
+    "wof:country":"AT",
+    "wof:created":1497049889,
+    "wof:geomhash":"3b8ec316e0385beb08d70304f4902062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125409587,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125409587,
+    "wof:lastmodified":1534379145,
+    "wof:name":"Sankt Martin bei Lofer",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:population":1145,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837237
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7149,
+    47.5383,
+    12.7149,
+    47.5383
+],
+  "geometry": {"coordinates":[12.7149,47.5383],"type":"Point"}
+}

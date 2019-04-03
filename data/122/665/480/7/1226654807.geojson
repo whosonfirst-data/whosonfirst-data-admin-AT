@@ -1,0 +1,74 @@
+{
+  "id": 1226654807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,46.81667,14.16667,46.81667",
+    "geom:latitude":46.81667,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20531.0",
+    "gn:asciiname":"Koetschendorf",
+    "gn:country_code":"AT",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773661,
+    "gn:latitude":46.81667,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"K\u00f6tschendorf",
+    "gn:population":69,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838245,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773661
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"33cd10942874c689edf3bc34f8bb8105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838245,
+            "locality_id":1226654807,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226654807,
+    "wof:lastmodified":1536845203,
+    "wof:name":"Koetschendorf",
+    "wof:parent_id":1108838245,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    46.81667,
+    14.16667,
+    46.81667
+],
+  "geometry": {"coordinates":[14.16667,46.81667],"type":"Point"}
+}

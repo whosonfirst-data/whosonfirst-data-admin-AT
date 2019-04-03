@@ -1,0 +1,63 @@
+{
+  "id": 1209207277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46595,47.59737,14.46595,47.59737",
+    "geom:latitude":47.59737,
+    "geom:longitude":14.46595,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61253.0",
+    "gn:asciiname":"Sonnberg",
+    "gn:country_code":"AT",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2598625,
+    "gn:latitude":47.59737,
+    "gn:longitude":14.46595,
+    "gn:modification_date":"2017-10-14",
+    "gn:name":"Sonnberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2598625
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"682908b65888d1edf8f6d89e98100289",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209207277
+        }
+    ],
+    "wof:id":1209207277,
+    "wof:lastmodified":1536294412,
+    "wof:name":"Sonnberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46595,
+    47.59737,
+    14.46595,
+    47.59737
+],
+  "geometry": {"coordinates":[14.46595,47.59737],"type":"Point"}
+}

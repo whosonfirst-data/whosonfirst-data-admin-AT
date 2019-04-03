@@ -1,0 +1,82 @@
+{
+  "id": 1125416983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57508,48.31618,15.57508,48.31618",
+    "geom:latitude":48.31618,
+    "geom:longitude":15.57508,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2531,
+    "gn:population":2572,
+    "iso:country":"AT",
+    "lbl:latitude":48.31618,
+    "lbl:longitude":15.57508,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871898,
+    "qs_pg:gn_pop":2531,
+    "qs_pg:name":"W\u00f6lbling",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":743309,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871898,
+        "qs_pg:id":743309
+    },
+    "wof:country":"AT",
+    "wof:created":1497051518,
+    "wof:geomhash":"e92682a9b01ad29ff82ea45661cc05d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125416983,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125416983,
+    "wof:lastmodified":1534379103,
+    "wof:name":"W\u00f6lbling",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:population":2572,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836609
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57508,
+    48.31618,
+    15.57508,
+    48.31618
+],
+  "geometry": {"coordinates":[15.57508,48.31618],"type":"Point"}
+}

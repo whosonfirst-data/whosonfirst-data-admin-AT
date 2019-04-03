@@ -1,0 +1,74 @@
+{
+  "id": 1276229621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,48.46667,15.03333,48.46667",
+    "geom:latitude":48.46667,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"325",
+    "gn:admin3_code":"32523.0",
+    "gn:asciiname":"Lengau",
+    "gn:country_code":"AT",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772668,
+    "gn:latitude":48.46667,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lengau",
+    "gn:population":21,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835479,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772668
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"96f09e26fb8a0c7897fb1e565ab1a7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835479,
+            "locality_id":1276229621,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276229621,
+    "wof:lastmodified":1536918376,
+    "wof:name":"Lengau",
+    "wof:parent_id":1108835479,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    48.46667,
+    15.03333,
+    48.46667
+],
+  "geometry": {"coordinates":[15.03333,48.46667],"type":"Point"}
+}

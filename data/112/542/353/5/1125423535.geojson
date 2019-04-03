@@ -1,0 +1,82 @@
+{
+  "id": 1125423535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92462,47.70053,15.92462,47.70053",
+    "geom:latitude":47.70053,
+    "geom:longitude":15.92462,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":496,
+    "gn:population":421,
+    "iso:country":"AT",
+    "lbl:latitude":47.70053,
+    "lbl:longitude":15.92462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871868,
+    "qs_pg:gn_pop":496,
+    "qs_pg:name":"Prigglitz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":904290,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871868,
+        "qs_pg:id":904290
+    },
+    "wof:country":"AT",
+    "wof:created":1497052710,
+    "wof:geomhash":"dd300db59a3b959ff7018af26ca4cded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1125423535,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125423535,
+    "wof:lastmodified":1534379177,
+    "wof:name":"Prigglitz",
+    "wof:parent_id":102049791,
+    "wof:placetype":"localadmin",
+    "wof:population":421,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836697
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92462,
+    47.70053,
+    15.92462,
+    47.70053
+],
+  "geometry": {"coordinates":[15.92462,47.70053],"type":"Point"}
+}

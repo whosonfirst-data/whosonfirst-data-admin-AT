@@ -1,0 +1,74 @@
+{
+  "id": 1276228173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93866,48.29039,14.93866,48.29039",
+    "geom:latitude":48.29039,
+    "geom:longitude":14.93866,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"411",
+    "gn:admin3_code":"41125.0",
+    "gn:asciiname":"Ettenberg",
+    "gn:country_code":"AT",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779902,
+    "gn:latitude":48.29039,
+    "gn:longitude":14.93866,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ettenberg",
+    "gn:population":404,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835621,
+        85632785,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779902
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"adfe59007e0c27b118b01ddb4a795741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835621,
+            "locality_id":1276228173,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276228173,
+    "wof:lastmodified":1536920359,
+    "wof:name":"Ettenberg",
+    "wof:parent_id":1108835621,
+    "wof:placetype":"locality",
+    "wof:population":404,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93866,
+    48.29039,
+    14.93866,
+    48.29039
+],
+  "geometry": {"coordinates":[14.93866,48.29039],"type":"Point"}
+}

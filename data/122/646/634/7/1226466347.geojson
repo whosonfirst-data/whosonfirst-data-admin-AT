@@ -1,0 +1,74 @@
+{
+  "id": 1226466347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15382,48.22313,14.15382,48.22313",
+    "geom:latitude":48.22313,
+    "geom:longitude":14.15382,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"410.0",
+    "gn:admin3_code":"41016.0",
+    "gn:asciiname":"Trindorf",
+    "gn:country_code":"AT",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763349,
+    "gn:latitude":48.22313,
+    "gn:longitude":14.15382,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Trindorf",
+    "gn:population":148,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835551,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763349
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cd073f847e132d9efb79aeac0627fdce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835551,
+            "locality_id":1226466347,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226466347,
+    "wof:lastmodified":1536613421,
+    "wof:name":"Trindorf",
+    "wof:parent_id":1108835551,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15382,
+    48.22313,
+    14.15382,
+    48.22313
+],
+  "geometry": {"coordinates":[14.15382,48.22313],"type":"Point"}
+}

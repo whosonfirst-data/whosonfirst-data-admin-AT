@@ -1,0 +1,75 @@
+{
+  "id": 1327226267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81667,46.81667,15.81667,46.81667",
+    "geom:latitude":46.81667,
+    "geom:longitude":15.81667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62388.0",
+    "gn:asciiname":"Troessing",
+    "gn:country_code":"AT",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2763313,
+    "gn:latitude":46.81667,
+    "gn:longitude":15.81667,
+    "gn:modification_date":"2017-06-22",
+    "gn:name":"Tr\u00f6ssing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u00f6ssing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839335,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763313,
+        "wk:page":"Tr%C3%B6ssing"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"448cb47f44633bfbf552689f2653ae10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839335,
+            "locality_id":1327226267,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1327226267,
+    "wof:lastmodified":1537584919,
+    "wof:name":"Troessing",
+    "wof:parent_id":1108839335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81667,
+    46.81667,
+    15.81667,
+    46.81667
+],
+  "geometry": {"coordinates":[15.81667,46.81667],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1125390219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26722,46.89444,15.26722,46.89444",
+    "geom:latitude":46.89444,
+    "geom:longitude":15.26722,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.89444,
+    "lbl:longitude":15.26722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0446"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0446"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u6cf0\u56e0\u8328"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2764706,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stainz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":372,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":223824,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675254,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764706,
+        "gp:id":12675254,
+        "qs_pg:id":223824
+    },
+    "wof:country":"AT",
+    "wof:created":1497048660,
+    "wof:geomhash":"9315d2be022da0775209a9ac51f2af3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125390219,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125390219,
+    "wof:lastmodified":1534379205,
+    "wof:name":"Stainz",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839275
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26722,
+    46.89444,
+    15.26722,
+    46.89444
+],
+  "geometry": {"coordinates":[15.26722,46.89444],"type":"Point"}
+}

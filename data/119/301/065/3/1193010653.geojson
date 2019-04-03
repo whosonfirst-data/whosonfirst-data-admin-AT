@@ -1,0 +1,71 @@
+{
+  "id": 1193010653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00822,47.24274,16.00822,47.24274",
+    "geom:latitude":47.24274,
+    "geom:longitude":16.00822,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"622",
+    "gn:admin3_code":"62205.0",
+    "gn:asciiname":"Noiberg",
+    "gn:country_code":"AT",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048244,
+    "gn:latitude":47.24274,
+    "gn:longitude":16.00822,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Noiberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839093,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048244
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"36f8cf5e7a5584627635e8385f891594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839093,
+            "locality_id":1193010653,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1193010653,
+    "wof:lastmodified":1536383861,
+    "wof:name":"Noiberg",
+    "wof:parent_id":1108839093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00822,
+    47.24274000000001,
+    16.00822,
+    47.24274000000001
+],
+  "geometry": {"coordinates":[16.00822,47.24274000000001],"type":"Point"}
+}

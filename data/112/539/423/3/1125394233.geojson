@@ -1,0 +1,82 @@
+{
+  "id": 1125394233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33626,47.97053,16.33626,47.97053",
+    "geom:latitude":47.97053,
+    "geom:longitude":16.33626,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3671,
+    "gn:population":4443,
+    "iso:country":"AT",
+    "lbl:latitude":47.97053,
+    "lbl:longitude":16.33626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871711,
+    "qs_pg:gn_pop":3671,
+    "qs_pg:name":"Oberwaltersdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1041978,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871711,
+        "qs_pg:id":1041978
+    },
+    "wof:country":"AT",
+    "wof:created":1497048905,
+    "wof:geomhash":"ca2ee38e7cc7695cb03647a8e3a55f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1125394233,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125394233,
+    "wof:lastmodified":1534530984,
+    "wof:name":"Oberwaltersdorf",
+    "wof:parent_id":102049829,
+    "wof:placetype":"localadmin",
+    "wof:population":4443,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836353
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33626,
+    47.97053,
+    16.33626,
+    47.97053
+],
+  "geometry": {"coordinates":[16.33626,47.97053],"type":"Point"}
+}

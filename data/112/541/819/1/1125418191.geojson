@@ -1,0 +1,105 @@
+{
+  "id": 1125418191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0476,47.87335,16.0476,47.87335",
+    "geom:latitude":47.87335,
+    "geom:longitude":16.0476,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2006,
+    "gn:population":2042,
+    "iso:country":"AT",
+    "lbl:latitude":47.87335,
+    "lbl:longitude":16.0476,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0434\u0435\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0434\u0435\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5c14\u5fb7\u683c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871943,
+    "qs_pg:gn_pop":2006,
+    "qs_pg:name":"Waldegg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":42,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1192231,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673712,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871943,
+        "gp:id":12673712,
+        "qs_pg:id":1192231
+    },
+    "wof:country":"AT",
+    "wof:created":1497051728,
+    "wof:geomhash":"ea869f84e0b4aea0d5774b64e3c3f612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1125418191,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125418191,
+    "wof:lastmodified":1534379102,
+    "wof:name":"Waldegg",
+    "wof:parent_id":102049805,
+    "wof:placetype":"localadmin",
+    "wof:population":2042,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834833
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0476,
+    47.87335,
+    16.0476,
+    47.87335
+],
+  "geometry": {"coordinates":[16.0476,47.87335],"type":"Point"}
+}

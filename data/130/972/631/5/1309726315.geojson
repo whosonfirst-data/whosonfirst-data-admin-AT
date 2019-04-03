@@ -1,0 +1,76 @@
+{
+  "id": 1309726315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45,47.13333,16.45,47.13333",
+    "geom:latitude":47.13333,
+    "geom:longitude":16.45,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10426.0",
+    "gn:asciiname":"Maria am Weinberg",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771950,
+    "gn:latitude":47.13333,
+    "gn:longitude":16.45,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Maria am Weinberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maria Weinberg",
+        "Maria am Weinberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838741,
+        85632785,
+        102049729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771950
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2902b37d500eb0d6a7bf34abf243330d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838741,
+            "locality_id":1309726315,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1309726315,
+    "wof:lastmodified":1537584954,
+    "wof:name":"Maria am Weinberg",
+    "wof:parent_id":1108838741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45,
+    47.13333,
+    16.45,
+    47.13333
+],
+  "geometry": {"coordinates":[16.45,47.13333],"type":"Point"}
+}

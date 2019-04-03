@@ -1,0 +1,71 @@
+{
+  "id": 1343659699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23333,46.75,15.23333,46.75",
+    "geom:latitude":46.75,
+    "geom:longitude":15.23333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60351.0",
+    "gn:asciiname":"Kerschbaum",
+    "gn:country_code":"AT",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774521,
+    "gn:latitude":46.75,
+    "gn:longitude":15.23333,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Kerschbaum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839271,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774521
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"43c18b0f06c4aa444c083eb65e11a20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839271,
+            "locality_id":1343659699,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343659699,
+    "wof:lastmodified":1536956222,
+    "wof:name":"Kerschbaum",
+    "wof:parent_id":1108839271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23333,
+    46.75,
+    15.23333,
+    46.75
+],
+  "geometry": {"coordinates":[15.23333,46.75],"type":"Point"}
+}

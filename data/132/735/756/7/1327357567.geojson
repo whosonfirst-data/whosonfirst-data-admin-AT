@@ -1,0 +1,71 @@
+{
+  "id": 1327357567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62083,48.54167,13.62083,48.54167",
+    "geom:latitude":48.54167,
+    "geom:longitude":13.62083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41409.0",
+    "gn:asciiname":"Seebach",
+    "gn:country_code":"AT",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319313,
+    "gn:latitude":48.54167,
+    "gn:longitude":13.62083,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Seebach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836041,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319313
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1e3600964bc18f1fbde505913f75d498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836041,
+            "locality_id":1327357567,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327357567,
+    "wof:lastmodified":1536789357,
+    "wof:name":"Seebach",
+    "wof:parent_id":1108836041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62083,
+    48.54167,
+    13.62083,
+    48.54167
+],
+  "geometry": {"coordinates":[13.62083,48.54167],"type":"Point"}
+}

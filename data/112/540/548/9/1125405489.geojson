@@ -1,0 +1,88 @@
+{
+  "id": 1125405489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30443,47.03442,15.30443,47.03442",
+    "geom:latitude":47.03442,
+    "geom:longitude":15.30443,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3678,
+    "gn:population":7121,
+    "iso:country":"AT",
+    "lbl:latitude":47.03442,
+    "lbl:longitude":15.30443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0442\u0446\u0435\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5c91\u591a\u592b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872333,
+    "qs_pg:gn_pop":3678,
+    "qs_pg:name":"Hitzendorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155231,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872333,
+        "qs_pg:id":1155231
+    },
+    "wof:country":"AT",
+    "wof:created":1497049614,
+    "wof:geomhash":"7d4bb3e5e467272dddae5e1d6f86bb56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125405489,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125405489,
+    "wof:lastmodified":1534531051,
+    "wof:name":"Hitzendorf",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":7121,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839187
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30443,
+    47.03442,
+    15.30443,
+    47.03442
+],
+  "geometry": {"coordinates":[15.30443,47.03442],"type":"Point"}
+}

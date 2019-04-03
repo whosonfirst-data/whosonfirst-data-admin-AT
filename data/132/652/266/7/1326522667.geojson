@@ -1,0 +1,74 @@
+{
+  "id": 1326522667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99197,47.23568,15.99197,47.23568",
+    "geom:latitude":47.23568,
+    "geom:longitude":15.99197,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"622",
+    "gn:admin3_code":"62205.0",
+    "gn:asciiname":"Oberbuch",
+    "gn:country_code":"AT",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770310,
+    "gn:latitude":47.23568,
+    "gn:longitude":15.99197,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberbuch",
+    "gn:population":139,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839093,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770310
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4d0749c1cde0de46d044e539a791084e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839093,
+            "locality_id":1326522667,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1326522667,
+    "wof:lastmodified":1536997105,
+    "wof:name":"Oberbuch",
+    "wof:parent_id":1108839093,
+    "wof:placetype":"locality",
+    "wof:population":139,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99197,
+    47.23568,
+    15.99197,
+    47.23568
+],
+  "geometry": {"coordinates":[15.99197,47.23568],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326852755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49333,47.27389,14.49333,47.27389",
+    "geom:latitude":47.27389,
+    "geom:longitude":14.49333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"620.0",
+    "gn:admin3_code":"62044.0",
+    "gn:asciiname":"Falting",
+    "gn:country_code":"AT",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2602121,
+    "gn:latitude":47.27389,
+    "gn:longitude":14.49333,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Falting",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838953,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2602121
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"799a433c7e5ac985961dbe84bd81b91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108838953,
+            "locality_id":1326852755,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1326852755,
+    "wof:lastmodified":1537018449,
+    "wof:name":"Falting",
+    "wof:parent_id":1108838953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49333,
+    47.27389,
+    14.49333,
+    47.27389
+],
+  "geometry": {"coordinates":[14.49333,47.27389],"type":"Point"}
+}

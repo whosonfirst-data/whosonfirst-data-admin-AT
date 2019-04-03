@@ -1,0 +1,66 @@
+{
+  "id": 1209612625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60701,47.70806,14.60701,47.70806",
+    "geom:latitude":47.70806,
+    "geom:longitude":14.60701,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61264.0",
+    "gn:asciiname":"Breitau",
+    "gn:country_code":"AT",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593137,
+    "gn:latitude":47.70806,
+    "gn:longitude":14.60701,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Breitau",
+    "gn:population":30,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593137
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"23703971474e72d1ec0da6ed43fc624a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209612625
+        }
+    ],
+    "wof:id":1209612625,
+    "wof:lastmodified":1536281797,
+    "wof:name":"Breitau",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60701,
+    47.70806,
+    14.60701,
+    47.70806
+],
+  "geometry": {"coordinates":[14.60701,47.70806],"type":"Point"}
+}

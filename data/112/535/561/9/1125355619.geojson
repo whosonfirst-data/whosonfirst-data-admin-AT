@@ -1,0 +1,82 @@
+{
+  "id": 1125355619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88619,48.14016,15.88619,48.14016",
+    "geom:latitude":48.14016,
+    "geom:longitude":15.88619,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1422,
+    "gn:population":1534,
+    "iso:country":"AT",
+    "lbl:latitude":48.14016,
+    "lbl:longitude":15.88619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871890,
+    "qs_pg:gn_pop":1422,
+    "qs_pg:name":"Neustift-Innermanzing",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743305,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871890,
+        "qs_pg:id":743305
+    },
+    "wof:country":"AT",
+    "wof:created":1497046455,
+    "wof:geomhash":"c43dae98a06a791f902de5b5dcf31544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125355619,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125355619,
+    "wof:lastmodified":1536698181,
+    "wof:name":"Neustift-Innermanzing",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:population":1534,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834849
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88619,
+    48.14016,
+    15.88619,
+    48.14016
+],
+  "geometry": {"coordinates":[15.88619,48.14016],"type":"Point"}
+}

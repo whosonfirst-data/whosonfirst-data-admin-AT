@@ -1,0 +1,74 @@
+{
+  "id": 1260080927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.15304,48.24651,13.15304,48.24651",
+    "geom:latitude":48.24651,
+    "geom:longitude":13.15304,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40446.0",
+    "gn:asciiname":"Riedlham",
+    "gn:country_code":"AT",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767460,
+    "gn:latitude":48.24651,
+    "gn:longitude":13.15304,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Riedlham",
+    "gn:population":30,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834809,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767460
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"73d3413c4a3c52e3fbfa51cae82d9def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834809,
+            "locality_id":1260080927,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1260080927,
+    "wof:lastmodified":1536990891,
+    "wof:name":"Riedlham",
+    "wof:parent_id":1108834809,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.15304,
+    48.24651,
+    13.15304,
+    48.24651
+],
+  "geometry": {"coordinates":[13.15304,48.24651],"type":"Point"}
+}

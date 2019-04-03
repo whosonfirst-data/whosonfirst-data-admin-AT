@@ -1,0 +1,82 @@
+{
+  "id": 1125381165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29627,46.76311,15.29627,46.76311",
+    "geom:latitude":46.76311,
+    "geom:longitude":15.29627,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1935,
+    "gn:population":3049,
+    "iso:country":"AT",
+    "lbl:latitude":46.76311,
+    "lbl:longitude":15.29627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872272,
+    "qs_pg:gn_pop":1935,
+    "qs_pg:name":"Sankt Martin im Sulmtal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":381021,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872272,
+        "qs_pg:id":381021
+    },
+    "wof:country":"AT",
+    "wof:created":1497048056,
+    "wof:geomhash":"f8d418d9fe891de8a73ea1b1cd9fabec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125381165,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125381165,
+    "wof:lastmodified":1536698215,
+    "wof:name":"Sankt Martin im Sulmtal",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:population":3049,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839283
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29627,
+    46.76311,
+    15.29627,
+    46.76311
+],
+  "geometry": {"coordinates":[15.29627,46.76311],"type":"Point"}
+}

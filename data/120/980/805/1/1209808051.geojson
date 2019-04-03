@@ -1,0 +1,71 @@
+{
+  "id": 1209808051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66667,47.28333,15.66667,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":15.66667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61756.0",
+    "gn:asciiname":"Edelschachen",
+    "gn:country_code":"AT",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780453,
+    "gn:latitude":47.28333,
+    "gn:longitude":15.66667,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Edelschachen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838851,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780453
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"55a0afde791b529a93ac5576706b36ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838851,
+            "locality_id":1209808051,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1209808051,
+    "wof:lastmodified":1536387706,
+    "wof:name":"Edelschachen",
+    "wof:parent_id":1108838851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66667,
+    47.28333,
+    15.66667,
+    47.28333
+],
+  "geometry": {"coordinates":[15.66667,47.28333],"type":"Point"}
+}

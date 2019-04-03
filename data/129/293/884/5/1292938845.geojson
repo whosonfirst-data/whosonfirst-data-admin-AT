@@ -1,0 +1,74 @@
+{
+  "id": 1292938845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08021,48.05347,13.08021,48.05347",
+    "geom:latitude":48.05347,
+    "geom:longitude":13.08021,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40417.0",
+    "gn:asciiname":"Alterding",
+    "gn:country_code":"AT",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610170,
+    "gn:latitude":48.05347,
+    "gn:longitude":13.08021,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Alterding",
+    "gn:population":10,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834743,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610170
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e2db143765291e3243399714ee952998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834743,
+            "locality_id":1292938845,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1292938845,
+    "wof:lastmodified":1537077964,
+    "wof:name":"Alterding",
+    "wof:parent_id":1108834743,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08021,
+    48.05347,
+    13.08021,
+    48.05347
+],
+  "geometry": {"coordinates":[13.08021,48.05347],"type":"Point"}
+}

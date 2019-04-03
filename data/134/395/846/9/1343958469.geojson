@@ -1,0 +1,74 @@
+{
+  "id": 1343958469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53292,47.99052,13.53292,47.99052",
+    "geom:latitude":47.99052,
+    "geom:longitude":13.53292,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41711.0",
+    "gn:asciiname":"Egning",
+    "gn:country_code":"AT",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609600,
+    "gn:latitude":47.99052,
+    "gn:longitude":13.53292,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Egning",
+    "gn:population":59,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836443,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609600
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1fb38d4d949ac627a5dbe93a892697d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836443,
+            "locality_id":1343958469,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343958469,
+    "wof:lastmodified":1537021908,
+    "wof:name":"Egning",
+    "wof:parent_id":1108836443,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53292,
+    47.99052,
+    13.53292,
+    47.99052
+],
+  "geometry": {"coordinates":[13.53292,47.99052],"type":"Point"}
+}

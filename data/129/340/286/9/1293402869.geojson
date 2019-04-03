@@ -1,0 +1,74 @@
+{
+  "id": 1293402869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07632,46.73383,14.07632,46.73383",
+    "geom:latitude":46.73383,
+    "geom:longitude":14.07632,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Metzing",
+    "gn:country_code":"AT",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591933,
+    "gn:latitude":46.73383,
+    "gn:longitude":14.07632,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Metzing",
+    "gn:population":185,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591933
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"321d2d68528415f90545787f9b304935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":1293402869,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293402869,
+    "wof:lastmodified":1536909244,
+    "wof:name":"Metzing",
+    "wof:parent_id":1108838123,
+    "wof:placetype":"locality",
+    "wof:population":185,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07632,
+    46.73383,
+    14.07632,
+    46.73383
+],
+  "geometry": {"coordinates":[14.07632,46.73383],"type":"Point"}
+}

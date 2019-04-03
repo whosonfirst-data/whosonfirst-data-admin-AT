@@ -1,0 +1,75 @@
+{
+  "id": 1327027711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58472,46.745,15.58472,46.745",
+    "geom:latitude":46.745,
+    "geom:longitude":15.58472,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"610.0",
+    "gn:admin3_code":"61058.0",
+    "gn:asciiname":"Obervogau",
+    "gn:country_code":"AT",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2769633,
+    "gn:latitude":46.745,
+    "gn:longitude":15.58472,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Obervogau",
+    "gn:population":871,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839025,
+        85632785,
+        102049699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769633,
+        "wk:page":"Obervogau"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f17ed7f01882571a4fafa3b0b97a75f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839025,
+            "locality_id":1327027711,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1327027711,
+    "wof:lastmodified":1537486373,
+    "wof:name":"Obervogau",
+    "wof:parent_id":1108839025,
+    "wof:placetype":"locality",
+    "wof:population":871,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58472,
+    46.745,
+    15.58472,
+    46.745
+],
+  "geometry": {"coordinates":[15.58472,46.745],"type":"Point"}
+}

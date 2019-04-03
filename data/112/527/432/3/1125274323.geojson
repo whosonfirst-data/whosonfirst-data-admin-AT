@@ -1,0 +1,82 @@
+{
+  "id": 1125274323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4815,48.41619,16.4815,48.41619",
+    "geom:latitude":48.41619,
+    "geom:longitude":16.4815,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2488,
+    "gn:population":2617,
+    "iso:country":"AT",
+    "lbl:latitude":48.41619,
+    "lbl:longitude":16.4815,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872970,
+    "qs_pg:gn_pop":2488,
+    "qs_pg:name":"Ulrichskirchen-Schleinbach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108767,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872970,
+        "qs_pg:id":108767
+    },
+    "wof:country":"AT",
+    "wof:created":1497042253,
+    "wof:geomhash":"83c4121147ceea289d5b7865e871e3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1125274323,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125274323,
+    "wof:lastmodified":1534379096,
+    "wof:name":"Ulrichskirchen-Schleinbach",
+    "wof:parent_id":102049897,
+    "wof:placetype":"localadmin",
+    "wof:population":2617,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125275897
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4815,
+    48.41619,
+    16.4815,
+    48.41619
+],
+  "geometry": {"coordinates":[16.4815,48.41619],"type":"Point"}
+}

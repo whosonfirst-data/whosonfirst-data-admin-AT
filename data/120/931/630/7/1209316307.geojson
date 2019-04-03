@@ -1,0 +1,66 @@
+{
+  "id": 1209316307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3664,48.07653,15.3664,48.07653",
+    "geom:latitude":48.07653,
+    "geom:longitude":15.3664,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31514.0",
+    "gn:asciiname":"Hummelbach",
+    "gn:country_code":"AT",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611125,
+    "gn:latitude":48.07653,
+    "gn:longitude":15.3664,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hummelbach",
+    "gn:population":8,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611125
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"162929493a270c8d286b8ca5fa95db15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209316307
+        }
+    ],
+    "wof:id":1209316307,
+    "wof:lastmodified":1536290852,
+    "wof:name":"Hummelbach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3664,
+    48.07653,
+    15.3664,
+    48.07653
+],
+  "geometry": {"coordinates":[15.3664,48.07653],"type":"Point"}
+}

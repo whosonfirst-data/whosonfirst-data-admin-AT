@@ -1,0 +1,74 @@
+{
+  "id": 1309812491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4,46.83333,13.4,46.83333",
+    "geom:latitude":46.83333,
+    "geom:longitude":13.4,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20643.0",
+    "gn:asciiname":"Pusarnitz",
+    "gn:country_code":"AT",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768220,
+    "gn:latitude":46.83333,
+    "gn:longitude":13.4,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pusarnitz",
+    "gn:population":527,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838317,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768220
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"31059ac6b300de9289c9bb28e8c7a3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838317,
+            "locality_id":1309812491,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1309812491,
+    "wof:lastmodified":1536921980,
+    "wof:name":"Pusarnitz",
+    "wof:parent_id":1108838317,
+    "wof:placetype":"locality",
+    "wof:population":527,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4,
+    46.83333,
+    13.4,
+    46.83333
+],
+  "geometry": {"coordinates":[13.4,46.83333],"type":"Point"}
+}

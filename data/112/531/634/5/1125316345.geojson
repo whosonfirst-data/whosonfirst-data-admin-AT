@@ -1,0 +1,101 @@
+{
+  "id": 1125316345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11667,48.48333,16.11667,48.48333",
+    "geom:latitude":48.48333,
+    "geom:longitude":16.11667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.48333,
+    "lbl:longitude":16.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0413\u0451\u043b\u043b\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0451\u043b\u043b\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u52d2\u5c14\u65af\u591a\u592b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2778368,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"G\u00f6llersdorf",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":98,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905495,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673806,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778368,
+        "gp:id":12673806,
+        "qs_pg:id":905495
+    },
+    "wof:country":"AT",
+    "wof:created":1497044297,
+    "wof:geomhash":"19579dfe16cb1fff57ee7a63014e1196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1125316345,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125316345,
+    "wof:lastmodified":1534379162,
+    "wof:name":"G\u00f6llersdorf",
+    "wof:parent_id":102049899,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836839
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11667,
+    48.48333,
+    16.11667,
+    48.48333
+],
+  "geometry": {"coordinates":[16.11667,48.48333],"type":"Point"}
+}

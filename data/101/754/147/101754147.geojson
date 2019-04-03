@@ -1,0 +1,119 @@
+{
+  "id": 101754147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1135925.786843,
+    "geom:bbox":"15.39482674,46.9518738794,15.4081436084,46.9701479975",
+    "geom:latitude":46.961312,
+    "geom:longitude":15.401745,
+    "iso:country":"AT",
+    "lbl:latitude":46.964204,
+    "lbl:longitude":15.400534,
+    "mps:latitude":46.964204,
+    "mps:longitude":15.400534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Unterpremst\u00e4tten"
+    ],
+    "name:deu_x_preferred":[
+        "Unterpremst\u00e4tten"
+    ],
+    "name:fra_x_preferred":[
+        "Unterpremst\u00e4tten"
+    ],
+    "name:ita_x_preferred":[
+        "Unterpremst\u00e4tten"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0423\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u043c\u0441\u0442\u0435\u0442\u0442\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Unterpremst\u00e4tten"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u043c\u0448\u0442\u0435\u0442\u0442\u0435\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u043c\u0441\u0442\u0435\u0442\u0442\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Unterpremst\u00e4tten"
+    ],
+    "name:swe_x_preferred":[
+        "Unterpremst\u00e4tten"
+    ],
+    "name:unk_x_variant":[
+        "Premst\u00e4tten"
+    ],
+    "name:uzb_x_preferred":[
+        "Unterpremst\u00e4tten"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Steiermark",
+    "qs:a1r":"0",
+    "qs:a2":"Graz-Umgebung",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Stattegg",
+    "qs:la_lc":"*AT60646",
+    "qs:level":"locality",
+    "qs:loc":"Unterpremst\u00e4tten",
+    "qs:loc_alt":"Unterpremstaetten",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839145,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762714,
+        "gp:id":550184,
+        "qs:id":902501,
+        "qs_pg:id":1079034,
+        "wd:id":"Q690041",
+        "wk:page":"Unterpremst\u00e4tten"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"612e53cde0cea293702fbe6ce26230aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839145,
+            "locality_id":101754147,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":101754147,
+    "wof:lastmodified":1527641870,
+    "wof:name":"Unterpremst\u00e4tten",
+    "wof:parent_id":1108839145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39482674003227,
+    46.95187387943622,
+    15.40814360839761,
+    46.9701479975202
+],
+  "geometry": {"coordinates":[[[15.40687641374831,46.96943087724384],[15.40644801239233,46.96527190942601],[15.40382785522979,46.96540304642082],[15.40327360952375,46.96001761097779],[15.40458355644625,46.95995205816467],[15.40449117415955,46.95905448495495],[15.40580109593378,46.95898891757389],[15.4056162991497,46.95719377208582],[15.40692617359326,46.95712819142989],[15.40683375909765,46.95623061915154],[15.40814360839761,46.95616502392949],[15.40795874720584,46.95436988030389],[15.4066489422695,46.95443547294082],[15.40655653993554,46.9535378990085],[15.40524675422029,46.95360347449486],[15.40515437811956,46.95270589871888],[15.40384461162375,46.95277145705558],[15.40375226175343,46.95187387943622],[15.39851325490588,46.95213594903959],[15.39925145746594,46.95931659587882],[15.39794152089712,46.95938208395938],[15.39821834709608,46.96207482130734],[15.39690834100384,46.96214029739946],[15.39718513706867,46.96483303366398],[15.39482674003227,46.96495083885361],[15.39618116593772,46.96747910054393],[15.40137849162863,46.9701479975202],[15.40687641374831,46.96943087724384]]],"type":"Polygon"}
+}

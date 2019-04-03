@@ -1,0 +1,83 @@
+{
+  "id": 1260303241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6,47.45,16.6,47.45",
+    "geom:latitude":47.45,
+    "geom:longitude":16.6,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"108",
+    "gn:admin3_code":"10803.0",
+    "gn:asciiname":"Frankenau",
+    "gn:country_code":"AT",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779383,
+    "gn:latitude":47.45,
+    "gn:longitude":16.6,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Frankenau",
+    "gn:population":415,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Frankenau"
+    ],
+    "name:hrv_x_preferred":[
+        "Frakanava"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e9pcesarud"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838539,
+        85632785,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779383
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"352180b9d706e9c75f08ec697bd7a37e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838539,
+            "locality_id":1260303241,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1260303241,
+    "wof:lastmodified":1537584975,
+    "wof:name":"Frankenau",
+    "wof:parent_id":1108838539,
+    "wof:placetype":"locality",
+    "wof:population":415,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6,
+    47.45,
+    16.6,
+    47.45
+],
+  "geometry": {"coordinates":[16.6,47.45],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125395591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77081,48.25233,15.77081,48.25233",
+    "geom:latitude":48.25233,
+    "geom:longitude":15.77081,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1340,
+    "gn:population":1385,
+    "iso:country":"AT",
+    "lbl:latitude":48.25233,
+    "lbl:longitude":15.77081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871883,
+    "qs_pg:gn_pop":1340,
+    "qs_pg:name":"Kapelln",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1048598,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871883,
+        "qs_pg:id":1048598
+    },
+    "wof:country":"AT",
+    "wof:created":1497048994,
+    "wof:geomhash":"c43ddfba72eb9f9ac1e3550f83074930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125395591,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125395591,
+    "wof:lastmodified":1534531037,
+    "wof:name":"Kapelln",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:population":1385,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836201
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77081,
+    48.25233,
+    15.77081,
+    48.25233
+],
+  "geometry": {"coordinates":[15.77081,48.25233],"type":"Point"}
+}

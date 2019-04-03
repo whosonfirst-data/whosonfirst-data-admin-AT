@@ -1,0 +1,71 @@
+{
+  "id": 1310216845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61667,48.16667,14.61667,48.16667",
+    "geom:latitude":48.16667,
+    "geom:longitude":14.61667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30534.0",
+    "gn:asciiname":"Berg",
+    "gn:country_code":"AT",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781896,
+    "gn:latitude":48.16667,
+    "gn:longitude":14.61667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Berg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836251,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781896
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e4bf438dbd51cb9cae3f106b49efbbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836251,
+            "locality_id":1310216845,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310216845,
+    "wof:lastmodified":1536834820,
+    "wof:name":"Berg",
+    "wof:parent_id":1108836251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61667,
+    48.16667,
+    14.61667,
+    48.16667
+],
+  "geometry": {"coordinates":[14.61667,48.16667],"type":"Point"}
+}

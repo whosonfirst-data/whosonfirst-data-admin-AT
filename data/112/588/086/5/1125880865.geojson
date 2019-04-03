@@ -1,0 +1,93 @@
+{
+  "id": 1125880865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31667,47.28333,13.31667,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":13.31667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.28333,
+    "lbl:longitude":13.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Nieder Viehhof"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2762393,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Viehhofen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos":110,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":110,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1329313,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":547953,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837019,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762393,
+        "gp:id":547953,
+        "qs_pg:id":1329313
+    },
+    "wof:country":"AT",
+    "wof:created":1497294799,
+    "wof:geomhash":"1a10f5163347212051e365db71deb6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837019,
+            "locality_id":1125880865,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125880865,
+    "wof:lastmodified":1509398126,
+    "wof:name":"Viehhofen",
+    "wof:parent_id":1108837019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31667,
+    47.28333,
+    13.31667,
+    47.28333
+],
+  "geometry": {"coordinates":[13.31667,47.28333],"type":"Point"}
+}

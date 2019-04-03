@@ -1,0 +1,77 @@
+{
+  "id": 1209812981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90994,47.34193,15.90994,47.34193",
+    "geom:latitude":47.34193,
+    "geom:longitude":15.90994,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"622",
+    "gn:admin3_code":"62268.0",
+    "gn:asciiname":"Pongrazen bei Hartberg",
+    "gn:country_code":"AT",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":11395936,
+    "gn:latitude":47.34193,
+    "gn:longitude":15.90994,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pongrazen bei Hartberg",
+    "gn:population":177,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pongratzen"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839431,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11395936
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fcb22b278e4b6b592cdb8cace784b1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839431,
+            "locality_id":1209812981,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1209812981,
+    "wof:lastmodified":1537584989,
+    "wof:name":"Pongrazen bei Hartberg",
+    "wof:parent_id":1108839431,
+    "wof:placetype":"locality",
+    "wof:population":177,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90994,
+    47.34193,
+    15.90994,
+    47.34193
+],
+  "geometry": {"coordinates":[15.90994,47.34193],"type":"Point"}
+}

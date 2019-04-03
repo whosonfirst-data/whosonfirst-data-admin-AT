@@ -1,0 +1,74 @@
+{
+  "id": 1226540939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85144,48.70167,13.85144,48.70167",
+    "geom:latitude":48.70167,
+    "geom:longitude":13.85144,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41315.0",
+    "gn:asciiname":"Vorderanger",
+    "gn:country_code":"AT",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762288,
+    "gn:latitude":48.70167,
+    "gn:longitude":13.85144,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Vorderanger",
+    "gn:population":117,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835961,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762288
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4a7a663ac8d94b0ba816e736e5bd9e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835961,
+            "locality_id":1226540939,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226540939,
+    "wof:lastmodified":1537004229,
+    "wof:name":"Vorderanger",
+    "wof:parent_id":1108835961,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85144,
+    48.70167,
+    13.85144,
+    48.70167
+],
+  "geometry": {"coordinates":[13.85144,48.70167],"type":"Point"}
+}

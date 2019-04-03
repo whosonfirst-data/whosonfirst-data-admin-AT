@@ -1,0 +1,71 @@
+{
+  "id": 1226463887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.28333,46.91667,12.28333,46.91667",
+    "geom:latitude":46.91667,
+    "geom:longitude":12.28333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"707.0",
+    "gn:admin3_code":"70724.0",
+    "gn:asciiname":"Poetsch",
+    "gn:country_code":"AT",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768482,
+    "gn:latitude":46.91667,
+    "gn:longitude":12.28333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"P\u00f6tsch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837527,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768482
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c459b39414a508bd4a0c461ccc59ab6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837527,
+            "locality_id":1226463887,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1226463887,
+    "wof:lastmodified":1536617173,
+    "wof:name":"Poetsch",
+    "wof:parent_id":1108837527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.28333,
+    46.91667,
+    12.28333,
+    46.91667
+],
+  "geometry": {"coordinates":[12.28333,46.91667],"type":"Point"}
+}

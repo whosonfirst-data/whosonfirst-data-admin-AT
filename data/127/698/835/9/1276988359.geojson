@@ -1,0 +1,79 @@
+{
+  "id": 1276988359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,47.91667,15.25,47.91667",
+    "geom:latitude":47.91667,
+    "geom:longitude":15.25,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"320.0",
+    "gn:admin3_code":"32007.0",
+    "gn:asciiname":"Sulzbichl",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764009,
+    "gn:latitude":47.91667,
+    "gn:longitude":15.25,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sulzbichl",
+    "gn:population":15,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am Sulzbichl",
+        "Sulzbichl"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835007,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764009
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"83e3009ed4bfb5f89f23746bb37bdf4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835007,
+            "locality_id":1276988359,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276988359,
+    "wof:lastmodified":1537584922,
+    "wof:name":"Sulzbichl",
+    "wof:parent_id":1108835007,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    47.91667,
+    15.25,
+    47.91667
+],
+  "geometry": {"coordinates":[15.25,47.91667],"type":"Point"}
+}

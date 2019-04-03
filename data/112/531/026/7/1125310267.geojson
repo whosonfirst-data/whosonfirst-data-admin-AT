@@ -1,0 +1,98 @@
+{
+  "id": 1125310267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10155,47.50529,14.10155,47.50529",
+    "geom:latitude":47.50529,
+    "geom:longitude":14.10155,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.50529,
+    "lbl:longitude":14.10155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0418\u0440\u0434\u043d\u0438\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5c14\u5fb7\u5b81"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2775197,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Irdning",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":119,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1195674,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674843,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775197,
+        "gp:id":12674843,
+        "qs_pg:id":1195674
+    },
+    "wof:country":"AT",
+    "wof:created":1497043938,
+    "wof:geomhash":"b0db0ca1625534da39f5ec9a1e873e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125310267,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125310267,
+    "wof:lastmodified":1534379098,
+    "wof:name":"Irdning",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125409843
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10155,
+    47.50529,
+    14.10155,
+    47.50529
+],
+  "geometry": {"coordinates":[14.10155,47.50529],"type":"Point"}
+}

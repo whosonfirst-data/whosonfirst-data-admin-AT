@@ -1,0 +1,82 @@
+{
+  "id": 1125356935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.30095,48.64197,16.30095,48.64197",
+    "geom:latitude":48.64197,
+    "geom:longitude":16.30095,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1669,
+    "gn:population":1599,
+    "iso:country":"AT",
+    "lbl:latitude":48.64197,
+    "lbl:longitude":16.30095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872969,
+    "qs_pg:gn_pop":1669,
+    "qs_pg:name":"Stronsdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155393,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872969,
+        "qs_pg:id":1155393
+    },
+    "wof:country":"AT",
+    "wof:created":1497046532,
+    "wof:geomhash":"4bcb098aab1c1a5e59639aba684bf563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1125356935,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125356935,
+    "wof:lastmodified":1534530983,
+    "wof:name":"Stronsdorf",
+    "wof:parent_id":102049897,
+    "wof:placetype":"localadmin",
+    "wof:population":1599,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836247
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30095,
+    48.64197,
+    16.30095,
+    48.64197
+],
+  "geometry": {"coordinates":[16.30095,48.64197],"type":"Point"}
+}

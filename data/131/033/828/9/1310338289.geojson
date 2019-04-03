@@ -1,0 +1,74 @@
+{
+  "id": 1310338289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77917,48.53167,13.77917,48.53167",
+    "geom:latitude":48.53167,
+    "geom:longitude":13.77917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41327.0",
+    "gn:asciiname":"Konzing",
+    "gn:country_code":"AT",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319401,
+    "gn:latitude":48.53167,
+    "gn:longitude":13.77917,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Konzing",
+    "gn:population":23,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835987,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319401
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"32d8fa7cad5682c6918bd958583d8feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835987,
+            "locality_id":1310338289,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310338289,
+    "wof:lastmodified":1536660758,
+    "wof:name":"Konzing",
+    "wof:parent_id":1108835987,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77917,
+    48.53167,
+    13.77917,
+    48.53167
+],
+  "geometry": {"coordinates":[13.77917,48.53167],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276456577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,46.7,14.11667,46.7",
+    "geom:latitude":46.7,
+    "geom:longitude":14.11667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Sittich",
+    "gn:country_code":"AT",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764987,
+    "gn:latitude":46.7,
+    "gn:longitude":14.11667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sittich",
+    "gn:population":102,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764987
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f79de7d2446ae04b64d7bc2c4c2eb77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":1276456577,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1276456577,
+    "wof:lastmodified":1536610932,
+    "wof:name":"Sittich",
+    "wof:parent_id":1108838123,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    46.7,
+    14.11667,
+    46.7
+],
+  "geometry": {"coordinates":[14.11667,46.7],"type":"Point"}
+}

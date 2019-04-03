@@ -1,0 +1,107 @@
+{
+  "id": 1125373299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53667,46.75167,14.53667,46.75167",
+    "geom:latitude":46.75167,
+    "geom:longitude":14.53667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.75167,
+    "lbl:longitude":14.53667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u044e\u043a\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044e\u043a\u043b\u044c"
+    ],
+    "name:slv_x_preferred":[
+        "Mosti\u010d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u044e\u043a\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5415\u514b\u5c14"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2781364,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Br\u00fcckl",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989353,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673598,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781364,
+        "gp:id":12673598,
+        "qs_pg:id":989353
+    },
+    "wof:country":"AT",
+    "wof:created":1497047559,
+    "wof:geomhash":"a4e6dc0cc7396f165b32c25815b2f8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1125373299,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125373299,
+    "wof:lastmodified":1536698209,
+    "wof:name":"Br\u00fcckl",
+    "wof:parent_id":102049697,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838203
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53667,
+    46.75167,
+    14.53667,
+    46.75167
+],
+  "geometry": {"coordinates":[14.53667,46.75167],"type":"Point"}
+}

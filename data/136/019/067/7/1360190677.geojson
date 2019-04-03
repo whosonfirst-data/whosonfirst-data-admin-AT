@@ -1,0 +1,71 @@
+{
+  "id": 1360190677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.99202,48.08017,12.99202,48.08017",
+    "geom:latitude":48.08017,
+    "geom:longitude":12.99202,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40406.0",
+    "gn:asciiname":"Mannsberg",
+    "gn:country_code":"AT",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612111,
+    "gn:latitude":48.08017,
+    "gn:longitude":12.99202,
+    "gn:modification_date":"2017-07-28",
+    "gn:name":"Mannsberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834719,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612111
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4866ab1508d7d0e19d696d0a4a2fa29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834719,
+            "locality_id":1360190677,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1360190677,
+    "wof:lastmodified":1536793580,
+    "wof:name":"Mannsberg",
+    "wof:parent_id":1108834719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.99202,
+    48.08017,
+    12.99202,
+    48.08017
+],
+  "geometry": {"coordinates":[12.99202,48.08017],"type":"Point"}
+}

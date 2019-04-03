@@ -1,0 +1,71 @@
+{
+  "id": 1276477763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70287,47.98366,13.70287,47.98366",
+    "geom:latitude":47.98366,
+    "geom:longitude":13.70287,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41731.0",
+    "gn:asciiname":"Dietlsiedlung",
+    "gn:country_code":"AT",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609346,
+    "gn:latitude":47.98366,
+    "gn:longitude":13.70287,
+    "gn:modification_date":"2017-07-12",
+    "gn:name":"Dietlsiedlung",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836487,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609346
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2df06b2caca5825b6cad8004b508d257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836487,
+            "locality_id":1276477763,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276477763,
+    "wof:lastmodified":1537079312,
+    "wof:name":"Dietlsiedlung",
+    "wof:parent_id":1108836487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70287,
+    47.98366,
+    13.70287,
+    47.98366
+],
+  "geometry": {"coordinates":[13.70287,47.98366],"type":"Point"}
+}

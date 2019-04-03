@@ -1,0 +1,74 @@
+{
+  "id": 1277003247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.85,46.83333,12.85,46.83333",
+    "geom:latitude":46.83333,
+    "geom:longitude":12.85,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"707.0",
+    "gn:admin3_code":"70711.0",
+    "gn:asciiname":"Stronach",
+    "gn:country_code":"AT",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764112,
+    "gn:latitude":46.83333,
+    "gn:longitude":12.85,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stronach",
+    "gn:population":147,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837501,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764112
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1d03321662ae5553a647565ea82baa47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837501,
+            "locality_id":1277003247,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1277003247,
+    "wof:lastmodified":1536874931,
+    "wof:name":"Stronach",
+    "wof:parent_id":1108837501,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.85,
+    46.83333,
+    12.85,
+    46.83333
+],
+  "geometry": {"coordinates":[12.85,46.83333],"type":"Point"}
+}

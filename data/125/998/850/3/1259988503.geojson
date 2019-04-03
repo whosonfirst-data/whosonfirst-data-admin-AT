@@ -1,0 +1,74 @@
+{
+  "id": 1259988503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86667,47.01667,12.86667,47.01667",
+    "geom:latitude":47.01667,
+    "geom:longitude":12.86667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20610.0",
+    "gn:asciiname":"Rojach",
+    "gn:country_code":"AT",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767244,
+    "gn:latitude":47.01667,
+    "gn:longitude":12.86667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rojach",
+    "gn:population":136,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838267,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767244
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b1c0b452a8a682213e7305db7fb96632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838267,
+            "locality_id":1259988503,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259988503,
+    "wof:lastmodified":1536625979,
+    "wof:name":"Rojach",
+    "wof:parent_id":1108838267,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86667,
+    47.01667,
+    12.86667,
+    47.01667
+],
+  "geometry": {"coordinates":[12.86667,47.01667],"type":"Point"}
+}

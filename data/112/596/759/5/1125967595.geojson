@@ -1,0 +1,115 @@
+{
+  "id": 1125967595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26917,46.59194,14.26917,46.59194",
+    "geom:latitude":46.59194,
+    "geom:longitude":14.26917,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.59194,
+    "lbl:longitude":14.26917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Viktring"
+    ],
+    "name:eng_x_preferred":[
+        "Viktring"
+    ],
+    "name:fre_x_preferred":[
+        "Viktring"
+    ],
+    "name:ger_x_preferred":[
+        "Viktring"
+    ],
+    "name:hrv_x_preferred":[
+        "Vetrinj"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043a\u0442\u0440\u0438\u043d\u0433"
+    ],
+    "name:slv_x_preferred":[
+        "Vetrinj"
+    ],
+    "name:uzb_x_preferred":[
+        "Viktring"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2762375,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Viktring",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":4815,
+    "qs_pg:photos_1k":976,
+    "qs_pg:photos_9k":21,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4815,
+    "qs_pg:photos_sr":23,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":411402,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":540858,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838143,
+        85632785,
+        102049679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762375,
+        "gp:id":540858,
+        "qs_pg:id":411402,
+        "wd:id":"Q694633"
+    },
+    "wof:country":"AT",
+    "wof:created":1497298034,
+    "wof:geomhash":"e2856c7370fa09cd2667c9787758a0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":1125967595,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125967595,
+    "wof:lastmodified":1513890130,
+    "wof:name":"Viktring",
+    "wof:parent_id":1108838143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26917,
+    46.59194,
+    14.26917,
+    46.59194
+],
+  "geometry": {"coordinates":[14.26917,46.59194],"type":"Point"}
+}

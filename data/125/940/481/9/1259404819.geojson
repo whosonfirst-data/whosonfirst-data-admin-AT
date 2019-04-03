@@ -1,0 +1,71 @@
+{
+  "id": 1259404819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,47.03333,15.86667,47.03333",
+    "geom:latitude":47.03333,
+    "geom:longitude":15.86667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61716.0",
+    "gn:asciiname":"Ungerberg",
+    "gn:country_code":"AT",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763158,
+    "gn:latitude":47.03333,
+    "gn:longitude":15.86667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Ungerberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838873,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763158
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1083d344e35dcb84abe4e783ab859ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838873,
+            "locality_id":1259404819,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259404819,
+    "wof:lastmodified":1536971392,
+    "wof:name":"Ungerberg",
+    "wof:parent_id":1108838873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    47.03333,
+    15.86667,
+    47.03333
+],
+  "geometry": {"coordinates":[15.86667,47.03333],"type":"Point"}
+}

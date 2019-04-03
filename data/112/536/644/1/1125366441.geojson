@@ -1,0 +1,105 @@
+{
+  "id": 1125366441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.355,46.82917,13.355,46.82917",
+    "geom:latitude":46.82917,
+    "geom:longitude":13.355,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.82917,
+    "lbl:longitude":13.355,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u043a\u0441\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043a\u0441\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Sochsenburg"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0686\u0633\u0646\u0628\u0631\u06af"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u8d6b\u68ee\u5821"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2766905,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sachsenburg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":312110,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":23388461,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766905,
+        "gp:id":23388461,
+        "qs_pg:id":312110
+    },
+    "wof:country":"AT",
+    "wof:created":1497047107,
+    "wof:geomhash":"3c304ae51cec2c2141d330352675e30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1125366441,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125366441,
+    "wof:lastmodified":1536698197,
+    "wof:name":"Sachsenburg",
+    "wof:parent_id":102049701,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838297
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.355,
+    46.82917,
+    13.355,
+    46.82917
+],
+  "geometry": {"coordinates":[13.355,46.82917],"type":"Point"}
+}

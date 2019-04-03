@@ -1,0 +1,101 @@
+{
+  "id": 1125411019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12098,48.1587,16.12098,48.1587",
+    "geom:latitude":48.1587,
+    "geom:longitude":16.12098,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.1587,
+    "lbl:longitude":16.12098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0412\u043e\u043b\u044c\u0444\u0441\u0433\u0440\u0430\u0431\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u044c\u0444\u0441\u0433\u0440\u0430\u0431\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u5c14\u592b\u65af\u683c\u62c9\u672c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2760902,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Wolfsgraben",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":233478,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673909,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760902,
+        "gp:id":12673909,
+        "qs_pg:id":233478
+    },
+    "wof:country":"AT",
+    "wof:created":1497050162,
+    "wof:geomhash":"abd48f66303e7aed91b37f31b0f53174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1125411019,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125411019,
+    "wof:lastmodified":1534531059,
+    "wof:name":"Wolfsgraben",
+    "wof:parent_id":102049867,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836753
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12098,
+    48.1587,
+    16.12098,
+    48.1587
+],
+  "geometry": {"coordinates":[16.12098,48.1587],"type":"Point"}
+}

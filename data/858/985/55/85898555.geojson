@@ -1,0 +1,111 @@
+{
+  "id": 85898555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11641468.653872,
+    "geom:bbox":"15.095634,47.382364,15.095634,47.382364",
+    "geom:latitude":47.382364,
+    "geom:longitude":15.095634,
+    "iso:country":"AT",
+    "lbl:latitude":47.382364,
+    "lbl:longitude":15.095634,
+    "mps:latitude":47.388901,
+    "mps:longitude":15.099975,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Nennersdorf"
+    ],
+    "name:unk_x_variant":[
+        "Nennersdorf"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7872425,
+    "qs:gn_nam_loc":"Leoben, Leoben, Steiermark, AT",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Nennersdorf",
+    "qs:local_max":615,
+    "qs:local_sum":925,
+    "qs:localhoods":6,
+    "qs:name":"Nennersdorf",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Steiermark",
+    "qs:name_adm2":"Leoben",
+    "qs:name_lau":"Leoben",
+    "qs:name_local":"Leoben",
+    "qs:photo_max":93,
+    "qs:photo_sum":615,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":50,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344713,
+    "qs:woe_adm2":12591737,
+    "qs:woe_lau":12674968,
+    "qs:woe_local":12674968,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839009,
+        85632785,
+        101834299,
+        102049769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770887,
+        "gp:id":549253,
+        "qs:id":1082909,
+        "qs_pg:id":1082909
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"31a157f315fd77d4a6505a1bd188616a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":101834299,
+            "neighbourhood_id":85898555,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":85898555,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932083,
+    "wof:name":"Nennersdorf",
+    "wof:parent_id":101834299,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.095634,
+    47.382364,
+    15.095634,
+    47.382364
+],
+  "geometry": {"coordinates":[15.095634,47.382364],"type":"Point"}
+}

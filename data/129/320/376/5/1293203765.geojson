@@ -1,0 +1,71 @@
+{
+  "id": 1293203765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53333,46.8,13.53333,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":13.53333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20634.0",
+    "gn:asciiname":"Krieselsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773440,
+    "gn:latitude":46.8,
+    "gn:longitude":13.53333,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Krieselsdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838299,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773440
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b9f55534d3e3105117b783f10af59387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838299,
+            "locality_id":1293203765,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293203765,
+    "wof:lastmodified":1536699351,
+    "wof:name":"Krieselsdorf",
+    "wof:parent_id":1108838299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53333,
+    46.8,
+    13.53333,
+    46.8
+],
+  "geometry": {"coordinates":[13.53333,46.8],"type":"Point"}
+}

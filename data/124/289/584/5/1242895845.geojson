@@ -1,0 +1,79 @@
+{
+  "id": 1242895845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71667,46.7,15.71667,46.7",
+    "geom:latitude":46.7,
+    "geom:longitude":15.71667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62347.0",
+    "gn:asciiname":"Weitersfeld an der Mur",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761542,
+    "gn:latitude":46.7,
+    "gn:longitude":15.71667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Weitersfeld an der Mur",
+    "gn:population":543,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weitersfeld",
+        "Weitersfeld an der Mur"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839341,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761542
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e0965b4f8b9240c32306d8b4868a31b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839341,
+            "locality_id":1242895845,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1242895845,
+    "wof:lastmodified":1537584914,
+    "wof:name":"Weitersfeld an der Mur",
+    "wof:parent_id":1108839341,
+    "wof:placetype":"locality",
+    "wof:population":543,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71667,
+    46.7,
+    15.71667,
+    46.7
+],
+  "geometry": {"coordinates":[15.71667,46.7],"type":"Point"}
+}

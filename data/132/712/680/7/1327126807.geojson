@@ -1,0 +1,71 @@
+{
+  "id": 1327126807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56765,47.01132,15.56765,47.01132",
+    "geom:latitude":47.01132,
+    "geom:longitude":15.56765,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606",
+    "gn:admin3_code":"60653.0",
+    "gn:asciiname":"Kuhlenbrunn",
+    "gn:country_code":"AT",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3334883,
+    "gn:latitude":47.01132,
+    "gn:longitude":15.56765,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"K\u00fchlenbrunn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839143,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3334883
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e1353bc05967f89dc614440f069245ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839143,
+            "locality_id":1327126807,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1327126807,
+    "wof:lastmodified":1536622150,
+    "wof:name":"Kuhlenbrunn",
+    "wof:parent_id":1108839143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56765,
+    47.01132,
+    15.56765,
+    47.01132
+],
+  "geometry": {"coordinates":[15.56765,47.01132],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209407379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5248,47.11369,15.5248,47.11369",
+    "geom:latitude":47.11369,
+    "geom:longitude":15.5248,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606",
+    "gn:admin3_code":"60623.0",
+    "gn:asciiname":"Schaftal",
+    "gn:country_code":"AT",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593857,
+    "gn:latitude":47.11369,
+    "gn:longitude":15.5248,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schaftal",
+    "gn:population":456,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593857
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d8b90638d8733008888cc261c563b9dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209407379
+        }
+    ],
+    "wof:id":1209407379,
+    "wof:lastmodified":1536287951,
+    "wof:name":"Schaftal",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":456,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5248,
+    47.11369000000001,
+    15.5248,
+    47.11369000000001
+],
+  "geometry": {"coordinates":[15.5248,47.11369000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259391685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75528,46.58423,14.75528,46.58423",
+    "geom:latitude":46.58423,
+    "geom:longitude":14.75528,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20805.0",
+    "gn:asciiname":"Hinterlibitsch",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214042,
+    "gn:latitude":46.58423,
+    "gn:longitude":14.75528,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hinterlibitsch",
+    "gn:population":50,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suha"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838375,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214042
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"582eff5916c426b554f881cf85dba72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838375,
+            "locality_id":1259391685,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259391685,
+    "wof:lastmodified":1537584987,
+    "wof:name":"Hinterlibitsch",
+    "wof:parent_id":1108838375,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75528,
+    46.58423,
+    14.75528,
+    46.58423
+],
+  "geometry": {"coordinates":[14.75528,46.58423],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310304097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.18333,47.93333,13.18333,47.93333",
+    "geom:latitude":47.93333,
+    "geom:longitude":13.18333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50320.0",
+    "gn:asciiname":"Weng",
+    "gn:country_code":"AT",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761506,
+    "gn:latitude":47.93333,
+    "gn:longitude":13.18333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Weng",
+    "gn:population":180,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837153,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761506
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a1d1cf2a9315ff509f3bd02087e402e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837153,
+            "locality_id":1310304097,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1310304097,
+    "wof:lastmodified":1536710258,
+    "wof:name":"Weng",
+    "wof:parent_id":1108837153,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.18333,
+    47.93333,
+    13.18333,
+    47.93333
+],
+  "geometry": {"coordinates":[13.18333,47.93333],"type":"Point"}
+}

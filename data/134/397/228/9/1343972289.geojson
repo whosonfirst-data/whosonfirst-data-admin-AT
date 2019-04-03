@@ -1,0 +1,71 @@
+{
+  "id": 1343972289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23222,46.96194,16.23222,46.96194",
+    "geom:latitude":46.96194,
+    "geom:longitude":16.23222,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"105",
+    "gn:admin3_code":"10506.0",
+    "gn:asciiname":"Langberg",
+    "gn:country_code":"AT",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214728,
+    "gn:latitude":46.96194,
+    "gn:longitude":16.23222,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Langberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838719,
+        85632785,
+        102049715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214728
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"99f8046df3ef74df766c1801523d38d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838719,
+            "locality_id":1343972289,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1343972289,
+    "wof:lastmodified":1537002092,
+    "wof:name":"Langberg",
+    "wof:parent_id":1108838719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23222,
+    46.96194000000001,
+    16.23222,
+    46.96194000000001
+],
+  "geometry": {"coordinates":[16.23222,46.96194000000001],"type":"Point"}
+}

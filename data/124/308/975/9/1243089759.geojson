@@ -1,0 +1,74 @@
+{
+  "id": 1243089759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0219,47.47017,14.0219,47.47017",
+    "geom:latitude":47.47017,
+    "geom:longitude":14.0219,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61262.0",
+    "gn:asciiname":"Moosberg auch Sonnberg",
+    "gn:country_code":"AT",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593142,
+    "gn:latitude":47.47017,
+    "gn:longitude":14.0219,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Moosberg auch Sonnberg",
+    "gn:population":27,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838929,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593142
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3f91c18ce3b02b0ce26b444ea422235a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838929,
+            "locality_id":1243089759,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243089759,
+    "wof:lastmodified":1536821838,
+    "wof:name":"Moosberg auch Sonnberg",
+    "wof:parent_id":1108838929,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0219,
+    47.47017,
+    14.0219,
+    47.47017
+],
+  "geometry": {"coordinates":[14.0219,47.47017],"type":"Point"}
+}

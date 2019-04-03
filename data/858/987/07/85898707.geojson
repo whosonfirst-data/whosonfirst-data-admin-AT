@@ -1,0 +1,117 @@
+{
+  "id": 85898707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":592941.60896,
+    "geom:bbox":"16.3195291372,48.1770755624,16.3311767578,48.1848589237",
+    "geom:latitude":48.180749,
+    "geom:longitude":16.325644,
+    "iso:country":"AT",
+    "lbl:latitude":48.175728,
+    "lbl:longitude":16.327802,
+    "mps:latitude":48.180739,
+    "mps:longitude":16.325644,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Meidling"
+    ],
+    "name:deu_x_variant":[
+        "12. Bezirk-Meidling",
+        "12.bezirk-meidling"
+    ],
+    "name:unk_x_variant":[
+        "Meidling"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2761369,
+    "qs:gn_nam_loc":"Vienna",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Meidling",
+    "qs:local_max":53712,
+    "qs:local_sum":394557,
+    "qs:localhoods":125,
+    "qs:name":"Meidling",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Wien",
+    "qs:name_adm2":"Wien",
+    "qs:name_lau":"Wien 12",
+    "qs:name_local":"Wien",
+    "qs:photo_max":52,
+    "qs:photo_sum":234,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344716,
+    "qs:woe_adm2":12591699,
+    "qs:woe_lau":12675686,
+    "qs:woe_local":551801,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":3297,
+    "wof:belongsto":[
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771706,
+        "gp:id":551771,
+        "qs:id":1333792,
+        "qs_pg:id":1333792,
+        "wd:id":"Q697557"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"581bcec2b634d8fec1b4ee9b7c75668c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898707,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":85898707,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1527641012,
+    "wof:name":"Meidling",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31952913721079,
+    48.17707556237526,
+    16.33117675780005,
+    48.18485892372537
+],
+  "geometry": {"coordinates":[[[16.32843017580001,48.17890709074807],[16.32843017580001,48.17707562157157],[16.32568359380014,48.17707562524622],[16.3246916463126,48.17707562480099],[16.3246916114079,48.17707556237526],[16.32019042970001,48.17707556237526],[16.32019038607274,48.17707562780011],[16.31956111754545,48.17801929843027],[16.31952913721079,48.17825910479881],[16.32019042970001,48.17925085269347],[16.32019042970001,48.18073850729998],[16.32019042970001,48.18256983936278],[16.32293701171915,48.1825698426717],[16.32293701171233,48.18440111565356],[16.32518765303024,48.18440111829189],[16.32568359380014,48.18440111951627],[16.32705688480007,48.18440112272312],[16.32736211807509,48.18485892372537],[16.32843017580001,48.18485892372537],[16.32862088191001,48.18485892372537],[16.32892611482708,48.18440111747016],[16.33117675780005,48.18440111565356],[16.33117675780005,48.18256984189303],[16.33117675780005,48.18073850029306],[16.33117675780005,48.17890709406204],[16.32843017580001,48.17890709074807]]],"type":"Polygon"}
+}

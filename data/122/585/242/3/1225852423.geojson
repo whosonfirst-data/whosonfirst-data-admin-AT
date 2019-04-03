@@ -1,0 +1,78 @@
+{
+  "id": 1225852423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61262,48.14355,16.61262,48.14355",
+    "geom:latitude":48.14355,
+    "geom:longitude":16.61262,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"308.0",
+    "gn:admin3_code":"30821.0",
+    "gn:asciiname":"Schoenau an der Donau",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765736,
+    "gn:latitude":48.14355,
+    "gn:longitude":16.61262,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sch\u00f6nau an der Donau",
+    "gn:population":169,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sch\u00f6nau"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836641,
+        85632785,
+        102049891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765736
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"551f00968ffa82150ea4b8cbd183b526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836641,
+            "locality_id":1225852423,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1225852423,
+    "wof:lastmodified":1537584926,
+    "wof:name":"Schoenau an der Donau",
+    "wof:parent_id":1108836641,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61262,
+    48.14355,
+    16.61262,
+    48.14355
+],
+  "geometry": {"coordinates":[16.61262,48.14355],"type":"Point"}
+}

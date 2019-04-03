@@ -1,0 +1,133 @@
+{
+  "id": 101786781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000175,
+    "geom:area_square_m":1445878.828665,
+    "geom:bbox":"13.0615191007,47.9310877484,13.0938722726,47.9467445183",
+    "geom:latitude":47.937122,
+    "geom:longitude":13.076847,
+    "iso:country":"AT",
+    "lbl:latitude":47.937104,
+    "lbl:longitude":13.075498,
+    "mps:latitude":47.937104,
+    "mps:longitude":13.075498,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Obadrum"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ee8\u6e56\u4e0a\u7279\u9c81\u59c6"
+    ],
+    "name:cze_x_preferred":[
+        "Obertrum am See"
+    ],
+    "name:dut_x_preferred":[
+        "Obertrum"
+    ],
+    "name:eng_x_preferred":[
+        "Obertrum"
+    ],
+    "name:fre_x_preferred":[
+        "Obertrum"
+    ],
+    "name:ger_x_preferred":[
+        "Obertrum am See"
+    ],
+    "name:hun_x_preferred":[
+        "Obertrum"
+    ],
+    "name:ita_x_preferred":[
+        "Obertrum am See"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u0442\u0440\u0443\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Obertrum am See"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u0442\u0440\u0443\u043c-\u0430\u043c-\u0417\u0435\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Obertrum am See"
+    ],
+    "name:spa_x_preferred":[
+        "Obertrum"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u0442\u0440\u0443\u043c-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Obertrum"
+    ],
+    "name:vol_x_preferred":[
+        "Obertrum"
+    ],
+    "name:war_x_preferred":[
+        "Obertrum"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Salzburg",
+    "qs:a1r":"0",
+    "qs:a2":"Salzburg - Umgebung",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Seeham",
+    "qs:la_lc":"*AT50332",
+    "qs:level":"locality",
+    "qs:loc":"Obertrum am See",
+    "qs:loc_alt":"Obertrum am See",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837169,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769648,
+        "gp:id":12674684,
+        "qs:id":904956,
+        "wd:id":"Q701171",
+        "wk:page":"Obertrum"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5828c159e2c7441bc35ea73c3a43c492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837169,
+            "locality_id":101786781,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":101786781,
+    "wof:lastmodified":1513889959,
+    "wof:name":"Obertrum am See",
+    "wof:parent_id":1108837169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06151910072964,
+    47.9310877484246,
+    13.0938722726159,
+    47.9467445183185
+],
+  "geometry": {"coordinates":[[[13.07018820000224,47.94670715976633],[13.0698637503134,47.9413133256005],[13.07253744681742,47.94123856882072],[13.0724833334105,47.94033959652802],[13.07783061112019,47.94018989088852],[13.07777640624744,47.93929092122147],[13.08446034583415,47.93910342713934],[13.08451466807134,47.94000239299857],[13.0938722726159,47.93973921305781],[13.09376330197574,47.93794129161375],[13.08841629790334,47.93809177159511],[13.08830752479406,47.93629384237857],[13.08697081623421,47.93633142020104],[13.08680774526846,47.93363452097333],[13.08547110531913,47.93367208024938],[13.08541677667193,47.93277311224693],[13.08408015839848,47.9328106545039],[13.08402585565216,47.93191168532371],[13.08135266066824,47.93198671954366],[13.08129840728441,47.9310877484246],[13.07862525207946,47.93116271609614],[13.07878787874483,47.93385963277399],[13.07210460752805,47.93404677886696],[13.07205051353776,47.93314780325619],[13.07071387741229,47.93318518294348],[13.07065980931418,47.93228620615872],[13.06798657865158,47.93236091524489],[13.06820267786048,47.9359568259631],[13.06151910072964,47.93614332933066],[13.06162693016927,47.93794128977629],[13.0656372226066,47.93782943198744],[13.0656912113713,47.93872840931704],[13.06836477771583,47.93865375464702],[13.06852689938904,47.94135067959991],[13.06719004668423,47.94138801733936],[13.06735211974802,47.94408494083791],[13.06868904288433,47.9440476008233],[13.06885120820601,47.9467445183185],[13.07018820000224,47.94670715976633]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243194485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65,47.18333,14.65,47.18333",
+    "geom:latitude":47.18333,
+    "geom:longitude":14.65,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"620.0",
+    "gn:admin3_code":"62040.0",
+    "gn:asciiname":"Waltersdorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761930,
+    "gn:latitude":47.18333,
+    "gn:longitude":14.65,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Waltersdorf",
+    "gn:population":131,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waltersdorf bei Judenburg",
+        "Waltersdorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839401,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761930
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f98041f2244034b8577ce3704eba81f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108839401,
+            "locality_id":1243194485,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243194485,
+    "wof:lastmodified":1537584915,
+    "wof:name":"Waltersdorf",
+    "wof:parent_id":1108839401,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65,
+    47.18333,
+    14.65,
+    47.18333
+],
+  "geometry": {"coordinates":[14.65,47.18333],"type":"Point"}
+}

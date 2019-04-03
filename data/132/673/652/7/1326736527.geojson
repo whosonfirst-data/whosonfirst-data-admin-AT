@@ -1,0 +1,74 @@
+{
+  "id": 1326736527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7693,48.42071,13.7693,48.42071",
+    "geom:latitude":48.42071,
+    "geom:longitude":13.7693,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40817.0",
+    "gn:asciiname":"Obergermating",
+    "gn:country_code":"AT",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770129,
+    "gn:latitude":48.42071,
+    "gn:longitude":13.7693,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Obergermating",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835203,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770129
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6d36e9f05e89505e484591c591f80560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835203,
+            "locality_id":1326736527,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1326736527,
+    "wof:lastmodified":1536689587,
+    "wof:name":"Obergermating",
+    "wof:parent_id":1108835203,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7693,
+    48.42071,
+    13.7693,
+    48.42071
+],
+  "geometry": {"coordinates":[13.7693,48.42071],"type":"Point"}
+}

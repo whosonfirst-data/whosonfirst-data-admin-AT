@@ -1,0 +1,77 @@
+{
+  "id": 1259585285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10664,47.7811,16.10664,47.7811",
+    "geom:latitude":47.7811,
+    "geom:longitude":16.10664,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"318.0",
+    "gn:admin3_code":"31831.0",
+    "gn:asciiname":"St. Egyden am Steinfeld",
+    "gn:country_code":"AT",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766733,
+    "gn:latitude":47.7811,
+    "gn:longitude":16.10664,
+    "gn:modification_date":"2018-08-01",
+    "gn:name":"St. Egyden am Steinfeld",
+    "gn:population":217,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Egyden"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835809,
+        85632785,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766733
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f1f7be812499011d94ed0ecf3471a5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835809,
+            "locality_id":1259585285,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259585285,
+    "wof:lastmodified":1537584935,
+    "wof:name":"St. Egyden am Steinfeld",
+    "wof:parent_id":1108835809,
+    "wof:placetype":"locality",
+    "wof:population":217,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10664,
+    47.7811,
+    16.10664,
+    47.7811
+],
+  "geometry": {"coordinates":[16.10664,47.7811],"type":"Point"}
+}

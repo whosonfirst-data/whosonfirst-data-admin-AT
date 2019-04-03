@@ -1,0 +1,74 @@
+{
+  "id": 1343254371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86499,47.45592,15.86499,47.45592",
+    "geom:latitude":47.45592,
+    "geom:longitude":15.86499,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"622",
+    "gn:admin3_code":"62279.0",
+    "gn:asciiname":"Schmiedviertel",
+    "gn:country_code":"AT",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593480,
+    "gn:latitude":47.45592,
+    "gn:longitude":15.86499,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schmiedviertel",
+    "gn:population":285,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839113,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593480
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b9baf750f35fd3c62ba662acb79a15cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839113,
+            "locality_id":1343254371,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343254371,
+    "wof:lastmodified":1537041960,
+    "wof:name":"Schmiedviertel",
+    "wof:parent_id":1108839113,
+    "wof:placetype":"locality",
+    "wof:population":285,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86499,
+    47.45592,
+    15.86499,
+    47.45592
+],
+  "geometry": {"coordinates":[15.86499,47.45592],"type":"Point"}
+}

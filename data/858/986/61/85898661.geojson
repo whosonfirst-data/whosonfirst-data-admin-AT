@@ -1,0 +1,123 @@
+{
+  "id": 85898661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":272160.998012,
+    "geom:bbox":"16.3284301758,48.1972182184,16.3352966309,48.204540837",
+    "geom:latitude":48.200991,
+    "geom:longitude":16.331439,
+    "iso:country":"AT",
+    "lbl:latitude":48.192271,
+    "lbl:longitude":16.332702,
+    "mps:latitude":48.20101,
+    "mps:longitude":16.331505,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:deu_x_colloquial":[
+        "15. Bezirk-Rudolfsheim-Funfhaus",
+        "15.bezirk-rudolfsheim-faoenfhaus",
+        "Fuenfhaus",
+        "Funfhaus",
+        "Rudolfsheim-Fuenfhaus",
+        "Rudolfsheim-Funfhaus"
+    ],
+    "name:deu_x_preferred":[
+        "F\u00fcnfhaus"
+    ],
+    "name:deu_x_variant":[
+        "15. Bezirk-Rudolfsheim-F\u00fcnfhaus",
+        "Rudolfsheim-F\u00fcnfhaus"
+    ],
+    "name:unk_x_variant":[
+        "F\u00fcnfhaus"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2761369,
+    "qs:gn_nam_loc":"Vienna",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"F\u00fcnfhaus",
+    "qs:local_max":53712,
+    "qs:local_sum":394557,
+    "qs:localhoods":125,
+    "qs:name":"F\u00fcnfhaus",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Wien",
+    "qs:name_adm2":"Wien",
+    "qs:name_lau":"Wien 15",
+    "qs:name_local":"Wien",
+    "qs:photo_max":1353,
+    "qs:photo_sum":3244,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344716,
+    "qs:woe_adm2":12591699,
+    "qs:woe_lau":12675690,
+    "qs:woe_local":551801,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779139,
+        "gp:id":551745,
+        "qs:id":1082913,
+        "qs_pg:id":1082913
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a8c7c17742ddc358f1f0f4d1272175ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898661,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":85898661,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1497313660,
+    "wof:name":"F\u00fcnfhaus",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32843017580001,
+    48.1972182184128,
+    16.33529663090007,
+    48.20454083703767
+],
+  "geometry": {"coordinates":[[[16.33117675780005,48.19721822036216],[16.32843017580001,48.1972182184128],[16.32843017580001,48.19904897121263],[16.32843017580001,48.20087965853766],[16.32843017580001,48.20271028051265],[16.33068092781161,48.20271028105851],[16.33117675780005,48.20345422179214],[16.33117675780005,48.20454083613076],[16.33392333981391,48.20454083703767],[16.33392333981459,48.20382619843674],[16.33429521608161,48.2032682347383],[16.33529663087512,48.20276739555716],[16.33529663088558,48.20271028870006],[16.33529663088967,48.20216695133713],[16.33529663090007,48.20179498590001],[16.33460998538555,48.20179498590001],[16.33460998538533,48.20133732839993],[16.33460998537527,48.20117990921388],[16.3345814273809,48.20110849782519],[16.33442890791645,48.20087966670012],[16.33403089513854,48.2002825120215],[16.33401388007911,48.20027157145599],[16.33392333981459,48.20013573260862],[16.33392333981459,48.19979289200062],[16.33392333980004,48.19904897940005],[16.33342748805637,48.19904897175842],[16.33117675780005,48.19904897030288],[16.33117675780005,48.19721822036216]]],"type":"Polygon"}
+}

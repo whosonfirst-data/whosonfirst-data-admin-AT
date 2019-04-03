@@ -1,0 +1,82 @@
+{
+  "id": 1125394349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88062,48.69504,13.88062,48.69504",
+    "geom:latitude":48.69504,
+    "geom:longitude":13.88062,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1316,
+    "gn:population":1338,
+    "iso:country":"AT",
+    "lbl:latitude":48.69504,
+    "lbl:longitude":13.88062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872108,
+    "qs_pg:gn_pop":1316,
+    "qs_pg:name":"Klaffer am Hochficht",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1042063,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872108,
+        "qs_pg:id":1042063
+    },
+    "wof:country":"AT",
+    "wof:created":1497048913,
+    "wof:geomhash":"d61cce82448c77c73a9b90548ef2c498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125394349,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125394349,
+    "wof:lastmodified":1534379112,
+    "wof:name":"Klaffer am Hochficht",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":1338,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835961
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88062,
+    48.69504,
+    13.88062,
+    48.69504
+],
+  "geometry": {"coordinates":[13.88062,48.69504],"type":"Point"}
+}

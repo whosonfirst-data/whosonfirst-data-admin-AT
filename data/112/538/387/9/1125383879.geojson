@@ -1,0 +1,102 @@
+{
+  "id": 1125383879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01667,47.46667,14.01667,47.46667",
+    "geom:latitude":47.46667,
+    "geom:longitude":14.01667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "gn:population":570,
+    "iso:country":"AT",
+    "lbl:latitude":47.46667,
+    "lbl:longitude":14.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2770543,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nieder\u00f6blarn",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1014686,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675103,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770543,
+        "gp:id":12675103,
+        "qs_pg:id":1014686
+    },
+    "wof:concordances_alt":{
+        "gn:id":7872443,
+        "qs_pg:id":381038
+    },
+    "wof:country":"AT",
+    "wof:created":1497048234,
+    "wof:geomhash":"3342f85f7106e6bd239e11a13a3c9c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125383879,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125383879,
+    "wof:lastmodified":1536698219,
+    "wof:name":"Nieder\u00f6blarn",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":570,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838929
+    ],
+    "wof:supersedes":[
+        1125375139
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01667,
+    47.46667,
+    14.01667,
+    47.46667
+],
+  "geometry": {"coordinates":[14.01667,47.46667],"type":"Point"}
+}

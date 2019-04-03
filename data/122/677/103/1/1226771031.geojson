@@ -1,0 +1,74 @@
+{
+  "id": 1226771031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.45,47.0,12.45,47.0",
+    "geom:latitude":47.0,
+    "geom:longitude":12.45,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70734.0",
+    "gn:asciiname":"Niedermauern",
+    "gn:country_code":"AT",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3334235,
+    "gn:latitude":47.0,
+    "gn:longitude":12.45,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Niedermauern",
+    "gn:population":212,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837797,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3334235
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"50f46fe0a9832444e2ad714e5db43fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837797,
+            "locality_id":1226771031,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1226771031,
+    "wof:lastmodified":1536679169,
+    "wof:name":"Niedermauern",
+    "wof:parent_id":1108837797,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.45,
+    47.0,
+    12.45,
+    47.0
+],
+  "geometry": {"coordinates":[12.45,47.0],"type":"Point"}
+}

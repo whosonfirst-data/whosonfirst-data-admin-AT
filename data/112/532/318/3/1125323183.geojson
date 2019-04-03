@@ -1,0 +1,86 @@
+{
+  "id": 1125323183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.516716,48.242738,14.516716,48.242738",
+    "geom:latitude":48.242738,
+    "geom:longitude":14.516716,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":48.242738,
+    "lbl:longitude":14.516716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mauthausen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":64,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":838,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1249908,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674277,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674277,
+        "qs_pg:id":1249908
+    },
+    "wof:country":"AT",
+    "wof:created":1497044638,
+    "wof:geomhash":"255ffe83b27b2eb3a296ef563c954a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1125323183,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125323183,
+    "wof:lastmodified":1534530979,
+    "wof:name":"Mauthausen",
+    "wof:parent_id":102049865,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835589
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.516716,
+    48.242738,
+    14.516716,
+    48.242738
+],
+  "geometry": {"coordinates":[14.516716,48.242738],"type":"Point"}
+}

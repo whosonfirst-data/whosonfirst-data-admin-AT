@@ -1,0 +1,77 @@
+{
+  "id": 1343466379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33333,48.61667,16.33333,48.61667",
+    "geom:latitude":48.61667,
+    "geom:longitude":16.33333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"316.0",
+    "gn:admin3_code":"31613.0",
+    "gn:asciiname":"Roehrabrunn",
+    "gn:country_code":"AT",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767306,
+    "gn:latitude":48.61667,
+    "gn:longitude":16.33333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"R\u00f6hrabrunn",
+    "gn:population":135,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f6hrabrunn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836359,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767306
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c67123846566c2df0cf1a2ef79724016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836359,
+            "locality_id":1343466379,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343466379,
+    "wof:lastmodified":1537584938,
+    "wof:name":"Roehrabrunn",
+    "wof:parent_id":1108836359,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33333,
+    48.61667,
+    16.33333,
+    48.61667
+],
+  "geometry": {"coordinates":[16.33333,48.61667],"type":"Point"}
+}

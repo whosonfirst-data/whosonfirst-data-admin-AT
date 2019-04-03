@@ -1,0 +1,82 @@
+{
+  "id": 1125272555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50446,46.5471,14.50446,46.5471",
+    "geom:latitude":46.5471,
+    "geom:longitude":14.50446,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1747,
+    "gn:population":1761,
+    "iso:country":"AT",
+    "lbl:latitude":46.5471,
+    "lbl:longitude":14.50446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871674,
+    "qs_pg:gn_pop":1747,
+    "qs_pg:name":"Gallizien",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108320,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871674,
+        "qs_pg:id":108320
+    },
+    "wof:country":"AT",
+    "wof:created":1497042185,
+    "wof:geomhash":"e49ebe7bf680db75602455145a052430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1125272555,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125272555,
+    "wof:lastmodified":1534379209,
+    "wof:name":"Gallizien",
+    "wof:parent_id":102049685,
+    "wof:placetype":"localadmin",
+    "wof:population":1761,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838377
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50446,
+    46.5471,
+    14.50446,
+    46.5471
+],
+  "geometry": {"coordinates":[14.50446,46.5471],"type":"Point"}
+}

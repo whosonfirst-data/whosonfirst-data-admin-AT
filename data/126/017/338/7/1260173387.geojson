@@ -1,0 +1,74 @@
+{
+  "id": 1260173387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.20118,47.57994,12.20118,47.57994",
+    "geom:latitude":47.57994,
+    "geom:longitude":12.20118,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"705",
+    "gn:admin3_code":"70513.0",
+    "gn:asciiname":"Kufstein-Stadtberg",
+    "gn:country_code":"AT",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592335,
+    "gn:latitude":47.57994,
+    "gn:longitude":12.20118,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kufstein-Stadtberg",
+    "gn:population":19,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837401,
+        85632785,
+        102049771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592335
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"127279b183106195e5ece7decac825e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837401,
+            "locality_id":1260173387,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1260173387,
+    "wof:lastmodified":1536860441,
+    "wof:name":"Kufstein-Stadtberg",
+    "wof:parent_id":1108837401,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.20118,
+    47.57994,
+    12.20118,
+    47.57994
+],
+  "geometry": {"coordinates":[12.20118,47.57994],"type":"Point"}
+}

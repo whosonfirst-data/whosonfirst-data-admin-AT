@@ -1,0 +1,74 @@
+{
+  "id": 1343464835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7451,47.97039,13.7451,47.97039",
+    "geom:latitude":47.97039,
+    "geom:longitude":13.7451,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"407",
+    "gn:admin3_code":"40713.0",
+    "gn:asciiname":"Aurachkirchen",
+    "gn:country_code":"AT",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782161,
+    "gn:latitude":47.97039,
+    "gn:longitude":13.7451,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Aurachkirchen",
+    "gn:population":119,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835149,
+        85632785,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782161
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9040ebc104a0cb1deb4d45043d313891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835149,
+            "locality_id":1343464835,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343464835,
+    "wof:lastmodified":1536739648,
+    "wof:name":"Aurachkirchen",
+    "wof:parent_id":1108835149,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7451,
+    47.97039,
+    13.7451,
+    47.97039
+],
+  "geometry": {"coordinates":[13.7451,47.97039],"type":"Point"}
+}

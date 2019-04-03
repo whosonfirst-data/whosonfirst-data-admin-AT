@@ -1,0 +1,71 @@
+{
+  "id": 1260174251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,46.78333,15.25,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":15.25,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60349.0",
+    "gn:asciiname":"Riemerberg",
+    "gn:country_code":"AT",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767432,
+    "gn:latitude":46.78333,
+    "gn:longitude":15.25,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Riemerberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839277,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767432
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"14ef791386f7b9a61d1f55b5526d7a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839277,
+            "locality_id":1260174251,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1260174251,
+    "wof:lastmodified":1536859299,
+    "wof:name":"Riemerberg",
+    "wof:parent_id":1108839277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    46.78333,
+    15.25,
+    46.78333
+],
+  "geometry": {"coordinates":[15.25,46.78333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243477113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2,47.26667,13.2,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":13.2,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50411.0",
+    "gn:asciiname":"Schied",
+    "gn:country_code":"AT",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766020,
+    "gn:latitude":47.26667,
+    "gn:longitude":13.2,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Schied",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837011,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766020
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b857249556ba556a7e8f21b1976075e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837011,
+            "locality_id":1243477113,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1243477113,
+    "wof:lastmodified":1536761563,
+    "wof:name":"Schied",
+    "wof:parent_id":1108837011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2,
+    47.26667,
+    13.2,
+    47.26667
+],
+  "geometry": {"coordinates":[13.2,47.26667],"type":"Point"}
+}

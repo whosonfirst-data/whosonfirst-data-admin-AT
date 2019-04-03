@@ -1,0 +1,78 @@
+{
+  "id": 1276334745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24429,48.18921,14.24429,48.18921",
+    "geom:latitude":48.18921,
+    "geom:longitude":14.24429,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"410",
+    "gn:admin3_code":"41002.0",
+    "gn:asciiname":"Berg an der Krems",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781891,
+    "gn:latitude":48.18921,
+    "gn:longitude":14.24429,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Berg an der Krems",
+    "gn:population":151,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835519,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781891
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"504aabb0f4adc7f8f6e0be221c39fdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835519,
+            "locality_id":1276334745,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276334745,
+    "wof:lastmodified":1537584982,
+    "wof:name":"Berg an der Krems",
+    "wof:parent_id":1108835519,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24429,
+    48.18921,
+    14.24429,
+    48.18921
+],
+  "geometry": {"coordinates":[14.24429,48.18921],"type":"Point"}
+}

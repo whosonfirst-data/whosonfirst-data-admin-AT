@@ -1,0 +1,71 @@
+{
+  "id": 1309911995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56667,48.01667,13.56667,48.01667",
+    "geom:latitude":48.01667,
+    "geom:longitude":13.56667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41711.0",
+    "gn:asciiname":"Jochling",
+    "gn:country_code":"AT",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775058,
+    "gn:latitude":48.01667,
+    "gn:longitude":13.56667,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Jochling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836443,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775058
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2c8585564398d6d6d4037a33578008de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836443,
+            "locality_id":1309911995,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1309911995,
+    "wof:lastmodified":1536778474,
+    "wof:name":"Jochling",
+    "wof:parent_id":1108836443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56667,
+    48.01667,
+    13.56667,
+    48.01667
+],
+  "geometry": {"coordinates":[13.56667,48.01667],"type":"Point"}
+}

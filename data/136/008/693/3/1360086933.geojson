@@ -1,0 +1,74 @@
+{
+  "id": 1360086933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53333,48.83333,15.53333,48.83333",
+    "geom:latitude":48.83333,
+    "geom:longitude":15.53333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"322",
+    "gn:admin3_code":"32216.0",
+    "gn:asciiname":"Kollmitzdoerfl",
+    "gn:country_code":"AT",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773784,
+    "gn:latitude":48.83333,
+    "gn:longitude":15.53333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kollmitzd\u00f6rfl",
+    "gn:population":62,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836649,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773784
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6604a6b74dbae3ea276fcc8d0a56df66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836649,
+            "locality_id":1360086933,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1360086933,
+    "wof:lastmodified":1536943525,
+    "wof:name":"Kollmitzdoerfl",
+    "wof:parent_id":1108836649,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53333,
+    48.83333,
+    15.53333,
+    48.83333
+],
+  "geometry": {"coordinates":[15.53333,48.83333],"type":"Point"}
+}

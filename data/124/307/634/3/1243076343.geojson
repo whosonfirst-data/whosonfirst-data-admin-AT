@@ -1,0 +1,79 @@
+{
+  "id": 1243076343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69722,46.67833,13.69722,46.67833",
+    "geom:latitude":46.67833,
+    "geom:longitude":13.69722,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"207",
+    "gn:admin3_code":"20726.0",
+    "gn:asciiname":"Lansach",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772959,
+    "gn:latitude":46.67833,
+    "gn:longitude":13.69722,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lansach",
+    "gn:population":209,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lansoch",
+        "Lansach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838361,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772959
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6249efaec0a77cb04a0115a5e95f3c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838361,
+            "locality_id":1243076343,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1243076343,
+    "wof:lastmodified":1537584957,
+    "wof:name":"Lansach",
+    "wof:parent_id":1108838361,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69722,
+    46.67833,
+    13.69722,
+    46.67833
+],
+  "geometry": {"coordinates":[13.69722,46.67833],"type":"Point"}
+}

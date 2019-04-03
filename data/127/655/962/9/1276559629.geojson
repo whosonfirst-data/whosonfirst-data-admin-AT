@@ -1,0 +1,74 @@
+{
+  "id": 1276559629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35,48.61667,16.35,48.61667",
+    "geom:latitude":48.61667,
+    "geom:longitude":16.35,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"316",
+    "gn:admin3_code":"31613.0",
+    "gn:asciiname":"Eichenbrunn",
+    "gn:country_code":"AT",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780263,
+    "gn:latitude":48.61667,
+    "gn:longitude":16.35,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Eichenbrunn",
+    "gn:population":274,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836359,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780263
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3dacefe3313d52a5160582b1139b8dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836359,
+            "locality_id":1276559629,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276559629,
+    "wof:lastmodified":1536972413,
+    "wof:name":"Eichenbrunn",
+    "wof:parent_id":1108836359,
+    "wof:placetype":"locality",
+    "wof:population":274,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35,
+    48.61667,
+    16.35,
+    48.61667
+],
+  "geometry": {"coordinates":[16.35,48.61667],"type":"Point"}
+}

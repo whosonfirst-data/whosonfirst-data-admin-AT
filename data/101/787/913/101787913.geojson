@@ -1,0 +1,130 @@
+{
+  "id": 101787913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":638288.938949,
+    "geom:bbox":"15.9056761142,47.2165499194,15.91813138,47.2295371563",
+    "geom:latitude":47.22445,
+    "geom:longitude":15.911917,
+    "iso:country":"AT",
+    "lbl:latitude":47.225347,
+    "lbl:longitude":15.911492,
+    "mps:latitude":47.225347,
+    "mps:longitude":15.911492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u51ef\u6069\u591a\u592b"
+    ],
+    "name:dut_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:eng_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:fre_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:ger_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:hun_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:ita_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:pol_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:slo_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:swe_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0439\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:unk_x_variant":[
+        "Kaindorf bei Hartberg"
+    ],
+    "name:uzb_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:vie_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:vol_x_preferred":[
+        "Kaindorf"
+    ],
+    "name:war_x_preferred":[
+        "Kaindorf"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Steiermark",
+    "qs:a1r":"0",
+    "qs:a2":"Hartberg",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:id":0,
+    "qs:la":"Kaindorf",
+    "qs:la_lc":"*AT60715",
+    "qs:level":"locality",
+    "qs:loc":"Kaindorf",
+    "qs:loc_alt":"Kaindorf",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839117,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774970,
+        "gp:id":548807,
+        "wd:id":"Q688721"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c9e5b219c2e056a72a6d54f9cbfde34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839117,
+            "locality_id":101787913,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":101787913,
+    "wof:lastmodified":1530142065,
+    "wof:name":"Kaindorf",
+    "wof:parent_id":1108839117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90567611421005,
+    47.21654991943564,
+    15.91813137998793,
+    47.22953715634088
+],
+  "geometry": {"coordinates":[[[15.91175469562802,47.22939366403205],[15.91165283705419,47.2284967641944],[15.91560115240509,47.22828141045676],[15.91549923104077,47.22738451433651],[15.91813137998793,47.22724086833261],[15.91792746103903,47.22544708012077],[15.91661143305907,47.22551890824076],[15.91650950275061,47.22462201187221],[15.91519349390757,47.22469382262813],[15.91488779720817,47.22200312589786],[15.91620373878607,47.22193131941776],[15.91610182645024,47.22103442081652],[15.91478590729224,47.22110622587144],[15.91448026449336,47.21841552244297],[15.91579611639742,47.21834372166308],[15.91559233215446,47.21654991943564],[15.91427652508099,47.21662171736574],[15.91437839254178,47.21751862018351],[15.91306255976929,47.21759040360274],[15.91326626332926,47.2193842104125],[15.91195038243893,47.21945598074456],[15.91215405912158,47.22124978817033],[15.91083813010977,47.22132154541424],[15.91093995276464,47.22221844971438],[15.90567611421005,47.22250532501158],[15.90598134003335,47.22519605164757],[15.90729737186462,47.22512435246],[15.90770449213898,47.22871197447529],[15.90902061039424,47.22864025365476],[15.90912242411099,47.22953715634088],[15.91175469562802,47.22939366403205]]],"type":"Polygon"}
+}

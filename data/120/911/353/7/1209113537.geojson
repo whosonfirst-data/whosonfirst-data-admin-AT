@@ -1,0 +1,63 @@
+{
+  "id": 1209113537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13405,48.22075,15.13405,48.22075",
+    "geom:latitude":48.22075,
+    "geom:longitude":15.13405,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31523.0",
+    "gn:asciiname":"Auratsberg",
+    "gn:country_code":"AT",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782160,
+    "gn:latitude":48.22075,
+    "gn:longitude":15.13405,
+    "gn:modification_date":"2018-07-29",
+    "gn:name":"Auratsberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782160
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d449473e1150ac92cfb5e13b932b231d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209113537
+        }
+    ],
+    "wof:id":1209113537,
+    "wof:lastmodified":1536297328,
+    "wof:name":"Auratsberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13405,
+    48.22075,
+    15.13405,
+    48.22075
+],
+  "geometry": {"coordinates":[15.13405,48.22075],"type":"Point"}
+}

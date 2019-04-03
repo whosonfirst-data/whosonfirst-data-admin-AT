@@ -1,0 +1,71 @@
+{
+  "id": 1343757343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06194,47.11972,14.06194,47.11972",
+    "geom:latitude":47.11972,
+    "geom:longitude":14.06194,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61442.0",
+    "gn:asciiname":"Zielberg",
+    "gn:country_code":"AT",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3324707,
+    "gn:latitude":47.11972,
+    "gn:longitude":14.06194,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Zielberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838791,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324707
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d688cdf70fe1232d1f5228004987a4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838791,
+            "locality_id":1343757343,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343757343,
+    "wof:lastmodified":1536814724,
+    "wof:name":"Zielberg",
+    "wof:parent_id":1108838791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06194,
+    47.11972,
+    14.06194,
+    47.11972
+],
+  "geometry": {"coordinates":[14.06194,47.11972],"type":"Point"}
+}

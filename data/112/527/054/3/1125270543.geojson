@@ -1,0 +1,82 @@
+{
+  "id": 1125270543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3012,47.13846,14.3012,47.13846",
+    "geom:latitude":47.13846,
+    "geom:longitude":14.3012,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1252,
+    "gn:population":1252,
+    "iso:country":"AT",
+    "lbl:latitude":47.13846,
+    "lbl:longitude":14.3012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872464,
+    "qs_pg:gn_pop":1252,
+    "qs_pg:name":"Frojach-Katsch",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743408,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872464,
+        "qs_pg:id":743408
+    },
+    "wof:country":"AT",
+    "wof:created":1497042107,
+    "wof:geomhash":"2b374785ff56014dc70a6fc4a374ea5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1125270543,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125270543,
+    "wof:lastmodified":1536698111,
+    "wof:name":"Frojach-Katsch",
+    "wof:parent_id":102049733,
+    "wof:placetype":"localadmin",
+    "wof:population":1252,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838837
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3012,
+    47.13846,
+    14.3012,
+    47.13846
+],
+  "geometry": {"coordinates":[14.3012,47.13846],"type":"Point"}
+}

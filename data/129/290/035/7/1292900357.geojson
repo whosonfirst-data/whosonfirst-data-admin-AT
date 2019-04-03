@@ -1,0 +1,74 @@
+{
+  "id": 1292900357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.15355,47.26847,11.15355,47.26847",
+    "geom:latitude":47.26847,
+    "geom:longitude":11.15355,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70318.0",
+    "gn:asciiname":"Hattingerberg",
+    "gn:country_code":"AT",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592364,
+    "gn:latitude":47.26847,
+    "gn:longitude":11.15355,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hattingerberg",
+    "gn:population":76,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837685,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592364
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5d5beb0bdb826a9a139975f4272768bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837685,
+            "locality_id":1292900357,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1292900357,
+    "wof:lastmodified":1536638359,
+    "wof:name":"Hattingerberg",
+    "wof:parent_id":1108837685,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.15355,
+    47.26847,
+    11.15355,
+    47.26847
+],
+  "geometry": {"coordinates":[11.15355,47.26847],"type":"Point"}
+}

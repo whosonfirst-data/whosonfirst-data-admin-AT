@@ -1,0 +1,114 @@
+{
+  "id": 1125350887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71084,47.38388,11.71084,47.38388",
+    "geom:latitude":47.38388,
+    "geom:longitude":11.71084,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1875,
+    "gn:population":1998,
+    "iso:country":"AT",
+    "lbl:latitude":47.38388,
+    "lbl:longitude":11.71084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0429\u0430\u043d\u0441"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0442\u0430\u043d\u0441"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0679\u0627\u0646\u0632"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u043d\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0430\u043d\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u5766\u65af"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872636,
+    "qs_pg:gn_pop":1875,
+    "qs_pg:name":"Stans",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Tirol",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":70,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":908998,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675571,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Tirol",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681661,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872636,
+        "gp:id":12675571,
+        "qs_pg:id":908998
+    },
+    "wof:country":"AT",
+    "wof:created":1497046192,
+    "wof:geomhash":"0c699ce3c14299cb87819ce6ca0935b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1125350887,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125350887,
+    "wof:lastmodified":1534379117,
+    "wof:name":"Stans",
+    "wof:parent_id":102049755,
+    "wof:placetype":"localadmin",
+    "wof:population":1998,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837649
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71084,
+    47.38388,
+    11.71084,
+    47.38388
+],
+  "geometry": {"coordinates":[11.71084,47.38388],"type":"Point"}
+}

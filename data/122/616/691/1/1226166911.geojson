@@ -1,0 +1,71 @@
+{
+  "id": 1226166911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41149,48.10095,14.41149,48.10095",
+    "geom:latitude":48.10095,
+    "geom:longitude":14.41149,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"415",
+    "gn:admin3_code":"41504.0",
+    "gn:asciiname":"Pfaffing",
+    "gn:country_code":"AT",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609969,
+    "gn:latitude":48.10095,
+    "gn:longitude":14.41149,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Pfaffing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836097,
+        85632785,
+        102049819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609969
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"eb249a8051180d17ce58ac150a20c326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836097,
+            "locality_id":1226166911,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226166911,
+    "wof:lastmodified":1537045312,
+    "wof:name":"Pfaffing",
+    "wof:parent_id":1108836097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41149,
+    48.10095,
+    14.41149,
+    48.10095
+],
+  "geometry": {"coordinates":[14.41149,48.10095],"type":"Point"}
+}

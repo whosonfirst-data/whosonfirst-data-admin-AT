@@ -1,0 +1,82 @@
+{
+  "id": 1125363453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31491,47.33343,13.31491,47.33343",
+    "geom:latitude":47.33343,
+    "geom:longitude":13.31491,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3013,
+    "gn:population":3081,
+    "iso:country":"AT",
+    "lbl:latitude":47.33343,
+    "lbl:longitude":13.31491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873316,
+    "qs_pg:gn_pop":3013,
+    "qs_pg:name":"Wagrain",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1245855,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873316,
+        "qs_pg:id":1245855
+    },
+    "wof:country":"AT",
+    "wof:created":1497046940,
+    "wof:geomhash":"145628cad8c347445f200911269eae02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1125363453,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125363453,
+    "wof:lastmodified":1534531025,
+    "wof:name":"Wagrain",
+    "wof:parent_id":102049753,
+    "wof:placetype":"localadmin",
+    "wof:population":3081,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837039
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31491,
+    47.33343,
+    13.31491,
+    47.33343
+],
+  "geometry": {"coordinates":[13.31491,47.33343],"type":"Point"}
+}

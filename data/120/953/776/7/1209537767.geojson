@@ -1,0 +1,73 @@
+{
+  "id": 1209537767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74503,47.60639,14.74503,47.60639",
+    "geom:latitude":47.60639,
+    "geom:longitude":14.74503,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61258.0",
+    "gn:asciiname":"Hieflau",
+    "gn:country_code":"AT",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2776433,
+    "gn:latitude":47.60639,
+    "gn:longitude":14.74503,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hieflau",
+    "gn:population":580,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0444\u043b\u0430\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u592b\u52b3"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776433,
+        "wk:page":"Hieflau"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a2c1df849d1ac020910914d661b2b6f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209537767
+        }
+    ],
+    "wof:id":1209537767,
+    "wof:lastmodified":1537584966,
+    "wof:name":"Hieflau",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":580,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74503,
+    47.60639000000001,
+    14.74503,
+    47.60639000000001
+],
+  "geometry": {"coordinates":[14.74503,47.60639000000001],"type":"Point"}
+}

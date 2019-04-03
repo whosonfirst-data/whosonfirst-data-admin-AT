@@ -1,0 +1,74 @@
+{
+  "id": 1327339327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8411,48.38618,13.8411,48.38618",
+    "geom:latitude":48.38618,
+    "geom:longitude":13.8411,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40824.0",
+    "gn:asciiname":"Sattlberg",
+    "gn:country_code":"AT",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609759,
+    "gn:latitude":48.38618,
+    "gn:longitude":13.8411,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sattlberg",
+    "gn:population":15,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835219,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609759
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b7076f7d69a864bb7470f67e343c1777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835219,
+            "locality_id":1327339327,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327339327,
+    "wof:lastmodified":1536814451,
+    "wof:name":"Sattlberg",
+    "wof:parent_id":1108835219,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8411,
+    48.38618,
+    13.8411,
+    48.38618
+],
+  "geometry": {"coordinates":[13.8411,48.38618],"type":"Point"}
+}

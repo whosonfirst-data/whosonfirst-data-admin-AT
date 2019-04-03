@@ -1,0 +1,79 @@
+{
+  "id": 1243065469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.595,46.79194,15.595,46.79194",
+    "geom:latitude":46.79194,
+    "geom:longitude":15.595,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"610",
+    "gn:admin3_code":"61008.0",
+    "gn:asciiname":"Neudorf an der Mur",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770814,
+    "gn:latitude":46.79194,
+    "gn:longitude":15.595,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Neudorf an der Mur",
+    "gn:population":342,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neudorf",
+        "Neudorf an der Mur"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839071,
+        85632785,
+        102049699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770814
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2af3d276529f13765218332d4f104e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839071,
+            "locality_id":1243065469,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243065469,
+    "wof:lastmodified":1537584950,
+    "wof:name":"Neudorf an der Mur",
+    "wof:parent_id":1108839071,
+    "wof:placetype":"locality",
+    "wof:population":342,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.595,
+    46.79194,
+    15.595,
+    46.79194
+],
+  "geometry": {"coordinates":[15.595,46.79194],"type":"Point"}
+}

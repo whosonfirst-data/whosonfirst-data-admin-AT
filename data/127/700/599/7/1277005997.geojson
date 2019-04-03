@@ -1,0 +1,71 @@
+{
+  "id": 1277005997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84818,48.35904,13.84818,48.35904",
+    "geom:latitude":48.35904,
+    "geom:longitude":13.84818,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40831.0",
+    "gn:asciiname":"Huebbach",
+    "gn:country_code":"AT",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609804,
+    "gn:latitude":48.35904,
+    "gn:longitude":13.84818,
+    "gn:modification_date":"2017-07-13",
+    "gn:name":"Huebbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835233,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609804
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9c92fd1bc893a0ebfdba6fe48045894c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835233,
+            "locality_id":1277005997,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1277005997,
+    "wof:lastmodified":1536871057,
+    "wof:name":"Huebbach",
+    "wof:parent_id":1108835233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84818,
+    48.35904,
+    13.84818,
+    48.35904
+],
+  "geometry": {"coordinates":[13.84818,48.35904],"type":"Point"}
+}

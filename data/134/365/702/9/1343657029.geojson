@@ -1,0 +1,71 @@
+{
+  "id": 1343657029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,46.95,15.73333,46.95",
+    "geom:latitude":46.95,
+    "geom:longitude":15.73333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62384.0",
+    "gn:asciiname":"Haselbach",
+    "gn:country_code":"AT",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776764,
+    "gn:latitude":46.95,
+    "gn:longitude":15.73333,
+    "gn:modification_date":"2017-06-21",
+    "gn:name":"Haselbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839243,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776764
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2229fe6ee877b489cf1d78cc54692c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839243,
+            "locality_id":1343657029,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343657029,
+    "wof:lastmodified":1536959966,
+    "wof:name":"Haselbach",
+    "wof:parent_id":1108839243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    46.95,
+    15.73333,
+    46.95
+],
+  "geometry": {"coordinates":[15.73333,46.95],"type":"Point"}
+}

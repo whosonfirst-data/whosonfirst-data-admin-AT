@@ -1,0 +1,98 @@
+{
+  "id": 1125363515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51263,46.93693,15.51263,46.93693",
+    "geom:latitude":46.93693,
+    "geom:longitude":15.51263,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1177,
+    "gn:population":1177,
+    "iso:country":"AT",
+    "lbl:latitude":46.93693,
+    "lbl:longitude":15.51263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873407,
+    "qs_pg:gn_pop":1177,
+    "qs_pg:name":"Mellach",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1245869,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674961,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873407,
+        "gp:id":12674961,
+        "qs_pg:id":1245869
+    },
+    "wof:concordances_alt":{
+        "gn:id":2771677,
+        "qs_pg:id":1015552
+    },
+    "wof:country":"AT",
+    "wof:created":1497046943,
+    "wof:geomhash":"7c4ead1fd81970c44ffa4ccc40bb52be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125363515,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125363515,
+    "wof:lastmodified":1536698193,
+    "wof:name":"Mellach",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":1177,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839205
+    ],
+    "wof:supersedes":[
+        1125385437
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51263,
+    46.93693,
+    15.51263,
+    46.93693
+],
+  "geometry": {"coordinates":[15.51263,46.93693],"type":"Point"}
+}

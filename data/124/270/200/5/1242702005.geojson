@@ -1,0 +1,71 @@
+{
+  "id": 1242702005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74338,48.16797,13.74338,48.16797",
+    "geom:latitude":48.16797,
+    "geom:longitude":13.74338,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40806.0",
+    "gn:asciiname":"Ofenlug",
+    "gn:country_code":"AT",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609222,
+    "gn:latitude":48.16797,
+    "gn:longitude":13.74338,
+    "gn:modification_date":"2017-07-12",
+    "gn:name":"Ofenlug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835177,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609222
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a8a83d8ae5e0a97de351b5897c7a5e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835177,
+            "locality_id":1242702005,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1242702005,
+    "wof:lastmodified":1536884006,
+    "wof:name":"Ofenlug",
+    "wof:parent_id":1108835177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74338,
+    48.16797,
+    13.74338,
+    48.16797
+],
+  "geometry": {"coordinates":[13.74338,48.16797],"type":"Point"}
+}

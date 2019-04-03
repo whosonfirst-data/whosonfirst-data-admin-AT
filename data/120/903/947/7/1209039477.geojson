@@ -1,0 +1,66 @@
+{
+  "id": 1209039477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9,48.11667,13.9,48.11667",
+    "geom:latitude":48.11667,
+    "geom:longitude":13.9,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"418",
+    "gn:admin3_code":"41806.0",
+    "gn:asciiname":"Mairlambach",
+    "gn:country_code":"AT",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772066,
+    "gn:latitude":48.11667,
+    "gn:longitude":13.9,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mairlambach",
+    "gn:population":11,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772066
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"49dad2892cb6eea9c553af8ba1a936e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209039477
+        }
+    ],
+    "wof:id":1209039477,
+    "wof:lastmodified":1536299591,
+    "wof:name":"Mairlambach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9,
+    48.11667,
+    13.9,
+    48.11667
+],
+  "geometry": {"coordinates":[13.9,48.11667],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1125279345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.137859,48.582001,14.137859,48.582001",
+    "geom:latitude":48.582001,
+    "geom:longitude":14.137859,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":48.582001,
+    "lbl:longitude":14.137859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Afiesl",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":42,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":111489,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674615,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674615,
+        "qs_pg:id":111489
+    },
+    "wof:country":"AT",
+    "wof:created":1497042442,
+    "wof:geomhash":"061644578eabef1cb89da124ef5ba8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125279345,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125279345,
+    "wof:lastmodified":1534531036,
+    "wof:name":"Afiesl",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835707
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.137859,
+    48.582001,
+    14.137859,
+    48.582001
+],
+  "geometry": {"coordinates":[14.137859,48.582001],"type":"Point"}
+}

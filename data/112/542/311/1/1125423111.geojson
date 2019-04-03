@@ -1,0 +1,82 @@
+{
+  "id": 1125423111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22107,46.78343,15.22107,46.78343",
+    "geom:latitude":46.78343,
+    "geom:longitude":15.22107,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2240,
+    "gn:population":2240,
+    "iso:country":"AT",
+    "lbl:latitude":46.78343,
+    "lbl:longitude":15.22107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872266,
+    "qs_pg:gn_pop":2240,
+    "qs_pg:name":"Hollenegg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108564,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872266,
+        "qs_pg:id":108564
+    },
+    "wof:country":"AT",
+    "wof:created":1497052642,
+    "wof:geomhash":"cc8e3e122cf70c17709093685dc3cde1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125423111,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125423111,
+    "wof:lastmodified":1534379092,
+    "wof:name":"Hollenegg",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:population":2240,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125377521
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22107,
+    46.78343,
+    15.22107,
+    46.78343
+],
+  "geometry": {"coordinates":[15.22107,46.78343],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344162977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02122,48.24943,14.02122,48.24943",
+    "geom:latitude":48.24943,
+    "geom:longitude":14.02122,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40511.0",
+    "gn:asciiname":"Kronberg",
+    "gn:country_code":"AT",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8449940,
+    "gn:latitude":48.24943,
+    "gn:longitude":14.02122,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kronberg",
+    "gn:population":109,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835057,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8449940
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"005385cf644cf74553eb31006c17d760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835057,
+            "locality_id":1344162977,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344162977,
+    "wof:lastmodified":1536728002,
+    "wof:name":"Kronberg",
+    "wof:parent_id":1108835057,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02122,
+    48.24943,
+    14.02122,
+    48.24943
+],
+  "geometry": {"coordinates":[14.02122,48.24943],"type":"Point"}
+}

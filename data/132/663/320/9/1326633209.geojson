@@ -1,0 +1,74 @@
+{
+  "id": 1326633209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93722,46.75028,12.93722,46.75028",
+    "geom:latitude":46.75028,
+    "geom:longitude":12.93722,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20625.0",
+    "gn:asciiname":"Flaschberg",
+    "gn:country_code":"AT",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779510,
+    "gn:latitude":46.75028,
+    "gn:longitude":12.93722,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Flaschberg",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838285,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779510
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"948eafcaeff9b7c45d39b3e930b2db69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838285,
+            "locality_id":1326633209,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1326633209,
+    "wof:lastmodified":1536837321,
+    "wof:name":"Flaschberg",
+    "wof:parent_id":1108838285,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93722,
+    46.75028,
+    12.93722,
+    46.75028
+],
+  "geometry": {"coordinates":[12.93722,46.75028],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326629419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2,47.41667,13.2,47.41667",
+    "geom:latitude":47.41667,
+    "geom:longitude":13.2,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50404.0",
+    "gn:asciiname":"Laideregg",
+    "gn:country_code":"AT",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2605671,
+    "gn:latitude":47.41667,
+    "gn:longitude":13.2,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Laideregg",
+    "gn:population":540,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108836995,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2605671
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"11705308125db6b03af7cc54b0514f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108836995,
+            "locality_id":1326629419,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1326629419,
+    "wof:lastmodified":1536842843,
+    "wof:name":"Laideregg",
+    "wof:parent_id":1108836995,
+    "wof:placetype":"locality",
+    "wof:population":540,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2,
+    47.41667,
+    13.2,
+    47.41667
+],
+  "geometry": {"coordinates":[13.2,47.41667],"type":"Point"}
+}

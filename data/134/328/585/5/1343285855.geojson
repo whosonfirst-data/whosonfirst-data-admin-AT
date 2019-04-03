@@ -1,0 +1,71 @@
+{
+  "id": 1343285855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65875,47.98854,13.65875,47.98854",
+    "geom:latitude":47.98854,
+    "geom:longitude":13.65875,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"417.0",
+    "gn:admin3_code":"41731.0",
+    "gn:asciiname":"Unterregau",
+    "gn:country_code":"AT",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762696,
+    "gn:latitude":47.98854,
+    "gn:longitude":13.65875,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Unterregau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836487,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762696
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"de7cf09a8f2df1c475f7525cad33edbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836487,
+            "locality_id":1343285855,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343285855,
+    "wof:lastmodified":1536997538,
+    "wof:name":"Unterregau",
+    "wof:parent_id":1108836487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65875,
+    47.98854,
+    13.65875,
+    47.98854
+],
+  "geometry": {"coordinates":[13.65875,47.98854],"type":"Point"}
+}

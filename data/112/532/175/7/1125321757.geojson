@@ -1,0 +1,82 @@
+{
+  "id": 1125321757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22478,48.07064,15.22478,48.07064",
+    "geom:latitude":48.07064,
+    "geom:longitude":15.22478,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2978,
+    "gn:population":2945,
+    "iso:country":"AT",
+    "lbl:latitude":48.07064,
+    "lbl:longitude":15.22478,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871900,
+    "qs_pg:gn_pop":2978,
+    "qs_pg:name":"Oberndorf an der Melk",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":743310,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871900,
+        "qs_pg:id":743310
+    },
+    "wof:country":"AT",
+    "wof:created":1497044571,
+    "wof:geomhash":"b85e3690a71fead77746e7c526f39cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1125321757,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125321757,
+    "wof:lastmodified":1534531033,
+    "wof:name":"Oberndorf an der Melk",
+    "wof:parent_id":102049825,
+    "wof:placetype":"localadmin",
+    "wof:population":2945,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834949
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22478,
+    48.07064,
+    15.22478,
+    48.07064
+],
+  "geometry": {"coordinates":[15.22478,48.07064],"type":"Point"}
+}

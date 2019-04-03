@@ -1,0 +1,66 @@
+{
+  "id": 1209306425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.46667,47.1,11.46667,47.1",
+    "geom:latitude":47.1,
+    "geom:longitude":11.46667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70355.0",
+    "gn:asciiname":"Mauern",
+    "gn:country_code":"AT",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771777,
+    "gn:latitude":47.1,
+    "gn:longitude":11.46667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mauern",
+    "gn:population":572,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771777
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d801558703dd6855811f177f0014a1ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209306425
+        }
+    ],
+    "wof:id":1209306425,
+    "wof:lastmodified":1536291180,
+    "wof:name":"Mauern",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":572,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46667,
+    47.1,
+    11.46667,
+    47.1
+],
+  "geometry": {"coordinates":[11.46667,47.1],"type":"Point"}
+}

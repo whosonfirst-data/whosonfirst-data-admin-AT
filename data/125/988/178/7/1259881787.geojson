@@ -1,0 +1,74 @@
+{
+  "id": 1259881787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98219,47.75525,15.98219,47.75525",
+    "geom:latitude":47.75525,
+    "geom:longitude":15.98219,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"318.0",
+    "gn:admin3_code":"31839.0",
+    "gn:asciiname":"Stixenstein",
+    "gn:country_code":"AT",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764289,
+    "gn:latitude":47.75525,
+    "gn:longitude":15.98219,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stixenstein",
+    "gn:population":29,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835287,
+        85632785,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764289
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"544ca485364d3a49a999f336527b3d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835287,
+            "locality_id":1259881787,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259881787,
+    "wof:lastmodified":1536782100,
+    "wof:name":"Stixenstein",
+    "wof:parent_id":1108835287,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98219,
+    47.75525,
+    15.98219,
+    47.75525
+],
+  "geometry": {"coordinates":[15.98219,47.75525],"type":"Point"}
+}

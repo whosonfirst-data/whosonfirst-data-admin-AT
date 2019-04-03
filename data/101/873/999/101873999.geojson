@@ -1,0 +1,92 @@
+{
+  "id": 101873999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.497079,47.294835,12.497079,47.294835",
+    "geom:latitude":47.294835,
+    "geom:longitude":12.497079,
+    "iso:country":"AT",
+    "lbl:latitude":47.294835,
+    "lbl:longitude":12.497079,
+    "mps:latitude":47.294835,
+    "mps:longitude":12.497079,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Burk"
+    ],
+    "name:deu_x_preferred":[
+        "Burk"
+    ],
+    "name:hbs_x_preferred":[
+        "Burk"
+    ],
+    "name:pol_x_preferred":[
+        "Burk"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Salzburg",
+    "qs:a1r":"0",
+    "qs:a2":"Zell am See",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Burk",
+    "qs:loc_alt":"Burk",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837239,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781165,
+        "gp:id":547439,
+        "qs:id":4
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"84f1cad0b275af1b4ee5d5fe1e85cb04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837239,
+            "locality_id":101873999,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":101873999,
+    "wof:lastmodified":1544751582,
+    "wof:name":"Burk",
+    "wof:parent_id":1108837239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.497079,
+    47.294835,
+    12.497079,
+    47.294835
+],
+  "geometry": {"coordinates":[12.497079,47.294835],"type":"Point"}
+}

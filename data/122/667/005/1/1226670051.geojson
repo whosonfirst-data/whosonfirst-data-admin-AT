@@ -1,0 +1,74 @@
+{
+  "id": 1226670051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60807,47.98866,13.60807,47.98866",
+    "geom:latitude":47.98866,
+    "geom:longitude":13.60807,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41743.0",
+    "gn:asciiname":"Untergallaberg",
+    "gn:country_code":"AT",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609727,
+    "gn:latitude":47.98866,
+    "gn:longitude":13.60807,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Untergallaberg",
+    "gn:population":213,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836515,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609727
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e6163a9826cd355ef28087652f98bc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836515,
+            "locality_id":1226670051,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226670051,
+    "wof:lastmodified":1536823616,
+    "wof:name":"Untergallaberg",
+    "wof:parent_id":1108836515,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60807,
+    47.98866,
+    13.60807,
+    47.98866
+],
+  "geometry": {"coordinates":[13.60807,47.98866],"type":"Point"}
+}

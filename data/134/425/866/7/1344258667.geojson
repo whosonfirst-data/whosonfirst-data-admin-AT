@@ -1,0 +1,74 @@
+{
+  "id": 1344258667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60419,48.30341,15.60419,48.30341",
+    "geom:latitude":48.30341,
+    "geom:longitude":15.60419,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31948.0",
+    "gn:asciiname":"Hausheim",
+    "gn:country_code":"AT",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776649,
+    "gn:latitude":48.30341,
+    "gn:longitude":15.60419,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hausheim",
+    "gn:population":183,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836609,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776649
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f93fa1b7d1959e0e24634aebcbbb51cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836609,
+            "locality_id":1344258667,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344258667,
+    "wof:lastmodified":1537083594,
+    "wof:name":"Hausheim",
+    "wof:parent_id":1108836609,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60419,
+    48.30341,
+    15.60419,
+    48.30341
+],
+  "geometry": {"coordinates":[15.60419,48.30341],"type":"Point"}
+}

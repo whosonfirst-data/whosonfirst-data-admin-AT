@@ -1,0 +1,74 @@
+{
+  "id": 1242881573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16667,48.4,15.16667,48.4",
+    "geom:latitude":48.4,
+    "geom:longitude":15.16667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"325.0",
+    "gn:admin3_code":"32517.0",
+    "gn:asciiname":"Wiehalm",
+    "gn:country_code":"AT",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761380,
+    "gn:latitude":48.4,
+    "gn:longitude":15.16667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wiehalm",
+    "gn:population":16,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836759,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761380
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7172c0767ebec6ffee8185026a67f2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836759,
+            "locality_id":1242881573,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1242881573,
+    "wof:lastmodified":1536623802,
+    "wof:name":"Wiehalm",
+    "wof:parent_id":1108836759,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16667,
+    48.4,
+    15.16667,
+    48.4
+],
+  "geometry": {"coordinates":[15.16667,48.4],"type":"Point"}
+}

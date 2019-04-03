@@ -1,0 +1,71 @@
+{
+  "id": 1209217655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23333,46.81667,14.23333,46.81667",
+    "geom:latitude":46.81667,
+    "geom:longitude":14.23333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20534.0",
+    "gn:asciiname":"Innere Wimitz",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775258,
+    "gn:latitude":46.81667,
+    "gn:longitude":14.23333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Innere Wimitz",
+    "gn:population":40,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Innerwimitz",
+        "Innere Wimitz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775258
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0357d4d3248fb6a4ebcaaac605e1500a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209217655
+        }
+    ],
+    "wof:id":1209217655,
+    "wof:lastmodified":1537584963,
+    "wof:name":"Innere Wimitz",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23333,
+    46.81667,
+    14.23333,
+    46.81667
+],
+  "geometry": {"coordinates":[14.23333,46.81667],"type":"Point"}
+}

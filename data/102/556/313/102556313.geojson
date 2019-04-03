@@ -1,0 +1,71 @@
+{
+  "id": 102556313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.6917,47.4712,10.6917,47.4712",
+    "geom:latitude":47.4712,
+    "geom:longitude":10.6917,
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Reutte-H\u00f6fen Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Reutte-H\u00f6fen Airport"
+    ],
+    "oa:elevation_ft":"2806",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591749,
+        "localadmin_id":12675375,
+        "planet_id":1,
+        "state_id":2344714
+    },
+    "wof:belongsto":[
+        85632785,
+        85681661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051692,
+        "icao:code":"LOIR",
+        "oa:id":"29461",
+        "wd:id":"Q16899224"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a5b68c1f9211eacc1914f75797c8db1c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556313,
+            "country_id":85632785,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":102556313,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Flugplatz Reutte-h\u00f6fen",
+    "wof:parent_id":85681661,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.6917,
+    47.4712,
+    10.6917,
+    47.4712
+],
+  "geometry": {"coordinates":[10.6917,47.4712],"type":"Point"}
+}

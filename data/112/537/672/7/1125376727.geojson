@@ -1,0 +1,85 @@
+{
+  "id": 1125376727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56667,47.9,13.56667,47.9",
+    "geom:latitude":47.9,
+    "geom:longitude":13.56667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "gn:population":1566,
+    "iso:country":"AT",
+    "lbl:latitude":47.9,
+    "lbl:longitude":13.56667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Weyregg"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2761415,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Weyregg am Attersee",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":373465,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761415,
+        "qs_pg:id":373465
+    },
+    "wof:country":"AT",
+    "wof:created":1497047792,
+    "wof:geomhash":"dcc9c89f3f3d5a3083032c1243a358d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1125376727,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125376727,
+    "wof:lastmodified":1534530985,
+    "wof:name":"Weyregg am Attersee",
+    "wof:parent_id":102049817,
+    "wof:placetype":"localadmin",
+    "wof:population":1566,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836527
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56667,
+    47.9,
+    13.56667,
+    47.9
+],
+  "geometry": {"coordinates":[13.56667,47.9],"type":"Point"}
+}

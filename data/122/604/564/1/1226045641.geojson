@@ -1,0 +1,74 @@
+{
+  "id": 1226045641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40585,46.61171,13.40585,46.61171",
+    "geom:latitude":46.61171,
+    "geom:longitude":13.40585,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20305.0",
+    "gn:asciiname":"Suessenberg",
+    "gn:country_code":"AT",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594153,
+    "gn:latitude":46.61171,
+    "gn:longitude":13.40585,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"S\u00fc\u00dfenberg",
+    "gn:population":16,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838149,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594153
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d371fd2881167e247285f19e4af7c074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838149,
+            "locality_id":1226045641,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226045641,
+    "wof:lastmodified":1536725673,
+    "wof:name":"Suessenberg",
+    "wof:parent_id":1108838149,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40585,
+    46.61171,
+    13.40585,
+    46.61171
+],
+  "geometry": {"coordinates":[13.40585,46.61171],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225955911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.74694,48.20031,16.74694,48.20031",
+    "geom:latitude":48.20031,
+    "geom:longitude":16.74694,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"308",
+    "gn:admin3_code":"30825.0",
+    "gn:asciiname":"Fuchsenbigl",
+    "gn:country_code":"AT",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779167,
+    "gn:latitude":48.20031,
+    "gn:longitude":16.74694,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Fuchsenbigl",
+    "gn:population":340,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835385,
+        85632785,
+        102049891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779167
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b00f40f1963109c0bcea9c17c2d34b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835385,
+            "locality_id":1225955911,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1225955911,
+    "wof:lastmodified":1536853497,
+    "wof:name":"Fuchsenbigl",
+    "wof:parent_id":1108835385,
+    "wof:placetype":"locality",
+    "wof:population":340,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.74694,
+    48.20031,
+    16.74694,
+    48.20031
+],
+  "geometry": {"coordinates":[16.74694,48.20031],"type":"Point"}
+}

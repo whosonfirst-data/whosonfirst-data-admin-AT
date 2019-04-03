@@ -1,0 +1,82 @@
+{
+  "id": 1125272833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99061,48.3405,14.99061,48.3405",
+    "geom:latitude":48.3405,
+    "geom:longitude":14.99061,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":616,
+    "gn:population":584,
+    "iso:country":"AT",
+    "lbl:latitude":48.3405,
+    "lbl:longitude":14.99061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871813,
+    "qs_pg:gn_pop":616,
+    "qs_pg:name":"Dorfstetten",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108383,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871813,
+        "qs_pg:id":108383
+    },
+    "wof:country":"AT",
+    "wof:created":1497042196,
+    "wof:geomhash":"7752bf5c04d8b6cb1403b160e975d968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1125272833,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125272833,
+    "wof:lastmodified":1534379185,
+    "wof:name":"Dorfstetten",
+    "wof:parent_id":102049855,
+    "wof:placetype":"localadmin",
+    "wof:population":584,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835853
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99061,
+    48.3405,
+    14.99061,
+    48.3405
+],
+  "geometry": {"coordinates":[14.99061,48.3405],"type":"Point"}
+}

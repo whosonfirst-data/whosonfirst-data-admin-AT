@@ -1,0 +1,74 @@
+{
+  "id": 1276477905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.90482,48.0611,12.90482,48.0611",
+    "geom:latitude":48.0611,
+    "geom:longitude":12.90482,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40408.0",
+    "gn:asciiname":"Holzoester",
+    "gn:country_code":"AT",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775558,
+    "gn:latitude":48.0611,
+    "gn:longitude":12.90482,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Holz\u00f6ster",
+    "gn:population":213,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834723,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775558
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2e56cfb694c48dfd6622bde7525d9b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834723,
+            "locality_id":1276477905,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276477905,
+    "wof:lastmodified":1537079130,
+    "wof:name":"Holzoester",
+    "wof:parent_id":1108834723,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.90482,
+    48.0611,
+    12.90482,
+    48.0611
+],
+  "geometry": {"coordinates":[12.90482,48.0611],"type":"Point"}
+}

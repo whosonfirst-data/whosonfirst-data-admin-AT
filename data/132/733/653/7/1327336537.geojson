@@ -1,0 +1,71 @@
+{
+  "id": 1327336537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21282,46.63912,13.21282,46.63912",
+    "geom:latitude":46.63912,
+    "geom:longitude":13.21282,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20306.0",
+    "gn:asciiname":"Krieben",
+    "gn:country_code":"AT",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594165,
+    "gn:latitude":46.63912,
+    "gn:longitude":13.21282,
+    "gn:modification_date":"2017-06-29",
+    "gn:name":"Krieben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838153,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594165
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"13b7915426b7593d999251f3c81aed8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838153,
+            "locality_id":1327336537,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1327336537,
+    "wof:lastmodified":1536818328,
+    "wof:name":"Krieben",
+    "wof:parent_id":1108838153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21282,
+    46.63912,
+    13.21282,
+    46.63912
+],
+  "geometry": {"coordinates":[13.21282,46.63912],"type":"Point"}
+}

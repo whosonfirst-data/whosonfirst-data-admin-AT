@@ -1,0 +1,110 @@
+{
+  "id": 85898435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16840378.961892,
+    "geom:bbox":"14.281786,48.263978,14.281786,48.263978",
+    "geom:latitude":48.263978,
+    "geom:longitude":14.281786,
+    "iso:country":"AT",
+    "lbl:latitude":48.263978,
+    "lbl:longitude":14.281786,
+    "mps:latitude":48.265624,
+    "mps:longitude":14.2638,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Oed"
+    ],
+    "name:unk_x_variant":[
+        "Oed"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_nam_loc":"Linz, Linz Stadt, Ober\u00f6sterreich, AT",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Oed",
+    "qs:local_max":22933,
+    "qs:local_sum":38224,
+    "qs:localhoods":15,
+    "qs:name":"Oed",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Ober\u00f6sterreich",
+    "qs:name_adm2":"Linz Stadt",
+    "qs:name_lau":"Linz",
+    "qs:name_local":"Linz",
+    "qs:photo_max":426,
+    "qs:photo_sum":1325,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":40,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344711,
+    "qs:woe_adm2":12591722,
+    "qs:woe_lau":12674377,
+    "qs:woe_local":12674377,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769501,
+        "gp:id":546274,
+        "qs:id":1079007,
+        "qs_pg:id":1079007
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5cce69e7ea9eaf49dda3b132ba1083ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
+            "neighbourhood_id":85898435,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":85898435,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932062,
+    "wof:name":"Oed",
+    "wof:parent_id":101748071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.281786,
+    48.263978,
+    14.281786,
+    48.263978
+],
+  "geometry": {"coordinates":[14.281786,48.263978],"type":"Point"}
+}

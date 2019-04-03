@@ -1,0 +1,74 @@
+{
+  "id": 1277085725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28333,47.46667,16.28333,47.46667",
+    "geom:latitude":47.46667,
+    "geom:longitude":16.28333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"323.0",
+    "gn:admin3_code":"32314.0",
+    "gn:asciiname":"Ungerbach",
+    "gn:country_code":"AT",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763159,
+    "gn:latitude":47.46667,
+    "gn:longitude":16.28333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ungerbach",
+    "gn:population":279,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836255,
+        85632785,
+        102049787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763159
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"763ecc7e70e980e18af6cb9ff5387963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108836255,
+            "locality_id":1277085725,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1277085725,
+    "wof:lastmodified":1536763589,
+    "wof:name":"Ungerbach",
+    "wof:parent_id":1108836255,
+    "wof:placetype":"locality",
+    "wof:population":279,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28333,
+    47.46667,
+    16.28333,
+    47.46667
+],
+  "geometry": {"coordinates":[16.28333,47.46667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326838891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,46.53333,14.35,46.53333",
+    "geom:latitude":46.53333,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20405.0",
+    "gn:asciiname":"Seidolach",
+    "gn:country_code":"AT",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765208,
+    "gn:latitude":46.53333,
+    "gn:longitude":14.35,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Seidolach",
+    "gn:population":66,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838165,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765208
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"94b616319ff3a701c7e388208136d4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838165,
+            "locality_id":1326838891,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1326838891,
+    "wof:lastmodified":1537037466,
+    "wof:name":"Seidolach",
+    "wof:parent_id":1108838165,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    46.53333,
+    14.35,
+    46.53333
+],
+  "geometry": {"coordinates":[14.35,46.53333],"type":"Point"}
+}

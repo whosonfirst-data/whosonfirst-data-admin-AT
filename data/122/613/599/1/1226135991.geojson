@@ -1,0 +1,71 @@
+{
+  "id": 1226135991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23778,46.81722,15.23778,46.81722",
+    "geom:latitude":46.81722,
+    "geom:longitude":15.23778,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60344.0",
+    "gn:asciiname":"Hoerbing",
+    "gn:country_code":"AT",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775532,
+    "gn:latitude":46.81722,
+    "gn:longitude":15.23778,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"H\u00f6rbing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775532
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"34afe25092cc65095d928370a18c0e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":1226135991,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226135991,
+    "wof:lastmodified":1537088593,
+    "wof:name":"Hoerbing",
+    "wof:parent_id":1108839301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23778,
+    46.81722,
+    15.23778,
+    46.81722
+],
+  "geometry": {"coordinates":[15.23778,46.81722],"type":"Point"}
+}

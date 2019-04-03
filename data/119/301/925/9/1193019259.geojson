@@ -1,0 +1,74 @@
+{
+  "id": 1193019259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39778,46.83972,14.39778,46.83972",
+    "geom:latitude":46.83972,
+    "geom:longitude":14.39778,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20520.0",
+    "gn:asciiname":"Meiselding",
+    "gn:country_code":"AT",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771695,
+    "gn:latitude":46.83972,
+    "gn:longitude":14.39778,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Meiselding",
+    "gn:population":339,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838235,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771695
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3620817f6ec99ccefa12ecef6d85a198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838235,
+            "locality_id":1193019259,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1193019259,
+    "wof:lastmodified":1536375043,
+    "wof:name":"Meiselding",
+    "wof:parent_id":1108838235,
+    "wof:placetype":"locality",
+    "wof:population":339,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39778,
+    46.83972,
+    14.39778,
+    46.83972
+],
+  "geometry": {"coordinates":[14.39778,46.83972],"type":"Point"}
+}

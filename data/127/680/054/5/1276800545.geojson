@@ -1,0 +1,74 @@
+{
+  "id": 1276800545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0279,48.2452,13.0279,48.2452",
+    "geom:latitude":48.2452,
+    "geom:longitude":13.0279,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40404.0",
+    "gn:asciiname":"Osternberg",
+    "gn:country_code":"AT",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769381,
+    "gn:latitude":48.2452,
+    "gn:longitude":13.0279,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Osternberg",
+    "gn:population":513,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834715,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769381
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6aa46e1260ed260099dfbed3328283a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834715,
+            "locality_id":1276800545,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276800545,
+    "wof:lastmodified":1536649671,
+    "wof:name":"Osternberg",
+    "wof:parent_id":1108834715,
+    "wof:placetype":"locality",
+    "wof:population":513,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0279,
+    48.2452,
+    13.0279,
+    48.2452
+],
+  "geometry": {"coordinates":[13.0279,48.2452],"type":"Point"}
+}

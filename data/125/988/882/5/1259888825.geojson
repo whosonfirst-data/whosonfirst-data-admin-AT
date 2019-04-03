@@ -1,0 +1,74 @@
+{
+  "id": 1259888825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19811,46.72457,14.19811,46.72457",
+    "geom:latitude":46.72457,
+    "geom:longitude":14.19811,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21003.0",
+    "gn:asciiname":"Friedlach",
+    "gn:country_code":"AT",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779236,
+    "gn:latitude":46.72457,
+    "gn:longitude":14.19811,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Friedlach",
+    "gn:population":277,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838125,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779236
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fb993812f2d42364fe2815be3a2409ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838125,
+            "locality_id":1259888825,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259888825,
+    "wof:lastmodified":1536771915,
+    "wof:name":"Friedlach",
+    "wof:parent_id":1108838125,
+    "wof:placetype":"locality",
+    "wof:population":277,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19811,
+    46.72457,
+    14.19811,
+    46.72457
+],
+  "geometry": {"coordinates":[14.19811,46.72457],"type":"Point"}
+}

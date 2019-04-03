@@ -1,0 +1,74 @@
+{
+  "id": 1225849795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20603,47.45872,13.20603,47.45872",
+    "geom:latitude":47.45872,
+    "geom:longitude":13.20603,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504",
+    "gn:admin3_code":"50416.0",
+    "gn:asciiname":"Dorfwerfen",
+    "gn:country_code":"AT",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780759,
+    "gn:latitude":47.45872,
+    "gn:longitude":13.20603,
+    "gn:modification_date":"2018-07-29",
+    "gn:name":"Dorfwerfen",
+    "gn:population":773,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837023,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780759
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0592e6cd596dc902228563f50d31e7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837023,
+            "locality_id":1225849795,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1225849795,
+    "wof:lastmodified":1537007061,
+    "wof:name":"Dorfwerfen",
+    "wof:parent_id":1108837023,
+    "wof:placetype":"locality",
+    "wof:population":773,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20603,
+    47.45872,
+    13.20603,
+    47.45872
+],
+  "geometry": {"coordinates":[13.20603,47.45872],"type":"Point"}
+}

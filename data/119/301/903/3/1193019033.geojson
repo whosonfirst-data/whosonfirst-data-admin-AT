@@ -1,0 +1,74 @@
+{
+  "id": 1193019033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86667,46.86667,14.86667,46.86667",
+    "geom:latitude":46.86667,
+    "geom:longitude":14.86667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"209.0",
+    "gn:admin3_code":"20905.0",
+    "gn:asciiname":"Sankt Gertraud",
+    "gn:country_code":"AT",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766685,
+    "gn:latitude":46.86667,
+    "gn:longitude":14.86667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Gertraud",
+    "gn:population":355,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838395,
+        85632785,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766685
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0f4dd49a2cb235067f0135b2157583c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838395,
+            "locality_id":1193019033,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1193019033,
+    "wof:lastmodified":1536375276,
+    "wof:name":"Sankt Gertraud",
+    "wof:parent_id":1108838395,
+    "wof:placetype":"locality",
+    "wof:population":355,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86667,
+    46.86667,
+    14.86667,
+    46.86667
+],
+  "geometry": {"coordinates":[14.86667,46.86667],"type":"Point"}
+}

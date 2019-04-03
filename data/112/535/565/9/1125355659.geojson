@@ -1,0 +1,82 @@
+{
+  "id": 1125355659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82664,48.50375,13.82664,48.50375",
+    "geom:latitude":48.50375,
+    "geom:longitude":13.82664,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1540,
+    "gn:population":1479,
+    "iso:country":"AT",
+    "lbl:latitude":48.50375,
+    "lbl:longitude":13.82664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872115,
+    "qs_pg:gn_pop":1540,
+    "qs_pg:name":"Pfarrkirchen im M\u00fchlkreis",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743338,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872115,
+        "qs_pg:id":743338
+    },
+    "wof:country":"AT",
+    "wof:created":1497046457,
+    "wof:geomhash":"f4ab83ef642d23c7def561169cb5d788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125355659,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125355659,
+    "wof:lastmodified":1534379121,
+    "wof:name":"Pfarrkirchen im M\u00fchlkreis",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":1479,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835987
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82664,
+    48.50375,
+    13.82664,
+    48.50375
+],
+  "geometry": {"coordinates":[13.82664,48.50375],"type":"Point"}
+}

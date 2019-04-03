@@ -1,0 +1,71 @@
+{
+  "id": 1310400169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65,46.88333,12.65,46.88333",
+    "geom:latitude":46.88333,
+    "geom:longitude":12.65,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70727.0",
+    "gn:asciiname":"Gontschach",
+    "gn:country_code":"AT",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778342,
+    "gn:latitude":46.88333,
+    "gn:longitude":12.65,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Gontschach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837783,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778342
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7e2d052dc92b4c3cd5d131ff9e7e7fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837783,
+            "locality_id":1310400169,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1310400169,
+    "wof:lastmodified":1537066068,
+    "wof:name":"Gontschach",
+    "wof:parent_id":1108837783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65,
+    46.88333,
+    12.65,
+    46.88333
+],
+  "geometry": {"coordinates":[12.65,46.88333],"type":"Point"}
+}

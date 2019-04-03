@@ -1,0 +1,66 @@
+{
+  "id": 1209628231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52172,46.62006,13.52172,46.62006",
+    "geom:latitude":46.62006,
+    "geom:longitude":13.52172,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20316.0",
+    "gn:asciiname":"Bach",
+    "gn:country_code":"AT",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782097,
+    "gn:latitude":46.62006,
+    "gn:longitude":13.52172,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bach",
+    "gn:population":68,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782097
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"997daa229111ab8b8706df6f45921f5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209628231
+        }
+    ],
+    "wof:id":1209628231,
+    "wof:lastmodified":1536281280,
+    "wof:name":"Bach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.521720000000002,
+    46.62006,
+    13.521720000000002,
+    46.62006
+],
+  "geometry": {"coordinates":[13.52172,46.62006],"type":"Point"}
+}

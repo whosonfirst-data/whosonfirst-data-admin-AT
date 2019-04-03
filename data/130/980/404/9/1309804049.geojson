@@ -1,0 +1,74 @@
+{
+  "id": 1309804049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59811,48.32767,13.59811,48.32767",
+    "geom:latitude":48.32767,
+    "geom:longitude":13.59811,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41430.0",
+    "gn:asciiname":"Weireth",
+    "gn:country_code":"AT",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612059,
+    "gn:latitude":48.32767,
+    "gn:longitude":13.59811,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Weireth",
+    "gn:population":59,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836089,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612059
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"85dd655c57b8664eea9b216bde735a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836089,
+            "locality_id":1309804049,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1309804049,
+    "wof:lastmodified":1536934322,
+    "wof:name":"Weireth",
+    "wof:parent_id":1108836089,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59811,
+    48.32767,
+    13.59811,
+    48.32767
+],
+  "geometry": {"coordinates":[13.59811,48.32767],"type":"Point"}
+}

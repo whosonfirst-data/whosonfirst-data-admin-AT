@@ -1,0 +1,74 @@
+{
+  "id": 1276218419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.25246,47.63009,12.25246,47.63009",
+    "geom:latitude":47.63009,
+    "geom:longitude":12.25246,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"705",
+    "gn:admin3_code":"70508.0",
+    "gn:asciiname":"Oberbuchberg",
+    "gn:country_code":"AT",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592337,
+    "gn:latitude":47.63009,
+    "gn:longitude":12.25246,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberbuchberg",
+    "gn:population":90,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837393,
+        85632785,
+        102049771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592337
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0d8638a555f0636219d04a7adc68a6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837393,
+            "locality_id":1276218419,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1276218419,
+    "wof:lastmodified":1536933753,
+    "wof:name":"Oberbuchberg",
+    "wof:parent_id":1108837393,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.25246,
+    47.63009,
+    12.25246,
+    47.63009
+],
+  "geometry": {"coordinates":[12.25246,47.63009],"type":"Point"}
+}

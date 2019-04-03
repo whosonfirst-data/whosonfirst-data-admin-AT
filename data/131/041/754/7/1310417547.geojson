@@ -1,0 +1,74 @@
+{
+  "id": 1310417547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24389,48.95819,15.24389,48.95819",
+    "geom:latitude":48.95819,
+    "geom:longitude":15.24389,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"322",
+    "gn:admin3_code":"32210.0",
+    "gn:asciiname":"Kleintaxen",
+    "gn:country_code":"AT",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774000,
+    "gn:latitude":48.95819,
+    "gn:longitude":15.24389,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kleintaxen",
+    "gn:population":35,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835021,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774000
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"485cabc98f3ffbf79c16750abe1b6a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108835021,
+            "locality_id":1310417547,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310417547,
+    "wof:lastmodified":1537042114,
+    "wof:name":"Kleintaxen",
+    "wof:parent_id":1108835021,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24389,
+    48.95819,
+    15.24389,
+    48.95819
+],
+  "geometry": {"coordinates":[15.24389,48.95819],"type":"Point"}
+}

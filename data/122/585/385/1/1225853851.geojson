@@ -1,0 +1,71 @@
+{
+  "id": 1225853851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11167,46.9575,14.11167,46.9575",
+    "geom:latitude":46.9575,
+    "geom:longitude":14.11167,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20518.0",
+    "gn:asciiname":"Gully Felfernig",
+    "gn:country_code":"AT",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219385,
+    "gn:latitude":46.9575,
+    "gn:longitude":14.11167,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Gully Felfernig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838231,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219385
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fa33f676dfb1d78348e0c3d6a4252f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838231,
+            "locality_id":1225853851,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1225853851,
+    "wof:lastmodified":1537001147,
+    "wof:name":"Gully Felfernig",
+    "wof:parent_id":1108838231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11167,
+    46.9575,
+    14.11167,
+    46.9575
+],
+  "geometry": {"coordinates":[14.11167,46.9575],"type":"Point"}
+}

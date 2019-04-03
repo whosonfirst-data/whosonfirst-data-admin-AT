@@ -1,0 +1,63 @@
+{
+  "id": 1209098823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76667,47.65,13.76667,47.65",
+    "geom:latitude":47.65,
+    "geom:longitude":13.76667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61204.0",
+    "gn:asciiname":"Posern",
+    "gn:country_code":"AT",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2604985,
+    "gn:latitude":47.65,
+    "gn:longitude":13.76667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Posern",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2604985
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"01bf59420d6a0ebe30bed58203b61b5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209098823
+        }
+    ],
+    "wof:id":1209098823,
+    "wof:lastmodified":1536297800,
+    "wof:name":"Posern",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76667,
+    47.65,
+    13.76667,
+    47.65
+],
+  "geometry": {"coordinates":[13.76667,47.65],"type":"Point"}
+}

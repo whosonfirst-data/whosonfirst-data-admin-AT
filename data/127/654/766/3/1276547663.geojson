@@ -1,0 +1,74 @@
+{
+  "id": 1276547663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75947,48.1583,13.75947,48.1583",
+    "geom:latitude":48.1583,
+    "geom:longitude":13.75947,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40806.0",
+    "gn:asciiname":"Baumgarting",
+    "gn:country_code":"AT",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610736,
+    "gn:latitude":48.1583,
+    "gn:longitude":13.75947,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Baumgarting",
+    "gn:population":9,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835177,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610736
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8c0516e424050883f170075389eb1983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835177,
+            "locality_id":1276547663,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276547663,
+    "wof:lastmodified":1536987988,
+    "wof:name":"Baumgarting",
+    "wof:parent_id":1108835177,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75947,
+    48.1583,
+    13.75947,
+    48.1583
+],
+  "geometry": {"coordinates":[13.75947,48.1583],"type":"Point"}
+}

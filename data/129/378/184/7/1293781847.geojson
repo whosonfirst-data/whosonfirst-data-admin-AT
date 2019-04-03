@@ -1,0 +1,74 @@
+{
+  "id": 1293781847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,47.61667,15.55,47.61667",
+    "geom:latitude":47.61667,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62115.0",
+    "gn:asciiname":"Massing",
+    "gn:country_code":"AT",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771835,
+    "gn:latitude":47.61667,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Massing",
+    "gn:population":85,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838877,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771835
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d274c30ee05e02e9cedb4df3216a9fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838877,
+            "locality_id":1293781847,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293781847,
+    "wof:lastmodified":1536858506,
+    "wof:name":"Massing",
+    "wof:parent_id":1108838877,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    47.61667,
+    15.55,
+    47.61667
+],
+  "geometry": {"coordinates":[15.55,47.61667],"type":"Point"}
+}

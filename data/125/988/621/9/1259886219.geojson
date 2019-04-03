@@ -1,0 +1,71 @@
+{
+  "id": 1259886219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64061,48.41436,14.64061,48.41436",
+    "geom:latitude":48.41436,
+    "geom:longitude":14.64061,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40603.0",
+    "gn:asciiname":"Kraftwerk Riedlhammer",
+    "gn:country_code":"AT",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767459,
+    "gn:latitude":48.41436,
+    "gn:longitude":14.64061,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Kraftwerk Riedlhammer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835101,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767459
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3e518f4c817002e0d4ba9687fc13844a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835101,
+            "locality_id":1259886219,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259886219,
+    "wof:lastmodified":1536775761,
+    "wof:name":"Kraftwerk Riedlhammer",
+    "wof:parent_id":1108835101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64061,
+    48.41436,
+    14.64061,
+    48.41436
+],
+  "geometry": {"coordinates":[14.64061,48.41436],"type":"Point"}
+}

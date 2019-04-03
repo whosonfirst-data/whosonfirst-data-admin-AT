@@ -1,0 +1,74 @@
+{
+  "id": 1292938925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,47.9,14.75,47.9",
+    "geom:latitude":47.9,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"415",
+    "gn:admin3_code":"41505.0",
+    "gn:asciiname":"Oberland",
+    "gn:country_code":"AT",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769983,
+    "gn:latitude":47.9,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberland",
+    "gn:population":192,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836101,
+        85632785,
+        102049819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769983
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f8f4546e42be8f6bcbc5e7ed4c31f199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836101,
+            "locality_id":1292938925,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1292938925,
+    "wof:lastmodified":1537077850,
+    "wof:name":"Oberland",
+    "wof:parent_id":1108836101,
+    "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    47.9,
+    14.75,
+    47.9
+],
+  "geometry": {"coordinates":[14.75,47.9],"type":"Point"}
+}

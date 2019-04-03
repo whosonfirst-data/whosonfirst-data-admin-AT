@@ -1,0 +1,74 @@
+{
+  "id": 1209914637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9747,48.21901,13.9747,48.21901",
+    "geom:latitude":48.21901,
+    "geom:longitude":13.9747,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"418",
+    "gn:admin3_code":"41810.0",
+    "gn:asciiname":"Goelding",
+    "gn:country_code":"AT",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778377,
+    "gn:latitude":48.21901,
+    "gn:longitude":13.9747,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"G\u00f6lding",
+    "gn:population":229,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836557,
+        85632785,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778377
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2f08143778a36e24dae2b65c8e48e8de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836557,
+            "locality_id":1209914637,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1209914637,
+    "wof:lastmodified":1536375069,
+    "wof:name":"Goelding",
+    "wof:parent_id":1108836557,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9747,
+    48.21901,
+    13.9747,
+    48.21901
+],
+  "geometry": {"coordinates":[13.9747,48.21901],"type":"Point"}
+}

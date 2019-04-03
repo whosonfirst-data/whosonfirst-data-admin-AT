@@ -1,0 +1,82 @@
+{
+  "id": 1125274393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54653,48.23638,15.54653,48.23638",
+    "geom:latitude":48.23638,
+    "geom:longitude":15.54653,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1410,
+    "gn:population":1457,
+    "iso:country":"AT",
+    "lbl:latitude":48.23638,
+    "lbl:longitude":15.54653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873017,
+    "qs_pg:gn_pop":1410,
+    "qs_pg:name":"Neidling",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108791,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873017,
+        "qs_pg:id":108791
+    },
+    "wof:country":"AT",
+    "wof:created":1497042255,
+    "wof:geomhash":"1d28b3fa470b0bb9a77b129d0fdb7497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125274393,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125274393,
+    "wof:lastmodified":1534379203,
+    "wof:name":"Neidling",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:population":1457,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836591
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54653,
+    48.23638,
+    15.54653,
+    48.23638
+],
+  "geometry": {"coordinates":[15.54653,48.23638],"type":"Point"}
+}

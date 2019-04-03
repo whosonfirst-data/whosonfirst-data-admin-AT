@@ -1,0 +1,91 @@
+{
+  "id": 1125394333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85703,48.2285,14.85703,48.2285",
+    "geom:latitude":48.2285,
+    "geom:longitude":14.85703,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3131,
+    "gn:population":2973,
+    "iso:country":"AT",
+    "lbl:latitude":48.2285,
+    "lbl:longitude":14.85703,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u0430\u0439\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0439\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u8d56\u56e0"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872064,
+    "qs_pg:gn_pop":3131,
+    "qs_pg:name":"Grein",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1042051,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872064,
+        "qs_pg:id":1042051
+    },
+    "wof:country":"AT",
+    "wof:created":1497048911,
+    "wof:geomhash":"973789145668ae647d0dd525464de77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1125394333,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125394333,
+    "wof:lastmodified":1534379093,
+    "wof:name":"Grein",
+    "wof:parent_id":102049865,
+    "wof:placetype":"localadmin",
+    "wof:population":2973,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125319039
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85703,
+    48.2285,
+    14.85703,
+    48.2285
+],
+  "geometry": {"coordinates":[14.85703,48.2285],"type":"Point"}
+}

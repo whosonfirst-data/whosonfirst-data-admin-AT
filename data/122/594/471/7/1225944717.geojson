@@ -1,0 +1,74 @@
+{
+  "id": 1225944717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63489,48.19836,13.63489,48.19836",
+    "geom:latitude":48.19836,
+    "geom:longitude":13.63489,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40809.0",
+    "gn:asciiname":"Reischau",
+    "gn:country_code":"AT",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767686,
+    "gn:latitude":48.19836,
+    "gn:longitude":13.63489,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reischau",
+    "gn:population":12,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835185,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767686
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"aa28b3411d597e9d0632c6499c322bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835185,
+            "locality_id":1225944717,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225944717,
+    "wof:lastmodified":1536869728,
+    "wof:name":"Reischau",
+    "wof:parent_id":1108835185,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63489,
+    48.19836,
+    13.63489,
+    48.19836
+],
+  "geometry": {"coordinates":[13.63489,48.19836],"type":"Point"}
+}

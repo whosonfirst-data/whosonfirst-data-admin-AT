@@ -1,0 +1,82 @@
+{
+  "id": 1125360173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64787,47.52603,16.64787,47.52603",
+    "geom:latitude":47.52603,
+    "geom:longitude":16.64787,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1483,
+    "gn:population":1380,
+    "iso:country":"AT",
+    "lbl:latitude":47.52603,
+    "lbl:longitude":16.64787,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872731,
+    "qs_pg:gn_pop":1483,
+    "qs_pg:name":"Nikitsch",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743421,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872731,
+        "qs_pg:id":743421
+    },
+    "wof:country":"AT",
+    "wof:created":1497046738,
+    "wof:geomhash":"589c2abcd0bc7031b1448a6c51e7ce15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1125360173,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125360173,
+    "wof:lastmodified":1534379199,
+    "wof:name":"Nikitsch",
+    "wof:parent_id":102049775,
+    "wof:placetype":"localadmin",
+    "wof:population":1380,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838715
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64787,
+    47.52603,
+    16.64787,
+    47.52603
+],
+  "geometry": {"coordinates":[16.64787,47.52603],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209223491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11374,46.71497,14.11374,46.71497",
+    "geom:latitude":46.71497,
+    "geom:longitude":14.11374,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Laboisen",
+    "gn:country_code":"AT",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591923,
+    "gn:latitude":46.71497,
+    "gn:longitude":14.11374,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Laboisen",
+    "gn:population":442,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591923
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0493fe778333828124795e4ad7165ada",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209223491
+        }
+    ],
+    "wof:id":1209223491,
+    "wof:lastmodified":1536293878,
+    "wof:name":"Laboisen",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":442,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11374,
+    46.71497,
+    14.11374,
+    46.71497
+],
+  "geometry": {"coordinates":[14.11374,46.71497],"type":"Point"}
+}

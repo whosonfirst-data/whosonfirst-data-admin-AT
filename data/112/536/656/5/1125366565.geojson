@@ -1,0 +1,98 @@
+{
+  "id": 1125366565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3492,47.44106,16.3492,47.44106",
+    "geom:latitude":47.44106,
+    "geom:longitude":16.3492,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.44106,
+    "lbl:longitude":16.3492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hrv_x_preferred":[
+        "Pili\u0161trof"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00f6rg\u00f6l\u00e9ny"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2768829,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pilgersdorf",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Burgenland",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1180285,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673392,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Burgenland",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768829,
+        "gp:id":12673392,
+        "qs_pg:id":1180285
+    },
+    "wof:country":"AT",
+    "wof:created":1497047114,
+    "wof:geomhash":"13db92184d9978f4def25a9589eab8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1125366565,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125366565,
+    "wof:lastmodified":1534531032,
+    "wof:name":"Pilgersdorf",
+    "wof:parent_id":102049775,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838471
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3492,
+    47.44106,
+    16.3492,
+    47.44106
+],
+  "geometry": {"coordinates":[16.3492,47.44106],"type":"Point"}
+}

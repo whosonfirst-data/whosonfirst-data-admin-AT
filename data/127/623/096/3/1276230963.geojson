@@ -1,0 +1,74 @@
+{
+  "id": 1276230963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23463,46.75542,14.23463,46.75542",
+    "geom:latitude":46.75542,
+    "geom:longitude":14.23463,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20515.0",
+    "gn:asciiname":"Eggen I",
+    "gn:country_code":"AT",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11550637,
+    "gn:latitude":46.75542,
+    "gn:longitude":14.23463,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Eggen I",
+    "gn:population":28,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838335,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11550637
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"51d8f38e7de4861272730de74c12610c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838335,
+            "locality_id":1276230963,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1276230963,
+    "wof:lastmodified":1536916512,
+    "wof:name":"Eggen I",
+    "wof:parent_id":1108838335,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23463,
+    46.75542,
+    14.23463,
+    46.75542
+],
+  "geometry": {"coordinates":[14.23463,46.75542],"type":"Point"}
+}

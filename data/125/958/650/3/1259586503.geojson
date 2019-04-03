@@ -1,0 +1,74 @@
+{
+  "id": 1259586503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08733,46.66873,13.08733,46.66873",
+    "geom:latitude":46.66873,
+    "geom:longitude":13.08733,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20302.0",
+    "gn:asciiname":"Gurina",
+    "gn:country_code":"AT",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594123,
+    "gn:latitude":46.66873,
+    "gn:longitude":13.08733,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gurina",
+    "gn:population":14,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838147,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594123
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ae624a2c6f61f828d96c1322396127e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838147,
+            "locality_id":1259586503,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259586503,
+    "wof:lastmodified":1536710745,
+    "wof:name":"Gurina",
+    "wof:parent_id":1108838147,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08733,
+    46.66873,
+    13.08733,
+    46.66873
+],
+  "geometry": {"coordinates":[13.08733,46.66873],"type":"Point"}
+}

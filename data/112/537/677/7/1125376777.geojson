@@ -1,0 +1,82 @@
+{
+  "id": 1125376777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01667,47.78333,16.01667,47.78333",
+    "geom:latitude":47.78333,
+    "geom:longitude":16.01667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "gn:population":1229,
+    "iso:country":"AT",
+    "lbl:latitude":47.78333,
+    "lbl:longitude":16.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2775811,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"H\u00f6flein",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":373502,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775811,
+        "qs_pg:id":373502
+    },
+    "wof:country":"AT",
+    "wof:created":1497047794,
+    "wof:geomhash":"2e4a36daec1bc0fb13d024ab193cbef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1125376777,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125376777,
+    "wof:lastmodified":1536698212,
+    "wof:name":"H\u00f6flein",
+    "wof:parent_id":102049791,
+    "wof:placetype":"localadmin",
+    "wof:population":1229,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836695
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01667,
+    47.78333,
+    16.01667,
+    47.78333
+],
+  "geometry": {"coordinates":[16.01667,47.78333],"type":"Point"}
+}

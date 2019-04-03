@@ -1,0 +1,69 @@
+{
+  "id": 102556277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7876916667,47.2922305556,12.7876916667,47.2922305556",
+    "geom:latitude":47.292231,
+    "geom:longitude":12.787692,
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"2470",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591724,
+        "localadmin_id":12674719,
+        "planet_id":1,
+        "state_id":2344712
+    },
+    "wof:belongsto":[
+        85632785,
+        101912403,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051678,
+        "icao:code":"LOWZ",
+        "oa:id":"28138",
+        "wd:id":"Q689419"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f54c04f1e6ec61e42cb51683d7113175",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556277,
+            "country_id":85632785,
+            "county_id":102049761,
+            "locality_id":101912403,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":102556277,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Flugplatz Zell Am See",
+    "wof:parent_id":101912403,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.787691666667,
+    47.292230555556,
+    12.787691666667,
+    47.292230555556
+],
+  "geometry": {"coordinates":[12.787691666667,47.292230555556],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242599797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27553,46.82115,15.27553,46.82115",
+    "geom:latitude":46.82115,
+    "geom:longitude":15.27553,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60305.0",
+    "gn:asciiname":"Krottendorf an der Lassnitz",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773361,
+    "gn:latitude":46.82115,
+    "gn:longitude":15.27553,
+    "gn:modification_date":"2018-07-29",
+    "gn:name":"Krottendorf an der Lassnitz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krottendorf",
+        "Krottendorf an der La\u00dfnitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839295,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773361
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e9c196472241bb1ecf9cb6f8d57251d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839295,
+            "locality_id":1242599797,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1242599797,
+    "wof:lastmodified":1537584958,
+    "wof:name":"Krottendorf an der Lassnitz",
+    "wof:parent_id":1108839295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27553,
+    46.82115,
+    15.27553,
+    46.82115
+],
+  "geometry": {"coordinates":[15.27553,46.82115],"type":"Point"}
+}

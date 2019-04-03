@@ -1,0 +1,71 @@
+{
+  "id": 1243552337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38333,46.98333,14.38333,46.98333",
+    "geom:latitude":46.98333,
+    "geom:longitude":14.38333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61439.0",
+    "gn:asciiname":"Guldendorf",
+    "gn:country_code":"AT",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777290,
+    "gn:latitude":46.98333,
+    "gn:longitude":14.38333,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Guldendorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838811,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777290
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5a8edae17e7d23452a6f77fc7661a495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838811,
+            "locality_id":1243552337,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243552337,
+    "wof:lastmodified":1536652862,
+    "wof:name":"Guldendorf",
+    "wof:parent_id":1108838811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38333,
+    46.98333,
+    14.38333,
+    46.98333
+],
+  "geometry": {"coordinates":[14.38333,46.98333],"type":"Point"}
+}

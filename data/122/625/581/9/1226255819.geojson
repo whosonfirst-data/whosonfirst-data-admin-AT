@@ -1,0 +1,79 @@
+{
+  "id": 1226255819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38333,46.75,13.38333,46.75",
+    "geom:latitude":46.75,
+    "geom:longitude":13.38333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20637.0",
+    "gn:asciiname":"Althaus",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782652,
+    "gn:latitude":46.75,
+    "gn:longitude":13.38333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Althaus",
+    "gn:population":3,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Althaus Alpe",
+        "Althaus"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838305,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782652
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8545a579fcde1543e677d67a0c328b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838305,
+            "locality_id":1226255819,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226255819,
+    "wof:lastmodified":1537584985,
+    "wof:name":"Althaus",
+    "wof:parent_id":1108838305,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38333,
+    46.75,
+    13.38333,
+    46.75
+],
+  "geometry": {"coordinates":[13.38333,46.75],"type":"Point"}
+}

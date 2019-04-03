@@ -1,0 +1,105 @@
+{
+  "id": 1125295703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8185,47.32489,12.8185,47.32489",
+    "geom:latitude":47.32489,
+    "geom:longitude":12.8185,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9875,
+    "gn:population":9759,
+    "iso:country":"AT",
+    "lbl:latitude":47.32489,
+    "lbl:longitude":12.8185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Zell am See"
+    ],
+    "name:eng_x_preferred":[
+        "Zell am See"
+    ],
+    "name:fra_x_preferred":[
+        "Zell am See"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873334,
+    "qs_pg:gn_pop":9875,
+    "qs_pg:name":"Zell am See",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos":189,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5032,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":190121,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674719,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873334,
+        "gp:id":12674719,
+        "qs_pg:id":190121
+    },
+    "wof:country":"AT",
+    "wof:created":1497043132,
+    "wof:geomhash":"122e708772974fe6b969705ee7b8bd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125295703,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125295703,
+    "wof:lastmodified":1534379193,
+    "wof:name":"Zell am See",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:population":9759,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837255
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8185,
+    47.32489,
+    12.8185,
+    47.32489
+],
+  "geometry": {"coordinates":[12.8185,47.32489],"type":"Point"}
+}

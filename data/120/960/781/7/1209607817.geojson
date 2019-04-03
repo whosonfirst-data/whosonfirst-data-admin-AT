@@ -1,0 +1,63 @@
+{
+  "id": 1209607817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53222,46.97361,15.53222,46.97361",
+    "geom:latitude":46.97361,
+    "geom:longitude":15.53222,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606",
+    "gn:admin3_code":"60662.0",
+    "gn:asciiname":"Fernitzberg",
+    "gn:country_code":"AT",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779629,
+    "gn:latitude":46.97361,
+    "gn:longitude":15.53222,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Fernitzberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779629
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"45d94a00ad8e7c4ff024ec9e77a3608d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209607817
+        }
+    ],
+    "wof:id":1209607817,
+    "wof:lastmodified":1536281949,
+    "wof:name":"Fernitzberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53222,
+    46.97361,
+    15.53222,
+    46.97361
+],
+  "geometry": {"coordinates":[15.53222,46.97361],"type":"Point"}
+}

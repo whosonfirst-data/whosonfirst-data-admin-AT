@@ -1,0 +1,74 @@
+{
+  "id": 1209723207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98372,48.62317,14.98372,48.62317",
+    "geom:latitude":48.62317,
+    "geom:longitude":14.98372,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"325.0",
+    "gn:admin3_code":"32508.0",
+    "gn:asciiname":"Preinreichs",
+    "gn:country_code":"AT",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768369,
+    "gn:latitude":48.62317,
+    "gn:longitude":14.98372,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Preinreichs",
+    "gn:population":52,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835477,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768369
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dc47cdd79c8ffa87aef37fa9df1d0533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835477,
+            "locality_id":1209723207,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1209723207,
+    "wof:lastmodified":1536385430,
+    "wof:name":"Preinreichs",
+    "wof:parent_id":1108835477,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98372,
+    48.62317,
+    14.98372,
+    48.62317
+],
+  "geometry": {"coordinates":[14.98372,48.62317],"type":"Point"}
+}

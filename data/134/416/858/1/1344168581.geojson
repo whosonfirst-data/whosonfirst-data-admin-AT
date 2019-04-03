@@ -1,0 +1,74 @@
+{
+  "id": 1344168581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23333,47.61667,16.23333,47.61667",
+    "geom:latitude":47.61667,
+    "geom:longitude":16.23333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"323.0",
+    "gn:admin3_code":"32312.0",
+    "gn:asciiname":"Stickelberg",
+    "gn:country_code":"AT",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764344,
+    "gn:latitude":47.61667,
+    "gn:longitude":16.23333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stickelberg",
+    "gn:population":182,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835005,
+        85632785,
+        102049787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764344
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"29ef25565b102a2dfbea98ccf79dee9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108835005,
+            "locality_id":1344168581,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344168581,
+    "wof:lastmodified":1536719883,
+    "wof:name":"Stickelberg",
+    "wof:parent_id":1108835005,
+    "wof:placetype":"locality",
+    "wof:population":182,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23333,
+    47.61667,
+    16.23333,
+    47.61667
+],
+  "geometry": {"coordinates":[16.23333,47.61667],"type":"Point"}
+}

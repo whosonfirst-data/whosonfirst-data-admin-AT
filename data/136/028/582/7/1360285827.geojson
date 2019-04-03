@@ -1,0 +1,74 @@
+{
+  "id": 1360285827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.46457,47.80515,13.46457,47.80515",
+    "geom:latitude":47.80515,
+    "geom:longitude":13.46457,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41745.0",
+    "gn:asciiname":"Au",
+    "gn:country_code":"AT",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782253,
+    "gn:latitude":47.80515,
+    "gn:longitude":13.46457,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Au",
+    "gn:population":309,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836519,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782253
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2d42b43be3eab50a357f7fa3744321c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836519,
+            "locality_id":1360285827,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1360285827,
+    "wof:lastmodified":1536656113,
+    "wof:name":"Au",
+    "wof:parent_id":1108836519,
+    "wof:placetype":"locality",
+    "wof:population":309,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46457,
+    47.80515,
+    13.46457,
+    47.80515
+],
+  "geometry": {"coordinates":[13.46457,47.80515],"type":"Point"}
+}

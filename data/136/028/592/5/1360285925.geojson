@@ -1,0 +1,74 @@
+{
+  "id": 1360285925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53155,48.04145,13.53155,48.04145",
+    "geom:latitude":48.04145,
+    "geom:longitude":13.53155,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41716.0",
+    "gn:asciiname":"Lichtenegg",
+    "gn:country_code":"AT",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612219,
+    "gn:latitude":48.04145,
+    "gn:longitude":13.53155,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lichtenegg",
+    "gn:population":81,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836453,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612219
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ed269b2f497c47dd14387ee9f9a67203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836453,
+            "locality_id":1360285925,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1360285925,
+    "wof:lastmodified":1536655960,
+    "wof:name":"Lichtenegg",
+    "wof:parent_id":1108836453,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53155,
+    48.04145,
+    13.53155,
+    48.04145
+],
+  "geometry": {"coordinates":[13.53155,48.04145],"type":"Point"}
+}

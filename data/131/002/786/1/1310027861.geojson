@@ -1,0 +1,74 @@
+{
+  "id": 1310027861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02724,47.02132,15.02724,47.02132",
+    "geom:latitude":47.02132,
+    "geom:longitude":15.02724,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"616",
+    "gn:admin3_code":"61627.0",
+    "gn:asciiname":"Kreuzberg",
+    "gn:country_code":"AT",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773507,
+    "gn:latitude":47.02132,
+    "gn:longitude":15.02724,
+    "gn:modification_date":"2018-08-01",
+    "gn:name":"Kreuzberg",
+    "gn:population":456,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838813,
+        85632785,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773507
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d0c808e3c8d44bc345ae04658351703f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108838813,
+            "locality_id":1310027861,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310027861,
+    "wof:lastmodified":1536608332,
+    "wof:name":"Kreuzberg",
+    "wof:parent_id":1108838813,
+    "wof:placetype":"locality",
+    "wof:population":456,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02724,
+    47.02132,
+    15.02724,
+    47.02132
+],
+  "geometry": {"coordinates":[15.02724,47.02132],"type":"Point"}
+}

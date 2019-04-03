@@ -1,0 +1,101 @@
+{
+  "id": 1125366601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92583,46.94,14.92583,46.94",
+    "geom:latitude":46.94,
+    "geom:longitude":14.92583,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.94,
+    "lbl:longitude":14.92583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0430\u0439\u0442\u0435\u043d\u0435\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u0439\u0442\u0435\u043d\u0435\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u8d56\u7279\u5185\u683c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2768359,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Preitenegg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1180347,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673623,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768359,
+        "gp:id":12673623,
+        "qs_pg:id":1180347
+    },
+    "wof:country":"AT",
+    "wof:created":1497047116,
+    "wof:geomhash":"273c8017ca196d24a5d75476327cc932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1125366601,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125366601,
+    "wof:lastmodified":1534531039,
+    "wof:name":"Preitenegg",
+    "wof:parent_id":102049693,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838103
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92583,
+    46.94,
+    14.92583,
+    46.94
+],
+  "geometry": {"coordinates":[14.92583,46.94],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1125394559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.68061,47.4941,9.68061,47.4941",
+    "geom:latitude":47.4941,
+    "geom:longitude":9.68061,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":12032,
+    "gn:population":13350,
+    "iso:country":"AT",
+    "lbl:latitude":47.4941,
+    "lbl:longitude":9.68061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0440\u0434"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u062f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10e0\u10d3\u10d8"
+    ],
+    "name:lat_x_preferred":[
+        "Harde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0434"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0440\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u723e\u5fb7"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873733,
+    "qs_pg:gn_pop":12032,
+    "qs_pg:name":"Hard",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1042245,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873733,
+        "qs_pg:id":1042245
+    },
+    "wof:country":"AT",
+    "wof:created":1497048926,
+    "wof:geomhash":"084777a3ae19adf2b5e43083cc086f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1125394559,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125394559,
+    "wof:lastmodified":1534531053,
+    "wof:name":"Hard",
+    "wof:parent_id":102049751,
+    "wof:placetype":"localadmin",
+    "wof:population":13350,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837957
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.68061,
+    47.4941,
+    9.68061,
+    47.4941
+],
+  "geometry": {"coordinates":[9.68061,47.4941],"type":"Point"}
+}

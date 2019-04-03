@@ -1,0 +1,63 @@
+{
+  "id": 1209415667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2,47.71667,14.2,47.71667",
+    "geom:latitude":47.71667,
+    "geom:longitude":14.2,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"409.0",
+    "gn:admin3_code":"40921.0",
+    "gn:asciiname":"Froehlichsiedlung",
+    "gn:country_code":"AT",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2604219,
+    "gn:latitude":47.71667,
+    "gn:longitude":14.2,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Fr\u00f6hlichsiedlung",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2604219
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"76f70274b24842f39d95636887b6aa24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209415667
+        }
+    ],
+    "wof:id":1209415667,
+    "wof:lastmodified":1536287697,
+    "wof:name":"Froehlichsiedlung",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2,
+    47.71667,
+    14.2,
+    47.71667
+],
+  "geometry": {"coordinates":[14.2,47.71667],"type":"Point"}
+}

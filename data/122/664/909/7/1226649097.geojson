@@ -1,0 +1,74 @@
+{
+  "id": 1226649097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54639,46.72611,14.54639,46.72611",
+    "geom:latitude":46.72611,
+    "geom:longitude":14.54639,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20817.0",
+    "gn:asciiname":"Klein Sankt Veit",
+    "gn:country_code":"AT",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774033,
+    "gn:latitude":46.72611,
+    "gn:longitude":14.54639,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Klein Sankt Veit",
+    "gn:population":248,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838391,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774033
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2f640c8819c15f3c3c51179f2c72b1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838391,
+            "locality_id":1226649097,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226649097,
+    "wof:lastmodified":1536853437,
+    "wof:name":"Klein Sankt Veit",
+    "wof:parent_id":1108838391,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54639,
+    46.72611,
+    14.54639,
+    46.72611
+],
+  "geometry": {"coordinates":[14.54639,46.72611],"type":"Point"}
+}

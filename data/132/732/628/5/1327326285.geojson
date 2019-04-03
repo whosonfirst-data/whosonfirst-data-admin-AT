@@ -1,0 +1,74 @@
+{
+  "id": 1327326285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,47.03333,15.35,47.03333",
+    "geom:latitude":47.03333,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606",
+    "gn:admin3_code":"60665.0",
+    "gn:asciiname":"Mantscha",
+    "gn:country_code":"AT",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771989,
+    "gn:latitude":47.03333,
+    "gn:longitude":15.35,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mantscha",
+    "gn:population":467,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839187,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771989
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a1ec854bf4bf1638288c25361308b7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839187,
+            "locality_id":1327326285,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1327326285,
+    "wof:lastmodified":1536833063,
+    "wof:name":"Mantscha",
+    "wof:parent_id":1108839187,
+    "wof:placetype":"locality",
+    "wof:population":467,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    47.03333,
+    15.35,
+    47.03333
+],
+  "geometry": {"coordinates":[15.35,47.03333],"type":"Point"}
+}

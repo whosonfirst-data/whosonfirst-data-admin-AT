@@ -1,0 +1,74 @@
+{
+  "id": 1276994117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54464,46.61186,13.54464,46.61186",
+    "geom:latitude":46.61186,
+    "geom:longitude":13.54464,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20316.0",
+    "gn:asciiname":"Bichlhof",
+    "gn:country_code":"AT",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594208,
+    "gn:latitude":46.61186,
+    "gn:longitude":13.54464,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bichlhof",
+    "gn:population":13,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838157,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594208
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"34704e736865f1307c4cecf8a3ebbb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838157,
+            "locality_id":1276994117,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1276994117,
+    "wof:lastmodified":1536887425,
+    "wof:name":"Bichlhof",
+    "wof:parent_id":1108838157,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54464,
+    46.61186,
+    13.54464,
+    46.61186
+],
+  "geometry": {"coordinates":[13.54464,46.61186],"type":"Point"}
+}

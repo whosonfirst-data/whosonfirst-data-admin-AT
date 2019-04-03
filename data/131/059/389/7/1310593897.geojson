@@ -1,0 +1,71 @@
+{
+  "id": 1310593897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,46.78333,15.96667,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62335.0",
+    "gn:asciiname":"Kratzer",
+    "gn:country_code":"AT",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2608425,
+    "gn:latitude":46.78333,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"2017-10-10",
+    "gn:name":"Kratzer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838807,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2608425
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"43a23d327c83ed2c467b3fda1fa0a985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108838807,
+            "locality_id":1310593897,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310593897,
+    "wof:lastmodified":1536789874,
+    "wof:name":"Kratzer",
+    "wof:parent_id":1108838807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    46.78333,
+    15.96667,
+    46.78333
+],
+  "geometry": {"coordinates":[15.96667,46.78333],"type":"Point"}
+}

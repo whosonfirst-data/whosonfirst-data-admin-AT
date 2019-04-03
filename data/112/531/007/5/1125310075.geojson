@@ -1,0 +1,104 @@
+{
+  "id": 1125310075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.97028,46.74306,12.97028,46.74306",
+    "geom:latitude":46.74306,
+    "geom:longitude":12.97028,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.74306,
+    "lbl:longitude":12.97028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u0434\u0440\u0430\u0443\u0431\u0443\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u0434\u0440\u0430\u0443\u0431\u0443\u0440\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Ober-Drauberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5fb7\u52b3\u5821"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2770264,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Oberdrauburg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":62,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1195569,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673632,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770264,
+        "gp:id":12673632,
+        "qs_pg:id":1195569
+    },
+    "wof:country":"AT",
+    "wof:created":1497043927,
+    "wof:geomhash":"60457d8720ec213be1f9279e98b6d309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1125310075,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125310075,
+    "wof:lastmodified":1536698149,
+    "wof:name":"Oberdrauburg",
+    "wof:parent_id":102049701,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838285
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.97028,
+    46.74306,
+    12.97028,
+    46.74306
+],
+  "geometry": {"coordinates":[12.97028,46.74306],"type":"Point"}
+}

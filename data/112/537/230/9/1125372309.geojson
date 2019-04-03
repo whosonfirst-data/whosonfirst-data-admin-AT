@@ -1,0 +1,110 @@
+{
+  "id": 1125372309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78204,47.58651,13.78204,47.58651",
+    "geom:latitude":47.58651,
+    "geom:longitude":13.78204,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4831,
+    "gn:population":4798,
+    "iso:country":"AT",
+    "lbl:latitude":47.58651,
+    "lbl:longitude":13.78204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Bod Aussee"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0410\u0443\u0441\u0437\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0410\u0443\u0441\u0437\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u5967\u585e"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873491,
+    "qs_pg:gn_pop":4831,
+    "qs_pg:name":"Bad Aussee",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":463,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108960,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674885,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873491,
+        "gp:id":12674885,
+        "qs_pg:id":108960
+    },
+    "wof:concordances_alt":{
+        "gn:id":2782070,
+        "qs_pg:id":956248
+    },
+    "wof:country":"AT",
+    "wof:created":1497047492,
+    "wof:geomhash":"e9c8738cfa0b55fbc84f5d218f81f9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125372309,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125372309,
+    "wof:lastmodified":1536698206,
+    "wof:name":"Bad Aussee",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":4798,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838965
+    ],
+    "wof:supersedes":[
+        1125299023
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78204,
+    47.58651,
+    13.78204,
+    47.58651
+],
+  "geometry": {"coordinates":[13.78204,47.58651],"type":"Point"}
+}

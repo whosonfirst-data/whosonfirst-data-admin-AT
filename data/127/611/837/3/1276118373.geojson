@@ -1,0 +1,74 @@
+{
+  "id": 1276118373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61388,48.57292,14.61388,48.57292",
+    "geom:latitude":48.57292,
+    "geom:longitude":14.61388,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40616.0",
+    "gn:asciiname":"Eben",
+    "gn:country_code":"AT",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780565,
+    "gn:latitude":48.57292,
+    "gn:longitude":14.61388,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Eben",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835095,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780565
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"38b0e0416af058ff189577b419fd1768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835095,
+            "locality_id":1276118373,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276118373,
+    "wof:lastmodified":1537063834,
+    "wof:name":"Eben",
+    "wof:parent_id":1108835095,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61388,
+    48.57292,
+    14.61388,
+    48.57292
+],
+  "geometry": {"coordinates":[14.61388,48.57292],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226048853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4,48.03333,13.4,48.03333",
+    "geom:latitude":48.03333,
+    "geom:longitude":13.4,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41708.0",
+    "gn:asciiname":"Gmainegg",
+    "gn:country_code":"AT",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778446,
+    "gn:latitude":48.03333,
+    "gn:longitude":13.4,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Gmainegg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836435,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778446
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fc9bb89474948f9bdcc876cf91522baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836435,
+            "locality_id":1226048853,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226048853,
+    "wof:lastmodified":1536720991,
+    "wof:name":"Gmainegg",
+    "wof:parent_id":1108836435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4,
+    48.03333,
+    13.4,
+    48.03333
+],
+  "geometry": {"coordinates":[13.4,48.03333],"type":"Point"}
+}

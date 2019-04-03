@@ -1,0 +1,82 @@
+{
+  "id": 1125327423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01895,48.39685,15.01895,48.39685",
+    "geom:latitude":48.39685,
+    "geom:longitude":15.01895,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":378,
+    "gn:population":350,
+    "iso:country":"AT",
+    "lbl:latitude":48.39685,
+    "lbl:longitude":15.01895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871956,
+    "qs_pg:gn_pop":378,
+    "qs_pg:name":"B\u00e4rnkopf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108433,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871956,
+        "qs_pg:id":108433
+    },
+    "wof:country":"AT",
+    "wof:created":1497044899,
+    "wof:geomhash":"86c8a925f49624a9fd2ee1377c9d0f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1125327423,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125327423,
+    "wof:lastmodified":1534531027,
+    "wof:name":"B\u00e4rnkopf",
+    "wof:parent_id":102049895,
+    "wof:placetype":"localadmin",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834825
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01895,
+    48.39685,
+    15.01895,
+    48.39685
+],
+  "geometry": {"coordinates":[15.01895,48.39685],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1125312215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.27656,48.41149,14.27656,48.41149",
+    "geom:latitude":48.41149,
+    "geom:longitude":14.27656,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.41149,
+    "lbl:longitude":14.27656,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kirchschlag"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2774369,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kirchschlag bei Linz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":191,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":478,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1107699,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674437,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774369,
+        "gp:id":12674437,
+        "qs_pg:id":1107699
+    },
+    "wof:country":"AT",
+    "wof:created":1497044063,
+    "wof:geomhash":"e26e27e3e4ef2d698f8e85137225eda9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1125312215,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125312215,
+    "wof:lastmodified":1534530982,
+    "wof:name":"Kirchschlag bei Linz",
+    "wof:parent_id":102049881,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836163
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27656,
+    48.41149,
+    14.27656,
+    48.41149
+],
+  "geometry": {"coordinates":[14.27656,48.41149],"type":"Point"}
+}

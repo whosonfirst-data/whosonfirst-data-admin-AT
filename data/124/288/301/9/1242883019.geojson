@@ -1,0 +1,74 @@
+{
+  "id": 1242883019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.00422,46.7563,14.00422,46.7563",
+    "geom:latitude":46.7563,
+    "geom:longitude":14.00422,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21005.0",
+    "gn:asciiname":"Lassen",
+    "gn:country_code":"AT",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594031,
+    "gn:latitude":46.7563,
+    "gn:longitude":14.00422,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lassen",
+    "gn:population":11,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838129,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594031
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"df98cc7bfa9ddb098991821426c2a5f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838129,
+            "locality_id":1242883019,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1242883019,
+    "wof:lastmodified":1536621615,
+    "wof:name":"Lassen",
+    "wof:parent_id":1108838129,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.00422,
+    46.7563,
+    14.00422,
+    46.7563
+],
+  "geometry": {"coordinates":[14.00422,46.7563],"type":"Point"}
+}

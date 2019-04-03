@@ -1,0 +1,74 @@
+{
+  "id": 1344080735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01186,48.48001,14.01186,48.48001",
+    "geom:latitude":48.48001,
+    "geom:longitude":14.01186,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41316.0",
+    "gn:asciiname":"Etzleinsberg",
+    "gn:country_code":"AT",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779887,
+    "gn:latitude":48.48001,
+    "gn:longitude":14.01186,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Etzleinsberg",
+    "gn:population":40,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835963,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779887
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"17343fb97d345c45f7841ef80f9f7e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835963,
+            "locality_id":1344080735,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344080735,
+    "wof:lastmodified":1536845301,
+    "wof:name":"Etzleinsberg",
+    "wof:parent_id":1108835963,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01186,
+    48.48001,
+    14.01186,
+    48.48001
+],
+  "geometry": {"coordinates":[14.01186,48.48001],"type":"Point"}
+}

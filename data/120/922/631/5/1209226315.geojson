@@ -1,0 +1,63 @@
+{
+  "id": 1209226315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01667,47.6,16.01667,47.6",
+    "geom:latitude":47.6,
+    "geom:longitude":16.01667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"318.0",
+    "gn:admin3_code":"31814.0",
+    "gn:asciiname":"Sellhof",
+    "gn:country_code":"AT",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765180,
+    "gn:latitude":47.6,
+    "gn:longitude":16.01667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Sellhof",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765180
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ed4e411d5819498d8d201c1ae85941fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209226315
+        }
+    ],
+    "wof:id":1209226315,
+    "wof:lastmodified":1536293788,
+    "wof:name":"Sellhof",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01667,
+    47.6,
+    16.01667,
+    47.6
+],
+  "geometry": {"coordinates":[16.01667,47.6],"type":"Point"}
+}

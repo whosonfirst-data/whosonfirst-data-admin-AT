@@ -1,0 +1,94 @@
+{
+  "id": 1125343855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9,46.85,13.9,46.85",
+    "geom:latitude":46.85,
+    "geom:longitude":13.9,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "gn:population":1822,
+    "iso:country":"AT",
+    "lbl:latitude":46.85,
+    "lbl:longitude":13.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0439\u0445\u0435\u043d\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0439\u0445\u0435\u043d\u0430\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u0445\u0435\u043d\u0430\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d56\u6b47\u7459"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2767779,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Reichenau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":275773,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767779,
+        "qs_pg:id":275773
+    },
+    "wof:country":"AT",
+    "wof:created":1497045810,
+    "wof:geomhash":"d23e4c1bc06f2006f8d2f7cf5bc28cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1125343855,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125343855,
+    "wof:lastmodified":1534379123,
+    "wof:name":"Reichenau",
+    "wof:parent_id":102049689,
+    "wof:placetype":"localadmin",
+    "wof:population":1822,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838135
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9,
+    46.85,
+    13.9,
+    46.85
+],
+  "geometry": {"coordinates":[13.9,46.85],"type":"Point"}
+}

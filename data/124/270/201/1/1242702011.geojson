@@ -1,0 +1,74 @@
+{
+  "id": 1242702011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56959,48.59847,14.56959,48.59847",
+    "geom:latitude":48.59847,
+    "geom:longitude":14.56959,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40626.0",
+    "gn:asciiname":"Mairspindt",
+    "gn:country_code":"AT",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772065,
+    "gn:latitude":48.59847,
+    "gn:longitude":14.56959,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mairspindt",
+    "gn:population":122,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835117,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772065
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e2cb044fe57998a7414c396fe53e1de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835117,
+            "locality_id":1242702011,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1242702011,
+    "wof:lastmodified":1536883999,
+    "wof:name":"Mairspindt",
+    "wof:parent_id":1108835117,
+    "wof:placetype":"locality",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56959,
+    48.59847,
+    14.56959,
+    48.59847
+],
+  "geometry": {"coordinates":[14.56959,48.59847],"type":"Point"}
+}

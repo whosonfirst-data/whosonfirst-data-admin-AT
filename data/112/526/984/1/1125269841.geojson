@@ -1,0 +1,82 @@
+{
+  "id": 1125269841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58389,48.34677,16.58389,48.34677",
+    "geom:latitude":48.34677,
+    "geom:longitude":16.58389,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1438,
+    "gn:population":1494,
+    "iso:country":"AT",
+    "lbl:latitude":48.34677,
+    "lbl:longitude":16.58389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872957,
+    "qs_pg:gn_pop":1438,
+    "qs_pg:name":"Gro\u00df-Engersdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743457,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872957,
+        "qs_pg:id":743457
+    },
+    "wof:country":"AT",
+    "wof:created":1497042080,
+    "wof:geomhash":"46af4a9a59aa59096ceb2576a4c07a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1125269841,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125269841,
+    "wof:lastmodified":1536698107,
+    "wof:name":"Gro\u00df-Engersdorf",
+    "wof:parent_id":102049897,
+    "wof:placetype":"localadmin",
+    "wof:population":1494,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836669
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58389,
+    48.34677,
+    16.58389,
+    48.34677
+],
+  "geometry": {"coordinates":[16.58389,48.34677],"type":"Point"}
+}

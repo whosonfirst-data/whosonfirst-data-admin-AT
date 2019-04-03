@@ -1,0 +1,71 @@
+{
+  "id": 1243556539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17734,48.18273,16.17734,48.18273",
+    "geom:latitude":48.18273,
+    "geom:longitude":16.17734,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31952.0",
+    "gn:asciiname":"Baunzen",
+    "gn:country_code":"AT",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781930,
+    "gn:latitude":48.18273,
+    "gn:longitude":16.17734,
+    "gn:modification_date":"2017-06-16",
+    "gn:name":"Baunzen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835737,
+        85632785,
+        102049867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781930
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8522c836b20d14b778aadad4594130e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108835737,
+            "locality_id":1243556539,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243556539,
+    "wof:lastmodified":1536646399,
+    "wof:name":"Baunzen",
+    "wof:parent_id":1108835737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17734,
+    48.18273,
+    16.17734,
+    48.18273
+],
+  "geometry": {"coordinates":[16.17734,48.18273],"type":"Point"}
+}

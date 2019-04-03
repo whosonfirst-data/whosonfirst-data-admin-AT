@@ -1,0 +1,74 @@
+{
+  "id": 1360085379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14387,48.22153,14.14387,48.22153",
+    "geom:latitude":48.22153,
+    "geom:longitude":14.14387,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"410",
+    "gn:admin3_code":"41016.0",
+    "gn:asciiname":"Niederbachham",
+    "gn:country_code":"AT",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770617,
+    "gn:latitude":48.22153,
+    "gn:longitude":14.14387,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Niederbachham",
+    "gn:population":32,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835551,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770617
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f976e7d3471f58494565afa0f38173f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835551,
+            "locality_id":1360085379,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1360085379,
+    "wof:lastmodified":1536945670,
+    "wof:name":"Niederbachham",
+    "wof:parent_id":1108835551,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14387,
+    48.22153,
+    14.14387,
+    48.22153
+],
+  "geometry": {"coordinates":[14.14387,48.22153],"type":"Point"}
+}

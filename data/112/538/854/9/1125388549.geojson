@@ -1,0 +1,102 @@
+{
+  "id": 1125388549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,47.3,15.8,47.3",
+    "geom:latitude":47.3,
+    "geom:longitude":15.8,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "gn:population":654,
+    "iso:country":"AT",
+    "lbl:latitude":47.3,
+    "lbl:longitude":15.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2768148,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rabenwald",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1016761,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674973,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768148,
+        "gp:id":12674973,
+        "qs_pg:id":1016761
+    },
+    "wof:concordances_alt":{
+        "gn:id":7872360,
+        "qs_pg:id":108586
+    },
+    "wof:country":"AT",
+    "wof:created":1497048558,
+    "wof:geomhash":"03b8e28ad22e1474cb688877ddcccef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1125388549,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125388549,
+    "wof:lastmodified":1536698224,
+    "wof:name":"Rabenwald",
+    "wof:parent_id":1108892549,
+    "wof:placetype":"localadmin",
+    "wof:population":654,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839107
+    ],
+    "wof:supersedes":[
+        1125273597
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    47.3,
+    15.8,
+    47.3
+],
+  "geometry": {"coordinates":[15.8,47.3],"type":"Point"}
+}

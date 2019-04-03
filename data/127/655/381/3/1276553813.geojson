@@ -1,0 +1,71 @@
+{
+  "id": 1276553813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14026,48.12508,14.14026,48.12508",
+    "geom:latitude":48.12508,
+    "geom:longitude":14.14026,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"410",
+    "gn:admin3_code":"41004.0",
+    "gn:asciiname":"Hundsfussberg",
+    "gn:country_code":"AT",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775401,
+    "gn:latitude":48.12508,
+    "gn:longitude":14.14026,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Hundsfussberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835525,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775401
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"80690e4fa16899929bdd40aa8b47c64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835525,
+            "locality_id":1276553813,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276553813,
+    "wof:lastmodified":1536979900,
+    "wof:name":"Hundsfussberg",
+    "wof:parent_id":1108835525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14026,
+    48.12508,
+    14.14026,
+    48.12508
+],
+  "geometry": {"coordinates":[14.14026,48.12508],"type":"Point"}
+}

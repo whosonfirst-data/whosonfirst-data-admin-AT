@@ -1,0 +1,74 @@
+{
+  "id": 1310504663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92424,46.74398,14.92424,46.74398",
+    "geom:latitude":46.74398,
+    "geom:longitude":14.92424,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"209",
+    "gn:admin3_code":"20914.0",
+    "gn:asciiname":"Steinberg-Hart",
+    "gn:country_code":"AT",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594657,
+    "gn:latitude":46.74398,
+    "gn:longitude":14.92424,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Steinberg-Hart",
+    "gn:population":71,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838109,
+        85632785,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594657
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1d130a9af4741cf7be8b25cbaccfd87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838109,
+            "locality_id":1310504663,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310504663,
+    "wof:lastmodified":1536918685,
+    "wof:name":"Steinberg-Hart",
+    "wof:parent_id":1108838109,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92424,
+    46.74398,
+    14.92424,
+    46.74398
+],
+  "geometry": {"coordinates":[14.92424,46.74398],"type":"Point"}
+}

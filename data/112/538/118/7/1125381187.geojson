@@ -1,0 +1,113 @@
+{
+  "id": 1125381187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90373,46.88742,15.90373,46.88742",
+    "geom:latitude":46.88742,
+    "geom:longitude":15.90373,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2141,
+    "gn:population":5336,
+    "iso:country":"AT",
+    "lbl:latitude":46.88742,
+    "lbl:longitude":15.90373,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0434-\u0413\u043b\u0430\u0439\u0445\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434-\u0413\u043b\u0430\u0439\u0445\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0434 \u0413\u043b\u0430\u0439\u0445\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Gleichenberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u683c\u83b1\u5174\u8d1d\u683c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872283,
+    "qs_pg:gn_pop":2141,
+    "qs_pg:name":"Bad Gleichenberg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":186,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":318,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":381027,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674798,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872283,
+        "gp:id":12674798,
+        "qs_pg:id":381027
+    },
+    "wof:concordances_alt":{
+        "gn:id":2782056,
+        "qs_pg:id":1120135
+    },
+    "wof:country":"AT",
+    "wof:created":1497048058,
+    "wof:geomhash":"2b21b5fe70a771373bc6bb149e12796c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125381187,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125381187,
+    "wof:lastmodified":1536698216,
+    "wof:name":"Bad Gleichenberg",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:population":5336,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839269
+    ],
+    "wof:supersedes":[
+        1125335021
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90373,
+    46.88742,
+    15.90373,
+    46.88742
+],
+  "geometry": {"coordinates":[15.90373,46.88742],"type":"Point"}
+}

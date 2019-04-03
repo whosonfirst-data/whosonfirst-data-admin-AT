@@ -1,0 +1,74 @@
+{
+  "id": 1209721585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50221,48.40206,14.50221,48.40206",
+    "geom:latitude":48.40206,
+    "geom:longitude":14.50221,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40612.0",
+    "gn:asciiname":"Schiernersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591890,
+    "gn:latitude":48.40206,
+    "gn:longitude":14.50221,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schiernersdorf",
+    "gn:population":51,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835085,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591890
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7564eedda7974d9264151ce8bad2537f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835085,
+            "locality_id":1209721585,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1209721585,
+    "wof:lastmodified":1536386133,
+    "wof:name":"Schiernersdorf",
+    "wof:parent_id":1108835085,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50221,
+    48.40206,
+    14.50221,
+    48.40206
+],
+  "geometry": {"coordinates":[14.50221,48.40206],"type":"Point"}
+}

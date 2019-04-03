@@ -1,0 +1,74 @@
+{
+  "id": 1226546169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00172,48.12319,13.00172,48.12319",
+    "geom:latitude":48.12319,
+    "geom:longitude":13.00172,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40412.0",
+    "gn:asciiname":"Buchsberg",
+    "gn:country_code":"AT",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610151,
+    "gn:latitude":48.12319,
+    "gn:longitude":13.00172,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Buchsberg",
+    "gn:population":9,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834733,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610151
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"95b302d65a24da1a5d3ec5eec462263d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834733,
+            "locality_id":1226546169,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226546169,
+    "wof:lastmodified":1536996597,
+    "wof:name":"Buchsberg",
+    "wof:parent_id":1108834733,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00172,
+    48.12319,
+    13.00172,
+    48.12319
+],
+  "geometry": {"coordinates":[13.00172,48.12319],"type":"Point"}
+}

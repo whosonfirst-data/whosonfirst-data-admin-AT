@@ -1,0 +1,66 @@
+{
+  "id": 1209421241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01667,48.51667,14.01667,48.51667",
+    "geom:latitude":48.51667,
+    "geom:longitude":14.01667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41305.0",
+    "gn:asciiname":"Schoersching",
+    "gn:country_code":"AT",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765645,
+    "gn:latitude":48.51667,
+    "gn:longitude":14.01667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sch\u00f6rsching",
+    "gn:population":43,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765645
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3765ab52a5c5e575f231ad0ae7875cad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209421241
+        }
+    ],
+    "wof:id":1209421241,
+    "wof:lastmodified":1536287524,
+    "wof:name":"Schoersching",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01667,
+    48.51667,
+    14.01667,
+    48.51667
+],
+  "geometry": {"coordinates":[14.01667,48.51667],"type":"Point"}
+}

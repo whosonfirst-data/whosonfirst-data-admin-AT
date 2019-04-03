@@ -1,0 +1,74 @@
+{
+  "id": 1243478561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02868,48.35636,14.02868,48.35636",
+    "geom:latitude":48.35636,
+    "geom:longitude":14.02868,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"416.0",
+    "gn:admin3_code":"41606.0",
+    "gn:asciiname":"Unterlandshaag",
+    "gn:country_code":"AT",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762826,
+    "gn:latitude":48.35636,
+    "gn:longitude":14.02868,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterlandshaag",
+    "gn:population":118,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836147,
+        85632785,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762826
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"699e0f4086ecd183e902ea3fc24faba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836147,
+            "locality_id":1243478561,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243478561,
+    "wof:lastmodified":1536759387,
+    "wof:name":"Unterlandshaag",
+    "wof:parent_id":1108836147,
+    "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02868,
+    48.35636,
+    14.02868,
+    48.35636
+],
+  "geometry": {"coordinates":[14.02868,48.35636],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125409777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94292,48.28945,15.94292,48.28945",
+    "geom:latitude":48.28945,
+    "geom:longitude":15.94292,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2556,
+    "gn:population":3059,
+    "iso:country":"AT",
+    "lbl:latitude":48.28945,
+    "lbl:longitude":15.94292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873038,
+    "qs_pg:gn_pop":2556,
+    "qs_pg:name":"Michelhausen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155406,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873038,
+        "qs_pg:id":1155406
+    },
+    "wof:country":"AT",
+    "wof:created":1497049905,
+    "wof:geomhash":"632c2450990605e12161b957b00a7db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1125409777,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125409777,
+    "wof:lastmodified":1534531058,
+    "wof:name":"Michelhausen",
+    "wof:parent_id":102049879,
+    "wof:placetype":"localadmin",
+    "wof:population":3059,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835035
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94292,
+    48.28945,
+    15.94292,
+    48.28945
+],
+  "geometry": {"coordinates":[15.94292,48.28945],"type":"Point"}
+}

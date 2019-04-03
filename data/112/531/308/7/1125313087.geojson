@@ -1,0 +1,82 @@
+{
+  "id": 1125313087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99773,46.67338,13.99773,46.67338",
+    "geom:latitude":46.67338,
+    "geom:longitude":13.99773,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":740,
+    "gn:population":777,
+    "iso:country":"AT",
+    "lbl:latitude":46.67338,
+    "lbl:longitude":13.99773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871685,
+    "qs_pg:gn_pop":740,
+    "qs_pg:name":"Ossiach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1245684,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871685,
+        "qs_pg:id":1245684
+    },
+    "wof:country":"AT",
+    "wof:created":1497044119,
+    "wof:geomhash":"6760fb453b03784e7eb9845af0065bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1125313087,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125313087,
+    "wof:lastmodified":1534531061,
+    "wof:name":"Ossiach",
+    "wof:parent_id":102049689,
+    "wof:placetype":"localadmin",
+    "wof:population":777,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838131
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99773,
+    46.67338,
+    13.99773,
+    46.67338
+],
+  "geometry": {"coordinates":[13.99773,46.67338],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242876075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36846,48.23148,15.36846,48.23148",
+    "geom:latitude":48.23148,
+    "geom:longitude":15.36846,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"315.0",
+    "gn:admin3_code":"31524.0",
+    "gn:asciiname":"Pielachberg",
+    "gn:country_code":"AT",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768842,
+    "gn:latitude":48.23148,
+    "gn:longitude":15.36846,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pielachberg",
+    "gn:population":453,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835431,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768842
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9f51efcd2d1ba25c7307795068899ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835431,
+            "locality_id":1242876075,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1242876075,
+    "wof:lastmodified":1536632304,
+    "wof:name":"Pielachberg",
+    "wof:parent_id":1108835431,
+    "wof:placetype":"locality",
+    "wof:population":453,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36846,
+    48.23148,
+    15.36846,
+    48.23148
+],
+  "geometry": {"coordinates":[15.36846,48.23148],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125381097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48816,48.02699,16.48816,48.02699",
+    "geom:latitude":48.02699,
+    "geom:longitude":16.48816,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2567,
+    "gn:population":3236,
+    "iso:country":"AT",
+    "lbl:latitude":48.02699,
+    "lbl:longitude":16.48816,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871947,
+    "qs_pg:gn_pop":2567,
+    "qs_pg:name":"Gramatneusiedl",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":380970,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871947,
+        "qs_pg:id":380970
+    },
+    "wof:country":"AT",
+    "wof:created":1497048051,
+    "wof:geomhash":"30e4e8a01a1093ac889374d477fc2f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1125381097,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125381097,
+    "wof:lastmodified":1534530984,
+    "wof:name":"Gramatneusiedl",
+    "wof:parent_id":102049843,
+    "wof:placetype":"localadmin",
+    "wof:population":3236,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836311
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48816,
+    48.02699,
+    16.48816,
+    48.02699
+],
+  "geometry": {"coordinates":[16.48816,48.02699],"type":"Point"}
+}

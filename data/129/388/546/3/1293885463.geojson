@@ -1,0 +1,74 @@
+{
+  "id": 1293885463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30353,48.75608,15.30353,48.75608",
+    "geom:latitude":48.75608,
+    "geom:longitude":15.30353,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"322",
+    "gn:admin3_code":"32223.0",
+    "gn:asciiname":"Matzlesschlag",
+    "gn:country_code":"AT",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771790,
+    "gn:latitude":48.75608,
+    "gn:longitude":15.30353,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Matzlesschlag",
+    "gn:population":46,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836227,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771790
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2b25f0c56189f83602ab92983a304e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836227,
+            "locality_id":1293885463,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293885463,
+    "wof:lastmodified":1536710821,
+    "wof:name":"Matzlesschlag",
+    "wof:parent_id":1108836227,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30353,
+    48.75608,
+    15.30353,
+    48.75608
+],
+  "geometry": {"coordinates":[15.30353,48.75608],"type":"Point"}
+}

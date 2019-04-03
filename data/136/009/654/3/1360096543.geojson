@@ -1,0 +1,78 @@
+{
+  "id": 1360096543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22722,48.03149,15.22722,48.03149",
+    "geom:latitude":48.03149,
+    "geom:longitude":15.22722,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"320.0",
+    "gn:admin3_code":"32012.0",
+    "gn:asciiname":"Sankt Georgen an der Leys",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2766700,
+    "gn:latitude":48.03149,
+    "gn:longitude":15.22722,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Georgen an der Leys",
+    "gn:population":463,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Georgen"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835305,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766700
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"65c7ef2fffe0d68d599571f863cd5cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835305,
+            "locality_id":1360096543,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1360096543,
+    "wof:lastmodified":1537584935,
+    "wof:name":"Sankt Georgen an der Leys",
+    "wof:parent_id":1108835305,
+    "wof:placetype":"locality",
+    "wof:population":463,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22722,
+    48.03149000000001,
+    15.22722,
+    48.03149000000001
+],
+  "geometry": {"coordinates":[15.22722,48.03149000000001],"type":"Point"}
+}

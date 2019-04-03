@@ -1,0 +1,63 @@
+{
+  "id": 1209513047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,46.95,15.96667,46.95",
+    "geom:latitude":46.95,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62378.0",
+    "gn:asciiname":"Nussritzberg",
+    "gn:country_code":"AT",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2608080,
+    "gn:latitude":46.95,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Nu\u00dfritzberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2608080
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fd5015770ab91600509e34c880adeb50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209513047
+        }
+    ],
+    "wof:id":1209513047,
+    "wof:lastmodified":1536284821,
+    "wof:name":"Nussritzberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    46.95,
+    15.96667,
+    46.95
+],
+  "geometry": {"coordinates":[15.96667,46.95],"type":"Point"}
+}

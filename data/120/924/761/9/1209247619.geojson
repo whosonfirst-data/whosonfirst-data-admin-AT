@@ -1,0 +1,66 @@
+{
+  "id": 1209247619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47646,48.49596,14.47646,48.49596",
+    "geom:latitude":48.49596,
+    "geom:longitude":14.47646,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40601.0",
+    "gn:asciiname":"Troelsberg",
+    "gn:country_code":"AT",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763319,
+    "gn:latitude":48.49596,
+    "gn:longitude":14.47646,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Tr\u00f6lsberg",
+    "gn:population":229,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763319
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e2e28150d8e69ce545bd126193e3720e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209247619
+        }
+    ],
+    "wof:id":1209247619,
+    "wof:lastmodified":1536293109,
+    "wof:name":"Troelsberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47646,
+    48.49596,
+    14.47646,
+    48.49596
+],
+  "geometry": {"coordinates":[14.47646,48.49596],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225944617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8614,48.07963,13.8614,48.07963",
+    "geom:latitude":48.07963,
+    "geom:longitude":13.8614,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"418.0",
+    "gn:admin3_code":"41820.0",
+    "gn:asciiname":"Stadl-Traun",
+    "gn:country_code":"AT",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764720,
+    "gn:latitude":48.07963,
+    "gn:longitude":13.8614,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stadl-Traun",
+    "gn:population":3643,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836579,
+        85632785,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764720
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"10a3994c633ffb4fa0aa81312e09d9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836579,
+            "locality_id":1225944617,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225944617,
+    "wof:lastmodified":1536869877,
+    "wof:name":"Stadl-Traun",
+    "wof:parent_id":1108836579,
+    "wof:placetype":"locality",
+    "wof:population":3643,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8614,
+    48.07963,
+    13.8614,
+    48.07963
+],
+  "geometry": {"coordinates":[13.8614,48.07963],"type":"Point"}
+}

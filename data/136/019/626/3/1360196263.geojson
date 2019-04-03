@@ -1,0 +1,78 @@
+{
+  "id": 1360196263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08667,48.54556,16.08667,48.54556",
+    "geom:latitude":48.54556,
+    "geom:longitude":16.08667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"310.0",
+    "gn:admin3_code":"31022.0",
+    "gn:asciiname":"Raschala",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767933,
+    "gn:latitude":48.54556,
+    "gn:longitude":16.08667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Raschala",
+    "gn:population":323,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raschlaa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835367,
+        85632785,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767933
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cda878987ad8ed4f2214a8ad29b39656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835367,
+            "locality_id":1360196263,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1360196263,
+    "wof:lastmodified":1537584940,
+    "wof:name":"Raschala",
+    "wof:parent_id":1108835367,
+    "wof:placetype":"locality",
+    "wof:population":323,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08667,
+    48.54556,
+    16.08667,
+    48.54556
+],
+  "geometry": {"coordinates":[16.08667,48.54556],"type":"Point"}
+}

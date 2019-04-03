@@ -1,0 +1,69 @@
+{
+  "id": 1326529239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.75209,47.82502,12.75209,47.82502",
+    "geom:latitude":47.82502,
+    "geom:longitude":12.75209,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Loch",
+    "gn:country_code":"AT",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6930507,
+    "gn:latitude":47.82502,
+    "gn:longitude":12.75209,
+    "gn:modification_date":"2009-02-09",
+    "gn:name":"Loch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682571,
+        102191581,
+        85633111,
+        404227567,
+        102063227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6930507
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a73ef8ef490b550e220745c1471859ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063227,
+            "locality_id":1326529239,
+            "macrocounty_id":404227567,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1326529239,
+    "wof:lastmodified":1536987572,
+    "wof:name":"Loch",
+    "wof:parent_id":102063227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.75209,
+    47.82502,
+    12.75209,
+    47.82502
+],
+  "geometry": {"coordinates":[12.75209,47.82502],"type":"Point"}
+}

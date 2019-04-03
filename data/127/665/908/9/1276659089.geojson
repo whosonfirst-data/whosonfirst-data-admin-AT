@@ -1,0 +1,71 @@
+{
+  "id": 1276659089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13776,48.14112,16.13776,48.14112",
+    "geom:latitude":48.14112,
+    "geom:longitude":16.13776,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"317",
+    "gn:admin3_code":"31703.0",
+    "gn:asciiname":"Breitenfurt-West",
+    "gn:country_code":"AT",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7287988,
+    "gn:latitude":48.14112,
+    "gn:longitude":16.13776,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Breitenfurt-West",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835791,
+        85632785,
+        102049837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7287988
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8df0f36edc17bd042f5989d07c2d6606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108835791,
+            "locality_id":1276659089,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276659089,
+    "wof:lastmodified":1536838217,
+    "wof:name":"Breitenfurt-West",
+    "wof:parent_id":1108835791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13776,
+    48.14112,
+    16.13776,
+    48.14112
+],
+  "geometry": {"coordinates":[16.13776,48.14112],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 1125306101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83706,47.85412,16.83706,47.85412",
+    "geom:latitude":47.85412,
+    "geom:longitude":16.83706,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.85412,
+    "lbl:longitude":16.83706,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Poudistoaf"
+    ],
+    "name:deu_x_preferred":[
+        "Podersdorf"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00e1tfalu"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444-\u0430\u043c-\u0417\u0435\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444-\u0430\u043c-\u0417\u0435\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u043e\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Podersdorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ee8\u6e56\u6ce2\u5fb7\u5c14\u65af\u591a\u592b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2768622,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Podersdorf am See",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Burgenland",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1219,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1191981,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673492,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Burgenland",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768622,
+        "gp:id":12673492,
+        "qs_pg:id":1191981
+    },
+    "wof:country":"AT",
+    "wof:created":1497043701,
+    "wof:geomhash":"6425d068378e68729cda3291cad5c390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1125306101,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125306101,
+    "wof:lastmodified":1536698147,
+    "wof:name":"Podersdorf am See",
+    "wof:parent_id":102049841,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838607
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83706,
+    47.85412,
+    16.83706,
+    47.85412
+],
+  "geometry": {"coordinates":[16.83706,47.85412],"type":"Point"}
+}

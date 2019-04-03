@@ -1,0 +1,113 @@
+{
+  "id": 85898527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11159506.172002,
+    "geom:bbox":"15.404239,47.074096,15.404239,47.074096",
+    "geom:latitude":47.074096,
+    "geom:longitude":15.404239,
+    "iso:country":"AT",
+    "lbl:latitude":47.074096,
+    "lbl:longitude":15.404239,
+    "mps:latitude":47.076994,
+    "mps:longitude":15.405523,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Eggenberg"
+    ],
+    "name:unk_x_variant":[
+        "Eggenberg"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7871499,
+    "qs:gn_nam_loc":"Graz, Graz Stadt, Steiermark, AT",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Eggenberg",
+    "qs:local_max":3393,
+    "qs:local_sum":13910,
+    "qs:localhoods":22,
+    "qs:name":"Eggenberg",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Steiermark",
+    "qs:name_adm2":"Graz Stadt",
+    "qs:name_lau":"Graz",
+    "qs:name_local":"Graz",
+    "qs:photo_max":483,
+    "qs:photo_sum":2283,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":73,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344713,
+    "qs:woe_adm2":12591740,
+    "qs:woe_lau":12674996,
+    "qs:woe_local":12674996,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780361,
+        "gp:id":548292,
+        "qs:id":1156295,
+        "qs_pg:id":1156295,
+        "wd:id":"Q1297479",
+        "wk:page":"Eggenberg (Graz)"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"269cbaa15e36372572f0bdca0e42e216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":85898527,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":85898527,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932075,
+    "wof:name":"Eggenberg",
+    "wof:parent_id":101748063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.404239,
+    47.074096,
+    15.404239,
+    47.074096
+],
+  "geometry": {"coordinates":[15.404239,47.074096],"type":"Point"}
+}

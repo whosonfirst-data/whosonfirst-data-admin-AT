@@ -1,0 +1,74 @@
+{
+  "id": 1226543005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06667,46.68333,14.06667,46.68333",
+    "geom:latitude":46.68333,
+    "geom:longitude":14.06667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Praegrad",
+    "gn:country_code":"AT",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768438,
+    "gn:latitude":46.68333,
+    "gn:longitude":14.06667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pr\u00e4grad",
+    "gn:population":101,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768438
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9bc4e61deb67bfea7703e593483ccb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":1226543005,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226543005,
+    "wof:lastmodified":1537001209,
+    "wof:name":"Praegrad",
+    "wof:parent_id":1108838123,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06667,
+    46.68333,
+    14.06667,
+    46.68333
+],
+  "geometry": {"coordinates":[14.06667,46.68333],"type":"Point"}
+}

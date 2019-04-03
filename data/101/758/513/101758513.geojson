@@ -1,0 +1,147 @@
+{
+  "id": 101758513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":959567.862002,
+    "geom:bbox":"14.18454204,48.2167741044,14.200960882,48.2279201866",
+    "geom:latitude":48.221876,
+    "geom:longitude":14.192474,
+    "iso:country":"AT",
+    "lbl:latitude":48.221881,
+    "lbl:longitude":14.192637,
+    "mps:latitude":48.221881,
+    "mps:longitude":14.192637,
+    "mz:hierarchy_label":1,
+    "name:bar_x_preferred":[
+        "Neibau"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0430\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Gemeindebezirk Neubau"
+    ],
+    "name:ces_x_preferred":[
+        "Neubau"
+    ],
+    "name:dan_x_preferred":[
+        "Neubau"
+    ],
+    "name:deu_x_preferred":[
+        "Neubau"
+    ],
+    "name:fra_x_preferred":[
+        "Neubau"
+    ],
+    "name:ita_x_preferred":[
+        "Neubau"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\uc774\ubc14\uc6b0"
+    ],
+    "name:lat_x_preferred":[
+        "Neubau"
+    ],
+    "name:ltz_x_preferred":[
+        "Neubau"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0458\u0431\u0430\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Neubau"
+    ],
+    "name:nor_x_preferred":[
+        "Neubau"
+    ],
+    "name:pol_x_preferred":[
+        "Neubau"
+    ],
+    "name:por_x_preferred":[
+        "Neubau"
+    ],
+    "name:ron_x_preferred":[
+        "Neubau"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0430\u0443"
+    ],
+    "name:slk_x_preferred":[
+        "Neubau"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0458\u0431\u0430\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Neubau"
+    ],
+    "name:tur_x_preferred":[
+        "Neubau"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0430\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u4f0a\u9c8d"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Ober\u00f6sterreich",
+    "qs:a1r":"0",
+    "qs:a2":"Linz - Land",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Gramastetten",
+    "qs:la_lc":"*AT41609",
+    "qs:level":"locality",
+    "qs:loc":"Neubau",
+    "qs:loc_alt":"Neubau",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835531,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20096563,
+        "qs:id":8
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8b08114214fd053b25da78a345b3e93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835531,
+            "locality_id":101758513,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":101758513,
+    "wof:lastmodified":1496609341,
+    "wof:name":"Neubau",
+    "wof:parent_id":1108835531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18454204004206,
+    48.21677410437286,
+    14.20096088204485,
+    48.2279201865631
+],
+  "geometry": {"coordinates":[[[14.19719787814387,48.22617920026875],[14.19693052634466,48.2229585029537],[14.20096088204485,48.22280508603859],[14.20066245733892,48.21921276964935],[14.19797574582486,48.21931505556347],[14.1979011955064,48.21841697329683],[14.19521452155146,48.21851919175396],[14.19514002204107,48.2176211069654],[14.19379670508084,48.21767219063707],[14.19372223265208,48.21677410437286],[14.18700572943732,48.21702927239647],[14.18722880093867,48.21972354555999],[14.18454204004206,48.21982550464207],[14.18469067623397,48.22162168877219],[14.18462255174001,48.22162427193894],[14.18584848516502,48.22428046102647],[14.18894414923676,48.22416298295673],[14.18916259598814,48.22679953188845],[14.19274869094704,48.2279201865631],[14.19719787814387,48.22617920026875]]],"type":"Polygon"}
+}

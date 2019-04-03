@@ -1,0 +1,74 @@
+{
+  "id": 1243075073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04758,48.21123,15.04758,48.21123",
+    "geom:latitude":48.21123,
+    "geom:longitude":15.04758,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31511.0",
+    "gn:asciiname":"Viehtrift",
+    "gn:country_code":"AT",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612212,
+    "gn:latitude":48.21123,
+    "gn:longitude":15.04758,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Viehtrift",
+    "gn:population":68,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836871,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612212
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7aee0b404114128fd6c08bf455e30e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836871,
+            "locality_id":1243075073,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243075073,
+    "wof:lastmodified":1536842787,
+    "wof:name":"Viehtrift",
+    "wof:parent_id":1108836871,
+    "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04758,
+    48.21123,
+    15.04758,
+    48.21123
+],
+  "geometry": {"coordinates":[15.04758,48.21123],"type":"Point"}
+}

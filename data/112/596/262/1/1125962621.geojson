@@ -1,0 +1,91 @@
+{
+  "id": 1125962621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.72083,48.6,16.72083,48.6",
+    "geom:latitude":48.6,
+    "geom:longitude":16.72083,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.6,
+    "lbl:longitude":16.72083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Prinzendorf"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2768317,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Prinzendorf an der Zaya",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1251584,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":20096961,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835927,
+        85632785,
+        102049891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768317,
+        "gp:id":20096961,
+        "qs_pg:id":1251584
+    },
+    "wof:country":"AT",
+    "wof:created":1497297859,
+    "wof:geomhash":"5bed0b580a1db638f997ba9011d32a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835927,
+            "locality_id":1125962621,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125962621,
+    "wof:lastmodified":1509403404,
+    "wof:name":"Prinzendorf an der Zaya",
+    "wof:parent_id":1108835927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72083,
+    48.6,
+    16.72083,
+    48.6
+],
+  "geometry": {"coordinates":[16.72083,48.6],"type":"Point"}
+}

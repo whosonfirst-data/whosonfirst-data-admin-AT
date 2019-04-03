@@ -1,0 +1,82 @@
+{
+  "id": 1125359995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11872,47.98866,14.11872,47.98866",
+    "geom:latitude":47.98866,
+    "geom:longitude":14.11872,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2978,
+    "gn:population":2994,
+    "iso:country":"AT",
+    "lbl:latitude":47.98866,
+    "lbl:longitude":14.11872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871044,
+    "qs_pg:gn_pop":2978,
+    "qs_pg:name":"Wartberg an der Krems",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":743269,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871044,
+        "qs_pg:id":743269
+    },
+    "wof:country":"AT",
+    "wof:created":1497046728,
+    "wof:geomhash":"34f835ec7c6ddfc2384b17dbe50c45d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1125359995,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125359995,
+    "wof:lastmodified":1534531038,
+    "wof:name":"Wartberg an der Krems",
+    "wof:parent_id":102049815,
+    "wof:placetype":"localadmin",
+    "wof:population":2994,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835513
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11872,
+    47.98866,
+    14.11872,
+    47.98866
+],
+  "geometry": {"coordinates":[14.11872,47.98866],"type":"Point"}
+}

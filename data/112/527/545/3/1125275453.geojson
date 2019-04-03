@@ -1,0 +1,82 @@
+{
+  "id": 1125275453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68064,47.49163,15.68064,47.49163",
+    "geom:latitude":47.49163,
+    "geom:longitude":15.68064,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":714,
+    "gn:population":647,
+    "iso:country":"AT",
+    "lbl:latitude":47.49163,
+    "lbl:longitude":15.68064,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873576,
+    "qs_pg:gn_pop":714,
+    "qs_pg:name":"Sankt Kathrein am Hauenstein",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108987,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873576,
+        "qs_pg:id":108987
+    },
+    "wof:country":"AT",
+    "wof:created":1497042291,
+    "wof:geomhash":"4b298511ed9cdd10da07900a99713899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125275453,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125275453,
+    "wof:lastmodified":1536698125,
+    "wof:name":"Sankt Kathrein am Hauenstein",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":647,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839391
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68064,
+    47.49163,
+    15.68064,
+    47.49163
+],
+  "geometry": {"coordinates":[15.68064,47.49163],"type":"Point"}
+}

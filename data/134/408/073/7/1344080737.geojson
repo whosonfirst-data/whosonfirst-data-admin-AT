@@ -1,0 +1,79 @@
+{
+  "id": 1344080737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90972,48.66228,13.90972,48.66228",
+    "geom:latitude":48.66228,
+    "geom:longitude":13.90972,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41342.0",
+    "gn:asciiname":"Kandlschlag",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774797,
+    "gn:latitude":48.66228,
+    "gn:longitude":13.90972,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kandlschlag",
+    "gn:population":27,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandelschlag",
+        "Kandlschlag"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836021,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774797
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f7a8d9097c2a09e3200c7424b0f6cef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836021,
+            "locality_id":1344080737,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344080737,
+    "wof:lastmodified":1537584962,
+    "wof:name":"Kandlschlag",
+    "wof:parent_id":1108836021,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90972,
+    48.66228,
+    13.90972,
+    48.66228
+],
+  "geometry": {"coordinates":[13.90972,48.66228],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226140297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,47.38333,15.6,47.38333",
+    "geom:latitude":47.38333,
+    "geom:longitude":15.6,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61711.0",
+    "gn:asciiname":"Amassegg",
+    "gn:country_code":"AT",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782607,
+    "gn:latitude":47.38333,
+    "gn:longitude":15.6,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Amassegg",
+    "gn:population":205,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839367,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782607
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"671afe14f503af58bcefa6e687497b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839367,
+            "locality_id":1226140297,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226140297,
+    "wof:lastmodified":1537082436,
+    "wof:name":"Amassegg",
+    "wof:parent_id":1108839367,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    47.38333,
+    15.6,
+    47.38333
+],
+  "geometry": {"coordinates":[15.6,47.38333],"type":"Point"}
+}

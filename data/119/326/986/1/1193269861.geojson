@@ -1,0 +1,75 @@
+{
+  "id": 1193269861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.11801,47.3166,11.11801,47.3166",
+    "geom:latitude":47.3166,
+    "geom:longitude":11.11801,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70357.0",
+    "gn:asciiname":"Bairbach",
+    "gn:country_code":"AT",
+    "gn:dem":876,
+    "gn:elevation":"633.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629868,
+    "gn:latitude":47.3166,
+    "gn:longitude":11.11801,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bairbach",
+    "gn:population":58,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837621,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629868
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a47c9b5b1a38f8a1e2c07c8b8e2372f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837621,
+            "locality_id":1193269861,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1193269861,
+    "wof:lastmodified":1536371873,
+    "wof:name":"Bairbach",
+    "wof:parent_id":1108837621,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.11801,
+    47.3166,
+    11.11801,
+    47.3166
+],
+  "geometry": {"coordinates":[11.11801,47.3166],"type":"Point"}
+}

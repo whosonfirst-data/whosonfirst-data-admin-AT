@@ -1,0 +1,86 @@
+{
+  "id": 1125338703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4,47.1,14.4,47.1",
+    "geom:latitude":47.1,
+    "geom:longitude":14.4,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.1,
+    "lbl:longitude":14.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mariahof",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":59419,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674800,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674800,
+        "qs_pg:id":59419
+    },
+    "wof:country":"AT",
+    "wof:created":1497045542,
+    "wof:geomhash":"6bbe7a8ec0b84e45ce3ef4e65cd7e29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1125338703,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125338703,
+    "wof:lastmodified":1534379094,
+    "wof:name":"Mariahof",
+    "wof:parent_id":102049733,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125375175
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4,
+    47.1,
+    14.4,
+    47.1
+],
+  "geometry": {"coordinates":[14.4,47.1],"type":"Point"}
+}

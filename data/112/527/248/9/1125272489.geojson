@@ -1,0 +1,82 @@
+{
+  "id": 1125272489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65657,46.62553,13.65657,46.62553",
+    "geom:latitude":46.62553,
+    "geom:longitude":13.65657,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2582,
+    "gn:population":2336,
+    "iso:country":"AT",
+    "lbl:latitude":46.62553,
+    "lbl:longitude":13.65657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871662,
+    "qs_pg:gn_pop":2582,
+    "qs_pg:name":"Bad Bleiberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108313,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871662,
+        "qs_pg:id":108313
+    },
+    "wof:country":"AT",
+    "wof:created":1497042183,
+    "wof:geomhash":"afdc097b23285a5c394bb94254b26098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1125272489,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125272489,
+    "wof:lastmodified":1534531007,
+    "wof:name":"Bad Bleiberg",
+    "wof:parent_id":102049683,
+    "wof:placetype":"localadmin",
+    "wof:population":2336,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838327
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65657,
+    46.62553,
+    13.65657,
+    46.62553
+],
+  "geometry": {"coordinates":[13.65657,46.62553],"type":"Point"}
+}

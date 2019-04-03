@@ -1,0 +1,71 @@
+{
+  "id": 1226434211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.13333,47.55,12.13333,47.55",
+    "geom:latitude":47.55,
+    "geom:longitude":12.13333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"705",
+    "gn:admin3_code":"70525.0",
+    "gn:asciiname":"Moosheim",
+    "gn:country_code":"AT",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771232,
+    "gn:latitude":47.55,
+    "gn:longitude":12.13333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Moosheim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837265,
+        85632785,
+        102049771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771232
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0967bff28fc16ca553f544d6174fd536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837265,
+            "locality_id":1226434211,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1226434211,
+    "wof:lastmodified":1536662164,
+    "wof:name":"Moosheim",
+    "wof:parent_id":1108837265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.13333,
+    47.55,
+    12.13333,
+    47.55
+],
+  "geometry": {"coordinates":[12.13333,47.55],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343561493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87951,48.5536,13.87951,48.5536",
+    "geom:latitude":48.5536,
+    "geom:longitude":13.87951,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41338.0",
+    "gn:asciiname":"Poppen",
+    "gn:country_code":"AT",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768513,
+    "gn:latitude":48.5536,
+    "gn:longitude":13.87951,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Poppen",
+    "gn:population":34,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836013,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768513
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6e8173f6cec0993c951ab65c61ae4a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836013,
+            "locality_id":1343561493,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343561493,
+    "wof:lastmodified":1537094775,
+    "wof:name":"Poppen",
+    "wof:parent_id":1108836013,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87951,
+    48.5536,
+    13.87951,
+    48.5536
+],
+  "geometry": {"coordinates":[13.87951,48.5536],"type":"Point"}
+}

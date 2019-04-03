@@ -1,0 +1,66 @@
+{
+  "id": 1209338539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40568,48.2682,13.40568,48.2682",
+    "geom:latitude":48.2682,
+    "geom:longitude":13.40568,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41230.0",
+    "gn:asciiname":"Reisedt",
+    "gn:country_code":"AT",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610562,
+    "gn:latitude":48.2682,
+    "gn:longitude":13.40568,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reisedt",
+    "gn:population":22,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610562
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6c1b9e581f1036a02d97679ac2af345c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209338539
+        }
+    ],
+    "wof:id":1209338539,
+    "wof:lastmodified":1536290137,
+    "wof:name":"Reisedt",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.405679999999998,
+    48.2682,
+    13.405679999999998,
+    48.2682
+],
+  "geometry": {"coordinates":[13.40568,48.2682],"type":"Point"}
+}

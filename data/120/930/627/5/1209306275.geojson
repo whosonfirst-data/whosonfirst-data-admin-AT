@@ -1,0 +1,63 @@
+{
+  "id": 1209306275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.79417,46.85333,12.79417,46.85333",
+    "geom:latitude":46.85333,
+    "geom:longitude":12.79417,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70708.0",
+    "gn:asciiname":"Obernussdorf",
+    "gn:country_code":"AT",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769855,
+    "gn:latitude":46.85333,
+    "gn:longitude":12.79417,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Obernussdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769855
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a869e4c93b02646d1699bef6389e0951",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209306275
+        }
+    ],
+    "wof:id":1209306275,
+    "wof:lastmodified":1536291185,
+    "wof:name":"Obernussdorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.79417,
+    46.85333,
+    12.79417,
+    46.85333
+],
+  "geometry": {"coordinates":[12.79417,46.85333],"type":"Point"}
+}

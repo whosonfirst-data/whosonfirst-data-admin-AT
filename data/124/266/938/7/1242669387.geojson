@@ -1,0 +1,74 @@
+{
+  "id": 1242669387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98771,47.59135,11.98771,47.59135",
+    "geom:latitude":47.59135,
+    "geom:longitude":11.98771,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"705",
+    "gn:admin3_code":"70527.0",
+    "gn:asciiname":"Almen",
+    "gn:country_code":"AT",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592324,
+    "gn:latitude":47.59135,
+    "gn:longitude":11.98771,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Almen",
+    "gn:population":2,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837271,
+        85632785,
+        102049771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592324
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"47609a546eb9b29ac1dcc55fbf5b0524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837271,
+            "locality_id":1242669387,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1242669387,
+    "wof:lastmodified":1536932349,
+    "wof:name":"Almen",
+    "wof:parent_id":1108837271,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98771,
+    47.59135,
+    11.98771,
+    47.59135
+],
+  "geometry": {"coordinates":[11.98771,47.59135],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1125411333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.602746,47.333698,9.602746,47.333698",
+    "geom:latitude":47.333698,
+    "geom:longitude":9.602746,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.333698,
+    "lbl:longitude":9.602746,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Oberriet",
+    "qs_pg:name_adm0":"Schweiz",
+    "qs_pg:name_adm1":"Kanton St. Gallen",
+    "qs_pg:photos":202,
+    "qs_pg:photos_1k":41,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":482,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":235860,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424957,
+    "qs_pg:woe_id":12684133,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424957,
+    "woe:name_adm0":"Schweiz",
+    "woe:name_adm1":"Kanton St. Gallen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12684133,
+        "qs_pg:id":235860
+    },
+    "wof:country":"AT",
+    "wof:created":1497050260,
+    "wof:geomhash":"4fbc87cf81bcc614508df052844e8a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1125411333,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125411333,
+    "wof:lastmodified":1536698242,
+    "wof:name":"Oberriet",
+    "wof:parent_id":102049725,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837977
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.602746,
+    47.333698,
+    9.602746,
+    47.333698
+],
+  "geometry": {"coordinates":[9.602746,47.333698],"type":"Point"}
+}

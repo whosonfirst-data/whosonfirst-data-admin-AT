@@ -1,0 +1,74 @@
+{
+  "id": 1343370445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23333,48.9,15.23333,48.9",
+    "geom:latitude":48.9,
+    "geom:longitude":15.23333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"322.0",
+    "gn:admin3_code":"32210.0",
+    "gn:asciiname":"Triglas",
+    "gn:country_code":"AT",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763351,
+    "gn:latitude":48.9,
+    "gn:longitude":15.23333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Triglas",
+    "gn:population":39,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835021,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763351
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a6cf148dfc8c2a48d54d64a6e79d7baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108835021,
+            "locality_id":1343370445,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343370445,
+    "wof:lastmodified":1536875102,
+    "wof:name":"Triglas",
+    "wof:parent_id":1108835021,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23333,
+    48.9,
+    15.23333,
+    48.9
+],
+  "geometry": {"coordinates":[15.23333,48.9],"type":"Point"}
+}

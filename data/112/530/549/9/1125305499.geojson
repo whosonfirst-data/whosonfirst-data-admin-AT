@@ -1,0 +1,86 @@
+{
+  "id": 1125305499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.125218,46.999587,15.125218,46.999587",
+    "geom:latitude":46.999587,
+    "geom:longitude":15.125218,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":46.999587,
+    "lbl:longitude":15.125218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St. Martin am W\u00f6llmi\u00dfberg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":479526,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675118,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12675118,
+        "qs_pg:id":479526
+    },
+    "wof:country":"AT",
+    "wof:created":1497043662,
+    "wof:geomhash":"8376240b34e40350f7ff61e135b7ba64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1125305499,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125305499,
+    "wof:lastmodified":1536698146,
+    "wof:name":"St. Martin am W\u00f6llmi\u00dfberg",
+    "wof:parent_id":102049717,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839359
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.125218,
+    46.999587,
+    15.125218,
+    46.999587
+],
+  "geometry": {"coordinates":[15.125218,46.999587],"type":"Point"}
+}

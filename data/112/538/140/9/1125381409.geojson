@@ -1,0 +1,82 @@
+{
+  "id": 1125381409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93455,47.64251,15.93455,47.64251",
+    "geom:latitude":47.64251,
+    "geom:longitude":15.93455,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":293,
+    "gn:population":298,
+    "iso:country":"AT",
+    "lbl:latitude":47.64251,
+    "lbl:longitude":15.93455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872996,
+    "qs_pg:gn_pop":293,
+    "qs_pg:name":"Raach am Hochgebirge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":381109,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872996,
+        "qs_pg:id":381109
+    },
+    "wof:country":"AT",
+    "wof:created":1497048070,
+    "wof:geomhash":"2d45922393547d34964485965b80c19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1125381409,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125381409,
+    "wof:lastmodified":1534530977,
+    "wof:name":"Raach am Hochgebirge",
+    "wof:parent_id":102049791,
+    "wof:placetype":"localadmin",
+    "wof:population":298,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835393
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93455,
+    47.64251,
+    15.93455,
+    47.64251
+],
+  "geometry": {"coordinates":[15.93455,47.64251],"type":"Point"}
+}

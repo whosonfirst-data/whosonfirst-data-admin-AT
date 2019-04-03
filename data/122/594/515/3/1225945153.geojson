@@ -1,0 +1,74 @@
+{
+  "id": 1225945153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85788,48.50148,13.85788,48.50148",
+    "geom:latitude":48.50148,
+    "geom:longitude":13.85788,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41328.0",
+    "gn:asciiname":"Mairing",
+    "gn:country_code":"AT",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772067,
+    "gn:latitude":48.50148,
+    "gn:longitude":13.85788,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mairing",
+    "gn:population":14,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835989,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772067
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"781d100625c3bad30d3487e6e828f7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835989,
+            "locality_id":1225945153,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225945153,
+    "wof:lastmodified":1536869083,
+    "wof:name":"Mairing",
+    "wof:parent_id":1108835989,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85788,
+    48.50148,
+    13.85788,
+    48.50148
+],
+  "geometry": {"coordinates":[13.85788,48.50148],"type":"Point"}
+}

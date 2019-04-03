@@ -1,0 +1,101 @@
+{
+  "id": 1125370749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1763,46.67579,15.1763,46.67579",
+    "geom:latitude":46.67579,
+    "geom:longitude":15.1763,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1500,
+    "gn:population":1500,
+    "iso:country":"AT",
+    "lbl:latitude":46.67579,
+    "lbl:longitude":15.1763,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Aibel"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873346,
+    "qs_pg:gn_pop":1500,
+    "qs_pg:name":"Aibl",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743496,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674808,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873346,
+        "gp:id":12674808,
+        "qs_pg:id":743496
+    },
+    "wof:concordances_alt":{
+        "gn:id":2782926,
+        "qs_pg:id":1263058
+    },
+    "wof:country":"AT",
+    "wof:created":1497047376,
+    "wof:geomhash":"7cc0ae973858063a758c581395773722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125370749,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125370749,
+    "wof:lastmodified":1536698199,
+    "wof:name":"Aibl",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839299
+    ],
+    "wof:supersedes":[
+        1125325393
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1763,
+    46.67579,
+    15.1763,
+    46.67579
+],
+  "geometry": {"coordinates":[15.1763,46.67579],"type":"Point"}
+}

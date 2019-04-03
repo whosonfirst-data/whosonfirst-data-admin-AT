@@ -1,0 +1,82 @@
+{
+  "id": 101783377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":697926.527082,
+    "geom:bbox":"15.714983197,48.4519160393,15.7276285955,48.4620569281",
+    "geom:latitude":48.457522,
+    "geom:longitude":15.721133,
+    "iso:country":"AT",
+    "lbl:latitude":48.457774,
+    "lbl:longitude":15.721012,
+    "mps:latitude":48.457774,
+    "mps:longitude":15.721012,
+    "mz:hierarchy_label":1,
+    "name:unk_x_variant":[
+        "Hadersdorf"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Nieder\u00f6sterreich",
+    "qs:a1r":"0",
+    "qs:a2":"Krems - Land",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Langenlois",
+    "qs:la_lc":"*AT31322",
+    "qs:level":"locality",
+    "qs:loc":"Hadersdorf am Kamp",
+    "qs:loc_alt":"Hadersdorf am Kamp",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835011,
+        85632785,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777093,
+        "gp:id":541988,
+        "qs:id":1156249,
+        "qs_pg:id":1156249
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1b9acfcd3202f339ca0a33f95c6fb41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835011,
+            "locality_id":101783377,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":101783377,
+    "wof:lastmodified":1497298543,
+    "wof:name":"Hadersdorf am Kamp",
+    "wof:parent_id":1108835011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71498319696656,
+    48.45191603926588,
+    15.72762859545116,
+    48.46205692810759
+],
+  "geometry": {"coordinates":[[[15.72378858104906,48.46177810048027],[15.72368620962857,48.46088155185066],[15.72638276251053,48.46074204255513],[15.72628034799368,48.45984549631845],[15.72762859545116,48.4597757185191],[15.72742373259598,48.45798262748269],[15.72607553286383,48.4580524024106],[15.72556357613405,48.45356965927317],[15.72421549228648,48.45363941063488],[15.72411313869634,48.45274285913763],[15.72276507529477,48.45281259267603],[15.72266275019138,48.45191603926588],[15.72131470723644,48.45198575498137],[15.72141700848442,48.45288230982578],[15.72006893826523,48.45295201058684],[15.72017122028581,48.4538485663868],[15.71747502191153,48.45398792160904],[15.71757726084405,48.45488447979784],[15.71622913268862,48.454954134258],[15.71633135238801,48.45585069340206],[15.71498319696656,48.45592033290512],[15.71549424554337,48.4604031286234],[15.71684252028001,48.46033348195573],[15.71694476773939,48.46123003823351],[15.71829306293506,48.46116037374082],[15.71839533888971,48.46205692810759],[15.72378858104906,48.46177810048027]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293699521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6,46.95,14.6,46.95",
+    "geom:latitude":46.95,
+    "geom:longitude":14.6,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20511.0",
+    "gn:asciiname":"Mosinz",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771164,
+    "gn:latitude":46.95,
+    "gn:longitude":14.6,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Mosinz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mossinz",
+        "Mosinz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838219,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771164
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7b9f3abb5a20d0a72083a0b4ec4de755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838219,
+            "locality_id":1293699521,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293699521,
+    "wof:lastmodified":1537584951,
+    "wof:name":"Mosinz",
+    "wof:parent_id":1108838219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6,
+    46.95,
+    14.6,
+    46.95
+],
+  "geometry": {"coordinates":[14.6,46.95],"type":"Point"}
+}

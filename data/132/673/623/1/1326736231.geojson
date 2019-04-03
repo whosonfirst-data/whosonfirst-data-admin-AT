@@ -1,0 +1,71 @@
+{
+  "id": 1326736231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43415,48.35762,14.43415,48.35762",
+    "geom:latitude":48.35762,
+    "geom:longitude":14.43415,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"416.0",
+    "gn:admin3_code":"41607.0",
+    "gn:asciiname":"Tumbach",
+    "gn:country_code":"AT",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763259,
+    "gn:latitude":48.35762,
+    "gn:longitude":14.43415,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Tumbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836149,
+        85632785,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763259
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"57c30e6ac450a38458fb90e0a372418a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836149,
+            "locality_id":1326736231,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1326736231,
+    "wof:lastmodified":1536690025,
+    "wof:name":"Tumbach",
+    "wof:parent_id":1108836149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43415,
+    48.35762,
+    14.43415,
+    48.35762
+],
+  "geometry": {"coordinates":[14.43415,48.35762],"type":"Point"}
+}

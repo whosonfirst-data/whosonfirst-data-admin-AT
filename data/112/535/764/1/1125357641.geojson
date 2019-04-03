@@ -1,0 +1,82 @@
+{
+  "id": 1125357641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80605,48.26748,14.80605,48.26748",
+    "geom:latitude":48.26748,
+    "geom:longitude":14.80605,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2403,
+    "gn:population":2286,
+    "iso:country":"AT",
+    "lbl:latitude":48.26748,
+    "lbl:longitude":14.80605,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873171,
+    "qs_pg:gn_pop":2403,
+    "qs_pg:name":"Bad Kreuzen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":743485,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873171,
+        "qs_pg:id":743485
+    },
+    "wof:country":"AT",
+    "wof:created":1497046576,
+    "wof:geomhash":"9e35d450a4d5fcb1dd522cd22c36c612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1125357641,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125357641,
+    "wof:lastmodified":1534379210,
+    "wof:name":"Bad Kreuzen",
+    "wof:parent_id":102049865,
+    "wof:placetype":"localadmin",
+    "wof:population":2286,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835583
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80605,
+    48.26748,
+    14.80605,
+    48.26748
+],
+  "geometry": {"coordinates":[14.80605,48.26748],"type":"Point"}
+}

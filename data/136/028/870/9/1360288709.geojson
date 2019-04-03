@@ -1,0 +1,74 @@
+{
+  "id": 1360288709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60889,46.94056,13.60889,46.94056",
+    "geom:latitude":46.94056,
+    "geom:longitude":13.60889,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20642.0",
+    "gn:asciiname":"Leoben",
+    "gn:country_code":"AT",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772650,
+    "gn:latitude":46.94056,
+    "gn:longitude":13.60889,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Leoben",
+    "gn:population":33,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838315,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772650
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4a7ebd4cb19012890226f56a5c1ba9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838315,
+            "locality_id":1360288709,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1360288709,
+    "wof:lastmodified":1536651691,
+    "wof:name":"Leoben",
+    "wof:parent_id":1108838315,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60889,
+    46.94056,
+    13.60889,
+    46.94056
+],
+  "geometry": {"coordinates":[13.60889,46.94056],"type":"Point"}
+}

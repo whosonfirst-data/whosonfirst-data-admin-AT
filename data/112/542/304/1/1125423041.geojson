@@ -1,0 +1,82 @@
+{
+  "id": 1125423041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62274,47.79149,16.62274,47.79149",
+    "geom:latitude":47.79149,
+    "geom:longitude":16.62274,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2775,
+    "gn:population":2661,
+    "iso:country":"AT",
+    "lbl:latitude":47.79149,
+    "lbl:longitude":16.62274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871540,
+    "qs_pg:gn_pop":2775,
+    "qs_pg:name":"Sankt Margarethen im Burgenland",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108265,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871540,
+        "qs_pg:id":108265
+    },
+    "wof:country":"AT",
+    "wof:created":1497052633,
+    "wof:geomhash":"f785ec394e006b88bae66424b907f08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1125423041,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125423041,
+    "wof:lastmodified":1534379122,
+    "wof:name":"Sankt Margarethen im Burgenland",
+    "wof:parent_id":102049811,
+    "wof:placetype":"localadmin",
+    "wof:population":2661,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838677
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62274,
+    47.79149,
+    16.62274,
+    47.79149
+],
+  "geometry": {"coordinates":[16.62274,47.79149],"type":"Point"}
+}

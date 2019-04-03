@@ -1,0 +1,71 @@
+{
+  "id": 1243453425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.39568,47.30676,13.39568,47.30676",
+    "geom:latitude":47.30676,
+    "geom:longitude":13.39568,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504",
+    "gn:admin3_code":"50408.0",
+    "gn:asciiname":"Flachauwinkl",
+    "gn:country_code":"AT",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989920,
+    "gn:latitude":47.30676,
+    "gn:longitude":13.39568,
+    "gn:modification_date":"2014-04-28",
+    "gn:name":"Flachauwinkl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837005,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989920
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c59af0098e2490a3635c4800a63cc325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837005,
+            "locality_id":1243453425,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1243453425,
+    "wof:lastmodified":1536795700,
+    "wof:name":"Flachauwinkl",
+    "wof:parent_id":1108837005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.39568,
+    47.30676,
+    13.39568,
+    47.30676
+],
+  "geometry": {"coordinates":[13.39568,47.30676],"type":"Point"}
+}

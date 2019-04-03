@@ -1,0 +1,71 @@
+{
+  "id": 1360186309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1493,48.22239,16.1493,48.22239",
+    "geom:latitude":48.22239,
+    "geom:longitude":16.1493,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"319.0",
+    "gn:admin3_code":"31949.0",
+    "gn:asciiname":"Hochbuch",
+    "gn:country_code":"AT",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2601071,
+    "gn:latitude":48.22239,
+    "gn:longitude":16.1493,
+    "gn:modification_date":"2017-06-16",
+    "gn:name":"Hochbuch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836775,
+        85632785,
+        102049867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2601071
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f81fc6e20d7a5300aecfb2d4d6045520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108836775,
+            "locality_id":1360186309,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1360186309,
+    "wof:lastmodified":1536799671,
+    "wof:name":"Hochbuch",
+    "wof:parent_id":1108836775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1493,
+    48.22239,
+    16.1493,
+    48.22239
+],
+  "geometry": {"coordinates":[16.1493,48.22239],"type":"Point"}
+}

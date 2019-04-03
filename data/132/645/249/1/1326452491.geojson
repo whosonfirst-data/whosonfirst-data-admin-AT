@@ -1,0 +1,74 @@
+{
+  "id": 1326452491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51373,47.46756,15.51373,47.46756",
+    "geom:latitude":47.46756,
+    "geom:longitude":15.51373,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62132.0",
+    "gn:asciiname":"Unteralm",
+    "gn:country_code":"AT",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593923,
+    "gn:latitude":47.46756,
+    "gn:longitude":15.51373,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unteralm",
+    "gn:population":101,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838839,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593923
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"612c9542339458954fe084f049d0f6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838839,
+            "locality_id":1326452491,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1326452491,
+    "wof:lastmodified":1537095669,
+    "wof:name":"Unteralm",
+    "wof:parent_id":1108838839,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51373,
+    47.46756,
+    15.51373,
+    47.46756
+],
+  "geometry": {"coordinates":[15.51373,47.46756],"type":"Point"}
+}

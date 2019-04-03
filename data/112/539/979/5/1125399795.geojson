@@ -1,0 +1,91 @@
+{
+  "id": 1125399795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97118,48.4851,13.97118,48.4851",
+    "geom:latitude":48.4851,
+    "geom:longitude":13.97118,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2181,
+    "gn:population":2208,
+    "iso:country":"AT",
+    "lbl:latitude":48.4851,
+    "lbl:longitude":13.97118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u6ed5\u8d39\u5c14\u767b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872102,
+    "qs_pg:gn_pop":2181,
+    "qs_pg:name":"Altenfelden",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155160,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872102,
+        "qs_pg:id":1155160
+    },
+    "wof:country":"AT",
+    "wof:created":1497049246,
+    "wof:geomhash":"4cd41d789fd435bcd9dffcfa2353ea01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125399795,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125399795,
+    "wof:lastmodified":1534379179,
+    "wof:name":"Altenfelden",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":2208,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835713
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97118,
+    48.4851,
+    13.97118,
+    48.4851
+],
+  "geometry": {"coordinates":[13.97118,48.4851],"type":"Point"}
+}

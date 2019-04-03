@@ -1,0 +1,74 @@
+{
+  "id": 1326830629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51902,48.25688,13.51902,48.25688",
+    "geom:latitude":48.25688,
+    "geom:longitude":13.51902,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41201.0",
+    "gn:asciiname":"Furt",
+    "gn:country_code":"AT",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610593,
+    "gn:latitude":48.25688,
+    "gn:longitude":13.51902,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Furt",
+    "gn:population":89,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835625,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610593
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"17f3dc842c96229e8b056dc2469d3982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835625,
+            "locality_id":1326830629,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1326830629,
+    "wof:lastmodified":1537049016,
+    "wof:name":"Furt",
+    "wof:parent_id":1108835625,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51902,
+    48.25688,
+    13.51902,
+    48.25688
+],
+  "geometry": {"coordinates":[13.51902,48.25688],"type":"Point"}
+}

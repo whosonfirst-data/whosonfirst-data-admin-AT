@@ -1,0 +1,74 @@
+{
+  "id": 1243456279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64728,48.69209,15.64728,48.69209",
+    "geom:latitude":48.69209,
+    "geom:longitude":15.64728,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"311",
+    "gn:admin3_code":"31109.0",
+    "gn:asciiname":"Moedring",
+    "gn:country_code":"AT",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771328,
+    "gn:latitude":48.69209,
+    "gn:longitude":15.64728,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"M\u00f6dring",
+    "gn:population":468,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835915,
+        85632785,
+        102049901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771328
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4611031ca0762ef9b682516caf6257b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835915,
+            "locality_id":1243456279,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243456279,
+    "wof:lastmodified":1536791674,
+    "wof:name":"Moedring",
+    "wof:parent_id":1108835915,
+    "wof:placetype":"locality",
+    "wof:population":468,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64728,
+    48.69209,
+    15.64728,
+    48.69209
+],
+  "geometry": {"coordinates":[15.64728,48.69209],"type":"Point"}
+}

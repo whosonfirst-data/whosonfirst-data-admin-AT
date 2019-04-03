@@ -1,0 +1,71 @@
+{
+  "id": 1226756353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,46.63333,14.16667,46.63333",
+    "geom:latitude":46.63333,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"204",
+    "gn:admin3_code":"20424.0",
+    "gn:asciiname":"Goritschach",
+    "gn:country_code":"AT",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778319,
+    "gn:latitude":46.63333,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Goritschach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838189,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778319
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"48f4caa35bb1d3b4b9bac23225c533a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838189,
+            "locality_id":1226756353,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226756353,
+    "wof:lastmodified":1536700463,
+    "wof:name":"Goritschach",
+    "wof:parent_id":1108838189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    46.63333,
+    14.16667,
+    46.63333
+],
+  "geometry": {"coordinates":[14.16667,46.63333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276877557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38333,47.6,13.38333,47.6",
+    "geom:latitude":47.6,
+    "geom:longitude":13.38333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50201.0",
+    "gn:asciiname":"Stocker",
+    "gn:country_code":"AT",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764282,
+    "gn:latitude":47.6,
+    "gn:longitude":13.38333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stocker",
+    "gn:population":133,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837081,
+        85632785,
+        102049773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764282
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9939dd038fedaa6afdaea32e88c87dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837081,
+            "locality_id":1276877557,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1276877557,
+    "wof:lastmodified":1537042427,
+    "wof:name":"Stocker",
+    "wof:parent_id":1108837081,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38333,
+    47.6,
+    13.38333,
+    47.6
+],
+  "geometry": {"coordinates":[13.38333,47.6],"type":"Point"}
+}

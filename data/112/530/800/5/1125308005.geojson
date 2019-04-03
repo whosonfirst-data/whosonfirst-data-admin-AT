@@ -1,0 +1,86 @@
+{
+  "id": 1125308005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.986875,48.773182,14.986875,48.773182",
+    "geom:latitude":48.773182,
+    "geom:longitude":14.986875,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":48.773182,
+    "lbl:longitude":14.986875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u010cesk\u00e9 Velenice",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":276,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1106301,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":12604583,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Jiho\u010desk\u00fd kraj",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12604583,
+        "qs_pg:id":1106301
+    },
+    "wof:country":"AT",
+    "wof:created":1497043809,
+    "wof:geomhash":"a4a2bc3560146a89bbbb6cbe923421a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049905,
+            "localadmin_id":1125308005,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125308005,
+    "wof:lastmodified":1536698148,
+    "wof:name":"\u010cesk\u00e9 Velenice",
+    "wof:parent_id":102049905,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835467
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.986875,
+    48.773182,
+    14.986875,
+    48.773182
+],
+  "geometry": {"coordinates":[14.986875,48.773182],"type":"Point"}
+}

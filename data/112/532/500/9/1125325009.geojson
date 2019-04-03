@@ -1,0 +1,82 @@
+{
+  "id": 1125325009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57247,47.15951,14.57247,47.15951",
+    "geom:latitude":47.15951,
+    "geom:longitude":14.57247,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1160,
+    "gn:population":1110,
+    "iso:country":"AT",
+    "lbl:latitude":47.15951,
+    "lbl:longitude":14.57247,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872389,
+    "qs_pg:gn_pop":1160,
+    "qs_pg:name":"Sankt Peter ob Judenburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743391,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872389,
+        "qs_pg:id":743391
+    },
+    "wof:country":"AT",
+    "wof:created":1497044748,
+    "wof:geomhash":"84aea0369ed176964adc02f9b4c0eaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1125325009,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125325009,
+    "wof:lastmodified":1536698161,
+    "wof:name":"Sankt Peter ob Judenburg",
+    "wof:parent_id":1108892555,
+    "wof:placetype":"localadmin",
+    "wof:population":1110,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839415
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57247,
+    47.15951,
+    14.57247,
+    47.15951
+],
+  "geometry": {"coordinates":[14.57247,47.15951],"type":"Point"}
+}

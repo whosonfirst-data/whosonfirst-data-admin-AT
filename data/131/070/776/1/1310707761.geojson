@@ -1,0 +1,69 @@
+{
+  "id": 1310707761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.77139,47.82788,12.77139,47.82788",
+    "geom:latitude":47.82788,
+    "geom:longitude":12.77139,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wald",
+    "gn:country_code":"AT",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6930508,
+    "gn:latitude":47.82788,
+    "gn:longitude":12.77139,
+    "gn:modification_date":"2009-02-09",
+    "gn:name":"Wald",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682571,
+        102191581,
+        85633111,
+        404227567,
+        102063227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6930508
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"807eaf0d3225568cdf4e6b6159fd2c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063227,
+            "locality_id":1310707761,
+            "macrocounty_id":404227567,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":1310707761,
+    "wof:lastmodified":1536623066,
+    "wof:name":"Wald",
+    "wof:parent_id":102063227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.77139,
+    47.82788,
+    12.77139,
+    47.82788
+],
+  "geometry": {"coordinates":[12.77139,47.82788],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344061691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.76667,47.51667,12.76667,47.51667",
+    "geom:latitude":47.51667,
+    "geom:longitude":12.76667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50627.0",
+    "gn:asciiname":"Puerzlbach",
+    "gn:country_code":"AT",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768221,
+    "gn:latitude":47.51667,
+    "gn:longitude":12.76667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"P\u00fcrzlbach",
+    "gn:population":37,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837253,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768221
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5e6b8e3499a2300859e450af01c8794c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837253,
+            "locality_id":1344061691,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1344061691,
+    "wof:lastmodified":1536872743,
+    "wof:name":"Puerzlbach",
+    "wof:parent_id":1108837253,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76667,
+    47.51667,
+    12.76667,
+    47.51667
+],
+  "geometry": {"coordinates":[12.76667,47.51667],"type":"Point"}
+}

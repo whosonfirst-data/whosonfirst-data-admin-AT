@@ -1,0 +1,63 @@
+{
+  "id": 1209616907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11667,48.33333,15.11667,48.33333",
+    "geom:latitude":48.33333,
+    "geom:longitude":15.11667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"315.0",
+    "gn:admin3_code":"31525.0",
+    "gn:asciiname":"Ulrichschlag",
+    "gn:country_code":"AT",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763173,
+    "gn:latitude":48.33333,
+    "gn:longitude":15.11667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Ulrichschlag",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763173
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1da4edc7450f37ea7b3426f2a3f51317",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209616907
+        }
+    ],
+    "wof:id":1209616907,
+    "wof:lastmodified":1536281657,
+    "wof:name":"Ulrichschlag",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11667,
+    48.33333,
+    15.11667,
+    48.33333
+],
+  "geometry": {"coordinates":[15.11667,48.33333],"type":"Point"}
+}

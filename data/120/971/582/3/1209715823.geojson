@@ -1,0 +1,74 @@
+{
+  "id": 1209715823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99195,48.38516,13.99195,48.38516",
+    "geom:latitude":48.38516,
+    "geom:longitude":13.99195,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40506.0",
+    "gn:asciiname":"Lacken",
+    "gn:country_code":"AT",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773185,
+    "gn:latitude":48.38516,
+    "gn:longitude":13.99195,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lacken",
+    "gn:population":46,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835045,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773185
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5501e2e5727cf5aec691ef684044ca7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835045,
+            "locality_id":1209715823,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1209715823,
+    "wof:lastmodified":1536388620,
+    "wof:name":"Lacken",
+    "wof:parent_id":1108835045,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99195,
+    48.38516,
+    13.99195,
+    48.38516
+],
+  "geometry": {"coordinates":[13.99195,48.38516],"type":"Point"}
+}

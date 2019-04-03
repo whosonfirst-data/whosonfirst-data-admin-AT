@@ -1,0 +1,74 @@
+{
+  "id": 1343370415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94528,48.20912,15.94528,48.20912",
+    "geom:latitude":48.20912,
+    "geom:longitude":15.94528,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31921.0",
+    "gn:asciiname":"Burgstall",
+    "gn:country_code":"AT",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781170,
+    "gn:latitude":48.20912,
+    "gn:longitude":15.94528,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Burgstall",
+    "gn:population":128,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834989,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781170
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"728e5197d5f5dfed06d179b81d19ae97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834989,
+            "locality_id":1343370415,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343370415,
+    "wof:lastmodified":1536875149,
+    "wof:name":"Burgstall",
+    "wof:parent_id":1108834989,
+    "wof:placetype":"locality",
+    "wof:population":128,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94528,
+    48.20912,
+    15.94528,
+    48.20912
+],
+  "geometry": {"coordinates":[15.94528,48.20912],"type":"Point"}
+}

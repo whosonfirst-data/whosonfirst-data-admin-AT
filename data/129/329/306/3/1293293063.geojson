@@ -1,0 +1,74 @@
+{
+  "id": 1293293063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.42203,47.96159,13.42203,47.96159",
+    "geom:latitude":47.96159,
+    "geom:longitude":13.42203,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41748.0",
+    "gn:asciiname":"Tuttingen",
+    "gn:country_code":"AT",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609704,
+    "gn:latitude":47.96159,
+    "gn:longitude":13.42203,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Tuttingen",
+    "gn:population":30,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836525,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609704
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"03af113b689ed425ba7e97f095bf743d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836525,
+            "locality_id":1293293063,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293293063,
+    "wof:lastmodified":1537064463,
+    "wof:name":"Tuttingen",
+    "wof:parent_id":1108836525,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.42203,
+    47.96159,
+    13.42203,
+    47.96159
+],
+  "geometry": {"coordinates":[13.42203,47.96159],"type":"Point"}
+}

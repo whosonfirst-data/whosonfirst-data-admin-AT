@@ -1,0 +1,74 @@
+{
+  "id": 1243091585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73995,48.18154,13.73995,48.18154",
+    "geom:latitude":48.18154,
+    "geom:longitude":13.73995,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40801.0",
+    "gn:asciiname":"Kottingaistersheim",
+    "gn:country_code":"AT",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609219,
+    "gn:latitude":48.18154,
+    "gn:longitude":13.73995,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kottingaistersheim",
+    "gn:population":33,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835167,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609219
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2a5902a8cbd94c63c19f9e1d8aab50df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835167,
+            "locality_id":1243091585,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243091585,
+    "wof:lastmodified":1536819171,
+    "wof:name":"Kottingaistersheim",
+    "wof:parent_id":1108835167,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73995,
+    48.18154000000001,
+    13.73995,
+    48.18154000000001
+],
+  "geometry": {"coordinates":[13.73995,48.18154000000001],"type":"Point"}
+}

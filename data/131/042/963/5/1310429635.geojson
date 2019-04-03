@@ -1,0 +1,71 @@
+{
+  "id": 1310429635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50499,48.02854,13.50499,48.02854",
+    "geom:latitude":48.02854,
+    "geom:longitude":13.50499,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41716.0",
+    "gn:asciiname":"Langwies",
+    "gn:country_code":"AT",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609522,
+    "gn:latitude":48.02854,
+    "gn:longitude":13.50499,
+    "gn:modification_date":"2017-10-10",
+    "gn:name":"Langwies",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836453,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609522
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"772717964676d1b623745b2d01794a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836453,
+            "locality_id":1310429635,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310429635,
+    "wof:lastmodified":1537025286,
+    "wof:name":"Langwies",
+    "wof:parent_id":1108836453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50499,
+    48.02854,
+    13.50499,
+    48.02854
+],
+  "geometry": {"coordinates":[13.50499,48.02854],"type":"Point"}
+}

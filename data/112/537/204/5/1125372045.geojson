@@ -1,0 +1,82 @@
+{
+  "id": 1125372045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61548,48.38146,15.61548,48.38146",
+    "geom:latitude":48.38146,
+    "geom:longitude":15.61548,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2757,
+    "gn:population":2984,
+    "iso:country":"AT",
+    "lbl:latitude":48.38146,
+    "lbl:longitude":15.61548,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872913,
+    "qs_pg:gn_pop":2757,
+    "qs_pg:name":"Furth bei G\u00f6ttweig",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108749,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872913,
+        "qs_pg:id":108749
+    },
+    "wof:country":"AT",
+    "wof:created":1497047472,
+    "wof:geomhash":"4f2b7f4f3e47e1b4b169b7afce7651fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1125372045,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125372045,
+    "wof:lastmodified":1534530983,
+    "wof:name":"Furth bei G\u00f6ttweig",
+    "wof:parent_id":102049885,
+    "wof:placetype":"localadmin",
+    "wof:population":2984,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836209
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61548,
+    48.38146,
+    15.61548,
+    48.38146
+],
+  "geometry": {"coordinates":[15.61548,48.38146],"type":"Point"}
+}

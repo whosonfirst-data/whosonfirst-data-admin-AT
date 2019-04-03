@@ -1,0 +1,100 @@
+{
+  "id": 1125381565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.68151,47.63969,12.68151,47.63969",
+    "geom:latitude":47.63969,
+    "geom:longitude":12.68151,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1896,
+    "gn:population":1949,
+    "iso:country":"AT",
+    "lbl:latitude":47.63969,
+    "lbl:longitude":12.68151,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Unkn"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u043d\u043a\u0435\u043d"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0423\u043d\u043a\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u043a\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043d\u043a\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7fc1\u80af"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873332,
+    "qs_pg:gn_pop":1896,
+    "qs_pg:name":"Unken",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":381177,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873332,
+        "qs_pg:id":381177
+    },
+    "wof:country":"AT",
+    "wof:created":1497048079,
+    "wof:geomhash":"4171693205ba89b6b499d61b2457d98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125381565,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125381565,
+    "wof:lastmodified":1534530991,
+    "wof:name":"Unken",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:population":1949,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837243
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.68151,
+    47.63969,
+    12.68151,
+    47.63969
+],
+  "geometry": {"coordinates":[12.68151,47.63969],"type":"Point"}
+}

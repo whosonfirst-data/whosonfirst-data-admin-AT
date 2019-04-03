@@ -1,0 +1,71 @@
+{
+  "id": 1243567489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.34528,46.78972,13.34528,46.78972",
+    "geom:latitude":46.78972,
+    "geom:longitude":13.34528,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20613.0",
+    "gn:asciiname":"Lessnig",
+    "gn:country_code":"AT",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772578,
+    "gn:latitude":46.78972,
+    "gn:longitude":13.34528,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Lessnig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838271,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772578
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"69fb92394533442bf053166da77ef3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838271,
+            "locality_id":1243567489,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1243567489,
+    "wof:lastmodified":1536629354,
+    "wof:name":"Lessnig",
+    "wof:parent_id":1108838271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.34528,
+    46.78972,
+    13.34528,
+    46.78972
+],
+  "geometry": {"coordinates":[13.34528,46.78972],"type":"Point"}
+}

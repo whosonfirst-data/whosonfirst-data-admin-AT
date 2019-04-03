@@ -1,0 +1,101 @@
+{
+  "id": 1125366469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89827,46.82123,15.89827,46.82123",
+    "geom:latitude":46.82123,
+    "geom:longitude":15.89827,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1001,
+    "gn:population":1001,
+    "iso:country":"AT",
+    "lbl:latitude":46.82123,
+    "lbl:longitude":15.89827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Stainz"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873386,
+    "qs_pg:gn_pop":1001,
+    "qs_pg:name":"Stainz bei Straden",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743517,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674962,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873386,
+        "gp:id":12674962,
+        "qs_pg:id":743517
+    },
+    "wof:concordances_alt":{
+        "gn:id":2764704,
+        "qs_pg:id":75789
+    },
+    "wof:country":"AT",
+    "wof:created":1497047108,
+    "wof:geomhash":"e429dfa899a9f5f331f1ed4b08a1013b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125366469,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125366469,
+    "wof:lastmodified":1536698197,
+    "wof:name":"Stainz bei Straden",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:population":1001,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839333
+    ],
+    "wof:supersedes":[
+        1125410983
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89827,
+    46.82123,
+    15.89827,
+    46.82123
+],
+  "geometry": {"coordinates":[15.89827,46.82123],"type":"Point"}
+}

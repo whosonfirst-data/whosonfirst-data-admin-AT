@@ -1,0 +1,101 @@
+{
+  "id": 1125392473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.843315,47.051747,15.843315,47.051747",
+    "geom:latitude":47.051747,
+    "geom:longitude":15.843315,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2957,
+    "gn:population":2962,
+    "iso:country":"AT",
+    "lbl:latitude":47.051747,
+    "lbl:longitude":15.843315,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872509,
+    "qs_pg:gn_pop":2957,
+    "qs_pg:name":"Markt Hartmannsdorf",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":70,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1018648,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674831,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872509,
+        "gp:id":12674831,
+        "qs_pg:id":1018648
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155277
+    },
+    "wof:country":"AT",
+    "wof:created":1497048789,
+    "wof:geomhash":"c6428e08bbff9049d51b9ead80dc0c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125392473,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125392473,
+    "wof:lastmodified":1536698226,
+    "wof:name":"Markt Hartmannsdorf",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":2962,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838873
+    ],
+    "wof:supersedes":[
+        1125409609
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.843315,
+    47.051747,
+    15.843315,
+    47.051747
+],
+  "geometry": {"coordinates":[15.843315,47.051747],"type":"Point"}
+}

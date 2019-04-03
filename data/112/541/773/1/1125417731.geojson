@@ -1,0 +1,82 @@
+{
+  "id": 1125417731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76999,47.93049,13.76999,47.93049",
+    "geom:latitude":47.93049,
+    "geom:longitude":13.76999,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3612,
+    "gn:population":3808,
+    "iso:country":"AT",
+    "lbl:latitude":47.93049,
+    "lbl:longitude":13.76999,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872016,
+    "qs_pg:gn_pop":3612,
+    "qs_pg:name":"Pinsdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108463,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872016,
+        "qs_pg:id":108463
+    },
+    "wof:country":"AT",
+    "wof:created":1497051641,
+    "wof:geomhash":"a7115351e8818d34bd8248cbe0cd8083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1125417731,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125417731,
+    "wof:lastmodified":1536698246,
+    "wof:name":"Pinsdorf",
+    "wof:parent_id":102049807,
+    "wof:placetype":"localadmin",
+    "wof:population":3808,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835151
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76999,
+    47.93049,
+    13.76999,
+    47.93049
+],
+  "geometry": {"coordinates":[13.76999,47.93049],"type":"Point"}
+}

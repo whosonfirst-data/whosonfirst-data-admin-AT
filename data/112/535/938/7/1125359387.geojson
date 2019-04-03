@@ -1,0 +1,88 @@
+{
+  "id": 1125359387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37409,48.23451,16.37409,48.23451",
+    "geom:latitude":48.23451,
+    "geom:longitude":16.37409,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":84159,
+    "gn:population":84159,
+    "iso:country":"AT",
+    "lbl:latitude":48.23451,
+    "lbl:longitude":16.37409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Brigittenau"
+    ],
+    "name:unk_x_variant":[
+        "Briggitenau"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2781400,
+    "qs_pg:gn_pop":84159,
+    "qs_pg:name":"Gemeindebezirk Brigittenau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":576226,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681667,
+        102049859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781400,
+        "qs_pg:id":576226
+    },
+    "wof:country":"AT",
+    "wof:created":1497046680,
+    "wof:geomhash":"e75da46d675b2e08175af0d3ae190e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1125359387,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1125359387,
+    "wof:lastmodified":1536698187,
+    "wof:name":"Gemeindebezirk Brigittenau",
+    "wof:parent_id":102049859,
+    "wof:placetype":"localadmin",
+    "wof:population":84159,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838101
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37409,
+    48.23451,
+    16.37409,
+    48.23451
+],
+  "geometry": {"coordinates":[16.37409,48.23451],"type":"Point"}
+}

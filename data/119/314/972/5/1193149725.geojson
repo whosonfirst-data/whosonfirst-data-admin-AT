@@ -1,0 +1,74 @@
+{
+  "id": 1193149725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5571,46.69043,14.5571,46.69043",
+    "geom:latitude":46.69043,
+    "geom:longitude":14.5571,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20817.0",
+    "gn:asciiname":"Sankt Georgen am Weinberg",
+    "gn:country_code":"AT",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611735,
+    "gn:latitude":46.69043,
+    "gn:longitude":14.5571,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Georgen am Weinberg",
+    "gn:population":95,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838391,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611735
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"80492624c3481ba90453843dcea3040e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838391,
+            "locality_id":1193149725,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1193149725,
+    "wof:lastmodified":1536379557,
+    "wof:name":"Sankt Georgen am Weinberg",
+    "wof:parent_id":1108838391,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5571,
+    46.69043,
+    14.5571,
+    46.69043
+],
+  "geometry": {"coordinates":[14.5571,46.69043],"type":"Point"}
+}

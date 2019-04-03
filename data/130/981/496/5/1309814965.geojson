@@ -1,0 +1,74 @@
+{
+  "id": 1309814965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92767,48.63336,14.92767,48.63336",
+    "geom:latitude":48.63336,
+    "geom:longitude":14.92767,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"309",
+    "gn:admin3_code":"30912.0",
+    "gn:asciiname":"Friedreichs",
+    "gn:country_code":"AT",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779235,
+    "gn:latitude":48.63336,
+    "gn:longitude":14.92767,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Friedreichs",
+    "gn:population":71,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836789,
+        85632785,
+        102049905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779235
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ba5a025aab7d1c843d53257993db3d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049905,
+            "localadmin_id":1108836789,
+            "locality_id":1309814965,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1309814965,
+    "wof:lastmodified":1536918387,
+    "wof:name":"Friedreichs",
+    "wof:parent_id":1108836789,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92767,
+    48.63336,
+    14.92767,
+    48.63336
+],
+  "geometry": {"coordinates":[14.92767,48.63336],"type":"Point"}
+}

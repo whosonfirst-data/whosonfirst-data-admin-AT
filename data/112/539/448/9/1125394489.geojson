@@ -1,0 +1,82 @@
+{
+  "id": 1125394489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23485,48.31117,14.23485,48.31117",
+    "geom:latitude":48.31117,
+    "geom:longitude":14.23485,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4480,
+    "gn:population":4462,
+    "iso:country":"AT",
+    "lbl:latitude":48.31117,
+    "lbl:longitude":14.23485,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873243,
+    "qs_pg:gn_pop":4480,
+    "qs_pg:name":"Puchenau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1042207,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873243,
+        "qs_pg:id":1042207
+    },
+    "wof:country":"AT",
+    "wof:created":1497048923,
+    "wof:geomhash":"4601e7a312b8e59fb9b7a7d6a243dce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1125394489,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125394489,
+    "wof:lastmodified":1534530984,
+    "wof:name":"Puchenau",
+    "wof:parent_id":102049881,
+    "wof:placetype":"localadmin",
+    "wof:population":4462,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836397
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23485,
+    48.31117,
+    14.23485,
+    48.31117
+],
+  "geometry": {"coordinates":[14.23485,48.31117],"type":"Point"}
+}

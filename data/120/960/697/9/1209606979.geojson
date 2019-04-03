@@ -1,0 +1,63 @@
+{
+  "id": 1209606979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9,47.25,11.9,47.25",
+    "geom:latitude":47.25,
+    "geom:longitude":11.9,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"709",
+    "gn:admin3_code":"70902.0",
+    "gn:asciiname":"Haslach",
+    "gn:country_code":"AT",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776727,
+    "gn:latitude":47.25,
+    "gn:longitude":11.9,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Haslach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776727
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1321ef188f79001d13581dc8a0057d5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209606979
+        }
+    ],
+    "wof:id":1209606979,
+    "wof:lastmodified":1536281978,
+    "wof:name":"Haslach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9,
+    47.25,
+    11.9,
+    47.25
+],
+  "geometry": {"coordinates":[11.9,47.25],"type":"Point"}
+}

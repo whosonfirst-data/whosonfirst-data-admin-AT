@@ -1,0 +1,72 @@
+{
+  "id": 1243384783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.43302,47.41744,12.43302,47.41744",
+    "geom:latitude":47.41744,
+    "geom:longitude":12.43302,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"704",
+    "gn:admin3_code":"70401.0",
+    "gn:asciiname":"Oberaurach",
+    "gn:country_code":"AT",
+    "gn:dem":847,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11071902,
+    "gn:latitude":47.41744,
+    "gn:longitude":12.43302,
+    "gn:modification_date":"2016-02-19",
+    "gn:name":"Oberaurach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837691,
+        85632785,
+        102049763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071902
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cb53395704aab3dc866394c97957a3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837691,
+            "locality_id":1243384783,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1243384783,
+    "wof:lastmodified":1536894303,
+    "wof:name":"Oberaurach",
+    "wof:parent_id":1108837691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.43302,
+    47.41744,
+    12.43302,
+    47.41744
+],
+  "geometry": {"coordinates":[12.43302,47.41744],"type":"Point"}
+}

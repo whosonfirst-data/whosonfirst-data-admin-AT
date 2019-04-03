@@ -1,0 +1,79 @@
+{
+  "id": 1259605401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67567,47.44936,14.67567,47.44936",
+    "geom:latitude":47.44936,
+    "geom:longitude":14.67567,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"611.0",
+    "gn:admin3_code":"61119.0",
+    "gn:asciiname":"Wald am Schoberpass",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2762039,
+    "gn:latitude":47.44936,
+    "gn:longitude":14.67567,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wald am Schoberpa\u00df",
+    "gn:population":565,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wald",
+        "Wald am Schoberpa\u00df"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838985,
+        85632785,
+        102049769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762039
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"616106158a2a89d7078fadcce0fa5e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838985,
+            "locality_id":1259605401,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259605401,
+    "wof:lastmodified":1537584915,
+    "wof:name":"Wald am Schoberpass",
+    "wof:parent_id":1108838985,
+    "wof:placetype":"locality",
+    "wof:population":565,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67567,
+    47.44936,
+    14.67567,
+    47.44936
+],
+  "geometry": {"coordinates":[14.67567,47.44936],"type":"Point"}
+}

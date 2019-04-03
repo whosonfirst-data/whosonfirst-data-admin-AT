@@ -1,0 +1,74 @@
+{
+  "id": 1343567409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72622,48.2672,13.72622,48.2672",
+    "geom:latitude":48.2672,
+    "geom:longitude":13.72622,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40829.0",
+    "gn:asciiname":"Unterolzing",
+    "gn:country_code":"AT",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762739,
+    "gn:latitude":48.2672,
+    "gn:longitude":13.72622,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterolzing",
+    "gn:population":45,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835229,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762739
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fdad37449651af4626314d7aef6ddd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835229,
+            "locality_id":1343567409,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343567409,
+    "wof:lastmodified":1537086198,
+    "wof:name":"Unterolzing",
+    "wof:parent_id":1108835229,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72622,
+    48.2672,
+    13.72622,
+    48.2672
+],
+  "geometry": {"coordinates":[13.72622,48.2672],"type":"Point"}
+}

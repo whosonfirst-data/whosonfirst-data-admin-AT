@@ -1,0 +1,74 @@
+{
+  "id": 1310507431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28324,48.16151,13.28324,48.16151",
+    "geom:latitude":48.16151,
+    "geom:longitude":13.28324,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40415.0",
+    "gn:asciiname":"Aigertsham",
+    "gn:country_code":"AT",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782857,
+    "gn:latitude":48.16151,
+    "gn:longitude":13.28324,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Aigertsham",
+    "gn:population":103,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834739,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782857
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1a9e226376d19ddbb296760cb6b98a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834739,
+            "locality_id":1310507431,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310507431,
+    "wof:lastmodified":1536914543,
+    "wof:name":"Aigertsham",
+    "wof:parent_id":1108834739,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28324,
+    48.16151,
+    13.28324,
+    48.16151
+],
+  "geometry": {"coordinates":[13.28324,48.16151],"type":"Point"}
+}

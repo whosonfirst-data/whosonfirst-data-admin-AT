@@ -1,0 +1,74 @@
+{
+  "id": 1327338149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.85357,47.39661,12.85357,47.39661",
+    "geom:latitude":47.39661,
+    "geom:longitude":12.85357,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50619.0",
+    "gn:asciiname":"Deuting",
+    "gn:country_code":"AT",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781044,
+    "gn:latitude":47.39661,
+    "gn:longitude":12.85357,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Deuting",
+    "gn:population":11,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837235,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781044
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7aa80f84b86bfc0f90ba704461c1c12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837235,
+            "locality_id":1327338149,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1327338149,
+    "wof:lastmodified":1536816091,
+    "wof:name":"Deuting",
+    "wof:parent_id":1108837235,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.85357,
+    47.39661,
+    12.85357,
+    47.39661
+],
+  "geometry": {"coordinates":[12.85357,47.39661],"type":"Point"}
+}

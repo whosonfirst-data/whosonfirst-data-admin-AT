@@ -1,0 +1,74 @@
+{
+  "id": 1225845365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85591,48.03362,13.85591,48.03362",
+    "geom:latitude":48.03362,
+    "geom:longitude":13.85591,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"407",
+    "gn:admin3_code":"40715.0",
+    "gn:asciiname":"Deising",
+    "gn:country_code":"AT",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781064,
+    "gn:latitude":48.03362,
+    "gn:longitude":13.85591,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Deising",
+    "gn:population":58,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835153,
+        85632785,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781064
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ffefe0f2e4d55981e2b90296f51a9b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835153,
+            "locality_id":1225845365,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225845365,
+    "wof:lastmodified":1537013519,
+    "wof:name":"Deising",
+    "wof:parent_id":1108835153,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85591,
+    48.03362,
+    13.85591,
+    48.03362
+],
+  "geometry": {"coordinates":[13.85591,48.03362],"type":"Point"}
+}

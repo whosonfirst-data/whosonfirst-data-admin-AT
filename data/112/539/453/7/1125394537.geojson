@@ -1,0 +1,113 @@
+{
+  "id": 1125394537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56661,47.67266,15.56661,47.67266",
+    "geom:latitude":47.67266,
+    "geom:longitude":15.56661,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1394,
+    "gn:population":2618,
+    "iso:country":"AT",
+    "lbl:latitude":47.67266,
+    "lbl:longitude":15.56661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0435\u0440\u0433 \u0430\u043d \u0434\u0435\u0440 \u041c\u044e\u0440\u0446"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0435\u0440\u0433-\u0430\u043d-\u0434\u0435\u0440-\u041c\u044e\u0440\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439\u0431\u0435\u0440\u0433-\u0430\u043d-\u0434\u0435\u0440-\u041c\u044e\u0440\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Neuberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5c14\u8328\u6cb3\u7554\u8bfa\u4f0a\u8d1d\u683c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873518,
+    "qs_pg:gn_pop":1394,
+    "qs_pg:name":"Neuberg an der M\u00fcrz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":151,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1042236,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674827,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873518,
+        "gp:id":12674827,
+        "qs_pg:id":1042236
+    },
+    "wof:concordances_alt":{
+        "gn:id":2770844,
+        "qs_pg:id":1252034
+    },
+    "wof:country":"AT",
+    "wof:created":1497048925,
+    "wof:geomhash":"df0e56e5e0038fe572dd6d0909da598c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1125394537,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125394537,
+    "wof:lastmodified":1536698229,
+    "wof:name":"Neuberg an der M\u00fcrz",
+    "wof:parent_id":1108892551,
+    "wof:placetype":"localadmin",
+    "wof:population":2618,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838845
+    ],
+    "wof:supersedes":[
+        1125323857
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56661,
+    47.67266,
+    15.56661,
+    47.67266
+],
+  "geometry": {"coordinates":[15.56661,47.67266],"type":"Point"}
+}

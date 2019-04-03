@@ -1,0 +1,63 @@
+{
+  "id": 1209038273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9175,47.98972,12.9175,47.98972",
+    "geom:latitude":47.98972,
+    "geom:longitude":12.9175,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50305.0",
+    "gn:asciiname":"Laubschachen",
+    "gn:country_code":"AT",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3323157,
+    "gn:latitude":47.98972,
+    "gn:longitude":12.9175,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Laubschachen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3323157
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dfb2efa452c017d859566f21474c96fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209038273
+        }
+    ],
+    "wof:id":1209038273,
+    "wof:lastmodified":1536299629,
+    "wof:name":"Laubschachen",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9175,
+    47.98972,
+    12.9175,
+    47.98972
+],
+  "geometry": {"coordinates":[12.9175,47.98972],"type":"Point"}
+}

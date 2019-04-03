@@ -1,0 +1,82 @@
+{
+  "id": 1125394131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06393,47.93552,17.06393,47.93552",
+    "geom:latitude":47.93552,
+    "geom:longitude":17.06393,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1520,
+    "gn:population":1773,
+    "iso:country":"AT",
+    "lbl:latitude":47.93552,
+    "lbl:longitude":17.06393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871591,
+    "qs_pg:gn_pop":1520,
+    "qs_pg:name":"Nickelsdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1041927,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871591,
+        "qs_pg:id":1041927
+    },
+    "wof:country":"AT",
+    "wof:created":1497048898,
+    "wof:geomhash":"0bbec9108fd8af55abb31834e4888a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1125394131,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125394131,
+    "wof:lastmodified":1534531051,
+    "wof:name":"Nickelsdorf",
+    "wof:parent_id":102049841,
+    "wof:placetype":"localadmin",
+    "wof:population":1773,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838427
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06393,
+    47.93552,
+    17.06393,
+    47.93552
+],
+  "geometry": {"coordinates":[17.06393,47.93552],"type":"Point"}
+}

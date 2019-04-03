@@ -1,0 +1,78 @@
+{
+  "id": 1225946001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15934,47.82376,16.15934,47.82376",
+    "geom:latitude":47.82376,
+    "geom:longitude":16.15934,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"323",
+    "gn:admin3_code":"32301.0",
+    "gn:asciiname":"Brunn an der Schneebergbahn",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781318,
+    "gn:latitude":47.82376,
+    "gn:longitude":16.15934,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Brunn an der Schneebergbahn",
+    "gn:population":1324,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brunn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835771,
+        85632785,
+        102049805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781318
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"86c017f1e22214b0bcd0fd099fa3b61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108835771,
+            "locality_id":1225946001,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1225946001,
+    "wof:lastmodified":1537584980,
+    "wof:name":"Brunn an der Schneebergbahn",
+    "wof:parent_id":1108835771,
+    "wof:placetype":"locality",
+    "wof:population":1324,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15934,
+    47.82376,
+    16.15934,
+    47.82376
+],
+  "geometry": {"coordinates":[16.15934,47.82376],"type":"Point"}
+}

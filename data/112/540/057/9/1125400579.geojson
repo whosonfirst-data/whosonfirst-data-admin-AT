@@ -1,0 +1,82 @@
+{
+  "id": 1125400579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44239,48.34393,14.44239,48.34393",
+    "geom:latitude":48.34393,
+    "geom:longitude":14.44239,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":8032,
+    "gn:population":8741,
+    "iso:country":"AT",
+    "lbl:latitude":48.34393,
+    "lbl:longitude":14.44239,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873234,
+    "qs_pg:gn_pop":8032,
+    "qs_pg:name":"Engerwitzdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":108869,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873234,
+        "qs_pg:id":108869
+    },
+    "wof:country":"AT",
+    "wof:created":1497049298,
+    "wof:geomhash":"6e1733e104ee9bc2d9e76423ff9ed6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1125400579,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125400579,
+    "wof:lastmodified":1534531015,
+    "wof:name":"Engerwitzdorf",
+    "wof:parent_id":102049881,
+    "wof:placetype":"localadmin",
+    "wof:population":8741,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836145
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44239,
+    48.34393,
+    14.44239,
+    48.34393
+],
+  "geometry": {"coordinates":[14.44239,48.34393],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293775699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.85,46.81667,12.85,46.81667",
+    "geom:latitude":46.81667,
+    "geom:longitude":12.85,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70707.0",
+    "gn:asciiname":"Goednach",
+    "gn:country_code":"AT",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778405,
+    "gn:latitude":46.81667,
+    "gn:longitude":12.85,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"G\u00f6dnach",
+    "gn:population":425,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837493,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778405
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a08c3e30331e3cc49e4882534e15df82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837493,
+            "locality_id":1293775699,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1293775699,
+    "wof:lastmodified":1536867455,
+    "wof:name":"Goednach",
+    "wof:parent_id":1108837493,
+    "wof:placetype":"locality",
+    "wof:population":425,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.85,
+    46.81667,
+    12.85,
+    46.81667
+],
+  "geometry": {"coordinates":[12.85,46.81667],"type":"Point"}
+}

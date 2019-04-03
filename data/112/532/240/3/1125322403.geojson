@@ -1,0 +1,92 @@
+{
+  "id": 1125322403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84629,48.62854,13.84629,48.62854",
+    "geom:latitude":48.62854,
+    "geom:longitude":13.84629,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":621,
+    "gn:population":621,
+    "iso:country":"AT",
+    "lbl:latitude":48.62854,
+    "lbl:longitude":13.84629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":7909799,
+    "qs_pg:gn_pop":621,
+    "qs_pg:name":"Nebelberg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":37895,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674581,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909799,
+        "gp:id":12674581,
+        "qs_pg:id":37895
+    },
+    "wof:country":"AT",
+    "wof:created":1497044606,
+    "wof:geomhash":"f8af272bd7521e263516b7d16d90b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125322403,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125322403,
+    "wof:lastmodified":1534379154,
+    "wof:name":"Nebelberg",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":621,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835971
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84629,
+    48.62854,
+    13.84629,
+    48.62854
+],
+  "geometry": {"coordinates":[13.84629,48.62854],"type":"Point"}
+}

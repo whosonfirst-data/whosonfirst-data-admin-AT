@@ -1,0 +1,77 @@
+{
+  "id": 1310609627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.09443,46.54292,14.09443,46.54292",
+    "geom:latitude":46.54292,
+    "geom:longitude":14.09443,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20722.0",
+    "gn:asciiname":"Selkach",
+    "gn:country_code":"AT",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765183,
+    "gn:latitude":46.54292,
+    "gn:longitude":14.09443,
+    "gn:modification_date":"2017-07-12",
+    "gn:name":"Selkach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Selkach"
+    ],
+    "name:slv_x_preferred":[
+        "\u017delu\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838177,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765183
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5c8db05e23cabcaf6fba377eacb76614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838177,
+            "locality_id":1310609627,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310609627,
+    "wof:lastmodified":1537584925,
+    "wof:name":"Selkach",
+    "wof:parent_id":1108838177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.09443,
+    46.54292,
+    14.09443,
+    46.54292
+],
+  "geometry": {"coordinates":[14.09443,46.54292],"type":"Point"}
+}

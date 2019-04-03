@@ -1,0 +1,74 @@
+{
+  "id": 1225851023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48078,48.05978,13.48078,48.05978",
+    "geom:latitude":48.05978,
+    "geom:longitude":13.48078,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41709.0",
+    "gn:asciiname":"Point",
+    "gn:country_code":"AT",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609512,
+    "gn:latitude":48.05978,
+    "gn:longitude":13.48078,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Point",
+    "gn:population":72,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836437,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609512
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d4ebbc2638758ff1b87477b544e889b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836437,
+            "locality_id":1225851023,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225851023,
+    "wof:lastmodified":1537005288,
+    "wof:name":"Point",
+    "wof:parent_id":1108836437,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48078,
+    48.05978,
+    13.48078,
+    48.05978
+],
+  "geometry": {"coordinates":[13.48078,48.05978],"type":"Point"}
+}

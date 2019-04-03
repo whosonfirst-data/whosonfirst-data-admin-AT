@@ -1,0 +1,74 @@
+{
+  "id": 1343464649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93666,48.06953,12.93666,48.06953",
+    "geom:latitude":48.06953,
+    "geom:longitude":12.93666,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40408.0",
+    "gn:asciiname":"Dorfibm",
+    "gn:country_code":"AT",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780795,
+    "gn:latitude":48.06953,
+    "gn:longitude":12.93666,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Dorfibm",
+    "gn:population":52,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834723,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780795
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fc65afe0fc336e0889558b0b827276e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834723,
+            "locality_id":1343464649,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343464649,
+    "wof:lastmodified":1536739906,
+    "wof:name":"Dorfibm",
+    "wof:parent_id":1108834723,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93666,
+    48.06953,
+    12.93666,
+    48.06953
+],
+  "geometry": {"coordinates":[12.93666,48.06953],"type":"Point"}
+}

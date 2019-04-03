@@ -1,0 +1,63 @@
+{
+  "id": 1209416891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20097,48.1211,16.20097,48.1211",
+    "geom:latitude":48.1211,
+    "geom:longitude":16.20097,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"317.0",
+    "gn:admin3_code":"31713.0",
+    "gn:asciiname":"Doktorberg",
+    "gn:country_code":"AT",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2601271,
+    "gn:latitude":48.1211,
+    "gn:longitude":16.20097,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Doktorberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2601271
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5ce3e3b3c5e9a651785df3005ed8397d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209416891
+        }
+    ],
+    "wof:id":1209416891,
+    "wof:lastmodified":1536287657,
+    "wof:name":"Doktorberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20097,
+    48.1211,
+    16.20097,
+    48.1211
+],
+  "geometry": {"coordinates":[16.20097,48.1211],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125275063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25171,47.84857,13.25171,47.84857",
+    "geom:latitude":47.84857,
+    "geom:longitude":13.25171,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":5308,
+    "gn:population":5912,
+    "iso:country":"AT",
+    "lbl:latitude":47.84857,
+    "lbl:longitude":13.25171,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873305,
+    "qs_pg:gn_pop":5308,
+    "qs_pg:name":"Thalgau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":108899,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873305,
+        "qs_pg:id":108899
+    },
+    "wof:country":"AT",
+    "wof:created":1497042277,
+    "wof:geomhash":"d7590d9f2bb97cd238a6dbd443aeefd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1125275063,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125275063,
+    "wof:lastmodified":1534530991,
+    "wof:name":"Thalgau",
+    "wof:parent_id":102049799,
+    "wof:placetype":"localadmin",
+    "wof:population":5912,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837187
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25171,
+    47.84857,
+    13.25171,
+    47.84857
+],
+  "geometry": {"coordinates":[13.25171,47.84857],"type":"Point"}
+}

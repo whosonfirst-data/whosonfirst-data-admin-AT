@@ -1,0 +1,110 @@
+{
+  "id": 1125277363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47984,47.77377,16.47984,47.77377",
+    "geom:latitude":47.77377,
+    "geom:longitude":16.47984,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.77377,
+    "lbl:longitude":16.47984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Antau"
+    ],
+    "name:hrv_x_preferred":[
+        "Otava"
+    ],
+    "name:hun_x_historical":[
+        "Ottova"
+    ],
+    "name:hun_x_preferred":[
+        "Ottova"
+    ],
+    "name:hun_x_variant":[
+        "Selegsz\u00e1nt\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0430\u0443"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2782479,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Antau",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Burgenland",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1187696,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673379,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Burgenland",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782479,
+        "gp:id":12673379,
+        "qs_pg:id":1187696
+    },
+    "wof:country":"AT",
+    "wof:created":1497042373,
+    "wof:geomhash":"18cb2761e854f22e7e59e91145bd8e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1125277363,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125277363,
+    "wof:lastmodified":1534531060,
+    "wof:name":"Antau",
+    "wof:parent_id":102049789,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838699
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47984,
+    47.77377,
+    16.47984,
+    47.77377
+],
+  "geometry": {"coordinates":[16.47984,47.77377],"type":"Point"}
+}

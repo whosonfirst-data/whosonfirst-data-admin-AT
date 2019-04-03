@@ -1,0 +1,74 @@
+{
+  "id": 1259495141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17152,48.67334,15.17152,48.67334",
+    "geom:latitude":48.67334,
+    "geom:longitude":15.17152,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"325",
+    "gn:admin3_code":"32530.0",
+    "gn:asciiname":"Grossglobnitz",
+    "gn:country_code":"AT",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777698,
+    "gn:latitude":48.67334,
+    "gn:longitude":15.17152,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Grossglobnitz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gro\u00dfglobnitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836883,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777698
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8fb90c1d246f074ecfc220e45868a3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836883,
+            "locality_id":1259495141,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259495141,
+    "wof:lastmodified":1537584971,
+    "wof:name":"Grossglobnitz",
+    "wof:parent_id":1108836883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17152,
+    48.67334,
+    15.17152,
+    48.67334
+],
+  "geometry": {"coordinates":[15.17152,48.67334],"type":"Point"}
+}

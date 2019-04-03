@@ -1,0 +1,71 @@
+{
+  "id": 1343254387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46515,47.08316,14.46515,47.08316",
+    "geom:latitude":47.08316,
+    "geom:longitude":14.46515,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61439.0",
+    "gn:asciiname":"Greith",
+    "gn:country_code":"AT",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778026,
+    "gn:latitude":47.08316,
+    "gn:longitude":14.46515,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Greith",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838811,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778026
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9532d22f5cfadcee8e708519d7d7217d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838811,
+            "locality_id":1343254387,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343254387,
+    "wof:lastmodified":1537041936,
+    "wof:name":"Greith",
+    "wof:parent_id":1108838811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46515,
+    47.08316,
+    14.46515,
+    47.08316
+],
+  "geometry": {"coordinates":[14.46515,47.08316],"type":"Point"}
+}

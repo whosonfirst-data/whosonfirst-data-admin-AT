@@ -1,0 +1,66 @@
+{
+  "id": 1209112099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70738,48.12892,13.70738,48.12892",
+    "geom:latitude":48.12892,
+    "geom:longitude":13.70738,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40806.0",
+    "gn:asciiname":"Unterepfenhofen",
+    "gn:country_code":"AT",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610747,
+    "gn:latitude":48.12892,
+    "gn:longitude":13.70738,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterepfenhofen",
+    "gn:population":18,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610747
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0b6283510f4595779e29dda20c7c2a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209112099
+        }
+    ],
+    "wof:id":1209112099,
+    "wof:lastmodified":1536297373,
+    "wof:name":"Unterepfenhofen",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70738,
+    48.12892,
+    13.70738,
+    48.12892
+],
+  "geometry": {"coordinates":[13.70738,48.12892],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242983467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43458,46.88654,14.43458,46.88654",
+    "geom:latitude":46.88654,
+    "geom:longitude":14.43458,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20530.0",
+    "gn:asciiname":"Buldorf",
+    "gn:country_code":"AT",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611819,
+    "gn:latitude":46.88654,
+    "gn:longitude":14.43458,
+    "gn:modification_date":"2017-07-26",
+    "gn:name":"Buldorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838243,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611819
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c4e9a5cd658b327a466f9427723427cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838243,
+            "locality_id":1242983467,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1242983467,
+    "wof:lastmodified":1536975453,
+    "wof:name":"Buldorf",
+    "wof:parent_id":1108838243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43458,
+    46.88654,
+    14.43458,
+    46.88654
+],
+  "geometry": {"coordinates":[14.43458,46.88654],"type":"Point"}
+}

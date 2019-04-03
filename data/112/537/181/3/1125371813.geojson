@@ -1,0 +1,82 @@
+{
+  "id": 1125371813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27412,46.67698,13.27412,46.67698",
+    "geom:latitude":46.67698,
+    "geom:longitude":13.27412,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1277,
+    "gn:population":1282,
+    "iso:country":"AT",
+    "lbl:latitude":46.67698,
+    "lbl:longitude":13.27412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871630,
+    "qs_pg:gn_pop":1277,
+    "qs_pg:name":"Gitschtal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108299,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871630,
+        "qs_pg:id":108299
+    },
+    "wof:country":"AT",
+    "wof:created":1497047453,
+    "wof:geomhash":"6854bf74d5a877f7a8bb21a60658e536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1125371813,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125371813,
+    "wof:lastmodified":1534379145,
+    "wof:name":"Gitschtal",
+    "wof:parent_id":102049675,
+    "wof:placetype":"localadmin",
+    "wof:population":1282,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838159
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27412,
+    46.67698,
+    13.27412,
+    46.67698
+],
+  "geometry": {"coordinates":[13.27412,46.67698],"type":"Point"}
+}

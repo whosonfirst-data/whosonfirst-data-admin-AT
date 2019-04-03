@@ -1,0 +1,74 @@
+{
+  "id": 1310205437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.04961,48.15526,13.04961,48.15526",
+    "geom:latitude":48.15526,
+    "geom:longitude":13.04961,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40427.0",
+    "gn:asciiname":"Schuetzing",
+    "gn:country_code":"AT",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765552,
+    "gn:latitude":48.15526,
+    "gn:longitude":13.04961,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sch\u00fctzing",
+    "gn:population":47,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834765,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765552
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0ff51b32faa5cd2c11c4f4a7736ac8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834765,
+            "locality_id":1310205437,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310205437,
+    "wof:lastmodified":1536851262,
+    "wof:name":"Schuetzing",
+    "wof:parent_id":1108834765,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.04961,
+    48.15526,
+    13.04961,
+    48.15526
+],
+  "geometry": {"coordinates":[13.04961,48.15526],"type":"Point"}
+}

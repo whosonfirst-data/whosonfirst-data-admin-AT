@@ -1,0 +1,74 @@
+{
+  "id": 1243477005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9073,47.28144,12.9073,47.28144",
+    "geom:latitude":47.28144,
+    "geom:longitude":12.9073,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50622.0",
+    "gn:asciiname":"Thannberg",
+    "gn:country_code":"AT",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594693,
+    "gn:latitude":47.28144,
+    "gn:longitude":12.9073,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Thannberg",
+    "gn:population":91,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837241,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594693
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"93e5692a1ab9b36027324866f35cd945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837241,
+            "locality_id":1243477005,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1243477005,
+    "wof:lastmodified":1536761731,
+    "wof:name":"Thannberg",
+    "wof:parent_id":1108837241,
+    "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9073,
+    47.28144,
+    12.9073,
+    47.28144
+],
+  "geometry": {"coordinates":[12.9073,47.28144],"type":"Point"}
+}

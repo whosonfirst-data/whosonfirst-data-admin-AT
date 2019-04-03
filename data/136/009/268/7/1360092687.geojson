@@ -1,0 +1,71 @@
+{
+  "id": 1360092687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05,48.48333,15.05,48.48333",
+    "geom:latitude":48.48333,
+    "geom:longitude":15.05,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"325",
+    "gn:admin3_code":"32521.0",
+    "gn:asciiname":"Lohn",
+    "gn:country_code":"AT",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772322,
+    "gn:latitude":48.48333,
+    "gn:longitude":15.05,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Lohn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835939,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772322
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0e5811bb1ad6a6af6dc0ccbc49350931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835939,
+            "locality_id":1360092687,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1360092687,
+    "wof:lastmodified":1536935393,
+    "wof:name":"Lohn",
+    "wof:parent_id":1108835939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05,
+    48.48333,
+    15.05,
+    48.48333
+],
+  "geometry": {"coordinates":[15.05,48.48333],"type":"Point"}
+}

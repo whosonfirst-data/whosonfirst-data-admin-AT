@@ -1,0 +1,82 @@
+{
+  "id": 1125381217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89553,47.38967,13.89553,47.38967",
+    "geom:latitude":47.38967,
+    "geom:longitude":13.89553,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":540,
+    "gn:population":540,
+    "iso:country":"AT",
+    "lbl:latitude":47.38967,
+    "lbl:longitude":13.89553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872441,
+    "qs_pg:gn_pop":540,
+    "qs_pg:name":"Michaelerberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":381035,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872441,
+        "qs_pg:id":381035
+    },
+    "wof:country":"AT",
+    "wof:created":1497048060,
+    "wof:geomhash":"98c36dc46ffc6aa893b824659e189426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125381217,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125381217,
+    "wof:lastmodified":1536698217,
+    "wof:name":"Michaelerberg",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":540,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838927
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89553,
+    47.38967,
+    13.89553,
+    47.38967
+],
+  "geometry": {"coordinates":[13.89553,47.38967],"type":"Point"}
+}

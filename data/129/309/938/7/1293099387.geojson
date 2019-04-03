@@ -1,0 +1,71 @@
+{
+  "id": 1293099387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63722,48.51583,13.63722,48.51583",
+    "geom:latitude":48.51583,
+    "geom:longitude":13.63722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41420.0",
+    "gn:asciiname":"Vorholz",
+    "gn:country_code":"AT",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319300,
+    "gn:latitude":48.51583,
+    "gn:longitude":13.63722,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Vorholz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836067,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319300
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5a92fa11974091c84f2246db3f3d09a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836067,
+            "locality_id":1293099387,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293099387,
+    "wof:lastmodified":1536848486,
+    "wof:name":"Vorholz",
+    "wof:parent_id":1108836067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63722,
+    48.51583,
+    13.63722,
+    48.51583
+],
+  "geometry": {"coordinates":[13.63722,48.51583],"type":"Point"}
+}

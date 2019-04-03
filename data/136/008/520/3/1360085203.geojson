@@ -1,0 +1,74 @@
+{
+  "id": 1360085203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71327,48.20649,14.71327,48.20649",
+    "geom:latitude":48.20649,
+    "geom:longitude":14.71327,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"411",
+    "gn:admin3_code":"41112.0",
+    "gn:asciiname":"Kirchstetten",
+    "gn:country_code":"AT",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774365,
+    "gn:latitude":48.20649,
+    "gn:longitude":14.71327,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kirchstetten",
+    "gn:population":55,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835591,
+        85632785,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774365
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4c331242df82ff2ee21e9d377b6371c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835591,
+            "locality_id":1360085203,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1360085203,
+    "wof:lastmodified":1536945914,
+    "wof:name":"Kirchstetten",
+    "wof:parent_id":1108835591,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71327,
+    48.20649,
+    14.71327,
+    48.20649
+],
+  "geometry": {"coordinates":[14.71327,48.20649],"type":"Point"}
+}

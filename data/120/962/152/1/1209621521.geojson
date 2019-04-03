@@ -1,0 +1,63 @@
+{
+  "id": 1209621521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08859,48.21444,14.08859,48.21444",
+    "geom:latitude":48.21444,
+    "geom:longitude":14.08859,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"418",
+    "gn:admin3_code":"41809.0",
+    "gn:asciiname":"Niederpriesching",
+    "gn:country_code":"AT",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770535,
+    "gn:latitude":48.21444,
+    "gn:longitude":14.08859,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Niederpriesching",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770535
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0ddb059db268a9fdafebbfa8ca758327",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209621521
+        }
+    ],
+    "wof:id":1209621521,
+    "wof:lastmodified":1536281502,
+    "wof:name":"Niederpriesching",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08859,
+    48.21444,
+    14.08859,
+    48.21444
+],
+  "geometry": {"coordinates":[14.08859,48.21444],"type":"Point"}
+}

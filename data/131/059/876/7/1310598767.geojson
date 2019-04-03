@@ -1,0 +1,74 @@
+{
+  "id": 1310598767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97356,47.38188,15.97356,47.38188",
+    "geom:latitude":47.38188,
+    "geom:longitude":15.97356,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"622",
+    "gn:admin3_code":"62277.0",
+    "gn:asciiname":"Eichberg",
+    "gn:country_code":"AT",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2780274,
+    "gn:latitude":47.38188,
+    "gn:longitude":15.97356,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Eichberg",
+    "gn:population":380,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839427,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780274
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"287c633fee8359ef2e4df3bfa1c1ac66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839427,
+            "locality_id":1310598767,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310598767,
+    "wof:lastmodified":1536782927,
+    "wof:name":"Eichberg",
+    "wof:parent_id":1108839427,
+    "wof:placetype":"locality",
+    "wof:population":380,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97356,
+    47.38188,
+    15.97356,
+    47.38188
+],
+  "geometry": {"coordinates":[15.97356,47.38188],"type":"Point"}
+}

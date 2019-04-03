@@ -1,0 +1,74 @@
+{
+  "id": 1243578153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6,48.05,13.6,48.05",
+    "geom:latitude":48.05,
+    "geom:longitude":13.6,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41744.0",
+    "gn:asciiname":"Mitterschlag",
+    "gn:country_code":"AT",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771389,
+    "gn:latitude":48.05,
+    "gn:longitude":13.6,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mitterschlag",
+    "gn:population":72,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836517,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771389
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"95ba8b7d775aaa09ec60bff7410fa76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836517,
+            "locality_id":1243578153,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243578153,
+    "wof:lastmodified":1536613381,
+    "wof:name":"Mitterschlag",
+    "wof:parent_id":1108836517,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6,
+    48.05,
+    13.6,
+    48.05
+],
+  "geometry": {"coordinates":[13.6,48.05],"type":"Point"}
+}

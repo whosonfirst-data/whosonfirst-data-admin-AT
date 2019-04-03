@@ -1,0 +1,74 @@
+{
+  "id": 1343959651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78066,48.2688,15.78066,48.2688",
+    "geom:latitude":48.2688,
+    "geom:longitude":15.78066,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"319.0",
+    "gn:admin3_code":"31915.0",
+    "gn:asciiname":"Unterkilling",
+    "gn:country_code":"AT",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762850,
+    "gn:latitude":48.2688,
+    "gn:longitude":15.78066,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterkilling",
+    "gn:population":11,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836201,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762850
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"69be1062ef6d9280401f044b26292c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836201,
+            "locality_id":1343959651,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343959651,
+    "wof:lastmodified":1537020274,
+    "wof:name":"Unterkilling",
+    "wof:parent_id":1108836201,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78066,
+    48.2688,
+    15.78066,
+    48.2688
+],
+  "geometry": {"coordinates":[15.78066,48.2688],"type":"Point"}
+}

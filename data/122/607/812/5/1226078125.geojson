@@ -1,0 +1,74 @@
+{
+  "id": 1226078125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62657,48.23468,13.62657,48.23468",
+    "geom:latitude":48.23468,
+    "geom:longitude":13.62657,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40822.0",
+    "gn:asciiname":"Kleinpoxruck",
+    "gn:country_code":"AT",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610501,
+    "gn:latitude":48.23468,
+    "gn:longitude":13.62657,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kleinpoxruck",
+    "gn:population":20,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835213,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610501
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f303bc63a1978802301cde167cac2f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835213,
+            "locality_id":1226078125,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226078125,
+    "wof:lastmodified":1536678580,
+    "wof:name":"Kleinpoxruck",
+    "wof:parent_id":1108835213,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62657,
+    48.23468,
+    13.62657,
+    48.23468
+],
+  "geometry": {"coordinates":[13.62657,48.23468],"type":"Point"}
+}

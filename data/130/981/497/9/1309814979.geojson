@@ -1,0 +1,71 @@
+{
+  "id": 1309814979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04312,48.54329,15.04312,48.54329",
+    "geom:latitude":48.54329,
+    "geom:longitude":15.04312,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"325.0",
+    "gn:admin3_code":"32521.0",
+    "gn:asciiname":"Sellbitz",
+    "gn:country_code":"AT",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765181,
+    "gn:latitude":48.54329,
+    "gn:longitude":15.04312,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Sellbitz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835939,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765181
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6dd60459b4daccc504851c11a1d9d887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835939,
+            "locality_id":1309814979,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1309814979,
+    "wof:lastmodified":1536918367,
+    "wof:name":"Sellbitz",
+    "wof:parent_id":1108835939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04312,
+    48.54329,
+    15.04312,
+    48.54329
+],
+  "geometry": {"coordinates":[15.04312,48.54329],"type":"Point"}
+}

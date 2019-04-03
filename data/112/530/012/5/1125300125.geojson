@@ -1,0 +1,104 @@
+{
+  "id": 1125300125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5576,47.8135,16.5576,47.8135",
+    "geom:latitude":47.8135,
+    "geom:longitude":16.5576,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.8135,
+    "lbl:longitude":16.5576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Trausdorf an der Wulka"
+    ],
+    "name:hun_x_preferred":[
+        "Dar\u00e1zsfalu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0443\u0441\u0434\u043e\u0440\u0444-\u0430\u043d-\u0434\u0435\u0440-\u0412\u0443\u043b\u044c\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Trausdorf"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2763406,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Trausdorf an der Wulka",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Burgenland",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1101745,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673514,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Burgenland",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763406,
+        "gp:id":12673514,
+        "qs_pg:id":1101745
+    },
+    "wof:country":"AT",
+    "wof:created":1497043375,
+    "wof:geomhash":"6e4af433e7f9286b0310a607193bc396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1125300125,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125300125,
+    "wof:lastmodified":1534530999,
+    "wof:name":"Trausdorf an der Wulka",
+    "wof:parent_id":102049811,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838551
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5576,
+    47.8135,
+    16.5576,
+    47.8135
+],
+  "geometry": {"coordinates":[16.5576,47.8135],"type":"Point"}
+}

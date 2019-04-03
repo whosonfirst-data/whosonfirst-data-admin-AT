@@ -1,0 +1,74 @@
+{
+  "id": 1259786779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43453,46.63683,14.43453,46.63683",
+    "geom:latitude":46.63683,
+    "geom:longitude":14.43453,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"204",
+    "gn:admin3_code":"20409.0",
+    "gn:asciiname":"Replach",
+    "gn:country_code":"AT",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11608993,
+    "gn:latitude":46.63683,
+    "gn:longitude":14.43453,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Replach",
+    "gn:population":77,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838167,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11608993
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0541395f25b0cbade0e156af66968fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838167,
+            "locality_id":1259786779,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259786779,
+    "wof:lastmodified":1536918985,
+    "wof:name":"Replach",
+    "wof:parent_id":1108838167,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43453,
+    46.63683,
+    14.43453,
+    46.63683
+],
+  "geometry": {"coordinates":[14.43453,46.63683],"type":"Point"}
+}

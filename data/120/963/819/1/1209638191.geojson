@@ -1,0 +1,63 @@
+{
+  "id": 1209638191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.03917,47.89861,13.03917,47.89861",
+    "geom:latitude":47.89861,
+    "geom:longitude":13.03917,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50302.0",
+    "gn:asciiname":"Irlach",
+    "gn:country_code":"AT",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3322942,
+    "gn:latitude":47.89861,
+    "gn:longitude":13.03917,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Irlach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3322942
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"365a6e080d6a9484daec77af6dd84337",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209638191
+        }
+    ],
+    "wof:id":1209638191,
+    "wof:lastmodified":1536280972,
+    "wof:name":"Irlach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03917,
+    47.89861,
+    13.03917,
+    47.89861
+],
+  "geometry": {"coordinates":[13.03917,47.89861],"type":"Point"}
+}

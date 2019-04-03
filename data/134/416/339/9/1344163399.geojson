@@ -1,0 +1,74 @@
+{
+  "id": 1344163399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62658,48.22393,14.62658,48.22393",
+    "geom:latitude":48.22393,
+    "geom:longitude":14.62658,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"411.0",
+    "gn:admin3_code":"41114.0",
+    "gn:asciiname":"Pratztrum",
+    "gn:country_code":"AT",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768414,
+    "gn:latitude":48.22393,
+    "gn:longitude":14.62658,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pratztrum",
+    "gn:population":50,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835597,
+        85632785,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768414
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a62d89c3742240ab0121940b93ef6d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835597,
+            "locality_id":1344163399,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344163399,
+    "wof:lastmodified":1536727386,
+    "wof:name":"Pratztrum",
+    "wof:parent_id":1108835597,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62658,
+    48.22393,
+    14.62658,
+    48.22393
+],
+  "geometry": {"coordinates":[14.62658,48.22393],"type":"Point"}
+}

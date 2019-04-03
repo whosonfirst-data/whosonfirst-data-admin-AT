@@ -1,0 +1,63 @@
+{
+  "id": 1209130099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5125,48.5275,13.5125,48.5275",
+    "geom:latitude":48.5275,
+    "geom:longitude":13.5125,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41423.0",
+    "gn:asciiname":"Schwendt",
+    "gn:country_code":"AT",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324472,
+    "gn:latitude":48.5275,
+    "gn:longitude":13.5125,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Schwendt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324472
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"db898f8d543805801a5f42e61b0af113",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209130099
+        }
+    ],
+    "wof:id":1209130099,
+    "wof:lastmodified":1536296831,
+    "wof:name":"Schwendt",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5125,
+    48.5275,
+    13.5125,
+    48.5275
+],
+  "geometry": {"coordinates":[13.5125,48.5275],"type":"Point"}
+}

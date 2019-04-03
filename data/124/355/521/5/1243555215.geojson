@@ -1,0 +1,74 @@
+{
+  "id": 1243555215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64905,47.55359,13.64905,47.55359",
+    "geom:latitude":47.55359,
+    "geom:longitude":13.64905,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"407",
+    "gn:admin3_code":"40709.0",
+    "gn:asciiname":"Lahn",
+    "gn:country_code":"AT",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773148,
+    "gn:latitude":47.55359,
+    "gn:longitude":13.64905,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lahn",
+    "gn:population":458,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835139,
+        85632785,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773148
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bd420d22b8d2ea4e7b1b6be8c491355c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835139,
+            "locality_id":1243555215,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243555215,
+    "wof:lastmodified":1536648450,
+    "wof:name":"Lahn",
+    "wof:parent_id":1108835139,
+    "wof:placetype":"locality",
+    "wof:population":458,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64905,
+    47.55359,
+    13.64905,
+    47.55359
+],
+  "geometry": {"coordinates":[13.64905,47.55359],"type":"Point"}
+}

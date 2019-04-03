@@ -1,0 +1,71 @@
+{
+  "id": 1310212589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27213,48.01158,16.27213,48.01158",
+    "geom:latitude":48.01158,
+    "geom:longitude":16.27213,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"306",
+    "gn:admin3_code":"30639.0",
+    "gn:asciiname":"Josefsthal",
+    "gn:country_code":"AT",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775026,
+    "gn:latitude":48.01158,
+    "gn:longitude":16.27213,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Josefsthal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835275,
+        85632785,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775026
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ed65dc098fc437106059bfad52c15720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835275,
+            "locality_id":1310212589,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310212589,
+    "wof:lastmodified":1536840928,
+    "wof:name":"Josefsthal",
+    "wof:parent_id":1108835275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27212999999999,
+    48.01158,
+    16.27212999999999,
+    48.01158
+],
+  "geometry": {"coordinates":[16.27212999999999,48.01158],"type":"Point"}
+}

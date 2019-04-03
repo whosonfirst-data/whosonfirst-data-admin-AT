@@ -1,0 +1,74 @@
+{
+  "id": 1327346349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01528,46.88028,13.01528,46.88028",
+    "geom:latitude":46.88028,
+    "geom:longitude":13.01528,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20636.0",
+    "gn:asciiname":"Latzendorf",
+    "gn:country_code":"AT",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772854,
+    "gn:latitude":46.88028,
+    "gn:longitude":13.01528,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Latzendorf",
+    "gn:population":170,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838303,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772854
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9c243d2a25840a2d88631ffa477ff602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838303,
+            "locality_id":1327346349,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1327346349,
+    "wof:lastmodified":1536804863,
+    "wof:name":"Latzendorf",
+    "wof:parent_id":1108838303,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01528,
+    46.88028,
+    13.01528,
+    46.88028
+],
+  "geometry": {"coordinates":[13.01528,46.88028],"type":"Point"}
+}

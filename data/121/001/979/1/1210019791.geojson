@@ -1,0 +1,74 @@
+{
+  "id": 1210019791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1188,46.84555,14.1188,46.84555",
+    "geom:latitude":46.84555,
+    "geom:longitude":14.1188,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20503.0",
+    "gn:asciiname":"Lessnitz",
+    "gn:country_code":"AT",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11591897,
+    "gn:latitude":46.84555,
+    "gn:longitude":14.1188,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Le\u00dfnitz",
+    "gn:population":41,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838207,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591897
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"13e2b38a89891fb8a5ed642e560e4d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838207,
+            "locality_id":1210019791,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1210019791,
+    "wof:lastmodified":1536393397,
+    "wof:name":"Lessnitz",
+    "wof:parent_id":1108838207,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1188,
+    46.84555,
+    14.1188,
+    46.84555
+],
+  "geometry": {"coordinates":[14.1188,46.84555],"type":"Point"}
+}

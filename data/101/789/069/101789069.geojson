@@ -1,0 +1,116 @@
+{
+  "id": 101789069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":588424.986972,
+    "geom:bbox":"14.2716103043,47.198617885,14.2887317463,47.2059096417",
+    "geom:latitude":47.202521,
+    "geom:longitude":14.280858,
+    "iso:country":"AT",
+    "lbl:latitude":47.202264,
+    "lbl:longitude":14.282155,
+    "mps:latitude":47.202264,
+    "mps:longitude":14.282155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u0432\u044c\u043e\u043b\u0446 \u0429\u0430\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Oberw\u00f6lz Stadt"
+    ],
+    "name:deu_x_preferred":[
+        "Oberw\u00f6lz Stadt"
+    ],
+    "name:fra_x_preferred":[
+        "Oberw\u00f6lz Stadt"
+    ],
+    "name:ita_x_preferred":[
+        "Oberw\u00f6lz Stadt"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u0432\u0451\u043b\u044c\u0446-\u0428\u0442\u0430\u0434\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Oberw\u00f6lz Stadt"
+    ],
+    "name:pol_x_preferred":[
+        "Oberw\u00f6lz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u0432\u0451\u043b\u044c\u0446-\u0428\u0442\u0430\u0434\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Oberw\u00f6lz Stadt"
+    ],
+    "name:unk_x_variant":[
+        "Oberw\u00f6lz"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Steiermark",
+    "qs:a1r":"0",
+    "qs:a2":"Murau",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Oberw\u00f6lz Stadt",
+    "qs:la_lc":"*AT61414",
+    "qs:level":"locality",
+    "qs:loc":"Oberw\u00f6lz Stadt",
+    "qs:loc_alt":"Oberwoelz Stadt",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838785,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769580,
+        "gp:id":549425,
+        "qs:id":1059560,
+        "qs_pg:id":977192,
+        "wd:id":"Q685862",
+        "wk:page":"Oberw\u00f6lz Stadt"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e320d588e5cf94355bf8a85f58a0d2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838785,
+            "locality_id":101789069,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":101789069,
+    "wof:lastmodified":1527715902,
+    "wof:name":"Oberw\u00f6lz Stadt",
+    "wof:parent_id":1108838785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27161030429312,
+    47.19861788504471,
+    14.2887317463194,
+    47.20590964173653
+],
+  "geometry": {"coordinates":[[[14.28507586617854,47.20575362721308],[14.28492826658453,47.20395669150105],[14.28624533617051,47.20390465678122],[14.28617151870765,47.20300618921738],[14.28748856335858,47.20295413955932],[14.287414726603,47.20205567253498],[14.2887317463194,47.20200360793916],[14.28865789027333,47.20110514145426],[14.28734089310672,47.20115720501593],[14.28719323588996,47.19936026849388],[14.28324236538401,47.19951635714841],[14.28316860930488,47.19861788504471],[14.2818516702543,47.19866988162158],[14.28192540378609,47.19956835475818],[14.27929147344969,47.19967230206458],[14.27936516513887,47.20057077677149],[14.27541418414813,47.200726581043],[14.27556144198093,47.20252353516395],[14.27161030429312,47.20267920187655],[14.27175743980825,47.20447616020607],[14.27570871281415,47.20432048730805],[14.27578235310659,47.20521896263898],[14.28105077404308,47.20501117102805],[14.2811245078056,47.20590964173653],[14.28507586617854,47.20575362721308]]],"type":"Polygon"}
+}

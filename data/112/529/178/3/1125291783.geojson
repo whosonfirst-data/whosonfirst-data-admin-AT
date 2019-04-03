@@ -1,0 +1,105 @@
+{
+  "id": 1125291783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44204,48.34507,14.44204,48.34507",
+    "geom:latitude":48.34507,
+    "geom:longitude":14.44204,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":8510,
+    "gn:population":8510,
+    "iso:country":"AT",
+    "lbl:latitude":48.34507,
+    "lbl:longitude":14.44204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u042d\u043d\u0433\u0435\u0440\u0432\u0438\u0446\u0434\u043e\u0440\u0444"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043d\u0433\u0435\u0440\u0432\u0438\u0446\u0434\u043e\u0440\u0444"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u683c\u5c14\u7ef4\u8328\u591a\u592b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2780057,
+    "qs_pg:gn_pop":8510,
+    "qs_pg:name":"Engerwitzdorf",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":43,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1037808,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674266,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780057,
+        "gp:id":12674266,
+        "qs_pg:id":1037808
+    },
+    "wof:country":"AT",
+    "wof:created":1497042956,
+    "wof:geomhash":"74692d260336d96975aa77c9fc03d579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1125291783,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125291783,
+    "wof:lastmodified":1534531016,
+    "wof:name":"Engerwitzdorf",
+    "wof:parent_id":102049881,
+    "wof:placetype":"localadmin",
+    "wof:population":8510,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836145
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44204,
+    48.34507,
+    14.44204,
+    48.34507
+],
+  "geometry": {"coordinates":[14.44204,48.34507],"type":"Point"}
+}

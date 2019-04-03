@@ -1,0 +1,79 @@
+{
+  "id": 1343354129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59343,47.19569,15.59343,47.19569",
+    "geom:latitude":47.19569,
+    "geom:longitude":15.59343,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61730.0",
+    "gn:asciiname":"Steinberg bei Weiz",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764504,
+    "gn:latitude":47.19569,
+    "gn:longitude":15.59343,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Steinberg bei Weiz",
+    "gn:population":283,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Steinberg",
+        "Steinberg bei Weiz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839379,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764504
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"786e2a32dd041d66b752f890a6b01406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839379,
+            "locality_id":1343354129,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343354129,
+    "wof:lastmodified":1537584923,
+    "wof:name":"Steinberg bei Weiz",
+    "wof:parent_id":1108839379,
+    "wof:placetype":"locality",
+    "wof:population":283,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59343,
+    47.19569,
+    15.59343,
+    47.19569
+],
+  "geometry": {"coordinates":[15.59343,47.19569],"type":"Point"}
+}

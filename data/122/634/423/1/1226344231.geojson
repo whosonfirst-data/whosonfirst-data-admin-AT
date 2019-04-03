@@ -1,0 +1,74 @@
+{
+  "id": 1226344231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15,48.6,16.15,48.6",
+    "geom:latitude":48.6,
+    "geom:longitude":16.15,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"310",
+    "gn:admin3_code":"31051.0",
+    "gn:asciiname":"Aschendorf",
+    "gn:country_code":"AT",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782339,
+    "gn:latitude":48.6,
+    "gn:longitude":16.15,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Aschendorf",
+    "gn:population":52,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835367,
+        85632785,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782339
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"562d2631ffc25d5ced0031b1dcac22b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835367,
+            "locality_id":1226344231,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1226344231,
+    "wof:lastmodified":1536791978,
+    "wof:name":"Aschendorf",
+    "wof:parent_id":1108835367,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15,
+    48.6,
+    16.15,
+    48.6
+],
+  "geometry": {"coordinates":[16.15,48.6],"type":"Point"}
+}

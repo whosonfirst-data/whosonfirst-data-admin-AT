@@ -1,0 +1,77 @@
+{
+  "id": 1259877399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33333,47.71667,16.33333,47.71667",
+    "geom:latitude":47.71667,
+    "geom:longitude":16.33333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Neustift an der Rosalia",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770658,
+    "gn:latitude":47.71667,
+    "gn:longitude":16.33333,
+    "gn:modification_date":"2012-11-04",
+    "gn:name":"Neustift an der Rosalia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:und_x_variant":[
+        "Neustift",
+        "Neustift an der Rosalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838663,
+        85632785,
+        102049789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770658
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9afb685a7a7f125a19a68ff04233f136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1108838663,
+            "locality_id":1259877399,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1259877399,
+    "wof:lastmodified":1537584949,
+    "wof:name":"Neustift an der Rosalia",
+    "wof:parent_id":1108838663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33333,
+    47.71667,
+    16.33333,
+    47.71667
+],
+  "geometry": {"coordinates":[16.33333,47.71667],"type":"Point"}
+}

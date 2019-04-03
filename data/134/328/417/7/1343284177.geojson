@@ -1,0 +1,74 @@
+{
+  "id": 1343284177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97313,46.69967,15.97313,46.69967",
+    "geom:latitude":46.69967,
+    "geom:longitude":15.97313,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62376.0",
+    "gn:asciiname":"Altneudoerfl",
+    "gn:country_code":"AT",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592506,
+    "gn:latitude":46.69967,
+    "gn:longitude":15.97313,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Altneud\u00f6rfl",
+    "gn:population":518,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839337,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592506
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9d85df7fdfc0c3f73afedf4ac3d3d0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839337,
+            "locality_id":1343284177,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343284177,
+    "wof:lastmodified":1536999986,
+    "wof:name":"Altneudoerfl",
+    "wof:parent_id":1108839337,
+    "wof:placetype":"locality",
+    "wof:population":518,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97313,
+    46.69967000000001,
+    15.97313,
+    46.69967000000001
+],
+  "geometry": {"coordinates":[15.97313,46.69967000000001],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1125338099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.999916,46.674515,12.999916,46.674515",
+    "geom:latitude":46.674515,
+    "geom:longitude":12.999916,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":46.674515,
+    "lbl:longitude":12.999916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"K\u00f6tschach-Mauthen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":227,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":59263,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673546,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12673546,
+        "qs_pg:id":59263
+    },
+    "wof:country":"AT",
+    "wof:created":1497045517,
+    "wof:geomhash":"21a1d6cda492d9b8112b6d3641ee6b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1125338099,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125338099,
+    "wof:lastmodified":1534530995,
+    "wof:name":"K\u00f6tschach-Mauthen",
+    "wof:parent_id":102049675,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838155
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.999916,
+    46.674515,
+    12.999916,
+    46.674515
+],
+  "geometry": {"coordinates":[12.999916,46.674515],"type":"Point"}
+}

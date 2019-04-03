@@ -1,0 +1,74 @@
+{
+  "id": 1292998213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,47.2,15.63333,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61766.0",
+    "gn:asciiname":"Krottendorf",
+    "gn:country_code":"AT",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2773366,
+    "gn:latitude":47.2,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Krottendorf",
+    "gn:population":871,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838919,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773366
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"852a0d8151c6792f5b3987359fe6a644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838919,
+            "locality_id":1292998213,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1292998213,
+    "wof:lastmodified":1536994615,
+    "wof:name":"Krottendorf",
+    "wof:parent_id":1108838919,
+    "wof:placetype":"locality",
+    "wof:population":871,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    47.2,
+    15.63333,
+    47.2
+],
+  "geometry": {"coordinates":[15.63333,47.2],"type":"Point"}
+}

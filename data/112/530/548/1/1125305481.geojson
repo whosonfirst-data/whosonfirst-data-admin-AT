@@ -1,0 +1,86 @@
+{
+  "id": 1125305481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.858764,46.982126,15.858764,46.982126",
+    "geom:latitude":46.982126,
+    "geom:longitude":15.858764,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":46.982126,
+    "lbl:longitude":15.858764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Johnsdorf-Brunn",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":51,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":51,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":479452,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674933,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674933,
+        "qs_pg:id":479452
+    },
+    "wof:country":"AT",
+    "wof:created":1497043661,
+    "wof:geomhash":"0ac350defc5849ce0679b364690dac66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125305481,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125305481,
+    "wof:lastmodified":1536698146,
+    "wof:name":"Johnsdorf-Brunn",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839259
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.858764,
+    46.982126,
+    15.858764,
+    46.982126
+],
+  "geometry": {"coordinates":[15.858764,46.982126],"type":"Point"}
+}

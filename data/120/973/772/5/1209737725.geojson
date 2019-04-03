@@ -1,0 +1,74 @@
+{
+  "id": 1209737725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17139,47.18722,14.17139,47.18722",
+    "geom:latitude":47.18722,
+    "geom:longitude":14.17139,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61425.0",
+    "gn:asciiname":"Mitterdorf",
+    "gn:country_code":"AT",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771475,
+    "gn:latitude":47.18722,
+    "gn:longitude":14.17139,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mitterdorf",
+    "gn:population":208,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838795,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771475
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"36b75b3897ab66c88e14bae40e4ba51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838795,
+            "locality_id":1209737725,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1209737725,
+    "wof:lastmodified":1536371878,
+    "wof:name":"Mitterdorf",
+    "wof:parent_id":1108838795,
+    "wof:placetype":"locality",
+    "wof:population":208,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17139,
+    47.18722,
+    14.17139,
+    47.18722
+],
+  "geometry": {"coordinates":[14.17139,47.18722],"type":"Point"}
+}

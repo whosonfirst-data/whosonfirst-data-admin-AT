@@ -1,0 +1,74 @@
+{
+  "id": 1243546919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66667,47.2,15.66667,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":15.66667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61766.0",
+    "gn:asciiname":"Regerstaetten",
+    "gn:country_code":"AT",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767796,
+    "gn:latitude":47.2,
+    "gn:longitude":15.66667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Regerst\u00e4tten",
+    "gn:population":101,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838919,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767796
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d0219373b388d5bf388dc3c6a63cdb6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838919,
+            "locality_id":1243546919,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243546919,
+    "wof:lastmodified":1536660825,
+    "wof:name":"Regerstaetten",
+    "wof:parent_id":1108838919,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66667,
+    47.2,
+    15.66667,
+    47.2
+],
+  "geometry": {"coordinates":[15.66667,47.2],"type":"Point"}
+}

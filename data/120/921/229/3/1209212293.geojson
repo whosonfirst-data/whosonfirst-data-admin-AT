@@ -1,0 +1,63 @@
+{
+  "id": 1209212293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,47.2,15.55,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61761.0",
+    "gn:asciiname":"Hof",
+    "gn:country_code":"AT",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775871,
+    "gn:latitude":47.2,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Hof",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775871
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3bd3ed2d6f32e5e1463bbdb87b0492c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209212293
+        }
+    ],
+    "wof:id":1209212293,
+    "wof:lastmodified":1536294249,
+    "wof:name":"Hof",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    47.2,
+    15.55,
+    47.2
+],
+  "geometry": {"coordinates":[15.55,47.2],"type":"Point"}
+}

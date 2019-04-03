@@ -1,0 +1,82 @@
+{
+  "id": 1125327359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59998,47.96946,16.59998,47.96946",
+    "geom:latitude":47.96946,
+    "geom:longitude":16.59998,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3751,
+    "gn:population":4081,
+    "iso:country":"AT",
+    "lbl:latitude":47.96946,
+    "lbl:longitude":16.59998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871722,
+    "qs_pg:gn_pop":3751,
+    "qs_pg:name":"Mannersdorf am Leithagebirge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108337,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871722,
+        "qs_pg:id":108337
+    },
+    "wof:country":"AT",
+    "wof:created":1497044895,
+    "wof:geomhash":"08eb7415e0dcf7cffb79762e15916799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1125327359,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125327359,
+    "wof:lastmodified":1534530986,
+    "wof:name":"Mannersdorf am Leithagebirge",
+    "wof:parent_id":102049845,
+    "wof:placetype":"localadmin",
+    "wof:population":4081,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836593
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59998,
+    47.96946,
+    16.59998,
+    47.96946
+],
+  "geometry": {"coordinates":[16.59998,47.96946],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276340965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45944,48.54111,13.45944,48.54111",
+    "geom:latitude":48.54111,
+    "geom:longitude":13.45944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41423.0",
+    "gn:asciiname":"Obergscheid",
+    "gn:country_code":"AT",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324527,
+    "gn:latitude":48.54111,
+    "gn:longitude":13.45944,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Obergscheid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836073,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324527
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2cf586f8970a2950d330335398fb83a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836073,
+            "locality_id":1276340965,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276340965,
+    "wof:lastmodified":1536768661,
+    "wof:name":"Obergscheid",
+    "wof:parent_id":1108836073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45944,
+    48.54111,
+    13.45944,
+    48.54111
+],
+  "geometry": {"coordinates":[13.45944,48.54111],"type":"Point"}
+}

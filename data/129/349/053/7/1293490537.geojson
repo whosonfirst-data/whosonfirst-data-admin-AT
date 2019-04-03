@@ -1,0 +1,74 @@
+{
+  "id": 1293490537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28917,46.56278,14.28917,46.56278",
+    "geom:latitude":46.56278,
+    "geom:longitude":14.28917,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20417.0",
+    "gn:asciiname":"Toppelsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763531,
+    "gn:latitude":46.56278,
+    "gn:longitude":14.28917,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Toppelsdorf",
+    "gn:population":133,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838179,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763531
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e0dccd4620cef47f16d0f3a420d73b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838179,
+            "locality_id":1293490537,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293490537,
+    "wof:lastmodified":1536783113,
+    "wof:name":"Toppelsdorf",
+    "wof:parent_id":1108838179,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28917,
+    46.56278,
+    14.28917,
+    46.56278
+],
+  "geometry": {"coordinates":[14.28917,46.56278],"type":"Point"}
+}

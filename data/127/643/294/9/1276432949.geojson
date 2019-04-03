@@ -1,0 +1,74 @@
+{
+  "id": 1276432949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45306,47.54067,10.45306,47.54067",
+    "geom:latitude":47.54067,
+    "geom:longitude":10.45306,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"708",
+    "gn:admin3_code":"70829.0",
+    "gn:asciiname":"Rehbach",
+    "gn:country_code":"AT",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11592198,
+    "gn:latitude":47.54067,
+    "gn:longitude":10.45306,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rehbach",
+    "gn:population":9,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837769,
+        85632785,
+        102049745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592198
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9e1e56bcfb5fa089a6d710078db98aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837769,
+            "locality_id":1276432949,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1276432949,
+    "wof:lastmodified":1536644582,
+    "wof:name":"Rehbach",
+    "wof:parent_id":1108837769,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45306,
+    47.54067,
+    10.45306,
+    47.54067
+],
+  "geometry": {"coordinates":[10.45306,47.54067],"type":"Point"}
+}

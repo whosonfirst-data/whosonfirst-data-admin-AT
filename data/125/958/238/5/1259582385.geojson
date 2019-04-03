@@ -1,0 +1,71 @@
+{
+  "id": 1259582385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.97151,47.29489,12.97151,47.29489",
+    "geom:latitude":47.29489,
+    "geom:longitude":12.97151,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50622.0",
+    "gn:asciiname":"Penninghofsiedlung",
+    "gn:country_code":"AT",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594700,
+    "gn:latitude":47.29489,
+    "gn:longitude":12.97151,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Penninghofsiedlung",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837241,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594700
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5397c3e790b2af7fe47a73fb0b6b94dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837241,
+            "locality_id":1259582385,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1259582385,
+    "wof:lastmodified":1536716768,
+    "wof:name":"Penninghofsiedlung",
+    "wof:parent_id":1108837241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.97151,
+    47.29489,
+    12.97151,
+    47.29489
+],
+  "geometry": {"coordinates":[12.97151,47.29489],"type":"Point"}
+}

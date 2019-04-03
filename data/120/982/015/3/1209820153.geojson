@@ -1,0 +1,71 @@
+{
+  "id": 1209820153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68484,47.19,13.68484,47.19",
+    "geom:latitude":47.19,
+    "geom:longitude":13.68484,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"505",
+    "gn:admin3_code":"50514.0",
+    "gn:asciiname":"Hinterweisspriach",
+    "gn:country_code":"AT",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776216,
+    "gn:latitude":47.19,
+    "gn:longitude":13.68484,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Hinterweisspriach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837075,
+        85632785,
+        102049721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776216
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3e714854c4bb7b0c0a19267c4690ae54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837075,
+            "locality_id":1209820153,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1209820153,
+    "wof:lastmodified":1536379605,
+    "wof:name":"Hinterweisspriach",
+    "wof:parent_id":1108837075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68484,
+    47.19,
+    13.68484,
+    47.19
+],
+  "geometry": {"coordinates":[13.68484,47.19],"type":"Point"}
+}

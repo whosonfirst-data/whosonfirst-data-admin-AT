@@ -1,0 +1,74 @@
+{
+  "id": 1276770629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3334,48.13327,15.3334,48.13327",
+    "geom:latitude":48.13327,
+    "geom:longitude":15.3334,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31521.0",
+    "gn:asciiname":"Sankt Haus",
+    "gn:country_code":"AT",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594515,
+    "gn:latitude":48.13327,
+    "gn:longitude":15.3334,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Haus",
+    "gn:population":14,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834887,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594515
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"82e9e373523e927d8cd7c8b442ad22a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108834887,
+            "locality_id":1276770629,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276770629,
+    "wof:lastmodified":1536690013,
+    "wof:name":"Sankt Haus",
+    "wof:parent_id":1108834887,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3334,
+    48.13327,
+    15.3334,
+    48.13327
+],
+  "geometry": {"coordinates":[15.3334,48.13327],"type":"Point"}
+}

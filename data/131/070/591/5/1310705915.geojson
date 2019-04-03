@@ -1,0 +1,74 @@
+{
+  "id": 1310705915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46791,47.12843,16.46791,47.12843",
+    "geom:latitude":47.12843,
+    "geom:longitude":16.46791,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10426.0",
+    "gn:asciiname":"Unterbildein",
+    "gn:country_code":"AT",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763095,
+    "gn:latitude":47.12843,
+    "gn:longitude":16.46791,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterbildein",
+    "gn:population":171,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838741,
+        85632785,
+        102049729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763095
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"41138cd35bb4a0b9b739dd99defeb7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838741,
+            "locality_id":1310705915,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1310705915,
+    "wof:lastmodified":1536625872,
+    "wof:name":"Unterbildein",
+    "wof:parent_id":1108838741,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46791,
+    47.12843,
+    16.46791,
+    47.12843
+],
+  "geometry": {"coordinates":[16.46791,47.12843],"type":"Point"}
+}

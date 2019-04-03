@@ -1,0 +1,71 @@
+{
+  "id": 1343756251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.85,47.2,11.85,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":11.85,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"709",
+    "gn:admin3_code":"70916.0",
+    "gn:asciiname":"Schwendberg",
+    "gn:country_code":"AT",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3323916,
+    "gn:latitude":47.2,
+    "gn:longitude":11.85,
+    "gn:modification_date":"2017-06-13",
+    "gn:name":"Schwendberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837875,
+        85632785,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3323916
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"46ceaafd4f9aeb7747a3225036e632d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837875,
+            "locality_id":1343756251,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1343756251,
+    "wof:lastmodified":1536816258,
+    "wof:name":"Schwendberg",
+    "wof:parent_id":1108837875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.85,
+    47.2,
+    11.85,
+    47.2
+],
+  "geometry": {"coordinates":[11.85,47.2],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209623869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38333,46.51667,14.38333,46.51667",
+    "geom:latitude":46.51667,
+    "geom:longitude":14.38333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"204",
+    "gn:admin3_code":"20428.0",
+    "gn:asciiname":"Gupf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777245,
+    "gn:latitude":46.51667,
+    "gn:longitude":14.38333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gupf",
+    "gn:population":87,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sawrschnik",
+        "Zavr\u0161nik",
+        "Gupf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777245
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2d44d1b1b5dbef0a09ffd2545e4cbc88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209623869
+        }
+    ],
+    "wof:id":1209623869,
+    "wof:lastmodified":1537584969,
+    "wof:name":"Gupf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38333,
+    46.51667,
+    14.38333,
+    46.51667
+],
+  "geometry": {"coordinates":[14.38333,46.51667],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1125410687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73278,46.70444,14.73278,46.70444",
+    "geom:latitude":46.70444,
+    "geom:longitude":14.73278,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.70444,
+    "lbl:longitude":14.73278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u0438\u0444\u0444\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0444\u0444\u0435\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Grebinj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0440\u0456\u0444\u0444\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u91cc\u82ac"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2777954,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Griffen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":18,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":155,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":231596,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673551,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777954,
+        "gp:id":12673551,
+        "qs_pg:id":231596
+    },
+    "wof:country":"AT",
+    "wof:created":1497050067,
+    "wof:geomhash":"8df37b891b7d9d0d6f2ac15f03a65c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1125410687,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125410687,
+    "wof:lastmodified":1534531054,
+    "wof:name":"Griffen",
+    "wof:parent_id":102049685,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838121
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73278,
+    46.70444,
+    14.73278,
+    46.70444
+],
+  "geometry": {"coordinates":[14.73278,46.70444],"type":"Point"}
+}

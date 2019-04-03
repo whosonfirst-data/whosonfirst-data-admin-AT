@@ -1,0 +1,74 @@
+{
+  "id": 1259589251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20887,48.20205,13.20887,48.20205",
+    "geom:latitude":48.20205,
+    "geom:longitude":13.20887,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40444.0",
+    "gn:asciiname":"Matt",
+    "gn:country_code":"AT",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612366,
+    "gn:latitude":48.20205,
+    "gn:longitude":13.20887,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Matt",
+    "gn:population":28,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834805,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612366
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"108ccd3b30072d6f3a6c043cc58d4ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834805,
+            "locality_id":1259589251,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259589251,
+    "wof:lastmodified":1536706717,
+    "wof:name":"Matt",
+    "wof:parent_id":1108834805,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20887,
+    48.20205,
+    13.20887,
+    48.20205
+],
+  "geometry": {"coordinates":[13.20887,48.20205],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276235785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87191,48.30798,16.87191,48.30798",
+    "geom:latitude":48.30798,
+    "geom:longitude":16.87191,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"308",
+    "gn:admin3_code":"30865.0",
+    "gn:asciiname":"Baumgarten an der March",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781942,
+    "gn:latitude":48.30798,
+    "gn:longitude":16.87191,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Baumgarten an der March",
+    "gn:population":187,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baumgarten"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835405,
+        85632785,
+        102049891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781942,
+        "wk:page":"Baumgarten_an_der_March"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d857f4f3fd0e3695ee8e09591adf5c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108835405,
+            "locality_id":1276235785,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276235785,
+    "wof:lastmodified":1537584983,
+    "wof:name":"Baumgarten an der March",
+    "wof:parent_id":1108835405,
+    "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87191,
+    48.30798,
+    16.87191,
+    48.30798
+],
+  "geometry": {"coordinates":[16.87191,48.30798],"type":"Point"}
+}

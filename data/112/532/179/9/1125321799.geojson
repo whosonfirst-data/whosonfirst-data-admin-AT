@@ -1,0 +1,82 @@
+{
+  "id": 1125321799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47319,48.19047,13.47319,48.19047",
+    "geom:latitude":48.19047,
+    "geom:longitude":13.47319,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2183,
+    "gn:population":2376,
+    "iso:country":"AT",
+    "lbl:latitude":48.19047,
+    "lbl:longitude":13.47319,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872087,
+    "qs_pg:gn_pop":2183,
+    "qs_pg:name":"Neuhofen im Innkreis",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":743316,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872087,
+        "qs_pg:id":743316
+    },
+    "wof:country":"AT",
+    "wof:created":1497044572,
+    "wof:geomhash":"779b7c752b15ec12acfed4577716c12c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1125321799,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125321799,
+    "wof:lastmodified":1534379179,
+    "wof:name":"Neuhofen im Innkreis",
+    "wof:parent_id":102049851,
+    "wof:placetype":"localadmin",
+    "wof:population":2376,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835663
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47319,
+    48.19047,
+    13.47319,
+    48.19047
+],
+  "geometry": {"coordinates":[13.47319,48.19047],"type":"Point"}
+}

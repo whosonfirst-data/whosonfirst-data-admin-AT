@@ -1,0 +1,66 @@
+{
+  "id": 1209015955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06667,48.1,15.06667,48.1",
+    "geom:latitude":48.1,
+    "geom:longitude":15.06667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"320",
+    "gn:admin3_code":"32018.0",
+    "gn:asciiname":"Figelsberg",
+    "gn:country_code":"AT",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779591,
+    "gn:latitude":48.1,
+    "gn:longitude":15.06667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Figelsberg",
+    "gn:population":24,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779591
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5288cf46fbe082e29f902c9fa07d09b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209015955
+        }
+    ],
+    "wof:id":1209015955,
+    "wof:lastmodified":1536300299,
+    "wof:name":"Figelsberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.066670000000002,
+    48.1,
+    15.066670000000002,
+    48.1
+],
+  "geometry": {"coordinates":[15.06667,48.1],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1125295685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41604,48.35363,14.41604,48.35363",
+    "geom:latitude":48.35363,
+    "geom:longitude":14.41604,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":6282,
+    "gn:population":6282,
+    "iso:country":"AT",
+    "lbl:latitude":48.35363,
+    "lbl:longitude":14.41604,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Goineikircha"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u043b\u044c\u043d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u044c\u043d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u723e\u8afe\u4f0a\u57fa\u8208"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2778966,
+    "qs_pg:gn_pop":6282,
+    "qs_pg:name":"Gallneukirchen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":91,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":190109,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674527,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778966,
+        "gp:id":12674527,
+        "qs_pg:id":190109
+    },
+    "wof:country":"AT",
+    "wof:created":1497043131,
+    "wof:geomhash":"0e49366d745e3946582f8f87eba0d91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1125295685,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125295685,
+    "wof:lastmodified":1534531017,
+    "wof:name":"Gallneukirchen",
+    "wof:parent_id":102049881,
+    "wof:placetype":"localadmin",
+    "wof:population":6282,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836149
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41604,
+    48.35363,
+    14.41604,
+    48.35363
+],
+  "geometry": {"coordinates":[14.41604,48.35363],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243465979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8634,48.28399,15.8634,48.28399",
+    "geom:latitude":48.28399,
+    "geom:longitude":15.8634,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"321",
+    "gn:admin3_code":"32104.0",
+    "gn:asciiname":"Ebersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780519,
+    "gn:latitude":48.28399,
+    "gn:longitude":15.8634,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ebersdorf",
+    "gn:population":59,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836623,
+        85632785,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780519
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"58211e60142fe758ff227df6ee80df1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836623,
+            "locality_id":1243465979,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243465979,
+    "wof:lastmodified":1536777859,
+    "wof:name":"Ebersdorf",
+    "wof:parent_id":1108836623,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8634,
+    48.28399,
+    15.8634,
+    48.28399
+],
+  "geometry": {"coordinates":[15.8634,48.28399],"type":"Point"}
+}

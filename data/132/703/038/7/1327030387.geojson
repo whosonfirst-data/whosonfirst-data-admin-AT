@@ -1,0 +1,74 @@
+{
+  "id": 1327030387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92998,48.29479,13.92998,48.29479",
+    "geom:latitude":48.29479,
+    "geom:longitude":13.92998,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40508.0",
+    "gn:asciiname":"Dachsberg",
+    "gn:country_code":"AT",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781087,
+    "gn:latitude":48.29479,
+    "gn:longitude":13.92998,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Dachsberg",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835049,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781087
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f170fbfc6c096aa9c803b564ec2f1a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835049,
+            "locality_id":1327030387,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327030387,
+    "wof:lastmodified":1536763668,
+    "wof:name":"Dachsberg",
+    "wof:parent_id":1108835049,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92998,
+    48.29479,
+    13.92998,
+    48.29479
+],
+  "geometry": {"coordinates":[13.92998,48.29479],"type":"Point"}
+}

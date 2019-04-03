@@ -1,0 +1,74 @@
+{
+  "id": 1260292461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86667,48.05,14.86667,48.05",
+    "geom:latitude":48.05,
+    "geom:longitude":14.86667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30520.0",
+    "gn:asciiname":"Kornberg",
+    "gn:country_code":"AT",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773700,
+    "gn:latitude":48.05,
+    "gn:longitude":14.86667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kornberg",
+    "gn:population":303,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835819,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773700
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e277b282b1871188323b0247c516f37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835819,
+            "locality_id":1260292461,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1260292461,
+    "wof:lastmodified":1536700081,
+    "wof:name":"Kornberg",
+    "wof:parent_id":1108835819,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86667,
+    48.05,
+    14.86667,
+    48.05
+],
+  "geometry": {"coordinates":[14.86667,48.05],"type":"Point"}
+}

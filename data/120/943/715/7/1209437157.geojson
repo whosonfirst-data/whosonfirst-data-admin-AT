@@ -1,0 +1,66 @@
+{
+  "id": 1209437157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26472,47.52662,14.26472,47.52662",
+    "geom:latitude":47.52662,
+    "geom:longitude":14.26472,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61222.0",
+    "gn:asciiname":"Lassing-Kirchdorf",
+    "gn:country_code":"AT",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593146,
+    "gn:latitude":47.52662,
+    "gn:longitude":14.26472,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lassing-Kirchdorf",
+    "gn:population":370,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593146
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dee62db992e9a991e5419d4c8565d83b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209437157
+        }
+    ],
+    "wof:id":1209437157,
+    "wof:lastmodified":1536287069,
+    "wof:name":"Lassing-Kirchdorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":370,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26472,
+    47.52662,
+    14.26472,
+    47.52662
+],
+  "geometry": {"coordinates":[14.26472,47.52662],"type":"Point"}
+}

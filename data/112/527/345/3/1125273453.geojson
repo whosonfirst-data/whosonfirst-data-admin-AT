@@ -1,0 +1,82 @@
+{
+  "id": 1125273453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.261,47.76424,13.261,47.76424",
+    "geom:latitude":47.76424,
+    "geom:longitude":13.261,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2874,
+    "gn:population":3066,
+    "iso:country":"AT",
+    "lbl:latitude":47.76424,
+    "lbl:longitude":13.261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872205,
+    "qs_pg:gn_pop":2874,
+    "qs_pg:name":"Faistenau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108530,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872205,
+        "qs_pg:id":108530
+    },
+    "wof:country":"AT",
+    "wof:created":1497042224,
+    "wof:geomhash":"631ecea43870f1f3d89704b3f3bc9542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1125273453,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125273453,
+    "wof:lastmodified":1534379128,
+    "wof:name":"Faistenau",
+    "wof:parent_id":102049799,
+    "wof:placetype":"localadmin",
+    "wof:population":3066,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837133
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.261,
+    47.76424,
+    13.261,
+    47.76424
+],
+  "geometry": {"coordinates":[13.261,47.76424],"type":"Point"}
+}

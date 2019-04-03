@@ -1,0 +1,71 @@
+{
+  "id": 1242895249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88333,47.23333,11.88333,47.23333",
+    "geom:latitude":47.23333,
+    "geom:longitude":11.88333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"709.0",
+    "gn:admin3_code":"70940.0",
+    "gn:asciiname":"Zellbergeben",
+    "gn:country_code":"AT",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760626,
+    "gn:latitude":47.23333,
+    "gn:longitude":11.88333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Zellbergeben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837721,
+        85632785,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760626
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"aa255706b75ebb817eb7441f661df400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837721,
+            "locality_id":1242895249,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1242895249,
+    "wof:lastmodified":1536603071,
+    "wof:name":"Zellbergeben",
+    "wof:parent_id":1108837721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88333,
+    47.23333,
+    11.88333,
+    47.23333
+],
+  "geometry": {"coordinates":[11.88333,47.23333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310204019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36113,47.44507,13.36113,47.44507",
+    "geom:latitude":47.44507,
+    "geom:longitude":13.36113,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504",
+    "gn:admin3_code":"50419.0",
+    "gn:asciiname":"Nasenrotte",
+    "gn:country_code":"AT",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9952982,
+    "gn:latitude":47.44507,
+    "gn:longitude":13.36113,
+    "gn:modification_date":"2015-01-11",
+    "gn:name":"Nasenrotte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837029,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9952982
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c3d6493d8f3082138cfee11680ca34c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837029,
+            "locality_id":1310204019,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1310204019,
+    "wof:lastmodified":1536853322,
+    "wof:name":"Nasenrotte",
+    "wof:parent_id":1108837029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36113,
+    47.44507,
+    13.36113,
+    47.44507
+],
+  "geometry": {"coordinates":[13.36113,47.44507],"type":"Point"}
+}

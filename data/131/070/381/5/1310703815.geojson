@@ -1,0 +1,74 @@
+{
+  "id": 1310703815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53333,48.53333,16.53333,48.53333",
+    "geom:latitude":48.53333,
+    "geom:longitude":16.53333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"316.0",
+    "gn:admin3_code":"31633.0",
+    "gn:asciiname":"Paasdorf",
+    "gn:country_code":"AT",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769311,
+    "gn:latitude":48.53333,
+    "gn:longitude":16.53333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Paasdorf",
+    "gn:population":706,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836627,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769311
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3b6089af141858b3872ac523df936d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836627,
+            "locality_id":1310703815,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310703815,
+    "wof:lastmodified":1536629069,
+    "wof:name":"Paasdorf",
+    "wof:parent_id":1108836627,
+    "wof:placetype":"locality",
+    "wof:population":706,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53333,
+    48.53333,
+    16.53333,
+    48.53333
+],
+  "geometry": {"coordinates":[16.53333,48.53333],"type":"Point"}
+}

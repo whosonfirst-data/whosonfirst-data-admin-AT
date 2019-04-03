@@ -1,0 +1,74 @@
+{
+  "id": 1293004811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,47.36667,16.2,47.36667",
+    "geom:latitude":47.36667,
+    "geom:longitude":16.2,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"109.0",
+    "gn:admin3_code":"10916.0",
+    "gn:asciiname":"Willersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761172,
+    "gn:latitude":47.36667,
+    "gn:longitude":16.2,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Willersdorf",
+    "gn:population":348,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838527,
+        85632785,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761172
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4d1c4c0b167f33cfbbfe8e882a1f35b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838527,
+            "locality_id":1293004811,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1293004811,
+    "wof:lastmodified":1536985010,
+    "wof:name":"Willersdorf",
+    "wof:parent_id":1108838527,
+    "wof:placetype":"locality",
+    "wof:population":348,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    47.36667,
+    16.2,
+    47.36667
+],
+  "geometry": {"coordinates":[16.2,47.36667],"type":"Point"}
+}

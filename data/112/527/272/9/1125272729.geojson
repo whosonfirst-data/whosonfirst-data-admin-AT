@@ -1,0 +1,82 @@
+{
+  "id": 1125272729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25818,46.81862,15.25818,46.81862",
+    "geom:latitude":46.81862,
+    "geom:longitude":15.25818,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2929,
+    "gn:population":2834,
+    "iso:country":"AT",
+    "lbl:latitude":46.81862,
+    "lbl:longitude":15.25818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873348,
+    "qs_pg:gn_pop":2929,
+    "qs_pg:name":"Frauental an der La\u00dfnitz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":743497,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873348,
+        "qs_pg:id":743497
+    },
+    "wof:country":"AT",
+    "wof:created":1497042192,
+    "wof:geomhash":"76cd8b7a9e2f3eb8a9056878340a8c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125272729,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125272729,
+    "wof:lastmodified":1536698115,
+    "wof:name":"Frauental an der La\u00dfnitz",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:population":2834,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839297
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25818,
+    46.81862,
+    15.25818,
+    46.81862
+],
+  "geometry": {"coordinates":[15.25818,46.81862],"type":"Point"}
+}

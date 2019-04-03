@@ -1,0 +1,74 @@
+{
+  "id": 1293300343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28333,47.56667,16.28333,47.56667",
+    "geom:latitude":47.56667,
+    "geom:longitude":16.28333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"323.0",
+    "gn:admin3_code":"32312.0",
+    "gn:asciiname":"Untereck",
+    "gn:country_code":"AT",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763045,
+    "gn:latitude":47.56667,
+    "gn:longitude":16.28333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Untereck",
+    "gn:population":13,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835005,
+        85632785,
+        102049787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763045
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8143bbb985138640df064e1f21e125f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108835005,
+            "locality_id":1293300343,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293300343,
+    "wof:lastmodified":1537054391,
+    "wof:name":"Untereck",
+    "wof:parent_id":1108835005,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28333,
+    47.56667,
+    16.28333,
+    47.56667
+],
+  "geometry": {"coordinates":[16.28333,47.56667],"type":"Point"}
+}

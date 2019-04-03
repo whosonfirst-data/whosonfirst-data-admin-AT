@@ -1,0 +1,66 @@
+{
+  "id": 1209507693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07509,47.50906,15.07509,47.50906",
+    "geom:latitude":47.50906,
+    "geom:longitude":15.07509,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62148.0",
+    "gn:asciiname":"Pichl-Grossdorf",
+    "gn:country_code":"AT",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593920,
+    "gn:latitude":47.50906,
+    "gn:longitude":15.07509,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pichl-Gro\u00dfdorf",
+    "gn:population":415,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593920
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"42d104a438738fb88db034d830c41ed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209507693
+        }
+    ],
+    "wof:id":1209507693,
+    "wof:lastmodified":1536284981,
+    "wof:name":"Pichl-Grossdorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":415,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07509,
+    47.50906,
+    15.07509,
+    47.50906
+],
+  "geometry": {"coordinates":[15.07509,47.50906],"type":"Point"}
+}

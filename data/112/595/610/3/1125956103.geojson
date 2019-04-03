@@ -1,0 +1,100 @@
+{
+  "id": 1125956103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47235,48.30581,15.47235,48.30581",
+    "geom:latitude":48.30581,
+    "geom:longitude":15.47235,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.30581,
+    "lbl:longitude":15.47235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gansbach"
+    ],
+    "name:eng_x_preferred":[
+        "Gansbach"
+    ],
+    "name:ger_x_preferred":[
+        "Gansbach"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2778886,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gansbach",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":502389,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":541692,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835417,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778886,
+        "gp:id":541692,
+        "qs_pg:id":502389,
+        "wd:id":"Q5521486"
+    },
+    "wof:country":"AT",
+    "wof:created":1497297624,
+    "wof:geomhash":"21d0d9f30d7730ed8c2a22bbe1a93786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835417,
+            "locality_id":1125956103,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125956103,
+    "wof:lastmodified":1513889725,
+    "wof:name":"Gansbach",
+    "wof:parent_id":1108835417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47235,
+    48.30581,
+    15.47235,
+    48.30581
+],
+  "geometry": {"coordinates":[15.47235,48.30581],"type":"Point"}
+}

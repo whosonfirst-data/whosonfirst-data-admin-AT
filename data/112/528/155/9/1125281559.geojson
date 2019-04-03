@@ -1,0 +1,101 @@
+{
+  "id": 1125281559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81667,47.86667,14.81667,47.86667",
+    "geom:latitude":47.86667,
+    "geom:longitude":14.81667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.86667,
+    "lbl:longitude":14.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041e\u043f\u043f\u043e\u043d\u0438\u0446"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043f\u043f\u043e\u043d\u0438\u0446"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u6ce2\u5c3c\u8328"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2769423,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Opponitz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":421247,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674053,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769423,
+        "gp:id":12674053,
+        "qs_pg:id":421247
+    },
+    "wof:country":"AT",
+    "wof:created":1497042520,
+    "wof:geomhash":"5e96bf3eca23c30a9be52c404e9f6fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049801,
+            "localadmin_id":1125281559,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125281559,
+    "wof:lastmodified":1534531013,
+    "wof:name":"Opponitz",
+    "wof:parent_id":102049801,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836679
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81667,
+    47.86667,
+    14.81667,
+    47.86667
+],
+  "geometry": {"coordinates":[14.81667,47.86667],"type":"Point"}
+}

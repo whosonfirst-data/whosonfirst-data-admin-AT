@@ -1,0 +1,71 @@
+{
+  "id": 1209937807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4,47.16667,11.4,47.16667",
+    "geom:latitude":47.16667,
+    "geom:longitude":11.4,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70328.0",
+    "gn:asciiname":"Gleins",
+    "gn:country_code":"AT",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778484,
+    "gn:latitude":47.16667,
+    "gn:longitude":11.4,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Gleins",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837545,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778484
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1dd8d9be37c3ee1189ceb9f9178a70df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837545,
+            "locality_id":1209937807,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1209937807,
+    "wof:lastmodified":1536389849,
+    "wof:name":"Gleins",
+    "wof:parent_id":1108837545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4,
+    47.16667,
+    11.4,
+    47.16667
+],
+  "geometry": {"coordinates":[11.4,47.16667],"type":"Point"}
+}

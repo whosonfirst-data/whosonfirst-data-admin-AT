@@ -1,0 +1,74 @@
+{
+  "id": 1343269527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45622,47.99199,15.45622,47.99199",
+    "geom:latitude":47.99199,
+    "geom:longitude":15.45622,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"319.0",
+    "gn:admin3_code":"31918.0",
+    "gn:asciiname":"Soisgegend",
+    "gn:country_code":"AT",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764961,
+    "gn:latitude":47.99199,
+    "gn:longitude":15.45622,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Soisgegend",
+    "gn:population":546,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835003,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764961
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"36d13ab0b7819782a150172ecceaaa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835003,
+            "locality_id":1343269527,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343269527,
+    "wof:lastmodified":1537020846,
+    "wof:name":"Soisgegend",
+    "wof:parent_id":1108835003,
+    "wof:placetype":"locality",
+    "wof:population":546,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45622,
+    47.99199,
+    15.45622,
+    47.99199
+],
+  "geometry": {"coordinates":[15.45622,47.99199],"type":"Point"}
+}

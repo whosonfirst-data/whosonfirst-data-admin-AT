@@ -1,0 +1,74 @@
+{
+  "id": 1309906891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95686,48.28573,14.95686,48.28573",
+    "geom:latitude":48.28573,
+    "geom:longitude":14.95686,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"411",
+    "gn:admin3_code":"41125.0",
+    "gn:asciiname":"Dendlreith",
+    "gn:country_code":"AT",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594278,
+    "gn:latitude":48.28573,
+    "gn:longitude":14.95686,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Dendlreith",
+    "gn:population":241,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835621,
+        85632785,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594278
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1839a4fcb4a135b3c60e40a986c0291c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835621,
+            "locality_id":1309906891,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1309906891,
+    "wof:lastmodified":1536785866,
+    "wof:name":"Dendlreith",
+    "wof:parent_id":1108835621,
+    "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95686,
+    48.28573,
+    14.95686,
+    48.28573
+],
+  "geometry": {"coordinates":[14.95686,48.28573],"type":"Point"}
+}

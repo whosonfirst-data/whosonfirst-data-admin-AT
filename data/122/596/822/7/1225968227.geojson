@@ -1,0 +1,74 @@
+{
+  "id": 1225968227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30943,48.43814,14.30943,48.43814",
+    "geom:latitude":48.43814,
+    "geom:longitude":14.30943,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"416",
+    "gn:admin3_code":"41611.0",
+    "gn:asciiname":"Eckartsbrunn",
+    "gn:country_code":"AT",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780488,
+    "gn:latitude":48.43814,
+    "gn:longitude":14.30943,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Eckartsbrunn",
+    "gn:population":176,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836159,
+        85632785,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780488
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e5aaf78bc144dc2e49da68e72b73267e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836159,
+            "locality_id":1225968227,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225968227,
+    "wof:lastmodified":1536835840,
+    "wof:name":"Eckartsbrunn",
+    "wof:parent_id":1108836159,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30943,
+    48.43814,
+    14.30943,
+    48.43814
+],
+  "geometry": {"coordinates":[14.30943,48.43814],"type":"Point"}
+}

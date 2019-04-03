@@ -1,0 +1,79 @@
+{
+  "id": 1310623061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88333,47.16667,15.88333,47.16667",
+    "geom:latitude":47.16667,
+    "geom:longitude":15.88333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"622",
+    "gn:admin3_code":"62216.0",
+    "gn:asciiname":"Kroisbach an der Feistritz",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773403,
+    "gn:latitude":47.16667,
+    "gn:longitude":15.88333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kroisbach an der Feistritz",
+    "gn:population":379,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kroisbach",
+        "Kroisbach an der Feistritz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839225,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773403
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d60009d4d343c9726bdd74236b4dc43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839225,
+            "locality_id":1310623061,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310623061,
+    "wof:lastmodified":1537584959,
+    "wof:name":"Kroisbach an der Feistritz",
+    "wof:parent_id":1108839225,
+    "wof:placetype":"locality",
+    "wof:population":379,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88333,
+    47.16667,
+    15.88333,
+    47.16667
+],
+  "geometry": {"coordinates":[15.88333,47.16667],"type":"Point"}
+}

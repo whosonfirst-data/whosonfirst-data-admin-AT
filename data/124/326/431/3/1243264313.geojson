@@ -1,0 +1,74 @@
+{
+  "id": 1243264313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55,48.3,14.55,48.3",
+    "geom:latitude":48.3,
+    "geom:longitude":14.55,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"411",
+    "gn:admin3_code":"41118.0",
+    "gn:asciiname":"Hartl",
+    "gn:country_code":"AT",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776782,
+    "gn:latitude":48.3,
+    "gn:longitude":14.55,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hartl",
+    "gn:population":121,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835605,
+        85632785,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776782
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"021f545b808ba92037948e0470b6bea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835605,
+            "locality_id":1243264313,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243264313,
+    "wof:lastmodified":1537065210,
+    "wof:name":"Hartl",
+    "wof:parent_id":1108835605,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55,
+    48.3,
+    14.55,
+    48.3
+],
+  "geometry": {"coordinates":[14.55,48.3],"type":"Point"}
+}

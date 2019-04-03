@@ -1,0 +1,75 @@
+{
+  "id": 1293022825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,47.13333,14.66667,47.13333",
+    "geom:latitude":47.13333,
+    "geom:longitude":14.66667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"620.0",
+    "gn:admin3_code":"62040.0",
+    "gn:asciiname":"Reifling",
+    "gn:country_code":"AT",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2767734,
+    "gn:latitude":47.13333,
+    "gn:longitude":14.66667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reifling",
+    "gn:population":60,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839401,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767734,
+        "wk:page":"Reifling"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d56a22deee04bac0b8975e684a2f1405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108839401,
+            "locality_id":1293022825,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293022825,
+    "wof:lastmodified":1537486370,
+    "wof:name":"Reifling",
+    "wof:parent_id":1108839401,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    47.13333,
+    14.66667,
+    47.13333
+],
+  "geometry": {"coordinates":[14.66667,47.13333],"type":"Point"}
+}

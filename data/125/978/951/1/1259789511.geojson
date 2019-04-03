@@ -1,0 +1,74 @@
+{
+  "id": 1259789511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68785,48.46137,13.68785,48.46137",
+    "geom:latitude":48.46137,
+    "geom:longitude":13.68785,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"414.0",
+    "gn:admin3_code":"41411.0",
+    "gn:asciiname":"Paulsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769188,
+    "gn:latitude":48.46137,
+    "gn:longitude":13.68785,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Paulsdorf",
+    "gn:population":61,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836047,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769188
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f1e1237572afbcbb1f9a8c9d3ae4a71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836047,
+            "locality_id":1259789511,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259789511,
+    "wof:lastmodified":1536914903,
+    "wof:name":"Paulsdorf",
+    "wof:parent_id":1108836047,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68785,
+    48.46137,
+    13.68785,
+    48.46137
+],
+  "geometry": {"coordinates":[13.68785,48.46137],"type":"Point"}
+}

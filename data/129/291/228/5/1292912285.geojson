@@ -1,0 +1,74 @@
+{
+  "id": 1292912285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50401,46.65185,14.50401,46.65185",
+    "geom:latitude":46.65185,
+    "geom:longitude":14.50401,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20425.0",
+    "gn:asciiname":"Wabelsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762140,
+    "gn:latitude":46.65185,
+    "gn:longitude":14.50401,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wabelsdorf",
+    "gn:population":312,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838191,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762140
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b70f5da79fc250f42dec81ce85ca8284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838191,
+            "locality_id":1292912285,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1292912285,
+    "wof:lastmodified":1536620014,
+    "wof:name":"Wabelsdorf",
+    "wof:parent_id":1108838191,
+    "wof:placetype":"locality",
+    "wof:population":312,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50401,
+    46.65185,
+    14.50401,
+    46.65185
+],
+  "geometry": {"coordinates":[14.50401,46.65185],"type":"Point"}
+}

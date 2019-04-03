@@ -1,0 +1,71 @@
+{
+  "id": 1343483249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33333,47.33333,14.33333,47.33333",
+    "geom:latitude":47.33333,
+    "geom:longitude":14.33333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"620.0",
+    "gn:admin3_code":"62021.0",
+    "gn:asciiname":"Scharnitzgraben",
+    "gn:country_code":"AT",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2601995,
+    "gn:latitude":47.33333,
+    "gn:longitude":14.33333,
+    "gn:modification_date":"2014-04-28",
+    "gn:name":"Scharnitzgraben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839407,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2601995
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8474b272cad0495e2ba16c322dd40d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108839407,
+            "locality_id":1343483249,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343483249,
+    "wof:lastmodified":1536713597,
+    "wof:name":"Scharnitzgraben",
+    "wof:parent_id":1108839407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33333,
+    47.33333,
+    14.33333,
+    47.33333
+],
+  "geometry": {"coordinates":[14.33333,47.33333],"type":"Point"}
+}

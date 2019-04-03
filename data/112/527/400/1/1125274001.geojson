@@ -1,0 +1,97 @@
+{
+  "id": 1125274001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2872,47.32281,16.2872,47.32281",
+    "geom:latitude":47.32281,
+    "geom:longitude":16.2872,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2069,
+    "gn:population":1988,
+    "iso:country":"AT",
+    "lbl:latitude":47.32281,
+    "lbl:longitude":16.2872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Stodschlaining"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1rosszal\u00f3nak"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0442\u0430\u0434\u0442\u0448\u043b\u0430\u0439\u043d\u0438\u043d\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u0434\u0442\u0448\u043b\u0430\u0439\u043d\u0438\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u5854\u5fb7\u5947\u83b1\u5b81"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872748,
+    "qs_pg:gn_pop":2069,
+    "qs_pg:name":"Stadtschlaining",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108684,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872748,
+        "qs_pg:id":108684
+    },
+    "wof:country":"AT",
+    "wof:created":1497042243,
+    "wof:geomhash":"f5fd685362fcd60430689a00ba793a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1125274001,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125274001,
+    "wof:lastmodified":1534379194,
+    "wof:name":"Stadtschlaining",
+    "wof:parent_id":102049757,
+    "wof:placetype":"localadmin",
+    "wof:population":1988,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838773
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2872,
+    47.32281,
+    16.2872,
+    47.32281
+],
+  "geometry": {"coordinates":[16.2872,47.32281],"type":"Point"}
+}

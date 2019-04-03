@@ -1,0 +1,74 @@
+{
+  "id": 1327432507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91873,48.52525,13.91873,48.52525",
+    "geom:latitude":48.52525,
+    "geom:longitude":13.91873,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41311.0",
+    "gn:asciiname":"Unternreith",
+    "gn:country_code":"AT",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762746,
+    "gn:latitude":48.52525,
+    "gn:longitude":13.91873,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unternreith",
+    "gn:population":60,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835951,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762746
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3af13693b6413418e3990431fb5dd423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835951,
+            "locality_id":1327432507,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327432507,
+    "wof:lastmodified":1536680622,
+    "wof:name":"Unternreith",
+    "wof:parent_id":1108835951,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91873,
+    48.52525,
+    13.91873,
+    48.52525
+],
+  "geometry": {"coordinates":[13.91873,48.52525],"type":"Point"}
+}

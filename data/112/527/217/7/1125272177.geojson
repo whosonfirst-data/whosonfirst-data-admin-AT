@@ -1,0 +1,82 @@
+{
+  "id": 1125272177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5731,47.52682,16.5731,47.52682",
+    "geom:latitude":47.52682,
+    "geom:longitude":16.5731,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1532,
+    "gn:population":1413,
+    "iso:country":"AT",
+    "lbl:latitude":47.52682,
+    "lbl:longitude":16.5731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871600,
+    "qs_pg:gn_pop":1532,
+    "qs_pg:name":"Gro\u00dfwarasdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108283,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871600,
+        "qs_pg:id":108283
+    },
+    "wof:country":"AT",
+    "wof:created":1497042169,
+    "wof:geomhash":"189e21b97b2e0390df45bacda8315a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1125272177,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125272177,
+    "wof:lastmodified":1534379209,
+    "wof:name":"Gro\u00dfwarasdorf",
+    "wof:parent_id":102049775,
+    "wof:placetype":"localadmin",
+    "wof:population":1413,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838645
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5731,
+    47.52682,
+    16.5731,
+    47.52682
+],
+  "geometry": {"coordinates":[16.5731,47.52682],"type":"Point"}
+}

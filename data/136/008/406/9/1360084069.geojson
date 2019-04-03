@@ -1,0 +1,74 @@
+{
+  "id": 1360084069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2,47.45,13.2,47.45",
+    "geom:latitude":47.45,
+    "geom:longitude":13.2,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50424.0",
+    "gn:asciiname":"Reitsam",
+    "gn:country_code":"AT",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2605565,
+    "gn:latitude":47.45,
+    "gn:longitude":13.2,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reitsam",
+    "gn:population":178,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837041,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2605565
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f4407455cd73377025a8e65c15c6b3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837041,
+            "locality_id":1360084069,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1360084069,
+    "wof:lastmodified":1536947510,
+    "wof:name":"Reitsam",
+    "wof:parent_id":1108837041,
+    "wof:placetype":"locality",
+    "wof:population":178,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2,
+    47.45,
+    13.2,
+    47.45
+],
+  "geometry": {"coordinates":[13.2,47.45],"type":"Point"}
+}

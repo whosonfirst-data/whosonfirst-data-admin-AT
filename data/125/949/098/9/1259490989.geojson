@@ -1,0 +1,74 @@
+{
+  "id": 1259490989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72161,48.75879,15.72161,48.75879",
+    "geom:latitude":48.75879,
+    "geom:longitude":15.72161,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"311.0",
+    "gn:admin3_code":"31107.0",
+    "gn:asciiname":"Purgstall",
+    "gn:country_code":"AT",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768235,
+    "gn:latitude":48.75879,
+    "gn:longitude":15.72161,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Purgstall",
+    "gn:population":39,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835299,
+        85632785,
+        102049901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768235
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7fa189d090e97a32e3c4e7d8aff88d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835299,
+            "locality_id":1259490989,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259490989,
+    "wof:lastmodified":1536846851,
+    "wof:name":"Purgstall",
+    "wof:parent_id":1108835299,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72161,
+    48.75879000000001,
+    15.72161,
+    48.75879000000001
+],
+  "geometry": {"coordinates":[15.72161,48.75879000000001],"type":"Point"}
+}

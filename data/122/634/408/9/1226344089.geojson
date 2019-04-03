@@ -1,0 +1,74 @@
+{
+  "id": 1226344089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98535,48.24422,14.98535,48.24422",
+    "geom:latitude":48.24422,
+    "geom:longitude":14.98535,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31528.0",
+    "gn:asciiname":"Gulling",
+    "gn:country_code":"AT",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777289,
+    "gn:latitude":48.24422,
+    "gn:longitude":14.98535,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gulling",
+    "gn:population":99,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835429,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777289
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"29065b57e9da59f2616dee79d87b651c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835429,
+            "locality_id":1226344089,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1226344089,
+    "wof:lastmodified":1536792172,
+    "wof:name":"Gulling",
+    "wof:parent_id":1108835429,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98535,
+    48.24422,
+    14.98535,
+    48.24422
+],
+  "geometry": {"coordinates":[14.98535,48.24422],"type":"Point"}
+}

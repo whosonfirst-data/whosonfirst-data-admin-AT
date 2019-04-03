@@ -1,0 +1,71 @@
+{
+  "id": 1310709479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87446,48.03304,14.87446,48.03304",
+    "geom:latitude":48.03304,
+    "geom:longitude":14.87446,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30520.0",
+    "gn:asciiname":"Grub",
+    "gn:country_code":"AT",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777522,
+    "gn:latitude":48.03304,
+    "gn:longitude":14.87446,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Grub",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835819,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777522
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"041669ca8e5412572f4ee0c00747619b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835819,
+            "locality_id":1310709479,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310709479,
+    "wof:lastmodified":1536620484,
+    "wof:name":"Grub",
+    "wof:parent_id":1108835819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87446,
+    48.03304,
+    14.87446,
+    48.03304
+],
+  "geometry": {"coordinates":[14.87446,48.03304],"type":"Point"}
+}

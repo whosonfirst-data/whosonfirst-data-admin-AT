@@ -1,0 +1,107 @@
+{
+  "id": 1125409831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25155,46.7194,15.25155,46.7194",
+    "geom:latitude":46.7194,
+    "geom:longitude":15.25155,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2356,
+    "gn:population":4420,
+    "iso:country":"AT",
+    "lbl:latitude":46.7194,
+    "lbl:longitude":15.25155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u65af"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873364,
+    "qs_pg:gn_pop":2356,
+    "qs_pg:name":"Wies",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155504,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674839,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873364,
+        "gp:id":12674839,
+        "qs_pg:id":1155504
+    },
+    "wof:concordances_alt":{
+        "gn:id":2761326,
+        "qs_pg:id":1015549
+    },
+    "wof:country":"AT",
+    "wof:created":1497049912,
+    "wof:geomhash":"6e21296914aa0cb8ba064576ea6e4fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125409831,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125409831,
+    "wof:lastmodified":1536698239,
+    "wof:name":"Wies",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:population":4420,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839271
+    ],
+    "wof:supersedes":[
+        1125385417
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25155,
+    46.7194,
+    15.25155,
+    46.7194
+],
+  "geometry": {"coordinates":[15.25155,46.7194],"type":"Point"}
+}

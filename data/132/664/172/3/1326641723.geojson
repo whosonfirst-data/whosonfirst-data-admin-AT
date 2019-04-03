@@ -1,0 +1,77 @@
+{
+  "id": 1326641723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56667,48.68333,16.56667,48.68333",
+    "geom:latitude":48.68333,
+    "geom:longitude":16.56667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"316",
+    "gn:admin3_code":"31644.0",
+    "gn:asciiname":"Foellim",
+    "gn:country_code":"AT",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779440,
+    "gn:latitude":48.68333,
+    "gn:longitude":16.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"F\u00f6llim",
+    "gn:population":163,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00f6llim"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835357,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779440
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b6d5d5d59f42e0c08d95d1109c9c9eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108835357,
+            "locality_id":1326641723,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1326641723,
+    "wof:lastmodified":1537584975,
+    "wof:name":"Foellim",
+    "wof:parent_id":1108835357,
+    "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56667,
+    48.68333,
+    16.56667,
+    48.68333
+],
+  "geometry": {"coordinates":[16.56667,48.68333],"type":"Point"}
+}

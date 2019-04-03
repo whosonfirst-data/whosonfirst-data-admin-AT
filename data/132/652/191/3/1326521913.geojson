@@ -1,0 +1,74 @@
+{
+  "id": 1326521913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.14581,47.40747,12.14581,47.40747",
+    "geom:latitude":47.40747,
+    "geom:longitude":12.14581,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"704",
+    "gn:admin3_code":"70406.0",
+    "gn:asciiname":"Glantersberg",
+    "gn:country_code":"AT",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592347,
+    "gn:latitude":47.40747,
+    "gn:longitude":12.14581,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Glantersberg",
+    "gn:population":164,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837343,
+        85632785,
+        102049763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592347
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d99bddcd3ac09582ec3c6d9ee17ed443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837343,
+            "locality_id":1326521913,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1326521913,
+    "wof:lastmodified":1536998210,
+    "wof:name":"Glantersberg",
+    "wof:parent_id":1108837343,
+    "wof:placetype":"locality",
+    "wof:population":164,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.14581,
+    47.40747,
+    12.14581,
+    47.40747
+],
+  "geometry": {"coordinates":[12.14581,47.40747],"type":"Point"}
+}

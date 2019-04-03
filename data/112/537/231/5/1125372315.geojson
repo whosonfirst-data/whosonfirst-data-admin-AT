@@ -1,0 +1,82 @@
+{
+  "id": 1125372315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83777,47.66133,14.83777,47.66133",
+    "geom:latitude":47.66133,
+    "geom:longitude":14.83777,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":596,
+    "gn:population":596,
+    "iso:country":"AT",
+    "lbl:latitude":47.66133,
+    "lbl:longitude":14.83777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873492,
+    "qs_pg:gn_pop":596,
+    "qs_pg:name":"Gams bei Hieflau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108961,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873492,
+        "qs_pg:id":108961
+    },
+    "wof:country":"AT",
+    "wof:created":1497047493,
+    "wof:geomhash":"fc099c4c0192f231e325a94b6e50393a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125372315,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125372315,
+    "wof:lastmodified":1534379093,
+    "wof:name":"Gams bei Hieflau",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":596,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125385445
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83777,
+    47.66133,
+    14.83777,
+    47.66133
+],
+  "geometry": {"coordinates":[14.83777,47.66133],"type":"Point"}
+}

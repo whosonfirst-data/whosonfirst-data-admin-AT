@@ -1,0 +1,75 @@
+{
+  "id": 1360085443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11451,48.38573,14.11451,48.38573",
+    "geom:latitude":48.38573,
+    "geom:longitude":14.11451,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"416",
+    "gn:admin3_code":"41621.0",
+    "gn:asciiname":"Eschelberg",
+    "gn:country_code":"AT",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779924,
+    "gn:latitude":48.38573,
+    "gn:longitude":14.11451,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Eschelberg",
+    "gn:population":203,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836403,
+        85632785,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779924,
+        "wk:page":"Eschelberg"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"25f2eebb9c893c3af1d2cc83f005cb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836403,
+            "locality_id":1360085443,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1360085443,
+    "wof:lastmodified":1537486390,
+    "wof:name":"Eschelberg",
+    "wof:parent_id":1108836403,
+    "wof:placetype":"locality",
+    "wof:population":203,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11451,
+    48.38573,
+    14.11451,
+    48.38573
+],
+  "geometry": {"coordinates":[14.11451,48.38573],"type":"Point"}
+}

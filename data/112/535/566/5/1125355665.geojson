@@ -1,0 +1,82 @@
+{
+  "id": 1125355665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03134,48.61929,14.03134,48.61929",
+    "geom:latitude":48.61929,
+    "geom:longitude":14.03134,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":525,
+    "gn:population":498,
+    "iso:country":"AT",
+    "lbl:latitude":48.61929,
+    "lbl:longitude":14.03134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872116,
+    "qs_pg:gn_pop":525,
+    "qs_pg:name":"Sankt Oswald bei Haslach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743339,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872116,
+        "qs_pg:id":743339
+    },
+    "wof:country":"AT",
+    "wof:created":1497046457,
+    "wof:geomhash":"64c1b5b67e3a2f74f3363c05009de8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125355665,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125355665,
+    "wof:lastmodified":1536698181,
+    "wof:name":"Sankt Oswald bei Haslach",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":498,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836001
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03134,
+    48.61929,
+    14.03134,
+    48.61929
+],
+  "geometry": {"coordinates":[14.03134,48.61929],"type":"Point"}
+}

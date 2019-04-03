@@ -1,0 +1,81 @@
+{
+  "id": 1259775975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41667,47.33333,14.41667,47.33333",
+    "geom:latitude":47.33333,
+    "geom:longitude":14.41667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"620",
+    "gn:admin3_code":"62044.0",
+    "gn:asciiname":"Bretstein",
+    "gn:country_code":"AT",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2781411,
+    "gn:latitude":47.33333,
+    "gn:longitude":14.41667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bretstein",
+    "gn:population":298,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gassner",
+        "Bretsteingassen",
+        "Brettstein",
+        "Bretstein"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838953,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781411,
+        "wk:page":"Bretstein"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8ea9d7fadb4d57eec0f4d62b75ba8728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108838953,
+            "locality_id":1259775975,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259775975,
+    "wof:lastmodified":1537584981,
+    "wof:name":"Bretstein",
+    "wof:parent_id":1108838953,
+    "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41667,
+    47.33333,
+    14.41667,
+    47.33333
+],
+  "geometry": {"coordinates":[14.41667,47.33333],"type":"Point"}
+}

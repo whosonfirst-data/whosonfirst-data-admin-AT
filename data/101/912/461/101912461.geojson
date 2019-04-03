@@ -1,0 +1,78 @@
+{
+  "id": 101912461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":444020.004801,
+    "geom:bbox":"13.4406349769,46.6273062565,13.4584818005,46.6355258877",
+    "geom:latitude":46.630831,
+    "geom:longitude":13.447932,
+    "iso:country":"AT",
+    "lbl:latitude":46.630226,
+    "lbl:longitude":13.44658,
+    "mps:latitude":46.630226,
+    "mps:longitude":13.44658,
+    "mz:hierarchy_label":1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*K\u00e4rnten",
+    "qs:a1r":"4",
+    "qs:a2":"Hermagor",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:id":0,
+    "qs:la":"Hermagor-Pressegger See",
+    "qs:la_lc":"*AT20305",
+    "qs:level":"locality",
+    "qs:loc":"Presseggen",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838149,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20096954,
+        "qs:id":6174,
+        "qs_pg:id":6174
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e45510b8bfea6cf62c00b0662843fd66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838149,
+            "locality_id":101912461,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":101912461,
+    "wof:lastmodified":1497291811,
+    "wof:name":"Presseggen",
+    "wof:parent_id":1108838149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44063497689098,
+    46.62730625646878,
+    13.45848180054526,
+    46.63552588765634
+],
+  "geometry": {"coordinates":[[[13.4460043166805,46.6274062838587],[13.44526235351969,46.62817726448577],[13.44527232366244,46.6283309882221],[13.44510939586536,46.62833620416711],[13.44063497689098,46.63298561336819],[13.44426051356612,46.63286956649011],[13.44431883743505,46.6337689289802],[13.44562236061671,46.63372716582143],[13.44573905997942,46.63552588765634],[13.44704262528865,46.6354841070733],[13.44698425234054,46.63458474722484],[13.44828779379878,46.63454295166827],[13.44811262427243,46.63184487155161],[13.45071956966785,46.63176123797319],[13.45066114094658,46.63086187856203],[13.45848180054526,46.63061060378988],[13.45842324245052,46.629711248788],[13.45451298699032,46.62983695476748],[13.45445449741089,46.6289375968027],[13.44924088535117,46.62910498045699],[13.44912408973352,46.62730625646878],[13.4460043166805,46.6274062838587]]],"type":"Polygon"}
+}

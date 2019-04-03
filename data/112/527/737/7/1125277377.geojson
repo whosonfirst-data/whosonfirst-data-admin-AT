@@ -1,0 +1,101 @@
+{
+  "id": 1125277377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3,48.43333,16.3,48.43333",
+    "geom:latitude":48.43333,
+    "geom:longitude":16.3,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.43333,
+    "lbl:longitude":16.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0445\u043e\u043b\u043b\u0430\u0431\u0440\u0443\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0445\u043e\u043b\u043b\u0430\u0431\u0440\u0443\u043d\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u970d\u62c9\u5e03\u4f26"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2770576,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Niederhollabrunn",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1187727,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673856,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770576,
+        "gp:id":12673856,
+        "qs_pg:id":1187727
+    },
+    "wof:country":"AT",
+    "wof:created":1497042373,
+    "wof:geomhash":"2d5dc4f8792e8a58f5acb1e2a4fd743a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1125277377,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125277377,
+    "wof:lastmodified":1536698127,
+    "wof:name":"Niederhollabrunn",
+    "wof:parent_id":102049887,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836823
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3,
+    48.43333,
+    16.3,
+    48.43333
+],
+  "geometry": {"coordinates":[16.3,48.43333],"type":"Point"}
+}

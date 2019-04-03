@@ -1,0 +1,74 @@
+{
+  "id": 1276144341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81667,47.26667,14.81667,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":14.81667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"620.0",
+    "gn:admin3_code":"62014.0",
+    "gn:asciiname":"Unterfarrach",
+    "gn:country_code":"AT",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762962,
+    "gn:latitude":47.26667,
+    "gn:longitude":14.81667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterfarrach",
+    "gn:population":194,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838935,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762962
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ea8b05a98acda17c013595c41d248682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108838935,
+            "locality_id":1276144341,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276144341,
+    "wof:lastmodified":1537030653,
+    "wof:name":"Unterfarrach",
+    "wof:parent_id":1108838935,
+    "wof:placetype":"locality",
+    "wof:population":194,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81667,
+    47.26667,
+    14.81667,
+    47.26667
+],
+  "geometry": {"coordinates":[14.81667,47.26667],"type":"Point"}
+}

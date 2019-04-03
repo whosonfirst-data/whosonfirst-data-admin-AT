@@ -1,0 +1,82 @@
+{
+  "id": 1125273761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71864,47.14118,15.71864,47.14118",
+    "geom:latitude":47.14118,
+    "geom:longitude":15.71864,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1893,
+    "gn:population":2035,
+    "iso:country":"AT",
+    "lbl:latitude":47.14118,
+    "lbl:longitude":15.71864,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872501,
+    "qs_pg:gn_pop":1893,
+    "qs_pg:name":"Albersdorf-Prebuch",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108627,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872501,
+        "qs_pg:id":108627
+    },
+    "wof:country":"AT",
+    "wof:created":1497042234,
+    "wof:geomhash":"8f9e47f520558998797becc8eeb9407a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125273761,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125273761,
+    "wof:lastmodified":1534379216,
+    "wof:name":"Albersdorf-Prebuch",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":2035,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839363
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71864,
+    47.14118,
+    15.71864,
+    47.14118
+],
+  "geometry": {"coordinates":[15.71864,47.14118],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309709921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87611,47.44667,13.87611,47.44667",
+    "geom:latitude":47.44667,
+    "geom:longitude":13.87611,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61213.0",
+    "gn:asciiname":"Winkl",
+    "gn:country_code":"AT",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324907,
+    "gn:latitude":47.44667,
+    "gn:longitude":13.87611,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Winkl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838957,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324907
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f7fc9c4a50d6221703c4c05ed71a06dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838957,
+            "locality_id":1309709921,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1309709921,
+    "wof:lastmodified":1537066460,
+    "wof:name":"Winkl",
+    "wof:parent_id":1108838957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87611,
+    47.44667000000001,
+    13.87611,
+    47.44667000000001
+],
+  "geometry": {"coordinates":[13.87611,47.44667000000001],"type":"Point"}
+}

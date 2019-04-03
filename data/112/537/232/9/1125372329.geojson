@@ -1,0 +1,85 @@
+{
+  "id": 1125372329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92757,47.65735,13.92757,47.65735",
+    "geom:latitude":47.65735,
+    "geom:longitude":13.92757,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1295,
+    "gn:population":1198,
+    "iso:country":"AT",
+    "lbl:latitude":47.65735,
+    "lbl:longitude":13.92757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:zho_x_preferred":[
+        "\u683c\u4f26\u5fb7\u5c14\u585e"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873495,
+    "qs_pg:gn_pop":1295,
+    "qs_pg:name":"Grundlsee",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108963,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873495,
+        "qs_pg:id":108963
+    },
+    "wof:country":"AT",
+    "wof:created":1497047493,
+    "wof:geomhash":"cc924eab30ce9de88353a95bfb6b0272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125372329,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125372329,
+    "wof:lastmodified":1534379177,
+    "wof:name":"Grundlsee",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":1198,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838955
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92757,
+    47.65735,
+    13.92757,
+    47.65735
+],
+  "geometry": {"coordinates":[13.92757,47.65735],"type":"Point"}
+}

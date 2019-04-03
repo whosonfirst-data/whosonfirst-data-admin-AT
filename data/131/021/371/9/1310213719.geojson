@@ -1,0 +1,74 @@
+{
+  "id": 1310213719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.37671,46.61817,13.37671,46.61817",
+    "geom:latitude":46.61817,
+    "geom:longitude":13.37671,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20305.0",
+    "gn:asciiname":"Neudorf",
+    "gn:country_code":"AT",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594142,
+    "gn:latitude":46.61817,
+    "gn:longitude":13.37671,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Neudorf",
+    "gn:population":292,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838149,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594142
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"430ab1667e5ff14bb77ed10005c82c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838149,
+            "locality_id":1310213719,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310213719,
+    "wof:lastmodified":1536839278,
+    "wof:name":"Neudorf",
+    "wof:parent_id":1108838149,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.37671,
+    46.61817,
+    13.37671,
+    46.61817
+],
+  "geometry": {"coordinates":[13.37671,46.61817],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360193413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85083,46.55667,13.85083,46.55667",
+    "geom:latitude":46.55667,
+    "geom:longitude":13.85083,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20711.0",
+    "gn:asciiname":"Untertechanting",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762618,
+    "gn:latitude":46.55667,
+    "gn:longitude":13.85083,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Untertechanting",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Untertochanting",
+        "Untertechanting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838339,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762618
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d86aac49b29e7c69f4c6cee966484cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838339,
+            "locality_id":1360193413,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1360193413,
+    "wof:lastmodified":1537584917,
+    "wof:name":"Untertechanting",
+    "wof:parent_id":1108838339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85083,
+    46.55667,
+    13.85083,
+    46.55667
+],
+  "geometry": {"coordinates":[13.85083,46.55667],"type":"Point"}
+}

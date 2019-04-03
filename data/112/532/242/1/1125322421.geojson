@@ -1,0 +1,114 @@
+{
+  "id": 1125322421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.15561,47.80808,13.15561,47.80808",
+    "geom:latitude":47.80808,
+    "geom:longitude":13.15561,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "gn:population":3413,
+    "iso:country":"AT",
+    "lbl:latitude":47.80808,
+    "lbl:longitude":13.15561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043f\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u043b\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043f\u043f\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u666e\u5c14"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2773713,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Koppl",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1057,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":37957,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674734,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773713,
+        "gp:id":12674734,
+        "qs_pg:id":37957
+    },
+    "wof:concordances_alt":{
+        "gn:id":7872209,
+        "qs_pg:id":381015
+    },
+    "wof:country":"AT",
+    "wof:created":1497044606,
+    "wof:geomhash":"f8bb1b0bdce4b4a0c4c0341cdcfd2cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1125322421,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125322421,
+    "wof:lastmodified":1536698158,
+    "wof:name":"Koppl",
+    "wof:parent_id":102049799,
+    "wof:placetype":"localadmin",
+    "wof:population":3413,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837155
+    ],
+    "wof:supersedes":[
+        1125334319
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.15561,
+    47.80808,
+    13.15561,
+    47.80808
+],
+  "geometry": {"coordinates":[13.15561,47.80808],"type":"Point"}
+}

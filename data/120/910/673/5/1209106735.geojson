@@ -1,0 +1,66 @@
+{
+  "id": 1209106735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64562,48.23374,13.64562,48.23374",
+    "geom:latitude":48.23374,
+    "geom:longitude":13.64562,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40834.0",
+    "gn:asciiname":"Weberndorf",
+    "gn:country_code":"AT",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610623,
+    "gn:latitude":48.23374,
+    "gn:longitude":13.64562,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Weberndorf",
+    "gn:population":22,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610623
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"66dd574aab86c37fad77248d2791f2c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209106735
+        }
+    ],
+    "wof:id":1209106735,
+    "wof:lastmodified":1536297545,
+    "wof:name":"Weberndorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64562,
+    48.23374,
+    13.64562,
+    48.23374
+],
+  "geometry": {"coordinates":[13.64562,48.23374],"type":"Point"}
+}

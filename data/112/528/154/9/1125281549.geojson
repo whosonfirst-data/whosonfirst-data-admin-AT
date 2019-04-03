@@ -1,0 +1,104 @@
+{
+  "id": 1125281549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43333,48.41667,15.43333,48.41667",
+    "geom:latitude":48.41667,
+    "geom:longitude":15.43333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.41667,
+    "lbl:longitude":15.43333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u0439\u043d\u0446\u0438\u0440\u043b\u044c-\u043d\u0430-\u0412\u0430\u043b\u044c\u0434\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u043d\u0446\u0438\u0440\u043b\u044c-\u0430\u043c-\u0412\u0430\u043b\u044c\u0434\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Weinzierl"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u7554\u97e6\u56e0\u9f50\u5c14"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2761670,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Weinzierl am Walde",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":421234,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674040,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761670,
+        "gp:id":12674040,
+        "qs_pg:id":421234
+    },
+    "wof:country":"AT",
+    "wof:created":1497042520,
+    "wof:geomhash":"f0775561f87cda9027d162e7b6810244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1125281549,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125281549,
+    "wof:lastmodified":1534530979,
+    "wof:name":"Weinzierl am Walde",
+    "wof:parent_id":102049885,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835745
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43333,
+    48.41667,
+    15.43333,
+    48.41667
+],
+  "geometry": {"coordinates":[15.43333,48.41667],"type":"Point"}
+}

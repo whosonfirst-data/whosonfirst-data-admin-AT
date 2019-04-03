@@ -1,0 +1,71 @@
+{
+  "id": 1259977007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41667,47.28333,14.41667,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":14.41667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"620.0",
+    "gn:admin3_code":"62021.0",
+    "gn:asciiname":"Gaschbachgraben",
+    "gn:country_code":"AT",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2602136,
+    "gn:latitude":47.28333,
+    "gn:longitude":14.41667,
+    "gn:modification_date":"2014-04-28",
+    "gn:name":"Gaschbachgraben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839407,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2602136
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"32df44e4832c6ed6715ab4290fd033a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108839407,
+            "locality_id":1259977007,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259977007,
+    "wof:lastmodified":1536643859,
+    "wof:name":"Gaschbachgraben",
+    "wof:parent_id":1108839407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41667,
+    47.28333,
+    14.41667,
+    47.28333
+],
+  "geometry": {"coordinates":[14.41667,47.28333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293012111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69517,48.13871,15.69517,48.13871",
+    "geom:latitude":48.13871,
+    "geom:longitude":15.69517,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31934.0",
+    "gn:asciiname":"Auern",
+    "gn:country_code":"AT",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782207,
+    "gn:latitude":48.13871,
+    "gn:longitude":15.69517,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Auern",
+    "gn:population":98,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834975,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782207
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1f1f71e6234732d044ee6ca4a87c9d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834975,
+            "locality_id":1293012111,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293012111,
+    "wof:lastmodified":1536974803,
+    "wof:name":"Auern",
+    "wof:parent_id":1108834975,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69517,
+    48.13871,
+    15.69517,
+    48.13871
+],
+  "geometry": {"coordinates":[15.69517,48.13871],"type":"Point"}
+}

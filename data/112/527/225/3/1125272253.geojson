@@ -1,0 +1,82 @@
+{
+  "id": 1125272253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49425,47.56121,16.49425,47.56121",
+    "geom:latitude":47.56121,
+    "geom:longitude":16.49425,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":677,
+    "gn:population":686,
+    "iso:country":"AT",
+    "lbl:latitude":47.56121,
+    "lbl:longitude":16.49425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871612,
+    "qs_pg:gn_pop":677,
+    "qs_pg:name":"Unterfrauenhaid",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108291,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871612,
+        "qs_pg:id":108291
+    },
+    "wof:country":"AT",
+    "wof:created":1497042172,
+    "wof:geomhash":"9cb5452ffe0d69e6367f73705c475af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1125272253,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125272253,
+    "wof:lastmodified":1534379167,
+    "wof:name":"Unterfrauenhaid",
+    "wof:parent_id":102049775,
+    "wof:placetype":"localadmin",
+    "wof:population":686,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838649
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49425,
+    47.56121,
+    16.49425,
+    47.56121
+],
+  "geometry": {"coordinates":[16.49425,47.56121],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226078367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.22951,48.22144,13.22951,48.22144",
+    "geom:latitude":48.22144,
+    "geom:longitude":13.22951,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40434.0",
+    "gn:asciiname":"Wolfeck",
+    "gn:country_code":"AT",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612384,
+    "gn:latitude":48.22144,
+    "gn:longitude":13.22951,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wolfeck",
+    "gn:population":10,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834781,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612384
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a36ea23467374b9c11ceaa45fd655fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834781,
+            "locality_id":1226078367,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226078367,
+    "wof:lastmodified":1536678247,
+    "wof:name":"Wolfeck",
+    "wof:parent_id":1108834781,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.22951,
+    48.22144,
+    13.22951,
+    48.22144
+],
+  "geometry": {"coordinates":[13.22951,48.22144],"type":"Point"}
+}

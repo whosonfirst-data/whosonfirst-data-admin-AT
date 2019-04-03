@@ -1,0 +1,71 @@
+{
+  "id": 1226450053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,48.4,16.2,48.4",
+    "geom:latitude":48.4,
+    "geom:longitude":16.2,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"312",
+    "gn:admin3_code":"31230.0",
+    "gn:asciiname":"Marienhohen",
+    "gn:country_code":"AT",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3324119,
+    "gn:latitude":48.4,
+    "gn:longitude":16.2,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Marienh\u00f6hen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834843,
+        85632785,
+        102049887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324119
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"eeef642a872b1937a19de86bb4e867aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108834843,
+            "locality_id":1226450053,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1226450053,
+    "wof:lastmodified":1536638127,
+    "wof:name":"Marienhohen",
+    "wof:parent_id":1108834843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    48.4,
+    16.2,
+    48.4
+],
+  "geometry": {"coordinates":[16.2,48.4],"type":"Point"}
+}

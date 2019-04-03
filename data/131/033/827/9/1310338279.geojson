@@ -1,0 +1,74 @@
+{
+  "id": 1310338279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.38354,48.26397,13.38354,48.26397",
+    "geom:latitude":48.26397,
+    "geom:longitude":13.38354,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41235.0",
+    "gn:asciiname":"Hinterweintal",
+    "gn:country_code":"AT",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610558,
+    "gn:latitude":48.26397,
+    "gn:longitude":13.38354,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hinterweintal",
+    "gn:population":19,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835701,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610558
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"42dae462ba74ccb9c2d5afca5dc67bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835701,
+            "locality_id":1310338279,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310338279,
+    "wof:lastmodified":1536660772,
+    "wof:name":"Hinterweintal",
+    "wof:parent_id":1108835701,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.38354,
+    48.26397,
+    13.38354,
+    48.26397
+],
+  "geometry": {"coordinates":[13.38354,48.26397],"type":"Point"}
+}

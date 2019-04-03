@@ -1,0 +1,77 @@
+{
+  "id": 1276887467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.70289,47.98808,16.70289,47.98808",
+    "geom:latitude":47.98808,
+    "geom:longitude":16.70289,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"107",
+    "gn:admin3_code":"10703.0",
+    "gn:asciiname":"Kaisersteinbruch",
+    "gn:country_code":"AT",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774929,
+    "gn:latitude":47.98808,
+    "gn:longitude":16.70289,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kaisersteinbruch",
+    "gn:population":258,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Cs\u00e1sz\u00e1rk\u0151b\u00e1nya"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838463,
+        85632785,
+        102049841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774929
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ec980f88e267e67df2623370ba200bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838463,
+            "locality_id":1276887467,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1276887467,
+    "wof:lastmodified":1537584963,
+    "wof:name":"Kaisersteinbruch",
+    "wof:parent_id":1108838463,
+    "wof:placetype":"locality",
+    "wof:population":258,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.70289,
+    47.98808,
+    16.70289,
+    47.98808
+],
+  "geometry": {"coordinates":[16.70289,47.98808],"type":"Point"}
+}

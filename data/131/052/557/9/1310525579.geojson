@@ -1,0 +1,74 @@
+{
+  "id": 1310525579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75917,48.38721,13.75917,48.38721",
+    "geom:latitude":48.38721,
+    "geom:longitude":13.75917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40816.0",
+    "gn:asciiname":"Hoermating",
+    "gn:country_code":"AT",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609791,
+    "gn:latitude":48.38721,
+    "gn:longitude":13.75917,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"H\u00f6rmating",
+    "gn:population":31,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835201,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609791
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bbe86cbd82d21fbb77d825cc90a8319b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835201,
+            "locality_id":1310525579,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310525579,
+    "wof:lastmodified":1536887509,
+    "wof:name":"Hoermating",
+    "wof:parent_id":1108835201,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75917,
+    48.38721,
+    13.75917,
+    48.38721
+],
+  "geometry": {"coordinates":[13.75917,48.38721],"type":"Point"}
+}

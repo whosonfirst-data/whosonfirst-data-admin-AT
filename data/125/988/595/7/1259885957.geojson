@@ -1,0 +1,74 @@
+{
+  "id": 1259885957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75587,48.34658,13.75587,48.34658",
+    "geom:latitude":48.34658,
+    "geom:longitude":13.75587,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40828.0",
+    "gn:asciiname":"Steinbruck",
+    "gn:country_code":"AT",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609148,
+    "gn:latitude":48.34658,
+    "gn:longitude":13.75587,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Steinbruck",
+    "gn:population":126,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835227,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609148
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d0ee836f00ed202428e14d39a106d92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835227,
+            "locality_id":1259885957,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259885957,
+    "wof:lastmodified":1536776129,
+    "wof:name":"Steinbruck",
+    "wof:parent_id":1108835227,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75587,
+    48.34658,
+    13.75587,
+    48.34658
+],
+  "geometry": {"coordinates":[13.75587,48.34658],"type":"Point"}
+}

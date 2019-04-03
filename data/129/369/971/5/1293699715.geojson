@@ -1,0 +1,71 @@
+{
+  "id": 1293699715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95111,46.96556,14.95111,46.96556",
+    "geom:latitude":46.96556,
+    "geom:longitude":14.95111,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"209",
+    "gn:admin3_code":"20911.0",
+    "gn:asciiname":"Grossbrunner",
+    "gn:country_code":"AT",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219677,
+    "gn:latitude":46.96556,
+    "gn:longitude":14.95111,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Grossbrunner",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838103,
+        85632785,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219677
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7374f43ad76291ed29a4c8e622a5b007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838103,
+            "locality_id":1293699715,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293699715,
+    "wof:lastmodified":1536977770,
+    "wof:name":"Grossbrunner",
+    "wof:parent_id":1108838103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95111,
+    46.96556,
+    14.95111,
+    46.96556
+],
+  "geometry": {"coordinates":[14.95111,46.96556],"type":"Point"}
+}

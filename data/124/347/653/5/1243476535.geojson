@@ -1,0 +1,74 @@
+{
+  "id": 1243476535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61667,47.26667,15.61667,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":15.61667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61751.0",
+    "gn:asciiname":"Ponigl",
+    "gn:country_code":"AT",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768521,
+    "gn:latitude":47.26667,
+    "gn:longitude":15.61667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ponigl",
+    "gn:population":253,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838917,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768521
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a458fe11f6b0f235bc204fcd00e6f7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838917,
+            "locality_id":1243476535,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243476535,
+    "wof:lastmodified":1536762446,
+    "wof:name":"Ponigl",
+    "wof:parent_id":1108838917,
+    "wof:placetype":"locality",
+    "wof:population":253,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61667,
+    47.26667,
+    15.61667,
+    47.26667
+],
+  "geometry": {"coordinates":[15.61667,47.26667],"type":"Point"}
+}

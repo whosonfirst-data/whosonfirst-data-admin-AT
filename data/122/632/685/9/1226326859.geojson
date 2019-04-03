@@ -1,0 +1,71 @@
+{
+  "id": 1226326859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43988,48.18736,16.43988,48.18736",
+    "geom:latitude":48.18736,
+    "geom:longitude":16.43988,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"900",
+    "gn:admin3_code":"902.0",
+    "gn:asciiname":"Freudenau",
+    "gn:country_code":"AT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3322724,
+    "gn:latitude":48.18736,
+    "gn:longitude":16.43988,
+    "gn:modification_date":"2012-11-11",
+    "gn:name":"Freudenau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681667,
+        102191581,
+        1108838101,
+        85632785,
+        102049859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3322724
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8fc811e487783f2b5a40d7647bb63aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":1226326859,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1226326859,
+    "wof:lastmodified":1536815972,
+    "wof:name":"Freudenau",
+    "wof:parent_id":1108838101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43988,
+    48.18736,
+    16.43988,
+    48.18736
+],
+  "geometry": {"coordinates":[16.43988,48.18736],"type":"Point"}
+}

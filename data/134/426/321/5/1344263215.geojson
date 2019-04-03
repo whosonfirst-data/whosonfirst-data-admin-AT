@@ -1,0 +1,74 @@
+{
+  "id": 1344263215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54477,48.38926,13.54477,48.38926",
+    "geom:latitude":48.38926,
+    "geom:longitude":13.54477,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41426.0",
+    "gn:asciiname":"Unterpramau",
+    "gn:country_code":"AT",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610419,
+    "gn:latitude":48.38926,
+    "gn:longitude":13.54477,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterpramau",
+    "gn:population":20,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836079,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610419
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bd1760f5ea39c7757532d47dd2bbc3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836079,
+            "locality_id":1344263215,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344263215,
+    "wof:lastmodified":1537077022,
+    "wof:name":"Unterpramau",
+    "wof:parent_id":1108836079,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54477,
+    48.38926,
+    13.54477,
+    48.38926
+],
+  "geometry": {"coordinates":[13.54477,48.38926],"type":"Point"}
+}

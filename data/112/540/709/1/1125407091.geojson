@@ -1,0 +1,82 @@
+{
+  "id": 1125407091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.64994,47.28872,9.64994,47.28872",
+    "geom:latitude":47.28872,
+    "geom:longitude":9.64994,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2329,
+    "gn:population":2568,
+    "iso:country":"AT",
+    "lbl:latitude":47.28872,
+    "lbl:longitude":9.64994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873750,
+    "qs_pg:gn_pop":2329,
+    "qs_pg:name":"Sulz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155588,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873750,
+        "qs_pg:id":1155588
+    },
+    "wof:country":"AT",
+    "wof:created":1497049711,
+    "wof:geomhash":"8ec6fb478aa368a1e8b498e2a6256a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1125407091,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125407091,
+    "wof:lastmodified":1534379129,
+    "wof:name":"Sulz",
+    "wof:parent_id":102049725,
+    "wof:placetype":"localadmin",
+    "wof:population":2568,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838069
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.64994,
+    47.28872,
+    9.64994,
+    47.28872
+],
+  "geometry": {"coordinates":[9.64994,47.28872],"type":"Point"}
+}

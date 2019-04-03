@@ -1,0 +1,71 @@
+{
+  "id": 1343763121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81667,48.13333,13.81667,48.13333",
+    "geom:latitude":48.13333,
+    "geom:longitude":13.81667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"418",
+    "gn:admin3_code":"41815.0",
+    "gn:asciiname":"Balding",
+    "gn:country_code":"AT",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782024,
+    "gn:latitude":48.13333,
+    "gn:longitude":13.81667,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Balding",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836569,
+        85632785,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782024
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"42badb1358835ccf840018d9318eda82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836569,
+            "locality_id":1343763121,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343763121,
+    "wof:lastmodified":1536806846,
+    "wof:name":"Balding",
+    "wof:parent_id":1108836569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81667,
+    48.13333,
+    13.81667,
+    48.13333
+],
+  "geometry": {"coordinates":[13.81667,48.13333],"type":"Point"}
+}

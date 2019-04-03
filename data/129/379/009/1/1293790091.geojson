@@ -1,0 +1,74 @@
+{
+  "id": 1293790091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9392,48.13745,13.9392,48.13745",
+    "geom:latitude":48.13745,
+    "geom:longitude":13.9392,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"418",
+    "gn:admin3_code":"41808.0",
+    "gn:asciiname":"Stroeblberg",
+    "gn:country_code":"AT",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610932,
+    "gn:latitude":48.13745,
+    "gn:longitude":13.9392,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Str\u00f6blberg",
+    "gn:population":45,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836553,
+        85632785,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610932
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"65d3beecb0dee2711cba67deac904d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836553,
+            "locality_id":1293790091,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293790091,
+    "wof:lastmodified":1536846741,
+    "wof:name":"Stroeblberg",
+    "wof:parent_id":1108836553,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9392,
+    48.13745,
+    13.9392,
+    48.13745
+],
+  "geometry": {"coordinates":[13.9392,48.13745],"type":"Point"}
+}

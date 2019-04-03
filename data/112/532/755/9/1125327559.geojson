@@ -1,0 +1,82 @@
+{
+  "id": 1125327559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85695,47.22212,15.85695,47.22212",
+    "geom:latitude":47.22212,
+    "geom:longitude":15.85695,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":696,
+    "gn:population":696,
+    "iso:country":"AT",
+    "lbl:latitude":47.22212,
+    "lbl:longitude":15.85695,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872370,
+    "qs_pg:gn_pop":696,
+    "qs_pg:name":"Tiefenbach bei Kaindorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108595,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872370,
+        "qs_pg:id":108595
+    },
+    "wof:country":"AT",
+    "wof:created":1497044907,
+    "wof:geomhash":"8eb342490eddb7d8c149b830d4fc8c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1125327559,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125327559,
+    "wof:lastmodified":1536698164,
+    "wof:name":"Tiefenbach bei Kaindorf",
+    "wof:parent_id":1108892549,
+    "wof:placetype":"localadmin",
+    "wof:population":696,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839125
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85695,
+    47.22212,
+    15.85695,
+    47.22212
+],
+  "geometry": {"coordinates":[15.85695,47.22212],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226365261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56667,47.25,12.56667,47.25",
+    "geom:latitude":47.25,
+    "geom:longitude":12.56667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50624.0",
+    "gn:asciiname":"Stubach",
+    "gn:country_code":"AT",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764098,
+    "gn:latitude":47.25,
+    "gn:longitude":12.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stubach",
+    "gn:population":158,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837245,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764098
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ab2d0d715334eec246bd2cf94ec23e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837245,
+            "locality_id":1226365261,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1226365261,
+    "wof:lastmodified":1536761679,
+    "wof:name":"Stubach",
+    "wof:parent_id":1108837245,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56667,
+    47.25,
+    12.56667,
+    47.25
+],
+  "geometry": {"coordinates":[12.56667,47.25],"type":"Point"}
+}

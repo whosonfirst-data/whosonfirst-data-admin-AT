@@ -1,0 +1,82 @@
+{
+  "id": 1125328153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36531,47.16008,16.36531,47.16008",
+    "geom:latitude":47.16008,
+    "geom:longitude":16.36531,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1468,
+    "gn:population":1478,
+    "iso:country":"AT",
+    "lbl:latitude":47.16008,
+    "lbl:longitude":16.36531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871618,
+    "qs_pg:gn_pop":1468,
+    "qs_pg:name":"Kohfidisch",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1041931,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871618,
+        "qs_pg:id":1041931
+    },
+    "wof:country":"AT",
+    "wof:created":1497044943,
+    "wof:geomhash":"4a72933428eb29edb80b6834ce2b387c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1125328153,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125328153,
+    "wof:lastmodified":1534531028,
+    "wof:name":"Kohfidisch",
+    "wof:parent_id":102049757,
+    "wof:placetype":"localadmin",
+    "wof:population":1478,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838759
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36531,
+    47.16008,
+    16.36531,
+    47.16008
+],
+  "geometry": {"coordinates":[16.36531,47.16008],"type":"Point"}
+}

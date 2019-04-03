@@ -1,0 +1,74 @@
+{
+  "id": 1243065629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73028,46.79327,15.73028,46.79327",
+    "geom:latitude":46.79327,
+    "geom:longitude":15.73028,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62388.0",
+    "gn:asciiname":"Oberrosenberg",
+    "gn:country_code":"AT",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592474,
+    "gn:latitude":46.79327,
+    "gn:longitude":15.73028,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberrosenberg",
+    "gn:population":81,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839335,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592474
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ac3e3faf4d71f9df5e53137ce70ad438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839335,
+            "locality_id":1243065629,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243065629,
+    "wof:lastmodified":1536856320,
+    "wof:name":"Oberrosenberg",
+    "wof:parent_id":1108839335,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73028,
+    46.79327,
+    15.73028,
+    46.79327
+],
+  "geometry": {"coordinates":[15.73028,46.79327],"type":"Point"}
+}

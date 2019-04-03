@@ -1,0 +1,91 @@
+{
+  "id": 1125272847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39482,48.19811,16.39482,48.19811",
+    "geom:latitude":48.19811,
+    "geom:longitude":16.39482,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":85713,
+    "gn:population":85713,
+    "iso:country":"AT",
+    "lbl:latitude":48.19811,
+    "lbl:longitude":16.39482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Landstra\u00dfe"
+    ],
+    "name:spa_x_preferred":[
+        "Landstrasse"
+    ],
+    "name:unk_x_variant":[
+        "3. Wiener Gemeindebezirk"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2773040,
+    "qs_pg:gn_pop":85713,
+    "qs_pg:name":"Gemeindebezirk Landstrasse",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":576101,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681667,
+        102049859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773040,
+        "qs_pg:id":576101
+    },
+    "wof:country":"AT",
+    "wof:created":1497042196,
+    "wof:geomhash":"63cb186956322a3fed0d3bd4313405a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1125272847,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1125272847,
+    "wof:lastmodified":1536698117,
+    "wof:name":"Gemeindebezirk Landstrasse",
+    "wof:parent_id":102049859,
+    "wof:placetype":"localadmin",
+    "wof:population":85713,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838101
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39482,
+    48.19811,
+    16.39482,
+    48.19811
+],
+  "geometry": {"coordinates":[16.39482,48.19811],"type":"Point"}
+}

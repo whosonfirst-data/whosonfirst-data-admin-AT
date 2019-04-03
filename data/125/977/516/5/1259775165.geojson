@@ -1,0 +1,74 @@
+{
+  "id": 1259775165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78404,47.4021,11.78404,47.4021",
+    "geom:latitude":47.4021,
+    "geom:longitude":11.78404,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"709",
+    "gn:admin3_code":"70939.0",
+    "gn:asciiname":"Ehrenstall",
+    "gn:country_code":"AT",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592176,
+    "gn:latitude":47.4021,
+    "gn:longitude":11.78404,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ehrenstall",
+    "gn:population":3,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837717,
+        85632785,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592176
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9976d28c592b4aaef8f495cfd9dd3ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837717,
+            "locality_id":1259775165,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1259775165,
+    "wof:lastmodified":1536935940,
+    "wof:name":"Ehrenstall",
+    "wof:parent_id":1108837717,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78404,
+    47.4021,
+    11.78404,
+    47.4021
+],
+  "geometry": {"coordinates":[11.78404,47.4021],"type":"Point"}
+}

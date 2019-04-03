@@ -1,0 +1,74 @@
+{
+  "id": 1259882909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82639,46.93833,14.82639,46.93833",
+    "geom:latitude":46.93833,
+    "geom:longitude":14.82639,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"209",
+    "gn:admin3_code":"20901.0",
+    "gn:asciiname":"Mauterndorf",
+    "gn:country_code":"AT",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324786,
+    "gn:latitude":46.93833,
+    "gn:longitude":14.82639,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mauterndorf",
+    "gn:population":81,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838393,
+        85632785,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324786
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0813a9b4eb506afa810ce535c61d720b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838393,
+            "locality_id":1259882909,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259882909,
+    "wof:lastmodified":1536780479,
+    "wof:name":"Mauterndorf",
+    "wof:parent_id":1108838393,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82639,
+    46.93833,
+    14.82639,
+    46.93833
+],
+  "geometry": {"coordinates":[14.82639,46.93833],"type":"Point"}
+}

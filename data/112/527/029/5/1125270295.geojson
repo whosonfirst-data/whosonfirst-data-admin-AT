@@ -1,0 +1,82 @@
+{
+  "id": 1125270295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64892,48.38767,13.64892,48.38767",
+    "geom:latitude":48.38767,
+    "geom:longitude":13.64892,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1788,
+    "gn:population":1786,
+    "iso:country":"AT",
+    "lbl:latitude":48.38767,
+    "lbl:longitude":13.64892,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872125,
+    "qs_pg:gn_pop":1788,
+    "qs_pg:name":"Enzenkirchen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743347,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872125,
+        "qs_pg:id":743347
+    },
+    "wof:country":"AT",
+    "wof:created":1497042098,
+    "wof:geomhash":"0715b855f0038b0f9c9af4eb27a0d1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1125270295,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125270295,
+    "wof:lastmodified":1536698108,
+    "wof:name":"Enzenkirchen",
+    "wof:parent_id":102049877,
+    "wof:placetype":"localadmin",
+    "wof:population":1786,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836039
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64892,
+    48.38767,
+    13.64892,
+    48.38767
+],
+  "geometry": {"coordinates":[13.64892,48.38767],"type":"Point"}
+}

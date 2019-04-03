@@ -1,0 +1,74 @@
+{
+  "id": 1293786123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74633,47.67648,15.74633,47.67648",
+    "geom:latitude":47.67648,
+    "geom:longitude":15.74633,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"318",
+    "gn:admin3_code":"31829.0",
+    "gn:asciiname":"Griesleiten",
+    "gn:country_code":"AT",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777967,
+    "gn:latitude":47.67648,
+    "gn:longitude":15.74633,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Griesleiten",
+    "gn:population":25,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834923,
+        85632785,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777967
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"52e763391b3fe5bd6ebc3a9a71d2506d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108834923,
+            "locality_id":1293786123,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293786123,
+    "wof:lastmodified":1536852490,
+    "wof:name":"Griesleiten",
+    "wof:parent_id":1108834923,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74633,
+    47.67648,
+    15.74633,
+    47.67648
+],
+  "geometry": {"coordinates":[15.74633,47.67648],"type":"Point"}
+}

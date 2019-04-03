@@ -1,0 +1,77 @@
+{
+  "id": 1260179461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51751,46.83761,15.51751,46.83761",
+    "geom:latitude":46.83761,
+    "geom:longitude":15.51751,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"610",
+    "gn:admin3_code":"61020.0",
+    "gn:asciiname":"Joess",
+    "gn:country_code":"AT",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775024,
+    "gn:latitude":46.83761,
+    "gn:longitude":15.51751,
+    "gn:modification_date":"2018-07-30",
+    "gn:name":"J\u00f6ss",
+    "gn:population":317,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "J\u00f6\u00df"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839049,
+        85632785,
+        102049699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775024
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8a08898526bd214df91138387ba37503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839049,
+            "locality_id":1260179461,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1260179461,
+    "wof:lastmodified":1537584963,
+    "wof:name":"Joess",
+    "wof:parent_id":1108839049,
+    "wof:placetype":"locality",
+    "wof:population":317,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51751,
+    46.83761,
+    15.51751,
+    46.83761
+],
+  "geometry": {"coordinates":[15.51751,46.83761],"type":"Point"}
+}

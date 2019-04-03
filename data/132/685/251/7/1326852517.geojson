@@ -1,0 +1,71 @@
+{
+  "id": 1326852517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,47.55,14.11667,47.55",
+    "geom:latitude":47.55,
+    "geom:longitude":14.11667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61267.0",
+    "gn:asciiname":"Stein",
+    "gn:country_code":"AT",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764565,
+    "gn:latitude":47.55,
+    "gn:longitude":14.11667,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Stein",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838891,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764565
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"efe82585ebb6100464f9d3c3b1f0352a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838891,
+            "locality_id":1326852517,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1326852517,
+    "wof:lastmodified":1537018769,
+    "wof:name":"Stein",
+    "wof:parent_id":1108838891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    47.55,
+    14.11667,
+    47.55
+],
+  "geometry": {"coordinates":[14.11667,47.55],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 85898599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":20462513.98126,
+    "geom:bbox":"11.45034,47.276664,11.45034,47.276664",
+    "geom:latitude":47.276664,
+    "geom:longitude":11.45034,
+    "iso:country":"AT",
+    "lbl:latitude":47.276664,
+    "lbl:longitude":11.45034,
+    "mps:latitude":47.284455,
+    "mps:longitude":11.444003,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Arzl"
+    ],
+    "name:eng_x_preferred":[
+        "Neu-arzl"
+    ],
+    "name:eng_x_variant":[
+        "Neu-arzl"
+    ],
+    "name:unk_x_variant":[
+        "Arzl"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_nam_loc":"Innsbruck, Innsbruck Stadt, Tirol, AT",
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Arzl",
+    "qs:local_max":14861,
+    "qs:local_sum":30769,
+    "qs:localhoods":15,
+    "qs:name":"Arzl",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Tirol",
+    "qs:name_adm2":"Innsbruck-Stadt",
+    "qs:name_en":"Neu-arzl",
+    "qs:name_lau":"Innsbruck",
+    "qs:name_local":"Innsbruck",
+    "qs:photo_max":318,
+    "qs:photo_sum":493,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":30,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344714,
+    "qs:woe_adm2":12591747,
+    "qs:woe_lau":12675340,
+    "qs:woe_local":12675340,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1108837605,
+        85632785,
+        102049735,
+        85681661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782383,
+        "gp:id":550437,
+        "qs:id":1156306
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"25df8d2af089240e78914be7ffac852d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837605,
+            "locality_id":-1,
+            "neighbourhood_id":85898599,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":85898599,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932096,
+    "wof:name":"Arzl",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45034,
+    47.276664,
+    11.45034,
+    47.276664
+],
+  "geometry": {"coordinates":[11.45034,47.276664],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209949555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5276,48.15289,13.5276,48.15289",
+    "geom:latitude":48.15289,
+    "geom:longitude":13.5276,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41204.0",
+    "gn:asciiname":"Putting",
+    "gn:country_code":"AT",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611582,
+    "gn:latitude":48.15289,
+    "gn:longitude":13.5276,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Putting",
+    "gn:population":21,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835633,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611582
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0e7fa7ef2956ded7b408303f083dd445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835633,
+            "locality_id":1209949555,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1209949555,
+    "wof:lastmodified":1536384816,
+    "wof:name":"Putting",
+    "wof:parent_id":1108835633,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5276,
+    48.15289,
+    13.5276,
+    48.15289
+],
+  "geometry": {"coordinates":[13.5276,48.15289],"type":"Point"}
+}

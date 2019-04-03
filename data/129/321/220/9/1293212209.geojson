@@ -1,0 +1,74 @@
+{
+  "id": 1293212209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98459,48.24034,15.98459,48.24034",
+    "geom:latitude":48.24034,
+    "geom:longitude":15.98459,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"321.0",
+    "gn:admin3_code":"32131.0",
+    "gn:asciiname":"Roehrenbach",
+    "gn:country_code":"AT",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767274,
+    "gn:latitude":48.24034,
+    "gn:longitude":15.98459,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"R\u00f6hrenbach",
+    "gn:population":160,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835869,
+        85632785,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767274
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c0c8ba31493d9f6fe3900d83ae093737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108835869,
+            "locality_id":1293212209,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293212209,
+    "wof:lastmodified":1536686877,
+    "wof:name":"Roehrenbach",
+    "wof:parent_id":1108835869,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98459,
+    48.24034,
+    15.98459,
+    48.24034
+],
+  "geometry": {"coordinates":[15.98459,48.24034],"type":"Point"}
+}

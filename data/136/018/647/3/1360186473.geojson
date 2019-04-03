@@ -1,0 +1,74 @@
+{
+  "id": 1360186473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98047,47.67417,15.98047,47.67417",
+    "geom:latitude":47.67417,
+    "geom:longitude":15.98047,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"318",
+    "gn:admin3_code":"31808.0",
+    "gn:asciiname":"Koettlach",
+    "gn:country_code":"AT",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773647,
+    "gn:latitude":47.67417,
+    "gn:longitude":15.98047,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"K\u00f6ttlach",
+    "gn:population":402,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834931,
+        85632785,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773647
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e5060e422d2c4557ef45260868a5c6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108834931,
+            "locality_id":1360186473,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1360186473,
+    "wof:lastmodified":1536799445,
+    "wof:name":"Koettlach",
+    "wof:parent_id":1108834931,
+    "wof:placetype":"locality",
+    "wof:population":402,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98047,
+    47.67417,
+    15.98047,
+    47.67417
+],
+  "geometry": {"coordinates":[15.98047,47.67417],"type":"Point"}
+}

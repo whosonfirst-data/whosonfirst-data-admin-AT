@@ -1,0 +1,110 @@
+{
+  "id": 1125325117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86208,48.11248,16.86208,48.11248",
+    "geom:latitude":48.11248,
+    "geom:longitude":16.86208,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1193,
+    "gn:population":1275,
+    "iso:country":"AT",
+    "lbl:latitude":48.11248,
+    "lbl:longitude":16.86208,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043d\u0435\u043b\u043b\u044c-\u041a\u0430\u0440\u043d\u0443\u043d\u0442\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043d\u0435\u043b\u043b\u044c-\u041a\u0430\u0440\u043d\u0443\u043d\u0442\u0443\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Petronell"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u7279\u7f57\u5185\u5c14-\u5361\u519c\u56fe\u59c6"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871723,
+    "qs_pg:gn_pop":1193,
+    "qs_pg:name":"Petronell-Carnuntum",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":622,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":904266,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674194,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871723,
+        "gp:id":12674194,
+        "qs_pg:id":904266
+    },
+    "wof:concordances_alt":{
+        "gn:id":2769013,
+        "qs_pg:id":224006
+    },
+    "wof:country":"AT",
+    "wof:created":1497044755,
+    "wof:geomhash":"2547ebf9d77642d245db5b4c628979b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1125325117,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125325117,
+    "wof:lastmodified":1536698162,
+    "wof:name":"Petronell-Carnuntum",
+    "wof:parent_id":102049845,
+    "wof:placetype":"localadmin",
+    "wof:population":1275,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836731
+    ],
+    "wof:supersedes":[
+        1125391073
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86208,
+    48.11248,
+    16.86208,
+    48.11248
+],
+  "geometry": {"coordinates":[16.86208,48.11248],"type":"Point"}
+}

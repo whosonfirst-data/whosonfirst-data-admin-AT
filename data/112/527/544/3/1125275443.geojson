@@ -1,0 +1,82 @@
+{
+  "id": 1125275443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73592,47.18136,15.73592,47.18136",
+    "geom:latitude":47.18136,
+    "geom:longitude":15.73592,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":382,
+    "gn:population":382,
+    "iso:country":"AT",
+    "lbl:latitude":47.18136,
+    "lbl:longitude":15.73592,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873574,
+    "qs_pg:gn_pop":382,
+    "qs_pg:name":"Pre\u00dfguts",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108986,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873574,
+        "qs_pg:id":108986
+    },
+    "wof:country":"AT",
+    "wof:created":1497042291,
+    "wof:geomhash":"d78f9da85ba4cdf1335d97447ff052c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125275443,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125275443,
+    "wof:lastmodified":1536698125,
+    "wof:name":"Pre\u00dfguts",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":382,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838879
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73592,
+    47.18136,
+    15.73592,
+    47.18136
+],
+  "geometry": {"coordinates":[15.73592,47.18136],"type":"Point"}
+}

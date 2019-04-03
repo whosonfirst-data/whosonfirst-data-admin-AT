@@ -1,0 +1,78 @@
+{
+  "id": 1259380455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69576,47.16161,14.69576,47.16161",
+    "geom:latitude":47.16161,
+    "geom:longitude":14.69576,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"620.0",
+    "gn:admin3_code":"62048.0",
+    "gn:asciiname":"Woellmerdorf",
+    "gn:country_code":"AT",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760870,
+    "gn:latitude":47.16161,
+    "gn:longitude":14.69576,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"W\u00f6llmerdorf",
+    "gn:population":79,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u00f6llmersdorf",
+        "W\u00f6llmerdorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838937,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760870
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f688114be3447dd8e892f197bf1853e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108838937,
+            "locality_id":1259380455,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259380455,
+    "wof:lastmodified":1537584912,
+    "wof:name":"Woellmerdorf",
+    "wof:parent_id":1108838937,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69576,
+    47.16161,
+    14.69576,
+    47.16161
+],
+  "geometry": {"coordinates":[14.69576,47.16161],"type":"Point"}
+}

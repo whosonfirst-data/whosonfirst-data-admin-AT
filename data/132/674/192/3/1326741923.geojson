@@ -1,0 +1,74 @@
+{
+  "id": 1326741923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.81667,48.05,16.81667,48.05",
+    "geom:latitude":48.05,
+    "geom:longitude":16.81667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"307.0",
+    "gn:admin3_code":"30721.0",
+    "gn:asciiname":"Pachfurth",
+    "gn:country_code":"AT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769302,
+    "gn:latitude":48.05,
+    "gn:longitude":16.81667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pachfurth",
+    "gn:population":655,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836309,
+        85632785,
+        102049845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769302
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2c943bd2ce702a58545cd1d097b049a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836309,
+            "locality_id":1326741923,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1326741923,
+    "wof:lastmodified":1536681662,
+    "wof:name":"Pachfurth",
+    "wof:parent_id":1108836309,
+    "wof:placetype":"locality",
+    "wof:population":655,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81667,
+    48.05,
+    16.81667,
+    48.05
+],
+  "geometry": {"coordinates":[16.81667,48.05],"type":"Point"}
+}

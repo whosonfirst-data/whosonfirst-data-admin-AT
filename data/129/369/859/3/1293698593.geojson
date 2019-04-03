@@ -1,0 +1,74 @@
+{
+  "id": 1293698593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,48.95,15.3,48.95",
+    "geom:latitude":48.95,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"322.0",
+    "gn:admin3_code":"32203.0",
+    "gn:asciiname":"Reibers",
+    "gn:country_code":"AT",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767786,
+    "gn:latitude":48.95,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reibers",
+    "gn:population":97,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836229,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767786
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c8754e29839d7ebb5114b33f39e5cfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836229,
+            "locality_id":1293698593,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293698593,
+    "wof:lastmodified":1536979336,
+    "wof:name":"Reibers",
+    "wof:parent_id":1108836229,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    48.95,
+    15.3,
+    48.95
+],
+  "geometry": {"coordinates":[15.3,48.95],"type":"Point"}
+}

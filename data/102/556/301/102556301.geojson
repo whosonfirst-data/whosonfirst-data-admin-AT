@@ -1,0 +1,71 @@
+{
+  "id": 102556301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0837,47.062,16.0837,47.062",
+    "geom:latitude":47.062,
+    "geom:longitude":16.0837,
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "F\u00fcrstenfeld Airport"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00fcrstenfeld Airport"
+    ],
+    "oa:elevation_ft":"830",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591663,
+        "localadmin_id":12675058,
+        "planet_id":1,
+        "state_id":2344713
+    },
+    "wof:belongsto":[
+        85632785,
+        85681687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051698,
+        "icao:code":"LOGF",
+        "oa:id":"29449",
+        "wd:id":"Q16838004"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"41bb8e60bca02b53259cbb3f44c65736",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556301,
+            "country_id":85632785,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":102556301,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Flugplatz F\u00fcrstenfeld",
+    "wof:parent_id":85681687,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.0837,
+    47.062,
+    16.0837,
+    47.062
+],
+  "geometry": {"coordinates":[16.0837,47.062],"type":"Point"}
+}

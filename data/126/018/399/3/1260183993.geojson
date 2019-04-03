@@ -1,0 +1,74 @@
+{
+  "id": 1260183993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99432,47.77654,14.99432,47.77654",
+    "geom:latitude":47.77654,
+    "geom:longitude":14.99432,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"320.0",
+    "gn:admin3_code":"32002.0",
+    "gn:asciiname":"Steinbach",
+    "gn:country_code":"AT",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764542,
+    "gn:latitude":47.77654,
+    "gn:longitude":14.99432,
+    "gn:modification_date":"2014-10-14",
+    "gn:name":"Steinbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Steinbach bei G\u00f6stling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835773,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764542
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fc6bcda456e29935f8c0952fa7b49532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835773,
+            "locality_id":1260183993,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1260183993,
+    "wof:lastmodified":1537584923,
+    "wof:name":"Steinbach",
+    "wof:parent_id":1108835773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99432,
+    47.77654,
+    14.99432,
+    47.77654
+],
+  "geometry": {"coordinates":[14.99432,47.77654],"type":"Point"}
+}

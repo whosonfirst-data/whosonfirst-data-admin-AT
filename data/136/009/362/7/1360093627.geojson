@@ -1,0 +1,74 @@
+{
+  "id": 1360093627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8159,46.7103,12.8159,46.7103",
+    "geom:latitude":46.7103,
+    "geom:longitude":12.8159,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20321.0",
+    "gn:asciiname":"Ladstatt",
+    "gn:country_code":"AT",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594200,
+    "gn:latitude":46.7103,
+    "gn:longitude":12.8159,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ladstatt",
+    "gn:population":14,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838161,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594200
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"32320ec9be4f41ba4276e1a2d5c78aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838161,
+            "locality_id":1360093627,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1360093627,
+    "wof:lastmodified":1536934028,
+    "wof:name":"Ladstatt",
+    "wof:parent_id":1108838161,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8159,
+    46.7103,
+    12.8159,
+    46.7103
+],
+  "geometry": {"coordinates":[12.8159,46.7103],"type":"Point"}
+}

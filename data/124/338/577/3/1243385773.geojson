@@ -1,0 +1,77 @@
+{
+  "id": 1243385773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04699,47.42668,15.04699,47.42668",
+    "geom:latitude":47.42668,
+    "geom:longitude":15.04699,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"611",
+    "gn:admin3_code":"61120.0",
+    "gn:asciiname":"Laintal Zwei",
+    "gn:country_code":"AT",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773125,
+    "gn:latitude":47.42668,
+    "gn:longitude":15.04699,
+    "gn:modification_date":"2017-06-21",
+    "gn:name":"Laintal Zwei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lainthal",
+        "Laintal II",
+        "Laintal Zwei",
+        "Lainthal Zwei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838989,
+        85632785,
+        102049769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773125
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"375e2310baa796de4fbe791ae6b86e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838989,
+            "locality_id":1243385773,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243385773,
+    "wof:lastmodified":1537584958,
+    "wof:name":"Laintal Zwei",
+    "wof:parent_id":1108838989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04699,
+    47.42668,
+    15.04699,
+    47.42668
+],
+  "geometry": {"coordinates":[15.04699,47.42668],"type":"Point"}
+}

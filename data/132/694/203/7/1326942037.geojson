@@ -1,0 +1,74 @@
+{
+  "id": 1326942037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5611,48.38419,15.5611,48.38419",
+    "geom:latitude":48.38419,
+    "geom:longitude":15.5611,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"313",
+    "gn:admin3_code":"31327.0",
+    "gn:asciiname":"Mauternbach",
+    "gn:country_code":"AT",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771765,
+    "gn:latitude":48.38419,
+    "gn:longitude":15.5611,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mauternbach",
+    "gn:population":251,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835843,
+        85632785,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771765
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5d61340ab0a49eda009d6d83dcaeeb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835843,
+            "locality_id":1326942037,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1326942037,
+    "wof:lastmodified":1536890249,
+    "wof:name":"Mauternbach",
+    "wof:parent_id":1108835843,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5611,
+    48.38419,
+    15.5611,
+    48.38419
+],
+  "geometry": {"coordinates":[15.5611,48.38419],"type":"Point"}
+}

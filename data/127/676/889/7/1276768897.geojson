@@ -1,0 +1,79 @@
+{
+  "id": 1276768897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35053,47.99406,13.35053,47.99406",
+    "geom:latitude":47.99406,
+    "geom:longitude":13.35053,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41726.0",
+    "gn:asciiname":"Obermuehlham",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769910,
+    "gn:latitude":47.99406,
+    "gn:longitude":13.35053,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberm\u00fchlham",
+    "gn:population":287,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00fchlham",
+        "Oberm\u00fchlham"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836475,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769910
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"96cc02b09fb8e3f995a6ff5e7decc0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836475,
+            "locality_id":1276768897,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276768897,
+    "wof:lastmodified":1537584946,
+    "wof:name":"Obermuehlham",
+    "wof:parent_id":1108836475,
+    "wof:placetype":"locality",
+    "wof:population":287,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35053,
+    47.99406,
+    13.35053,
+    47.99406
+],
+  "geometry": {"coordinates":[13.35053,47.99406],"type":"Point"}
+}

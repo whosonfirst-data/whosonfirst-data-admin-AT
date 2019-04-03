@@ -1,0 +1,75 @@
+{
+  "id": 1293396041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07716,48.26131,13.07716,48.26131",
+    "geom:latitude":48.26131,
+    "geom:longitude":13.07716,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40438.0",
+    "gn:asciiname":"Reikersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767727,
+    "gn:latitude":48.26131,
+    "gn:longitude":13.07716,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reikersdorf",
+    "gn:population":268,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834791,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767727,
+        "wk:page":"Reikersdorf"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cef3587356ae9a61b0d03df6f3257e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834791,
+            "locality_id":1293396041,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293396041,
+    "wof:lastmodified":1537486370,
+    "wof:name":"Reikersdorf",
+    "wof:parent_id":1108834791,
+    "wof:placetype":"locality",
+    "wof:population":268,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07716,
+    48.26131,
+    13.07716,
+    48.26131
+],
+  "geometry": {"coordinates":[13.07716,48.26131],"type":"Point"}
+}

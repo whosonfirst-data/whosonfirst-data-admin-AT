@@ -1,0 +1,76 @@
+{
+  "id": 101827457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":957395.127882,
+    "geom:bbox":"9.65959111284,47.2753853384,9.67643511288,47.2910157624",
+    "geom:latitude":47.283236,
+    "geom:longitude":9.667392,
+    "iso:country":"AT",
+    "lbl:latitude":47.285044,
+    "lbl:longitude":9.666116,
+    "mps:latitude":47.285044,
+    "mps:longitude":9.666116,
+    "mz:hierarchy_label":1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Vorarlberg",
+    "qs:a1r":"0",
+    "qs:a2":"Feldkirch",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Lochau",
+    "qs:la_lc":"*AT80226",
+    "qs:level":"locality",
+    "qs:loc":"Muntlix",
+    "qs:loc_alt":"Muntlix",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838093,
+        85632785,
+        102049725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771024,
+        "gp:id":551622,
+        "qs:id":1020390
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1d874d95501976275e92634b0d994bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1108838093,
+            "locality_id":101827457,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":101827457,
+    "wof:lastmodified":1496616685,
+    "wof:name":"Muntlix",
+    "wof:parent_id":1108838093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65959111283667,
+    47.27538533843654,
+    9.67643511287997,
+    47.29101576243932
+],
+  "geometry": {"coordinates":[[[9.6673214749697,47.27627778237502],[9.65959111283667,47.28853307482046],[9.66842317261319,47.29101576243932],[9.66843673996613,47.28888347619522],[9.67107864759834,47.28889150046746],[9.67108432863478,47.28799135945366],[9.66976339754012,47.28798735542154],[9.66979761533815,47.2825865010393],[9.67243920398073,47.28259449209924],[9.67246748381382,47.27809376781477],[9.67642952607144,47.27810563287642],[9.67643511287997,47.27720548652746],[9.67511445474742,47.27720154762972],[9.67512006410965,47.27630140094084],[9.67115815920988,47.2762894882211],[9.6711638367243,47.27538934135083],[9.66984322492505,47.27538533843654],[9.66983752461033,47.27628548522694],[9.6673214749697,47.27627778237502]]],"type":"Polygon"}
+}

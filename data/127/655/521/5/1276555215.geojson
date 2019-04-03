@@ -1,0 +1,74 @@
+{
+  "id": 1276555215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37897,48.05755,15.37897,48.05755",
+    "geom:latitude":48.05755,
+    "geom:longitude":15.37897,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31514.0",
+    "gn:asciiname":"Glosbach",
+    "gn:country_code":"AT",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778452,
+    "gn:latitude":48.05755,
+    "gn:longitude":15.37897,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Glosbach",
+    "gn:population":26,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836335,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778452
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8939c9792a69dfe596c47d05b646ab05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836335,
+            "locality_id":1276555215,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276555215,
+    "wof:lastmodified":1536978102,
+    "wof:name":"Glosbach",
+    "wof:parent_id":1108836335,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37897,
+    48.05755,
+    15.37897,
+    48.05755
+],
+  "geometry": {"coordinates":[15.37897,48.05755],"type":"Point"}
+}

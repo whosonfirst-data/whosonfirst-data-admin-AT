@@ -1,0 +1,93 @@
+{
+  "id": 1125930319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7025,46.68667,13.7025,46.68667",
+    "geom:latitude":46.68667,
+    "geom:longitude":13.7025,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.68667,
+    "lbl:longitude":13.7025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Feffernitz"
+    ],
+    "name:eng_x_preferred":[
+        "Feffernitz"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2779771,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Feffernitz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182346,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":539395,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838361,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779771,
+        "gp:id":539395,
+        "qs_pg:id":182346,
+        "wd:id":"Q5441483"
+    },
+    "wof:country":"AT",
+    "wof:created":1497296783,
+    "wof:geomhash":"79ea7932c229510a4f12ac0b8581eef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838361,
+            "locality_id":1125930319,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125930319,
+    "wof:lastmodified":1513889701,
+    "wof:name":"Feffernitz",
+    "wof:parent_id":1108838361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7025,
+    46.68667,
+    13.7025,
+    46.68667
+],
+  "geometry": {"coordinates":[13.7025,46.68667],"type":"Point"}
+}

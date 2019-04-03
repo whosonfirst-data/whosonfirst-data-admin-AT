@@ -1,0 +1,74 @@
+{
+  "id": 1344160199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97972,46.66306,13.97972,46.66306",
+    "geom:latitude":46.66306,
+    "geom:longitude":13.97972,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21006.0",
+    "gn:asciiname":"Ostriach",
+    "gn:country_code":"AT",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769370,
+    "gn:latitude":46.66306,
+    "gn:longitude":13.97972,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ostriach",
+    "gn:population":181,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838131,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769370
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9ee0117025b03b8f4bdd90a80f014c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838131,
+            "locality_id":1344160199,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1344160199,
+    "wof:lastmodified":1536731918,
+    "wof:name":"Ostriach",
+    "wof:parent_id":1108838131,
+    "wof:placetype":"locality",
+    "wof:population":181,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97972,
+    46.66306,
+    13.97972,
+    46.66306
+],
+  "geometry": {"coordinates":[13.97972,46.66306],"type":"Point"}
+}

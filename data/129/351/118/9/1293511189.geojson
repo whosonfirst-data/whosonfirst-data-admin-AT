@@ -1,0 +1,71 @@
+{
+  "id": 1293511189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18969,47.26283,10.18969,47.26283",
+    "geom:latitude":47.26283,
+    "geom:longitude":10.18969,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"708",
+    "gn:admin3_code":"70831.0",
+    "gn:asciiname":"Gehren",
+    "gn:country_code":"AT",
+    "gn:dem":1432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778756,
+    "gn:latitude":47.26283,
+    "gn:longitude":10.18969,
+    "gn:modification_date":"2014-10-23",
+    "gn:name":"Gehren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837775,
+        85632785,
+        102049745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778756
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"84d0e752505dede9cd1aed43f92eb351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837775,
+            "locality_id":1293511189,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1293511189,
+    "wof:lastmodified":1536752896,
+    "wof:name":"Gehren",
+    "wof:parent_id":1108837775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18969,
+    47.26283,
+    10.18969,
+    47.26283
+],
+  "geometry": {"coordinates":[10.18969,47.26283],"type":"Point"}
+}

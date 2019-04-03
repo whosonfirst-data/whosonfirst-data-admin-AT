@@ -1,0 +1,74 @@
+{
+  "id": 1209715951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49533,48.39308,13.49533,48.39308",
+    "geom:latitude":48.39308,
+    "geom:longitude":13.49533,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41426.0",
+    "gn:asciiname":"Schratzberg",
+    "gn:country_code":"AT",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610421,
+    "gn:latitude":48.39308,
+    "gn:longitude":13.49533,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schratzberg",
+    "gn:population":21,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836079,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610421
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2584e99c90bf5ecd59c1b395d7428a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836079,
+            "locality_id":1209715951,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1209715951,
+    "wof:lastmodified":1536388566,
+    "wof:name":"Schratzberg",
+    "wof:parent_id":1108836079,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49533,
+    48.39308,
+    13.49533,
+    48.39308
+],
+  "geometry": {"coordinates":[13.49533,48.39308],"type":"Point"}
+}

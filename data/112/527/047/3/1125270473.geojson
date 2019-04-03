@@ -1,0 +1,82 @@
+{
+  "id": 1125270473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79657,47.28029,14.79657,47.28029",
+    "geom:latitude":47.28029,
+    "geom:longitude":14.79657,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1285,
+    "gn:population":1279,
+    "iso:country":"AT",
+    "lbl:latitude":47.28029,
+    "lbl:longitude":14.79657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872398,
+    "qs_pg:gn_pop":1285,
+    "qs_pg:name":"Seckau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743399,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872398,
+        "qs_pg:id":743399
+    },
+    "wof:country":"AT",
+    "wof:created":1497042104,
+    "wof:geomhash":"94c891cdad2633111e4a78fb2b8b116e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1125270473,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125270473,
+    "wof:lastmodified":1534531004,
+    "wof:name":"Seckau",
+    "wof:parent_id":1108892555,
+    "wof:placetype":"localadmin",
+    "wof:population":1279,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839417
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79657,
+    47.28029,
+    14.79657,
+    47.28029
+],
+  "geometry": {"coordinates":[14.79657,47.28029],"type":"Point"}
+}

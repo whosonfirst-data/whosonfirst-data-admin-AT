@@ -1,0 +1,71 @@
+{
+  "id": 1242763247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65645,47.43524,9.65645,47.43524",
+    "geom:latitude":47.43524,
+    "geom:longitude":9.65645,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80303.0",
+    "gn:asciiname":"Rheindorf",
+    "gn:country_code":"AT",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767506,
+    "gn:latitude":47.43524,
+    "gn:longitude":9.65645,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Rheindorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        102049737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767506
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c252dc81f5e78e5e280d7454ecfff498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":1242763247,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1242763247,
+    "wof:lastmodified":1536796532,
+    "wof:name":"Rheindorf",
+    "wof:parent_id":1108838001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65645,
+    47.43524,
+    9.65645,
+    47.43524
+],
+  "geometry": {"coordinates":[9.65645,47.43524],"type":"Point"}
+}

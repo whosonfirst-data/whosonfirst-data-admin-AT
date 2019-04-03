@@ -1,0 +1,79 @@
+{
+  "id": 1260184009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66667,48.75,16.66667,48.75",
+    "geom:latitude":48.75,
+    "geom:longitude":16.66667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"316.0",
+    "gn:admin3_code":"31606.0",
+    "gn:asciiname":"Steinebrunn",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764559,
+    "gn:latitude":48.75,
+    "gn:longitude":16.66667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Steinebrunn",
+    "gn:population":289,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Steinabrunn",
+        "Steinebrunn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836233,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764559
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"be6053c12c7fbfa84887fbb04f7e209f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836233,
+            "locality_id":1260184009,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1260184009,
+    "wof:lastmodified":1537584923,
+    "wof:name":"Steinebrunn",
+    "wof:parent_id":1108836233,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66667,
+    48.75,
+    16.66667,
+    48.75
+],
+  "geometry": {"coordinates":[16.66667,48.75],"type":"Point"}
+}

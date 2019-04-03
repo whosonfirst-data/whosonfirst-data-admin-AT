@@ -1,0 +1,63 @@
+{
+  "id": 1209212513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,47.43333,15.91667,47.43333",
+    "geom:latitude":47.43333,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"62278.0",
+    "gn:asciiname":"Weissenbach",
+    "gn:country_code":"AT",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761636,
+    "gn:latitude":47.43333,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Weissenbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761636
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"738f06a5b1f24622fc7fcf6bca952fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209212513
+        }
+    ],
+    "wof:id":1209212513,
+    "wof:lastmodified":1536294243,
+    "wof:name":"Weissenbach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.916670000000002,
+    47.43333,
+    15.916670000000002,
+    47.43333
+],
+  "geometry": {"coordinates":[15.91667,47.43333],"type":"Point"}
+}

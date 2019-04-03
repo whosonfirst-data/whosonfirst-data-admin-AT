@@ -1,0 +1,63 @@
+{
+  "id": 1209626927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85,48.4,16.85,48.4",
+    "geom:latitude":48.4,
+    "geom:longitude":16.85,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"308.0",
+    "gn:admin3_code":"30803.0",
+    "gn:asciiname":"Kleinstillfried",
+    "gn:country_code":"AT",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2599093,
+    "gn:latitude":48.4,
+    "gn:longitude":16.85,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Kleinstillfried",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2599093
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b7f9810f965e3ca67b583920245a2c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209626927
+        }
+    ],
+    "wof:id":1209626927,
+    "wof:lastmodified":1536281325,
+    "wof:name":"Kleinstillfried",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85,
+    48.4,
+    16.85,
+    48.4
+],
+  "geometry": {"coordinates":[16.85,48.4],"type":"Point"}
+}

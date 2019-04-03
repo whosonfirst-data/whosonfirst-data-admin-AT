@@ -1,0 +1,71 @@
+{
+  "id": 1276240143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99558,47.86189,15.99558,47.86189",
+    "geom:latitude":47.86189,
+    "geom:longitude":15.99558,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"323",
+    "gn:admin3_code":"32321.0",
+    "gn:asciiname":"Krottenbach",
+    "gn:country_code":"AT",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773369,
+    "gn:latitude":47.86189,
+    "gn:longitude":15.99558,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Krottenbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836193,
+        85632785,
+        102049805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773369
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"99c58df1e71cd09881549672357a1f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108836193,
+            "locality_id":1276240143,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276240143,
+    "wof:lastmodified":1536903605,
+    "wof:name":"Krottenbach",
+    "wof:parent_id":1108836193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99558,
+    47.86189,
+    15.99558,
+    47.86189
+],
+  "geometry": {"coordinates":[15.99558,47.86189],"type":"Point"}
+}

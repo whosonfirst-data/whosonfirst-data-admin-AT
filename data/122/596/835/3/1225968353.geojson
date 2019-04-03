@@ -1,0 +1,74 @@
+{
+  "id": 1225968353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52803,48.06426,13.52803,48.06426",
+    "geom:latitude":48.06426,
+    "geom:longitude":13.52803,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41716.0",
+    "gn:asciiname":"Winteredt",
+    "gn:country_code":"AT",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612227,
+    "gn:latitude":48.06426,
+    "gn:longitude":13.52803,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Winteredt",
+    "gn:population":58,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836453,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612227
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4ab08330f3a7f7b42e958d152f4480b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836453,
+            "locality_id":1225968353,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225968353,
+    "wof:lastmodified":1536835657,
+    "wof:name":"Winteredt",
+    "wof:parent_id":1108836453,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52803,
+    48.06426,
+    13.52803,
+    48.06426
+],
+  "geometry": {"coordinates":[13.52803,48.06426],"type":"Point"}
+}

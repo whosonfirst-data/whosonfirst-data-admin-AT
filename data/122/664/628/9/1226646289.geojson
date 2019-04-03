@@ -1,0 +1,74 @@
+{
+  "id": 1226646289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7575,48.50278,13.7575,48.50278",
+    "geom:latitude":48.50278,
+    "geom:longitude":13.7575,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41329.0",
+    "gn:asciiname":"Puehret",
+    "gn:country_code":"AT",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319364,
+    "gn:latitude":48.50278,
+    "gn:longitude":13.7575,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"P\u00fchret",
+    "gn:population":110,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835993,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319364
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"08ae0c12315c20281eba1b74942a47fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835993,
+            "locality_id":1226646289,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226646289,
+    "wof:lastmodified":1536857377,
+    "wof:name":"Puehret",
+    "wof:parent_id":1108835993,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7575,
+    48.50278,
+    13.7575,
+    48.50278
+],
+  "geometry": {"coordinates":[13.7575,48.50278],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343865877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68056,48.81528,15.68056,48.81528",
+    "geom:latitude":48.81528,
+    "geom:longitude":15.68056,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"311.0",
+    "gn:admin3_code":"31107.0",
+    "gn:asciiname":"Geras-Kottaun",
+    "gn:country_code":"AT",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2606441,
+    "gn:latitude":48.81528,
+    "gn:longitude":15.68056,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Geras-Kottaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835299,
+        85632785,
+        102049901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2606441
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"645ec01bee20edac3ee6d20b4216cea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108835299,
+            "locality_id":1343865877,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343865877,
+    "wof:lastmodified":1536658834,
+    "wof:name":"Geras-Kottaun",
+    "wof:parent_id":1108835299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68056,
+    48.81528,
+    15.68056,
+    48.81528
+],
+  "geometry": {"coordinates":[15.68056,48.81528],"type":"Point"}
+}

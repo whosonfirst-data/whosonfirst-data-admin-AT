@@ -1,0 +1,71 @@
+{
+  "id": 1226540967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17442,48.56337,14.17442,48.56337",
+    "geom:latitude":48.56337,
+    "geom:longitude":14.17442,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41340.0",
+    "gn:asciiname":"Piberschlag",
+    "gn:country_code":"AT",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768896,
+    "gn:latitude":48.56337,
+    "gn:longitude":14.17442,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Piberschlag",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836017,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768896
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ffe5e59cd802bd07d826b472b0a49e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836017,
+            "locality_id":1226540967,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226540967,
+    "wof:lastmodified":1537004189,
+    "wof:name":"Piberschlag",
+    "wof:parent_id":1108836017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17442,
+    48.56337,
+    14.17442,
+    48.56337
+],
+  "geometry": {"coordinates":[14.17442,48.56337],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209247939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74003,48.26177,13.74003,48.26177",
+    "geom:latitude":48.26177,
+    "geom:longitude":13.74003,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40829.0",
+    "gn:asciiname":"Grubhof",
+    "gn:country_code":"AT",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609202,
+    "gn:latitude":48.26177,
+    "gn:longitude":13.74003,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Grubhof",
+    "gn:population":4,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609202
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"af424d83e24d169fe0e396a88029b83c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209247939
+        }
+    ],
+    "wof:id":1209247939,
+    "wof:lastmodified":1536293099,
+    "wof:name":"Grubhof",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74003,
+    48.26177,
+    13.74003,
+    48.26177
+],
+  "geometry": {"coordinates":[13.74003,48.26177],"type":"Point"}
+}

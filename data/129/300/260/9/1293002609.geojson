@@ -1,0 +1,74 @@
+{
+  "id": 1293002609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18333,48.8,15.18333,48.8",
+    "geom:latitude":48.8,
+    "geom:longitude":15.18333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"322",
+    "gn:admin3_code":"32221.0",
+    "gn:asciiname":"Edelprinz",
+    "gn:country_code":"AT",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780459,
+    "gn:latitude":48.8,
+    "gn:longitude":15.18333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Edelprinz",
+    "gn:population":66,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836275,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780459
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"66b35eb8c790583e59a9964c5a3c250f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836275,
+            "locality_id":1293002609,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293002609,
+    "wof:lastmodified":1536988204,
+    "wof:name":"Edelprinz",
+    "wof:parent_id":1108836275,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18333,
+    48.8,
+    15.18333,
+    48.8
+],
+  "geometry": {"coordinates":[15.18333,48.8],"type":"Point"}
+}

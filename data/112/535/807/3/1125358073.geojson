@@ -1,0 +1,82 @@
+{
+  "id": 1125358073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03323,48.10425,17.03323,48.10425",
+    "geom:latitude":48.10425,
+    "geom:longitude":17.03323,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":689,
+    "gn:population":840,
+    "iso:country":"AT",
+    "lbl:latitude":48.10425,
+    "lbl:longitude":17.03323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872848,
+    "qs_pg:gn_pop":689,
+    "qs_pg:name":"Berg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743435,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872848,
+        "qs_pg:id":743435
+    },
+    "wof:country":"AT",
+    "wof:created":1497046605,
+    "wof:geomhash":"28802fa25d32303bcd61bb06f99972dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1125358073,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125358073,
+    "wof:lastmodified":1534530983,
+    "wof:name":"Berg",
+    "wof:parent_id":102049845,
+    "wof:placetype":"localadmin",
+    "wof:population":840,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836295
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03323,
+    48.10425,
+    17.03323,
+    48.10425
+],
+  "geometry": {"coordinates":[17.03323,48.10425],"type":"Point"}
+}

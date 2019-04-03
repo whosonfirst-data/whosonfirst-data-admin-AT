@@ -1,0 +1,74 @@
+{
+  "id": 1310601601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78269,47.97728,13.78269,47.97728",
+    "geom:latitude":47.97728,
+    "geom:longitude":13.78269,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"407",
+    "gn:admin3_code":"40713.0",
+    "gn:asciiname":"Obernathal",
+    "gn:country_code":"AT",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611866,
+    "gn:latitude":47.97728,
+    "gn:longitude":13.78269,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Obernathal",
+    "gn:population":28,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835149,
+        85632785,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611866
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ffe68bac5b6d0f52c21108a12f51876b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835149,
+            "locality_id":1310601601,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310601601,
+    "wof:lastmodified":1536778809,
+    "wof:name":"Obernathal",
+    "wof:parent_id":1108835149,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78269,
+    47.97728,
+    13.78269,
+    47.97728
+],
+  "geometry": {"coordinates":[13.78269,47.97728],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259376169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93028,47.51111,9.93028,47.51111",
+    "geom:latitude":47.51111,
+    "geom:longitude":9.93028,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"802",
+    "gn:admin3_code":"80238.0",
+    "gn:asciiname":"Brunnenau",
+    "gn:country_code":"AT",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3333794,
+    "gn:latitude":47.51111,
+    "gn:longitude":9.93028,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Brunnenau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838071,
+        85632785,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3333794
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e52aa1f65514c9f844b3306e052e0be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838071,
+            "locality_id":1259376169,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1259376169,
+    "wof:lastmodified":1537012104,
+    "wof:name":"Brunnenau",
+    "wof:parent_id":1108838071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93028,
+    47.51111,
+    9.93028,
+    47.51111
+],
+  "geometry": {"coordinates":[9.93028,47.51111],"type":"Point"}
+}

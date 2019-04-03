@@ -1,0 +1,82 @@
+{
+  "id": 1125281001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83901,48.40681,14.83901,48.40681",
+    "geom:latitude":48.40681,
+    "geom:longitude":14.83901,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3195,
+    "gn:population":3165,
+    "iso:country":"AT",
+    "lbl:latitude":48.40681,
+    "lbl:longitude":14.83901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871996,
+    "qs_pg:gn_pop":3195,
+    "qs_pg:name":"K\u00f6nigswiesen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":244670,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871996,
+        "qs_pg:id":244670
+    },
+    "wof:country":"AT",
+    "wof:created":1497042500,
+    "wof:geomhash":"228262bf2c01cb00f8a865ce9b8c9f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1125281001,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125281001,
+    "wof:lastmodified":1534379135,
+    "wof:name":"K\u00f6nigswiesen",
+    "wof:parent_id":102049883,
+    "wof:placetype":"localadmin",
+    "wof:population":3165,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835077
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83901,
+    48.40681,
+    14.83901,
+    48.40681
+],
+  "geometry": {"coordinates":[14.83901,48.40681],"type":"Point"}
+}

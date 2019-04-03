@@ -1,0 +1,82 @@
+{
+  "id": 1125409551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57722,47.81297,13.57722,47.81297",
+    "geom:latitude":47.81297,
+    "geom:longitude":13.57722,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":846,
+    "gn:population":874,
+    "iso:country":"AT",
+    "lbl:latitude":47.81297,
+    "lbl:longitude":13.57722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872175,
+    "qs_pg:gn_pop":846,
+    "qs_pg:name":"Steinbach am Attersee",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1155183,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872175,
+        "qs_pg:id":1155183
+    },
+    "wof:country":"AT",
+    "wof:created":1497049885,
+    "wof:geomhash":"dc0b3b6c766acf2776d1fd42093280b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1125409551,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125409551,
+    "wof:lastmodified":1534531061,
+    "wof:name":"Steinbach am Attersee",
+    "wof:parent_id":102049817,
+    "wof:placetype":"localadmin",
+    "wof:population":874,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836507
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57722,
+    47.81297,
+    13.57722,
+    47.81297
+],
+  "geometry": {"coordinates":[13.57722,47.81297],"type":"Point"}
+}

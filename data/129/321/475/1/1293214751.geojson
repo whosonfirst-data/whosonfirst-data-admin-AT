@@ -1,0 +1,77 @@
+{
+  "id": 1293214751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39606,47.62109,16.39606,47.62109",
+    "geom:latitude":47.62109,
+    "geom:longitude":16.39606,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"108",
+    "gn:admin3_code":"10823.0",
+    "gn:asciiname":"Kalkgruben",
+    "gn:country_code":"AT",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774907,
+    "gn:latitude":47.62109,
+    "gn:longitude":16.39606,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kalkgruben",
+    "gn:population":349,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "M\u00e9szverem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838541,
+        85632785,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774907
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"27fb6a960d3f5caebd118e78fc775446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838541,
+            "locality_id":1293214751,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1293214751,
+    "wof:lastmodified":1537584963,
+    "wof:name":"Kalkgruben",
+    "wof:parent_id":1108838541,
+    "wof:placetype":"locality",
+    "wof:population":349,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39606,
+    47.62109,
+    16.39606,
+    47.62109
+],
+  "geometry": {"coordinates":[16.39606,47.62109],"type":"Point"}
+}

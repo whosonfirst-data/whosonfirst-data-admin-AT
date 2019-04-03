@@ -1,0 +1,71 @@
+{
+  "id": 1243069651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71667,48.16667,14.71667,48.16667",
+    "geom:latitude":48.16667,
+    "geom:longitude":14.71667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30538.0",
+    "gn:asciiname":"Ufer",
+    "gn:country_code":"AT",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763197,
+    "gn:latitude":48.16667,
+    "gn:longitude":14.71667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Ufer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835323,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763197
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"34de525d68724306184f87c601cfe798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835323,
+            "locality_id":1243069651,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243069651,
+    "wof:lastmodified":1536850588,
+    "wof:name":"Ufer",
+    "wof:parent_id":1108835323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71667,
+    48.16667,
+    14.71667,
+    48.16667
+],
+  "geometry": {"coordinates":[14.71667,48.16667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327140213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86887,48.05273,13.86887,48.05273",
+    "geom:latitude":48.05273,
+    "geom:longitude":13.86887,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"418",
+    "gn:admin3_code":"41803.0",
+    "gn:asciiname":"Ellnkam",
+    "gn:country_code":"AT",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780131,
+    "gn:latitude":48.05273,
+    "gn:longitude":13.86887,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ellnkam",
+    "gn:population":70,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836541,
+        85632785,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780131
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3997a938bfd74bf0db708716da472b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836541,
+            "locality_id":1327140213,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327140213,
+    "wof:lastmodified":1536601630,
+    "wof:name":"Ellnkam",
+    "wof:parent_id":1108836541,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86887,
+    48.05273,
+    13.86887,
+    48.05273
+],
+  "geometry": {"coordinates":[13.86887,48.05273],"type":"Point"}
+}

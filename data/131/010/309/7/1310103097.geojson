@@ -1,0 +1,74 @@
+{
+  "id": 1310103097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72272,47.16042,15.72272,47.16042",
+    "geom:latitude":47.16042,
+    "geom:longitude":15.72272,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61701.0",
+    "gn:asciiname":"Prebuch",
+    "gn:country_code":"AT",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768402,
+    "gn:latitude":47.16042,
+    "gn:longitude":15.72272,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Prebuch",
+    "gn:population":437,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839363,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768402
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e2fea9de49c0ab08b2ec52bad68d44b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839363,
+            "locality_id":1310103097,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310103097,
+    "wof:lastmodified":1536999229,
+    "wof:name":"Prebuch",
+    "wof:parent_id":1108839363,
+    "wof:placetype":"locality",
+    "wof:population":437,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72272,
+    47.16042,
+    15.72272,
+    47.16042
+],
+  "geometry": {"coordinates":[15.72272,47.16042],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276555251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56667,48.0,16.56667,48.0",
+    "geom:latitude":48.0,
+    "geom:longitude":16.56667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"307.0",
+    "gn:admin3_code":"30709.0",
+    "gn:asciiname":"Pischelsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768761,
+    "gn:latitude":48.0,
+    "gn:longitude":16.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pischelsdorf",
+    "gn:population":542,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836709,
+        85632785,
+        102049845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768761
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"302ac651811b7bfc534398ba0414296e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836709,
+            "locality_id":1276555251,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276555251,
+    "wof:lastmodified":1536978056,
+    "wof:name":"Pischelsdorf",
+    "wof:parent_id":1108836709,
+    "wof:placetype":"locality",
+    "wof:population":542,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56667,
+    48.0,
+    16.56667,
+    48.0
+],
+  "geometry": {"coordinates":[16.56667,48.0],"type":"Point"}
+}

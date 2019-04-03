@@ -1,0 +1,76 @@
+{
+  "id": 1259489597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97813,48.06523,13.97813,48.06523",
+    "geom:latitude":48.06523,
+    "geom:longitude":13.97813,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"418.0",
+    "gn:admin3_code":"41821.0",
+    "gn:asciiname":"Oberstockham",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769699,
+    "gn:latitude":48.06523,
+    "gn:longitude":13.97813,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Oberstockham",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober Stookham",
+        "Oberstockham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836581,
+        85632785,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769699
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"09c7a5724579c1692d0ce1b48376769a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836581,
+            "locality_id":1259489597,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259489597,
+    "wof:lastmodified":1537584945,
+    "wof:name":"Oberstockham",
+    "wof:parent_id":1108836581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97813,
+    48.06523,
+    13.97813,
+    48.06523
+],
+  "geometry": {"coordinates":[13.97813,48.06523],"type":"Point"}
+}

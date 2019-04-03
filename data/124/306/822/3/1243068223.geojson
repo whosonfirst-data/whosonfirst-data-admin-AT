@@ -1,0 +1,74 @@
+{
+  "id": 1243068223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49964,48.37769,14.49964,48.37769",
+    "geom:latitude":48.37769,
+    "geom:longitude":14.49964,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40604.0",
+    "gn:asciiname":"Anitzberg",
+    "gn:country_code":"AT",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782503,
+    "gn:latitude":48.37769,
+    "gn:longitude":14.49964,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Anitzberg",
+    "gn:population":330,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835067,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782503
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"918fc5b918892b1bada7d4551394bcac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835067,
+            "locality_id":1243068223,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243068223,
+    "wof:lastmodified":1536852672,
+    "wof:name":"Anitzberg",
+    "wof:parent_id":1108835067,
+    "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49964,
+    48.37769,
+    14.49964,
+    48.37769
+],
+  "geometry": {"coordinates":[14.49964,48.37769],"type":"Point"}
+}

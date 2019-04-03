@@ -1,0 +1,74 @@
+{
+  "id": 1310017371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69963,48.10628,15.69963,48.10628",
+    "geom:latitude":48.10628,
+    "geom:longitude":15.69963,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"319.0",
+    "gn:admin3_code":"31934.0",
+    "gn:asciiname":"Perschenegg",
+    "gn:country_code":"AT",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769064,
+    "gn:latitude":48.10628,
+    "gn:longitude":15.69963,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Perschenegg",
+    "gn:population":193,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834975,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769064
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a549fe792a6caa0eccd55c82c5cae118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834975,
+            "locality_id":1310017371,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310017371,
+    "wof:lastmodified":1536624169,
+    "wof:name":"Perschenegg",
+    "wof:parent_id":1108834975,
+    "wof:placetype":"locality",
+    "wof:population":193,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69963,
+    48.10628,
+    15.69963,
+    48.10628
+],
+  "geometry": {"coordinates":[15.69963,48.10628],"type":"Point"}
+}

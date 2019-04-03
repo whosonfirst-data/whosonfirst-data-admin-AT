@@ -1,0 +1,82 @@
+{
+  "id": 1125421273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77782,48.60915,15.77782,48.60915",
+    "geom:latitude":48.60915,
+    "geom:longitude":15.77782,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1405,
+    "gn:population":1384,
+    "iso:country":"AT",
+    "lbl:latitude":48.60915,
+    "lbl:longitude":15.77782,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872896,
+    "qs_pg:gn_pop":1405,
+    "qs_pg:name":"Burgschleinitz-K\u00fchnring",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743443,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872896,
+        "qs_pg:id":743443
+    },
+    "wof:country":"AT",
+    "wof:created":1497052280,
+    "wof:geomhash":"feb616abaeea3c76144dbe5ef600835a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1125421273,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125421273,
+    "wof:lastmodified":1536698249,
+    "wof:name":"Burgschleinitz-K\u00fchnring",
+    "wof:parent_id":102049901,
+    "wof:placetype":"localadmin",
+    "wof:population":1384,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835723
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77782,
+    48.60915,
+    15.77782,
+    48.60915
+],
+  "geometry": {"coordinates":[15.77782,48.60915],"type":"Point"}
+}

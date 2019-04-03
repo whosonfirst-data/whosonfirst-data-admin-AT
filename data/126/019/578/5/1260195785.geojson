@@ -1,0 +1,76 @@
+{
+  "id": 1260195785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59444,46.92139,14.59444,46.92139",
+    "geom:latitude":46.92139,
+    "geom:longitude":14.59444,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20511.0",
+    "gn:asciiname":"Loellinggraben",
+    "gn:country_code":"AT",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772275,
+    "gn:latitude":46.92139,
+    "gn:longitude":14.59444,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"L\u00f6llinggraben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f6lling",
+        "L\u00f6llinggraben",
+        "L\u00f6lling Graben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838219,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772275
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e394795b87cc7771426c70371231eb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838219,
+            "locality_id":1260195785,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1260195785,
+    "wof:lastmodified":1537584955,
+    "wof:name":"Loellinggraben",
+    "wof:parent_id":1108838219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59444,
+    46.92139,
+    14.59444,
+    46.92139
+],
+  "geometry": {"coordinates":[14.59444,46.92139],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1125274989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48257,47.93151,13.48257,47.93151",
+    "geom:latitude":47.93151,
+    "geom:longitude":13.48257,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4106,
+    "gn:population":4357,
+    "iso:country":"AT",
+    "lbl:latitude":47.93151,
+    "lbl:longitude":13.48257,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "St Georgen im Attergau"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0413\u0435\u043e\u0440\u0433\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0413\u0435\u043e\u0440\u0433\u0435\u043d-\u0438\u043c-\u0410\u0442\u0442\u0435\u0440\u0433\u0430\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7279\u5c14\u9ad8\u5730\u533a\u5723\u683c\u5965\u5c14\u6839"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873264,
+    "qs_pg:gn_pop":4106,
+    "qs_pg:name":"Sankt Georgen im Attergau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108883,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873264,
+        "qs_pg:id":108883
+    },
+    "wof:country":"AT",
+    "wof:created":1497042275,
+    "wof:geomhash":"19b23ac394cd9d68b9a408f6b7795288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1125274989,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125274989,
+    "wof:lastmodified":1536698125,
+    "wof:name":"Sankt Georgen im Attergau",
+    "wof:parent_id":102049817,
+    "wof:placetype":"localadmin",
+    "wof:population":4357,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836493
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48257,
+    47.93151,
+    13.48257,
+    47.93151
+],
+  "geometry": {"coordinates":[13.48257,47.93151],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125273523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78216,47.14789,13.78216,47.14789",
+    "geom:latitude":47.14789,
+    "geom:longitude":13.78216,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":707,
+    "gn:population":764,
+    "iso:country":"AT",
+    "lbl:latitude":47.14789,
+    "lbl:longitude":13.78216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872233,
+    "qs_pg:gn_pop":707,
+    "qs_pg:name":"Sankt Andr\u00e4 im Lungau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108537,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872233,
+        "qs_pg:id":108537
+    },
+    "wof:country":"AT",
+    "wof:created":1497042227,
+    "wof:geomhash":"82e0a3ab2e84c40b6ece505a1f42dc13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1125273523,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125273523,
+    "wof:lastmodified":1534379181,
+    "wof:name":"Sankt Andr\u00e4 im Lungau",
+    "wof:parent_id":102049721,
+    "wof:placetype":"localadmin",
+    "wof:population":764,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837059
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78216,
+    47.14789,
+    13.78216,
+    47.14789
+],
+  "geometry": {"coordinates":[13.78216,47.14789],"type":"Point"}
+}

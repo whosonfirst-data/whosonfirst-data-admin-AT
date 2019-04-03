@@ -1,0 +1,74 @@
+{
+  "id": 1276235513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.72278,48.62639,16.72278,48.62639",
+    "geom:latitude":48.62639,
+    "geom:longitude":16.72278,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"316",
+    "gn:admin3_code":"31617.0",
+    "gn:asciiname":"Ginzersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3321549,
+    "gn:latitude":48.62639,
+    "gn:longitude":16.72278,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ginzersdorf",
+    "gn:population":233,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836965,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3321549
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"492a2a5514553db5b5b50a836e93e5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836965,
+            "locality_id":1276235513,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276235513,
+    "wof:lastmodified":1536910001,
+    "wof:name":"Ginzersdorf",
+    "wof:parent_id":1108836965,
+    "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72278,
+    48.62639,
+    16.72278,
+    48.62639
+],
+  "geometry": {"coordinates":[16.72278,48.62639],"type":"Point"}
+}

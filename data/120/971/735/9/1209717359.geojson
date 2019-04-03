@@ -1,0 +1,79 @@
+{
+  "id": 1209717359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08333,48.6,16.08333,48.6",
+    "geom:latitude":48.6,
+    "geom:longitude":16.08333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"310",
+    "gn:admin3_code":"31051.0",
+    "gn:asciiname":"Hetzmannsdorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776456,
+    "gn:latitude":48.6,
+    "gn:longitude":16.08333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hetzmannsdorf",
+    "gn:population":141,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hetzmansdorf",
+        "Hetzmannsdorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835023,
+        85632785,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776456
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a76163308bb8c33c33c1f6292f27d249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835023,
+            "locality_id":1209717359,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1209717359,
+    "wof:lastmodified":1537584966,
+    "wof:name":"Hetzmannsdorf",
+    "wof:parent_id":1108835023,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08333,
+    48.6,
+    16.08333,
+    48.6
+],
+  "geometry": {"coordinates":[16.08333,48.6],"type":"Point"}
+}

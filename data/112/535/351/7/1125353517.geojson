@@ -1,0 +1,108 @@
+{
+  "id": 1125353517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93893,47.67487,15.93893,47.67487",
+    "geom:latitude":47.67487,
+    "geom:longitude":15.93893,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":6213,
+    "gn:population":6213,
+    "iso:country":"AT",
+    "lbl:latitude":47.67487,
+    "lbl:longitude":15.93893,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kat_x_preferred":[
+        "\u10d2\u10da\u10dd\u10d2\u10dc\u10d8\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u0439\u0441\u0435\u043d\u0431\u0430\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u043e\u0433\u043d\u0438\u0446"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u6d1b\u683c\u5c3c\u8328"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2778455,
+    "qs_pg:gn_pop":6213,
+    "qs_pg:name":"Gloggnitz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":456,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":964772,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673777,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778455,
+        "gp:id":12673777,
+        "qs_pg:id":964772
+    },
+    "wof:country":"AT",
+    "wof:created":1497046328,
+    "wof:geomhash":"9e2a32cd57a6c2f4d35fe9c14eb6bf34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1125353517,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125353517,
+    "wof:lastmodified":1534531027,
+    "wof:name":"Gloggnitz",
+    "wof:parent_id":102049791,
+    "wof:placetype":"localadmin",
+    "wof:population":6213,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836613
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93893,
+    47.67487,
+    15.93893,
+    47.67487
+],
+  "geometry": {"coordinates":[15.93893,47.67487],"type":"Point"}
+}

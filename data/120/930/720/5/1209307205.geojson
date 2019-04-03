@@ -1,0 +1,66 @@
+{
+  "id": 1209307205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,47.26667,15.91667,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"622",
+    "gn:admin3_code":"62220.0",
+    "gn:asciiname":"Flattendorf",
+    "gn:country_code":"AT",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779503,
+    "gn:latitude":47.26667,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Flattendorf",
+    "gn:population":676,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779503
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"82b2bf0872843c45b34c69fc4892531c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209307205
+        }
+    ],
+    "wof:id":1209307205,
+    "wof:lastmodified":1536291154,
+    "wof:name":"Flattendorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":676,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.916670000000002,
+    47.26667,
+    15.916670000000002,
+    47.26667
+],
+  "geometry": {"coordinates":[15.91667,47.26667],"type":"Point"}
+}

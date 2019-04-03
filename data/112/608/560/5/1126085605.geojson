@@ -1,0 +1,100 @@
+{
+  "id": 1126085605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81667,46.58333,13.81667,46.58333",
+    "geom:latitude":46.58333,
+    "geom:longitude":13.81667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.58333,
+    "lbl:longitude":13.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Oberfederaun"
+    ],
+    "name:unk_x_variant":[
+        "Oberfederaun"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2770162,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Oberfederaun",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":249,
+    "qs_pg:photos_1k":50,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":249,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":281859,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":540089,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770162,
+        "gp:id":540089,
+        "qs:id":281859,
+        "qs_pg:id":281859
+    },
+    "wof:country":"AT",
+    "wof:created":1497312733,
+    "wof:geomhash":"ee591262933a493fc0681ed165284c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
+            "neighbourhood_id":1126085605,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1126085605,
+    "wof:lastmodified":1534379222,
+    "wof:name":"Oberfederaun",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85898251
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81667,
+    46.58333,
+    13.81667,
+    46.58333
+],
+  "geometry": {"coordinates":[13.81667,46.58333],"type":"Point"}
+}

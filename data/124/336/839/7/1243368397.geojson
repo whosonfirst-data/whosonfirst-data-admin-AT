@@ -1,0 +1,74 @@
+{
+  "id": 1243368397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.85,47.28333,12.85,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":12.85,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50602.0",
+    "gn:asciiname":"Pichl",
+    "gn:country_code":"AT",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768885,
+    "gn:latitude":47.28333,
+    "gn:longitude":12.85,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pichl",
+    "gn:population":1230,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837195,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768885
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4eb02678da314ac58fb0f1d9bb608dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837195,
+            "locality_id":1243368397,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1243368397,
+    "wof:lastmodified":1536918684,
+    "wof:name":"Pichl",
+    "wof:parent_id":1108837195,
+    "wof:placetype":"locality",
+    "wof:population":1230,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.85,
+    47.28333,
+    12.85,
+    47.28333
+],
+  "geometry": {"coordinates":[12.85,47.28333],"type":"Point"}
+}

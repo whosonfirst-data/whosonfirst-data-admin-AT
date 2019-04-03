@@ -1,0 +1,71 @@
+{
+  "id": 1243355991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48333,47.53333,15.48333,47.53333",
+    "geom:latitude":47.53333,
+    "geom:longitude":15.48333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"621.0",
+    "gn:admin3_code":"62145.0",
+    "gn:asciiname":"Unterlichtenegg",
+    "gn:country_code":"AT",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762803,
+    "gn:latitude":47.53333,
+    "gn:longitude":15.48333,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Unterlichtenegg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838861,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762803
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fc1563d3fdc9c56f7d1188112b9c249d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838861,
+            "locality_id":1243355991,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243355991,
+    "wof:lastmodified":1536936757,
+    "wof:name":"Unterlichtenegg",
+    "wof:parent_id":1108838861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48333,
+    47.53333,
+    15.48333,
+    47.53333
+],
+  "geometry": {"coordinates":[15.48333,47.53333],"type":"Point"}
+}

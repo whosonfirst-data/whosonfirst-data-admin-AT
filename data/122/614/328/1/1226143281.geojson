@@ -1,0 +1,74 @@
+{
+  "id": 1226143281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83767,48.40069,13.83767,48.40069",
+    "geom:latitude":48.40069,
+    "geom:longitude":13.83767,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40804.0",
+    "gn:asciiname":"Hausleithen",
+    "gn:country_code":"AT",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609756,
+    "gn:latitude":48.40069,
+    "gn:longitude":13.83767,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hausleithen",
+    "gn:population":20,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835173,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609756
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"70e6657327b04d413232995eb6910c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835173,
+            "locality_id":1226143281,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226143281,
+    "wof:lastmodified":1537078137,
+    "wof:name":"Hausleithen",
+    "wof:parent_id":1108835173,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83767,
+    48.40069,
+    13.83767,
+    48.40069
+],
+  "geometry": {"coordinates":[13.83767,48.40069],"type":"Point"}
+}

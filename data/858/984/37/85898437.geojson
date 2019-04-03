@@ -1,0 +1,109 @@
+{
+  "id": 85898437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4477045.52678,
+    "geom:bbox":"14.379366,48.207753,14.379366,48.207753",
+    "geom:latitude":48.207753,
+    "geom:longitude":14.379366,
+    "iso:country":"AT",
+    "lbl:latitude":48.207753,
+    "lbl:longitude":14.379366,
+    "mps:latitude":48.207287,
+    "mps:longitude":14.378357,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Pichling"
+    ],
+    "name:unk_x_variant":[
+        "Pichling"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Pichling",
+    "qs:local_max":49,
+    "qs:local_sum":49,
+    "qs:localhoods":1,
+    "qs:name":"Pichling",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Ober\u00f6sterreich",
+    "qs:name_adm2":"Linz-Land",
+    "qs:name_lau":"St. Florian",
+    "qs:name_local":"St. Florian",
+    "qs:photo_max":40,
+    "qs:photo_sum":49,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344711,
+    "qs:woe_adm2":12591702,
+    "qs:woe_lau":12674350,
+    "qs:woe_local":12674350,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835545,
+        85632785,
+        101784539,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768856,
+        "gp:id":546380,
+        "qs:id":271664,
+        "qs_pg:id":271664
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1a26039b46ffbf1e0880d3612fbec00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835545,
+            "locality_id":101784539,
+            "neighbourhood_id":85898437,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":85898437,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932063,
+    "wof:name":"Pichling",
+    "wof:parent_id":101784539,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.379366,
+    48.207753,
+    14.379366,
+    48.207753
+],
+  "geometry": {"coordinates":[14.379366,48.207753],"type":"Point"}
+}

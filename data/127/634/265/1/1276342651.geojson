@@ -1,0 +1,71 @@
+{
+  "id": 1276342651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34667,48.66,16.34667,48.66",
+    "geom:latitude":48.66,
+    "geom:longitude":16.34667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"316",
+    "gn:admin3_code":"31652.0",
+    "gn:asciiname":"Lehmgrube",
+    "gn:country_code":"AT",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3321063,
+    "gn:latitude":48.66,
+    "gn:longitude":16.34667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Lehmgrube",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836263,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3321063
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"74bba2ab4315a742183f1a9c9e5eaf2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836263,
+            "locality_id":1276342651,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276342651,
+    "wof:lastmodified":1536766309,
+    "wof:name":"Lehmgrube",
+    "wof:parent_id":1108836263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34667,
+    48.66,
+    16.34667,
+    48.66
+],
+  "geometry": {"coordinates":[16.34667,48.66],"type":"Point"}
+}

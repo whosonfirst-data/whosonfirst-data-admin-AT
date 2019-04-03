@@ -1,0 +1,71 @@
+{
+  "id": 1225966453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66639,46.71806,15.66639,46.71806",
+    "geom:latitude":46.71806,
+    "geom:longitude":15.66639,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62347.0",
+    "gn:asciiname":"Streitfeld",
+    "gn:country_code":"AT",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218078,
+    "gn:latitude":46.71806,
+    "gn:longitude":15.66639,
+    "gn:modification_date":"2014-04-28",
+    "gn:name":"Streitfeld",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839341,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218078
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e1de32275c8ddf2f533dde243f811c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839341,
+            "locality_id":1225966453,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1225966453,
+    "wof:lastmodified":1536838442,
+    "wof:name":"Streitfeld",
+    "wof:parent_id":1108839341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66639,
+    46.71806,
+    15.66639,
+    46.71806
+],
+  "geometry": {"coordinates":[15.66639,46.71806],"type":"Point"}
+}

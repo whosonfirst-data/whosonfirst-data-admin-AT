@@ -1,0 +1,84 @@
+{
+  "id": 1327346471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78333,46.61667,14.78333,46.61667",
+    "geom:latitude":46.61667,
+    "geom:longitude":14.78333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20801.0",
+    "gn:asciiname":"Dobrowa",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214045,
+    "gn:latitude":46.61667,
+    "gn:longitude":14.78333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Dobrowa",
+    "gn:population":21,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dobrowa"
+    ],
+    "name:slv_x_preferred":[
+        "Dobrova"
+    ],
+    "name:und_x_variant":[
+        "Dobrova"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838365,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214045
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a0408b2fa2eebbedaef61bec9e9eaeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838365,
+            "locality_id":1327346471,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1327346471,
+    "wof:lastmodified":1537584987,
+    "wof:name":"Dobrowa",
+    "wof:parent_id":1108838365,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78333,
+    46.61667,
+    14.78333,
+    46.61667
+],
+  "geometry": {"coordinates":[14.78333,46.61667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276872585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50537,48.00566,13.50537,48.00566",
+    "geom:latitude":48.00566,
+    "geom:longitude":13.50537,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41747.0",
+    "gn:asciiname":"Thalberg",
+    "gn:country_code":"AT",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609595,
+    "gn:latitude":48.00566,
+    "gn:longitude":13.50537,
+    "gn:modification_date":"2017-07-13",
+    "gn:name":"Thalberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836523,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609595
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0cd5012579ff2bc71351713e8a04fc69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836523,
+            "locality_id":1276872585,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276872585,
+    "wof:lastmodified":1537048850,
+    "wof:name":"Thalberg",
+    "wof:parent_id":1108836523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50537,
+    48.00566,
+    13.50537,
+    48.00566
+],
+  "geometry": {"coordinates":[13.50537,48.00566],"type":"Point"}
+}

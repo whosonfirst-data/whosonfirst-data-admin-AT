@@ -1,0 +1,74 @@
+{
+  "id": 1344264329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55,48.68333,16.55,48.68333",
+    "geom:latitude":48.68333,
+    "geom:longitude":16.55,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"316",
+    "gn:admin3_code":"31644.0",
+    "gn:asciiname":"Altruppersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782621,
+    "gn:latitude":48.68333,
+    "gn:longitude":16.55,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Altruppersdorf",
+    "gn:population":342,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835357,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782621
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a9436be79822c51ca1c0332ef93db21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108835357,
+            "locality_id":1344264329,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344264329,
+    "wof:lastmodified":1537075414,
+    "wof:name":"Altruppersdorf",
+    "wof:parent_id":1108835357,
+    "wof:placetype":"locality",
+    "wof:population":342,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55,
+    48.68333,
+    16.55,
+    48.68333
+],
+  "geometry": {"coordinates":[16.55,48.68333],"type":"Point"}
+}

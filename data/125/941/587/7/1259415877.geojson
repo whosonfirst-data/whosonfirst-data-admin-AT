@@ -1,0 +1,71 @@
+{
+  "id": 1259415877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35269,48.15927,14.35269,48.15927",
+    "geom:latitude":48.15927,
+    "geom:longitude":14.35269,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"410",
+    "gn:admin3_code":"41015.0",
+    "gn:asciiname":"Obere Au",
+    "gn:country_code":"AT",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609959,
+    "gn:latitude":48.15927,
+    "gn:longitude":14.35269,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Obere Au",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835549,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609959
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0784cc47c73005cb166f09b599942f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835549,
+            "locality_id":1259415877,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259415877,
+    "wof:lastmodified":1536956025,
+    "wof:name":"Obere Au",
+    "wof:parent_id":1108835549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35269,
+    48.15927,
+    14.35269,
+    48.15927
+],
+  "geometry": {"coordinates":[14.35269,48.15927],"type":"Point"}
+}

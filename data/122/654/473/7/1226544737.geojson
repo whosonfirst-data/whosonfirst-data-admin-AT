@@ -1,0 +1,71 @@
+{
+  "id": 1226544737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8413,47.33981,12.8413,47.33981",
+    "geom:latitude":47.33981,
+    "geom:longitude":12.8413,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50628.0",
+    "gn:asciiname":"Schutzingalm",
+    "gn:country_code":"AT",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594679,
+    "gn:latitude":47.33981,
+    "gn:longitude":12.8413,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Schutzingalm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837255,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594679
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"387abe5fc3dcc0a9901c9e0430027746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837255,
+            "locality_id":1226544737,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1226544737,
+    "wof:lastmodified":1536998692,
+    "wof:name":"Schutzingalm",
+    "wof:parent_id":1108837255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8413,
+    47.33981,
+    12.8413,
+    47.33981
+],
+  "geometry": {"coordinates":[12.8413,47.33981],"type":"Point"}
+}

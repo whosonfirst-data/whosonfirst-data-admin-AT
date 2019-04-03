@@ -1,0 +1,71 @@
+{
+  "id": 1243449919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46667,47.26667,15.46667,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":15.46667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61758.0",
+    "gn:asciiname":"Schweinegg",
+    "gn:country_code":"AT",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765372,
+    "gn:latitude":47.26667,
+    "gn:longitude":15.46667,
+    "gn:modification_date":"2017-06-18",
+    "gn:name":"Schweinegg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838859,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765372
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ed4720e88b2534299b81bd1efc6c8642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838859,
+            "locality_id":1243449919,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243449919,
+    "wof:lastmodified":1536800591,
+    "wof:name":"Schweinegg",
+    "wof:parent_id":1108838859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46667,
+    47.26667,
+    15.46667,
+    47.26667
+],
+  "geometry": {"coordinates":[15.46667,47.26667],"type":"Point"}
+}

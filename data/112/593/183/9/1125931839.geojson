@@ -1,0 +1,94 @@
+{
+  "id": 1125931839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79728,47.13626,13.79728,47.13626",
+    "geom:latitude":47.13626,
+    "geom:longitude":13.79728,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.13626,
+    "lbl:longitude":13.79728,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0446\u0435\u043b\u044c\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:unk_x_variant":[
+        "Litzldorf"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2772381,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Litzelsdorf",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":188,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182507,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":547682,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837065,
+        85632785,
+        102049721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772381,
+        "gp:id":547682,
+        "qs_pg:id":182507
+    },
+    "wof:country":"AT",
+    "wof:created":1497296829,
+    "wof:geomhash":"0c43e11655d2717b816dfa0d52462c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837065,
+            "locality_id":1125931839,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125931839,
+    "wof:lastmodified":1509401442,
+    "wof:name":"Litzelsdorf",
+    "wof:parent_id":1108837065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79728,
+    47.13626,
+    13.79728,
+    47.13626
+],
+  "geometry": {"coordinates":[13.79728,47.13626],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242675335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1,47.48333,14.1,47.48333",
+    "geom:latitude":47.48333,
+    "geom:longitude":14.1,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61257.0",
+    "gn:asciiname":"Raumberg",
+    "gn:country_code":"AT",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767857,
+    "gn:latitude":47.48333,
+    "gn:longitude":14.1,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Raumberg",
+    "gn:population":268,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838963,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767857
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3da90b943931436ff3b298cd6b2d0569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838963,
+            "locality_id":1242675335,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1242675335,
+    "wof:lastmodified":1536923735,
+    "wof:name":"Raumberg",
+    "wof:parent_id":1108838963,
+    "wof:placetype":"locality",
+    "wof:population":268,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1,
+    47.48333,
+    14.1,
+    47.48333
+],
+  "geometry": {"coordinates":[14.1,47.48333],"type":"Point"}
+}

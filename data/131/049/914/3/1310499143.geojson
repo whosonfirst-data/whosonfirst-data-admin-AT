@@ -1,0 +1,76 @@
+{
+  "id": 1310499143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43333,47.26667,15.43333,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":15.43333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60645.0",
+    "gn:asciiname":"Schitterdorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765964,
+    "gn:latitude":47.26667,
+    "gn:longitude":15.43333,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Schitterdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schlitterdorf",
+        "Schitterdorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839155,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765964
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"717002e4daa7c1bf83f8b84d959b2253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839155,
+            "locality_id":1310499143,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310499143,
+    "wof:lastmodified":1537584927,
+    "wof:name":"Schitterdorf",
+    "wof:parent_id":1108839155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43333,
+    47.26667,
+    15.43333,
+    47.26667
+],
+  "geometry": {"coordinates":[15.43333,47.26667],"type":"Point"}
+}

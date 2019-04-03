@@ -1,0 +1,72 @@
+{
+  "id": 1327147445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99778,46.86292,13.99778,46.86292",
+    "geom:latitude":46.86292,
+    "geom:longitude":13.99778,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21001.0",
+    "gn:asciiname":"Hochirndl",
+    "gn:country_code":"AT",
+    "gn:dem":1586,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11071895,
+    "gn:latitude":46.86292,
+    "gn:longitude":13.99778,
+    "gn:modification_date":"2016-02-19",
+    "gn:name":"Hochirndl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838117,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071895
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"de919f1703304adf4dbd8148b8aa6f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838117,
+            "locality_id":1327147445,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1327147445,
+    "wof:lastmodified":1537088995,
+    "wof:name":"Hochirndl",
+    "wof:parent_id":1108838117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99778,
+    46.86292,
+    13.99778,
+    46.86292
+],
+  "geometry": {"coordinates":[13.99778,46.86292],"type":"Point"}
+}

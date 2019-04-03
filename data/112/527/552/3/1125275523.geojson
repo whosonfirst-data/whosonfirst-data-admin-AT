@@ -1,0 +1,82 @@
+{
+  "id": 1125275523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18362,48.31599,15.18362,48.31599",
+    "geom:latitude":48.31599,
+    "geom:longitude":15.18362,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2504,
+    "gn:population":2470,
+    "iso:country":"AT",
+    "lbl:latitude":48.31599,
+    "lbl:longitude":15.18362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871824,
+    "qs_pg:gn_pop":2504,
+    "qs_pg:name":"P\u00f6ggstall",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":904278,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871824,
+        "qs_pg:id":904278
+    },
+    "wof:country":"AT",
+    "wof:created":1497042293,
+    "wof:geomhash":"0a6fc9ab85382bcd373503e92321b4f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1125275523,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125275523,
+    "wof:lastmodified":1534379206,
+    "wof:name":"P\u00f6ggstall",
+    "wof:parent_id":102049855,
+    "wof:placetype":"localadmin",
+    "wof:population":2470,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835923
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18362,
+    48.31599,
+    15.18362,
+    48.31599
+],
+  "geometry": {"coordinates":[15.18362,48.31599],"type":"Point"}
+}

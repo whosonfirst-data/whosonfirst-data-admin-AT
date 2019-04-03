@@ -1,0 +1,71 @@
+{
+  "id": 1243006089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45156,48.31111,13.45156,48.31111",
+    "geom:latitude":48.31111,
+    "geom:longitude":13.45156,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41220.0",
+    "gn:asciiname":"Thaling",
+    "gn:country_code":"AT",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610578,
+    "gn:latitude":48.31111,
+    "gn:longitude":13.45156,
+    "gn:modification_date":"2017-07-17",
+    "gn:name":"Thaling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835669,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610578
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5ecd7777448ee9173dacb3e3c913d5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835669,
+            "locality_id":1243006089,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243006089,
+    "wof:lastmodified":1536943991,
+    "wof:name":"Thaling",
+    "wof:parent_id":1108835669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45156,
+    48.31111,
+    13.45156,
+    48.31111
+],
+  "geometry": {"coordinates":[13.45156,48.31111],"type":"Point"}
+}

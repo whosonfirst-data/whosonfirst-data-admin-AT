@@ -1,0 +1,74 @@
+{
+  "id": 1310613801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81702,46.55579,13.81702,46.55579",
+    "geom:latitude":46.55579,
+    "geom:longitude":13.81702,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20711.0",
+    "gn:asciiname":"Sigmontitsch",
+    "gn:country_code":"AT",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765068,
+    "gn:latitude":46.55579,
+    "gn:longitude":13.81702,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sigmontitsch",
+    "gn:population":76,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838339,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765068
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e077e15f95bd9ea8317bc8a264b90b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838339,
+            "locality_id":1310613801,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310613801,
+    "wof:lastmodified":1536760862,
+    "wof:name":"Sigmontitsch",
+    "wof:parent_id":1108838339,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81702,
+    46.55579,
+    13.81702,
+    46.55579
+],
+  "geometry": {"coordinates":[13.81702,46.55579],"type":"Point"}
+}

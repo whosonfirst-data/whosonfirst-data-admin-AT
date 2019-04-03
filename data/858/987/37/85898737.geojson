@@ -1,0 +1,109 @@
+{
+  "id": 85898737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":24942867.762936,
+    "geom:bbox":"16.30624,48.126675,16.30624,48.126675",
+    "geom:latitude":48.126675,
+    "geom:longitude":16.30624,
+    "iso:country":"AT",
+    "lbl:latitude":48.126675,
+    "lbl:longitude":16.30624,
+    "mps:latitude":48.096922,
+    "mps:longitude":16.294916,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:note":"dup",
+    "mz:tier_locality":2,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Siebenhirten bei Wien"
+    ],
+    "name:unk_x_variant":[
+        "Siebenhirten bei Wien"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_id":0,
+    "qs:gn_local":2781321,
+    "qs:gn_nam_loc":"brunn am gebirge",
+    "qs:gn_namadm1":"03",
+    "qs:id":0,
+    "qs:local_max":5586,
+    "qs:local_sum":5586,
+    "qs:localhoods":1,
+    "qs:name":"Siebenhirten bei Wien",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Nieder\u00f6sterreich",
+    "qs:name_adm2":"M\u00f6dling",
+    "qs:name_lau":"Brunn am Gebirge",
+    "qs:name_local":"Brunn am Gebirge",
+    "qs:photo_max":1552,
+    "qs:photo_sum":5586,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":69,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344710,
+    "qs:woe_adm2":12591682,
+    "qs:woe_lau":12673859,
+    "qs:woe_local":12673859,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85681667,
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":551787
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a9b1785d3325e52ea1f404986dbf761f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898737,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":85898737,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932106,
+    "wof:name":"Siebenhirten bei Wien",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30624,
+    48.126675,
+    16.30624,
+    48.126675
+],
+  "geometry": {"coordinates":[16.30624,48.126675],"type":"Point"}
+}

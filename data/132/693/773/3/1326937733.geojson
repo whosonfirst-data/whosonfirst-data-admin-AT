@@ -1,0 +1,71 @@
+{
+  "id": 1326937733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47638,48.14908,14.47638,48.14908",
+    "geom:latitude":48.14908,
+    "geom:longitude":14.47638,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30509.0",
+    "gn:asciiname":"Weindlau",
+    "gn:country_code":"AT",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761696,
+    "gn:latitude":48.14908,
+    "gn:longitude":14.47638,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Weindlau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836655,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761696
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ed676b542ddf2de7ce20e6719db017ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836655,
+            "locality_id":1326937733,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1326937733,
+    "wof:lastmodified":1536896659,
+    "wof:name":"Weindlau",
+    "wof:parent_id":1108836655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47638,
+    48.14908,
+    14.47638,
+    48.14908
+],
+  "geometry": {"coordinates":[14.47638,48.14908],"type":"Point"}
+}

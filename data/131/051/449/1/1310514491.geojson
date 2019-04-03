@@ -1,0 +1,79 @@
+{
+  "id": 1310514491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9,46.75,13.9,46.75",
+    "geom:latitude":46.75,
+    "geom:longitude":13.9,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"207",
+    "gn:admin3_code":"20703.0",
+    "gn:asciiname":"Hinterwinkl",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776212,
+    "gn:latitude":46.75,
+    "gn:longitude":13.9,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hinterwinkl",
+    "gn:population":87,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hinter Winkel",
+        "Hinterwinkl"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838325,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776212
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"89034fa1e9a303cf8921a2db2fc398db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838325,
+            "locality_id":1310514491,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310514491,
+    "wof:lastmodified":1537584966,
+    "wof:name":"Hinterwinkl",
+    "wof:parent_id":1108838325,
+    "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9,
+    46.75,
+    13.9,
+    46.75
+],
+  "geometry": {"coordinates":[13.9,46.75],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125379473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5515,48.25954,15.5515,48.25954",
+    "geom:latitude":48.25954,
+    "geom:longitude":15.5515,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2047,
+    "gn:population":2169,
+    "iso:country":"AT",
+    "lbl:latitude":48.25954,
+    "lbl:longitude":15.5515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873015,
+    "qs_pg:gn_pop":2047,
+    "qs_pg:name":"Karlstetten",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":381120,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873015,
+        "qs_pg:id":381120
+    },
+    "wof:country":"AT",
+    "wof:created":1497047957,
+    "wof:geomhash":"643519d6718229eb9f30f8290d390450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125379473,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125379473,
+    "wof:lastmodified":1534531049,
+    "wof:name":"Karlstetten",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:population":2169,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836811
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5515,
+    48.25954,
+    15.5515,
+    48.25954
+],
+  "geometry": {"coordinates":[15.5515,48.25954],"type":"Point"}
+}

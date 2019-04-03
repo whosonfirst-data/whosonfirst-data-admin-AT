@@ -1,0 +1,98 @@
+{
+  "id": 1125409821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18411,46.94117,15.18411,46.94117",
+    "geom:latitude":46.94117,
+    "geom:longitude":15.18411,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1012,
+    "gn:population":1012,
+    "iso:country":"AT",
+    "lbl:latitude":46.94117,
+    "lbl:longitude":15.18411,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873352,
+    "qs_pg:gn_pop":1012,
+    "qs_pg:name":"Greisdorf",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155478,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675120,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873352,
+        "gp:id":12675120,
+        "qs_pg:id":1155478
+    },
+    "wof:concordances_alt":{
+        "gn:id":2778035,
+        "qs_pg:id":1016765
+    },
+    "wof:country":"AT",
+    "wof:created":1497049910,
+    "wof:geomhash":"a00c65aaafbe7e6058558255e79b787d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125409821,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125409821,
+    "wof:lastmodified":1536698239,
+    "wof:name":"Greisdorf",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:population":1012,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839279
+    ],
+    "wof:supersedes":[
+        1125388583
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18411,
+    46.94117,
+    15.18411,
+    46.94117
+],
+  "geometry": {"coordinates":[15.18411,46.94117],"type":"Point"}
+}

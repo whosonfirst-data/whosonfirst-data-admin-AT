@@ -1,0 +1,74 @@
+{
+  "id": 1243264085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.00577,48.41764,14.00577,48.41764",
+    "geom:latitude":48.41764,
+    "geom:longitude":14.00577,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41332.0",
+    "gn:asciiname":"Falkenbach",
+    "gn:country_code":"AT",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779830,
+    "gn:latitude":48.41764,
+    "gn:longitude":14.00577,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Falkenbach",
+    "gn:population":69,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835999,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779830
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b4c0118ef31bc3bb795ab20e525d8058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835999,
+            "locality_id":1243264085,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243264085,
+    "wof:lastmodified":1537065532,
+    "wof:name":"Falkenbach",
+    "wof:parent_id":1108835999,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.00577,
+    48.41764000000001,
+    14.00577,
+    48.41764000000001
+],
+  "geometry": {"coordinates":[14.00577,48.41764000000001],"type":"Point"}
+}

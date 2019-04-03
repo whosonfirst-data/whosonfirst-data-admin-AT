@@ -1,0 +1,82 @@
+{
+  "id": 1125372067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30175,48.4192,15.30175,48.4192",
+    "geom:latitude":48.4192,
+    "geom:longitude":15.30175,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1615,
+    "gn:population":1463,
+    "iso:country":"AT",
+    "lbl:latitude":48.4192,
+    "lbl:longitude":15.30175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873085,
+    "qs_pg:gn_pop":1615,
+    "qs_pg:name":"Kottes-Purk",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108814,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873085,
+        "qs_pg:id":108814
+    },
+    "wof:country":"AT",
+    "wof:created":1497047474,
+    "wof:geomhash":"32fc37cfdf759234237a4952e4675e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1125372067,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125372067,
+    "wof:lastmodified":1536698202,
+    "wof:name":"Kottes-Purk",
+    "wof:parent_id":102049895,
+    "wof:placetype":"localadmin",
+    "wof:population":1463,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836987
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30175,
+    48.4192,
+    15.30175,
+    48.4192
+],
+  "geometry": {"coordinates":[15.30175,48.4192],"type":"Point"}
+}

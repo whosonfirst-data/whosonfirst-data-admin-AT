@@ -1,0 +1,78 @@
+{
+  "id": 1310108961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,46.46667,14.15,46.46667",
+    "geom:latitude":46.46667,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"204",
+    "gn:admin3_code":"20403.0",
+    "gn:asciiname":"Baerental",
+    "gn:country_code":"AT",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781998,
+    "gn:latitude":46.46667,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"B\u00e4rental",
+    "gn:population":5,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e4renthal",
+        "B\u00e4rental"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838163,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781998
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"eed4e00d73662bf7962f7963de2c6339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838163,
+            "locality_id":1310108961,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310108961,
+    "wof:lastmodified":1537584983,
+    "wof:name":"Baerental",
+    "wof:parent_id":1108838163,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    46.46667,
+    14.15,
+    46.46667
+],
+  "geometry": {"coordinates":[14.15,46.46667],"type":"Point"}
+}

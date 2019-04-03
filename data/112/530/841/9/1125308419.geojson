@@ -1,0 +1,100 @@
+{
+  "id": 1125308419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29722,46.75611,15.29722,46.75611",
+    "geom:latitude":46.75611,
+    "geom:longitude":15.29722,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.75611,
+    "lbl:longitude":15.29722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0442\u0438\u043d-\u0438\u043c-\u0417\u0443\u043b\u044c\u043c\u0442\u0430\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Sankt Martin"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u5c14\u59c6\u8c37\u5730\u5723\u9a6c\u4e01"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2766508,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St. Martin im Sulmtal",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":203635,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674816,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766508,
+        "gp:id":12674816,
+        "qs_pg:id":203635
+    },
+    "wof:country":"AT",
+    "wof:created":1497043827,
+    "wof:geomhash":"cc3e7dba283addf15f4de90d91ab64e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125308419,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125308419,
+    "wof:lastmodified":1536698148,
+    "wof:name":"St. Martin im Sulmtal",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839283
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29722,
+    46.75611,
+    15.29722,
+    46.75611
+],
+  "geometry": {"coordinates":[15.29722,46.75611],"type":"Point"}
+}

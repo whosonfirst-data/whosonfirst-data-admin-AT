@@ -1,0 +1,74 @@
+{
+  "id": 1327037367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71667,48.26667,15.71667,48.26667",
+    "geom:latitude":48.26667,
+    "geom:longitude":15.71667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"319.0",
+    "gn:admin3_code":"31912.0",
+    "gn:asciiname":"Ossarn",
+    "gn:country_code":"AT",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769394,
+    "gn:latitude":48.26667,
+    "gn:longitude":15.71667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ossarn",
+    "gn:population":782,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836215,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769394
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"58aabddcb1f5909da8063fd717a41b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836215,
+            "locality_id":1327037367,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327037367,
+    "wof:lastmodified":1536753173,
+    "wof:name":"Ossarn",
+    "wof:parent_id":1108836215,
+    "wof:placetype":"locality",
+    "wof:population":782,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71667,
+    48.26667,
+    15.71667,
+    48.26667
+],
+  "geometry": {"coordinates":[15.71667,48.26667],"type":"Point"}
+}

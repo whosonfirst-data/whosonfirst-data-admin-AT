@@ -1,0 +1,107 @@
+{
+  "id": 1125410689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74778,46.77639,13.74778,46.77639",
+    "geom:latitude":46.77639,
+    "geom:longitude":13.74778,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.77639,
+    "lbl:longitude":13.74778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0424\u0435\u043b\u044c\u0434-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u043b\u044c\u0434-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u043b\u044c\u0434-\u0430\u043c-\u0417\u0435\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Feld"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ee8\u6e56\u8d39\u5c14\u5fb7"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2779686,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Feld am See",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":135,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":231597,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673626,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779686,
+        "gp:id":12673626,
+        "qs_pg:id":231597
+    },
+    "wof:country":"AT",
+    "wof:created":1497050067,
+    "wof:geomhash":"a42ead4e88d5122bc483bc622a71835b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1125410689,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125410689,
+    "wof:lastmodified":1536698241,
+    "wof:name":"Feld am See",
+    "wof:parent_id":102049683,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838333
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74778,
+    46.77639,
+    13.74778,
+    46.77639
+],
+  "geometry": {"coordinates":[13.74778,46.77639],"type":"Point"}
+}

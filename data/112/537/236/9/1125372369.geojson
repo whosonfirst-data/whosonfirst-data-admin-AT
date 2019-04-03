@@ -1,0 +1,82 @@
+{
+  "id": 1125372369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40606,47.16386,14.40606,47.16386",
+    "geom:latitude":47.16386,
+    "geom:longitude":14.40606,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1623,
+    "gn:population":2125,
+    "iso:country":"AT",
+    "lbl:latitude":47.16386,
+    "lbl:longitude":14.40606,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873528,
+    "qs_pg:gn_pop":1623,
+    "qs_pg:name":"Scheifling",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108974,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873528,
+        "qs_pg:id":108974
+    },
+    "wof:country":"AT",
+    "wof:created":1497047495,
+    "wof:geomhash":"bcd070264560b99d7afcc175931e874d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1125372369,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125372369,
+    "wof:lastmodified":1536698207,
+    "wof:name":"Scheifling",
+    "wof:parent_id":102049733,
+    "wof:placetype":"localadmin",
+    "wof:population":2125,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838797
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40606,
+    47.16386,
+    14.40606,
+    47.16386
+],
+  "geometry": {"coordinates":[14.40606,47.16386],"type":"Point"}
+}

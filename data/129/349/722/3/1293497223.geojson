@@ -1,0 +1,71 @@
+{
+  "id": 1293497223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21667,46.95,16.21667,46.95",
+    "geom:latitude":46.95,
+    "geom:longitude":16.21667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10506.0",
+    "gn:asciiname":"Pfeiferberg",
+    "gn:country_code":"AT",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768930,
+    "gn:latitude":46.95,
+    "gn:longitude":16.21667,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Pfeiferberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838719,
+        85632785,
+        102049715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768930
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"58b7d36f6dbbb1342d8dd4f5fffa3952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838719,
+            "locality_id":1293497223,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1293497223,
+    "wof:lastmodified":1536773569,
+    "wof:name":"Pfeiferberg",
+    "wof:parent_id":1108838719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21667,
+    46.95,
+    16.21667,
+    46.95
+],
+  "geometry": {"coordinates":[16.21667,46.95],"type":"Point"}
+}

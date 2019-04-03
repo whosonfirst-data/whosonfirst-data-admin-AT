@@ -1,0 +1,80 @@
+{
+  "id": 1327238921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86667,47.83333,14.86667,47.83333",
+    "geom:latitude":47.83333,
+    "geom:longitude":14.86667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30526.0",
+    "gn:asciiname":"Sankt Georgen am Reith",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766707,
+    "gn:latitude":47.83333,
+    "gn:longitude":14.86667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Georgen am Reith",
+    "gn:population":251,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Georgen",
+        "Sankt Georgen am Reith"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836625,
+        85632785,
+        102049801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766707,
+        "wk:page":"Sankt_Georgen_am_Reith"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b8a69a5055e9905f5de3ba40fa3e8420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049801,
+            "localadmin_id":1108836625,
+            "locality_id":1327238921,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327238921,
+    "wof:lastmodified":1537584935,
+    "wof:name":"Sankt Georgen am Reith",
+    "wof:parent_id":1108836625,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86667,
+    47.83333,
+    14.86667,
+    47.83333
+],
+  "geometry": {"coordinates":[14.86667,47.83333],"type":"Point"}
+}

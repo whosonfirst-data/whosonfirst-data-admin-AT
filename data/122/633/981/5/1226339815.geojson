@@ -1,0 +1,74 @@
+{
+  "id": 1226339815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34284,47.51929,15.34284,47.51929",
+    "geom:latitude":47.51929,
+    "geom:longitude":15.34284,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62128.0",
+    "gn:asciiname":"Pogusch",
+    "gn:country_code":"AT",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593929,
+    "gn:latitude":47.51929,
+    "gn:longitude":15.34284,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pogusch",
+    "gn:population":50,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839313,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593929
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2062f540100fa1b90bb3533facd64695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108839313,
+            "locality_id":1226339815,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226339815,
+    "wof:lastmodified":1536798159,
+    "wof:name":"Pogusch",
+    "wof:parent_id":1108839313,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34284,
+    47.51929000000001,
+    15.34284,
+    47.51929000000001
+],
+  "geometry": {"coordinates":[15.34284,47.51929000000001],"type":"Point"}
+}

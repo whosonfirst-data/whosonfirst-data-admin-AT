@@ -1,0 +1,71 @@
+{
+  "id": 1326931001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21707,48.15681,13.21707,48.15681",
+    "geom:latitude":48.15681,
+    "geom:longitude":13.21707,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40420.0",
+    "gn:asciiname":"Schweigetsreith",
+    "gn:country_code":"AT",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765384,
+    "gn:latitude":48.15681,
+    "gn:longitude":13.21707,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Schweigetsreith",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834751,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765384
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b7c15cd00d3d1311b15880051c0bca83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834751,
+            "locality_id":1326931001,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1326931001,
+    "wof:lastmodified":1536906773,
+    "wof:name":"Schweigetsreith",
+    "wof:parent_id":1108834751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21707,
+    48.15681,
+    13.21707,
+    48.15681
+],
+  "geometry": {"coordinates":[13.21707,48.15681],"type":"Point"}
+}

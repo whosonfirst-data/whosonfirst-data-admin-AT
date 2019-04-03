@@ -1,0 +1,71 @@
+{
+  "id": 1343969857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49843,48.07573,14.49843,48.07573",
+    "geom:latitude":48.07573,
+    "geom:longitude":14.49843,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30515.0",
+    "gn:asciiname":"Linzerod",
+    "gn:country_code":"AT",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772398,
+    "gn:latitude":48.07573,
+    "gn:longitude":14.49843,
+    "gn:modification_date":"2016-03-27",
+    "gn:name":"Linzer\u00f6d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836371,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772398
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7b345021a7ab25d9e9f5ec31b9bcfb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836371,
+            "locality_id":1343969857,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343969857,
+    "wof:lastmodified":1537005658,
+    "wof:name":"Linzerod",
+    "wof:parent_id":1108836371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49843,
+    48.07573,
+    14.49843,
+    48.07573
+],
+  "geometry": {"coordinates":[14.49843,48.07573],"type":"Point"}
+}

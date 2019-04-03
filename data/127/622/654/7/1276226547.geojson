@@ -1,0 +1,74 @@
+{
+  "id": 1276226547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17149,47.88072,13.17149,47.88072",
+    "geom:latitude":47.88072,
+    "geom:longitude":13.17149,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50310.0",
+    "gn:asciiname":"Kirchberg",
+    "gn:country_code":"AT",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774415,
+    "gn:latitude":47.88072,
+    "gn:longitude":13.17149,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kirchberg",
+    "gn:population":195,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837131,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774415
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9373bc928fb9968b4c424aab8450337e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837131,
+            "locality_id":1276226547,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1276226547,
+    "wof:lastmodified":1536922589,
+    "wof:name":"Kirchberg",
+    "wof:parent_id":1108837131,
+    "wof:placetype":"locality",
+    "wof:population":195,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17149,
+    47.88072,
+    13.17149,
+    47.88072
+],
+  "geometry": {"coordinates":[13.17149,47.88072],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1125806645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73333,47.03333,10.73333,47.03333",
+    "geom:latitude":47.03333,
+    "geom:longitude":10.73333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.03333,
+    "lbl:longitude":10.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_colloquial":[
+        "Feuchten"
+    ],
+    "name:deu_x_preferred":[
+        "Feichten"
+    ],
+    "name:deu_x_variant":[
+        "Feuchten",
+        "Feichten im Kaunertal"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2779615,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Feuchten",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Tirol",
+    "qs_pg:photos":241,
+    "qs_pg:photos_1k":49,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":241,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165752,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":550576,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Tirol",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837303,
+        85632785,
+        102049707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779615,
+        "gp:id":550576,
+        "qs_pg:id":1165752
+    },
+    "wof:country":"AT",
+    "wof:created":1497291492,
+    "wof:geomhash":"3942f2da16c680a1e51287c6af62438b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837303,
+            "locality_id":1125806645,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125806645,
+    "wof:lastmodified":1509393328,
+    "wof:name":"Feuchten",
+    "wof:parent_id":1108837303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73333,
+    47.03333,
+    10.73333,
+    47.03333
+],
+  "geometry": {"coordinates":[10.73333,47.03333],"type":"Point"}
+}

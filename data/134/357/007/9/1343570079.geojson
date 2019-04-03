@@ -1,0 +1,71 @@
+{
+  "id": 1343570079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22937,46.74104,14.22937,46.74104",
+    "geom:latitude":46.74104,
+    "geom:longitude":14.22937,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20515.0",
+    "gn:asciiname":"Mauer",
+    "gn:country_code":"AT",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":11592461,
+    "gn:latitude":46.74104,
+    "gn:longitude":14.22937,
+    "gn:modification_date":"2017-06-15",
+    "gn:name":"Mauer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838335,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592461
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"11c665e358914cdeda4f70031ffc0d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838335,
+            "locality_id":1343570079,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1343570079,
+    "wof:lastmodified":1537082342,
+    "wof:name":"Mauer",
+    "wof:parent_id":1108838335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22937,
+    46.74104000000001,
+    14.22937,
+    46.74104000000001
+],
+  "geometry": {"coordinates":[14.22937,46.74104000000001],"type":"Point"}
+}

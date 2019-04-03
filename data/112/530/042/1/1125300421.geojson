@@ -1,0 +1,99 @@
+{
+  "id": 1125300421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12493,48.05559,16.12493,48.05559",
+    "geom:latitude":48.05559,
+    "geom:longitude":16.12493,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":1508,
+    "gn:population":1508,
+    "iso:country":"AT",
+    "lbl:latitude":48.05559,
+    "lbl:longitude":16.12493,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u043b\u0438\u0433\u0435\u043d\u043a\u0440\u043e\u0439\u0446"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2776586,
+    "qs_pg:gn_pop":1508,
+    "qs_pg:name":"Heiligenkreuz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":399,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1101801,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673999,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776586,
+        "gp:id":12673999,
+        "qs_pg:id":1101801
+    },
+    "wof:country":"AT",
+    "wof:created":1497043390,
+    "wof:geomhash":"d15447af1a969f31925591c23fb209bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1125300421,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125300421,
+    "wof:lastmodified":1536698141,
+    "wof:name":"Heiligenkreuz",
+    "wof:parent_id":102049829,
+    "wof:placetype":"localadmin",
+    "wof:population":1508,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836631
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12493,
+    48.05559,
+    16.12493,
+    48.05559
+],
+  "geometry": {"coordinates":[16.12493,48.05559],"type":"Point"}
+}

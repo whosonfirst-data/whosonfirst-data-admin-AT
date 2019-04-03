@@ -1,0 +1,103 @@
+{
+  "id": 1125382241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.92224,47.82873,16.92224,47.82873",
+    "geom:latitude":47.82873,
+    "geom:longitude":16.92224,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2844,
+    "gn:population":2866,
+    "iso:country":"AT",
+    "lbl:latitude":47.82873,
+    "lbl:longitude":16.92224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Fraunkiachn"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d0\u05d5\u05e0\u05e7\u05d9\u05e8\u05db\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Boldogasszony"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0440\u0430\u0443\u044d\u043d\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0430\u0443\u044d\u043d\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0430\u0443\u0435\u043d\u043a\u0456\u0440\u0445\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u52b3\u6069\u57fa\u5174"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871586,
+    "qs_pg:gn_pop":2844,
+    "qs_pg:name":"Frauenkirchen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155015,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871586,
+        "qs_pg:id":1155015
+    },
+    "wof:country":"AT",
+    "wof:created":1497048116,
+    "wof:geomhash":"8b7cce1ee14abaf028a24f154adb4566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1125382241,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125382241,
+    "wof:lastmodified":1534530999,
+    "wof:name":"Frauenkirchen",
+    "wof:parent_id":102049841,
+    "wof:placetype":"localadmin",
+    "wof:population":2866,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838505
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.92224,
+    47.82873,
+    16.92224,
+    47.82873
+],
+  "geometry": {"coordinates":[16.92224,47.82873],"type":"Point"}
+}

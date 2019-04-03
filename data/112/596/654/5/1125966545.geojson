@@ -1,0 +1,93 @@
+{
+  "id": 1125966545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53333,47.8,13.53333,47.8",
+    "geom:latitude":47.8,
+    "geom:longitude":13.53333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.8,
+    "lbl:longitude":13.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Weissenbach"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2761618,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Wei\u00dfenbach am Attersee",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":650,
+    "qs_pg:photos_1k":132,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":650,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":222232,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":547249,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836507,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761618,
+        "gp:id":547249,
+        "qs_pg:id":222232
+    },
+    "wof:country":"AT",
+    "wof:created":1497297997,
+    "wof:geomhash":"403e78f78362898ae338d9a97e4ccfca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836507,
+            "locality_id":1125966545,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125966545,
+    "wof:lastmodified":1509403697,
+    "wof:name":"Wei\u00dfenbach am Attersee",
+    "wof:parent_id":1108836507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53333,
+    47.8,
+    13.53333,
+    47.8
+],
+  "geometry": {"coordinates":[13.53333,47.8],"type":"Point"}
+}

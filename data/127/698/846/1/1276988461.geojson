@@ -1,0 +1,74 @@
+{
+  "id": 1276988461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15598,48.59892,15.15598,48.59892",
+    "geom:latitude":48.59892,
+    "geom:longitude":15.15598,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"325",
+    "gn:admin3_code":"32530.0",
+    "gn:asciiname":"Moidrams",
+    "gn:country_code":"AT",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771317,
+    "gn:latitude":48.59892,
+    "gn:longitude":15.15598,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Moidrams",
+    "gn:population":263,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836883,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771317
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ed6a56a142b0ec6b359b1b69ec7ea7a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836883,
+            "locality_id":1276988461,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276988461,
+    "wof:lastmodified":1536895315,
+    "wof:name":"Moidrams",
+    "wof:parent_id":1108836883,
+    "wof:placetype":"locality",
+    "wof:population":263,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15598,
+    48.59892,
+    15.15598,
+    48.59892
+],
+  "geometry": {"coordinates":[15.15598,48.59892],"type":"Point"}
+}

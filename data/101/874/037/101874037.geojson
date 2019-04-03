@@ -1,0 +1,81 @@
+{
+  "id": 101874037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.751279,48.006862,14.751279,48.006862",
+    "geom:latitude":48.006862,
+    "geom:longitude":14.751279,
+    "iso:country":"AT",
+    "lbl:latitude":48.006862,
+    "lbl:longitude":14.751279,
+    "mps:latitude":48.006862,
+    "mps:longitude":14.751279,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Nieder\u00f6sterreich",
+    "qs:a1r":"0",
+    "qs:a2":"Amstetten",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rosenau am Sonntagberg",
+    "qs:loc_alt":"Rosenau am Sonntagberg",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836699,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767214,
+        "gp:id":543579,
+        "qs:id":475732,
+        "qs_pg:id":475732
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e1a0f3faf1d8987a68f015657fb54756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836699,
+            "locality_id":101874037,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":101874037,
+    "wof:lastmodified":1544751599,
+    "wof:name":"Rosenau am Sonntagberg",
+    "wof:parent_id":1108836699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.751279,
+    48.006862,
+    14.751279,
+    48.006862
+],
+  "geometry": {"coordinates":[14.751279,48.006862],"type":"Point"}
+}

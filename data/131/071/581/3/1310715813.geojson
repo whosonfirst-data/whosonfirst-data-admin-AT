@@ -1,0 +1,80 @@
+{
+  "id": 1310715813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35,47.23333,16.35,47.23333",
+    "geom:latitude":47.23333,
+    "geom:longitude":16.35,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"109.0",
+    "gn:admin3_code":"10905.0",
+    "gn:asciiname":"Welgersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761526,
+    "gn:latitude":47.23333,
+    "gn:longitude":16.35,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Welgersdorf",
+    "gn:population":330,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Velegaj"
+    ],
+    "name:hun_x_preferred":[
+        "Velege"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838651,
+        85632785,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761526
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8987d791f877f8f608598899fc46063c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838651,
+            "locality_id":1310715813,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1310715813,
+    "wof:lastmodified":1537584914,
+    "wof:name":"Welgersdorf",
+    "wof:parent_id":1108838651,
+    "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35,
+    47.23333,
+    16.35,
+    47.23333
+],
+  "geometry": {"coordinates":[16.35,47.23333],"type":"Point"}
+}

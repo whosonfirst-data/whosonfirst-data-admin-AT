@@ -1,0 +1,110 @@
+{
+  "id": 85898447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7643653.448195,
+    "geom:bbox":"14.296886,48.249002,14.296886,48.249002",
+    "geom:latitude":48.249002,
+    "geom:longitude":14.296886,
+    "iso:country":"AT",
+    "lbl:latitude":48.249002,
+    "lbl:longitude":14.296886,
+    "mps:latitude":48.243659,
+    "mps:longitude":14.293133,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Scharlinz"
+    ],
+    "name:unk_x_variant":[
+        "Scharlinz"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_nam_loc":"Linz, Linz Stadt, Ober\u00f6sterreich, AT",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Scharlinz",
+    "qs:local_max":22933,
+    "qs:local_sum":38224,
+    "qs:localhoods":15,
+    "qs:name":"Scharlinz",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Ober\u00f6sterreich",
+    "qs:name_adm2":"Linz Stadt",
+    "qs:name_lau":"Linz",
+    "qs:name_local":"Linz",
+    "qs:photo_max":75,
+    "qs:photo_sum":390,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":31,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344711,
+    "qs:woe_adm2":12591722,
+    "qs:woe_lau":12674377,
+    "qs:woe_local":12674377,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766144,
+        "gp:id":546699,
+        "qs:id":1080432,
+        "qs_pg:id":1080432
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"47a0bba4b227ae2f9f84fb10526ccb2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
+            "neighbourhood_id":85898447,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":85898447,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932066,
+    "wof:name":"Scharlinz",
+    "wof:parent_id":101748071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.296886,
+    48.249002,
+    14.296886,
+    48.249002
+],
+  "geometry": {"coordinates":[14.296886,48.249002],"type":"Point"}
+}

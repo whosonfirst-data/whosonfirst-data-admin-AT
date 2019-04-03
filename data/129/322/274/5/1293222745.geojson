@@ -1,0 +1,71 @@
+{
+  "id": 1293222745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17556,46.80611,15.17556,46.80611",
+    "geom:latitude":46.80611,
+    "geom:longitude":15.17556,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60344.0",
+    "gn:asciiname":"Kigerl",
+    "gn:country_code":"AT",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219770,
+    "gn:latitude":46.80611,
+    "gn:longitude":15.17556,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Kigerl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219770
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"90f9890a53eba158d26f95843f2351cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":1293222745,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293222745,
+    "wof:lastmodified":1536671667,
+    "wof:name":"Kigerl",
+    "wof:parent_id":1108839301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17556,
+    46.80611,
+    15.17556,
+    46.80611
+],
+  "geometry": {"coordinates":[15.17556,46.80611],"type":"Point"}
+}

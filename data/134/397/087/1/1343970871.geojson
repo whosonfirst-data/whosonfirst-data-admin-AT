@@ -1,0 +1,74 @@
+{
+  "id": 1343970871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75,46.7,13.75,46.7",
+    "geom:latitude":46.7,
+    "geom:longitude":13.75,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"207",
+    "gn:admin3_code":"20712.0",
+    "gn:asciiname":"Amberg",
+    "gn:country_code":"AT",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782603,
+    "gn:latitude":46.7,
+    "gn:longitude":13.75,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Amberg",
+    "gn:population":35,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838341,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782603
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dc73efb92a69cc31ea46f6b3427f2a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838341,
+            "locality_id":1343970871,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1343970871,
+    "wof:lastmodified":1537004154,
+    "wof:name":"Amberg",
+    "wof:parent_id":1108838341,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75,
+    46.7,
+    13.75,
+    46.7
+],
+  "geometry": {"coordinates":[13.75,46.7],"type":"Point"}
+}

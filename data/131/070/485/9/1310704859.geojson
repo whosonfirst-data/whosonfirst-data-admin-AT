@@ -1,0 +1,74 @@
+{
+  "id": 1310704859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55658,46.67709,14.55658,46.67709",
+    "geom:latitude":46.67709,
+    "geom:longitude":14.55658,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20817.0",
+    "gn:asciiname":"Frankenberg",
+    "gn:country_code":"AT",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611742,
+    "gn:latitude":46.67709,
+    "gn:longitude":14.55658,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Frankenberg",
+    "gn:population":25,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838391,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611742
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0dab7fefb919e1b63aa6770dfb1424e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838391,
+            "locality_id":1310704859,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310704859,
+    "wof:lastmodified":1536627495,
+    "wof:name":"Frankenberg",
+    "wof:parent_id":1108838391,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55658,
+    46.67709,
+    14.55658,
+    46.67709
+],
+  "geometry": {"coordinates":[14.55658,46.67709],"type":"Point"}
+}

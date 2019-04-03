@@ -1,0 +1,71 @@
+{
+  "id": 1293595199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42659,48.01238,14.42659,48.01238",
+    "geom:latitude":48.01238,
+    "geom:longitude":14.42659,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"415",
+    "gn:admin3_code":"41514.0",
+    "gn:asciiname":"Wohlfahrtsberg",
+    "gn:country_code":"AT",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609973,
+    "gn:latitude":48.01238,
+    "gn:longitude":14.42659,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Wohlfahrtsberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836121,
+        85632785,
+        102049819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609973
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d4b7b167ce88c04c97991d378ab1e56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836121,
+            "locality_id":1293595199,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293595199,
+    "wof:lastmodified":1536630152,
+    "wof:name":"Wohlfahrtsberg",
+    "wof:parent_id":1108836121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42659,
+    48.01238,
+    14.42659,
+    48.01238
+],
+  "geometry": {"coordinates":[14.42659,48.01238],"type":"Point"}
+}

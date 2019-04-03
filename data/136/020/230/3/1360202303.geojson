@@ -1,0 +1,86 @@
+{
+  "id": 1360202303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54356,47.50363,16.54356,47.50363",
+    "geom:latitude":47.50363,
+    "geom:longitude":16.54356,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"108",
+    "gn:admin3_code":"10804.0",
+    "gn:asciiname":"Langental",
+    "gn:country_code":"AT",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773003,
+    "gn:latitude":47.50363,
+    "gn:longitude":16.54356,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Langental",
+    "gn:population":83,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Langental"
+    ],
+    "name:hrv_x_preferred":[
+        "Longitolj"
+    ],
+    "name:hun_x_preferred":[
+        "Langat\u00f3"
+    ],
+    "name:hun_x_variant":[
+        "Kis-Ligv\u00e1nd"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838645,
+        85632785,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773003
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b614f3d2dead5701119e4799d9964a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838645,
+            "locality_id":1360202303,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1360202303,
+    "wof:lastmodified":1537584957,
+    "wof:name":"Langental",
+    "wof:parent_id":1108838645,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54356,
+    47.50363,
+    16.54356,
+    47.50363
+],
+  "geometry": {"coordinates":[16.54356,47.50363],"type":"Point"}
+}

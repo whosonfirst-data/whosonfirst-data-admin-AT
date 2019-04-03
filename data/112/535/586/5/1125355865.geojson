@@ -1,0 +1,82 @@
+{
+  "id": 1125355865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56203,48.5874,14.56203,48.5874",
+    "geom:latitude":48.5874,
+    "geom:longitude":14.56203,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1676,
+    "gn:population":1590,
+    "iso:country":"AT",
+    "lbl:latitude":48.5874,
+    "lbl:longitude":14.56203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873130,
+    "qs_pg:gn_pop":1676,
+    "qs_pg:name":"Windhaag bei Freistadt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743481,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873130,
+        "qs_pg:id":743481
+    },
+    "wof:country":"AT",
+    "wof:created":1497046467,
+    "wof:geomhash":"144c33178eb82e61562a8bcbef437ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1125355865,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125355865,
+    "wof:lastmodified":1534379140,
+    "wof:name":"Windhaag bei Freistadt",
+    "wof:parent_id":102049883,
+    "wof:placetype":"localadmin",
+    "wof:population":1590,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835117
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56203,
+    48.5874,
+    14.56203,
+    48.5874
+],
+  "geometry": {"coordinates":[14.56203,48.5874],"type":"Point"}
+}

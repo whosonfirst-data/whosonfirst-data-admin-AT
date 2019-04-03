@@ -1,0 +1,82 @@
+{
+  "id": 1125409667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58646,47.48474,9.58646,47.48474",
+    "geom:latitude":47.48474,
+    "geom:longitude":9.58646,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1557,
+    "gn:population":1819,
+    "iso:country":"AT",
+    "lbl:latitude":47.48474,
+    "lbl:longitude":9.58646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872658,
+    "qs_pg:gn_pop":1557,
+    "qs_pg:name":"Gai\u00dfau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155327,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872658,
+        "qs_pg:id":1155327
+    },
+    "wof:country":"AT",
+    "wof:created":1497049895,
+    "wof:geomhash":"5fbe873812ed1af378e60894bcce3768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1125409667,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125409667,
+    "wof:lastmodified":1534530992,
+    "wof:name":"Gai\u00dfau",
+    "wof:parent_id":102049751,
+    "wof:placetype":"localadmin",
+    "wof:population":1819,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837947
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58646,
+    47.48474,
+    9.58646,
+    47.48474
+],
+  "geometry": {"coordinates":[9.58646,47.48474],"type":"Point"}
+}

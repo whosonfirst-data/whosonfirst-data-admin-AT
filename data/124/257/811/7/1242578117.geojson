@@ -1,0 +1,71 @@
+{
+  "id": 1242578117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.46861,48.54194,13.46861,48.54194",
+    "geom:latitude":48.54194,
+    "geom:longitude":13.46861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41423.0",
+    "gn:asciiname":"Unedt",
+    "gn:country_code":"AT",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324526,
+    "gn:latitude":48.54194,
+    "gn:longitude":13.46861,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Unedt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836073,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324526
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"96b6cbefbec71afca154faacd8cf2e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836073,
+            "locality_id":1242578117,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1242578117,
+    "wof:lastmodified":1537060234,
+    "wof:name":"Unedt",
+    "wof:parent_id":1108836073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46861,
+    48.54194,
+    13.46861,
+    48.54194
+],
+  "geometry": {"coordinates":[13.46861,48.54194],"type":"Point"}
+}

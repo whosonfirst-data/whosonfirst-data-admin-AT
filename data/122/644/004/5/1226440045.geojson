@@ -1,0 +1,76 @@
+{
+  "id": 1226440045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,46.75,15.56667,46.75",
+    "geom:latitude":46.75,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"610",
+    "gn:admin3_code":"61045.0",
+    "gn:asciiname":"Landscha an der Mur",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773054,
+    "gn:latitude":46.75,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Landscha an der Mur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landscha",
+        "Landscha an der Mur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839021,
+        85632785,
+        102049699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773054
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9488a8dd4892646cc642d84f44b74be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839021,
+            "locality_id":1226440045,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226440045,
+    "wof:lastmodified":1537584957,
+    "wof:name":"Landscha an der Mur",
+    "wof:parent_id":1108839021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    46.75,
+    15.56667,
+    46.75
+],
+  "geometry": {"coordinates":[15.56667,46.75],"type":"Point"}
+}

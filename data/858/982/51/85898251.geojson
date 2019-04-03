@@ -1,0 +1,112 @@
+{
+  "id": 85898251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":28080689.612843,
+    "geom:bbox":"13.822858,46.581546,13.822858,46.581546",
+    "geom:latitude":46.581546,
+    "geom:longitude":13.822858,
+    "iso:country":"AT",
+    "lbl:latitude":46.581546,
+    "lbl:longitude":13.822858,
+    "mps:latitude":46.577389,
+    "mps:longitude":13.81979,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Oberfederaun"
+    ],
+    "name:unk_x_variant":[
+        "Oberfederaun"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7871492,
+    "qs:gn_nam_loc":"Villach, Villach Stadt, K\u00e4rnten, AT",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Oberfederaun",
+    "qs:local_max":4207,
+    "qs:local_sum":4538,
+    "qs:localhoods":3,
+    "qs:name":"Oberfederaun",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"K\u00e4rnten",
+    "qs:name_adm2":"Villach Stadt",
+    "qs:name_lau":"Villach",
+    "qs:name_local":"Villach",
+    "qs:photo_max":45,
+    "qs:photo_sum":284,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":40,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344709,
+    "qs:woe_adm2":12591677,
+    "qs:woe_lau":12673563,
+    "qs:woe_local":12673563,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1108838145,
+        85632785,
+        102049673,
+        85681655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770162,
+        "gp:id":540089,
+        "qs:id":281859
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"36c5aca429b13991a5642e3831307e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":-1,
+            "neighbourhood_id":85898251,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":85898251,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1534379222,
+    "wof:name":"Oberfederaun",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1126085605
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.822858,
+    46.581546,
+    13.822858,
+    46.581546
+],
+  "geometry": {"coordinates":[13.822858,46.581546],"type":"Point"}
+}

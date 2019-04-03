@@ -1,0 +1,71 @@
+{
+  "id": 1327255701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46311,47.54902,14.46311,47.54902",
+    "geom:latitude":47.54902,
+    "geom:longitude":14.46311,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61253.0",
+    "gn:asciiname":"Kaiserau",
+    "gn:country_code":"AT",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610088,
+    "gn:latitude":47.54902,
+    "gn:longitude":14.46311,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Kaiserau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838983,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610088
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6f65c1f9bb2554f488ceeefa0847d95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838983,
+            "locality_id":1327255701,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1327255701,
+    "wof:lastmodified":1536936742,
+    "wof:name":"Kaiserau",
+    "wof:parent_id":1108838983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46311,
+    47.54902,
+    14.46311,
+    47.54902
+],
+  "geometry": {"coordinates":[14.46311,47.54902],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209012137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84426,48.35049,15.84426,48.35049",
+    "geom:latitude":48.35049,
+    "geom:longitude":15.84426,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"321",
+    "gn:admin3_code":"32141.0",
+    "gn:asciiname":"Maria Ponsee",
+    "gn:country_code":"AT",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771915,
+    "gn:latitude":48.35049,
+    "gn:longitude":15.84426,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Maria Ponsee",
+    "gn:population":118,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771915
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a7e690c994eb293370f2b33a03621478",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209012137
+        }
+    ],
+    "wof:id":1209012137,
+    "wof:lastmodified":1536300411,
+    "wof:name":"Maria Ponsee",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84426,
+    48.35049,
+    15.84426,
+    48.35049
+],
+  "geometry": {"coordinates":[15.84426,48.35049],"type":"Point"}
+}

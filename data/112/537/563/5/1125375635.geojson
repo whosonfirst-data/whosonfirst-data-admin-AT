@@ -1,0 +1,91 @@
+{
+  "id": 1125375635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86603,48.66024,13.86603,48.66024",
+    "geom:latitude":48.66024,
+    "geom:longitude":13.86603,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1606,
+    "gn:population":1537,
+    "iso:country":"AT",
+    "lbl:latitude":48.66024,
+    "lbl:longitude":13.86603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u042e\u043b\u044c\u0431\u0430\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043b\u044c\u0431\u0430\u0445"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c24\u5c14\u5df4\u8d6b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873195,
+    "qs_pg:gn_pop":1606,
+    "qs_pg:name":"Julbach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":904334,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873195,
+        "qs_pg:id":904334
+    },
+    "wof:country":"AT",
+    "wof:created":1497047721,
+    "wof:geomhash":"b7644e72f50a7149aeffd1ef90cb7b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125375635,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125375635,
+    "wof:lastmodified":1534379167,
+    "wof:name":"Julbach",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":1537,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835957
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86603,
+    48.66024,
+    13.86603,
+    48.66024
+],
+  "geometry": {"coordinates":[13.86603,48.66024],"type":"Point"}
+}

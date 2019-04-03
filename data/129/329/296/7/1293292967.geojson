@@ -1,0 +1,71 @@
+{
+  "id": 1293292967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51654,48.51996,14.51654,48.51996",
+    "geom:latitude":48.51996,
+    "geom:longitude":14.51654,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40601.0",
+    "gn:asciiname":"Graben",
+    "gn:country_code":"AT",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778204,
+    "gn:latitude":48.51996,
+    "gn:longitude":14.51654,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Graben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835061,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778204
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9fe276273c561ed150d347fcfdd7110e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835061,
+            "locality_id":1293292967,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293292967,
+    "wof:lastmodified":1537064590,
+    "wof:name":"Graben",
+    "wof:parent_id":1108835061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51654,
+    48.51996,
+    14.51654,
+    48.51996
+],
+  "geometry": {"coordinates":[14.51654,48.51996],"type":"Point"}
+}

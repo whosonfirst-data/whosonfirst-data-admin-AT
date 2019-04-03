@@ -1,0 +1,82 @@
+{
+  "id": 1125381613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63905,46.76638,15.63905,46.76638",
+    "geom:latitude":46.76638,
+    "geom:longitude":15.63905,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1835,
+    "gn:population":1835,
+    "iso:country":"AT",
+    "lbl:latitude":46.76638,
+    "lbl:longitude":15.63905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873472,
+    "qs_pg:gn_pop":1835,
+    "qs_pg:name":"Sankt Veit am Vogau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":381191,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873472,
+        "qs_pg:id":381191
+    },
+    "wof:country":"AT",
+    "wof:created":1497048081,
+    "wof:geomhash":"78468b9b7b1799d75da541b2dab02f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1125381613,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125381613,
+    "wof:lastmodified":1536698219,
+    "wof:name":"Sankt Veit am Vogau",
+    "wof:parent_id":102049699,
+    "wof:placetype":"localadmin",
+    "wof:population":1835,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839027
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63905,
+    46.76638,
+    15.63905,
+    46.76638
+],
+  "geometry": {"coordinates":[15.63905,46.76638],"type":"Point"}
+}

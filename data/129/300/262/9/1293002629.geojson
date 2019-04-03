@@ -1,0 +1,74 @@
+{
+  "id": 1293002629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21358,48.87076,15.21358,48.87076",
+    "geom:latitude":48.87076,
+    "geom:longitude":15.21358,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"322",
+    "gn:admin3_code":"32206.0",
+    "gn:asciiname":"Immenschlag",
+    "gn:country_code":"AT",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775311,
+    "gn:latitude":48.87076,
+    "gn:longitude":15.21358,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Immenschlag",
+    "gn:population":38,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835481,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775311
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b956388eace6dec84f1f528bf13ed7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108835481,
+            "locality_id":1293002629,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293002629,
+    "wof:lastmodified":1536988174,
+    "wof:name":"Immenschlag",
+    "wof:parent_id":1108835481,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21358,
+    48.87076,
+    15.21358,
+    48.87076
+],
+  "geometry": {"coordinates":[15.21358,48.87076],"type":"Point"}
+}

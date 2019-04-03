@@ -1,0 +1,71 @@
+{
+  "id": 1327433475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0202,48.24085,15.0202,48.24085",
+    "geom:latitude":48.24085,
+    "geom:longitude":15.0202,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31541.0",
+    "gn:asciiname":"Oberfehl",
+    "gn:country_code":"AT",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770161,
+    "gn:latitude":48.24085,
+    "gn:longitude":15.0202,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Oberfehl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836867,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770161
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8141cf1076e96a79586f8baac5ba7a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836867,
+            "locality_id":1327433475,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327433475,
+    "wof:lastmodified":1536679234,
+    "wof:name":"Oberfehl",
+    "wof:parent_id":1108836867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0202,
+    48.24085,
+    15.0202,
+    48.24085
+],
+  "geometry": {"coordinates":[15.0202,48.24085],"type":"Point"}
+}

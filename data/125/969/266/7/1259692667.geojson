@@ -1,0 +1,74 @@
+{
+  "id": 1259692667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46556,46.83056,14.46556,46.83056",
+    "geom:latitude":46.83056,
+    "geom:longitude":14.46556,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20512.0",
+    "gn:asciiname":"Garzern",
+    "gn:country_code":"AT",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324638,
+    "gn:latitude":46.83056,
+    "gn:longitude":14.46556,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Garzern",
+    "gn:population":32,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838221,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324638
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7a94681024985b00f77bcdad4b14bf09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838221,
+            "locality_id":1259692667,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259692667,
+    "wof:lastmodified":1537051533,
+    "wof:name":"Garzern",
+    "wof:parent_id":1108838221,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46556,
+    46.83056,
+    14.46556,
+    46.83056
+],
+  "geometry": {"coordinates":[14.46556,46.83056],"type":"Point"}
+}

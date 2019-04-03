@@ -1,0 +1,74 @@
+{
+  "id": 1310305487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00725,48.19441,13.00725,48.19441",
+    "geom:latitude":48.19441,
+    "geom:longitude":13.00725,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40427.0",
+    "gn:asciiname":"Passberg",
+    "gn:country_code":"AT",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610120,
+    "gn:latitude":48.19441,
+    "gn:longitude":13.00725,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pa\u00dfberg",
+    "gn:population":2,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834765,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610120
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1f88b670b87fecaf8d5dceb4edf4306e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834765,
+            "locality_id":1310305487,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310305487,
+    "wof:lastmodified":1536708228,
+    "wof:name":"Passberg",
+    "wof:parent_id":1108834765,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00725,
+    48.19441,
+    13.00725,
+    48.19441
+],
+  "geometry": {"coordinates":[13.00725,48.19441],"type":"Point"}
+}

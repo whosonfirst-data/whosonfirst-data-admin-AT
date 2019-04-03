@@ -1,0 +1,74 @@
+{
+  "id": 1209908773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62812,47.14066,14.62812,47.14066",
+    "geom:latitude":47.14066,
+    "geom:longitude":14.62812,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"620",
+    "gn:admin3_code":"62040.0",
+    "gn:asciiname":"Ossach",
+    "gn:country_code":"AT",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593024,
+    "gn:latitude":47.14066,
+    "gn:longitude":14.62812,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ossach",
+    "gn:population":46,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839401,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593024
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2780c63a089ee6d01a9957f24f8e542d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108839401,
+            "locality_id":1209908773,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1209908773,
+    "wof:lastmodified":1536381055,
+    "wof:name":"Ossach",
+    "wof:parent_id":1108839401,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62812,
+    47.14066,
+    14.62812,
+    47.14066
+],
+  "geometry": {"coordinates":[14.62812,47.14066],"type":"Point"}
+}

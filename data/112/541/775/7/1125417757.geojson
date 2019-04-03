@@ -1,0 +1,97 @@
+{
+  "id": 1125417757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18296,46.66791,14.18296,46.66791",
+    "geom:latitude":46.66791,
+    "geom:longitude":14.18296,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4460,
+    "gn:population":4513,
+    "iso:country":"AT",
+    "lbl:latitude":46.66791,
+    "lbl:longitude":14.18296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:slv_x_preferred":[
+        "Mo\u017eberk"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u5821"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872764,
+    "qs_pg:gn_pop":4460,
+    "qs_pg:name":"Moosburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108694,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872764,
+        "qs_pg:id":108694
+    },
+    "wof:country":"AT",
+    "wof:created":1497051644,
+    "wof:geomhash":"c1c81c7a3393cb0bea320875235e2199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1125417757,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125417757,
+    "wof:lastmodified":1534531061,
+    "wof:name":"Moosburg",
+    "wof:parent_id":102049681,
+    "wof:placetype":"localadmin",
+    "wof:population":4513,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838185
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18296,
+    46.66791,
+    14.18296,
+    46.66791
+],
+  "geometry": {"coordinates":[14.18296,46.66791],"type":"Point"}
+}

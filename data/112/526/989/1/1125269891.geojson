@@ -1,0 +1,82 @@
+{
+  "id": 1125269891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16036,48.49324,15.16036,48.49324",
+    "geom:latitude":48.49324,
+    "geom:longitude":15.16036,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":874,
+    "gn:population":879,
+    "iso:country":"AT",
+    "lbl:latitude":48.49324,
+    "lbl:longitude":15.16036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873081,
+    "qs_pg:gn_pop":874,
+    "qs_pg:name":"Grafenschlag",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743463,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873081,
+        "qs_pg:id":743463
+    },
+    "wof:country":"AT",
+    "wof:created":1497042081,
+    "wof:geomhash":"1ba735ced0e41993f4ee4b6e35e750c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1125269891,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125269891,
+    "wof:lastmodified":1534379215,
+    "wof:name":"Grafenschlag",
+    "wof:parent_id":102049895,
+    "wof:placetype":"localadmin",
+    "wof:population":879,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834981
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16036,
+    48.49324,
+    15.16036,
+    48.49324
+],
+  "geometry": {"coordinates":[15.16036,48.49324],"type":"Point"}
+}

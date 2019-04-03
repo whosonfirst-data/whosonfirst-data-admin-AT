@@ -1,0 +1,71 @@
+{
+  "id": 1243456249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,47.48333,16.2,47.48333",
+    "geom:latitude":47.48333,
+    "geom:longitude":16.2,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"323.0",
+    "gn:admin3_code":"32315.0",
+    "gn:asciiname":"Pragart",
+    "gn:country_code":"AT",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768441,
+    "gn:latitude":47.48333,
+    "gn:longitude":16.2,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Pr\u00e4gart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836751,
+        85632785,
+        102049787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768441
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bf5a4f9047e4227f4192710fec93c12c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108836751,
+            "locality_id":1243456249,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243456249,
+    "wof:lastmodified":1536791715,
+    "wof:name":"Pragart",
+    "wof:parent_id":1108836751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    47.48333,
+    16.2,
+    47.48333
+],
+  "geometry": {"coordinates":[16.2,47.48333],"type":"Point"}
+}

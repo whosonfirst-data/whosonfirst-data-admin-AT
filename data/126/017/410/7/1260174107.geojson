@@ -1,0 +1,79 @@
+{
+  "id": 1260174107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40306,47.15806,14.40306,47.15806",
+    "geom:latitude":47.15806,
+    "geom:longitude":14.40306,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61444.0",
+    "gn:asciiname":"Lind bei Scheifling",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772434,
+    "gn:latitude":47.15806,
+    "gn:longitude":14.40306,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lind bei Scheifling",
+    "gn:population":545,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lind",
+        "Lind bei Scheifling"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838797,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772434
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"87ba7192cbcd2d6f29f06388425a86a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838797,
+            "locality_id":1260174107,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1260174107,
+    "wof:lastmodified":1537584956,
+    "wof:name":"Lind bei Scheifling",
+    "wof:parent_id":1108838797,
+    "wof:placetype":"locality",
+    "wof:population":545,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40306,
+    47.15806,
+    14.40306,
+    47.15806
+],
+  "geometry": {"coordinates":[14.40306,47.15806],"type":"Point"}
+}

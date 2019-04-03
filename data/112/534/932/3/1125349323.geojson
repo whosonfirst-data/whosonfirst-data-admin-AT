@@ -1,0 +1,110 @@
+{
+  "id": 1125349323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35607,48.06833,16.35607,48.06833",
+    "geom:latitude":48.06833,
+    "geom:longitude":16.35607,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.06833,
+    "lbl:longitude":16.35607,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043a\u0441\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:fra_x_preferred":[
+        "Laxenbourg"
+    ],
+    "name:por_x_preferred":[
+        "Laxemburgo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043a\u0441\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043a\u0441\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u514b\u68ee\u5821"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2772810,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Laxenburg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1478,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":902495,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674135,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772810,
+        "gp:id":12674135,
+        "qs_pg:id":902495
+    },
+    "wof:country":"AT",
+    "wof:created":1497046106,
+    "wof:geomhash":"80148f2a9bd2ced56ccc4a14c695b7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1125349323,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125349323,
+    "wof:lastmodified":1534531033,
+    "wof:name":"Laxenburg",
+    "wof:parent_id":102049837,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836739
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35607,
+    48.06833,
+    16.35607,
+    48.06833
+],
+  "geometry": {"coordinates":[16.35607,48.06833],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277005919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31361,48.39111,14.31361,48.39111",
+    "geom:latitude":48.39111,
+    "geom:longitude":14.31361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"416",
+    "gn:admin3_code":"41602.0",
+    "gn:asciiname":"Stratreith",
+    "gn:country_code":"AT",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3322066,
+    "gn:latitude":48.39111,
+    "gn:longitude":14.31361,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stratreith",
+    "gn:population":183,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836139,
+        85632785,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3322066
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a4f1af745690f6ebe58d5bd253aa84c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":1277005919,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1277005919,
+    "wof:lastmodified":1536871164,
+    "wof:name":"Stratreith",
+    "wof:parent_id":1108836139,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31361,
+    48.39111,
+    14.31361,
+    48.39111
+],
+  "geometry": {"coordinates":[14.31361,48.39111],"type":"Point"}
+}

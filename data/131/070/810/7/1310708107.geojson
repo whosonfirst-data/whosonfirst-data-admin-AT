@@ -1,0 +1,74 @@
+{
+  "id": 1310708107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11444,48.27361,14.11444,48.27361",
+    "geom:latitude":48.27361,
+    "geom:longitude":14.11444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40501.0",
+    "gn:asciiname":"Winkeln",
+    "gn:country_code":"AT",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3321841,
+    "gn:latitude":48.27361,
+    "gn:longitude":14.11444,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Winkeln",
+    "gn:population":197,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834811,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3321841
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a0729d1af2695651f9b43d207cfd98ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108834811,
+            "locality_id":1310708107,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310708107,
+    "wof:lastmodified":1536622534,
+    "wof:name":"Winkeln",
+    "wof:parent_id":1108834811,
+    "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11444,
+    48.27361,
+    14.11444,
+    48.27361
+],
+  "geometry": {"coordinates":[14.11444,48.27361],"type":"Point"}
+}

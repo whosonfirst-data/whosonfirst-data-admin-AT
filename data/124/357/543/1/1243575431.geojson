@@ -1,0 +1,76 @@
+{
+  "id": 1243575431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.50809,47.0624,11.50809,47.0624",
+    "geom:latitude":47.0624,
+    "geom:longitude":11.50809,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70362.0",
+    "gn:asciiname":"Sankt Jodok am Brenner",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766658,
+    "gn:latitude":47.0624,
+    "gn:longitude":11.50809,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Sankt Jodok am Brenner",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Jodok",
+        "Sankt Jodok om Brenner"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837633,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766658
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d1474886eaecd2e8c5ed6396d265748c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837633,
+            "locality_id":1243575431,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1243575431,
+    "wof:lastmodified":1537584934,
+    "wof:name":"Sankt Jodok am Brenner",
+    "wof:parent_id":1108837633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.50809,
+    47.0624,
+    11.50809,
+    47.0624
+],
+  "geometry": {"coordinates":[11.50809,47.0624],"type":"Point"}
+}

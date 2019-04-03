@@ -1,0 +1,74 @@
+{
+  "id": 1242971223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12971,48.54122,14.12971,48.54122",
+    "geom:latitude":48.54122,
+    "geom:longitude":14.12971,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41310.0",
+    "gn:asciiname":"Neuling",
+    "gn:country_code":"AT",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770728,
+    "gn:latitude":48.54122,
+    "gn:longitude":14.12971,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Neuling",
+    "gn:population":114,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835949,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770728
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"00cce037894ee7741c6b707071040027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835949,
+            "locality_id":1242971223,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1242971223,
+    "wof:lastmodified":1536992876,
+    "wof:name":"Neuling",
+    "wof:parent_id":1108835949,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12971,
+    48.54122,
+    14.12971,
+    48.54122
+],
+  "geometry": {"coordinates":[14.12971,48.54122],"type":"Point"}
+}

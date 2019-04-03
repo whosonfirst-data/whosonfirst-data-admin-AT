@@ -1,0 +1,66 @@
+{
+  "id": 1209426715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0627,48.16053,16.0627,48.16053",
+    "geom:latitude":48.16053,
+    "geom:longitude":16.0627,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"319.0",
+    "gn:admin3_code":"31951.0",
+    "gn:asciiname":"Pfalzau",
+    "gn:country_code":"AT",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768950,
+    "gn:latitude":48.16053,
+    "gn:longitude":16.0627,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pfalzau",
+    "gn:population":538,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768950
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"15ce51d52b4a9ffbc46670f8e79b5c5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209426715
+        }
+    ],
+    "wof:id":1209426715,
+    "wof:lastmodified":1536287360,
+    "wof:name":"Pfalzau",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":538,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0627,
+    48.16053,
+    16.0627,
+    48.16053
+],
+  "geometry": {"coordinates":[16.0627,48.16053],"type":"Point"}
+}

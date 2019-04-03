@@ -1,0 +1,74 @@
+{
+  "id": 1260292177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,48.88333,15.55,48.88333",
+    "geom:latitude":48.88333,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"322.0",
+    "gn:admin3_code":"32216.0",
+    "gn:asciiname":"Rabesreith",
+    "gn:country_code":"AT",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768146,
+    "gn:latitude":48.88333,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rabesreith",
+    "gn:population":90,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836649,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768146
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7326c2e852ee0369be3b0a5c5b09f030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836649,
+            "locality_id":1260292177,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1260292177,
+    "wof:lastmodified":1536700496,
+    "wof:name":"Rabesreith",
+    "wof:parent_id":1108836649,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    48.88333,
+    15.55,
+    48.88333
+],
+  "geometry": {"coordinates":[15.55,48.88333],"type":"Point"}
+}

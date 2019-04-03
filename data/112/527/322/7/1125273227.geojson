@@ -1,0 +1,109 @@
+{
+  "id": 1125273227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47783,48.21415,14.47783,48.21415",
+    "geom:latitude":48.21415,
+    "geom:longitude":14.47783,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11090,
+    "gn:population":11816,
+    "iso:country":"AT",
+    "lbl:latitude":48.21415,
+    "lbl:longitude":14.47783,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u042d\u043d\u0441"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043d\u0441"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u043d\u0441"
+    ],
+    "name:lat_x_preferred":[
+        "Anisia"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043d\u0441"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043d\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043d\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u65af"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872050,
+    "qs_pg:gn_pop":11090,
+    "qs_pg:name":"Enns",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":108487,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872050,
+        "qs_pg:id":108487
+    },
+    "wof:country":"AT",
+    "wof:created":1497042217,
+    "wof:geomhash":"e8e65bd11e02721ae96548d63aab82b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1125273227,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125273227,
+    "wof:lastmodified":1534530978,
+    "wof:name":"Enns",
+    "wof:parent_id":102049847,
+    "wof:placetype":"localadmin",
+    "wof:population":11816,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835527
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47783,
+    48.21415,
+    14.47783,
+    48.21415
+],
+  "geometry": {"coordinates":[14.47783,48.21415],"type":"Point"}
+}

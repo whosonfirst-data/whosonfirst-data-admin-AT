@@ -1,0 +1,74 @@
+{
+  "id": 1310208123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37664,46.67306,14.37664,46.67306",
+    "geom:latitude":46.67306,
+    "geom:longitude":14.37664,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"204",
+    "gn:admin3_code":"20418.0",
+    "gn:asciiname":"Thurn",
+    "gn:country_code":"AT",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594642,
+    "gn:latitude":46.67306,
+    "gn:longitude":14.37664,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Thurn",
+    "gn:population":11,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838181,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594642
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"04de0cbc4699a1296ac58d219b5c3740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838181,
+            "locality_id":1310208123,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310208123,
+    "wof:lastmodified":1536847360,
+    "wof:name":"Thurn",
+    "wof:parent_id":1108838181,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37664,
+    46.67306,
+    14.37664,
+    46.67306
+],
+  "geometry": {"coordinates":[14.37664,46.67306],"type":"Point"}
+}

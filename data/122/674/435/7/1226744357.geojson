@@ -1,0 +1,71 @@
+{
+  "id": 1226744357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.35,47.46667,12.35,47.46667",
+    "geom:latitude":47.46667,
+    "geom:longitude":12.35,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"704",
+    "gn:admin3_code":"70414.0",
+    "gn:asciiname":"Muenichau",
+    "gn:country_code":"AT",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771037,
+    "gn:latitude":47.46667,
+    "gn:longitude":12.35,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"M\u00fcnichau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837369,
+        85632785,
+        102049763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771037
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b5d645338873b2b45c47d904721e6a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837369,
+            "locality_id":1226744357,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1226744357,
+    "wof:lastmodified":1536717870,
+    "wof:name":"Muenichau",
+    "wof:parent_id":1108837369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.35,
+    47.46667,
+    12.35,
+    47.46667
+],
+  "geometry": {"coordinates":[12.35,47.46667],"type":"Point"}
+}

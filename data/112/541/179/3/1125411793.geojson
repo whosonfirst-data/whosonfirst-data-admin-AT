@@ -1,0 +1,92 @@
+{
+  "id": 1125411793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.76667,47.2,9.76667,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":9.76667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.2,
+    "lbl:longitude":9.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2763658,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Th\u00fcringen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Vorarlberg",
+    "qs_pg:photos":3830,
+    "qs_pg:photos_1k":776,
+    "qs_pg:photos_9k":17,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3854,
+    "qs_pg:photos_sr":21,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1187802,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675681,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Vorarlberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763658,
+        "gp:id":12675681,
+        "qs_pg:id":1187802
+    },
+    "wof:country":"AT",
+    "wof:created":1497050417,
+    "wof:geomhash":"3d54c6559b2f35acd93b979f5c846044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1125411793,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125411793,
+    "wof:lastmodified":1534531060,
+    "wof:name":"Th\u00fcringen",
+    "wof:parent_id":102049711,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838073
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.76667,
+    47.2,
+    9.76667,
+    47.2
+],
+  "geometry": {"coordinates":[9.76667,47.2],"type":"Point"}
+}

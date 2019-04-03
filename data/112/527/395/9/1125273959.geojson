@@ -1,0 +1,82 @@
+{
+  "id": 1125273959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56367,47.91774,16.56367,47.91774",
+    "geom:latitude":47.91774,
+    "geom:longitude":16.56367,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":902,
+    "gn:population":934,
+    "iso:country":"AT",
+    "lbl:latitude":47.91774,
+    "lbl:longitude":16.56367,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872684,
+    "qs_pg:gn_pop":902,
+    "qs_pg:name":"Au am Leithaberge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108656,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872684,
+        "qs_pg:id":108656
+    },
+    "wof:country":"AT",
+    "wof:created":1497042242,
+    "wof:geomhash":"b8fe5dc559432f67e447c00f6b2d8b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1125273959,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125273959,
+    "wof:lastmodified":1534379106,
+    "wof:name":"Au am Leithaberge",
+    "wof:parent_id":102049845,
+    "wof:placetype":"localadmin",
+    "wof:population":934,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835463
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56367,
+    47.91774,
+    16.56367,
+    47.91774
+],
+  "geometry": {"coordinates":[16.56367,47.91774],"type":"Point"}
+}

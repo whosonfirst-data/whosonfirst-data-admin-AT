@@ -1,0 +1,78 @@
+{
+  "id": 1260296409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3494,48.54485,15.3494,48.54485",
+    "geom:latitude":48.54485,
+    "geom:longitude":15.3494,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"313",
+    "gn:admin3_code":"31336.0",
+    "gn:asciiname":"Marbach im Felde",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771975,
+    "gn:latitude":48.54485,
+    "gn:longitude":15.3494,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Marbach im Felde",
+    "gn:population":207,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marbach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834899,
+        85632785,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771975
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3850cae113d91580f7a14f073aec0c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108834899,
+            "locality_id":1260296409,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1260296409,
+    "wof:lastmodified":1537584954,
+    "wof:name":"Marbach im Felde",
+    "wof:parent_id":1108834899,
+    "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3494,
+    48.54485,
+    15.3494,
+    48.54485
+],
+  "geometry": {"coordinates":[15.3494,48.54485],"type":"Point"}
+}

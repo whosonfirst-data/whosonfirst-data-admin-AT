@@ -1,0 +1,105 @@
+{
+  "id": 1125295905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8,47.14972,9.8,47.14972",
+    "geom:latitude":47.14972,
+    "geom:longitude":9.8,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":3100,
+    "gn:population":3100,
+    "iso:country":"AT",
+    "lbl:latitude":47.14972,
+    "lbl:longitude":9.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0411\u044e\u0440\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044e\u0440\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5c14\u65af"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2781161,
+    "qs_pg:gn_pop":3100,
+    "qs_pg:name":"B\u00fcrs",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Vorarlberg",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":343849,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675630,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Vorarlberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781161,
+        "gp:id":12675630,
+        "qs_pg:id":343849
+    },
+    "wof:country":"AT",
+    "wof:created":1497043142,
+    "wof:geomhash":"fb279c0d588b63108c210045741d61ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1125295905,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125295905,
+    "wof:lastmodified":1534531009,
+    "wof:name":"B\u00fcrs",
+    "wof:parent_id":102049711,
+    "wof:placetype":"localadmin",
+    "wof:population":3100,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837913
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8,
+    47.14972,
+    9.8,
+    47.14972
+],
+  "geometry": {"coordinates":[9.8,47.14972],"type":"Point"}
+}

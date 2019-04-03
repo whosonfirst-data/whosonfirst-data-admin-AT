@@ -1,0 +1,82 @@
+{
+  "id": 101873975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.255018,46.813794,15.255018,46.813794",
+    "geom:latitude":46.813794,
+    "geom:longitude":15.255018,
+    "iso:country":"AT",
+    "lbl:latitude":46.813794,
+    "lbl:longitude":15.255018,
+    "mps:latitude":46.813794,
+    "mps:longitude":15.255018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Freidorf"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Steiermark",
+    "qs:a1r":"0",
+    "qs:a2":"Deutschlandsberg",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Freidorf an der La\u00dfnitz",
+    "qs:loc_alt":"Freidorf an der Lassnitz",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839297,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779296,
+        "gp:id":548399,
+        "qs:id":8
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"53663639995cc87b19b62fdaad5b669f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839297,
+            "locality_id":101873975,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":101873975,
+    "wof:lastmodified":1544751572,
+    "wof:name":"Freidorf an der La\u00dfnitz",
+    "wof:parent_id":1108839297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.255018,
+    46.813794,
+    15.255018,
+    46.813794
+],
+  "geometry": {"coordinates":[15.255018,46.813794],"type":"Point"}
+}

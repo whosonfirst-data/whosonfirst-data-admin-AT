@@ -1,0 +1,74 @@
+{
+  "id": 1293207859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.63333,48.05,16.63333,48.05",
+    "geom:latitude":48.05,
+    "geom:longitude":16.63333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"307",
+    "gn:admin3_code":"30726.0",
+    "gn:asciiname":"Gallbrunn",
+    "gn:country_code":"AT",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778973,
+    "gn:latitude":48.05,
+    "gn:longitude":16.63333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gallbrunn",
+    "gn:population":733,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836741,
+        85632785,
+        102049845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778973
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e50082dcc1fbd6cc5a310cccb146e271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049845,
+            "localadmin_id":1108836741,
+            "locality_id":1293207859,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293207859,
+    "wof:lastmodified":1536693344,
+    "wof:name":"Gallbrunn",
+    "wof:parent_id":1108836741,
+    "wof:placetype":"locality",
+    "wof:population":733,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.63332999999999,
+    48.05,
+    16.63332999999999,
+    48.05
+],
+  "geometry": {"coordinates":[16.63332999999999,48.05],"type":"Point"}
+}

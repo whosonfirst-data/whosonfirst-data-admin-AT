@@ -1,0 +1,65 @@
+{
+  "id": 102556303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8776,46.799,12.8776,46.799",
+    "geom:latitude":46.799,
+    "geom:longitude":12.8776,
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"2093",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591741,
+        "localadmin_id":12675414,
+        "planet_id":1,
+        "state_id":2344714
+    },
+    "wof:belongsto":[
+        85632785,
+        85681661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051693,
+        "icao:code":"LOKL",
+        "oa:id":"29465",
+        "wd:id":"Q1711005"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"48afd2ef8ff1b01433fa8e456942a8f2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556303,
+            "country_id":85632785,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":102556303,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Flugplatz Lienz-nikolsdorf",
+    "wof:parent_id":85681661,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.8776,
+    46.799,
+    12.8776,
+    46.799
+],
+  "geometry": {"coordinates":[12.8776,46.799],"type":"Point"}
+}

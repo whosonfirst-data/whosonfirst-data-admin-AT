@@ -1,0 +1,86 @@
+{
+  "id": 1125281495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.262775,47.129483,10.262775,47.129483",
+    "geom:latitude":47.129483,
+    "geom:longitude":10.262775,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.129483,
+    "lbl:longitude":10.262775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St. Anton am Arlberg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Tirol",
+    "qs_pg:photos":191,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":24,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5436,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083775,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675539,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Tirol",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681661,
+        102049707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12675539,
+        "qs_pg:id":1083775
+    },
+    "wof:country":"AT",
+    "wof:created":1497042518,
+    "wof:geomhash":"23376caded89d802f43a858fe8a4ba22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1125281495,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125281495,
+    "wof:lastmodified":1536698129,
+    "wof:name":"St. Anton am Arlberg",
+    "wof:parent_id":102049707,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837321
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.262775,
+    47.129483,
+    10.262775,
+    47.129483
+],
+  "geometry": {"coordinates":[10.262775,47.129483],"type":"Point"}
+}

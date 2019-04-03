@@ -1,0 +1,71 @@
+{
+  "id": 1243270177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6275,48.51306,13.6275,48.51306",
+    "geom:latitude":48.51306,
+    "geom:longitude":13.6275,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41420.0",
+    "gn:asciiname":"Unterharmansedt",
+    "gn:country_code":"AT",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319294,
+    "gn:latitude":48.51306,
+    "gn:longitude":13.6275,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Unterharmansedt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836067,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319294
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"819c1d630e9a956569d2099be7819e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836067,
+            "locality_id":1243270177,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243270177,
+    "wof:lastmodified":1537057077,
+    "wof:name":"Unterharmansedt",
+    "wof:parent_id":1108836067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6275,
+    48.51306,
+    13.6275,
+    48.51306
+],
+  "geometry": {"coordinates":[13.6275,48.51306],"type":"Point"}
+}

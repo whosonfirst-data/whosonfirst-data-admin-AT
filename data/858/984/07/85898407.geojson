@@ -1,0 +1,111 @@
+{
+  "id": 85898407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":648256.753225,
+    "geom:bbox":"16.31931677,48.2393089248,16.3311767578,48.2504695392",
+    "geom:latitude":48.244658,
+    "geom:longitude":16.324246,
+    "iso:country":"AT",
+    "lbl:latitude":48.248066,
+    "lbl:longitude":16.325149,
+    "mps:latitude":48.245237,
+    "mps:longitude":16.323544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Untersievering"
+    ],
+    "name:unk_x_variant":[
+        "Untersievering"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2761369,
+    "qs:gn_nam_loc":"Vienna",
+    "qs:gn_namadm1":"09",
+    "qs:gn_name":"Untersievering",
+    "qs:local_max":53712,
+    "qs:local_sum":394557,
+    "qs:localhoods":125,
+    "qs:name":"Untersievering",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Wien",
+    "qs:name_adm2":"Wien",
+    "qs:name_lau":"Wien 19",
+    "qs:name_local":"Wien",
+    "qs:photo_max":42,
+    "qs:photo_sum":47,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344716,
+    "qs:woe_adm2":12591699,
+    "qs:woe_lau":12673872,
+    "qs:woe_local":551801,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762645,
+        "gp:id":544173,
+        "qs:id":963819,
+        "qs_pg:id":963819
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a728adb55eecbf9d2fb1179bda16c2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898407,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":85898407,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1497308768,
+    "wof:name":"Untersievering",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31931676995589,
+    48.23930892482521,
+    16.33117675781807,
+    48.25046953918981
+],
+  "geometry": {"coordinates":[[[16.32626874730187,48.24845456095018],[16.32667471156623,48.24662559069999],[16.33117675780971,48.24662559069999],[16.33117675781807,48.24662552530039],[16.3311767578146,48.24445572709838],[16.33117675780005,48.24296742130007],[16.33018560371301,48.24296742130007],[16.33018556014287,48.24296735587551],[16.3256835937845,48.24296735587551],[16.32568359378547,48.23947017439012],[16.32568359380014,48.23930899020003],[16.32550467308039,48.23930899020003],[16.32550460051175,48.23930892482521],[16.32118167092483,48.23930892482521],[16.32118162738465,48.23930899020003],[16.32019042970001,48.23930899020003],[16.32019042970001,48.24079725499767],[16.32019042970001,48.24296735587551],[16.32019042970001,48.24296742130007],[16.32019042970001,48.24658979070502],[16.32015140342713,48.24662552530039],[16.32015138774892,48.24662559069999],[16.31931676995589,48.25010708406533],[16.32019042970001,48.25019455403871],[16.3210788167919,48.25028349850002],[16.32293701172512,48.25046953918981],[16.32306090229127,48.25028348215035],[16.32297970644635,48.24845457130509],[16.32568359380014,48.24845456566142],[16.32626874730187,48.24845456095018]]],"type":"Polygon"}
+}

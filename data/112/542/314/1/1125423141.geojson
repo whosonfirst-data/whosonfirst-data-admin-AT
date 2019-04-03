@@ -1,0 +1,82 @@
+{
+  "id": 1125423141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.52507,47.99242,16.52507,47.99242",
+    "geom:latitude":47.99242,
+    "geom:longitude":16.52507,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1500,
+    "gn:population":1657,
+    "iso:country":"AT",
+    "lbl:latitude":47.99242,
+    "lbl:longitude":16.52507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872840,
+    "qs_pg:gn_pop":1500,
+    "qs_pg:name":"Reisenberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108725,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872840,
+        "qs_pg:id":108725
+    },
+    "wof:country":"AT",
+    "wof:created":1497052645,
+    "wof:geomhash":"079cc67051f99e21a3df479231fe8256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1125423141,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125423141,
+    "wof:lastmodified":1534531045,
+    "wof:name":"Reisenberg",
+    "wof:parent_id":102049829,
+    "wof:placetype":"localadmin",
+    "wof:population":1657,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835423
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52507,
+    47.99242,
+    16.52507,
+    47.99242
+],
+  "geometry": {"coordinates":[16.52507,47.99242],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209039585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17306,48.44111,14.17306,48.44111",
+    "geom:latitude":48.44111,
+    "geom:longitude":14.17306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"416",
+    "gn:admin3_code":"41612.0",
+    "gn:asciiname":"Buchholz",
+    "gn:country_code":"AT",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3322139,
+    "gn:latitude":48.44111,
+    "gn:longitude":14.17306,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Buchholz",
+    "gn:population":97,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3322139
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0ab35fa3d4b49373a2900940a315a126",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209039585
+        }
+    ],
+    "wof:id":1209039585,
+    "wof:lastmodified":1536299588,
+    "wof:name":"Buchholz",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17306,
+    48.44111,
+    14.17306,
+    48.44111
+],
+  "geometry": {"coordinates":[14.17306,48.44111],"type":"Point"}
+}

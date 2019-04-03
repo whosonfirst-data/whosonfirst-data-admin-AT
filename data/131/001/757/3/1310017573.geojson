@@ -1,0 +1,74 @@
+{
+  "id": 1310017573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7774,48.01795,15.7774,48.01795",
+    "geom:latitude":48.01795,
+    "geom:longitude":15.7774,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"314",
+    "gn:admin3_code":"31403.0",
+    "gn:asciiname":"Landstal",
+    "gn:country_code":"AT",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773041,
+    "gn:latitude":48.01795,
+    "gn:longitude":15.7774,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Landstal",
+    "gn:population":25,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836745,
+        85632785,
+        102049823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773041
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4f3690de01e12b1b472fdb52670c5fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108836745,
+            "locality_id":1310017573,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310017573,
+    "wof:lastmodified":1536623877,
+    "wof:name":"Landstal",
+    "wof:parent_id":1108836745,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7774,
+    48.01795,
+    15.7774,
+    48.01795
+],
+  "geometry": {"coordinates":[15.7774,48.01795],"type":"Point"}
+}

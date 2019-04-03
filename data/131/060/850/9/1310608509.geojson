@@ -1,0 +1,74 @@
+{
+  "id": 1310608509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20847,48.03247,15.20847,48.03247",
+    "geom:latitude":48.03247,
+    "geom:longitude":15.20847,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"320",
+    "gn:admin3_code":"32012.0",
+    "gn:asciiname":"Forsthub",
+    "gn:country_code":"AT",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610472,
+    "gn:latitude":48.03247,
+    "gn:longitude":15.20847,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Forsthub",
+    "gn:population":57,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835305,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610472
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a79ec346e65247a8c938cfc310190c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835305,
+            "locality_id":1310608509,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310608509,
+    "wof:lastmodified":1536768744,
+    "wof:name":"Forsthub",
+    "wof:parent_id":1108835305,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20847,
+    48.03247,
+    15.20847,
+    48.03247
+],
+  "geometry": {"coordinates":[15.20847,48.03247],"type":"Point"}
+}

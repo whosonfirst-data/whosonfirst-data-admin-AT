@@ -1,0 +1,80 @@
+{
+  "id": 1276466187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40583,47.14556,14.40583,47.14556",
+    "geom:latitude":47.14556,
+    "geom:longitude":14.40583,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"614.0",
+    "gn:admin3_code":"61444.0",
+    "gn:asciiname":"Sankt Lorenzen bei Scheifling",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2766579,
+    "gn:latitude":47.14556,
+    "gn:longitude":14.40583,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Lorenzen bei Scheifling",
+    "gn:population":328,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Lorenzen",
+        "Sankt Lorenzen bei Scheifling"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838797,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766579,
+        "wk:page":"Sankt_Lorenzen_bei_Scheifling"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b04f22c010269c50f632c7b74ab0196c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838797,
+            "locality_id":1276466187,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276466187,
+    "wof:lastmodified":1537584933,
+    "wof:name":"Sankt Lorenzen bei Scheifling",
+    "wof:parent_id":1108838797,
+    "wof:placetype":"locality",
+    "wof:population":328,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40583,
+    47.14556,
+    14.40583,
+    47.14556
+],
+  "geometry": {"coordinates":[14.40583,47.14556],"type":"Point"}
+}

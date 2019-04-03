@@ -1,0 +1,74 @@
+{
+  "id": 1293589573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29389,48.385,14.29389,48.385",
+    "geom:latitude":48.385,
+    "geom:longitude":14.29389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"416",
+    "gn:admin3_code":"41613.0",
+    "gn:asciiname":"Hochbuchedt",
+    "gn:country_code":"AT",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3321925,
+    "gn:latitude":48.385,
+    "gn:longitude":14.29389,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hochbuchedt",
+    "gn:population":138,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836163,
+        85632785,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3321925
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b193057af929660e3ce5435d89c7f96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836163,
+            "locality_id":1293589573,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293589573,
+    "wof:lastmodified":1536638919,
+    "wof:name":"Hochbuchedt",
+    "wof:parent_id":1108836163,
+    "wof:placetype":"locality",
+    "wof:population":138,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29389,
+    48.385,
+    14.29389,
+    48.385
+],
+  "geometry": {"coordinates":[14.29389,48.385],"type":"Point"}
+}

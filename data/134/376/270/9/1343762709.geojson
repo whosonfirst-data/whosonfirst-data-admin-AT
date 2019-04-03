@@ -1,0 +1,79 @@
+{
+  "id": 1343762709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92122,48.5536,13.92122,48.5536",
+    "geom:latitude":48.5536,
+    "geom:longitude":13.92122,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41338.0",
+    "gn:asciiname":"Laemmerstorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773087,
+    "gn:latitude":48.5536,
+    "gn:longitude":13.92122,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"L\u00e4mmerstorf",
+    "gn:population":60,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e4mmersdorf",
+        "L\u00e4mmerstorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836013,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773087
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5edde5280c738975abd8366976dd2e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836013,
+            "locality_id":1343762709,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343762709,
+    "wof:lastmodified":1537584957,
+    "wof:name":"Laemmerstorf",
+    "wof:parent_id":1108836013,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92122,
+    48.5536,
+    13.92122,
+    48.5536
+],
+  "geometry": {"coordinates":[13.92122,48.5536],"type":"Point"}
+}

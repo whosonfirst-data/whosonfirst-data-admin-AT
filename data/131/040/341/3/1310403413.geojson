@@ -1,0 +1,71 @@
+{
+  "id": 1310403413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,47.05,15.55,47.05",
+    "geom:latitude":47.05,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60628.0",
+    "gn:asciiname":"Steinberg",
+    "gn:country_code":"AT",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764511,
+    "gn:latitude":47.05,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Steinberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839179,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764511
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fe25c07c0667828e3e5f9873022a10ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839179,
+            "locality_id":1310403413,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310403413,
+    "wof:lastmodified":1537061568,
+    "wof:name":"Steinberg",
+    "wof:parent_id":1108839179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    47.05,
+    15.55,
+    47.05
+],
+  "geometry": {"coordinates":[15.55,47.05],"type":"Point"}
+}

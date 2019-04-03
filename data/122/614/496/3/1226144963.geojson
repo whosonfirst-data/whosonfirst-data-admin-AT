@@ -1,0 +1,74 @@
+{
+  "id": 1226144963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69115,48.35477,16.69115,48.35477",
+    "geom:latitude":48.35477,
+    "geom:longitude":16.69115,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"308",
+    "gn:admin3_code":"30852.0",
+    "gn:asciiname":"Schoenkirchen-Reyersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":11591764,
+    "gn:latitude":48.35477,
+    "gn:longitude":16.69115,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sch\u00f6nkirchen-Reyersdorf",
+    "gn:population":1963,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836235,
+        85632785,
+        102049891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591764
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5cd0da8fc2f19692f448b989515c69fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836235,
+            "locality_id":1226144963,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1226144963,
+    "wof:lastmodified":1537075734,
+    "wof:name":"Schoenkirchen-Reyersdorf",
+    "wof:parent_id":1108836235,
+    "wof:placetype":"locality",
+    "wof:population":1963,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69115,
+    48.35477,
+    16.69115,
+    48.35477
+],
+  "geometry": {"coordinates":[16.69115,48.35477],"type":"Point"}
+}

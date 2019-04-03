@@ -1,0 +1,74 @@
+{
+  "id": 1226266657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.66442,48.28342,13.66442,48.28342",
+    "geom:latitude":48.28342,
+    "geom:longitude":13.66442,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40812.0",
+    "gn:asciiname":"Pauzenberg",
+    "gn:country_code":"AT",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609185,
+    "gn:latitude":48.28342,
+    "gn:longitude":13.66442,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pauzenberg",
+    "gn:population":14,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835191,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609185
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f5e171617cc1fffe56bcf4c9af663411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835191,
+            "locality_id":1226266657,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226266657,
+    "wof:lastmodified":1536903653,
+    "wof:name":"Pauzenberg",
+    "wof:parent_id":1108835191,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.66442,
+    48.28342,
+    13.66442,
+    48.28342
+],
+  "geometry": {"coordinates":[13.66442,48.28342],"type":"Point"}
+}

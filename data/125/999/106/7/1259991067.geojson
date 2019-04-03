@@ -1,0 +1,76 @@
+{
+  "id": 1259991067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,48.98333,15.15,48.98333",
+    "geom:latitude":48.98333,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"309",
+    "gn:admin3_code":"30929.0",
+    "gn:asciiname":"Brandhauser",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781560,
+    "gn:latitude":48.98333,
+    "gn:longitude":15.15,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Brandh\u00e4user",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hammerh\u00e4user",
+        "Brandh\u00e4user"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835337,
+        85632785,
+        102049905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781560
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ac2e17c1a589fbf94ee3e3a1e64f9b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049905,
+            "localadmin_id":1108835337,
+            "locality_id":1259991067,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259991067,
+    "wof:lastmodified":1537584981,
+    "wof:name":"Brandhauser",
+    "wof:parent_id":1108835337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    48.98333,
+    15.15,
+    48.98333
+],
+  "geometry": {"coordinates":[15.15,48.98333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344063129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54275,48.20666,13.54275,48.20666",
+    "geom:latitude":48.20666,
+    "geom:longitude":13.54275,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41209.0",
+    "gn:asciiname":"Roith",
+    "gn:country_code":"AT",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610528,
+    "gn:latitude":48.20666,
+    "gn:longitude":13.54275,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Roith",
+    "gn:population":69,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835643,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610528
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d1cd12655b3763c90618a48e73c00bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835643,
+            "locality_id":1344063129,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344063129,
+    "wof:lastmodified":1536870555,
+    "wof:name":"Roith",
+    "wof:parent_id":1108835643,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54275,
+    48.20666,
+    13.54275,
+    48.20666
+],
+  "geometry": {"coordinates":[13.54275,48.20666],"type":"Point"}
+}

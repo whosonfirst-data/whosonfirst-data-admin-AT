@@ -1,0 +1,71 @@
+{
+  "id": 1310199391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28858,47.23799,11.28858,47.23799",
+    "geom:latitude":47.23799,
+    "geom:longitude":11.28858,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70304.0",
+    "gn:asciiname":"Omesmuehle",
+    "gn:country_code":"AT",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592370,
+    "gn:latitude":47.23799,
+    "gn:longitude":11.28858,
+    "gn:modification_date":"2017-06-14",
+    "gn:name":"Omesm\u00fchle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837465,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592370
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c4b29e2f319e21dda796ca4c5c473b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837465,
+            "locality_id":1310199391,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1310199391,
+    "wof:lastmodified":1536859751,
+    "wof:name":"Omesmuehle",
+    "wof:parent_id":1108837465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28858,
+    47.23799,
+    11.28858,
+    47.23799
+],
+  "geometry": {"coordinates":[11.28858,47.23799],"type":"Point"}
+}

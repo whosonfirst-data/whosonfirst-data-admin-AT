@@ -1,0 +1,74 @@
+{
+  "id": 1327443185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88333,48.58333,14.88333,48.58333",
+    "geom:latitude":48.58333,
+    "geom:longitude":14.88333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"325.0",
+    "gn:admin3_code":"32516.0",
+    "gn:asciiname":"Schmerbach",
+    "gn:country_code":"AT",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765857,
+    "gn:latitude":48.58333,
+    "gn:longitude":14.88333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schmerbach",
+    "gn:population":9,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836319,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765857
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cddbf3a7fc0e6d3d79456573a4fadb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836319,
+            "locality_id":1327443185,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327443185,
+    "wof:lastmodified":1536665183,
+    "wof:name":"Schmerbach",
+    "wof:parent_id":1108836319,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88333,
+    48.58333,
+    14.88333,
+    48.58333
+],
+  "geometry": {"coordinates":[14.88333,48.58333],"type":"Point"}
+}

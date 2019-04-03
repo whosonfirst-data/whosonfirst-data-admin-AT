@@ -1,0 +1,74 @@
+{
+  "id": 1243365315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46094,48.18964,15.46094,48.18964",
+    "geom:latitude":48.18964,
+    "geom:longitude":15.46094,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"319.0",
+    "gn:admin3_code":"31911.0",
+    "gn:asciiname":"Pottschollach",
+    "gn:country_code":"AT",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768463,
+    "gn:latitude":48.18964,
+    "gn:longitude":15.46094,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pottschollach",
+    "gn:population":78,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836217,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768463
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"73fd7bda6d331e65e1f84d5a3c5bd275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836217,
+            "locality_id":1243365315,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243365315,
+    "wof:lastmodified":1536923252,
+    "wof:name":"Pottschollach",
+    "wof:parent_id":1108836217,
+    "wof:placetype":"locality",
+    "wof:population":78,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46094,
+    48.18964,
+    15.46094,
+    48.18964
+],
+  "geometry": {"coordinates":[15.46094,48.18964],"type":"Point"}
+}

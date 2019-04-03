@@ -1,0 +1,74 @@
+{
+  "id": 1243091591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36711,48.39291,14.36711,48.39291",
+    "geom:latitude":48.39291,
+    "geom:longitude":14.36711,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"416.0",
+    "gn:admin3_code":"41602.0",
+    "gn:asciiname":"Ramersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768029,
+    "gn:latitude":48.39291,
+    "gn:longitude":14.36711,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ramersdorf",
+    "gn:population":40,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836139,
+        85632785,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768029
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"28008fc8b3696da07ecd81846227015e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836139,
+            "locality_id":1243091591,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243091591,
+    "wof:lastmodified":1536819161,
+    "wof:name":"Ramersdorf",
+    "wof:parent_id":1108836139,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36711,
+    48.39291,
+    14.36711,
+    48.39291
+],
+  "geometry": {"coordinates":[14.36711,48.39291],"type":"Point"}
+}

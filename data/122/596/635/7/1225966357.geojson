@@ -1,0 +1,71 @@
+{
+  "id": 1225966357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93333,46.76667,15.93333,46.76667",
+    "geom:latitude":46.76667,
+    "geom:longitude":15.93333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62368.0",
+    "gn:asciiname":"Suessegg",
+    "gn:country_code":"AT",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2608471,
+    "gn:latitude":46.76667,
+    "gn:longitude":15.93333,
+    "gn:modification_date":"2014-04-28",
+    "gn:name":"S\u00fc\u00dfegg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839331,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2608471
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"12f3723719caa980c60847b8f7fbd12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839331,
+            "locality_id":1225966357,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1225966357,
+    "wof:lastmodified":1536838584,
+    "wof:name":"Suessegg",
+    "wof:parent_id":1108839331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93333,
+    46.76667,
+    15.93333,
+    46.76667
+],
+  "geometry": {"coordinates":[15.93333,46.76667],"type":"Point"}
+}

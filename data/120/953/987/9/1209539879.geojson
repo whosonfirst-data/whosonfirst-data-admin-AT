@@ -1,0 +1,66 @@
+{
+  "id": 1209539879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43568,48.40317,13.43568,48.40317",
+    "geom:latitude":48.40317,
+    "geom:longitude":13.43568,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41425.0",
+    "gn:asciiname":"Etzelshofen",
+    "gn:country_code":"AT",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779896,
+    "gn:latitude":48.40317,
+    "gn:longitude":13.43568,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Etzelshofen",
+    "gn:population":415,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779896
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2922b5eef4cf00d6557ecd15158fbe15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209539879
+        }
+    ],
+    "wof:id":1209539879,
+    "wof:lastmodified":1536284019,
+    "wof:name":"Etzelshofen",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":415,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43568,
+    48.40317,
+    13.43568,
+    48.40317
+],
+  "geometry": {"coordinates":[13.43568,48.40317],"type":"Point"}
+}

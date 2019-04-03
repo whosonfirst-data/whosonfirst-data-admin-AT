@@ -1,0 +1,71 @@
+{
+  "id": 1310326377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.23333,47.25,11.23333,47.25",
+    "geom:latitude":47.25,
+    "geom:longitude":11.23333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70337.0",
+    "gn:asciiname":"Voelsergasse",
+    "gn:country_code":"AT",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319530,
+    "gn:latitude":47.25,
+    "gn:longitude":11.23333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"V\u00f6lsergasse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837563,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319530
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0bc39e9d223b47dbb69ca21af113f66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837563,
+            "locality_id":1310326377,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1310326377,
+    "wof:lastmodified":1536677877,
+    "wof:name":"Voelsergasse",
+    "wof:parent_id":1108837563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.23333,
+    47.25,
+    11.23333,
+    47.25
+],
+  "geometry": {"coordinates":[11.23333,47.25],"type":"Point"}
+}

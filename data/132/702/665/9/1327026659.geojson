@@ -1,0 +1,74 @@
+{
+  "id": 1327026659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.09629,47.58677,12.09629,47.58677",
+    "geom:latitude":47.58677,
+    "geom:longitude":12.09629,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"705",
+    "gn:admin3_code":"70527.0",
+    "gn:asciiname":"Mitterland",
+    "gn:country_code":"AT",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592323,
+    "gn:latitude":47.58677,
+    "gn:longitude":12.09629,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mitterland",
+    "gn:population":535,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837271,
+        85632785,
+        102049771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592323
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"265aca7abfe0b1c0f5e210e2175e172b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837271,
+            "locality_id":1327026659,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1327026659,
+    "wof:lastmodified":1536769277,
+    "wof:name":"Mitterland",
+    "wof:parent_id":1108837271,
+    "wof:placetype":"locality",
+    "wof:population":535,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.09629,
+    47.58677,
+    12.09629,
+    47.58677
+],
+  "geometry": {"coordinates":[12.09629,47.58677],"type":"Point"}
+}

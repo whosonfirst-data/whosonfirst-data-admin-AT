@@ -1,0 +1,116 @@
+{
+  "id": 85898585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5177229.074847,
+    "geom:bbox":"15.401154,47.028294,15.401154,47.028294",
+    "geom:latitude":47.028294,
+    "geom:longitude":15.401154,
+    "iso:country":"AT",
+    "lbl:latitude":47.028294,
+    "lbl:longitude":15.401154,
+    "mps:latitude":47.014494,
+    "mps:longitude":15.379885,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Stra\u00dfgang"
+    ],
+    "name:deu_x_variant":[
+        "Strassgang"
+    ],
+    "name:unk_x_variant":[
+        "Strassgang"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":7871499,
+    "qs:gn_nam_loc":"Graz, Graz Stadt, Steiermark, AT",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Strassgang",
+    "qs:local_max":3393,
+    "qs:local_sum":13910,
+    "qs:localhoods":22,
+    "qs:name":"Strassgang",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Steiermark",
+    "qs:name_adm2":"Graz Stadt",
+    "qs:name_lau":"Graz",
+    "qs:name_local":"Graz",
+    "qs:photo_max":162,
+    "qs:photo_sum":183,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344713,
+    "qs:woe_adm2":12591740,
+    "qs:woe_lau":12674996,
+    "qs:woe_local":12674996,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":370,
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764178,
+        "gp:id":550023,
+        "qs:id":901181,
+        "qs_pg:id":901181,
+        "wd:id":"Q179891",
+        "wk:page":"Stra\u00dfgang"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"39bfac8dfdcfe76a020634dd586dabd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":85898585,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":85898585,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932091,
+    "wof:name":"Strassgang",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.401154,
+    47.028294,
+    15.401154,
+    47.028294
+],
+  "geometry": {"coordinates":[15.401154,47.028294],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125272897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29607,48.14364,15.29607,48.14364",
+    "geom:latitude":48.14364,
+    "geom:longitude":15.29607,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2999,
+    "gn:population":2989,
+    "iso:country":"AT",
+    "lbl:latitude":48.14364,
+    "lbl:longitude":15.29607,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871827,
+    "qs_pg:gn_pop":2999,
+    "qs_pg:name":"Sankt Leonhard am Forst",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108389,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871827,
+        "qs_pg:id":108389
+    },
+    "wof:country":"AT",
+    "wof:created":1497042203,
+    "wof:geomhash":"aa78e5d4fc7322bdd7cf8c67cd8a3f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1125272897,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125272897,
+    "wof:lastmodified":1536698117,
+    "wof:name":"Sankt Leonhard am Forst",
+    "wof:parent_id":102049855,
+    "wof:placetype":"localadmin",
+    "wof:population":2989,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835729
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29607,
+    48.14364,
+    15.29607,
+    48.14364
+],
+  "geometry": {"coordinates":[15.29607,48.14364],"type":"Point"}
+}

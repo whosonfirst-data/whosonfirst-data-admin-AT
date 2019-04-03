@@ -1,0 +1,74 @@
+{
+  "id": 1226545845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55345,48.57036,14.55345,48.57036",
+    "geom:latitude":48.57036,
+    "geom:longitude":14.55345,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40626.0",
+    "gn:asciiname":"Prendt",
+    "gn:country_code":"AT",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768353,
+    "gn:latitude":48.57036,
+    "gn:longitude":14.55345,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Prendt",
+    "gn:population":125,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835117,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768353
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"16f006cd3098c1c5ef66803ba199da1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835117,
+            "locality_id":1226545845,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226545845,
+    "wof:lastmodified":1536997088,
+    "wof:name":"Prendt",
+    "wof:parent_id":1108835117,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55345,
+    48.57036,
+    14.55345,
+    48.57036
+],
+  "geometry": {"coordinates":[14.55345,48.57036],"type":"Point"}
+}

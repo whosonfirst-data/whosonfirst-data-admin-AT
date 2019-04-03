@@ -1,0 +1,74 @@
+{
+  "id": 1276448809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65026,48.24457,13.65026,48.24457",
+    "geom:latitude":48.24457,
+    "geom:longitude":13.65026,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40834.0",
+    "gn:asciiname":"Weeg",
+    "gn:country_code":"AT",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610621,
+    "gn:latitude":48.24457,
+    "gn:longitude":13.65026,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Weeg",
+    "gn:population":34,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835241,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610621
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"24396a861cb34ec6aea239eeb09326e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835241,
+            "locality_id":1276448809,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276448809,
+    "wof:lastmodified":1536621806,
+    "wof:name":"Weeg",
+    "wof:parent_id":1108835241,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65026,
+    48.24457,
+    13.65026,
+    48.24457
+],
+  "geometry": {"coordinates":[13.65026,48.24457],"type":"Point"}
+}

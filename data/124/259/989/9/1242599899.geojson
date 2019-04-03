@@ -1,0 +1,71 @@
+{
+  "id": 1242599899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8,47.61667,13.8,47.61667",
+    "geom:latitude":47.61667,
+    "geom:longitude":13.8,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61207.0",
+    "gn:asciiname":"Hintenkogel",
+    "gn:country_code":"AT",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2605089,
+    "gn:latitude":47.61667,
+    "gn:longitude":13.8,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Hintenkogel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838965,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2605089
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e1cd428908776ac9acf799f3c01ca11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838965,
+            "locality_id":1242599899,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1242599899,
+    "wof:lastmodified":1537030273,
+    "wof:name":"Hintenkogel",
+    "wof:parent_id":1108838965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8,
+    47.61667,
+    13.8,
+    47.61667
+],
+  "geometry": {"coordinates":[13.8,47.61667],"type":"Point"}
+}

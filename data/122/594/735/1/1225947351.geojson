@@ -1,0 +1,74 @@
+{
+  "id": 1225947351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62667,46.99361,13.62667,46.99361",
+    "geom:latitude":46.99361,
+    "geom:longitude":13.62667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20632.0",
+    "gn:asciiname":"Ried",
+    "gn:country_code":"AT",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767494,
+    "gn:latitude":46.99361,
+    "gn:longitude":13.62667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ried",
+    "gn:population":15,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838293,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767494
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9bbe9dea785659f4cbab2f16a89a2c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838293,
+            "locality_id":1225947351,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1225947351,
+    "wof:lastmodified":1536865679,
+    "wof:name":"Ried",
+    "wof:parent_id":1108838293,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62667,
+    46.99361,
+    13.62667,
+    46.99361
+],
+  "geometry": {"coordinates":[13.62667,46.99361],"type":"Point"}
+}

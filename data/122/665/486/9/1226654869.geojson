@@ -1,0 +1,79 @@
+{
+  "id": 1226654869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44953,46.62477,14.44953,46.62477",
+    "geom:latitude":46.62477,
+    "geom:longitude":14.44953,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20409.0",
+    "gn:asciiname":"Unterwuchl",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762540,
+    "gn:latitude":46.62477,
+    "gn:longitude":14.44953,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterwuchl",
+    "gn:population":39,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unterwuchel",
+        "Unterwuchl"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838167,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762540
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"aa96c4563733e80e7dc7e17a0e480aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838167,
+            "locality_id":1226654869,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226654869,
+    "wof:lastmodified":1537584917,
+    "wof:name":"Unterwuchl",
+    "wof:parent_id":1108838167,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44953,
+    46.62477,
+    14.44953,
+    46.62477
+],
+  "geometry": {"coordinates":[14.44953,46.62477],"type":"Point"}
+}

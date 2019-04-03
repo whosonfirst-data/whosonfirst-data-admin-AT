@@ -1,0 +1,71 @@
+{
+  "id": 1327419427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88556,47.54083,9.88556,47.54083",
+    "geom:latitude":47.54083,
+    "geom:longitude":9.88556,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"802",
+    "gn:admin3_code":"80238.0",
+    "gn:asciiname":"Oberdreienau",
+    "gn:country_code":"AT",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3333822,
+    "gn:latitude":47.54083,
+    "gn:longitude":9.88556,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Oberdreienau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838071,
+        85632785,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3333822
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"adc965091a2ef9af55250c40bc6cf422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838071,
+            "locality_id":1327419427,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1327419427,
+    "wof:lastmodified":1536699817,
+    "wof:name":"Oberdreienau",
+    "wof:parent_id":1108838071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88556,
+    47.54083,
+    9.88556,
+    47.54083
+],
+  "geometry": {"coordinates":[9.88556,47.54083],"type":"Point"}
+}

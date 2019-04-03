@@ -1,0 +1,85 @@
+{
+  "id": 1125299965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82235,48.02466,13.82235,48.02466",
+    "geom:latitude":48.02466,
+    "geom:longitude":13.82235,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2014,
+    "gn:population":2002,
+    "iso:country":"AT",
+    "lbl:latitude":48.02466,
+    "lbl:longitude":13.82235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Roitham am Traunfall"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873137,
+    "qs_pg:gn_pop":2014,
+    "qs_pg:name":"Roitham",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155421,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873137,
+        "qs_pg:id":1155421
+    },
+    "wof:country":"AT",
+    "wof:created":1497043369,
+    "wof:geomhash":"30e0340f50fab0f8e171c453fffdc4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1125299965,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125299965,
+    "wof:lastmodified":1534531038,
+    "wof:name":"Roitham",
+    "wof:parent_id":102049807,
+    "wof:placetype":"localadmin",
+    "wof:population":2002,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835153
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82235,
+    48.02466,
+    13.82235,
+    48.02466
+],
+  "geometry": {"coordinates":[13.82235,48.02466],"type":"Point"}
+}

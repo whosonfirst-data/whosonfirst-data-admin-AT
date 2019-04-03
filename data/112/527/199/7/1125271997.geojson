@@ -1,0 +1,82 @@
+{
+  "id": 1125271997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82459,46.84373,15.82459,46.84373",
+    "geom:latitude":46.84373,
+    "geom:longitude":15.82459,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":365,
+    "gn:population":365,
+    "iso:country":"AT",
+    "lbl:latitude":46.84373,
+    "lbl:longitude":15.82459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873374,
+    "qs_pg:gn_pop":365,
+    "qs_pg:name":"Grabersdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743505,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873374,
+        "qs_pg:id":743505
+    },
+    "wof:country":"AT",
+    "wof:created":1497042164,
+    "wof:geomhash":"3a64bd8452833339a7cadaed31d32e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125271997,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125271997,
+    "wof:lastmodified":1536698113,
+    "wof:name":"Grabersdorf",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:population":365,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839255
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82459,
+    46.84373,
+    15.82459,
+    46.84373
+],
+  "geometry": {"coordinates":[15.82459,46.84373],"type":"Point"}
+}

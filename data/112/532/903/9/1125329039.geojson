@@ -1,0 +1,82 @@
+{
+  "id": 1125329039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68839,48.49141,16.68839,48.49141",
+    "geom:latitude":48.49141,
+    "geom:longitude":16.68839,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1182,
+    "gn:population":1194,
+    "iso:country":"AT",
+    "lbl:latitude":48.49141,
+    "lbl:longitude":16.68839,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872871,
+    "qs_pg:gn_pop":1182,
+    "qs_pg:name":"Sulz im Weinviertel",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108737,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872871,
+        "qs_pg:id":108737
+    },
+    "wof:country":"AT",
+    "wof:created":1497045013,
+    "wof:geomhash":"d893cd62f864a586edac3beb68dc5855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1125329039,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125329039,
+    "wof:lastmodified":1534531024,
+    "wof:name":"Sulz im Weinviertel",
+    "wof:parent_id":102049891,
+    "wof:placetype":"localadmin",
+    "wof:population":1194,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836283
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68839,
+    48.49141,
+    16.68839,
+    48.49141
+],
+  "geometry": {"coordinates":[16.68839,48.49141],"type":"Point"}
+}

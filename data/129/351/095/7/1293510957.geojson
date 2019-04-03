@@ -1,0 +1,76 @@
+{
+  "id": 1293510957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45,47.28333,10.45,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":10.45,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"708",
+    "gn:admin3_code":"70813.0",
+    "gn:asciiname":"Obergriessau",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770103,
+    "gn:latitude":47.28333,
+    "gn:longitude":10.45,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Obergriessau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ober-Griesau",
+        "Obergriessau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837733,
+        85632785,
+        102049745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770103
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"adb5873c4ea79134c1ddf1969f54100b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837733,
+            "locality_id":1293510957,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1293510957,
+    "wof:lastmodified":1537584946,
+    "wof:name":"Obergriessau",
+    "wof:parent_id":1108837733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45,
+    47.28333,
+    10.45,
+    47.28333
+],
+  "geometry": {"coordinates":[10.45,47.28333],"type":"Point"}
+}

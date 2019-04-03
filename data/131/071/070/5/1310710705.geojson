@@ -1,0 +1,77 @@
+{
+  "id": 1310710705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40901,46.98849,14.40901,46.98849",
+    "geom:latitude":46.98849,
+    "geom:longitude":14.40901,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20505.0",
+    "gn:asciiname":"Oberdorf",
+    "gn:country_code":"AT",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770286,
+    "gn:latitude":46.98849,
+    "gn:longitude":14.40901,
+    "gn:modification_date":"2017-06-05",
+    "gn:name":"Oberdorf",
+    "gn:population":26,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oberdorf I"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838211,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770286
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"85e21e64dbff74adddeaa5ab3ad6a229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838211,
+            "locality_id":1310710705,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310710705,
+    "wof:lastmodified":1537584947,
+    "wof:name":"Oberdorf",
+    "wof:parent_id":1108838211,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40901,
+    46.98849000000001,
+    14.40901,
+    46.98849000000001
+],
+  "geometry": {"coordinates":[14.40901,46.98849000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259489425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91599,47.91433,13.91599,47.91433",
+    "geom:latitude":47.91433,
+    "geom:longitude":13.91599,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"407",
+    "gn:admin3_code":"40716.0",
+    "gn:asciiname":"Hueb",
+    "gn:country_code":"AT",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775438,
+    "gn:latitude":47.91433,
+    "gn:longitude":13.91599,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Hueb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835155,
+        85632785,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775438
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0a8a2dfdee154cf7da4c8ab9159f620d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835155,
+            "locality_id":1259489425,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259489425,
+    "wof:lastmodified":1536849113,
+    "wof:name":"Hueb",
+    "wof:parent_id":1108835155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91599,
+    47.91433,
+    13.91599,
+    47.91433
+],
+  "geometry": {"coordinates":[13.91599,47.91433],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309927999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5,46.93333,15.5,46.93333",
+    "geom:latitude":46.93333,
+    "geom:longitude":15.5,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606",
+    "gn:admin3_code":"60655.0",
+    "gn:asciiname":"Murberg",
+    "gn:country_code":"AT",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771012,
+    "gn:latitude":46.93333,
+    "gn:longitude":15.5,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Murberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839137,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771012
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"34ae1c8c1dd80551db5a7b496f7f3f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839137,
+            "locality_id":1309927999,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1309927999,
+    "wof:lastmodified":1536755054,
+    "wof:name":"Murberg",
+    "wof:parent_id":1108839137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5,
+    46.93333,
+    15.5,
+    46.93333
+],
+  "geometry": {"coordinates":[15.5,46.93333],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1125306025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32603,47.05895,16.32603,47.05895",
+    "geom:latitude":47.05895,
+    "geom:longitude":16.32603,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3797,
+    "gn:population":3662,
+    "iso:country":"AT",
+    "lbl:latitude":47.05895,
+    "lbl:longitude":16.32603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hrv_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e9met\u00fajv\u00e1r"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u044e\u0441\u0441\u0438\u043d\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044e\u0441\u0441\u0438\u043d\u0433"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0438\u0441\u0438\u043d\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u044e\u0441\u0441\u0456\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c45\u5174"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872693,
+    "qs_pg:gn_pop":3797,
+    "qs_pg:name":"G\u00fcssing",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Burgenland",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":165,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1191943,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673419,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Burgenland",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872693,
+        "gp:id":12673419,
+        "qs_pg:id":1191943
+    },
+    "wof:country":"AT",
+    "wof:created":1497043697,
+    "wof:geomhash":"4332665fed01a8b132358752b1546dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1125306025,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125306025,
+    "wof:lastmodified":1534379140,
+    "wof:name":"G\u00fcssing",
+    "wof:parent_id":102049729,
+    "wof:placetype":"localadmin",
+    "wof:population":3662,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838483
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32603,
+    47.05895,
+    16.32603,
+    47.05895
+],
+  "geometry": {"coordinates":[16.32603,47.05895],"type":"Point"}
+}

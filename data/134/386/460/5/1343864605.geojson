@@ -1,0 +1,74 @@
+{
+  "id": 1343864605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95006,48.61004,13.95006,48.61004",
+    "geom:latitude":48.61004,
+    "geom:longitude":13.95006,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41325.0",
+    "gn:asciiname":"Obergruenau",
+    "gn:country_code":"AT",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770096,
+    "gn:latitude":48.61004,
+    "gn:longitude":13.95006,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Obergr\u00fcnau",
+    "gn:population":34,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835983,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770096
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a0591cc2bdacc1e831cf5882fcedd6c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835983,
+            "locality_id":1343864605,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343864605,
+    "wof:lastmodified":1536660637,
+    "wof:name":"Obergruenau",
+    "wof:parent_id":1108835983,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95006,
+    48.61004000000001,
+    13.95006,
+    48.61004000000001
+],
+  "geometry": {"coordinates":[13.95006,48.61004000000001],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125417761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4405,46.9222,14.4405,46.9222",
+    "geom:latitude":46.9222,
+    "geom:longitude":14.4405,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1129,
+    "gn:population":1023,
+    "iso:country":"AT",
+    "lbl:latitude":46.9222,
+    "lbl:longitude":14.4405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872772,
+    "qs_pg:gn_pop":1129,
+    "qs_pg:name":"Micheldorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108696,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872772,
+        "qs_pg:id":108696
+    },
+    "wof:country":"AT",
+    "wof:created":1497051645,
+    "wof:geomhash":"82df85d684600966bafdb67b33ee52f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1125417761,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125417761,
+    "wof:lastmodified":1534531061,
+    "wof:name":"Micheldorf",
+    "wof:parent_id":102049697,
+    "wof:placetype":"localadmin",
+    "wof:population":1023,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838233
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4405,
+    46.9222,
+    14.4405,
+    46.9222
+],
+  "geometry": {"coordinates":[14.4405,46.9222],"type":"Point"}
+}

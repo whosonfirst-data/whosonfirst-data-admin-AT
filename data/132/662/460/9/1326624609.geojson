@@ -1,0 +1,75 @@
+{
+  "id": 1326624609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61667,47.01667,10.61667,47.01667",
+    "geom:latitude":47.01667,
+    "geom:longitude":10.61667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"706.0",
+    "gn:admin3_code":"70629.0",
+    "gn:asciiname":"Steinbruecken",
+    "gn:country_code":"AT",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764493,
+    "gn:latitude":47.01667,
+    "gn:longitude":10.61667,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Steinbr\u00fccken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Steinbr\u00fccke",
+        "Steinbr\u00fccken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837475,
+        85632785,
+        102049707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764493
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"318beb2d5f57af740f327a23c0a80c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837475,
+            "locality_id":1326624609,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1326624609,
+    "wof:lastmodified":1537584923,
+    "wof:name":"Steinbruecken",
+    "wof:parent_id":1108837475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61667,
+    47.01667,
+    10.61667,
+    47.01667
+],
+  "geometry": {"coordinates":[10.61667,47.01667],"type":"Point"}
+}

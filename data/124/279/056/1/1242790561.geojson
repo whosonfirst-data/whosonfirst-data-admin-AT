@@ -1,0 +1,74 @@
+{
+  "id": 1242790561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02389,46.76611,14.02389,46.76611",
+    "geom:latitude":46.76611,
+    "geom:longitude":14.02389,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21005.0",
+    "gn:asciiname":"Woellach",
+    "gn:country_code":"AT",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760882,
+    "gn:latitude":46.76611,
+    "gn:longitude":14.02389,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"W\u00f6llach",
+    "gn:population":32,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838129,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760882
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d3d6bdf6b3ae69ecf146c55d11bbff4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838129,
+            "locality_id":1242790561,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1242790561,
+    "wof:lastmodified":1536756930,
+    "wof:name":"Woellach",
+    "wof:parent_id":1108838129,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02389,
+    46.76611,
+    14.02389,
+    46.76611
+],
+  "geometry": {"coordinates":[14.02389,46.76611],"type":"Point"}
+}

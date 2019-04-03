@@ -1,0 +1,109 @@
+{
+  "id": 85898491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":367391.223946,
+    "geom:bbox":"13.0366516113,47.8186876119,13.0462646484,47.825142138",
+    "geom:latitude":47.822038,
+    "geom:longitude":13.041512,
+    "iso:country":"AT",
+    "lbl:latitude":47.82233,
+    "lbl:longitude":13.040354,
+    "mps:latitude":47.82164,
+    "mps:longitude":13.041123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:deu_x_preferred":[
+        "Itzling"
+    ],
+    "name:unk_x_variant":[
+        "Itzling"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2766824,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Itzling",
+    "qs:local_max":40793,
+    "qs:local_sum":66256,
+    "qs:localhoods":30,
+    "qs:name":"Itzling",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Salzburg",
+    "qs:name_adm2":"Salzburg Stadt",
+    "qs:name_lau":"Salzburg",
+    "qs:name_local":"Salzburg",
+    "qs:photo_max":39,
+    "qs:photo_sum":70,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344712,
+    "qs:woe_adm2":12591725,
+    "qs:woe_lau":12674683,
+    "qs:woe_local":12674683,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775164,
+        "gp:id":547615,
+        "qs:id":1165869,
+        "qs_pg:id":1165869
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2a3de1f17e4eeb260338d071e8d3b333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
+            "neighbourhood_id":85898491,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":85898491,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1497308644,
+    "wof:name":"Itzling",
+    "wof:parent_id":101748065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03665161132523,
+    47.81868761185019,
+    13.04626464841675,
+    47.8251421379501
+],
+  "geometry": {"coordinates":[[[13.04114860942462,47.8251421379501],[13.04176762833748,47.82422014940006],[13.04609386300586,47.82422014940006],[13.04626464840004,47.82422014940006],[13.04626464841459,47.82406747486012],[13.04626464841675,47.82201551943383],[13.04626464840004,47.82053186750009],[13.04351806640005,47.82053186750009],[13.04351806640005,47.81868762197153],[13.04077148440001,47.81868761531304],[13.0401880380262,47.81868761185019],[13.04002431211615,47.81941908530401],[13.0377827224778,47.82053186750009],[13.03665161132523,47.82109337988875],[13.03665161132523,47.8222753848806],[13.03678675452602,47.82237602482552],[13.03802490637514,47.82422014666405],[13.0386439432333,47.8251421379501],[13.04077148440001,47.8251421379501],[13.04114860942462,47.8251421379501]]],"type":"Polygon"}
+}

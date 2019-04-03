@@ -1,0 +1,82 @@
+{
+  "id": 1125274813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89496,48.61742,13.89496,48.61742",
+    "geom:latitude":48.61742,
+    "geom:longitude":13.89496,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1624,
+    "gn:population":1542,
+    "iso:country":"AT",
+    "lbl:latitude":48.61742,
+    "lbl:longitude":13.89496,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873200,
+    "qs_pg:gn_pop":1624,
+    "qs_pg:name":"Peilstein im M\u00fchlviertel",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108857,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873200,
+        "qs_pg:id":108857
+    },
+    "wof:country":"AT",
+    "wof:created":1497042269,
+    "wof:geomhash":"1edc4c299c0fa9a575bf98af9c906b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125274813,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125274813,
+    "wof:lastmodified":1534379103,
+    "wof:name":"Peilstein im M\u00fchlviertel",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":1542,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835985
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89496,
+    48.61742,
+    13.89496,
+    48.61742
+],
+  "geometry": {"coordinates":[13.89496,48.61742],"type":"Point"}
+}

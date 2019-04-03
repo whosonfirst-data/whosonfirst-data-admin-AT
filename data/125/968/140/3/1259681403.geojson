@@ -1,0 +1,79 @@
+{
+  "id": 1259681403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.52737,47.48951,14.52737,47.48951",
+    "geom:latitude":47.48951,
+    "geom:longitude":14.52737,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61256.0",
+    "gn:asciiname":"Au bei Gaishorn am See",
+    "gn:country_code":"AT",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782237,
+    "gn:latitude":47.48951,
+    "gn:longitude":14.52737,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Au bei Gaishorn am See",
+    "gn:population":373,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Au",
+        "Au bei Gaishorn",
+        "Au bei Gaishorn am See"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838959,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782237
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8366abeaea80a61f10330f3b178fc450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838959,
+            "locality_id":1259681403,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259681403,
+    "wof:lastmodified":1537584984,
+    "wof:name":"Au bei Gaishorn am See",
+    "wof:parent_id":1108838959,
+    "wof:placetype":"locality",
+    "wof:population":373,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52737,
+    47.48951,
+    14.52737,
+    47.48951
+],
+  "geometry": {"coordinates":[14.52737,47.48951],"type":"Point"}
+}

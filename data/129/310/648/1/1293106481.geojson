@@ -1,0 +1,74 @@
+{
+  "id": 1293106481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40712,48.04894,15.40712,48.04894",
+    "geom:latitude":48.04894,
+    "geom:longitude":15.40712,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31918.0",
+    "gn:asciiname":"Kirchberggegend",
+    "gn:country_code":"AT",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774400,
+    "gn:latitude":48.04894,
+    "gn:longitude":15.40712,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kirchberggegend",
+    "gn:population":241,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835003,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774400
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"35b588167fea6939b25cba38228f955b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835003,
+            "locality_id":1293106481,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293106481,
+    "wof:lastmodified":1536838285,
+    "wof:name":"Kirchberggegend",
+    "wof:parent_id":1108835003,
+    "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40712,
+    48.04894,
+    15.40712,
+    48.04894
+],
+  "geometry": {"coordinates":[15.40712,48.04894],"type":"Point"}
+}

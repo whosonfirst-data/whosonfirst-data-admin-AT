@@ -1,0 +1,71 @@
+{
+  "id": 1343880577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22111,46.83778,15.22111,46.83778",
+    "geom:latitude":46.83778,
+    "geom:longitude":15.22111,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60344.0",
+    "gn:asciiname":"Geipersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778736,
+    "gn:latitude":46.83778,
+    "gn:longitude":15.22111,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Geipersdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778736
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f3d92c60f33bad8907515a911bc6dc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":1343880577,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343880577,
+    "wof:lastmodified":1536636435,
+    "wof:name":"Geipersdorf",
+    "wof:parent_id":1108839301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22111,
+    46.83778,
+    15.22111,
+    46.83778
+],
+  "geometry": {"coordinates":[15.22111,46.83778],"type":"Point"}
+}

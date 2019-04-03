@@ -1,0 +1,66 @@
+{
+  "id": 1209638167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.89528,47.39861,12.89528,47.39861",
+    "geom:latitude":47.39861,
+    "geom:longitude":12.89528,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50612.0",
+    "gn:asciiname":"Schattberg",
+    "gn:country_code":"AT",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2766125,
+    "gn:latitude":47.39861,
+    "gn:longitude":12.89528,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schattberg",
+    "gn:population":192,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766125
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d241f0ec8ba1b9afb63f4a16c345e180",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209638167
+        }
+    ],
+    "wof:id":1209638167,
+    "wof:lastmodified":1536280973,
+    "wof:name":"Schattberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.89528,
+    47.39861,
+    12.89528,
+    47.39861
+],
+  "geometry": {"coordinates":[12.89528,47.39861],"type":"Point"}
+}

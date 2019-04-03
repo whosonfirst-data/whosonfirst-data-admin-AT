@@ -1,0 +1,74 @@
+{
+  "id": 1226657597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.171,48.73349,15.171,48.73349",
+    "geom:latitude":48.73349,
+    "geom:longitude":15.171,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"325",
+    "gn:admin3_code":"32504.0",
+    "gn:asciiname":"Kleinpoppen",
+    "gn:country_code":"AT",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774060,
+    "gn:latitude":48.73349,
+    "gn:longitude":15.171,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kleinpoppen",
+    "gn:population":77,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835311,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774060
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"63f67c93419524b5fa83d1eddb5214c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835311,
+            "locality_id":1226657597,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1226657597,
+    "wof:lastmodified":1536841274,
+    "wof:name":"Kleinpoppen",
+    "wof:parent_id":1108835311,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.171,
+    48.73349,
+    15.171,
+    48.73349
+],
+  "geometry": {"coordinates":[15.171,48.73349],"type":"Point"}
+}

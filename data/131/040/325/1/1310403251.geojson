@@ -1,0 +1,75 @@
+{
+  "id": 1310403251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81667,47.15,15.81667,47.15",
+    "geom:latitude":47.15,
+    "geom:longitude":15.81667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61759.0",
+    "gn:asciiname":"Schachen am Roemerbach",
+    "gn:country_code":"AT",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766235,
+    "gn:latitude":47.15,
+    "gn:longitude":15.81667,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Schachen am R\u00f6merbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schachen",
+        "Schachen am R\u00f6merbach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838865,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766235
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bb0f59fc182c5cd17e0364acee3cb47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838865,
+            "locality_id":1310403251,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310403251,
+    "wof:lastmodified":1537584928,
+    "wof:name":"Schachen am Roemerbach",
+    "wof:parent_id":1108838865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81667,
+    47.15,
+    15.81667,
+    47.15
+],
+  "geometry": {"coordinates":[15.81667,47.15],"type":"Point"}
+}

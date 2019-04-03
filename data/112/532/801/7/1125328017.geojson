@@ -1,0 +1,82 @@
+{
+  "id": 1125328017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34161,48.53286,16.34161,48.53286",
+    "geom:latitude":48.53286,
+    "geom:longitude":16.34161,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3019,
+    "gn:population":3180,
+    "iso:country":"AT",
+    "lbl:latitude":48.53286,
+    "lbl:longitude":16.34161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872905,
+    "qs_pg:gn_pop":3019,
+    "qs_pg:name":"Ernstbrunn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":381087,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872905,
+        "qs_pg:id":381087
+    },
+    "wof:country":"AT",
+    "wof:created":1497044934,
+    "wof:geomhash":"a4f8a608688cf127f87a2ca5a9cfc60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1125328017,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125328017,
+    "wof:lastmodified":1534379194,
+    "wof:name":"Ernstbrunn",
+    "wof:parent_id":102049887,
+    "wof:placetype":"localadmin",
+    "wof:population":3180,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836857
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34161,
+    48.53286,
+    16.34161,
+    48.53286
+],
+  "geometry": {"coordinates":[16.34161,48.53286],"type":"Point"}
+}

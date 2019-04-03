@@ -1,0 +1,82 @@
+{
+  "id": 1125379939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47874,48.10599,16.47874,48.10599",
+    "geom:latitude":48.10599,
+    "geom:longitude":16.47874,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1519,
+    "gn:population":1730,
+    "iso:country":"AT",
+    "lbl:latitude":48.10599,
+    "lbl:longitude":16.47874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871955,
+    "qs_pg:gn_pop":1519,
+    "qs_pg:name":"Zw\u00f6lfaxing",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":279569,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871955,
+        "qs_pg:id":279569
+    },
+    "wof:country":"AT",
+    "wof:created":1497047984,
+    "wof:geomhash":"77ff01a71140e961145f67ce23fbbd85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1125379939,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125379939,
+    "wof:lastmodified":1534379211,
+    "wof:name":"Zw\u00f6lfaxing",
+    "wof:parent_id":102049843,
+    "wof:placetype":"localadmin",
+    "wof:population":1730,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835353
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47874,
+    48.10599,
+    16.47874,
+    48.10599
+],
+  "geometry": {"coordinates":[16.47874,48.10599],"type":"Point"}
+}

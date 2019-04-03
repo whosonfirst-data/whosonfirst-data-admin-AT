@@ -1,0 +1,82 @@
+{
+  "id": 1125305891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47162,47.699,16.47162,47.699",
+    "geom:latitude":47.699,
+    "geom:longitude":16.47162,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1246,
+    "gn:population":1214,
+    "iso:country":"AT",
+    "lbl:latitude":47.699,
+    "lbl:longitude":16.47162,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871574,
+    "qs_pg:gn_pop":1246,
+    "qs_pg:name":"Loipersbach im Burgenland",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743292,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871574,
+        "qs_pg:id":743292
+    },
+    "wof:country":"AT",
+    "wof:created":1497043689,
+    "wof:geomhash":"314427e6aa6fff5fe3f14ebab68bc339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1125305891,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125305891,
+    "wof:lastmodified":1534531000,
+    "wof:name":"Loipersbach im Burgenland",
+    "wof:parent_id":102049789,
+    "wof:placetype":"localadmin",
+    "wof:population":1214,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838625
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47162,
+    47.699,
+    16.47162,
+    47.699
+],
+  "geometry": {"coordinates":[16.47162,47.699],"type":"Point"}
+}

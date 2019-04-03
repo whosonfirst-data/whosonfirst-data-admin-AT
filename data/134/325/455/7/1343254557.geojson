@@ -1,0 +1,71 @@
+{
+  "id": 1343254557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98611,47.16556,13.98611,47.16556",
+    "geom:latitude":47.16556,
+    "geom:longitude":13.98611,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61441.0",
+    "gn:asciiname":"Fresen",
+    "gn:country_code":"AT",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324861,
+    "gn:latitude":47.16556,
+    "gn:longitude":13.98611,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Fresen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838789,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324861
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"685c4a0b15a290f1e08b7de305e21afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838789,
+            "locality_id":1343254557,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343254557,
+    "wof:lastmodified":1537041694,
+    "wof:name":"Fresen",
+    "wof:parent_id":1108838789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98611,
+    47.16556,
+    13.98611,
+    47.16556
+],
+  "geometry": {"coordinates":[13.98611,47.16556],"type":"Point"}
+}

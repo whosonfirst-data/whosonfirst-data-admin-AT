@@ -1,0 +1,74 @@
+{
+  "id": 1259805829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72933,47.18843,15.72933,47.18843",
+    "geom:latitude":47.18843,
+    "geom:longitude":15.72933,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61762.0",
+    "gn:asciiname":"Schirnitz",
+    "gn:country_code":"AT",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592432,
+    "gn:latitude":47.18843,
+    "gn:longitude":15.72933,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schirnitz",
+    "gn:population":80,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838879,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592432
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"67a458d4a7c659de9b1839d81fe8b8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838879,
+            "locality_id":1259805829,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259805829,
+    "wof:lastmodified":1536890728,
+    "wof:name":"Schirnitz",
+    "wof:parent_id":1108838879,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72933,
+    47.18843,
+    15.72933,
+    47.18843
+],
+  "geometry": {"coordinates":[15.72933,47.18843],"type":"Point"}
+}

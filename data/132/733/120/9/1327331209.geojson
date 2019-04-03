@@ -1,0 +1,79 @@
+{
+  "id": 1327331209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57972,46.87333,15.57972,46.87333",
+    "geom:latitude":46.87333,
+    "geom:longitude":15.57972,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"610.0",
+    "gn:admin3_code":"61055.0",
+    "gn:asciiname":"Sankt Georgen an der Stiefing",
+    "gn:country_code":"AT",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2766699,
+    "gn:latitude":46.87333,
+    "gn:longitude":15.57972,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Georgen an der Stiefing",
+    "gn:population":540,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Georgen",
+        "Sankt Georgen an der Stiefing"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838973,
+        85632785,
+        102049699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766699,
+        "wk:page":"Sankt_Georgen_an_der_Stiefing"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"448ffb6004537c31e6b37b14d75887ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108838973,
+            "locality_id":1327331209,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1327331209,
+    "wof:lastmodified":1537584935,
+    "wof:name":"Sankt Georgen an der Stiefing",
+    "wof:parent_id":1108838973,
+    "wof:placetype":"locality",
+    "wof:population":540,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57972,
+    46.87333,
+    15.57972,
+    46.87333
+],
+  "geometry": {"coordinates":[15.57972,46.87333],"type":"Point"}
+}

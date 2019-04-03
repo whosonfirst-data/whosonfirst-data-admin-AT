@@ -1,0 +1,74 @@
+{
+  "id": 1276358549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.85418,47.21578,9.85418,47.21578",
+    "geom:latitude":47.21578,
+    "geom:longitude":9.85418,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801",
+    "gn:admin3_code":"80118.0",
+    "gn:asciiname":"Plazera",
+    "gn:country_code":"AT",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592156,
+    "gn:latitude":47.21578,
+    "gn:longitude":9.85418,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Plazera",
+    "gn:population":17,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838019,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592156
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a0f38c807bc58a606e17bddacc716184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838019,
+            "locality_id":1276358549,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1276358549,
+    "wof:lastmodified":1536744505,
+    "wof:name":"Plazera",
+    "wof:parent_id":1108838019,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.85418,
+    47.21578,
+    9.85418,
+    47.21578
+],
+  "geometry": {"coordinates":[9.85418,47.21578],"type":"Point"}
+}

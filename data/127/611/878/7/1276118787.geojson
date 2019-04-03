@@ -1,0 +1,74 @@
+{
+  "id": 1276118787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61688,48.52348,14.61688,48.52348",
+    "geom:latitude":48.52348,
+    "geom:longitude":14.61688,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40618.0",
+    "gn:asciiname":"Florenthein",
+    "gn:country_code":"AT",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779470,
+    "gn:latitude":48.52348,
+    "gn:longitude":14.61688,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Florenthein",
+    "gn:population":65,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835099,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779470
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"277ab03a79f0f3cdffe86650a10e853f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835099,
+            "locality_id":1276118787,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276118787,
+    "wof:lastmodified":1537063301,
+    "wof:name":"Florenthein",
+    "wof:parent_id":1108835099,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61688,
+    48.52348,
+    14.61688,
+    48.52348
+],
+  "geometry": {"coordinates":[14.61688,48.52348],"type":"Point"}
+}

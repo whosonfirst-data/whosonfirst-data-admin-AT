@@ -1,0 +1,110 @@
+{
+  "id": 1125300193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47449,46.87298,14.47449,46.87298",
+    "geom:latitude":46.87298,
+    "geom:longitude":14.47449,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.87298,
+    "lbl:longitude":14.47449,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0442\u0445\u043e\u0444\u0435\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062a\u0627\u0641\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0445\u043e\u0444\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0445\u043e\u0444\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0433\u043e\u0444\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u7279\u970d\u82ac"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2782645,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Althofen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":260,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1101753,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673552,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782645,
+        "gp:id":12673552,
+        "qs_pg:id":1101753
+    },
+    "wof:country":"AT",
+    "wof:created":1497043378,
+    "wof:geomhash":"5253555d077e97179574193635b2d922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1125300193,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125300193,
+    "wof:lastmodified":1534530996,
+    "wof:name":"Althofen",
+    "wof:parent_id":102049697,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838201
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47449,
+    46.87298,
+    14.47449,
+    46.87298
+],
+  "geometry": {"coordinates":[14.47449,46.87298],"type":"Point"}
+}

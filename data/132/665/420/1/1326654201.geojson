@@ -1,0 +1,69 @@
+{
+  "id": 1326654201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.10115,48.15704,13.10115,48.15704",
+    "geom:latitude":48.15704,
+    "geom:longitude":13.10115,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Reith",
+    "gn:country_code":"AT",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610108,
+    "gn:latitude":48.15704,
+    "gn:longitude":13.10115,
+    "gn:modification_date":"2018-07-19",
+    "gn:name":"Reith",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834735,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610108
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f165428d6ce15abb2e0585e4c32c6a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834735,
+            "locality_id":1326654201,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1326654201,
+    "wof:lastmodified":1536807893,
+    "wof:name":"Reith",
+    "wof:parent_id":1108834735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.10115,
+    48.15704,
+    13.10115,
+    48.15704
+],
+  "geometry": {"coordinates":[13.10115,48.15704],"type":"Point"}
+}

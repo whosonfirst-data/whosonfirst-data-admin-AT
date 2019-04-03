@@ -1,0 +1,82 @@
+{
+  "id": 1125356959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.945,46.78552,15.945,46.78552",
+    "geom:latitude":46.78552,
+    "geom:longitude":15.945,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1401,
+    "gn:population":1266,
+    "iso:country":"AT",
+    "lbl:latitude":46.78552,
+    "lbl:longitude":15.945,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872492,
+    "qs_pg:gn_pop":1401,
+    "qs_pg:name":"Tieschen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155242,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872492,
+        "qs_pg:id":1155242
+    },
+    "wof:country":"AT",
+    "wof:created":1497046533,
+    "wof:geomhash":"c1af7b0e5e3c1a309b13ca780073f66f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125356959,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125356959,
+    "wof:lastmodified":1534531035,
+    "wof:name":"Tieschen",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:population":1266,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839331
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.945,
+    46.78552,
+    15.945,
+    46.78552
+],
+  "geometry": {"coordinates":[15.945,46.78552],"type":"Point"}
+}

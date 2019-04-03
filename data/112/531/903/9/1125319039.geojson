@@ -1,0 +1,110 @@
+{
+  "id": 1125319039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.855094,48.227166,14.855094,48.227166",
+    "geom:latitude":48.227166,
+    "geom:longitude":14.855094,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3131,
+    "gn:population":2973,
+    "iso:country":"AT",
+    "lbl:latitude":48.227166,
+    "lbl:longitude":14.855094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u0430\u0439\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0439\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u8d56\u56e0"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872064,
+    "qs_pg:gn_pop":3131,
+    "qs_pg:name":"Grein",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":56,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":209,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":211631,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674103,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872064,
+        "gp:id":12674103,
+        "qs_pg:id":211631
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1042051
+    },
+    "wof:country":"AT",
+    "wof:created":1497044421,
+    "wof:geomhash":"d9837bda72d29084a4056e42c1def2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1125319039,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125319039,
+    "wof:lastmodified":1536698155,
+    "wof:name":"Grein",
+    "wof:parent_id":102049865,
+    "wof:placetype":"localadmin",
+    "wof:population":2973,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835575
+    ],
+    "wof:supersedes":[
+        1125394333
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.855094,
+    48.227166,
+    14.855094,
+    48.227166
+],
+  "geometry": {"coordinates":[14.855094,48.227166],"type":"Point"}
+}

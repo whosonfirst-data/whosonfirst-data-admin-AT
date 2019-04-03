@@ -1,0 +1,65 @@
+{
+  "id": 102556337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1128,47.3866,16.1128,47.3866",
+    "geom:latitude":47.3866,
+    "geom:longitude":16.1128,
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1339",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591656,
+        "localadmin_id":12673423,
+        "planet_id":1,
+        "state_id":2344708
+    },
+    "wof:belongsto":[
+        85632785,
+        85681651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051712,
+        "icao:code":"LOGP",
+        "oa:id":"29455",
+        "wd:id":"Q16898391"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cdf7de4283d416d676508df0f923b33d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556337,
+            "country_id":85632785,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":102556337,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Sportflugplatz Pinkafeld",
+    "wof:parent_id":85681651,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.1128,
+    47.3866,
+    16.1128,
+    47.3866
+],
+  "geometry": {"coordinates":[16.1128,47.3866],"type":"Point"}
+}

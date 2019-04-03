@@ -1,0 +1,76 @@
+{
+  "id": 1326524583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7964,47.38853,11.7964,47.38853",
+    "geom:latitude":47.38853,
+    "geom:longitude":11.7964,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"709.0",
+    "gn:admin3_code":"70905.0",
+    "gn:asciiname":"Rotholz",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767071,
+    "gn:latitude":47.38853,
+    "gn:longitude":11.7964,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Rotholz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rotholtz",
+        "Rotholz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837853,
+        85632785,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767071
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b4ec958f03741cabba6be40296a8fbbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837853,
+            "locality_id":1326524583,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1326524583,
+    "wof:lastmodified":1537584937,
+    "wof:name":"Rotholz",
+    "wof:parent_id":1108837853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.7964,
+    47.38853,
+    11.7964,
+    47.38853
+],
+  "geometry": {"coordinates":[11.7964,47.38853],"type":"Point"}
+}

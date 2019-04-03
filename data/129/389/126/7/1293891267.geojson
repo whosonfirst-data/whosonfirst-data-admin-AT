@@ -1,0 +1,74 @@
+{
+  "id": 1293891267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61369,48.27383,15.61369,48.27383",
+    "geom:latitude":48.27383,
+    "geom:longitude":15.61369,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31930.0",
+    "gn:asciiname":"Grossrust",
+    "gn:country_code":"AT",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777604,
+    "gn:latitude":48.27383,
+    "gn:longitude":15.61369,
+    "gn:modification_date":"2018-08-01",
+    "gn:name":"Gro\u00dfrust",
+    "gn:population":363,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834925,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777604
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a092831c263d15b5ae94eca3b8b81ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834925,
+            "locality_id":1293891267,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293891267,
+    "wof:lastmodified":1536702356,
+    "wof:name":"Grossrust",
+    "wof:parent_id":1108834925,
+    "wof:placetype":"locality",
+    "wof:population":363,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61369,
+    48.27383,
+    15.61369,
+    48.27383
+],
+  "geometry": {"coordinates":[15.61369,48.27383],"type":"Point"}
+}

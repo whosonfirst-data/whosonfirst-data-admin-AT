@@ -1,0 +1,71 @@
+{
+  "id": 1292925673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.81667,47.51667,9.81667,47.51667",
+    "geom:latitude":47.51667,
+    "geom:longitude":9.81667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"802",
+    "gn:admin3_code":"80222.0",
+    "gn:asciiname":"Geserberg",
+    "gn:country_code":"AT",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778622,
+    "gn:latitude":47.51667,
+    "gn:longitude":9.81667,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Geserberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837981,
+        85632785,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778622
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6d286d94d6034f0191d4966add4989ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837981,
+            "locality_id":1292925673,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1292925673,
+    "wof:lastmodified":1537096815,
+    "wof:name":"Geserberg",
+    "wof:parent_id":1108837981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.81667,
+    47.51667,
+    9.81667,
+    47.51667
+],
+  "geometry": {"coordinates":[9.81667,47.51667],"type":"Point"}
+}

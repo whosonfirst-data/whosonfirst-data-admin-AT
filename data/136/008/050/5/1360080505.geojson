@@ -1,0 +1,80 @@
+{
+  "id": 1360080505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86085,47.27396,14.86085,47.27396",
+    "geom:latitude":47.27396,
+    "geom:longitude":14.86085,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"620.0",
+    "gn:admin3_code":"62045.0",
+    "gn:asciiname":"Sankt Marein bei Knittelfeld",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2766564,
+    "gn:latitude":47.27396,
+    "gn:longitude":14.86085,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Marein bei Knittelfeld",
+    "gn:population":303,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Marein",
+        "Sankt Marein bei Knittelfeld"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839413,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766564,
+        "wk:page":"Sankt_Marein_bei_Knittelfeld"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"403fa3238af806aed012925278771165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108839413,
+            "locality_id":1360080505,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1360080505,
+    "wof:lastmodified":1537584932,
+    "wof:name":"Sankt Marein bei Knittelfeld",
+    "wof:parent_id":1108839413,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86085,
+    47.27396,
+    14.86085,
+    47.27396
+],
+  "geometry": {"coordinates":[14.86085,47.27396],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326554293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.43795,47.98194,13.43795,47.98194",
+    "geom:latitude":47.98194,
+    "geom:longitude":13.43795,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41710.0",
+    "gn:asciiname":"Unterrain",
+    "gn:country_code":"AT",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594552,
+    "gn:latitude":47.98194,
+    "gn:longitude":13.43795,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterrain",
+    "gn:population":29,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836439,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594552
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f91877360cf14d7a309d518747a3eeca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836439,
+            "locality_id":1326554293,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1326554293,
+    "wof:lastmodified":1536952369,
+    "wof:name":"Unterrain",
+    "wof:parent_id":1108836439,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.43795,
+    47.98194,
+    13.43795,
+    47.98194
+],
+  "geometry": {"coordinates":[13.43795,47.98194],"type":"Point"}
+}

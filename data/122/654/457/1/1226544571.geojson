@@ -1,0 +1,71 @@
+{
+  "id": 1226544571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.75375,47.29856,12.75375,47.29856",
+    "geom:latitude":47.29856,
+    "geom:longitude":12.75375,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50616.0",
+    "gn:asciiname":"Durnberg",
+    "gn:country_code":"AT",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780616,
+    "gn:latitude":47.29856,
+    "gn:longitude":12.75375,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"D\u00fcrnberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837227,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780616
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0c59f1a460b2d86b737485b5ed99894d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837227,
+            "locality_id":1226544571,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1226544571,
+    "wof:lastmodified":1536998931,
+    "wof:name":"Durnberg",
+    "wof:parent_id":1108837227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.75375,
+    47.29856,
+    12.75375,
+    47.29856
+],
+  "geometry": {"coordinates":[12.75375,47.29856],"type":"Point"}
+}

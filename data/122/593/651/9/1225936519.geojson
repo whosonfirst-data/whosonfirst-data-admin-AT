@@ -1,0 +1,74 @@
+{
+  "id": 1225936519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66981,47.31066,15.66981,47.31066",
+    "geom:latitude":47.31066,
+    "geom:longitude":15.66981,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61757.0",
+    "gn:asciiname":"Rossegg",
+    "gn:country_code":"AT",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767154,
+    "gn:latitude":47.31066,
+    "gn:longitude":15.66981,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rossegg",
+    "gn:population":272,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838855,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767154
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7b90af138a47af4f8ba408c0ad208018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838855,
+            "locality_id":1225936519,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1225936519,
+    "wof:lastmodified":1536882069,
+    "wof:name":"Rossegg",
+    "wof:parent_id":1108838855,
+    "wof:placetype":"locality",
+    "wof:population":272,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66981,
+    47.31066,
+    15.66981,
+    47.31066
+],
+  "geometry": {"coordinates":[15.66981,47.31066],"type":"Point"}
+}

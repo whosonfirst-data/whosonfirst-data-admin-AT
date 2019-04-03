@@ -1,0 +1,74 @@
+{
+  "id": 1343558949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.32338,47.18293,14.32338,47.18293",
+    "geom:latitude":47.18293,
+    "geom:longitude":14.32338,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61440.0",
+    "gn:asciiname":"Raiming",
+    "gn:country_code":"AT",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324817,
+    "gn:latitude":47.18293,
+    "gn:longitude":14.32338,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Raiming",
+    "gn:population":301,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838785,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324817
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ae6f0f2ce0fe9035f65024a47b436673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838785,
+            "locality_id":1343558949,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343558949,
+    "wof:lastmodified":1536600951,
+    "wof:name":"Raiming",
+    "wof:parent_id":1108838785,
+    "wof:placetype":"locality",
+    "wof:population":301,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.32338,
+    47.18293,
+    14.32338,
+    47.18293
+],
+  "geometry": {"coordinates":[14.32338,47.18293],"type":"Point"}
+}

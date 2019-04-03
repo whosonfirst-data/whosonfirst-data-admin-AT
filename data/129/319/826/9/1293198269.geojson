@@ -1,0 +1,74 @@
+{
+  "id": 1293198269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03333,47.48333,14.03333,47.48333",
+    "geom:latitude":47.48333,
+    "geom:longitude":14.03333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61262.0",
+    "gn:asciiname":"Gritschenberg",
+    "gn:country_code":"AT",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777933,
+    "gn:latitude":47.48333,
+    "gn:longitude":14.03333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gritschenberg",
+    "gn:population":97,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838929,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777933
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1ac5f7e86d1dc14964b5ff1838e057d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838929,
+            "locality_id":1293198269,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293198269,
+    "wof:lastmodified":1536707322,
+    "wof:name":"Gritschenberg",
+    "wof:parent_id":1108838929,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03333,
+    47.48333,
+    14.03333,
+    47.48333
+],
+  "geometry": {"coordinates":[14.03333,47.48333],"type":"Point"}
+}

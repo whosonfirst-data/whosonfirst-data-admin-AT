@@ -1,0 +1,69 @@
+{
+  "id": 1209215123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12556,48.26528,14.12556,48.26528",
+    "geom:latitude":48.26528,
+    "geom:longitude":14.12556,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40501.0",
+    "gn:asciiname":"Grosshart",
+    "gn:country_code":"AT",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3321840,
+    "gn:latitude":48.26528,
+    "gn:longitude":14.12556,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gro\u00dfhart",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gro\u00dfhart"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3321840
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"74a3a4cf6da936ef65490e0ea116aea4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209215123
+        }
+    ],
+    "wof:id":1209215123,
+    "wof:lastmodified":1537584988,
+    "wof:name":"Grosshart",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12556,
+    48.26528,
+    14.12556,
+    48.26528
+],
+  "geometry": {"coordinates":[14.12556,48.26528],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276665299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12178,48.1327,15.12178,48.1327",
+    "geom:latitude":48.1327,
+    "geom:longitude":15.12178,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"320",
+    "gn:admin3_code":"32017.0",
+    "gn:asciiname":"Kruegling",
+    "gn:country_code":"AT",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610475,
+    "gn:latitude":48.1327,
+    "gn:longitude":15.12178,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kr\u00fcgling",
+    "gn:population":52,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836719,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610475
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4b2769c80cf9fb68190602dbeca97d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108836719,
+            "locality_id":1276665299,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276665299,
+    "wof:lastmodified":1536829911,
+    "wof:name":"Kruegling",
+    "wof:parent_id":1108836719,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12178,
+    48.1327,
+    15.12178,
+    48.1327
+],
+  "geometry": {"coordinates":[15.12178,48.1327],"type":"Point"}
+}

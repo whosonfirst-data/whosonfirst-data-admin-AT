@@ -1,0 +1,82 @@
+{
+  "id": 1125386561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.91667,47.45,9.91667,47.45",
+    "geom:latitude":47.45,
+    "geom:longitude":9.91667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1318,
+    "gn:population":1448,
+    "iso:country":"AT",
+    "lbl:latitude":47.45,
+    "lbl:longitude":9.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2772410,
+    "qs_pg:gn_pop":1318,
+    "qs_pg:name":"Lingenau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1032506,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772410,
+        "qs_pg:id":1032506
+    },
+    "wof:country":"AT",
+    "wof:created":1497048419,
+    "wof:geomhash":"db046b860cbd6118a64a4ee75a4ceec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1125386561,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125386561,
+    "wof:lastmodified":1534531032,
+    "wof:name":"Lingenau",
+    "wof:parent_id":102049751,
+    "wof:placetype":"localadmin",
+    "wof:population":1448,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837993
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.91667,
+    47.45,
+    9.91667,
+    47.45
+],
+  "geometry": {"coordinates":[9.91667,47.45],"type":"Point"}
+}

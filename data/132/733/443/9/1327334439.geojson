@@ -1,0 +1,74 @@
+{
+  "id": 1327334439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17554,48.37655,14.17554,48.37655",
+    "geom:latitude":48.37655,
+    "geom:longitude":14.17554,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"416",
+    "gn:admin3_code":"41609.0",
+    "gn:asciiname":"Lichtenhag",
+    "gn:country_code":"AT",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3321967,
+    "gn:latitude":48.37655,
+    "gn:longitude":14.17554,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lichtenhag",
+    "gn:population":88,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836155,
+        85632785,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3321967
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7813fd369dfd1210b4a50b00dacd156f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836155,
+            "locality_id":1327334439,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327334439,
+    "wof:lastmodified":1536821399,
+    "wof:name":"Lichtenhag",
+    "wof:parent_id":1108836155,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17554,
+    48.37655,
+    14.17554,
+    48.37655
+],
+  "geometry": {"coordinates":[14.17554,48.37655],"type":"Point"}
+}

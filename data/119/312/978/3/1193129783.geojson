@@ -1,0 +1,71 @@
+{
+  "id": 1193129783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53333,47.26667,15.53333,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":15.53333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61763.0",
+    "gn:asciiname":"Untersattl",
+    "gn:country_code":"AT",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762665,
+    "gn:latitude":47.26667,
+    "gn:longitude":15.53333,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Untersattl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839383,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762665
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"622866466991ba9070fd31fe02f9284e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839383,
+            "locality_id":1193129783,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1193129783,
+    "wof:lastmodified":1536377040,
+    "wof:name":"Untersattl",
+    "wof:parent_id":1108839383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53333,
+    47.26667,
+    15.53333,
+    47.26667
+],
+  "geometry": {"coordinates":[15.53333,47.26667],"type":"Point"}
+}

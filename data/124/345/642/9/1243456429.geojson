@@ -1,0 +1,74 @@
+{
+  "id": 1243456429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6883,48.62553,15.6883,48.62553",
+    "geom:latitude":48.62553,
+    "geom:longitude":15.6883,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"311.0",
+    "gn:admin3_code":"31121.0",
+    "gn:asciiname":"Zaingrub",
+    "gn:country_code":"AT",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760754,
+    "gn:latitude":48.62553,
+    "gn:longitude":15.6883,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Zaingrub",
+    "gn:population":64,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834937,
+        85632785,
+        102049901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760754
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9ee35c5747932dacd5fd318e241f737a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108834937,
+            "locality_id":1243456429,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243456429,
+    "wof:lastmodified":1536791468,
+    "wof:name":"Zaingrub",
+    "wof:parent_id":1108834937,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6883,
+    48.62553,
+    15.6883,
+    48.62553
+],
+  "geometry": {"coordinates":[15.6883,48.62553],"type":"Point"}
+}

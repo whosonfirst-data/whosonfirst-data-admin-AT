@@ -1,0 +1,82 @@
+{
+  "id": 1125273781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69997,47.18658,15.69997,47.18658",
+    "geom:latitude":47.18658,
+    "geom:longitude":15.69997,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1186,
+    "gn:population":1186,
+    "iso:country":"AT",
+    "lbl:latitude":47.18658,
+    "lbl:longitude":15.69997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872504,
+    "qs_pg:gn_pop":1186,
+    "qs_pg:name":"Etzersdorf-Rollsdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108629,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872504,
+        "qs_pg:id":108629
+    },
+    "wof:country":"AT",
+    "wof:created":1497042235,
+    "wof:geomhash":"bb6f6c35e49a14368e2acd31fa0ed42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125273781,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125273781,
+    "wof:lastmodified":1536698122,
+    "wof:name":"Etzersdorf-Rollsdorf",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":1186,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838911
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69997,
+    47.18658,
+    15.69997,
+    47.18658
+],
+  "geometry": {"coordinates":[15.69997,47.18658],"type":"Point"}
+}

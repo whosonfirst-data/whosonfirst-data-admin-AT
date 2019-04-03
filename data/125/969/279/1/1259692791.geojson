@@ -1,0 +1,74 @@
+{
+  "id": 1259692791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81667,46.7,13.81667,46.7",
+    "geom:latitude":46.7,
+    "geom:longitude":13.81667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"207",
+    "gn:admin3_code":"20724.0",
+    "gn:asciiname":"Loetschenberg",
+    "gn:country_code":"AT",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772241,
+    "gn:latitude":46.7,
+    "gn:longitude":13.81667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"L\u00f6tschenberg",
+    "gn:population":32,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838357,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772241
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"96ba5e4e4cf3251c06099a1d0592044a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838357,
+            "locality_id":1259692791,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259692791,
+    "wof:lastmodified":1537051361,
+    "wof:name":"Loetschenberg",
+    "wof:parent_id":1108838357,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81667,
+    46.7,
+    13.81667,
+    46.7
+],
+  "geometry": {"coordinates":[13.81667,46.7],"type":"Point"}
+}

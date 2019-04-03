@@ -1,0 +1,74 @@
+{
+  "id": 1310707813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78389,48.53861,13.78389,48.53861",
+    "geom:latitude":48.53861,
+    "geom:longitude":13.78389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41327.0",
+    "gn:asciiname":"Pernerstorf",
+    "gn:country_code":"AT",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319403,
+    "gn:latitude":48.53861,
+    "gn:longitude":13.78389,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pernerstorf",
+    "gn:population":59,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835987,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319403
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5a371114c464c0f2b0acefce63cd4657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835987,
+            "locality_id":1310707813,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310707813,
+    "wof:lastmodified":1536622983,
+    "wof:name":"Pernerstorf",
+    "wof:parent_id":1108835987,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78389,
+    48.53861,
+    13.78389,
+    48.53861
+],
+  "geometry": {"coordinates":[13.78389,48.53861],"type":"Point"}
+}

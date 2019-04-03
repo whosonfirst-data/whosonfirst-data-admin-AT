@@ -1,0 +1,79 @@
+{
+  "id": 1310494331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21667,46.98333,15.21667,46.98333",
+    "geom:latitude":46.98333,
+    "geom:longitude":15.21667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"616.0",
+    "gn:admin3_code":"61612.0",
+    "gn:asciiname":"Steinberg bei Ligist",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764505,
+    "gn:latitude":46.98333,
+    "gn:longitude":15.21667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Steinberg bei Ligist",
+    "gn:population":846,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Steinberg",
+        "Steinberg bei Ligist"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838827,
+        85632785,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764505
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"40945c41ec475d92c27ab84f2d1c3948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108838827,
+            "locality_id":1310494331,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310494331,
+    "wof:lastmodified":1537584923,
+    "wof:name":"Steinberg bei Ligist",
+    "wof:parent_id":1108838827,
+    "wof:placetype":"locality",
+    "wof:population":846,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21667,
+    46.98333,
+    15.21667,
+    46.98333
+],
+  "geometry": {"coordinates":[15.21667,46.98333],"type":"Point"}
+}

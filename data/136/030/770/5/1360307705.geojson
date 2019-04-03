@@ -1,0 +1,76 @@
+{
+  "id": 1360307705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7083,47.28156,15.7083,47.28156",
+    "geom:latitude":47.28156,
+    "geom:longitude":15.7083,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61756.0",
+    "gn:asciiname":"Baierdorf Dorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782033,
+    "gn:latitude":47.28156,
+    "gn:longitude":15.7083,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Baierdorf Dorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baierdorf bei Anger",
+        "Baierdorf Dorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838851,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782033
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8ba6130837bc158e8472b817b9190783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838851,
+            "locality_id":1360307705,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1360307705,
+    "wof:lastmodified":1537584983,
+    "wof:name":"Baierdorf Dorf",
+    "wof:parent_id":1108838851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7083,
+    47.28156,
+    15.7083,
+    47.28156
+],
+  "geometry": {"coordinates":[15.7083,47.28156],"type":"Point"}
+}

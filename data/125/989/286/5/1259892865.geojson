@@ -1,0 +1,74 @@
+{
+  "id": 1259892865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14598,46.76206,14.14598,46.76206",
+    "geom:latitude":46.76206,
+    "geom:longitude":14.14598,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21008.0",
+    "gn:asciiname":"Trenk",
+    "gn:country_code":"AT",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593733,
+    "gn:latitude":46.76206,
+    "gn:longitude":14.14598,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Trenk",
+    "gn:population":88,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838137,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593733
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8332447ab3980b159fba4d3fb772abfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838137,
+            "locality_id":1259892865,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259892865,
+    "wof:lastmodified":1536765942,
+    "wof:name":"Trenk",
+    "wof:parent_id":1108838137,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14598,
+    46.76206,
+    14.14598,
+    46.76206
+],
+  "geometry": {"coordinates":[14.14598,46.76206],"type":"Point"}
+}

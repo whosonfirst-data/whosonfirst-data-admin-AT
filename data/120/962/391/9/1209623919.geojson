@@ -1,0 +1,77 @@
+{
+  "id": 1209623919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,46.54,14.75,46.54",
+    "geom:latitude":46.54,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20805.0",
+    "gn:asciiname":"Ruttach-Schmelz",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766934,
+    "gn:latitude":46.54,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ruttach-Schmelz",
+    "gn:population":11,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ruttach-Schmelz"
+    ],
+    "name:slv_x_preferred":[
+        "Rute"
+    ],
+    "name:und_x_variant":[
+        "Rute",
+        "Ruttach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766934
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"651638c18d7bbd1bb942f1abf60c5ab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209623919
+        }
+    ],
+    "wof:id":1209623919,
+    "wof:lastmodified":1537584936,
+    "wof:name":"Ruttach-Schmelz",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    46.54,
+    14.75,
+    46.54
+],
+  "geometry": {"coordinates":[14.75,46.54],"type":"Point"}
+}

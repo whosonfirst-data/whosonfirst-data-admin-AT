@@ -1,0 +1,82 @@
+{
+  "id": 1125273341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82157,48.44019,13.82157,48.44019",
+    "geom:latitude":48.44019,
+    "geom:longitude":13.82157,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1277,
+    "gn:population":1195,
+    "iso:country":"AT",
+    "lbl:latitude":48.44019,
+    "lbl:longitude":13.82157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872138,
+    "qs_pg:gn_pop":1277,
+    "qs_pg:name":"Waldkirchen am Wesen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108512,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872138,
+        "qs_pg:id":108512
+    },
+    "wof:country":"AT",
+    "wof:created":1497042220,
+    "wof:geomhash":"898cadb82a4b1408beee39d8459c1b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1125273341,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125273341,
+    "wof:lastmodified":1534379123,
+    "wof:name":"Waldkirchen am Wesen",
+    "wof:parent_id":102049877,
+    "wof:placetype":"localadmin",
+    "wof:population":1195,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836085
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82157,
+    48.44019,
+    13.82157,
+    48.44019
+],
+  "geometry": {"coordinates":[13.82157,48.44019],"type":"Point"}
+}

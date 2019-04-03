@@ -1,0 +1,82 @@
+{
+  "id": 1125269879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39102,48.73068,15.39102,48.73068",
+    "geom:latitude":48.73068,
+    "geom:longitude":15.39102,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1798,
+    "gn:population":1847,
+    "iso:country":"AT",
+    "lbl:latitude":48.73068,
+    "lbl:longitude":15.39102,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873080,
+    "qs_pg:gn_pop":1798,
+    "qs_pg:name":"G\u00f6pfritz an der Wild",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743462,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873080,
+        "qs_pg:id":743462
+    },
+    "wof:country":"AT",
+    "wof:created":1497042081,
+    "wof:geomhash":"c7a38033d20c6e9ad386a9cd2384cea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1125269879,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125269879,
+    "wof:lastmodified":1534379196,
+    "wof:name":"G\u00f6pfritz an der Wild",
+    "wof:parent_id":102049895,
+    "wof:placetype":"localadmin",
+    "wof:population":1847,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836195
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39102,
+    48.73068,
+    15.39102,
+    48.73068
+],
+  "geometry": {"coordinates":[15.39102,48.73068],"type":"Point"}
+}

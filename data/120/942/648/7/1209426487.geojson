@@ -1,0 +1,63 @@
+{
+  "id": 1209426487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49833,48.01444,16.49833,48.01444",
+    "geom:latitude":48.01444,
+    "geom:longitude":16.49833,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"306",
+    "gn:admin3_code":"30621.0",
+    "gn:asciiname":"Neumitterndorf",
+    "gn:country_code":"AT",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3322556,
+    "gn:latitude":48.01444,
+    "gn:longitude":16.49833,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Neumitterndorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3322556
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2e6a3ec98ee8bdd370f0775e6cbd2729",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209426487
+        }
+    ],
+    "wof:id":1209426487,
+    "wof:lastmodified":1536287367,
+    "wof:name":"Neumitterndorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49833,
+    48.01444,
+    16.49833,
+    48.01444
+],
+  "geometry": {"coordinates":[16.49833,48.01444],"type":"Point"}
+}

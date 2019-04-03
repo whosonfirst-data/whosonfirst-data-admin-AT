@@ -1,0 +1,71 @@
+{
+  "id": 1243271425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85602,47.69913,15.85602,47.69913",
+    "geom:latitude":47.69913,
+    "geom:longitude":15.85602,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"318.0",
+    "gn:admin3_code":"31829.0",
+    "gn:asciiname":"Schneedorfl",
+    "gn:country_code":"AT",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765813,
+    "gn:latitude":47.69913,
+    "gn:longitude":15.85602,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Schneed\u00f6rfl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834923,
+        85632785,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765813
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"42648106228d4d0f6bd5518ae4b3a07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108834923,
+            "locality_id":1243271425,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243271425,
+    "wof:lastmodified":1537055357,
+    "wof:name":"Schneedorfl",
+    "wof:parent_id":1108834923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85602,
+    47.69913,
+    15.85602,
+    47.69913
+],
+  "geometry": {"coordinates":[15.85602,47.69913],"type":"Point"}
+}

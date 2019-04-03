@@ -1,0 +1,74 @@
+{
+  "id": 1259784445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67078,48.32584,14.67078,48.32584",
+    "geom:latitude":48.32584,
+    "geom:longitude":14.67078,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40627.0",
+    "gn:asciiname":"Brawinkl",
+    "gn:country_code":"AT",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781510,
+    "gn:latitude":48.32584,
+    "gn:longitude":14.67078,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Brawinkl",
+    "gn:population":156,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835119,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781510
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"34b6cbd7431d4e3f3d2bac1f43d91c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835119,
+            "locality_id":1259784445,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259784445,
+    "wof:lastmodified":1536922450,
+    "wof:name":"Brawinkl",
+    "wof:parent_id":1108835119,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67078,
+    48.32584,
+    14.67078,
+    48.32584
+],
+  "geometry": {"coordinates":[14.67078,48.32584],"type":"Point"}
+}

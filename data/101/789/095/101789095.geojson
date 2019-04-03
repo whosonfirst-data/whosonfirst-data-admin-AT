@@ -1,0 +1,102 @@
+{
+  "id": 101789095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":588448.403916,
+    "geom:bbox":"15.5568088027,47.0161582169,15.5724723693,47.0303813453",
+    "geom:latitude":47.024132,
+    "geom:longitude":15.565602,
+    "iso:country":"AT",
+    "lbl:latitude":47.025749,
+    "lbl:longitude":15.567678,
+    "mps:latitude":47.025749,
+    "mps:longitude":15.567678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Premst\u00e4tten"
+    ],
+    "name:eng_x_preferred":[
+        "Premst\u00e4tten"
+    ],
+    "name:fre_x_preferred":[
+        "Premst\u00e4tten"
+    ],
+    "name:ger_x_preferred":[
+        "Premst\u00e4tten"
+    ],
+    "name:hun_x_preferred":[
+        "Premst\u00e4tten"
+    ],
+    "name:ita_x_preferred":[
+        "Premst\u00e4tten"
+    ],
+    "name:pol_x_preferred":[
+        "Unterpremst\u00e4tten-Zettling"
+    ],
+    "name:unk_x_variant":[
+        "Premst\u00e4tten bei Vasoldsberg"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Steiermark",
+    "qs:a1r":"0",
+    "qs:a2":"Graz-Umgebung",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:id":0,
+    "qs:la":"Vasoldsberg",
+    "qs:la_lc":"*AT60653",
+    "qs:level":"locality",
+    "qs:loc":"Premst\u00e4tten",
+    "qs:loc_alt":"Premstaetten",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839143,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768355,
+        "gp:id":20094712,
+        "wd:id":"Q18632185"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"da127b2c4ae05fe8a956325d904f565e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839143,
+            "locality_id":101789095,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":101789095,
+    "wof:lastmodified":1513889989,
+    "wof:name":"Premst\u00e4tten",
+    "wof:parent_id":1108839143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55680880270768,
+    47.01615821689353,
+    15.57247236929436,
+    47.03038134531346
+],
+  "geometry": {"coordinates":[[[15.57247236929436,47.02811372576531],[15.57218605292786,47.02542162611365],[15.57087465178051,47.02548922268289],[15.57077924361664,47.02459185368934],[15.56946786164883,47.02465943304588],[15.56927710237238,47.02286469072772],[15.56796576182353,47.02293225153818],[15.56787041070754,47.0220348782139],[15.56655908933732,47.02210242181343],[15.56646376464693,47.02120504660161],[15.56515246245618,47.02127257299054],[15.56496187010822,47.0194778182377],[15.56365060933274,47.01954532608414],[15.56346007819536,47.01775056644919],[15.56214885883276,47.01781805575456],[15.56205362177349,47.01692067377337],[15.55943121834946,47.01705560209217],[15.55933602993815,47.01615821689353],[15.55802484587781,47.01622565590804],[15.55812001205533,47.01712304243779],[15.55680880270768,47.01719046690749],[15.55690395083082,47.01808785421417],[15.5582151824126,47.01802042841359],[15.55831035694985,47.01891781383523],[15.56093285542192,47.01878291194237],[15.56121853753666,47.02147505689396],[15.56252984890017,47.0214075781368],[15.56262510687554,47.02230495734705],[15.56524776490835,47.02216994953551],[15.56562901657912,47.02575945017446],[15.56431760012919,47.02582696735067],[15.5645082065983,47.02762171701261],[15.56319674260203,47.02768922097539],[15.56348261696695,47.03038134531346],[15.56872872154543,47.0301112181844],[15.56853795647891,47.02831647984692],[15.57247236929436,47.02811372576531]]],"type":"Polygon"}
+}

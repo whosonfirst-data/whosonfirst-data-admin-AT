@@ -1,0 +1,126 @@
+{
+  "id": 1125411781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.84345,47.03979,12.84345,47.03979",
+    "geom:latitude":47.03979,
+    "geom:longitude":12.84345,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "gn:population":1069,
+    "iso:country":"AT",
+    "lbl:latitude":47.03979,
+    "lbl:longitude":12.84345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Heiligenblut am Gro\u00dfglockner"
+    ],
+    "name:eng_x_preferred":[
+        "Heiligenblut am Gro\u00dfglockner"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u0439\u043b\u0438\u0433\u0435\u043d\u0431\u043b\u0443\u0442"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06c1\u06cc\u0644\u06cc\u06af\u0646\u0628\u0644\u0679"
+    ],
+    "name:pol_x_preferred":[
+        "Heiligenblut am Gro\u00dfglockner"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u043b\u0438\u0433\u0435\u043d\u0431\u043b\u044e\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u0439\u043b\u0438\u0433\u0435\u043d\u0431\u043b\u0443\u0442"
+    ],
+    "name:slv_x_preferred":[
+        "Sveta Kri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0439\u043b\u0456\u0491\u0435\u043d\u0431\u043b\u044e\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5229\u6839\u5e03\u5362\u7279"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2776595,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Heiligenblut",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":14,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3236,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238901,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673564,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776595,
+        "gp:id":12673564,
+        "qs_pg:id":238901
+    },
+    "wof:country":"AT",
+    "wof:created":1497050414,
+    "wof:geomhash":"cf36021dff780ad0ed712027a319433e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1125411781,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125411781,
+    "wof:lastmodified":1534530996,
+    "wof:name":"Heiligenblut",
+    "wof:parent_id":102049701,
+    "wof:placetype":"localadmin",
+    "wof:population":1069,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838267
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.84345,
+    47.03979,
+    12.84345,
+    47.03979
+],
+  "geometry": {"coordinates":[12.84345,47.03979],"type":"Point"}
+}

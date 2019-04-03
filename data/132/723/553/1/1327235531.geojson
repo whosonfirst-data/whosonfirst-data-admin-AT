@@ -1,0 +1,86 @@
+{
+  "id": 1327235531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3989,47.57476,16.3989,47.57476",
+    "geom:latitude":47.57476,
+    "geom:longitude":16.3989,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"108",
+    "gn:admin3_code":"10807.0",
+    "gn:asciiname":"Lindgraben",
+    "gn:country_code":"AT",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772421,
+    "gn:latitude":47.57476,
+    "gn:longitude":16.3989,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lindgraben",
+    "gn:population":213,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Lindgrab"
+    ],
+    "name:hun_x_historical":[
+        "Sopron-H\u00e1rsfalva"
+    ],
+    "name:hun_x_preferred":[
+        "Kish\u00e1rsfalva"
+    ],
+    "name:hun_x_variant":[
+        "Sopron-H\u00e1rsfalva"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838587,
+        85632785,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772421
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2ebe14c296ee0b8323f5ae61cecf54e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838587,
+            "locality_id":1327235531,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1327235531,
+    "wof:lastmodified":1537584956,
+    "wof:name":"Lindgraben",
+    "wof:parent_id":1108838587,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3989,
+    47.57476,
+    16.3989,
+    47.57476
+],
+  "geometry": {"coordinates":[16.3989,47.57476],"type":"Point"}
+}

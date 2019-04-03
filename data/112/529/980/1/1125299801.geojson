@@ -1,0 +1,82 @@
+{
+  "id": 1125299801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.17681,48.23525,13.17681,48.23525",
+    "geom:latitude":48.23525,
+    "geom:longitude":13.17681,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1393,
+    "gn:population":1377,
+    "iso:country":"AT",
+    "lbl:latitude":48.23525,
+    "lbl:longitude":13.17681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871986,
+    "qs_pg:gn_pop":1393,
+    "qs_pg:name":"Weng im Innkreis",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155132,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871986,
+        "qs_pg:id":1155132
+    },
+    "wof:country":"AT",
+    "wof:created":1497043360,
+    "wof:geomhash":"9843c83f88c566ba4775d6227d254b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1125299801,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125299801,
+    "wof:lastmodified":1534379126,
+    "wof:name":"Weng im Innkreis",
+    "wof:parent_id":102049833,
+    "wof:placetype":"localadmin",
+    "wof:population":1377,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834809
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.17681,
+    48.23525,
+    13.17681,
+    48.23525
+],
+  "geometry": {"coordinates":[13.17681,48.23525],"type":"Point"}
+}

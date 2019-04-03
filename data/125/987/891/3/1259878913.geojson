@@ -1,0 +1,74 @@
+{
+  "id": 1259878913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.90751,47.39047,12.90751,47.39047",
+    "geom:latitude":47.39047,
+    "geom:longitude":12.90751,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50612.0",
+    "gn:asciiname":"Aberg",
+    "gn:country_code":"AT",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783069,
+    "gn:latitude":47.39047,
+    "gn:longitude":12.90751,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Aberg",
+    "gn:population":44,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837219,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783069
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8fefb283a5005e874d628f89dded8011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837219,
+            "locality_id":1259878913,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1259878913,
+    "wof:lastmodified":1536786277,
+    "wof:name":"Aberg",
+    "wof:parent_id":1108837219,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.90751,
+    47.39047,
+    12.90751,
+    47.39047
+],
+  "geometry": {"coordinates":[12.90751,47.39047],"type":"Point"}
+}

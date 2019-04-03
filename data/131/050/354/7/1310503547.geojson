@@ -1,0 +1,74 @@
+{
+  "id": 1310503547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2964,47.97648,15.2964,47.97648",
+    "geom:latitude":47.97648,
+    "geom:longitude":15.2964,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31906.0",
+    "gn:asciiname":"Rosenbuehelrotte",
+    "gn:country_code":"AT",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591842,
+    "gn:latitude":47.97648,
+    "gn:longitude":15.2964,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rosenb\u00fchelrotte",
+    "gn:population":237,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836381,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591842
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e4ed3166a208ed8a52b2535049dae2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836381,
+            "locality_id":1310503547,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310503547,
+    "wof:lastmodified":1536920371,
+    "wof:name":"Rosenbuehelrotte",
+    "wof:parent_id":1108836381,
+    "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2964,
+    47.97648,
+    15.2964,
+    47.97648
+],
+  "geometry": {"coordinates":[15.2964,47.97648],"type":"Point"}
+}

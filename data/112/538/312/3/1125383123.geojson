@@ -1,0 +1,92 @@
+{
+  "id": 1125383123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86031,48.25497,15.86031,48.25497",
+    "geom:latitude":48.25497,
+    "geom:longitude":15.86031,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.25497,
+    "lbl:longitude":15.86031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2760797,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"W\u00fcrmla",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1016740,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673754,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760797,
+        "gp:id":12673754,
+        "qs_pg:id":1016740
+    },
+    "wof:country":"AT",
+    "wof:created":1497048185,
+    "wof:geomhash":"14be9bda2aad5514bf9d0af0ce8e4ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1125383123,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125383123,
+    "wof:lastmodified":1534531048,
+    "wof:name":"W\u00fcrmla",
+    "wof:parent_id":102049879,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834939
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86031,
+    48.25497,
+    15.86031,
+    48.25497
+],
+  "geometry": {"coordinates":[15.86031,48.25497],"type":"Point"}
+}

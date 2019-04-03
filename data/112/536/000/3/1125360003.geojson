@@ -1,0 +1,82 @@
+{
+  "id": 1125360003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13031,48.58251,14.13031,48.58251",
+    "geom:latitude":48.58251,
+    "geom:longitude":14.13031,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":430,
+    "gn:population":385,
+    "iso:country":"AT",
+    "lbl:latitude":48.58251,
+    "lbl:longitude":14.13031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872101,
+    "qs_pg:gn_pop":430,
+    "qs_pg:name":"Afiesl",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743327,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872101,
+        "qs_pg:id":743327
+    },
+    "wof:country":"AT",
+    "wof:created":1497046728,
+    "wof:geomhash":"c557cf7751c70663a82c08311efb7ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125360003,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125360003,
+    "wof:lastmodified":1534531036,
+    "wof:name":"Afiesl",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":385,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835707
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13031,
+    48.58251,
+    14.13031,
+    48.58251
+],
+  "geometry": {"coordinates":[14.13031,48.58251],"type":"Point"}
+}

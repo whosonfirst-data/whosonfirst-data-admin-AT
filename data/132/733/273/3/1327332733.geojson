@@ -1,0 +1,74 @@
+{
+  "id": 1327332733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.30629,47.77446,13.30629,47.77446",
+    "geom:latitude":47.77446,
+    "geom:longitude":13.30629,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50311.0",
+    "gn:asciiname":"Tiefbrunau",
+    "gn:country_code":"AT",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763639,
+    "gn:latitude":47.77446,
+    "gn:longitude":13.30629,
+    "gn:modification_date":"2013-06-25",
+    "gn:name":"Tiefbrunau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiefbrunnau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837133,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763639
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"38e54dd86192041ce4be1b4898fdc138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837133,
+            "locality_id":1327332733,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1327332733,
+    "wof:lastmodified":1537584920,
+    "wof:name":"Tiefbrunau",
+    "wof:parent_id":1108837133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.30629,
+    47.77446,
+    13.30629,
+    47.77446
+],
+  "geometry": {"coordinates":[13.30629,47.77446],"type":"Point"}
+}

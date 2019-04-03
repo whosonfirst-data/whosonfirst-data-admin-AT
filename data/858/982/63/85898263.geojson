@@ -1,0 +1,138 @@
+{
+  "id": 85898263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6907376.914565,
+    "geom:bbox":"14.349712,46.679942,14.349712,46.679942",
+    "geom:latitude":46.679942,
+    "geom:longitude":14.349712,
+    "gn:id":"",
+    "iso:country":"AT",
+    "lbl:latitude":46.679942,
+    "lbl:longitude":14.349712,
+    "mps:latitude":46.678921,
+    "mps:longitude":14.35134,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Sankt Georgen"
+    ],
+    "name:ces_x_preferred":[
+        "Sankt Georgen"
+    ],
+    "name:deu_x_preferred":[
+        "Sankt Georgen"
+    ],
+    "name:deu_x_variant":[
+        "Skt.-Georgen",
+        "Skt-Georgen",
+        "Sankt-Georgen",
+        "St-Georgen",
+        "St.-Georgen"
+    ],
+    "name:ita_x_preferred":[
+        "Sankt Georgen"
+    ],
+    "name:nld_x_preferred":[
+        "Sankt Georgen"
+    ],
+    "name:pol_x_preferred":[
+        "Sankt Georgen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0413\u0435\u043e\u0440\u0433\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sankt Georgen"
+    ],
+    "name:unk_x_variant":[
+        "St.-Georgen"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_id":0,
+    "qs:gn_local":2774326,
+    "qs:gn_namadm1":"02",
+    "qs:local_max":5010,
+    "qs:local_sum":14043,
+    "qs:localhoods":10,
+    "qs:name":"St.-Georgen",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"K\u00e4rnten",
+    "qs:name_adm2":"Klagenfurt Stadt",
+    "qs:name_lau":"Klagenfurt",
+    "qs:name_local":"Klagenfurt",
+    "qs:photo_max":53,
+    "qs:photo_sum":106,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344709,
+    "qs:woe_adm2":12591676,
+    "qs:woe_lau":12673562,
+    "qs:woe_local":12673562,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":277,
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838181,
+        85632785,
+        101844431,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":540525,
+        "qs:id":1076318,
+        "qs_pg:id":1076318
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"905d5a6412d8af938c82d08dbedb4600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838181,
+            "locality_id":101844431,
+            "neighbourhood_id":85898263,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":85898263,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932045,
+    "wof:name":"St.-Georgen",
+    "wof:parent_id":101844431,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.349712,
+    46.679942,
+    14.349712,
+    46.679942
+],
+  "geometry": {"coordinates":[14.349712,46.679942],"type":"Point"}
+}

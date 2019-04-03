@@ -1,0 +1,79 @@
+{
+  "id": 1226254177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,48.5,15.3,48.5",
+    "geom:latitude":48.5,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"325",
+    "gn:admin3_code":"32522.0",
+    "gn:asciiname":"Moniholz",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771270,
+    "gn:latitude":48.5,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Moniholz",
+    "gn:population":148,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maniholz",
+        "Moniholz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835371,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771270
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bf00878019f476f186f81c3f1d90ae77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835371,
+            "locality_id":1226254177,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1226254177,
+    "wof:lastmodified":1537584952,
+    "wof:name":"Moniholz",
+    "wof:parent_id":1108835371,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    48.5,
+    15.3,
+    48.5
+],
+  "geometry": {"coordinates":[15.3,48.5],"type":"Point"}
+}

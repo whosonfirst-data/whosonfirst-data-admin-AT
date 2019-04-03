@@ -1,0 +1,74 @@
+{
+  "id": 1209839585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77557,48.4292,13.77557,48.4292",
+    "geom:latitude":48.4292,
+    "geom:longitude":13.77557,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40817.0",
+    "gn:asciiname":"Maeusburg",
+    "gn:country_code":"AT",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609779,
+    "gn:latitude":48.4292,
+    "gn:longitude":13.77557,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"M\u00e4usburg",
+    "gn:population":36,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835203,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609779
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"21f9f3a44c7fad6a752bdf64f1e2b3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835203,
+            "locality_id":1209839585,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1209839585,
+    "wof:lastmodified":1536393325,
+    "wof:name":"Maeusburg",
+    "wof:parent_id":1108835203,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77557,
+    48.4292,
+    13.77557,
+    48.4292
+],
+  "geometry": {"coordinates":[13.77557,48.4292],"type":"Point"}
+}

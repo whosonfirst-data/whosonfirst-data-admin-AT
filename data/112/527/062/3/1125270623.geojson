@@ -1,0 +1,82 @@
+{
+  "id": 1125270623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08076,47.10557,15.08076,47.10557",
+    "geom:latitude":47.10557,
+    "geom:longitude":15.08076,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":383,
+    "gn:population":383,
+    "iso:country":"AT",
+    "lbl:latitude":47.10557,
+    "lbl:longitude":15.08076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873549,
+    "qs_pg:gn_pop":383,
+    "qs_pg:name":"Piberegg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743544,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873549,
+        "qs_pg:id":743544
+    },
+    "wof:country":"AT",
+    "wof:created":1497042110,
+    "wof:geomhash":"fc4b21a94c386629c01dbf2d418b1911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1125270623,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125270623,
+    "wof:lastmodified":1536698112,
+    "wof:name":"Piberegg",
+    "wof:parent_id":102049717,
+    "wof:placetype":"localadmin",
+    "wof:population":383,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839347
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08076,
+    47.10557,
+    15.08076,
+    47.10557
+],
+  "geometry": {"coordinates":[15.08076,47.10557],"type":"Point"}
+}

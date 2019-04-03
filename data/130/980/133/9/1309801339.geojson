@@ -1,0 +1,74 @@
+{
+  "id": 1309801339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26662,46.73086,15.26662,46.73086",
+    "geom:latitude":46.73086,
+    "geom:longitude":15.26662,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60351.0",
+    "gn:asciiname":"Lamberg",
+    "gn:country_code":"AT",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593887,
+    "gn:latitude":46.73086,
+    "gn:longitude":15.26662,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lamberg",
+    "gn:population":47,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839271,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593887
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"37988d752e14d78d39cc0c18179b4c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839271,
+            "locality_id":1309801339,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1309801339,
+    "wof:lastmodified":1536938270,
+    "wof:name":"Lamberg",
+    "wof:parent_id":1108839271,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26662,
+    46.73086,
+    15.26662,
+    46.73086
+],
+  "geometry": {"coordinates":[15.26662,46.73086],"type":"Point"}
+}

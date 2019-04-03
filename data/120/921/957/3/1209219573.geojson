@@ -1,0 +1,63 @@
+{
+  "id": 1209219573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31667,47.36667,13.31667,47.36667",
+    "geom:latitude":47.36667,
+    "geom:longitude":13.31667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50423.0",
+    "gn:asciiname":"Schwarzeneck",
+    "gn:country_code":"AT",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2605796,
+    "gn:latitude":47.36667,
+    "gn:longitude":13.31667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Schwarzeneck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2605796
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ae104e0da30076dc7158cc66501510c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209219573
+        }
+    ],
+    "wof:id":1209219573,
+    "wof:lastmodified":1536294010,
+    "wof:name":"Schwarzeneck",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.316670000000002,
+    47.36667,
+    13.316670000000002,
+    47.36667
+],
+  "geometry": {"coordinates":[13.31667,47.36667],"type":"Point"}
+}

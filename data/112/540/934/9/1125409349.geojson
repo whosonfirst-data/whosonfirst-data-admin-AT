@@ -1,0 +1,82 @@
+{
+  "id": 1125409349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06153,46.96761,13.06153,46.96761",
+    "geom:latitude":46.96761,
+    "geom:longitude":13.06153,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1322,
+    "gn:population":1183,
+    "iso:country":"AT",
+    "lbl:latitude":46.96761,
+    "lbl:longitude":13.06153,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871652,
+    "qs_pg:gn_pop":1322,
+    "qs_pg:name":"Flattach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155034,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871652,
+        "qs_pg:id":1155034
+    },
+    "wof:country":"AT",
+    "wof:created":1497049870,
+    "wof:geomhash":"6ae3cb4315cc1a5b0078e7eb9454b004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1125409349,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125409349,
+    "wof:lastmodified":1534379212,
+    "wof:name":"Flattach",
+    "wof:parent_id":102049701,
+    "wof:placetype":"localadmin",
+    "wof:population":1183,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838261
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06153,
+    46.96761,
+    13.06153,
+    46.96761
+],
+  "geometry": {"coordinates":[13.06153,46.96761],"type":"Point"}
+}

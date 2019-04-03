@@ -1,0 +1,82 @@
+{
+  "id": 1125284251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.02265,47.28075,13.02265,47.28075",
+    "geom:latitude":47.28075,
+    "geom:longitude":13.02265,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1501,
+    "gn:population":1370,
+    "iso:country":"AT",
+    "lbl:latitude":47.28075,
+    "lbl:longitude":13.02265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872240,
+    "qs_pg:gn_pop":1501,
+    "qs_pg:name":"Lend",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155204,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872240,
+        "qs_pg:id":1155204
+    },
+    "wof:country":"AT",
+    "wof:created":1497042634,
+    "wof:geomhash":"b583d0c9e930ed3bb5a2849273491749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125284251,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125284251,
+    "wof:lastmodified":1534379189,
+    "wof:name":"Lend",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:population":1370,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837209
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02265,
+    47.28075,
+    13.02265,
+    47.28075
+],
+  "geometry": {"coordinates":[13.02265,47.28075],"type":"Point"}
+}

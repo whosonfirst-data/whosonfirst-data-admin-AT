@@ -1,0 +1,74 @@
+{
+  "id": 1193028987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0025,46.80972,14.0025,46.80972",
+    "geom:latitude":46.80972,
+    "geom:longitude":14.0025,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21001.0",
+    "gn:asciiname":"Sirnitz-Schattseite",
+    "gn:country_code":"AT",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324672,
+    "gn:latitude":46.80972,
+    "gn:longitude":14.0025,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sirnitz-Schattseite",
+    "gn:population":41,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838117,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324672
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fdaf40791dde84b97965ec0827f76f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838117,
+            "locality_id":1193028987,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1193028987,
+    "wof:lastmodified":1536365617,
+    "wof:name":"Sirnitz-Schattseite",
+    "wof:parent_id":1108838117,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0025,
+    46.80972,
+    14.0025,
+    46.80972
+],
+  "geometry": {"coordinates":[14.0025,46.80972],"type":"Point"}
+}

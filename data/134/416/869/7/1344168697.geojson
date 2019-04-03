@@ -1,0 +1,74 @@
+{
+  "id": 1344168697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,48.55,15.56667,48.55",
+    "geom:latitude":48.55,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"313.0",
+    "gn:admin3_code":"31319.0",
+    "gn:asciiname":"Schiltingeramt",
+    "gn:country_code":"AT",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765981,
+    "gn:latitude":48.55,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schiltingeramt",
+    "gn:population":94,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836271,
+        85632785,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765981
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d9fa9869dc40329220792d7cfe2211e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108836271,
+            "locality_id":1344168697,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344168697,
+    "wof:lastmodified":1536719716,
+    "wof:name":"Schiltingeramt",
+    "wof:parent_id":1108836271,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    48.55,
+    15.56667,
+    48.55
+],
+  "geometry": {"coordinates":[15.56667,48.55],"type":"Point"}
+}

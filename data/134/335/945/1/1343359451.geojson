@@ -1,0 +1,71 @@
+{
+  "id": 1343359451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55185,48.38236,13.55185,48.38236",
+    "geom:latitude":48.38236,
+    "geom:longitude":13.55185,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41404.0",
+    "gn:asciiname":"Antershamerau",
+    "gn:country_code":"AT",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610404,
+    "gn:latitude":48.38236,
+    "gn:longitude":13.55185,
+    "gn:modification_date":"2017-10-10",
+    "gn:name":"Antershamerau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836031,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610404
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4e22d1b2fbe911f831ab1780aaf1eb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836031,
+            "locality_id":1343359451,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343359451,
+    "wof:lastmodified":1536891640,
+    "wof:name":"Antershamerau",
+    "wof:parent_id":1108836031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55185,
+    48.38236,
+    13.55185,
+    48.38236
+],
+  "geometry": {"coordinates":[13.55185,48.38236],"type":"Point"}
+}

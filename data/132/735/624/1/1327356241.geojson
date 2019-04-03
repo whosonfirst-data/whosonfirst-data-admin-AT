@@ -1,0 +1,71 @@
+{
+  "id": 1327356241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21667,47.26667,13.21667,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":13.21667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50411.0",
+    "gn:asciiname":"Zimmereben",
+    "gn:country_code":"AT",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2606096,
+    "gn:latitude":47.26667,
+    "gn:longitude":13.21667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Zimmereben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837011,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2606096
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8a3181874ef886e94fc72d85e4f06bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837011,
+            "locality_id":1327356241,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1327356241,
+    "wof:lastmodified":1536791234,
+    "wof:name":"Zimmereben",
+    "wof:parent_id":1108837011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21667,
+    47.26667,
+    13.21667,
+    47.26667
+],
+  "geometry": {"coordinates":[13.21667,47.26667],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1125366043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.504085,46.566738,13.504085,46.566738",
+    "geom:latitude":46.566738,
+    "geom:longitude":13.504085,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":46.566738,
+    "lbl:longitude":13.504085,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St. Stefan im Gailtal",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":44,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":44,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":959511,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673575,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12673575,
+        "qs_pg:id":959511
+    },
+    "wof:country":"AT",
+    "wof:created":1497047084,
+    "wof:geomhash":"98cdad136e290f835ef8e153053ef5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1125366043,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125366043,
+    "wof:lastmodified":1534379088,
+    "wof:name":"St. Stefan im Gailtal",
+    "wof:parent_id":102049675,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125417749
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.504085,
+    46.566738,
+    13.504085,
+    46.566738
+],
+  "geometry": {"coordinates":[13.504085,46.566738],"type":"Point"}
+}

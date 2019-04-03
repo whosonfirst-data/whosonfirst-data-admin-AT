@@ -1,0 +1,71 @@
+{
+  "id": 1343494337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56667,48.31667,14.56667,48.31667",
+    "geom:latitude":48.31667,
+    "geom:longitude":14.56667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"411",
+    "gn:admin3_code":"41118.0",
+    "gn:asciiname":"Hohensteg",
+    "gn:country_code":"AT",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775729,
+    "gn:latitude":48.31667,
+    "gn:longitude":14.56667,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Hohensteg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835605,
+        85632785,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775729
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9ebcfe05050c3c9b91ddcad27ce1d112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835605,
+            "locality_id":1343494337,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343494337,
+    "wof:lastmodified":1536697550,
+    "wof:name":"Hohensteg",
+    "wof:parent_id":1108835605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56667,
+    48.31667,
+    14.56667,
+    48.31667
+],
+  "geometry": {"coordinates":[14.56667,48.31667],"type":"Point"}
+}

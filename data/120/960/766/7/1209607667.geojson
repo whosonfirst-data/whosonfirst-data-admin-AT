@@ -1,0 +1,63 @@
+{
+  "id": 1209607667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,47.18333,15.56667,47.18333",
+    "geom:latitude":47.18333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606",
+    "gn:admin3_code":"60626.0",
+    "gn:asciiname":"Gstauda",
+    "gn:country_code":"AT",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3335224,
+    "gn:latitude":47.18333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Gstauda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3335224
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"13c3f3a49552ef7b689c90e1f5a0fcdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209607667
+        }
+    ],
+    "wof:id":1209607667,
+    "wof:lastmodified":1536281954,
+    "wof:name":"Gstauda",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.566670000000002,
+    47.18333,
+    15.566670000000002,
+    47.18333
+],
+  "geometry": {"coordinates":[15.56667,47.18333],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125273605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05843,47.24888,16.05843,47.24888",
+    "geom:latitude":47.24888,
+    "geom:longitude":16.05843,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1095,
+    "gn:population":1452,
+    "iso:country":"AT",
+    "lbl:latitude":47.24888,
+    "lbl:longitude":16.05843,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872361,
+    "qs_pg:gn_pop":1095,
+    "qs_pg:name":"Rohr bei Hartberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108587,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872361,
+        "qs_pg:id":108587
+    },
+    "wof:country":"AT",
+    "wof:created":1497042229,
+    "wof:geomhash":"ab261ffaefa8adf360b4db16fb267423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1125273605,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125273605,
+    "wof:lastmodified":1536698120,
+    "wof:name":"Rohr bei Hartberg",
+    "wof:parent_id":1108892549,
+    "wof:placetype":"localadmin",
+    "wof:population":1452,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839101
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05843,
+    47.24888,
+    16.05843,
+    47.24888
+],
+  "geometry": {"coordinates":[16.05843,47.24888],"type":"Point"}
+}

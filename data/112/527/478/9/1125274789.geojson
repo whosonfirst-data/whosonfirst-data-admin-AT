@@ -1,0 +1,82 @@
+{
+  "id": 1125274789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05272,48.54468,14.05272,48.54468",
+    "geom:latitude":48.54468,
+    "geom:longitude":14.05272,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":549,
+    "gn:population":549,
+    "iso:country":"AT",
+    "lbl:latitude":48.54468,
+    "lbl:longitude":14.05272,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873192,
+    "qs_pg:gn_pop":549,
+    "qs_pg:name":"Auberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108855,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873192,
+        "qs_pg:id":108855
+    },
+    "wof:country":"AT",
+    "wof:created":1497042268,
+    "wof:geomhash":"f16d498d216d34ce195ee48ce3e5a9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125274789,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125274789,
+    "wof:lastmodified":1534379103,
+    "wof:name":"Auberg",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":549,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835943
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05272,
+    48.54468,
+    14.05272,
+    48.54468
+],
+  "geometry": {"coordinates":[14.05272,48.54468],"type":"Point"}
+}

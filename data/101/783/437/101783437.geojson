@@ -1,0 +1,114 @@
+{
+  "id": 101783437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000148,
+    "geom:area_square_m":1216404.57052,
+    "geom:bbox":"16.5593982979,48.3515003042,16.5823707548,48.363703038",
+    "geom:latitude":48.356847,
+    "geom:longitude":16.570318,
+    "iso:country":"AT",
+    "lbl:latitude":48.355999,
+    "lbl:longitude":16.571276,
+    "mps:latitude":48.355999,
+    "mps:longitude":16.571276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gro\u00df-Engersdorf"
+    ],
+    "name:ces_x_preferred":[
+        "Gro\u00dfengersdorf"
+    ],
+    "name:deu_x_preferred":[
+        "Gro\u00dfengersdorf"
+    ],
+    "name:fra_x_preferred":[
+        "Gro\u00df-Engersdorf"
+    ],
+    "name:ita_x_preferred":[
+        "Gro\u00dfengersdorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u042d\u043d\u0433\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Gro\u00df-Engersdorf"
+    ],
+    "name:pol_x_preferred":[
+        "Gro\u00dfengersdorf"
+    ],
+    "name:por_x_preferred":[
+        "Gro\u00dfengersdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u0441\u044d\u043d\u0433\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:unk_x_variant":[
+        "Gro\u00dfengersdorf"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Nieder\u00f6sterreich",
+    "qs:a1r":"0",
+    "qs:a2":"Mistelbach",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:id":0,
+    "qs:la":"Pillichsdorf",
+    "qs:la_lc":"*AT31642",
+    "qs:level":"locality",
+    "qs:loc":"Gro\u00df-Engersdorf",
+    "qs:loc_alt":"Gross-Engersdorf",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836669,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777839,
+        "gp:id":12674039,
+        "qs:id":75572,
+        "wd:id":"Q666150",
+        "wk:page":"Gro\u00df-Engersdorf"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f65a8681007d8cd2dd657eb454b8f0f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836669,
+            "locality_id":101783437,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":101783437,
+    "wof:lastmodified":1527688496,
+    "wof:name":"Gro\u00df-Engersdorf",
+    "wof:parent_id":1108836669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55939829786354,
+    48.35150030424154,
+    16.58237075482441,
+    48.36370303796889
+],
+  "geometry": {"coordinates":[[[16.56448474444426,48.36362310323574],[16.56425068398403,48.36183188200766],[16.56559528864648,48.361751934224],[16.5654782426904,48.36085632446037],[16.56682281982182,48.3607763619882],[16.5667057555022,48.35988075333802],[16.5801510765038,48.35908024704406],[16.5802683772493,48.35997583928639],[16.58161291158632,48.35989569721988],[16.58102634257585,48.35541773895488],[16.58237075482441,48.35533758877597],[16.5821361169908,48.3535464050679],[16.57541425317538,48.35394697629692],[16.57517987284263,48.35215577406433],[16.57114684967405,48.35239591106847],[16.57102973833548,48.35150030424154],[16.56699675108325,48.35174028941287],[16.56734788823354,48.35442712306883],[16.56197023388683,48.35474689442259],[16.56208719561135,48.35564251114261],[16.55939829786354,48.35580230214418],[16.55998294921824,48.36028039423456],[16.56132751824288,48.36020049870933],[16.56167844330042,48.36288734274552],[16.56302307937972,48.36280742597899],[16.56314008860232,48.36370303796889],[16.56448474444426,48.36362310323574]]],"type":"Polygon"}
+}

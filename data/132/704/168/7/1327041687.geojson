@@ -1,0 +1,74 @@
+{
+  "id": 1327041687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31752,48.15088,15.31752,48.15088",
+    "geom:latitude":48.15088,
+    "geom:longitude":15.31752,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31539.0",
+    "gn:asciiname":"Haindorf",
+    "gn:country_code":"AT",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611102,
+    "gn:latitude":48.15088,
+    "gn:longitude":15.31752,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Haindorf",
+    "gn:population":20,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835729,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611102
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"584d15a33cbf45944cf9d2f9a30763e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835729,
+            "locality_id":1327041687,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327041687,
+    "wof:lastmodified":1536746753,
+    "wof:name":"Haindorf",
+    "wof:parent_id":1108835729,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31752,
+    48.15088,
+    15.31752,
+    48.15088
+],
+  "geometry": {"coordinates":[15.31752,48.15088],"type":"Point"}
+}

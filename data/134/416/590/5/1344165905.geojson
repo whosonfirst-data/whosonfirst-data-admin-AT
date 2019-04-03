@@ -1,0 +1,74 @@
+{
+  "id": 1344165905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70649,46.70462,14.70649,46.70462",
+    "geom:latitude":46.70462,
+    "geom:longitude":14.70649,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20808.0",
+    "gn:asciiname":"Klosterberg",
+    "gn:country_code":"AT",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594648,
+    "gn:latitude":46.70462,
+    "gn:longitude":14.70649,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Klosterberg",
+    "gn:population":3,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838121,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594648
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a37c1a7c5424721cdd25559e95a58e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838121,
+            "locality_id":1344165905,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1344165905,
+    "wof:lastmodified":1536723686,
+    "wof:name":"Klosterberg",
+    "wof:parent_id":1108838121,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70649,
+    46.70462,
+    14.70649,
+    46.70462
+],
+  "geometry": {"coordinates":[14.70649,46.70462],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125381391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27901,48.04439,16.27901,48.04439",
+    "geom:latitude":48.04439,
+    "geom:longitude":16.27901,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3365,
+    "gn:population":3850,
+    "iso:country":"AT",
+    "lbl:latitude":48.04439,
+    "lbl:longitude":16.27901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872977,
+    "qs_pg:gn_pop":3365,
+    "qs_pg:name":"Gumpoldskirchen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":381103,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872977,
+        "qs_pg:id":381103
+    },
+    "wof:country":"AT",
+    "wof:created":1497048069,
+    "wof:geomhash":"bd840984b9c474439db45a1b7958fb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1125381391,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125381391,
+    "wof:lastmodified":1534530983,
+    "wof:name":"Gumpoldskirchen",
+    "wof:parent_id":102049837,
+    "wof:placetype":"localadmin",
+    "wof:population":3850,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836199
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27901,
+    48.04439,
+    16.27901,
+    48.04439
+],
+  "geometry": {"coordinates":[16.27901,48.04439],"type":"Point"}
+}

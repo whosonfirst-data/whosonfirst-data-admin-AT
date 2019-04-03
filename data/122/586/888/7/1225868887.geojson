@@ -1,0 +1,74 @@
+{
+  "id": 1225868887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05579,48.17364,13.05579,48.17364",
+    "geom:latitude":48.17364,
+    "geom:longitude":13.05579,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40427.0",
+    "gn:asciiname":"Friedrichsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779233,
+    "gn:latitude":48.17364,
+    "gn:longitude":13.05579,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Friedrichsdorf",
+    "gn:population":511,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834765,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779233
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bd1bf142eb0f36b89c36cbd2a3133201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834765,
+            "locality_id":1225868887,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225868887,
+    "wof:lastmodified":1536979689,
+    "wof:name":"Friedrichsdorf",
+    "wof:parent_id":1108834765,
+    "wof:placetype":"locality",
+    "wof:population":511,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05579,
+    48.17364,
+    13.05579,
+    48.17364
+],
+  "geometry": {"coordinates":[13.05579,48.17364],"type":"Point"}
+}

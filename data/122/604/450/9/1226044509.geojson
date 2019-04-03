@@ -1,0 +1,74 @@
+{
+  "id": 1226044509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97222,48.06535,14.97222,48.06535",
+    "geom:latitude":48.06535,
+    "geom:longitude":14.97222,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"320",
+    "gn:admin3_code":"32015.0",
+    "gn:asciiname":"Kaisitzberg",
+    "gn:country_code":"AT",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11591814,
+    "gn:latitude":48.06535,
+    "gn:longitude":14.97222,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kaisitzberg",
+    "gn:population":54,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835351,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591814
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"205707d5727e3e53a2b4109cc4fe908f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835351,
+            "locality_id":1226044509,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1226044509,
+    "wof:lastmodified":1536727323,
+    "wof:name":"Kaisitzberg",
+    "wof:parent_id":1108835351,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97222,
+    48.06535,
+    14.97222,
+    48.06535
+],
+  "geometry": {"coordinates":[14.97222,48.06535],"type":"Point"}
+}

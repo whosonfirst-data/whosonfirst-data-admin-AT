@@ -1,0 +1,71 @@
+{
+  "id": 1276124187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4625,48.52694,13.4625,48.52694",
+    "geom:latitude":48.52694,
+    "geom:longitude":13.4625,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41423.0",
+    "gn:asciiname":"Ausserachleiten",
+    "gn:country_code":"AT",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324485,
+    "gn:latitude":48.52694,
+    "gn:longitude":13.4625,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Au\u00dferachleiten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836073,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324485
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"62d393d54587e1d18be70b209d016c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836073,
+            "locality_id":1276124187,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276124187,
+    "wof:lastmodified":1537056317,
+    "wof:name":"Ausserachleiten",
+    "wof:parent_id":1108836073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4625,
+    48.52694,
+    13.4625,
+    48.52694
+],
+  "geometry": {"coordinates":[13.4625,48.52694],"type":"Point"}
+}

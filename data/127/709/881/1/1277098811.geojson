@@ -1,0 +1,78 @@
+{
+  "id": 1277098811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17263,47.46512,15.17263,47.46512",
+    "geom:latitude":47.46512,
+    "geom:longitude":15.17263,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"621.0",
+    "gn:admin3_code":"62148.0",
+    "gn:asciiname":"Untertal",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762623,
+    "gn:latitude":47.46512,
+    "gn:longitude":15.17263,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Untertal",
+    "gn:population":162,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unterthal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839315,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762623
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6a387f5b9c46b56afce18ed80d4e8799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108839315,
+            "locality_id":1277098811,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1277098811,
+    "wof:lastmodified":1537584917,
+    "wof:name":"Untertal",
+    "wof:parent_id":1108839315,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17263,
+    47.46512,
+    15.17263,
+    47.46512
+],
+  "geometry": {"coordinates":[15.17263,47.46512],"type":"Point"}
+}

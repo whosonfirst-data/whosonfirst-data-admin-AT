@@ -1,0 +1,76 @@
+{
+  "id": 1276341079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98036,48.05273,13.98036,48.05273",
+    "geom:latitude":48.05273,
+    "geom:longitude":13.98036,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"418.0",
+    "gn:admin3_code":"41805.0",
+    "gn:asciiname":"Unterstockham",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762630,
+    "gn:latitude":48.05273,
+    "gn:longitude":13.98036,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Unterstockham",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unter Stookham",
+        "Unterstockham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836545,
+        85632785,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762630
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e91be6d8e37e9fdd991e4c1376bb2fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836545,
+            "locality_id":1276341079,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276341079,
+    "wof:lastmodified":1537584917,
+    "wof:name":"Unterstockham",
+    "wof:parent_id":1108836545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98036,
+    48.05273,
+    13.98036,
+    48.05273
+],
+  "geometry": {"coordinates":[13.98036,48.05273],"type":"Point"}
+}

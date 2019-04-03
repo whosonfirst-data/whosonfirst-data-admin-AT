@@ -1,0 +1,71 @@
+{
+  "id": 1292914999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,48.0,15.35,48.0",
+    "geom:latitude":48.0,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"319.0",
+    "gn:admin3_code":"31906.0",
+    "gn:asciiname":"Weissenburggegend",
+    "gn:country_code":"AT",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761605,
+    "gn:latitude":48.0,
+    "gn:longitude":15.35,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Weissenburggegend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836381,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761605
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4704f47451a7adb333155a59a5b0adc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836381,
+            "locality_id":1292914999,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1292914999,
+    "wof:lastmodified":1536615940,
+    "wof:name":"Weissenburggegend",
+    "wof:parent_id":1108836381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    48.0,
+    15.35,
+    48.0
+],
+  "geometry": {"coordinates":[15.35,48.0],"type":"Point"}
+}

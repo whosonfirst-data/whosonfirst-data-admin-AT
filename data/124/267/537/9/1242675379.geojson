@@ -1,0 +1,71 @@
+{
+  "id": 1242675379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58333,47.15,15.58333,47.15",
+    "geom:latitude":47.15,
+    "geom:longitude":15.58333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606",
+    "gn:admin3_code":"60661.0",
+    "gn:asciiname":"Ebelhof",
+    "gn:country_code":"AT",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3335149,
+    "gn:latitude":47.15,
+    "gn:longitude":15.58333,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Ebelhof",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839209,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3335149
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5a41b095be0e8f1b22927fdf26fd0961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839209,
+            "locality_id":1242675379,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1242675379,
+    "wof:lastmodified":1536923669,
+    "wof:name":"Ebelhof",
+    "wof:parent_id":1108839209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58333,
+    47.15,
+    15.58333,
+    47.15
+],
+  "geometry": {"coordinates":[15.58333,47.15],"type":"Point"}
+}

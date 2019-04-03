@@ -1,0 +1,82 @@
+{
+  "id": 1125382341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.34497,47.2487,12.34497,47.2487",
+    "geom:latitude":47.2487,
+    "geom:longitude":12.34497,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3908,
+    "gn:population":3963,
+    "iso:country":"AT",
+    "lbl:latitude":47.2487,
+    "lbl:longitude":12.34497,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872237,
+    "qs_pg:gn_pop":3908,
+    "qs_pg:name":"Bramberg am Wildkogel",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155203,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872237,
+        "qs_pg:id":1155203
+    },
+    "wof:country":"AT",
+    "wof:created":1497048122,
+    "wof:geomhash":"00411238470ef9aefe588c0a36a94433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125382341,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125382341,
+    "wof:lastmodified":1534379158,
+    "wof:name":"Bramberg am Wildkogel",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:population":3963,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837193
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.34497,
+    47.2487,
+    12.34497,
+    47.2487
+],
+  "geometry": {"coordinates":[12.34497,47.2487],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1125360183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53031,47.5562,16.53031,47.5562",
+    "geom:latitude":47.5562,
+    "geom:longitude":16.53031,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":832,
+    "gn:population":857,
+    "iso:country":"AT",
+    "lbl:latitude":47.5562,
+    "lbl:longitude":16.53031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0439\u0434\u0438\u043d\u0433"
+    ],
+    "name:hrv_x_preferred":[
+        "Rajnof"
+    ],
+    "name:hun_x_preferred":[
+        "Doborj\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0439\u0434\u0438\u043d\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0439\u0434\u0438\u043d\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u0434\u0456\u043d\u0433"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872734,
+    "qs_pg:gn_pop":832,
+    "qs_pg:name":"Raiding",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743423,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872734,
+        "qs_pg:id":743423
+    },
+    "wof:country":"AT",
+    "wof:created":1497046739,
+    "wof:geomhash":"6797776367ad95a65ff2844c5e35f40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1125360183,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125360183,
+    "wof:lastmodified":1534531036,
+    "wof:name":"Raiding",
+    "wof:parent_id":102049775,
+    "wof:placetype":"localadmin",
+    "wof:population":857,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838747
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53031,
+    47.5562,
+    16.53031,
+    47.5562
+],
+  "geometry": {"coordinates":[16.53031,47.5562],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108938211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.374166479,48.2040672194,16.374166479,48.2040672194",
+    "geom:latitude":48.204067,
+    "geom:longitude":16.374166,
+    "iso:country":"AT",
+    "lbl:latitude":48.204067,
+    "lbl:longitude":16.374166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "K\u00e4rntner ViertelL"
+    ],
+    "src:geom":"mz",
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"AT",
+    "wof:created":1491360216,
+    "wof:geomhash":"05aff02fd4acde5529329ac57390c706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":1108938211,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1108938211,
+    "wof:lastmodified":1534803977,
+    "wof:name":"Kaerntner Viertel",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37416647897647,
+    48.20406721936212,
+    16.37416647897647,
+    48.20406721936212
+],
+  "geometry": {"coordinates":[16.37416647897647,48.20406721936212],"type":"Point"}
+}

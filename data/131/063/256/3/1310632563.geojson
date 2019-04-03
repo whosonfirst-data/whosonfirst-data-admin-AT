@@ -1,0 +1,71 @@
+{
+  "id": 1310632563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.81667,47.36667,12.81667,47.36667",
+    "geom:latitude":47.36667,
+    "geom:longitude":12.81667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50611.0",
+    "gn:asciiname":"Kammer",
+    "gn:country_code":"AT",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774833,
+    "gn:latitude":47.36667,
+    "gn:longitude":12.81667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Kammer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837217,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774833
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"075c4c52326bac10a9d882f91a748706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837217,
+            "locality_id":1310632563,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1310632563,
+    "wof:lastmodified":1536733865,
+    "wof:name":"Kammer",
+    "wof:parent_id":1108837217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.81667,
+    47.36667,
+    12.81667,
+    47.36667
+],
+  "geometry": {"coordinates":[12.81667,47.36667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293283979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43333,46.95,10.43333,46.95",
+    "geom:latitude":46.95,
+    "geom:longitude":10.43333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oberspiss",
+    "gn:country_code":"AT",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769716,
+    "gn:latitude":46.95,
+    "gn:longitude":10.43333,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Oberspiss",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Oberspiss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404567857,
+        85633051,
+        102062923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769716
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d0b32e08b03f70de242ab383058519f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062923,
+            "localadmin_id":404567857,
+            "locality_id":1293283979,
+            "region_id":85682255
+        }
+    ],
+    "wof:id":1293283979,
+    "wof:lastmodified":1537584945,
+    "wof:name":"Oberspiss",
+    "wof:parent_id":404567857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43333,
+    46.95,
+    10.43333,
+    46.95
+],
+  "geometry": {"coordinates":[10.43333,46.95],"type":"Point"}
+}

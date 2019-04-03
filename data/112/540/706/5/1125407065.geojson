@@ -1,0 +1,82 @@
+{
+  "id": 1125407065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1885,48.32319,14.1885,48.32319",
+    "geom:latitude":48.32319,
+    "geom:longitude":14.1885,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":5598,
+    "gn:population":5948,
+    "iso:country":"AT",
+    "lbl:latitude":48.32319,
+    "lbl:longitude":14.1885,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873168,
+    "qs_pg:gn_pop":5598,
+    "qs_pg:name":"Wilhering",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1155441,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873168,
+        "qs_pg:id":1155441
+    },
+    "wof:country":"AT",
+    "wof:created":1497049709,
+    "wof:geomhash":"445cace0185b414326f2f58b3628ad25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1125407065,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125407065,
+    "wof:lastmodified":1534531056,
+    "wof:name":"Wilhering",
+    "wof:parent_id":102049847,
+    "wof:placetype":"localadmin",
+    "wof:population":5948,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835565
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1885,
+    48.32319,
+    14.1885,
+    48.32319
+],
+  "geometry": {"coordinates":[14.1885,48.32319],"type":"Point"}
+}

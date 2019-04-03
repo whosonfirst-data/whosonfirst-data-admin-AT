@@ -1,0 +1,76 @@
+{
+  "id": 1226441867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96667,47.3,12.96667,47.3",
+    "geom:latitude":47.3,
+    "geom:longitude":12.96667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50622.0",
+    "gn:asciiname":"Edt",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780402,
+    "gn:latitude":47.3,
+    "gn:longitude":12.96667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Edt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Edt Gut",
+        "Edt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837241,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780402
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b5d19aee82a87768d533ca7530619d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837241,
+            "locality_id":1226441867,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1226441867,
+    "wof:lastmodified":1537584978,
+    "wof:name":"Edt",
+    "wof:parent_id":1108837241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96667,
+    47.3,
+    12.96667,
+    47.3
+],
+  "geometry": {"coordinates":[12.96667,47.3],"type":"Point"}
+}

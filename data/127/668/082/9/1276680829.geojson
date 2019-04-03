@@ -1,0 +1,80 @@
+{
+  "id": 1276680829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35932,47.28109,15.35932,47.28109",
+    "geom:latitude":47.28109,
+    "geom:longitude":15.35932,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60663.0",
+    "gn:asciiname":"Schrems bei Frohnleiten",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2765601,
+    "gn:latitude":47.28109,
+    "gn:longitude":15.35932,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schrems bei Frohnleiten",
+    "gn:population":299,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schrems",
+        "Schrems bei Frohnleiten"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839203,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765601,
+        "wk:page":"Schrems_bei_Frohnleiten"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b9b7107805de68ee6314e96a38bcd982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839203,
+            "locality_id":1276680829,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276680829,
+    "wof:lastmodified":1537584926,
+    "wof:name":"Schrems bei Frohnleiten",
+    "wof:parent_id":1108839203,
+    "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35932,
+    47.28109,
+    15.35932,
+    47.28109
+],
+  "geometry": {"coordinates":[15.35932,47.28109],"type":"Point"}
+}

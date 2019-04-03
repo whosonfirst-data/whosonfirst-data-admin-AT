@@ -1,0 +1,74 @@
+{
+  "id": 1276886333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29557,46.88269,14.29557,46.88269",
+    "geom:latitude":46.88269,
+    "geom:longitude":14.29557,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20530.0",
+    "gn:asciiname":"Glaboetsch",
+    "gn:country_code":"AT",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611816,
+    "gn:latitude":46.88269,
+    "gn:longitude":14.29557,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Glab\u00f6tsch",
+    "gn:population":12,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838243,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611816
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"361db539570d1bf1ce5a00b3b15e6740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838243,
+            "locality_id":1276886333,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1276886333,
+    "wof:lastmodified":1537031095,
+    "wof:name":"Glaboetsch",
+    "wof:parent_id":1108838243,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29557,
+    46.88269,
+    14.29557,
+    46.88269
+],
+  "geometry": {"coordinates":[14.29557,46.88269],"type":"Point"}
+}

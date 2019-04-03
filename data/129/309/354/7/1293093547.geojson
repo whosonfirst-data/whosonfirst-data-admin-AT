@@ -1,0 +1,74 @@
+{
+  "id": 1293093547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,47.63333,15.56667,47.63333",
+    "geom:latitude":47.63333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62144.0",
+    "gn:asciiname":"Arzbach",
+    "gn:country_code":"AT",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782391,
+    "gn:latitude":47.63333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Arzbach",
+    "gn:population":77,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838845,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782391
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f6e6541b5926d8f0492645a34a4c6005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838845,
+            "locality_id":1293093547,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293093547,
+    "wof:lastmodified":1536856768,
+    "wof:name":"Arzbach",
+    "wof:parent_id":1108838845,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    47.63333,
+    15.56667,
+    47.63333
+],
+  "geometry": {"coordinates":[15.56667,47.63333],"type":"Point"}
+}

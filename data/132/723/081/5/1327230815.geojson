@@ -1,0 +1,74 @@
+{
+  "id": 1327230815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21667,47.38333,13.21667,47.38333",
+    "geom:latitude":47.38333,
+    "geom:longitude":13.21667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50418.0",
+    "gn:asciiname":"Urreiting",
+    "gn:country_code":"AT",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762507,
+    "gn:latitude":47.38333,
+    "gn:longitude":13.21667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Urreiting",
+    "gn:population":303,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837027,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762507
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fe448f40b6b62228940aa0e522cd483e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837027,
+            "locality_id":1327230815,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1327230815,
+    "wof:lastmodified":1536971491,
+    "wof:name":"Urreiting",
+    "wof:parent_id":1108837027,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21667,
+    47.38333,
+    13.21667,
+    47.38333
+],
+  "geometry": {"coordinates":[13.21667,47.38333],"type":"Point"}
+}

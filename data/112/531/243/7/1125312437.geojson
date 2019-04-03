@@ -1,0 +1,101 @@
+{
+  "id": 1125312437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.823118,47.563843,13.823118,47.563843",
+    "geom:latitude":47.563843,
+    "geom:longitude":13.823118,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":760,
+    "gn:population":760,
+    "iso:country":"AT",
+    "lbl:latitude":47.563843,
+    "lbl:longitude":13.823118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872447,
+    "qs_pg:gn_pop":760,
+    "qs_pg:name":"Pichl-Kainisch",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":261543,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674880,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872447,
+        "gp:id":12674880,
+        "qs_pg:id":261543
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":108606
+    },
+    "wof:country":"AT",
+    "wof:created":1497044084,
+    "wof:geomhash":"47260d6360bd38cd02126cf250d35c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125312437,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125312437,
+    "wof:lastmodified":1536698152,
+    "wof:name":"Pichl-Kainisch",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":760,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838931
+    ],
+    "wof:supersedes":[
+        1125328967
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.823118,
+    47.563843,
+    13.823118,
+    47.563843
+],
+  "geometry": {"coordinates":[13.823118,47.563843],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226534865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23333,47.15,14.23333,47.15",
+    "geom:latitude":47.15,
+    "geom:longitude":14.23333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61425.0",
+    "gn:asciiname":"Althofen",
+    "gn:country_code":"AT",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782643,
+    "gn:latitude":47.15,
+    "gn:longitude":14.23333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Althofen",
+    "gn:population":220,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838795,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782643
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bb9bcf89cd39f43404614e4bf0f10518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838795,
+            "locality_id":1226534865,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226534865,
+    "wof:lastmodified":1537013071,
+    "wof:name":"Althofen",
+    "wof:parent_id":1108838795,
+    "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23333,
+    47.15,
+    14.23333,
+    47.15
+],
+  "geometry": {"coordinates":[14.23333,47.15],"type":"Point"}
+}

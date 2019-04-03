@@ -1,0 +1,74 @@
+{
+  "id": 1310209735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26667,47.16667,13.26667,47.16667",
+    "geom:latitude":47.16667,
+    "geom:longitude":13.26667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504",
+    "gn:admin3_code":"50413.0",
+    "gn:asciiname":"Karteis",
+    "gn:country_code":"AT",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774677,
+    "gn:latitude":47.16667,
+    "gn:longitude":13.26667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Karteis",
+    "gn:population":192,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837015,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774677
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fa5b53d54a3009818b88822e6129b6e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837015,
+            "locality_id":1310209735,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1310209735,
+    "wof:lastmodified":1536845048,
+    "wof:name":"Karteis",
+    "wof:parent_id":1108837015,
+    "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26667,
+    47.16667,
+    13.26667,
+    47.16667
+],
+  "geometry": {"coordinates":[13.26667,47.16667],"type":"Point"}
+}

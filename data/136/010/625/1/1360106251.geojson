@@ -1,0 +1,71 @@
+{
+  "id": 1360106251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.63278,46.88861,12.63278,46.88861",
+    "geom:latitude":46.88861,
+    "geom:longitude":12.63278,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70727.0",
+    "gn:asciiname":"Goeriach",
+    "gn:country_code":"AT",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778331,
+    "gn:latitude":46.88861,
+    "gn:longitude":12.63278,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"G\u00f6riach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837783,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778331
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9c0aa020019fe1a19e55be630e4022c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837783,
+            "locality_id":1360106251,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1360106251,
+    "wof:lastmodified":1536915613,
+    "wof:name":"Goeriach",
+    "wof:parent_id":1108837783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.63278,
+    46.88861,
+    12.63278,
+    46.88861
+],
+  "geometry": {"coordinates":[12.63278,46.88861],"type":"Point"}
+}

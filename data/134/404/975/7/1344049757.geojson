@@ -1,0 +1,74 @@
+{
+  "id": 1344049757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81667,47.6,13.81667,47.6",
+    "geom:latitude":47.6,
+    "geom:longitude":13.81667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61207.0",
+    "gn:asciiname":"Gallhof",
+    "gn:country_code":"AT",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778970,
+    "gn:latitude":47.6,
+    "gn:longitude":13.81667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gallhof",
+    "gn:population":264,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838965,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778970
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"eef8fccc045eb95fe66e120220a64fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838965,
+            "locality_id":1344049757,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1344049757,
+    "wof:lastmodified":1536890736,
+    "wof:name":"Gallhof",
+    "wof:parent_id":1108838965,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81667,
+    47.6,
+    13.81667,
+    47.6
+],
+  "geometry": {"coordinates":[13.81667,47.6],"type":"Point"}
+}

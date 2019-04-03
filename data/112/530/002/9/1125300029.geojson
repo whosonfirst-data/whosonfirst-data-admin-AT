@@ -1,0 +1,82 @@
+{
+  "id": 1125300029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.07076,46.9459,10.07076,46.9459",
+    "geom:latitude":46.9459,
+    "geom:longitude":10.07076,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1635,
+    "gn:population":1486,
+    "iso:country":"AT",
+    "lbl:latitude":46.9459,
+    "lbl:longitude":10.07076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873717,
+    "qs_pg:gn_pop":1635,
+    "qs_pg:name":"Gaschurn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155538,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873717,
+        "qs_pg:id":1155538
+    },
+    "wof:country":"AT",
+    "wof:created":1497043371,
+    "wof:geomhash":"13370ed45aebe8703cebacaa05d2f83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1125300029,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125300029,
+    "wof:lastmodified":1534379152,
+    "wof:name":"Gaschurn",
+    "wof:parent_id":102049711,
+    "wof:placetype":"localadmin",
+    "wof:population":1486,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837949
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.07076,
+    46.9459,
+    10.07076,
+    46.9459
+],
+  "geometry": {"coordinates":[10.07076,46.9459],"type":"Point"}
+}

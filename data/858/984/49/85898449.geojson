@@ -1,0 +1,127 @@
+{
+  "id": 85898449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10333611.657265,
+    "geom:bbox":"14.293997,48.308712,14.293997,48.308712",
+    "geom:latitude":48.308712,
+    "geom:longitude":14.293997,
+    "iso:country":"AT",
+    "lbl:latitude":48.308712,
+    "lbl:longitude":14.293997,
+    "mps:latitude":48.310038,
+    "mps:longitude":14.306119,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Steeg"
+    ],
+    "name:eng_x_preferred":[
+        "Steg"
+    ],
+    "name:eng_x_variant":[
+        "Steg"
+    ],
+    "name:fra_x_preferred":[
+        "Steeg"
+    ],
+    "name:lmo_x_preferred":[
+        "Steeg"
+    ],
+    "name:pol_x_preferred":[
+        "Steeg"
+    ],
+    "name:unk_x_variant":[
+        "Steeg"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_nam_loc":"Linz, Linz Stadt, Ober\u00f6sterreich, AT",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Steeg",
+    "qs:local_max":22933,
+    "qs:local_sum":38224,
+    "qs:localhoods":15,
+    "qs:name":"Steeg",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Ober\u00f6sterreich",
+    "qs:name_adm2":"Linz Stadt",
+    "qs:name_en":"Steg",
+    "qs:name_lau":"Linz",
+    "qs:name_local":"Linz",
+    "qs:photo_max":7073,
+    "qs:photo_sum":22933,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":99,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344711,
+    "qs:woe_adm2":12591722,
+    "qs:woe_lau":12674377,
+    "qs:woe_local":12674377,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834701,
+        85632785,
+        101748071,
+        102049853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764604,
+        "gp:id":546852,
+        "qs:id":490045,
+        "qs_pg:id":490045
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f58779ecd7ac6ddd6291262b6422b34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":101748071,
+            "neighbourhood_id":85898449,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":85898449,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932066,
+    "wof:name":"Steeg",
+    "wof:parent_id":101748071,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.293997,
+    48.308712,
+    14.293997,
+    48.308712
+],
+  "geometry": {"coordinates":[14.293997,48.308712],"type":"Point"}
+}

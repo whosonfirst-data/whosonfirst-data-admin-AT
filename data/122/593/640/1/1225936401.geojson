@@ -1,0 +1,79 @@
+{
+  "id": 1225936401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47774,47.50285,14.47774,47.50285",
+    "geom:latitude":47.50285,
+    "geom:longitude":14.47774,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61247.0",
+    "gn:asciiname":"Dietmannsdorf bei Trieben",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780951,
+    "gn:latitude":47.50285,
+    "gn:longitude":14.47774,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Dietmannsdorf bei Trieben",
+    "gn:population":492,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dietmannsdorf",
+        "Dietmannsdorf bei Trieben"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838887,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780951
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c66a5357a9716d60160f1e93fd5947f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838887,
+            "locality_id":1225936401,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1225936401,
+    "wof:lastmodified":1537584979,
+    "wof:name":"Dietmannsdorf bei Trieben",
+    "wof:parent_id":1108838887,
+    "wof:placetype":"locality",
+    "wof:population":492,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47774,
+    47.50285,
+    14.47774,
+    47.50285
+],
+  "geometry": {"coordinates":[14.47774,47.50285],"type":"Point"}
+}

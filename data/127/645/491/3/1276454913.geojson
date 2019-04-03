@@ -1,0 +1,74 @@
+{
+  "id": 1276454913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95,48.58333,14.95,48.58333",
+    "geom:latitude":48.58333,
+    "geom:longitude":14.95,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"325.0",
+    "gn:admin3_code":"32508.0",
+    "gn:asciiname":"Thail",
+    "gn:country_code":"AT",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763769,
+    "gn:latitude":48.58333,
+    "gn:longitude":14.95,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Thail",
+    "gn:population":231,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835477,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763769
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e2e57673227eb6dd0fa2aa52bc2f86d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835477,
+            "locality_id":1276454913,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276454913,
+    "wof:lastmodified":1536613319,
+    "wof:name":"Thail",
+    "wof:parent_id":1108835477,
+    "wof:placetype":"locality",
+    "wof:population":231,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95,
+    48.58333,
+    14.95,
+    48.58333
+],
+  "geometry": {"coordinates":[14.95,48.58333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226148905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89273,48.7041,13.89273,48.7041",
+    "geom:latitude":48.7041,
+    "geom:longitude":13.89273,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41315.0",
+    "gn:asciiname":"Freundorf",
+    "gn:country_code":"AT",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779253,
+    "gn:latitude":48.7041,
+    "gn:longitude":13.89273,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Freundorf",
+    "gn:population":310,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835961,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779253
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5e7aa925fc9dc8e67f5f0665aed3f42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835961,
+            "locality_id":1226148905,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226148905,
+    "wof:lastmodified":1537070060,
+    "wof:name":"Freundorf",
+    "wof:parent_id":1108835961,
+    "wof:placetype":"locality",
+    "wof:population":310,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89273,
+    48.7041,
+    13.89273,
+    48.7041
+],
+  "geometry": {"coordinates":[13.89273,48.7041],"type":"Point"}
+}

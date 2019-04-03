@@ -1,0 +1,71 @@
+{
+  "id": 1309716937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31667,47.35,13.31667,47.35",
+    "geom:latitude":47.35,
+    "geom:longitude":13.31667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50423.0",
+    "gn:asciiname":"Weberland",
+    "gn:country_code":"AT",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2605838,
+    "gn:latitude":47.35,
+    "gn:longitude":13.31667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Weberland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837039,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2605838
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"47eb17d2ea218760538dae5e4b31be43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837039,
+            "locality_id":1309716937,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1309716937,
+    "wof:lastmodified":1537056682,
+    "wof:name":"Weberland",
+    "wof:parent_id":1108837039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31667,
+    47.35,
+    13.31667,
+    47.35
+],
+  "geometry": {"coordinates":[13.31667,47.35],"type":"Point"}
+}

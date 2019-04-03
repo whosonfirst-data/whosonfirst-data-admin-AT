@@ -1,0 +1,82 @@
+{
+  "id": 1125357049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04773,48.17598,16.04773,48.17598",
+    "geom:latitude":48.17598,
+    "geom:longitude":16.04773,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6182,
+    "gn:population":7451,
+    "iso:country":"AT",
+    "lbl:latitude":48.17598,
+    "lbl:longitude":16.04773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871951,
+    "qs_pg:gn_pop":6182,
+    "qs_pg:name":"Pressbaum",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":904296,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871951,
+        "qs_pg:id":904296
+    },
+    "wof:country":"AT",
+    "wof:created":1497046540,
+    "wof:geomhash":"6818232b306ac85d2b7845315ee093f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1125357049,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125357049,
+    "wof:lastmodified":1534379209,
+    "wof:name":"Pressbaum",
+    "wof:parent_id":102049867,
+    "wof:placetype":"localadmin",
+    "wof:population":7451,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836179
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04773,
+    48.17598,
+    16.04773,
+    48.17598
+],
+  "geometry": {"coordinates":[16.04773,48.17598],"type":"Point"}
+}

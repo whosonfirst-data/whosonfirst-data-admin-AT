@@ -1,0 +1,79 @@
+{
+  "id": 1209949559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97615,48.28582,13.97615,48.28582",
+    "geom:latitude":48.28582,
+    "geom:longitude":13.97615,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40507.0",
+    "gn:asciiname":"Limberg",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772459,
+    "gn:latitude":48.28582,
+    "gn:longitude":13.97615,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Limberg",
+    "gn:population":145,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linberg",
+        "Limberg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835047,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772459
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"da11533f3ec9cdddad69aa7770d54126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835047,
+            "locality_id":1209949559,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1209949559,
+    "wof:lastmodified":1537584956,
+    "wof:name":"Limberg",
+    "wof:parent_id":1108835047,
+    "wof:placetype":"locality",
+    "wof:population":145,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97615,
+    48.28582,
+    13.97615,
+    48.28582
+],
+  "geometry": {"coordinates":[13.97615,48.28582],"type":"Point"}
+}

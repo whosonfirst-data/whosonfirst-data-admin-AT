@@ -1,0 +1,74 @@
+{
+  "id": 1259578441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,47.58333,15.56667,47.58333",
+    "geom:latitude":47.58333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62115.0",
+    "gn:asciiname":"Malleisten",
+    "gn:country_code":"AT",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772046,
+    "gn:latitude":47.58333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Malleisten",
+    "gn:population":109,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838877,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772046
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ea67aff35622bf9b4a5a6d9544d26309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838877,
+            "locality_id":1259578441,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259578441,
+    "wof:lastmodified":1536722483,
+    "wof:name":"Malleisten",
+    "wof:parent_id":1108838877,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    47.58333,
+    15.56667,
+    47.58333
+],
+  "geometry": {"coordinates":[15.56667,47.58333],"type":"Point"}
+}

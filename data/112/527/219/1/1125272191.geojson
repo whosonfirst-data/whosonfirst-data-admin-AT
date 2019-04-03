@@ -1,0 +1,103 @@
+{
+  "id": 1125272191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37828,47.59406,16.37828,47.59406",
+    "geom:latitude":47.59406,
+    "geom:longitude":16.37828,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1907,
+    "gn:population":1903,
+    "iso:country":"AT",
+    "lbl:latitude":47.59406,
+    "lbl:longitude":16.37828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Kobaschdoaf"
+    ],
+    "name:hrv_x_preferred":[
+        "Kobr\u0161tof"
+    ],
+    "name:hun_x_preferred":[
+        "Kabold"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0431\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0431\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u4f2f\u65af\u591a\u592b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871602,
+    "qs_pg:gn_pop":1907,
+    "qs_pg:name":"Kobersdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108285,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871602,
+        "qs_pg:id":108285
+    },
+    "wof:country":"AT",
+    "wof:created":1497042170,
+    "wof:geomhash":"cde2c25323d840b95b9b751b26319719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1125272191,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125272191,
+    "wof:lastmodified":1534379153,
+    "wof:name":"Kobersdorf",
+    "wof:parent_id":102049775,
+    "wof:placetype":"localadmin",
+    "wof:population":1903,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838587
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37828,
+    47.59406,
+    16.37828,
+    47.59406
+],
+  "geometry": {"coordinates":[16.37828,47.59406],"type":"Point"}
+}

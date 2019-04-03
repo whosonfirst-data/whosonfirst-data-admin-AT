@@ -1,0 +1,74 @@
+{
+  "id": 1326927117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7,47.35,11.7,47.35",
+    "geom:latitude":47.35,
+    "geom:longitude":11.7,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"709",
+    "gn:admin3_code":"70936.0",
+    "gn:asciiname":"Fiecht",
+    "gn:country_code":"AT",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779594,
+    "gn:latitude":47.35,
+    "gn:longitude":11.7,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Fiecht",
+    "gn:population":1076,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837711,
+        85632785,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779594
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cbc54d1ee5ec738d6d07d3b98ff4cc7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837711,
+            "locality_id":1326927117,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1326927117,
+    "wof:lastmodified":1536912588,
+    "wof:name":"Fiecht",
+    "wof:parent_id":1108837711,
+    "wof:placetype":"locality",
+    "wof:population":1076,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.7,
+    47.35,
+    11.7,
+    47.35
+],
+  "geometry": {"coordinates":[11.7,47.35],"type":"Point"}
+}

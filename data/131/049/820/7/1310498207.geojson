@@ -1,0 +1,76 @@
+{
+  "id": 1310498207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.6,46.9,12.6,46.9",
+    "geom:latitude":46.9,
+    "geom:longitude":12.6,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70725.0",
+    "gn:asciiname":"Michelbach",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771614,
+    "gn:latitude":46.9,
+    "gn:longitude":12.6,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Michelbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Michlbach",
+        "Michelbach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837705,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771614
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bc7ee24d3ac5a6d8467f52737429847e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837705,
+            "locality_id":1310498207,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1310498207,
+    "wof:lastmodified":1537584953,
+    "wof:name":"Michelbach",
+    "wof:parent_id":1108837705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6,
+    46.9,
+    12.6,
+    46.9
+],
+  "geometry": {"coordinates":[12.6,46.9],"type":"Point"}
+}

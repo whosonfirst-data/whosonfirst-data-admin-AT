@@ -1,0 +1,82 @@
+{
+  "id": 1125409823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31556,46.83154,15.31556,46.83154",
+    "geom:latitude":46.83154,
+    "geom:longitude":15.31556,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2946,
+    "gn:population":4197,
+    "iso:country":"AT",
+    "lbl:latitude":46.83154,
+    "lbl:longitude":15.31556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873353,
+    "qs_pg:gn_pop":2946,
+    "qs_pg:name":"Gro\u00df Sankt Florian",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155501,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873353,
+        "qs_pg:id":1155501
+    },
+    "wof:country":"AT",
+    "wof:created":1497049910,
+    "wof:geomhash":"247e5bf7026d68cb9bf7e0a178588eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125409823,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125409823,
+    "wof:lastmodified":1536698239,
+    "wof:name":"Gro\u00df Sankt Florian",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:population":4197,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839295
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31556,
+    46.83154,
+    15.31556,
+    46.83154
+],
+  "geometry": {"coordinates":[15.31556,46.83154],"type":"Point"}
+}

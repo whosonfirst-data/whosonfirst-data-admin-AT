@@ -1,0 +1,74 @@
+{
+  "id": 1277083111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,46.78333,14.75,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"209.0",
+    "gn:admin3_code":"20913.0",
+    "gn:asciiname":"Poelling",
+    "gn:country_code":"AT",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768564,
+    "gn:latitude":46.78333,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"P\u00f6lling",
+    "gn:population":203,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838107,
+        85632785,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768564
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1176d4327977de4dac0435394a994063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838107,
+            "locality_id":1277083111,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1277083111,
+    "wof:lastmodified":1536767440,
+    "wof:name":"Poelling",
+    "wof:parent_id":1108838107,
+    "wof:placetype":"locality",
+    "wof:population":203,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    46.78333,
+    14.75,
+    46.78333
+],
+  "geometry": {"coordinates":[14.75,46.78333],"type":"Point"}
+}

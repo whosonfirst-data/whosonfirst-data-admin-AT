@@ -1,0 +1,63 @@
+{
+  "id": 1209406645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41667,47.41667,12.41667,47.41667",
+    "geom:latitude":47.41667,
+    "geom:longitude":12.41667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"704",
+    "gn:admin3_code":"70401.0",
+    "gn:asciiname":"Haberberg",
+    "gn:country_code":"AT",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777143,
+    "gn:latitude":47.41667,
+    "gn:longitude":12.41667,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Haberberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777143
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9df62151211348c298c4bf08585ce474",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209406645
+        }
+    ],
+    "wof:id":1209406645,
+    "wof:lastmodified":1536287975,
+    "wof:name":"Haberberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41667,
+    47.41667,
+    12.41667,
+    47.41667
+],
+  "geometry": {"coordinates":[12.41667,47.41667],"type":"Point"}
+}

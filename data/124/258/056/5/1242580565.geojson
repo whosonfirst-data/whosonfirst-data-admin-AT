@@ -1,0 +1,74 @@
+{
+  "id": 1242580565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23556,46.73111,14.23556,46.73111",
+    "geom:latitude":46.73111,
+    "geom:longitude":14.23556,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21003.0",
+    "gn:asciiname":"Tauchendorf",
+    "gn:country_code":"AT",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763878,
+    "gn:latitude":46.73111,
+    "gn:longitude":14.23556,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Tauchendorf",
+    "gn:population":150,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838125,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763878
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"61b874403b69d30b32568d2591c1cb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838125,
+            "locality_id":1242580565,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1242580565,
+    "wof:lastmodified":1537056866,
+    "wof:name":"Tauchendorf",
+    "wof:parent_id":1108838125,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23556,
+    46.73111,
+    14.23556,
+    46.73111
+],
+  "geometry": {"coordinates":[14.23556,46.73111],"type":"Point"}
+}

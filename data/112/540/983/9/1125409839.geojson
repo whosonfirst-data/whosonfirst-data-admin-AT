@@ -1,0 +1,82 @@
+{
+  "id": 1125409839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35249,46.99291,15.35249,46.99291",
+    "geom:latitude":46.99291,
+    "geom:longitude":15.35249,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1276,
+    "gn:population":1385,
+    "iso:country":"AT",
+    "lbl:latitude":46.99291,
+    "lbl:longitude":15.35249,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873402,
+    "qs_pg:gn_pop":1276,
+    "qs_pg:name":"Haselsdorf-Tobelbad",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155506,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873402,
+        "qs_pg:id":1155506
+    },
+    "wof:country":"AT",
+    "wof:created":1497049913,
+    "wof:geomhash":"6a6495a5a2702555bcc606092e813f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125409839,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125409839,
+    "wof:lastmodified":1534379146,
+    "wof:name":"Haselsdorf-Tobelbad",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":1385,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839191
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35249,
+    46.99291,
+    15.35249,
+    46.99291
+],
+  "geometry": {"coordinates":[15.35249,46.99291],"type":"Point"}
+}

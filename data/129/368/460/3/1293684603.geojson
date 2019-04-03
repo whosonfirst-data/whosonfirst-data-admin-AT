@@ -1,0 +1,89 @@
+{
+  "id": 1293684603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62444,46.72722,15.62444,46.72722",
+    "geom:latitude":46.72722,
+    "geom:longitude":15.62444,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"610.0",
+    "gn:admin3_code":"61058.0",
+    "gn:asciiname":"Strass in Steiermark",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2764173,
+    "gn:latitude":46.72722,
+    "gn:longitude":15.62444,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stra\u00df in Steiermark",
+    "gn:population":1552,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0428\u0442\u0440\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0440\u0430\u0441-\u0438\u043d-\u0428\u0442\u0430\u0439\u0435\u0440\u043c\u0430\u0440\u043a"
+    ],
+    "name:und_x_variant":[
+        "Strass",
+        "Stra\u00df in Steiermark"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u6cf0\u5c14\u9a6c\u514b\u5730\u533a\u65bd\u7279\u62c9\u65af"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839025,
+        85632785,
+        102049699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764173,
+        "wk:page":"Stra%C3%9F_in_Steiermark"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b08b6ec354cc2845bbf04a53e1d6cd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839025,
+            "locality_id":1293684603,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293684603,
+    "wof:lastmodified":1537584922,
+    "wof:name":"Strass in Steiermark",
+    "wof:parent_id":1108839025,
+    "wof:placetype":"locality",
+    "wof:population":1552,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62444,
+    46.72722,
+    15.62444,
+    46.72722
+],
+  "geometry": {"coordinates":[15.62444,46.72722],"type":"Point"}
+}

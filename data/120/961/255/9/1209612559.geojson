@@ -1,0 +1,68 @@
+{
+  "id": 1209612559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37556,46.94556,15.37556,46.94556",
+    "geom:latitude":46.94556,
+    "geom:longitude":15.37556,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60660.0",
+    "gn:asciiname":"Doblbach",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763572,
+    "gn:latitude":46.94556,
+    "gn:longitude":15.37556,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Doblbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tobelbad",
+        "Doblbach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763572
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"45272063e5e2a87610382a3888fc480c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209612559
+        }
+    ],
+    "wof:id":1209612559,
+    "wof:lastmodified":1537584919,
+    "wof:name":"Doblbach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37556,
+    46.94556,
+    15.37556,
+    46.94556
+],
+  "geometry": {"coordinates":[15.37556,46.94556],"type":"Point"}
+}

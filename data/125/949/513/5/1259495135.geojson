@@ -1,0 +1,71 @@
+{
+  "id": 1259495135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21973,47.71152,16.21973,47.71152",
+    "geom:latitude":47.71152,
+    "geom:longitude":16.21973,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"323",
+    "gn:admin3_code":"32306.0",
+    "gn:asciiname":"Vorderbruehl",
+    "gn:country_code":"AT",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612276,
+    "gn:latitude":47.71152,
+    "gn:longitude":16.21973,
+    "gn:modification_date":"2017-07-28",
+    "gn:name":"Vorderbr\u00fchl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836265,
+        85632785,
+        102049787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612276
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ee5feca5e92d07b8084d36200feeb712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108836265,
+            "locality_id":1259495135,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259495135,
+    "wof:lastmodified":1536841012,
+    "wof:name":"Vorderbruehl",
+    "wof:parent_id":1108836265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21973,
+    47.71152,
+    16.21973,
+    47.71152
+],
+  "geometry": {"coordinates":[16.21973,47.71152],"type":"Point"}
+}

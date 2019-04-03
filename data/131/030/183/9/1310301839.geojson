@@ -1,0 +1,71 @@
+{
+  "id": 1310301839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.46667,47.11667,11.46667,47.11667",
+    "geom:latitude":47.11667,
+    "geom:longitude":11.46667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70333.0",
+    "gn:asciiname":"Muehlen",
+    "gn:country_code":"AT",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319501,
+    "gn:latitude":47.11667,
+    "gn:longitude":11.46667,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"M\u00fchlen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837555,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319501
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"af5333ade3d4ab3c1cbb6425c0652c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837555,
+            "locality_id":1310301839,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1310301839,
+    "wof:lastmodified":1536713570,
+    "wof:name":"Muehlen",
+    "wof:parent_id":1108837555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46667,
+    47.11667,
+    11.46667,
+    47.11667
+],
+  "geometry": {"coordinates":[11.46667,47.11667],"type":"Point"}
+}

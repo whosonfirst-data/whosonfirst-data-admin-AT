@@ -1,0 +1,74 @@
+{
+  "id": 1293722333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.91958,48.03499,12.91958,48.03499",
+    "geom:latitude":48.03499,
+    "geom:longitude":12.91958,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40437.0",
+    "gn:asciiname":"Steinwag",
+    "gn:country_code":"AT",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764405,
+    "gn:latitude":48.03499,
+    "gn:longitude":12.91958,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Steinwag",
+    "gn:population":33,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834789,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764405
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d1744253d4bc4d4e5f94ea4689e88220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834789,
+            "locality_id":1293722333,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293722333,
+    "wof:lastmodified":1536946315,
+    "wof:name":"Steinwag",
+    "wof:parent_id":1108834789,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.91958,
+    48.03499,
+    12.91958,
+    48.03499
+],
+  "geometry": {"coordinates":[12.91958,48.03499],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293314699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85,47.11667,15.85,47.11667",
+    "geom:latitude":47.11667,
+    "geom:longitude":15.85,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61748.0",
+    "gn:asciiname":"Unterrettenbach",
+    "gn:country_code":"AT",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762688,
+    "gn:latitude":47.11667,
+    "gn:longitude":15.85,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterrettenbach",
+    "gn:population":350,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838913,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762688
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fac4e6ef6c2a3c0460fea6e1f8a6b3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838913,
+            "locality_id":1293314699,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293314699,
+    "wof:lastmodified":1537034690,
+    "wof:name":"Unterrettenbach",
+    "wof:parent_id":1108838913,
+    "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85,
+    47.11667,
+    15.85,
+    47.11667
+],
+  "geometry": {"coordinates":[15.85,47.11667],"type":"Point"}
+}

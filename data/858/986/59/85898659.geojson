@@ -1,0 +1,127 @@
+{
+  "id": 85898659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1264148.35367,
+    "geom:bbox":"16.3531494141,48.2210129008,16.3723754883,48.2338208531",
+    "geom:latitude":48.226686,
+    "geom:longitude":16.361989,
+    "gn:id":"",
+    "iso:country":"AT",
+    "lbl:latitude":48.228182,
+    "lbl:longitude":16.361108,
+    "mps:latitude":48.226868,
+    "mps:longitude":16.361805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u043a\u0437\u0430\u043b \u0424\u0440\u0430\u043d\u0446\u0430-\u0406\u043e\u0441\u0456\u0444\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Wien Franz-Josefs-Bahnhof"
+    ],
+    "name:deu_x_variant":[
+        "Franz Josefs Bahnhof"
+    ],
+    "name:hun_x_preferred":[
+        "Wien Franz-Josefs-Bahnhof"
+    ],
+    "name:pol_x_preferred":[
+        "Wien Franz-Josefs-Bahnhof"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043a\u0437\u0430\u043b \u0424\u0440\u0430\u043d\u0446\u0430-\u0418\u043e\u0441\u0438\u0444\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Franz Josefs Bahnhof"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_id":0,
+    "qs:gn_local":2761369,
+    "qs:gn_nam_loc":"Vienna",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":53712,
+    "qs:local_sum":394557,
+    "qs:localhoods":125,
+    "qs:name":"Franz Josefs Bahnhof",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Wien",
+    "qs:name_adm2":"Wien",
+    "qs:name_lau":"Wien  9",
+    "qs:name_local":"Wien",
+    "qs:photo_max":257,
+    "qs:photo_sum":2751,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344716,
+    "qs:woe_adm2":12591699,
+    "qs:woe_lau":12675685,
+    "qs:woe_local":551801,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":313,
+    "wof:belongsto":[
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":551744,
+        "qs:id":897841,
+        "qs_pg:id":897841,
+        "wd:id":"Q686592"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1c81a10735e84eb71fb579252c824217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85898659,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":85898659,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1527270672,
+    "wof:name":"Franz Josefs Bahnhof",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3531494140812,
+    48.22101290083897,
+    16.37237548828756,
+    48.23382085310006
+],
+  "geometry": {"coordinates":[[[16.36413574220006,48.23382084365331],[16.36413574220006,48.23199133697143],[16.36474510790953,48.23107652285007],[16.36627295849087,48.23107652285007],[16.36688232199987,48.23016175825951],[16.36688232420005,48.2283321190251],[16.36688232420011,48.22650241487166],[16.3691332186371,48.22650241719789],[16.36962890620009,48.22650242110011],[16.36962890620009,48.22467264960009],[16.36962890621459,48.22392858237244],[16.36962890621919,48.22284280638119],[16.37237548828648,48.22284280307734],[16.37237548828756,48.22101290211263],[16.3696289062184,48.22101290156685],[16.36688232420011,48.22101290156685],[16.36413574220018,48.22101290156685],[16.36138916018791,48.22101290083897],[16.35864257811903,48.22101290406208],[16.3586425781146,48.22209875564035],[16.35814686984907,48.22284280881756],[16.35589599610006,48.22284280638119],[16.35589599610006,48.22467264258223],[16.35589599610006,48.22650241201687],[16.3531494140812,48.22650241487166],[16.35314941408626,48.2283321190251],[16.35314941408626,48.23016175972519],[16.35589599610006,48.23016176167154],[16.35589599610006,48.23124723500622],[16.35589599610006,48.23199134320005],[16.3563916499337,48.23199133929783],[16.35864257811903,48.23199133697152],[16.3586425781146,48.23270468547783],[16.35864257810005,48.23382085310006],[16.36138916020002,48.23382085310006],[16.36188480311438,48.23382084903584],[16.36413574220006,48.23382084365331]]],"type":"Polygon"}
+}

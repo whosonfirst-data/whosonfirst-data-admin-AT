@@ -1,0 +1,74 @@
+{
+  "id": 1327136183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88611,48.64944,15.88611,48.64944",
+    "geom:latitude":48.64944,
+    "geom:longitude":15.88611,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"311",
+    "gn:admin3_code":"31120.0",
+    "gn:asciiname":"Klein-Reinprechtsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774043,
+    "gn:latitude":48.64944,
+    "gn:longitude":15.88611,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Klein-Reinprechtsdorf",
+    "gn:population":37,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834945,
+        85632785,
+        102049901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774043
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5249d03592305c0671528ab93f828c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049901,
+            "localadmin_id":1108834945,
+            "locality_id":1327136183,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327136183,
+    "wof:lastmodified":1536607858,
+    "wof:name":"Klein-Reinprechtsdorf",
+    "wof:parent_id":1108834945,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88611,
+    48.64944000000001,
+    15.88611,
+    48.64944000000001
+],
+  "geometry": {"coordinates":[15.88611,48.64944000000001],"type":"Point"}
+}

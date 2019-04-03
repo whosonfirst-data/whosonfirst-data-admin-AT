@@ -1,0 +1,96 @@
+{
+  "id": 1125915437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33143,47.55834,16.33143,47.55834",
+    "geom:latitude":47.55834,
+    "geom:longitude":16.33143,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.55834,
+    "lbl:longitude":16.33143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Landsee"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e1nzs\u00e9r"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2773049,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Landsee",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Burgenland",
+    "qs_pg:photos":67,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":67,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":982828,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":538911,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Burgenland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838561,
+        85632785,
+        102049775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773049,
+        "gp:id":538911,
+        "qs_pg:id":982828
+    },
+    "wof:country":"AT",
+    "wof:created":1497296301,
+    "wof:geomhash":"baaa7d273c136e1f2343122e49cb1cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049775,
+            "localadmin_id":1108838561,
+            "locality_id":1125915437,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125915437,
+    "wof:lastmodified":1509400485,
+    "wof:name":"Landsee",
+    "wof:parent_id":1108838561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33143,
+    47.55834,
+    16.33143,
+    47.55834
+],
+  "geometry": {"coordinates":[16.33143,47.55834],"type":"Point"}
+}

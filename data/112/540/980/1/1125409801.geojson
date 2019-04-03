@@ -1,0 +1,91 @@
+{
+  "id": 1125409801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03692,48.41559,14.03692,48.41559",
+    "geom:latitude":48.41559,
+    "geom:longitude":14.03692,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3608,
+    "gn:population":3776,
+    "iso:country":"AT",
+    "lbl:latitude":48.41559,
+    "lbl:longitude":14.03692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0442\u0438\u043d-\u0438\u043c-\u041c\u044e\u043b\u044c\u043a\u0440\u0430\u0439\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5c14\u5730\u533a\u5723\u9a6c\u4e01"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873205,
+    "qs_pg:gn_pop":3608,
+    "qs_pg:name":"Sankt Martin im M\u00fchlkreis",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155455,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873205,
+        "qs_pg:id":1155455
+    },
+    "wof:country":"AT",
+    "wof:created":1497049908,
+    "wof:geomhash":"5788c7076eeee18f2539235637836cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125409801,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125409801,
+    "wof:lastmodified":1536698239,
+    "wof:name":"Sankt Martin im M\u00fchlkreis",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":3776,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835999
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03692,
+    48.41559,
+    14.03692,
+    48.41559
+],
+  "geometry": {"coordinates":[14.03692,48.41559],"type":"Point"}
+}

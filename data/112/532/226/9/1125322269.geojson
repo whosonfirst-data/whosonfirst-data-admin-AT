@@ -1,0 +1,104 @@
+{
+  "id": 1125322269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5,48.58333,16.5,48.58333",
+    "geom:latitude":48.58333,
+    "geom:longitude":16.5,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.58333,
+    "lbl:longitude":16.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0410\u0441\u043f\u0430\u0440\u043d-\u0430\u043d-\u0434\u0435\u0440-\u0426\u0430\u0439\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u043f\u0430\u0440\u043d-\u0430\u043d-\u0434\u0435\u0440-\u0426\u0430\u0439\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Asparn"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bdf\u4f0a\u4e9a\u6cb3\u7554\u963f\u65af\u5e15\u6069"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2782319,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Asparn an der Zaya",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":45,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":37585,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673769,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782319,
+        "gp:id":12673769,
+        "qs_pg:id":37585
+    },
+    "wof:country":"AT",
+    "wof:created":1497044600,
+    "wof:geomhash":"0e1dc14ef1d07ac8c5ef0f108a3a7e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1125322269,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125322269,
+    "wof:lastmodified":1534531024,
+    "wof:name":"Asparn an der Zaya",
+    "wof:parent_id":102049897,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836781
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5,
+    48.58333,
+    16.5,
+    48.58333
+],
+  "geometry": {"coordinates":[16.5,48.58333],"type":"Point"}
+}

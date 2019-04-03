@@ -1,0 +1,63 @@
+{
+  "id": 1209312055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05861,46.98444,15.05861,46.98444",
+    "geom:latitude":46.98444,
+    "geom:longitude":15.05861,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"616",
+    "gn:admin3_code":"61627.0",
+    "gn:asciiname":"Hahnenschloss",
+    "gn:country_code":"AT",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219722,
+    "gn:latitude":46.98444,
+    "gn:longitude":15.05861,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Hahnenschloss",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219722
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b8a3dadd09d98cf9861ff19d512dbb54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209312055
+        }
+    ],
+    "wof:id":1209312055,
+    "wof:lastmodified":1536290993,
+    "wof:name":"Hahnenschloss",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05861,
+    46.98444,
+    15.05861,
+    46.98444
+],
+  "geometry": {"coordinates":[15.05861,46.98444],"type":"Point"}
+}

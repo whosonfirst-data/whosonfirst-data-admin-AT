@@ -1,0 +1,98 @@
+{
+  "id": 1125275505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68279,47.15886,15.68279,47.15886",
+    "geom:latitude":47.15886,
+    "geom:longitude":15.68279,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1493,
+    "gn:population":1493,
+    "iso:country":"AT",
+    "lbl:latitude":47.15886,
+    "lbl:longitude":15.68279,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873582,
+    "qs_pg:gn_pop":1493,
+    "qs_pg:name":"Unterfladnitz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108992,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674853,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873582,
+        "gp:id":12674853,
+        "qs_pg:id":108992
+    },
+    "wof:concordances_alt":{
+        "gn:id":2762953,
+        "qs_pg:id":535920
+    },
+    "wof:country":"AT",
+    "wof:created":1497042293,
+    "wof:geomhash":"7036ca7239b12caeef77858b446686f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125275505,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125275505,
+    "wof:lastmodified":1536698126,
+    "wof:name":"Unterfladnitz",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":1493,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838911
+    ],
+    "wof:supersedes":[
+        1125308163
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68279,
+    47.15886,
+    15.68279,
+    47.15886
+],
+  "geometry": {"coordinates":[15.68279,47.15886],"type":"Point"}
+}

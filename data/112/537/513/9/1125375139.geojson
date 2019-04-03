@@ -1,0 +1,82 @@
+{
+  "id": 1125375139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04652,47.46338,14.04652,47.46338",
+    "geom:latitude":47.46338,
+    "geom:longitude":14.04652,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":570,
+    "gn:population":570,
+    "iso:country":"AT",
+    "lbl:latitude":47.46338,
+    "lbl:longitude":14.04652,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872443,
+    "qs_pg:gn_pop":570,
+    "qs_pg:name":"Nieder\u00f6blarn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":381038,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872443,
+        "qs_pg:id":381038
+    },
+    "wof:country":"AT",
+    "wof:created":1497047676,
+    "wof:geomhash":"0aa14bb93cff2151be75700b2b34ed57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125375139,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125375139,
+    "wof:lastmodified":1534379092,
+    "wof:name":"Nieder\u00f6blarn",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":570,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125383879
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04652,
+    47.46338,
+    14.04652,
+    47.46338
+],
+  "geometry": {"coordinates":[14.04652,47.46338],"type":"Point"}
+}

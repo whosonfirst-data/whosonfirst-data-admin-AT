@@ -1,0 +1,74 @@
+{
+  "id": 1343866915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11992,46.77497,14.11992,46.77497",
+    "geom:latitude":46.77497,
+    "geom:longitude":14.11992,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21010.0",
+    "gn:asciiname":"Jeinitz",
+    "gn:country_code":"AT",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594052,
+    "gn:latitude":46.77497,
+    "gn:longitude":14.11992,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Jeinitz",
+    "gn:population":29,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838141,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594052
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a2ae434f6c912f180385f5f2bee6a457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838141,
+            "locality_id":1343866915,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1343866915,
+    "wof:lastmodified":1536657338,
+    "wof:name":"Jeinitz",
+    "wof:parent_id":1108838141,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11992,
+    46.77497,
+    14.11992,
+    46.77497
+],
+  "geometry": {"coordinates":[14.11992,46.77497],"type":"Point"}
+}

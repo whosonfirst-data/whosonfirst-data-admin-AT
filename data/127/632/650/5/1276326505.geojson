@@ -1,0 +1,74 @@
+{
+  "id": 1276326505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95665,47.01988,15.95665,47.01988",
+    "geom:latitude":47.01988,
+    "geom:longitude":15.95665,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62386.0",
+    "gn:asciiname":"Lembach bei Riegersburg",
+    "gn:country_code":"AT",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592498,
+    "gn:latitude":47.01988,
+    "gn:longitude":15.95665,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lembach bei Riegersburg",
+    "gn:population":344,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839241,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592498
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"eec9f7390a1cd6ee72469d7a8f6397c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839241,
+            "locality_id":1276326505,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276326505,
+    "wof:lastmodified":1536788266,
+    "wof:name":"Lembach bei Riegersburg",
+    "wof:parent_id":1108839241,
+    "wof:placetype":"locality",
+    "wof:population":344,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95665,
+    47.01988,
+    15.95665,
+    47.01988
+],
+  "geometry": {"coordinates":[15.95665,47.01988],"type":"Point"}
+}

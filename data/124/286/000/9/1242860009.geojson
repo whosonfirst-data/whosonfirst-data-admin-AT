@@ -1,0 +1,74 @@
+{
+  "id": 1242860009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.66061,47.19076,9.66061,47.19076",
+    "geom:latitude":47.19076,
+    "geom:longitude":9.66061,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801",
+    "gn:admin3_code":"80116.0",
+    "gn:asciiname":"Latz",
+    "gn:country_code":"AT",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772856,
+    "gn:latitude":47.19076,
+    "gn:longitude":9.66061,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Latz",
+    "gn:population":134,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838015,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772856
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"093f7960a77c52d42caa62a5e78b5782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838015,
+            "locality_id":1242860009,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1242860009,
+    "wof:lastmodified":1536657017,
+    "wof:name":"Latz",
+    "wof:parent_id":1108838015,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.66061,
+    47.19076,
+    9.66061,
+    47.19076
+],
+  "geometry": {"coordinates":[9.66061,47.19076],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209412623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66667,46.96667,15.66667,46.96667",
+    "geom:latitude":46.96667,
+    "geom:longitude":15.66667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62381.0",
+    "gn:asciiname":"Krisperleiten",
+    "gn:country_code":"AT",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2607547,
+    "gn:latitude":46.96667,
+    "gn:longitude":15.66667,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Krisperleiten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2607547
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3f8d60ba6f5704bc227543845f843dfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209412623
+        }
+    ],
+    "wof:id":1209412623,
+    "wof:lastmodified":1536287789,
+    "wof:name":"Krisperleiten",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.666670000000002,
+    46.96667,
+    15.666670000000002,
+    46.96667
+],
+  "geometry": {"coordinates":[15.66667,46.96667],"type":"Point"}
+}

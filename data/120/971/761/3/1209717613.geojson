@@ -1,0 +1,74 @@
+{
+  "id": 1209717613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42429,48.14524,15.42429,48.14524",
+    "geom:latitude":48.14524,
+    "geom:longitude":15.42429,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"315.0",
+    "gn:admin3_code":"31513.0",
+    "gn:asciiname":"Poettendorf",
+    "gn:country_code":"AT",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768471,
+    "gn:latitude":48.14524,
+    "gn:longitude":15.42429,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"P\u00f6ttendorf",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835445,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768471
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6def12c7e9ea9db95c5050cae329eba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835445,
+            "locality_id":1209717613,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1209717613,
+    "wof:lastmodified":1536387846,
+    "wof:name":"Poettendorf",
+    "wof:parent_id":1108835445,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42429,
+    48.14524,
+    15.42429,
+    48.14524
+],
+  "geometry": {"coordinates":[15.42429,48.14524],"type":"Point"}
+}

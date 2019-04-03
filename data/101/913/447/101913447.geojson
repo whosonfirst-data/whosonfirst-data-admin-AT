@@ -1,0 +1,134 @@
+{
+  "id": 101913447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":5.98901,
+    "geom:bbox":"14.4476778746,48.0401187625,14.4477395162,48.0401430184",
+    "geom:latitude":48.040128,
+    "geom:longitude":14.447718,
+    "iso:country":"AT",
+    "lbl:latitude":48.040129,
+    "lbl:longitude":14.447728,
+    "mps:latitude":48.040129,
+    "mps:longitude":14.447728,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:chi_x_preferred":[
+        "\u65bd\u6cf0\u5c14\u9644\u8fd1\u5723\u4e4c\u5c14\u91cc\u5e0c"
+    ],
+    "name:dut_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:eng_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:fre_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:ger_x_preferred":[
+        "St. Ulrich bei Steyr"
+    ],
+    "name:hun_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:ita_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0423\u043b\u044c\u0440\u0438\u0445-\u0428\u0442\u0430\u0439\u0440"
+    ],
+    "name:pol_x_preferred":[
+        "St. Ulrich bei Steyr"
+    ],
+    "name:por_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0423\u043b\u044c\u0440\u0438\u0445-\u0428\u0442\u0430\u0439\u0440"
+    ],
+    "name:slo_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:swe_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:uzb_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:vie_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:vol_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "name:war_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Ober\u00f6sterreich",
+    "qs:a1r":"0",
+    "qs:a2":"Steyr - Land",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Dietach",
+    "qs:la_lc":"*AT41504",
+    "qs:level":"locality",
+    "qs:loc":"Sankt Ulrich bei Steyr",
+    "qs:loc_alt":"Sankt Ulrich bei Steyr",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834703,
+        85632785,
+        102049813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766372,
+        "gp:id":546883,
+        "qs:id":4,
+        "wd:id":"Q682115"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"63106cf2298d647100834fad42c78fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049813,
+            "localadmin_id":1108834703,
+            "locality_id":101913447,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":101913447,
+    "wof:lastmodified":1534985833,
+    "wof:name":"Sankt Ulrich bei Steyr",
+    "wof:parent_id":1108834703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1175610445
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44767787462263,
+    48.04011876245573,
+    14.44773951621067,
+    48.04014301838077
+],
+  "geometry": {"coordinates":[[[14.44773951621067,48.04014301838077],[14.44773739414796,48.04011876245573],[14.44767787462263,48.0401211695571],[14.44773951621067,48.04014301838077]]],"type":"Polygon"}
+}

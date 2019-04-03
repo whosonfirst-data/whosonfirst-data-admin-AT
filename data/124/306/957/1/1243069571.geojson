@@ -1,0 +1,77 @@
+{
+  "id": 1243069571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.24852,48.31385,16.24852,48.31385",
+    "geom:latitude":48.31385,
+    "geom:longitude":16.24852,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"321",
+    "gn:admin3_code":"32144.0",
+    "gn:asciiname":"Gugging",
+    "gn:country_code":"AT",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777297,
+    "gn:latitude":48.31385,
+    "gn:longitude":16.24852,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gugging",
+    "gn:population":1173,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Maria Gugging"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834829,
+        85632785,
+        102049867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777297
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"00696e79878e62a0cc83261673cde2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108834829,
+            "locality_id":1243069571,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243069571,
+    "wof:lastmodified":1537584969,
+    "wof:name":"Gugging",
+    "wof:parent_id":1108834829,
+    "wof:placetype":"locality",
+    "wof:population":1173,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.24852000000001,
+    48.31385,
+    16.24852000000001,
+    48.31385
+],
+  "geometry": {"coordinates":[16.24852000000001,48.31385],"type":"Point"}
+}

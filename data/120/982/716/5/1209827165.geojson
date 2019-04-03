@@ -1,0 +1,71 @@
+{
+  "id": 1209827165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14328,48.01875,15.14328,48.01875",
+    "geom:latitude":48.01875,
+    "geom:longitude":15.14328,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"320",
+    "gn:admin3_code":"32013.0",
+    "gn:asciiname":"Brandstatt",
+    "gn:country_code":"AT",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781537,
+    "gn:latitude":48.01875,
+    "gn:longitude":15.14328,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Brandstatt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834971,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781537
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bd24ccd25df55bc6f488d3e0c4d79533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108834971,
+            "locality_id":1209827165,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1209827165,
+    "wof:lastmodified":1536372473,
+    "wof:name":"Brandstatt",
+    "wof:parent_id":1108834971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14328,
+    48.01875,
+    15.14328,
+    48.01875
+],
+  "geometry": {"coordinates":[15.14328,48.01875],"type":"Point"}
+}

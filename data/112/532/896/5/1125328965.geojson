@@ -1,0 +1,98 @@
+{
+  "id": 1125328965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08409,46.99457,16.08409,46.99457",
+    "geom:latitude":46.99457,
+    "geom:longitude":16.08409,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":484,
+    "gn:population":484,
+    "iso:country":"AT",
+    "lbl:latitude":46.99457,
+    "lbl:longitude":16.08409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872323,
+    "qs_pg:gn_pop":484,
+    "qs_pg:name":"Stein",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108584,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675230,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872323,
+        "gp:id":12675230,
+        "qs_pg:id":108584
+    },
+    "wof:concordances_alt":{
+        "gn:id":2764569,
+        "qs_pg:id":38254
+    },
+    "wof:country":"AT",
+    "wof:created":1497045007,
+    "wof:geomhash":"14a9125fb72a071c8bae741ad173b07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1125328965,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125328965,
+    "wof:lastmodified":1536698168,
+    "wof:name":"Stein",
+    "wof:parent_id":1108892549,
+    "wof:placetype":"localadmin",
+    "wof:population":484,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839219
+    ],
+    "wof:supersedes":[
+        1125322595
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08409,
+    46.99457,
+    16.08409,
+    46.99457
+],
+  "geometry": {"coordinates":[16.08409,46.99457],"type":"Point"}
+}

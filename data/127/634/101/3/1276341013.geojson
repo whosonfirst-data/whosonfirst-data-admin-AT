@@ -1,0 +1,74 @@
+{
+  "id": 1276341013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68082,48.18011,14.68082,48.18011",
+    "geom:latitude":48.18011,
+    "geom:longitude":14.68082,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"411.0",
+    "gn:admin3_code":"41112.0",
+    "gn:asciiname":"Weisching",
+    "gn:country_code":"AT",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761666,
+    "gn:latitude":48.18011,
+    "gn:longitude":14.68082,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Weisching",
+    "gn:population":76,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835591,
+        85632785,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761666
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9f2f0c4269187797ea85637480371af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835591,
+            "locality_id":1276341013,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276341013,
+    "wof:lastmodified":1536768595,
+    "wof:name":"Weisching",
+    "wof:parent_id":1108835591,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68082,
+    48.18011,
+    14.68082,
+    48.18011
+],
+  "geometry": {"coordinates":[14.68082,48.18011],"type":"Point"}
+}

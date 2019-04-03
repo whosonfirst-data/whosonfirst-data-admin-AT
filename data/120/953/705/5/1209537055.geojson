@@ -1,0 +1,63 @@
+{
+  "id": 1209537055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.5,47.3,10.5,47.3",
+    "geom:latitude":47.3,
+    "geom:longitude":10.5,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"708",
+    "gn:admin3_code":"70813.0",
+    "gn:asciiname":"Haeternach",
+    "gn:country_code":"AT",
+    "gn:dem":1242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776697,
+    "gn:latitude":47.3,
+    "gn:longitude":10.5,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"H\u00e4ternach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776697
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c6177e82699f0b2d41c6d9ee6db0a888",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209537055
+        }
+    ],
+    "wof:id":1209537055,
+    "wof:lastmodified":1536284107,
+    "wof:name":"Haeternach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5,
+    47.3,
+    10.5,
+    47.3
+],
+  "geometry": {"coordinates":[10.5,47.3],"type":"Point"}
+}

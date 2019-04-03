@@ -1,0 +1,74 @@
+{
+  "id": 1343943285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8616,47.20138,9.8616,47.20138",
+    "geom:latitude":47.20138,
+    "geom:longitude":9.8616,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801",
+    "gn:admin3_code":"80118.0",
+    "gn:asciiname":"Marul",
+    "gn:country_code":"AT",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771850,
+    "gn:latitude":47.20138,
+    "gn:longitude":9.8616,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Marul",
+    "gn:population":150,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838019,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771850
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e6f6b3d4a79b7c6a861b538b382e0ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838019,
+            "locality_id":1343943285,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1343943285,
+    "wof:lastmodified":1537043086,
+    "wof:name":"Marul",
+    "wof:parent_id":1108838019,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8616,
+    47.20138,
+    9.8616,
+    47.20138
+],
+  "geometry": {"coordinates":[9.8616,47.20138],"type":"Point"}
+}

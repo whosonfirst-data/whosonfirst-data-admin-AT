@@ -1,0 +1,104 @@
+{
+  "id": 1125383977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,48.03333,15.73333,48.03333",
+    "geom:latitude":48.03333,
+    "geom:longitude":15.73333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "gn:population":1583,
+    "iso:country":"AT",
+    "lbl:latitude":48.03333,
+    "lbl:longitude":15.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Unterrohrbach"
+    ],
+    "name:unk_x_variant":[
+        "Rohrbach"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2767286,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rohrbach an der G\u00f6lsen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1029098,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673780,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767286,
+        "gp:id":12673780,
+        "qs_pg:id":1029098
+    },
+    "wof:concordances_alt":{
+        "gn:id":2762678,
+        "qs_pg:id":1112478
+    },
+    "wof:country":"AT",
+    "wof:created":1497048240,
+    "wof:geomhash":"96fd76f8d9b7fd57407a090bd9f478e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1125383977,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125383977,
+    "wof:lastmodified":1536698220,
+    "wof:name":"Rohrbach an der G\u00f6lsen",
+    "wof:parent_id":102049823,
+    "wof:placetype":"localadmin",
+    "wof:population":1583,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836175
+    ],
+    "wof:supersedes":[
+        1125325065
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    48.03333,
+    15.73333,
+    48.03333
+],
+  "geometry": {"coordinates":[15.73333,48.03333],"type":"Point"}
+}

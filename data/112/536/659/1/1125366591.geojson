@@ -1,0 +1,98 @@
+{
+  "id": 1125366591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,46.78333,14.11667,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":14.11667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.78333,
+    "lbl:longitude":14.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u043e\u0439\u0435\u0440\u0431\u0435\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u6258\u4f0a\u8d1d\u683c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2764364,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Steuerberg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1180346,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673617,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764364,
+        "gp:id":12673617,
+        "qs_pg:id":1180346
+    },
+    "wof:country":"AT",
+    "wof:created":1497047115,
+    "wof:geomhash":"3aa575698d5a06407c9a710dd8f36adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1125366591,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125366591,
+    "wof:lastmodified":1534531038,
+    "wof:name":"Steuerberg",
+    "wof:parent_id":102049689,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838141
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    46.78333,
+    14.11667,
+    46.78333
+],
+  "geometry": {"coordinates":[14.11667,46.78333],"type":"Point"}
+}

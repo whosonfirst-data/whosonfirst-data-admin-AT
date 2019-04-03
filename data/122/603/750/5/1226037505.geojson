@@ -1,0 +1,74 @@
+{
+  "id": 1226037505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76583,46.90417,15.76583,46.90417",
+    "geom:latitude":46.90417,
+    "geom:longitude":15.76583,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62380.0",
+    "gn:asciiname":"Woerth",
+    "gn:country_code":"AT",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760844,
+    "gn:latitude":46.90417,
+    "gn:longitude":15.76583,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"W\u00f6rth",
+    "gn:population":255,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839255,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760844
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c7914ece9c3ec8fa03c71d3c6069035c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839255,
+            "locality_id":1226037505,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226037505,
+    "wof:lastmodified":1536737066,
+    "wof:name":"Woerth",
+    "wof:parent_id":1108839255,
+    "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76583,
+    46.90417,
+    15.76583,
+    46.90417
+],
+  "geometry": {"coordinates":[15.76583,46.90417],"type":"Point"}
+}

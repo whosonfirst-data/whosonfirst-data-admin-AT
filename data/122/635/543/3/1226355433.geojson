@@ -1,0 +1,74 @@
+{
+  "id": 1226355433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35833,46.73917,14.35833,46.73917",
+    "geom:latitude":46.73917,
+    "geom:longitude":14.35833,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20527.0",
+    "gn:asciiname":"Muraunberg",
+    "gn:country_code":"AT",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324631,
+    "gn:latitude":46.73917,
+    "gn:longitude":14.35833,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Muraunberg",
+    "gn:population":70,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838239,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324631
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"267315bf2444d55bdbecfd8f78e07d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838239,
+            "locality_id":1226355433,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226355433,
+    "wof:lastmodified":1536776058,
+    "wof:name":"Muraunberg",
+    "wof:parent_id":1108838239,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35833,
+    46.73917,
+    14.35833,
+    46.73917
+],
+  "geometry": {"coordinates":[14.35833,46.73917],"type":"Point"}
+}

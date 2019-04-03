@@ -1,0 +1,75 @@
+{
+  "id": 1226432075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37529,48.20917,16.37529,48.20917",
+    "geom:latitude":48.20917,
+    "geom:longitude":16.37529,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"900",
+    "gn:admin3_code":"901.0",
+    "gn:asciiname":"Vindobona",
+    "gn:country_code":"AT",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":8378568,
+    "gn:latitude":48.20917,
+    "gn:longitude":16.37529,
+    "gn:modification_date":"2012-11-11",
+    "gn:name":"Vindobona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lat_x_preferred":[
+        "Vindobona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681667,
+        102191581,
+        1108838101,
+        85632785,
+        102049859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8378568,
+        "wk:page":"Vindobona"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"235f1cd80d81979d19d995f32795dc5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":1226432075,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1226432075,
+    "wof:lastmodified":1537584989,
+    "wof:name":"Vindobona",
+    "wof:parent_id":1108838101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37529,
+    48.20917,
+    16.37529,
+    48.20917
+],
+  "geometry": {"coordinates":[16.37529,48.20917],"type":"Point"}
+}

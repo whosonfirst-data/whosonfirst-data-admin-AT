@@ -1,0 +1,82 @@
+{
+  "id": 1125409867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.94122,47.14409,9.94122,47.14409",
+    "geom:latitude":47.14409,
+    "geom:longitude":9.94122,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":971,
+    "gn:population":981,
+    "iso:country":"AT",
+    "lbl:latitude":47.14409,
+    "lbl:longitude":9.94122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873718,
+    "qs_pg:gn_pop":971,
+    "qs_pg:name":"Innerbraz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1155543,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873718,
+        "qs_pg:id":1155543
+    },
+    "wof:country":"AT",
+    "wof:created":1497049915,
+    "wof:geomhash":"317f0a1e00f53f4f886a4e81905a4243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1125409867,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125409867,
+    "wof:lastmodified":1534531059,
+    "wof:name":"Innerbraz",
+    "wof:parent_id":102049711,
+    "wof:placetype":"localadmin",
+    "wof:population":981,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837967
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.94122,
+    47.14409,
+    9.94122,
+    47.14409
+],
+  "geometry": {"coordinates":[9.94122,47.14409],"type":"Point"}
+}

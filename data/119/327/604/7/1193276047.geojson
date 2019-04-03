@@ -1,0 +1,74 @@
+{
+  "id": 1193276047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42093,48.20706,14.42093,48.20706",
+    "geom:latitude":48.20706,
+    "geom:longitude":14.42093,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"410.0",
+    "gn:admin3_code":"41013.0",
+    "gn:asciiname":"Samesleiten",
+    "gn:country_code":"AT",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766803,
+    "gn:latitude":48.20706,
+    "gn:longitude":14.42093,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Samesleiten",
+    "gn:population":213,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835545,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766803
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7d501c5862c95a87c5bff9a1ac20cdc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835545,
+            "locality_id":1193276047,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1193276047,
+    "wof:lastmodified":1536365942,
+    "wof:name":"Samesleiten",
+    "wof:parent_id":1108835545,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42093,
+    48.20706,
+    14.42093,
+    48.20706
+],
+  "geometry": {"coordinates":[14.42093,48.20706],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243556369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01436,48.07011,15.01436,48.07011",
+    "geom:latitude":48.07011,
+    "geom:longitude":15.01436,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"320",
+    "gn:admin3_code":"32014.0",
+    "gn:asciiname":"Haberg",
+    "gn:country_code":"AT",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11591817,
+    "gn:latitude":48.07011,
+    "gn:longitude":15.01436,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Haberg",
+    "gn:population":58,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835725,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591817
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"660788588100321508f6e1e508737470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835725,
+            "locality_id":1243556369,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243556369,
+    "wof:lastmodified":1536646658,
+    "wof:name":"Haberg",
+    "wof:parent_id":1108835725,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01436,
+    48.07011,
+    15.01436,
+    48.07011
+],
+  "geometry": {"coordinates":[15.01436,48.07011],"type":"Point"}
+}

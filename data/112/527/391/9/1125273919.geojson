@@ -1,0 +1,82 @@
+{
+  "id": 1125273919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.80719,47.56543,9.80719,47.56543",
+    "geom:latitude":47.56543,
+    "geom:longitude":9.80719,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":540,
+    "gn:population":528,
+    "iso:country":"AT",
+    "lbl:latitude":47.56543,
+    "lbl:longitude":9.80719,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872664,
+    "qs_pg:gn_pop":540,
+    "qs_pg:name":"M\u00f6ggers",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108651,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872664,
+        "qs_pg:id":108651
+    },
+    "wof:country":"AT",
+    "wof:created":1497042239,
+    "wof:geomhash":"3c6d99590e99e92ad46110c32976cee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1125273919,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125273919,
+    "wof:lastmodified":1534530993,
+    "wof:name":"M\u00f6ggers",
+    "wof:parent_id":102049751,
+    "wof:placetype":"localadmin",
+    "wof:population":528,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838013
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.80719,
+    47.56543,
+    9.80719,
+    47.56543
+],
+  "geometry": {"coordinates":[9.80719,47.56543],"type":"Point"}
+}

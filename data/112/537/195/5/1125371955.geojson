@@ -1,0 +1,82 @@
+{
+  "id": 1125371955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70777,47.72641,14.70777,47.72641",
+    "geom:latitude":47.72641,
+    "geom:longitude":14.70777,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":913,
+    "gn:population":828,
+    "iso:country":"AT",
+    "lbl:latitude":47.72641,
+    "lbl:longitude":14.70777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872435,
+    "qs_pg:gn_pop":913,
+    "qs_pg:name":"Altenmarkt bei Sankt Gallen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108600,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872435,
+        "qs_pg:id":108600
+    },
+    "wof:country":"AT",
+    "wof:created":1497047464,
+    "wof:geomhash":"54e8130cd455781df8ed3465bd4ed940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125371955,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125371955,
+    "wof:lastmodified":1536698201,
+    "wof:name":"Altenmarkt bei Sankt Gallen",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":828,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838969
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70777,
+    47.72641,
+    14.70777,
+    47.72641
+],
+  "geometry": {"coordinates":[14.70777,47.72641],"type":"Point"}
+}

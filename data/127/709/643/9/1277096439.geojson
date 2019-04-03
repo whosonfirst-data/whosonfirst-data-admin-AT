@@ -1,0 +1,71 @@
+{
+  "id": 1277096439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98333,47.11667,9.98333,47.11667",
+    "geom:latitude":47.11667,
+    "geom:longitude":9.98333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801",
+    "gn:admin3_code":"80108.0",
+    "gn:asciiname":"Mutten",
+    "gn:country_code":"AT",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770982,
+    "gn:latitude":47.11667,
+    "gn:longitude":9.98333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Mutten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837919,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770982
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9df2cc2b75ea21eb1b82f893e7c3f832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837919,
+            "locality_id":1277096439,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1277096439,
+    "wof:lastmodified":1536747733,
+    "wof:name":"Mutten",
+    "wof:parent_id":1108837919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98333,
+    47.11667,
+    9.98333,
+    47.11667
+],
+  "geometry": {"coordinates":[9.98333,47.11667],"type":"Point"}
+}

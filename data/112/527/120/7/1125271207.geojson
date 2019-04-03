@@ -1,0 +1,101 @@
+{
+  "id": 1125271207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28667,46.73778,14.28667,46.73778",
+    "geom:latitude":46.73778,
+    "geom:longitude":14.28667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.73778,
+    "lbl:longitude":14.28667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041b\u0438\u0431\u0435\u043d\u0444\u0435\u043b\u044c\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0431\u0435\u043d\u0444\u0435\u043b\u044c\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u672c\u5f17\u5c14\u65af"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":3324633,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Liebenfels",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":239,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":907148,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673586,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324633,
+        "gp:id":12673586,
+        "qs_pg:id":907148
+    },
+    "wof:country":"AT",
+    "wof:created":1497042135,
+    "wof:geomhash":"e40fbf0a2fbc5ed109bc1ab13bb65c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1125271207,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125271207,
+    "wof:lastmodified":1536698113,
+    "wof:name":"Liebenfels",
+    "wof:parent_id":102049697,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838335
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28667,
+    46.73778,
+    14.28667,
+    46.73778
+],
+  "geometry": {"coordinates":[14.28667,46.73778],"type":"Point"}
+}

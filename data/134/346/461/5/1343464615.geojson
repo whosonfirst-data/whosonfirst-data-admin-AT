@@ -1,0 +1,71 @@
+{
+  "id": 1343464615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39509,48.08565,14.39509,48.08565",
+    "geom:latitude":48.08565,
+    "geom:longitude":14.39509,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"415",
+    "gn:admin3_code":"41521.0",
+    "gn:asciiname":"Im Doerfl",
+    "gn:country_code":"AT",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609970,
+    "gn:latitude":48.08565,
+    "gn:longitude":14.39509,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Im D\u00f6rfl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836131,
+        85632785,
+        102049819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609970
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"05be4504e1b11c581a600750c3f25419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836131,
+            "locality_id":1343464615,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343464615,
+    "wof:lastmodified":1536739953,
+    "wof:name":"Im Doerfl",
+    "wof:parent_id":1108836131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39509,
+    48.08565,
+    14.39509,
+    48.08565
+],
+  "geometry": {"coordinates":[14.39509,48.08565],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277081941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18333,48.5,15.18333,48.5",
+    "geom:latitude":48.5,
+    "geom:longitude":15.18333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"325",
+    "gn:admin3_code":"32506.0",
+    "gn:asciiname":"Kaltenbrunn",
+    "gn:country_code":"AT",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774855,
+    "gn:latitude":48.5,
+    "gn:longitude":15.18333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kaltenbrunn",
+    "gn:population":68,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834981,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774855
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3398655aa84dabb28d58418c313e245b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108834981,
+            "locality_id":1277081941,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1277081941,
+    "wof:lastmodified":1536769201,
+    "wof:name":"Kaltenbrunn",
+    "wof:parent_id":1108834981,
+    "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18333,
+    48.5,
+    15.18333,
+    48.5
+],
+  "geometry": {"coordinates":[15.18333,48.5],"type":"Point"}
+}

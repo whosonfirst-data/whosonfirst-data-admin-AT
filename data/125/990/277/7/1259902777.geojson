@@ -1,0 +1,74 @@
+{
+  "id": 1259902777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95855,47.29832,12.95855,47.29832",
+    "geom:latitude":47.29832,
+    "geom:longitude":12.95855,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50622.0",
+    "gn:asciiname":"Taxberg",
+    "gn:country_code":"AT",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594697,
+    "gn:latitude":47.29832,
+    "gn:longitude":12.95855,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Taxberg",
+    "gn:population":186,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837241,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594697
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ccf9b705915a8687b06f6494e469b87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837241,
+            "locality_id":1259902777,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1259902777,
+    "wof:lastmodified":1536751269,
+    "wof:name":"Taxberg",
+    "wof:parent_id":1108837241,
+    "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95855,
+    47.29832,
+    12.95855,
+    47.29832
+],
+  "geometry": {"coordinates":[12.95855,47.29832],"type":"Point"}
+}

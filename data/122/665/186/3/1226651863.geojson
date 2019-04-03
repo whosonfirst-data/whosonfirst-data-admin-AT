@@ -1,0 +1,74 @@
+{
+  "id": 1226651863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61541,48.24291,13.61541,48.24291",
+    "geom:latitude":48.24291,
+    "geom:longitude":13.61541,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40822.0",
+    "gn:asciiname":"Edt",
+    "gn:country_code":"AT",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610500,
+    "gn:latitude":48.24291,
+    "gn:longitude":13.61541,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Edt",
+    "gn:population":29,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835213,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610500
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"62f5efec6717d00bb5da3d0c69e82b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835213,
+            "locality_id":1226651863,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226651863,
+    "wof:lastmodified":1536849466,
+    "wof:name":"Edt",
+    "wof:parent_id":1108835213,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61541,
+    48.24291,
+    13.61541,
+    48.24291
+],
+  "geometry": {"coordinates":[13.61541,48.24291],"type":"Point"}
+}

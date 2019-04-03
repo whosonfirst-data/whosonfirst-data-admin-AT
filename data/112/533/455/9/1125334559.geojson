@@ -1,0 +1,111 @@
+{
+  "id": 1125334559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2977,47.79655,16.2977,47.79655",
+    "geom:latitude":47.79655,
+    "geom:longitude":16.2977,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":4183,
+    "gn:population":4183,
+    "iso:country":"AT",
+    "lbl:latitude":47.79655,
+    "lbl:longitude":16.2977,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hun_x_preferred":[
+        "Lajtaszentmikl\u00f3s"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439\u0434\u0451\u0440\u0444\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u0434\u0451\u0440\u0444\u043b\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439\u0434\u0435\u0440\u0444\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5fb7\u5c14\u592b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2770803,
+    "qs_pg:gn_pop":4183,
+    "qs_pg:name":"Neud\u00f6rfl",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Burgenland",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":121,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":535822,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674169,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Burgenland",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770803,
+        "gp:id":12674169,
+        "qs_pg:id":535822
+    },
+    "wof:country":"AT",
+    "wof:created":1497045321,
+    "wof:geomhash":"23073df61f59ea1c5854b0e915c3d621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1125334559,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125334559,
+    "wof:lastmodified":1534531058,
+    "wof:name":"Neud\u00f6rfl",
+    "wof:parent_id":102049789,
+    "wof:placetype":"localadmin",
+    "wof:population":4183,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838751
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2977,
+    47.79655,
+    16.2977,
+    47.79655
+],
+  "geometry": {"coordinates":[16.2977,47.79655],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360189361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.27649,47.24067,12.27649,47.24067",
+    "geom:latitude":47.24067,
+    "geom:longitude":12.27649,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50614.0",
+    "gn:asciiname":"Schwabreit",
+    "gn:country_code":"AT",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594668,
+    "gn:latitude":47.24067,
+    "gn:longitude":12.27649,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Schwabreit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837223,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594668
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b0626ce11de3fb7da1a48f5f437179af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837223,
+            "locality_id":1360189361,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1360189361,
+    "wof:lastmodified":1536795442,
+    "wof:name":"Schwabreit",
+    "wof:parent_id":1108837223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.27649,
+    47.24067,
+    12.27649,
+    47.24067
+],
+  "geometry": {"coordinates":[12.27649,47.24067],"type":"Point"}
+}

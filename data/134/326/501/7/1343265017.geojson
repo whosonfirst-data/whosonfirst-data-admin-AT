@@ -1,0 +1,74 @@
+{
+  "id": 1343265017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33055,46.76368,14.33055,46.76368",
+    "geom:latitude":46.76368,
+    "geom:longitude":14.33055,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20534.0",
+    "gn:asciiname":"Treffelsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763392,
+    "gn:latitude":46.76368,
+    "gn:longitude":14.33055,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Treffelsdorf",
+    "gn:population":124,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838247,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763392
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ef415fbadc5fc7c98bf6bd2c9a1e0e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838247,
+            "locality_id":1343265017,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1343265017,
+    "wof:lastmodified":1537027095,
+    "wof:name":"Treffelsdorf",
+    "wof:parent_id":1108838247,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33055,
+    46.76368,
+    14.33055,
+    46.76368
+],
+  "geometry": {"coordinates":[14.33055,46.76368],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125372167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.94291,47.28494,12.94291,47.28494",
+    "geom:latitude":47.28494,
+    "geom:longitude":12.94291,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2809,
+    "gn:population":2755,
+    "iso:country":"AT",
+    "lbl:latitude":47.28494,
+    "lbl:longitude":12.94291,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873331,
+    "qs_pg:gn_pop":2809,
+    "qs_pg:name":"Taxenbach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108913,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873331,
+        "qs_pg:id":108913
+    },
+    "wof:country":"AT",
+    "wof:created":1497047482,
+    "wof:geomhash":"b0fa0e56c50efb5edf1939457bb06a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125372167,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125372167,
+    "wof:lastmodified":1534379216,
+    "wof:name":"Taxenbach",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:population":2755,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837241
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.94291,
+    47.28494,
+    12.94291,
+    47.28494
+],
+  "geometry": {"coordinates":[12.94291,47.28494],"type":"Point"}
+}

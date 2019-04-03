@@ -1,0 +1,130 @@
+{
+  "id": 101910901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":628366.241168,
+    "geom:bbox":"13.339507034,46.8529475689,13.3552731484,46.8620625856",
+    "geom:latitude":46.858116,
+    "geom:longitude":13.34692,
+    "iso:country":"AT",
+    "lbl:latitude":46.858523,
+    "lbl:longitude":13.34692,
+    "mps:latitude":46.858523,
+    "mps:longitude":13.34692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:fre_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:fur_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:ger_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u044e\u043b\u044c\u0434\u043e\u0440\u0444"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:por_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044e\u043b\u044c\u0434\u043e\u0440\u0444"
+    ],
+    "name:slo_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:uzb_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "name:war_x_preferred":[
+        "M\u00fchldorf"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*K\u00e4rnten",
+    "qs:a1r":"8",
+    "qs:a2":"Spittal an der Drau",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:id":0,
+    "qs:la":"M\u00fchldorf",
+    "qs:la_lc":"*AT20624",
+    "qs:level":"locality",
+    "qs:loc":"M\u00fchldorf",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":262,
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838283,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771095,
+        "gp:id":540018,
+        "qs:id":1095644,
+        "qs_pg:id":268910,
+        "wd:id":"Q692993"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c8436d005475764e8bf11a0cfdb252d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838283,
+            "locality_id":101910901,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":101910901,
+    "wof:lastmodified":1553815581,
+    "wof:name":"M\u00fchldorf",
+    "wof:parent_id":1108838283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33950703398483,
+    46.85294756892438,
+    13.35527314842159,
+    46.862062585621
+],
+  "geometry": {"coordinates":[[[13.35032235621213,46.8620219501276],[13.35020811925824,46.86022333830704],[13.35151728017212,46.86018268854366],[13.35140300875969,46.8583840763734],[13.35271212336465,46.85834341234067],[13.35265496917896,46.85744410632435],[13.35527314842159,46.85736273225297],[13.35521595226851,46.85646342735043],[13.3539068857998,46.85650412151972],[13.35384971439157,46.85560481532826],[13.35254066832817,46.85564549282799],[13.35236923585023,46.85294756892438],[13.34975127164228,46.85302887151801],[13.3499225707136,46.85572680022227],[13.34337729469496,46.85592979100841],[13.34343428821029,46.85682910359634],[13.33950703398483,46.85695071003755],[13.339791705457,46.86144727763298],[13.34895605149819,46.8611632791542],[13.34901314898559,46.862062585621],[13.35032235621213,46.8620219501276]]],"type":"Polygon"}
+}

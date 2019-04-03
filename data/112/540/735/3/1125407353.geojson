@@ -1,0 +1,105 @@
+{
+  "id": 1125407353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,48.35,15.73333,48.35",
+    "geom:latitude":48.35,
+    "geom:longitude":15.73333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":5815,
+    "gn:population":5815,
+    "iso:country":"AT",
+    "lbl:latitude":48.35,
+    "lbl:longitude":15.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0422\u0440\u0430\u0439\u0441\u043c\u0430\u0443\u044d\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0439\u0441\u043c\u0430\u0443\u044d\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u8d56\u65af\u6bdb\u57c3\u5c14"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2763459,
+    "qs_pg:gn_pop":5815,
+    "qs_pg:name":"Traismauer",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":37550,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673678,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763459,
+        "gp:id":12673678,
+        "qs_pg:id":37550
+    },
+    "wof:country":"AT",
+    "wof:created":1497049728,
+    "wof:geomhash":"b62b008c60b890193ef30139e8d05382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125407353,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125407353,
+    "wof:lastmodified":1536698236,
+    "wof:name":"Traismauer",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:population":5815,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836849
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    48.35,
+    15.73333,
+    48.35
+],
+  "geometry": {"coordinates":[15.73333,48.35],"type":"Point"}
+}

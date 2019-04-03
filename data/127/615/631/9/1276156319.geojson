@@ -1,0 +1,74 @@
+{
+  "id": 1276156319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50061,48.08903,13.50061,48.08903",
+    "geom:latitude":48.08903,
+    "geom:longitude":13.50061,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41709.0",
+    "gn:asciiname":"Badstuben",
+    "gn:country_code":"AT",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609581,
+    "gn:latitude":48.08903,
+    "gn:longitude":13.50061,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Badstuben",
+    "gn:population":95,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836437,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609581
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"58c3b17c61f4607569c517ebedf2c88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836437,
+            "locality_id":1276156319,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276156319,
+    "wof:lastmodified":1537015265,
+    "wof:name":"Badstuben",
+    "wof:parent_id":1108836437,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50061,
+    48.08903,
+    13.50061,
+    48.08903
+],
+  "geometry": {"coordinates":[13.50061,48.08903],"type":"Point"}
+}

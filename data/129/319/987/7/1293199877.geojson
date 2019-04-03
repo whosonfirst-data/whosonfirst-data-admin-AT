@@ -1,0 +1,71 @@
+{
+  "id": 1293199877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3,47.38333,13.3,47.38333",
+    "geom:latitude":47.38333,
+    "geom:longitude":13.3,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50412.0",
+    "gn:asciiname":"Pitzen",
+    "gn:country_code":"AT",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2605755,
+    "gn:latitude":47.38333,
+    "gn:longitude":13.3,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Pitzen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837013,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2605755
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"895ef485394835f989b5419f196749e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837013,
+            "locality_id":1293199877,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1293199877,
+    "wof:lastmodified":1536704990,
+    "wof:name":"Pitzen",
+    "wof:parent_id":1108837013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.3,
+    47.38333,
+    13.3,
+    47.38333
+],
+  "geometry": {"coordinates":[13.3,47.38333],"type":"Point"}
+}

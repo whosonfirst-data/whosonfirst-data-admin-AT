@@ -1,0 +1,102 @@
+{
+  "id": 1125894099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45,47.13333,11.45,47.13333",
+    "geom:latitude":47.13333,
+    "geom:longitude":11.45,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.13333,
+    "lbl:longitude":11.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041c\u044e\u043b\u044c\u0431\u0430\u0445\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044e\u043b\u044c\u0431\u0430\u0445\u043b\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044e\u043b\u044c\u0431\u0430\u0445\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u8d6b\u723e\u5df4\u8d6b\u723e"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":3319503,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"M\u00fchlbachl",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Tirol",
+    "qs_pg:photos":11,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":52068,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":20096506,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Tirol",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837549,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319503,
+        "gp:id":20096506,
+        "qs_pg:id":52068
+    },
+    "wof:country":"AT",
+    "wof:created":1497295465,
+    "wof:geomhash":"3301cadfc3a7a1cf59bb5e527f19cef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837549,
+            "locality_id":1125894099,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125894099,
+    "wof:lastmodified":1509399003,
+    "wof:name":"M\u00fchlbachl",
+    "wof:parent_id":1108837549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45,
+    47.13333,
+    11.45,
+    47.13333
+],
+  "geometry": {"coordinates":[11.45,47.13333],"type":"Point"}
+}

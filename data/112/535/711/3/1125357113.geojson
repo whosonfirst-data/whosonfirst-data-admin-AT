@@ -1,0 +1,100 @@
+{
+  "id": 1125357113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66301,47.89264,16.66301,47.89264",
+    "geom:latitude":47.89264,
+    "geom:longitude":16.66301,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1725,
+    "gn:population":1800,
+    "iso:country":"AT",
+    "lbl:latitude":47.89264,
+    "lbl:longitude":16.66301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hrv_x_preferred":[
+        "Bijela Crikva"
+    ],
+    "name:hun_x_preferred":[
+        "Fert\u0151feh\u00e9regyh\u00e1za"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043d\u043d\u0435\u0440\u0441\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u043d\u0435\u0440\u0441\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u043d\u0435\u0440\u0441\u043a\u0456\u0440\u0445\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u5185\u5c14\u65af\u57fa\u5174"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872685,
+    "qs_pg:gn_pop":1725,
+    "qs_pg:name":"Donnerskirchen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":904313,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872685,
+        "qs_pg:id":904313
+    },
+    "wof:country":"AT",
+    "wof:created":1497046542,
+    "wof:geomhash":"e144a5d0db5a9336e3cdf0240cc8dcf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1125357113,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125357113,
+    "wof:lastmodified":1534379195,
+    "wof:name":"Donnerskirchen",
+    "wof:parent_id":102049811,
+    "wof:placetype":"localadmin",
+    "wof:population":1800,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838469
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66301,
+    47.89264,
+    16.66301,
+    47.89264
+],
+  "geometry": {"coordinates":[16.66301,47.89264],"type":"Point"}
+}

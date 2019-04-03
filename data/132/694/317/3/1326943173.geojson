@@ -1,0 +1,74 @@
+{
+  "id": 1326943173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03924,46.56202,14.03924,46.56202",
+    "geom:latitude":46.56202,
+    "geom:longitude":14.03924,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20722.0",
+    "gn:asciiname":"Srajach",
+    "gn:country_code":"AT",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764750,
+    "gn:latitude":46.56202,
+    "gn:longitude":14.03924,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Srajach",
+    "gn:population":135,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838353,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764750
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e1bcaf878b864bcabbf8a4f5291f2c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838353,
+            "locality_id":1326943173,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1326943173,
+    "wof:lastmodified":1536888547,
+    "wof:name":"Srajach",
+    "wof:parent_id":1108838353,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03924,
+    46.56202,
+    14.03924,
+    46.56202
+],
+  "geometry": {"coordinates":[14.03924,46.56202],"type":"Point"}
+}

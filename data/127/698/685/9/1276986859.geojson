@@ -1,0 +1,74 @@
+{
+  "id": 1276986859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85891,48.0525,13.85891,48.0525",
+    "geom:latitude":48.0525,
+    "geom:longitude":13.85891,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"418",
+    "gn:admin3_code":"41803.0",
+    "gn:asciiname":"Haidermoos",
+    "gn:country_code":"AT",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777016,
+    "gn:latitude":48.0525,
+    "gn:longitude":13.85891,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Haidermoos",
+    "gn:population":89,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836541,
+        85632785,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777016
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"68887ee1420cf2bdb76f9b783a3e4c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836541,
+            "locality_id":1276986859,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276986859,
+    "wof:lastmodified":1536897649,
+    "wof:name":"Haidermoos",
+    "wof:parent_id":1108836541,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85891,
+    48.0525,
+    13.85891,
+    48.0525
+],
+  "geometry": {"coordinates":[13.85891,48.0525],"type":"Point"}
+}

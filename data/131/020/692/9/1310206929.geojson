@@ -1,0 +1,74 @@
+{
+  "id": 1310206929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29808,48.15146,15.29808,48.15146",
+    "geom:latitude":48.15146,
+    "geom:longitude":15.29808,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31539.0",
+    "gn:asciiname":"Schweining",
+    "gn:country_code":"AT",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611098,
+    "gn:latitude":48.15146,
+    "gn:longitude":15.29808,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schweining",
+    "gn:population":50,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835729,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611098
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"52ca3f6ec72d388ed769e01e83d25b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835729,
+            "locality_id":1310206929,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310206929,
+    "wof:lastmodified":1536849090,
+    "wof:name":"Schweining",
+    "wof:parent_id":1108835729,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29808,
+    48.15146,
+    15.29808,
+    48.15146
+],
+  "geometry": {"coordinates":[15.29808,48.15146],"type":"Point"}
+}

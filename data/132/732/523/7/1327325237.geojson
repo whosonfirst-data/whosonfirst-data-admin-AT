@@ -1,0 +1,71 @@
+{
+  "id": 1327325237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68306,47.54972,10.68306,47.54972",
+    "geom:latitude":47.54972,
+    "geom:longitude":10.68306,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"708.0",
+    "gn:admin3_code":"70827.0",
+    "gn:asciiname":"Weisshaus",
+    "gn:country_code":"AT",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761574,
+    "gn:latitude":47.54972,
+    "gn:longitude":10.68306,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Wei\u00dfhaus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837765,
+        85632785,
+        102049745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761574
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"665f31238e4a5c5b707d2b497db8a11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837765,
+            "locality_id":1327325237,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1327325237,
+    "wof:lastmodified":1536834579,
+    "wof:name":"Weisshaus",
+    "wof:parent_id":1108837765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68306,
+    47.54972,
+    10.68306,
+    47.54972
+],
+  "geometry": {"coordinates":[10.68306,47.54972],"type":"Point"}
+}

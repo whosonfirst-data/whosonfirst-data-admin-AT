@@ -1,0 +1,82 @@
+{
+  "id": 1125272145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76105,47.95232,16.76105,47.95232",
+    "geom:latitude":47.95232,
+    "geom:longitude":16.76105,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1197,
+    "gn:population":1332,
+    "iso:country":"AT",
+    "lbl:latitude":47.95232,
+    "lbl:longitude":16.76105,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871594,
+    "qs_pg:gn_pop":1197,
+    "qs_pg:name":"Winden am See",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108280,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871594,
+        "qs_pg:id":108280
+    },
+    "wof:country":"AT",
+    "wof:created":1497042169,
+    "wof:geomhash":"9a7807356ea8731d72fd6b448d69ee88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1125272145,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125272145,
+    "wof:lastmodified":1534531010,
+    "wof:name":"Winden am See",
+    "wof:parent_id":102049841,
+    "wof:placetype":"localadmin",
+    "wof:population":1332,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839433
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76105,
+    47.95232,
+    16.76105,
+    47.95232
+],
+  "geometry": {"coordinates":[16.76105,47.95232],"type":"Point"}
+}

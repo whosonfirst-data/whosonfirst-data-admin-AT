@@ -1,0 +1,74 @@
+{
+  "id": 1292927939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66568,47.72339,14.66568,47.72339",
+    "geom:latitude":47.72339,
+    "geom:longitude":14.66568,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61205.0",
+    "gn:asciiname":"Essling",
+    "gn:country_code":"AT",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593156,
+    "gn:latitude":47.72339,
+    "gn:longitude":14.66568,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"E\u00dfling",
+    "gn:population":55,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838969,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593156
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"addfbf6a14690c2ed353733f538dfb2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838969,
+            "locality_id":1292927939,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1292927939,
+    "wof:lastmodified":1537093616,
+    "wof:name":"Essling",
+    "wof:parent_id":1108838969,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66568,
+    47.72339,
+    14.66568,
+    47.72339
+],
+  "geometry": {"coordinates":[14.66568,47.72339],"type":"Point"}
+}

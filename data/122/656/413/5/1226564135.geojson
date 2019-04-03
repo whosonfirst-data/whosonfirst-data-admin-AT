@@ -1,0 +1,79 @@
+{
+  "id": 1226564135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,47.13333,15.56667,47.13333",
+    "geom:latitude":47.13333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606",
+    "gn:admin3_code":"60661.0",
+    "gn:asciiname":"Hart bei Eggersdorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776809,
+    "gn:latitude":47.13333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hart bei Eggersdorf",
+    "gn:population":627,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hart",
+        "Hart bei Eggersdorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839209,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776809
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3af24b08a1134ffb345270af463ea9de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839209,
+            "locality_id":1226564135,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226564135,
+    "wof:lastmodified":1537584967,
+    "wof:name":"Hart bei Eggersdorf",
+    "wof:parent_id":1108839209,
+    "wof:placetype":"locality",
+    "wof:population":627,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    47.13333,
+    15.56667,
+    47.13333
+],
+  "geometry": {"coordinates":[15.56667,47.13333],"type":"Point"}
+}

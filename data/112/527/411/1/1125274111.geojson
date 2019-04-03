@@ -1,0 +1,82 @@
+{
+  "id": 1125274111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96103,46.73992,14.96103,46.73992",
+    "geom:latitude":46.73992,
+    "geom:longitude":14.96103,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2048,
+    "gn:population":2009,
+    "iso:country":"AT",
+    "lbl:latitude":46.73992,
+    "lbl:longitude":14.96103,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872809,
+    "qs_pg:gn_pop":2048,
+    "qs_pg:name":"St. Georgen im Lavanttal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108711,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872809,
+        "qs_pg:id":108711
+    },
+    "wof:country":"AT",
+    "wof:created":1497042247,
+    "wof:geomhash":"f887a995e5ae1ee3d3e9c98a4f5f3a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1125274111,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125274111,
+    "wof:lastmodified":1536698123,
+    "wof:name":"St. Georgen im Lavanttal",
+    "wof:parent_id":102049693,
+    "wof:placetype":"localadmin",
+    "wof:population":2009,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838109
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96103,
+    46.73992,
+    14.96103,
+    46.73992
+],
+  "geometry": {"coordinates":[14.96103,46.73992],"type":"Point"}
+}

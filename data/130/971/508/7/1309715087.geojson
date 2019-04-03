@@ -1,0 +1,74 @@
+{
+  "id": 1309715087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11743,46.78666,14.11743,46.78666",
+    "geom:latitude":46.78666,
+    "geom:longitude":14.11743,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21010.0",
+    "gn:asciiname":"Felfern",
+    "gn:country_code":"AT",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594048,
+    "gn:latitude":46.78666,
+    "gn:longitude":14.11743,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Felfern",
+    "gn:population":39,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838141,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594048
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f437806c0947c85f790d63da2361c4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838141,
+            "locality_id":1309715087,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1309715087,
+    "wof:lastmodified":1537059297,
+    "wof:name":"Felfern",
+    "wof:parent_id":1108838141,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11743,
+    46.78666,
+    14.11743,
+    46.78666
+],
+  "geometry": {"coordinates":[14.11743,46.78666],"type":"Point"}
+}

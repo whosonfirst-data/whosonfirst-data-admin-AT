@@ -1,0 +1,94 @@
+{
+  "id": 1125284271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.40863,47.35679,12.40863,47.35679",
+    "geom:latitude":47.35679,
+    "geom:longitude":12.40863,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1541,
+    "gn:population":1561,
+    "iso:country":"AT",
+    "lbl:latitude":47.35679,
+    "lbl:longitude":12.40863,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0419\u043e\u0445\u0431\u0435\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u0445\u0431\u0435\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0419\u043e\u0445\u0431\u0435\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea6\u8d6b\u8d1d\u683c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872558,
+    "qs_pg:gn_pop":1541,
+    "qs_pg:name":"Jochberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155290,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681661,
+        102049763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872558,
+        "qs_pg:id":1155290
+    },
+    "wof:country":"AT",
+    "wof:created":1497042635,
+    "wof:geomhash":"b1301809d330f368eb323c6a6e9e80ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1125284271,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125284271,
+    "wof:lastmodified":1534531012,
+    "wof:name":"Jochberg",
+    "wof:parent_id":102049763,
+    "wof:placetype":"localadmin",
+    "wof:population":1561,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837347
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.40863,
+    47.35679,
+    12.40863,
+    47.35679
+],
+  "geometry": {"coordinates":[12.40863,47.35679],"type":"Point"}
+}

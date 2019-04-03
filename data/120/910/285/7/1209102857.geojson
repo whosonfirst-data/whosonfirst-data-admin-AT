@@ -1,0 +1,63 @@
+{
+  "id": 1209102857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.71222,47.19611,9.71222,47.19611",
+    "geom:latitude":47.19611,
+    "geom:longitude":9.71222,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801",
+    "gn:admin3_code":"80104.0",
+    "gn:asciiname":"Gais",
+    "gn:country_code":"AT",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324299,
+    "gn:latitude":47.19611,
+    "gn:longitude":9.71222,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Gais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324299
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9dbfb1355408ac112b63825a80669232",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209102857
+        }
+    ],
+    "wof:id":1209102857,
+    "wof:lastmodified":1536297677,
+    "wof:name":"Gais",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.71222,
+    47.19611,
+    9.71222,
+    47.19611
+],
+  "geometry": {"coordinates":[9.71222,47.19611],"type":"Point"}
+}

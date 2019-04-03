@@ -1,0 +1,75 @@
+{
+  "id": 1260102351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7616,47.18922,15.7616,47.18922",
+    "geom:latitude":47.18922,
+    "geom:longitude":15.7616,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61764.0",
+    "gn:asciiname":"Reichendorf",
+    "gn:country_code":"AT",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2767769,
+    "gn:latitude":47.18922,
+    "gn:longitude":15.7616,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reichendorf",
+    "gn:population":614,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838895,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767769,
+        "wk:page":"Reichendorf"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a1b1ac85e0784992e1374142adbfbd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838895,
+            "locality_id":1260102351,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1260102351,
+    "wof:lastmodified":1537486370,
+    "wof:name":"Reichendorf",
+    "wof:parent_id":1108838895,
+    "wof:placetype":"locality",
+    "wof:population":614,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7616,
+    47.18922,
+    15.7616,
+    47.18922
+],
+  "geometry": {"coordinates":[15.7616,47.18922],"type":"Point"}
+}

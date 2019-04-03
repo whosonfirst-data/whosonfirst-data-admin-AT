@@ -1,0 +1,74 @@
+{
+  "id": 1260292247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40524,48.13173,15.40524,48.13173",
+    "geom:latitude":48.13173,
+    "geom:longitude":15.40524,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31513.0",
+    "gn:asciiname":"Oberhaag",
+    "gn:country_code":"AT",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770085,
+    "gn:latitude":48.13173,
+    "gn:longitude":15.40524,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberhaag",
+    "gn:population":15,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835445,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770085
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"82ccd406053f84d53da713783da1d2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835445,
+            "locality_id":1260292247,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1260292247,
+    "wof:lastmodified":1536700392,
+    "wof:name":"Oberhaag",
+    "wof:parent_id":1108835445,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40524,
+    48.13173,
+    15.40524,
+    48.13173
+],
+  "geometry": {"coordinates":[15.40524,48.13173],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309704809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01664,47.39754,15.01664,47.39754",
+    "geom:latitude":47.39754,
+    "geom:longitude":15.01664,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"611",
+    "gn:admin3_code":"61114.0",
+    "gn:asciiname":"Hessenberg",
+    "gn:country_code":"AT",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593196,
+    "gn:latitude":47.39754,
+    "gn:longitude":15.01664,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hessenberg",
+    "gn:population":795,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838995,
+        85632785,
+        102049769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593196
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b7934bc81cf6bfd9c3097c8b17ec6586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838995,
+            "locality_id":1309704809,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1309704809,
+    "wof:lastmodified":1537073694,
+    "wof:name":"Hessenberg",
+    "wof:parent_id":1108838995,
+    "wof:placetype":"locality",
+    "wof:population":795,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01664,
+    47.39754,
+    15.01664,
+    47.39754
+],
+  "geometry": {"coordinates":[15.01664,47.39754],"type":"Point"}
+}

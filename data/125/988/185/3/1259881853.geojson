@@ -1,0 +1,74 @@
+{
+  "id": 1259881853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7,48.15,14.7,48.15",
+    "geom:latitude":48.15,
+    "geom:longitude":14.7,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30538.0",
+    "gn:asciiname":"Igelschwang",
+    "gn:country_code":"AT",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775342,
+    "gn:latitude":48.15,
+    "gn:longitude":14.7,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Igelschwang",
+    "gn:population":73,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835323,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775342
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b975911c962e8c0f12c817a2b013939b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835323,
+            "locality_id":1259881853,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259881853,
+    "wof:lastmodified":1536782003,
+    "wof:name":"Igelschwang",
+    "wof:parent_id":1108835323,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7,
+    48.15,
+    14.7,
+    48.15
+],
+  "geometry": {"coordinates":[14.7,48.15],"type":"Point"}
+}

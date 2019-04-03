@@ -1,0 +1,63 @@
+{
+  "id": 1209627023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55,48.05,14.55,48.05",
+    "geom:latitude":48.05,
+    "geom:longitude":14.55,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30539.0",
+    "gn:asciiname":"Ofner",
+    "gn:country_code":"AT",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769468,
+    "gn:latitude":48.05,
+    "gn:longitude":14.55,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Ofner",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769468
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5c107ee3e3260c02788bde86f505f685",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209627023
+        }
+    ],
+    "wof:id":1209627023,
+    "wof:lastmodified":1536281322,
+    "wof:name":"Ofner",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55,
+    48.05,
+    14.55,
+    48.05
+],
+  "geometry": {"coordinates":[14.55,48.05],"type":"Point"}
+}

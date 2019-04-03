@@ -1,0 +1,71 @@
+{
+  "id": 1242679569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23941,48.08204,15.23941,48.08204",
+    "geom:latitude":48.08204,
+    "geom:longitude":15.23941,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"320",
+    "gn:admin3_code":"32006.0",
+    "gn:asciiname":"Bogenhof",
+    "gn:country_code":"AT",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610467,
+    "gn:latitude":48.08204,
+    "gn:longitude":15.23941,
+    "gn:modification_date":"2017-07-17",
+    "gn:name":"Bogenhof",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834949,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610467
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bc9906476a6c4b6fe652165b137decad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108834949,
+            "locality_id":1242679569,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1242679569,
+    "wof:lastmodified":1536917441,
+    "wof:name":"Bogenhof",
+    "wof:parent_id":1108834949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23941,
+    48.08204,
+    15.23941,
+    48.08204
+],
+  "geometry": {"coordinates":[15.23941,48.08204],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209736853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.0,47.55,12.0,47.55",
+    "geom:latitude":47.55,
+    "geom:longitude":12.0,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70527.0",
+    "gn:asciiname":"Riedenberg",
+    "gn:country_code":"AT",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767479,
+    "gn:latitude":47.55,
+    "gn:longitude":12.0,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Riedenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837271,
+        85632785,
+        102049771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767479
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"acfb3d106fcf0fc9d18dffc1b0fce372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1108837271,
+            "locality_id":1209736853,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1209736853,
+    "wof:lastmodified":1536372798,
+    "wof:name":"Riedenberg",
+    "wof:parent_id":1108837271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0,
+    47.55,
+    12.0,
+    47.55
+],
+  "geometry": {"coordinates":[12.0,47.55],"type":"Point"}
+}

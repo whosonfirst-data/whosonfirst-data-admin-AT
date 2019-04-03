@@ -1,0 +1,82 @@
+{
+  "id": 1125282007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.29267,47.94785,16.29267,47.94785",
+    "geom:latitude":47.94785,
+    "geom:longitude":16.29267,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1666,
+    "gn:population":1821,
+    "iso:country":"AT",
+    "lbl:latitude":47.94785,
+    "lbl:longitude":16.29267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872845,
+    "qs_pg:gn_pop":1666,
+    "qs_pg:name":"Teesdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":381064,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872845,
+        "qs_pg:id":381064
+    },
+    "wof:country":"AT",
+    "wof:created":1497042538,
+    "wof:geomhash":"33c665e0a57b3a02e9e3fe09256b3957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1125282007,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125282007,
+    "wof:lastmodified":1534379134,
+    "wof:name":"Teesdorf",
+    "wof:parent_id":102049829,
+    "wof:placetype":"localadmin",
+    "wof:population":1821,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834909
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.29267,
+    47.94785,
+    16.29267,
+    47.94785
+],
+  "geometry": {"coordinates":[16.29267,47.94785],"type":"Point"}
+}

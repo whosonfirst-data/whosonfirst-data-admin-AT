@@ -1,0 +1,71 @@
+{
+  "id": 1226563333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.58333,46.98333,10.58333,46.98333",
+    "geom:latitude":46.98333,
+    "geom:longitude":10.58333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"706",
+    "gn:admin3_code":"70617.0",
+    "gn:asciiname":"Eggele",
+    "gn:country_code":"AT",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780370,
+    "gn:latitude":46.98333,
+    "gn:longitude":10.58333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Eggele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837315,
+        85632785,
+        102049707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780370
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f1c1e7e51f37458b03d6f6735487f89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837315,
+            "locality_id":1226563333,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1226563333,
+    "wof:lastmodified":1536972384,
+    "wof:name":"Eggele",
+    "wof:parent_id":1108837315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58333,
+    46.98333,
+    10.58333,
+    46.98333
+],
+  "geometry": {"coordinates":[10.58333,46.98333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226442939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.09486,48.35174,14.09486,48.35174",
+    "geom:latitude":48.35174,
+    "geom:longitude":14.09486,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"416",
+    "gn:admin3_code":"41606.0",
+    "gn:asciiname":"Freudenstein",
+    "gn:country_code":"AT",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779258,
+    "gn:latitude":48.35174,
+    "gn:longitude":14.09486,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Freudenstein",
+    "gn:population":518,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836147,
+        85632785,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779258
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"926e60df69db3e3b091a9c8b5747ddbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836147,
+            "locality_id":1226442939,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226442939,
+    "wof:lastmodified":1536649263,
+    "wof:name":"Freudenstein",
+    "wof:parent_id":1108836147,
+    "wof:placetype":"locality",
+    "wof:population":518,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.09486,
+    48.35174,
+    14.09486,
+    48.35174
+],
+  "geometry": {"coordinates":[14.09486,48.35174],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1125270587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4,48.55,16.4,48.55",
+    "geom:latitude":48.55,
+    "geom:longitude":16.4,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.55,
+    "lbl:longitude":16.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u0439\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u0439\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u83b1\u65af"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2770560,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Niederleis",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":185,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":265,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904951,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674030,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770560,
+        "gp:id":12674030,
+        "qs_pg:id":904951
+    },
+    "wof:country":"AT",
+    "wof:created":1497042108,
+    "wof:geomhash":"7863aa78469986d92b083b421add0485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1125270587,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125270587,
+    "wof:lastmodified":1534379223,
+    "wof:name":"Niederleis",
+    "wof:parent_id":102049897,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836779
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4,
+    48.55,
+    16.4,
+    48.55
+],
+  "geometry": {"coordinates":[16.4,48.55],"type":"Point"}
+}

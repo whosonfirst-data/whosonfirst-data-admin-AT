@@ -1,0 +1,74 @@
+{
+  "id": 1276553803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75643,48.54269,13.75643,48.54269",
+    "geom:latitude":48.54269,
+    "geom:longitude":13.75643,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41329.0",
+    "gn:asciiname":"Oberaschenberg",
+    "gn:country_code":"AT",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319389,
+    "gn:latitude":48.54269,
+    "gn:longitude":13.75643,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberaschenberg",
+    "gn:population":22,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835993,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319389
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1702e3a3d090197c85a5bf95bd4fe786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835993,
+            "locality_id":1276553803,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276553803,
+    "wof:lastmodified":1536979913,
+    "wof:name":"Oberaschenberg",
+    "wof:parent_id":1108835993,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75643,
+    48.54269,
+    13.75643,
+    48.54269
+],
+  "geometry": {"coordinates":[13.75643,48.54269],"type":"Point"}
+}

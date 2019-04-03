@@ -1,0 +1,78 @@
+{
+  "id": 1293397545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00159,47.79863,16.00159,47.79863",
+    "geom:latitude":47.79863,
+    "geom:longitude":16.00159,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"318",
+    "gn:admin3_code":"31813.0",
+    "gn:asciiname":"Neusiedl am Walde",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770680,
+    "gn:latitude":47.79863,
+    "gn:longitude":16.00159,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Neusiedl am Walde",
+    "gn:population":167,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neusiedl"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835929,
+        85632785,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770680
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d30543d65f3db5c3e7d1d3e3229815a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835929,
+            "locality_id":1293397545,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293397545,
+    "wof:lastmodified":1537584949,
+    "wof:name":"Neusiedl am Walde",
+    "wof:parent_id":1108835929,
+    "wof:placetype":"locality",
+    "wof:population":167,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00159,
+    47.79863,
+    16.00159,
+    47.79863
+],
+  "geometry": {"coordinates":[16.00159,47.79863],"type":"Point"}
+}

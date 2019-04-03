@@ -1,0 +1,71 @@
+{
+  "id": 1276122997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.02361,47.945,13.02361,47.945",
+    "geom:latitude":47.945,
+    "geom:longitude":13.02361,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50327.0",
+    "gn:asciiname":"Gaisberg",
+    "gn:country_code":"AT",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3323051,
+    "gn:latitude":47.945,
+    "gn:longitude":13.02361,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Gaisberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837169,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3323051
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5778f068e5f82c9af4f750a4b6867bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837169,
+            "locality_id":1276122997,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1276122997,
+    "wof:lastmodified":1537057850,
+    "wof:name":"Gaisberg",
+    "wof:parent_id":1108837169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02361,
+    47.945,
+    13.02361,
+    47.945
+],
+  "geometry": {"coordinates":[13.02361,47.945],"type":"Point"}
+}

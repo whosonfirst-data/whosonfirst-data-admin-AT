@@ -1,0 +1,82 @@
+{
+  "id": 1125328893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17672,47.7345,16.17672,47.7345",
+    "geom:latitude":47.7345,
+    "geom:longitude":16.17672,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1869,
+    "gn:population":1919,
+    "iso:country":"AT",
+    "lbl:latitude":47.7345,
+    "lbl:longitude":16.17672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871870,
+    "qs_pg:gn_pop":1869,
+    "qs_pg:name":"Schwarzau am Steinfeld",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108411,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871870,
+        "qs_pg:id":108411
+    },
+    "wof:country":"AT",
+    "wof:created":1497045000,
+    "wof:geomhash":"817e9833076dca0171a5b0f39b488e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1125328893,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125328893,
+    "wof:lastmodified":1534379119,
+    "wof:name":"Schwarzau am Steinfeld",
+    "wof:parent_id":102049791,
+    "wof:placetype":"localadmin",
+    "wof:population":1919,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836345
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17672,
+    47.7345,
+    16.17672,
+    47.7345
+],
+  "geometry": {"coordinates":[16.17672,47.7345],"type":"Point"}
+}

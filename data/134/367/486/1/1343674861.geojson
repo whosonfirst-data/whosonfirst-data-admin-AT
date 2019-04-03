@@ -1,0 +1,80 @@
+{
+  "id": 1343674861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77361,46.59861,14.77361,46.59861",
+    "geom:latitude":46.59861,
+    "geom:longitude":14.77361,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20801.0",
+    "gn:asciiname":"Moos",
+    "gn:country_code":"AT",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771267,
+    "gn:latitude":46.59861,
+    "gn:longitude":14.77361,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Moos",
+    "gn:population":155,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Moos"
+    ],
+    "name:slv_x_preferred":[
+        "Blato"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838365,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771267
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"515d39b85c1ef31654cf36a9b44f21de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838365,
+            "locality_id":1343674861,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1343674861,
+    "wof:lastmodified":1537584952,
+    "wof:name":"Moos",
+    "wof:parent_id":1108838365,
+    "wof:placetype":"locality",
+    "wof:population":155,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77361,
+    46.59861,
+    14.77361,
+    46.59861
+],
+  "geometry": {"coordinates":[14.77361,46.59861],"type":"Point"}
+}

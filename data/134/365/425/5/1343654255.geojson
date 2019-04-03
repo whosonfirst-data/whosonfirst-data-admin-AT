@@ -1,0 +1,87 @@
+{
+  "id": 1343654255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31861,46.82444,15.31861,46.82444",
+    "geom:latitude":46.82444,
+    "geom:longitude":15.31861,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60346.0",
+    "gn:asciiname":"Gross Sankt Florian",
+    "gn:country_code":"AT",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2777603,
+    "gn:latitude":46.82444,
+    "gn:longitude":15.31861,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gro\u00df Sankt Florian",
+    "gn:population":911,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0421\u0430\u043d\u043a\u0442-\u0424\u043b\u043e\u0440\u0438\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u0441-\u0421\u0430\u043d\u043a\u0442-\u0424\u043b\u043e\u0440\u0438\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Gro\u00df Sankt Florian"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5723\u5f17\u6d1b\u91cc\u5b89"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839295,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777603,
+        "wk:page":"Gro%C3%9F_Sankt_Florian"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"541252fb125d0c63ab6ac9bff517bb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839295,
+            "locality_id":1343654255,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343654255,
+    "wof:lastmodified":1537584970,
+    "wof:name":"Gross Sankt Florian",
+    "wof:parent_id":1108839295,
+    "wof:placetype":"locality",
+    "wof:population":911,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31861,
+    46.82444,
+    15.31861,
+    46.82444
+],
+  "geometry": {"coordinates":[15.31861,46.82444],"type":"Point"}
+}

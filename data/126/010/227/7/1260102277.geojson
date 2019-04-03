@@ -1,0 +1,79 @@
+{
+  "id": 1260102277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63027,47.70697,14.63027,47.70697",
+    "geom:latitude":47.70697,
+    "geom:longitude":14.63027,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61264.0",
+    "gn:asciiname":"Weissenbach an der Enns",
+    "gn:country_code":"AT",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761616,
+    "gn:latitude":47.70697,
+    "gn:longitude":14.63027,
+    "gn:modification_date":"2018-08-01",
+    "gn:name":"Wei\u00dfenbach an der Enns",
+    "gn:population":304,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weissenbach",
+        "Weissenbach an der Enns"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838901,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761616,
+        "wk:page":"Wei%C3%9Fenbach_an_der_Enns"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cbf2ef8bf6a62d3bbafacba97c533b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838901,
+            "locality_id":1260102277,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1260102277,
+    "wof:lastmodified":1537584914,
+    "wof:name":"Weissenbach an der Enns",
+    "wof:parent_id":1108838901,
+    "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63027,
+    47.70697,
+    14.63027,
+    47.70697
+],
+  "geometry": {"coordinates":[14.63027,47.70697],"type":"Point"}
+}

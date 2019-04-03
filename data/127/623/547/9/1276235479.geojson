@@ -1,0 +1,79 @@
+{
+  "id": 1276235479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85083,48.69889,15.85083,48.69889",
+    "geom:latitude":48.69889,
+    "geom:longitude":15.85083,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"310",
+    "gn:admin3_code":"31035.0",
+    "gn:asciiname":"Gross-Reipersdorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777610,
+    "gn:latitude":48.69889,
+    "gn:longitude":15.85083,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gro\u00df-Reipersdorf",
+    "gn:population":148,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grossreipersdorf",
+        "Gro\u00df-Reipersdorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835787,
+        85632785,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777610
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"256ce2ad9508593e3b6943baeb684f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835787,
+            "locality_id":1276235479,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276235479,
+    "wof:lastmodified":1537584970,
+    "wof:name":"Gross-Reipersdorf",
+    "wof:parent_id":1108835787,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85083,
+    48.69889000000001,
+    15.85083,
+    48.69889000000001
+],
+  "geometry": {"coordinates":[15.85083,48.69889000000001],"type":"Point"}
+}

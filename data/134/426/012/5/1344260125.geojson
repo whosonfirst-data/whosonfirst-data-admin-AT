@@ -1,0 +1,74 @@
+{
+  "id": 1344260125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58528,46.69833,14.58528,46.69833",
+    "geom:latitude":46.69833,
+    "geom:longitude":14.58528,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20817.0",
+    "gn:asciiname":"Mittertrixen",
+    "gn:country_code":"AT",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771376,
+    "gn:latitude":46.69833,
+    "gn:longitude":14.58528,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mittertrixen",
+    "gn:population":166,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838391,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771376
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4bdc3126fd642180c39d1b4db2607ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838391,
+            "locality_id":1344260125,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1344260125,
+    "wof:lastmodified":1537081456,
+    "wof:name":"Mittertrixen",
+    "wof:parent_id":1108838391,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58528,
+    46.69833,
+    14.58528,
+    46.69833
+],
+  "geometry": {"coordinates":[14.58528,46.69833],"type":"Point"}
+}

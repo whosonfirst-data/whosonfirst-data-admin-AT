@@ -1,0 +1,101 @@
+{
+  "id": 1125342953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.27585,47.25046,12.27585,47.25046",
+    "geom:latitude":47.25046,
+    "geom:longitude":12.27585,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.25046,
+    "lbl:longitude":12.27585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Neukirchen am Grossvenediger"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u043a\u0438\u0440\u0445\u0435\u043d-\u0430\u043c-\u0413\u0440\u043e\u0441\u0444\u0435\u043d\u0435\u0434\u0438\u0433\u0435\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Neukirchen"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2770740,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Neukirchen am Gro\u00dfvenediger",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":279,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1317368,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674785,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770740,
+        "gp:id":12674785,
+        "qs_pg:id":1317368
+    },
+    "wof:country":"AT",
+    "wof:created":1497045767,
+    "wof:geomhash":"d05e0ebc901ffb2aae8409f2157cd848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125342953,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125342953,
+    "wof:lastmodified":1534379088,
+    "wof:name":"Neukirchen am Gro\u00dfvenediger",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125409567
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.27585,
+    47.25046,
+    12.27585,
+    47.25046
+],
+  "geometry": {"coordinates":[12.27585,47.25046],"type":"Point"}
+}

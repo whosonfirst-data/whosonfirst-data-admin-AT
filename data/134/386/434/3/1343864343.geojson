@@ -1,0 +1,74 @@
+{
+  "id": 1343864343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08267,48.04464,14.08267,48.04464",
+    "geom:latitude":48.04464,
+    "geom:longitude":14.08267,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"409.0",
+    "gn:admin3_code":"40913.0",
+    "gn:asciiname":"Weigersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761730,
+    "gn:latitude":48.04464,
+    "gn:longitude":14.08267,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Weigersdorf",
+    "gn:population":99,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835493,
+        85632785,
+        102049815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761730
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7739c70856aa35673c6432d2c9887184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1108835493,
+            "locality_id":1343864343,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343864343,
+    "wof:lastmodified":1536661010,
+    "wof:name":"Weigersdorf",
+    "wof:parent_id":1108835493,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08267,
+    48.04464,
+    14.08267,
+    48.04464
+],
+  "geometry": {"coordinates":[14.08267,48.04464],"type":"Point"}
+}

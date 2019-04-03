@@ -1,0 +1,71 @@
+{
+  "id": 1226744933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71667,47.06667,15.71667,47.06667",
+    "geom:latitude":47.06667,
+    "geom:longitude":15.71667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61746.0",
+    "gn:asciiname":"Grossglawoggen",
+    "gn:country_code":"AT",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777699,
+    "gn:latitude":47.06667,
+    "gn:longitude":15.71667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Grossglawoggen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838909,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777699
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3f7825018b04c46aa7bde0f7153b9fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838909,
+            "locality_id":1226744933,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226744933,
+    "wof:lastmodified":1536717027,
+    "wof:name":"Grossglawoggen",
+    "wof:parent_id":1108838909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71667,
+    47.06667,
+    15.71667,
+    47.06667
+],
+  "geometry": {"coordinates":[15.71667,47.06667],"type":"Point"}
+}

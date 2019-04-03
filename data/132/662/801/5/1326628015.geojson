@@ -1,0 +1,74 @@
+{
+  "id": 1326628015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70651,47.27129,14.70651,47.27129",
+    "geom:latitude":47.27129,
+    "geom:longitude":14.70651,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"620",
+    "gn:admin3_code":"62008.0",
+    "gn:asciiname":"Bischoffeld",
+    "gn:country_code":"AT",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781737,
+    "gn:latitude":47.27129,
+    "gn:longitude":14.70651,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bischoffeld",
+    "gn:population":292,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838923,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781737
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"470b92821a90849904d8cc085cc0f48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108838923,
+            "locality_id":1326628015,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1326628015,
+    "wof:lastmodified":1536844861,
+    "wof:name":"Bischoffeld",
+    "wof:parent_id":1108838923,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70651,
+    47.27129,
+    14.70651,
+    47.27129
+],
+  "geometry": {"coordinates":[14.70651,47.27129],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125381259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36124,46.77419,13.36124,46.77419",
+    "geom:latitude":46.77419,
+    "geom:longitude":13.36124,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1254,
+    "gn:population":1179,
+    "iso:country":"AT",
+    "lbl:latitude":46.77419,
+    "lbl:longitude":13.36124,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872782,
+    "qs_pg:gn_pop":1254,
+    "qs_pg:name":"Kleblach-Lind",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":381051,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872782,
+        "qs_pg:id":381051
+    },
+    "wof:country":"AT",
+    "wof:created":1497048063,
+    "wof:geomhash":"2ca96af67fb971526676053d4e726eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1125381259,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125381259,
+    "wof:lastmodified":1536698217,
+    "wof:name":"Kleblach-Lind",
+    "wof:parent_id":102049701,
+    "wof:placetype":"localadmin",
+    "wof:population":1179,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838271
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36124,
+    46.77419,
+    13.36124,
+    46.77419
+],
+  "geometry": {"coordinates":[13.36124,46.77419],"type":"Point"}
+}

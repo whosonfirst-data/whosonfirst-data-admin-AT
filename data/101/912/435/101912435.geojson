@@ -1,0 +1,78 @@
+{
+  "id": 101912435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":467234.479992,
+    "geom:bbox":"15.8276233262,47.6204200107,15.8393862262,47.6416135329",
+    "geom:latitude":47.632174,
+    "geom:longitude":15.834173,
+    "iso:country":"AT",
+    "lbl:latitude":47.627965,
+    "lbl:longitude":15.836746,
+    "mps:latitude":47.627965,
+    "mps:longitude":15.836746,
+    "mz:hierarchy_label":1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Nieder\u00f6sterreich",
+    "qs:a1r":"7",
+    "qs:a2":"Neunkirchen",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:id":0,
+    "qs:la":"Semmering",
+    "qs:la_lc":"*AT31838",
+    "qs:level":"locality",
+    "qs:loc":"Semmering-kurort",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835823,
+        85632785,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28995927,
+        "qs:id":1128632,
+        "qs_pg:id":1128632
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bb333b5e6a8d7a6ef228a37ee0ba79e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835823,
+            "locality_id":101912435,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":101912435,
+    "wof:lastmodified":1497290120,
+    "wof:name":"Semmering-kurort",
+    "wof:parent_id":1108835823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82762332621292,
+    47.62042001074059,
+    15.83938622622338,
+    47.64161353285141
+],
+  "geometry": {"coordinates":[[[[15.83128445292476,47.63313180129836],[15.82762332621292,47.63908245105461],[15.82928004174761,47.63899401524731],[15.82938173021967,47.63989080847045],[15.83070837875488,47.63981995084276],[15.83091181505949,47.64161353285141],[15.8322385060718,47.64154265628844],[15.83183155997347,47.63795549584563],[15.83315815608699,47.63788460889032],[15.83305640797983,47.63698781887791],[15.83438297788331,47.63691691726018],[15.83407769203586,47.63422654831265],[15.832751190804,47.63429744565775],[15.83264946079345,47.63340065352332],[15.83132297913437,47.63347153335917],[15.83128445292476,47.63313180129836]]],[[[15.8391027301044,47.62042428449973],[15.83278893076465,47.63068648284985],[15.83632351699976,47.63049755073405],[15.83642530209778,47.63139434018808],[15.83907814401408,47.63125244144857],[15.8380600390438,47.62228455150239],[15.83938622622338,47.62221359225731],[15.83918261379051,47.62042001074059],[15.8391027301044,47.62042428449973]]]],"type":"MultiPolygon"}
+}

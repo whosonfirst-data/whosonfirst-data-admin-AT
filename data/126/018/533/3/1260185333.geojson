@@ -1,0 +1,79 @@
+{
+  "id": 1260185333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52056,46.61861,13.52056,46.61861",
+    "geom:latitude":46.61861,
+    "geom:longitude":13.52056,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"203.0",
+    "gn:admin3_code":"20316.0",
+    "gn:asciiname":"Sankt Paul an der Gail",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766460,
+    "gn:latitude":46.61861,
+    "gn:longitude":13.52056,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Paul an der Gail",
+    "gn:population":99,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Paul",
+        "Sankt Paul an der Gail"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838157,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766460
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9605ce9b1e58134f654648dd1ec4d8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838157,
+            "locality_id":1260185333,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1260185333,
+    "wof:lastmodified":1537584930,
+    "wof:name":"Sankt Paul an der Gail",
+    "wof:parent_id":1108838157,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52056,
+    46.61861,
+    13.52056,
+    46.61861
+],
+  "geometry": {"coordinates":[13.52056,46.61861],"type":"Point"}
+}

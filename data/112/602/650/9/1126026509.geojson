@@ -1,0 +1,103 @@
+{
+  "id": 1126026509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6114,46.697669,15.6114,46.697669",
+    "geom:latitude":46.697669,
+    "geom:longitude":15.6114,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":46.697669,
+    "lbl:longitude":15.6114,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ciringa"
+    ],
+    "name:eng_x_preferred":[
+        "Ciringa"
+    ],
+    "name:hrv_x_preferred":[
+        "Ciringa"
+    ],
+    "name:rum_x_preferred":[
+        "Ciringa"
+    ],
+    "name:slv_x_preferred":[
+        "Ciringa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0438\u0440\u0438\u043d\u0433\u0430"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ciringa",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Pesnica",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1024649,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55851422,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Pesnica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839025,
+        85632785,
+        102049699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55851422,
+        "qs_pg:id":1024649,
+        "wd:id":"Q2194404"
+    },
+    "wof:country":"AT",
+    "wof:created":1497301174,
+    "wof:geomhash":"83675ae65af247a73ef6a439b6a51097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839025,
+            "locality_id":1126026509,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1126026509,
+    "wof:lastmodified":1513889675,
+    "wof:name":"Ciringa",
+    "wof:parent_id":1108839025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6114,
+    46.697669,
+    15.6114,
+    46.697669
+],
+  "geometry": {"coordinates":[15.6114,46.697669],"type":"Point"}
+}

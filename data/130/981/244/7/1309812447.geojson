@@ -1,0 +1,71 @@
+{
+  "id": 1309812447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9,46.66667,14.9,46.66667",
+    "geom:latitude":46.66667,
+    "geom:longitude":14.9,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"209",
+    "gn:admin3_code":"20909.0",
+    "gn:asciiname":"Legerbuch",
+    "gn:country_code":"AT",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772779,
+    "gn:latitude":46.66667,
+    "gn:longitude":14.9,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Legerbuch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838397,
+        85632785,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772779
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4ce56ec785fde2150af8186942d87f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838397,
+            "locality_id":1309812447,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1309812447,
+    "wof:lastmodified":1536922043,
+    "wof:name":"Legerbuch",
+    "wof:parent_id":1108838397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9,
+    46.66667,
+    14.9,
+    46.66667
+],
+  "geometry": {"coordinates":[14.9,46.66667],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125355627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99509,48.52582,13.99509,48.52582",
+    "geom:latitude":48.52582,
+    "geom:longitude":13.99509,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1100,
+    "gn:population":1154,
+    "iso:country":"AT",
+    "lbl:latitude":48.52582,
+    "lbl:longitude":13.99509,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872103,
+    "qs_pg:gn_pop":1100,
+    "qs_pg:name":"Arnreit",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743328,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872103,
+        "qs_pg:id":743328
+    },
+    "wof:country":"AT",
+    "wof:created":1497046455,
+    "wof:geomhash":"97f81cbb6f034a929fb1be436b439844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1125355627,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125355627,
+    "wof:lastmodified":1534530979,
+    "wof:name":"Arnreit",
+    "wof:parent_id":102049889,
+    "wof:placetype":"localadmin",
+    "wof:population":1154,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835715
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99509,
+    48.52582,
+    13.99509,
+    48.52582
+],
+  "geometry": {"coordinates":[13.99509,48.52582],"type":"Point"}
+}

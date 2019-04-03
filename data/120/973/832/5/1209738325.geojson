@@ -1,0 +1,74 @@
+{
+  "id": 1209738325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.97176,47.16124,12.97176,47.16124",
+    "geom:latitude":47.16124,
+    "geom:longitude":12.97176,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50617.0",
+    "gn:asciiname":"Bucheben",
+    "gn:country_code":"AT",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781246,
+    "gn:latitude":47.16124,
+    "gn:longitude":12.97176,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bucheben",
+    "gn:population":162,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837229,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781246
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3661918dff9171339eefb393db997458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837229,
+            "locality_id":1209738325,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1209738325,
+    "wof:lastmodified":1536371247,
+    "wof:name":"Bucheben",
+    "wof:parent_id":1108837229,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.97176,
+    47.16124,
+    12.97176,
+    47.16124
+],
+  "geometry": {"coordinates":[12.97176,47.16124],"type":"Point"}
+}

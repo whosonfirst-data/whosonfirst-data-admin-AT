@@ -1,0 +1,105 @@
+{
+  "id": 1125412123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69431,48.28137,15.69431,48.28137",
+    "geom:latitude":48.28137,
+    "geom:longitude":15.69431,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":7866,
+    "gn:population":7866,
+    "iso:country":"AT",
+    "lbl:latitude":48.28137,
+    "lbl:longitude":15.69431,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u0430\u043d\u0434\u0441\u0442\u0430\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0440\u0446\u043e\u0433\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u63aa\u6839\u5821"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2776470,
+    "qs_pg:gn_pop":7866,
+    "qs_pg:name":"Herzogenburg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":241,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":240507,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673747,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776470,
+        "gp:id":12673747,
+        "qs_pg:id":240507
+    },
+    "wof:country":"AT",
+    "wof:created":1497050546,
+    "wof:geomhash":"db6487253b5b8005d11697cedd5ecfe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125412123,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125412123,
+    "wof:lastmodified":1534531060,
+    "wof:name":"Herzogenburg",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:population":7866,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836215
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69431,
+    48.28137,
+    15.69431,
+    48.28137
+],
+  "geometry": {"coordinates":[15.69431,48.28137],"type":"Point"}
+}

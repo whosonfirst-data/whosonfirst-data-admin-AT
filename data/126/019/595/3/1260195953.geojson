@@ -1,0 +1,77 @@
+{
+  "id": 1260195953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15267,46.69411,14.15267,46.69411",
+    "geom:latitude":46.69411,
+    "geom:longitude":14.15267,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Nassweg",
+    "gn:country_code":"AT",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770920,
+    "gn:latitude":46.69411,
+    "gn:longitude":14.15267,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Na\u00dfweg",
+    "gn:population":57,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na\u00dfweg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770920
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2bd017d36d58c0bd9683efd1174a7073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":1260195953,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1260195953,
+    "wof:lastmodified":1537584951,
+    "wof:name":"Nassweg",
+    "wof:parent_id":1108838123,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15267,
+    46.69411,
+    14.15267,
+    46.69411
+],
+  "geometry": {"coordinates":[14.15267,46.69411],"type":"Point"}
+}

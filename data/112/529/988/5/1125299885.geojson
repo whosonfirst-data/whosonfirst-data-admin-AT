@@ -1,0 +1,82 @@
+{
+  "id": 1125299885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41184,48.79681,15.41184,48.79681",
+    "geom:latitude":48.79681,
+    "geom:longitude":15.41184,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2938,
+    "gn:population":2789,
+    "iso:country":"AT",
+    "lbl:latitude":48.79681,
+    "lbl:longitude":15.41184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873045,
+    "qs_pg:gn_pop":2938,
+    "qs_pg:name":"Gro\u00df-Siegharts",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155410,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873045,
+        "qs_pg:id":1155410
+    },
+    "wof:country":"AT",
+    "wof:created":1497043365,
+    "wof:geomhash":"bec1f6fa78e5964aa8016fd1cec7f5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1125299885,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125299885,
+    "wof:lastmodified":1534530977,
+    "wof:name":"Gro\u00df-Siegharts",
+    "wof:parent_id":102049903,
+    "wof:placetype":"localadmin",
+    "wof:population":2789,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835395
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41184,
+    48.79681,
+    15.41184,
+    48.79681
+],
+  "geometry": {"coordinates":[15.41184,48.79681],"type":"Point"}
+}

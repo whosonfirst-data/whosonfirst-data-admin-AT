@@ -1,0 +1,82 @@
+{
+  "id": 1125407027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88088,48.28485,13.88088,48.28485",
+    "geom:latitude":48.28485,
+    "geom:longitude":13.88088,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":464,
+    "gn:population":543,
+    "iso:country":"AT",
+    "lbl:latitude":48.28485,
+    "lbl:longitude":13.88088,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873151,
+    "qs_pg:gn_pop":464,
+    "qs_pg:name":"Sankt Thomas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1155437,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873151,
+        "qs_pg:id":1155437
+    },
+    "wof:country":"AT",
+    "wof:created":1497049706,
+    "wof:geomhash":"3ad471f81c857cf795f6b5347c51e0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1125407027,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125407027,
+    "wof:lastmodified":1536698236,
+    "wof:name":"Sankt Thomas",
+    "wof:parent_id":102049861,
+    "wof:placetype":"localadmin",
+    "wof:population":543,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835223
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88088,
+    48.28485,
+    13.88088,
+    48.28485
+],
+  "geometry": {"coordinates":[13.88088,48.28485],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343471839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82724,46.63718,13.82724,46.63718",
+    "geom:latitude":46.63718,
+    "geom:longitude":13.82724,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"202.0",
+    "gn:admin3_code":"20201.0",
+    "gn:asciiname":"Unterwollanig",
+    "gn:country_code":"AT",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762542,
+    "gn:latitude":46.63718,
+    "gn:longitude":13.82724,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterwollanig",
+    "gn:population":154,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        102049673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762542
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"26b6fb15aff954108328b71e8fa60d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":1343471839,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1343471839,
+    "wof:lastmodified":1536730000,
+    "wof:name":"Unterwollanig",
+    "wof:parent_id":1108838145,
+    "wof:placetype":"locality",
+    "wof:population":154,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82724,
+    46.63718,
+    13.82724,
+    46.63718
+],
+  "geometry": {"coordinates":[13.82724,46.63718],"type":"Point"}
+}

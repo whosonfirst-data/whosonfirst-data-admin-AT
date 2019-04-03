@@ -1,0 +1,82 @@
+{
+  "id": 1125270517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76899,47.59171,14.76899,47.59171",
+    "geom:latitude":47.59171,
+    "geom:longitude":14.76899,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":872,
+    "gn:population":872,
+    "iso:country":"AT",
+    "lbl:latitude":47.59171,
+    "lbl:longitude":14.76899,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872423,
+    "qs_pg:gn_pop":872,
+    "qs_pg:name":"Hieflau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743405,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872423,
+        "qs_pg:id":743405
+    },
+    "wof:country":"AT",
+    "wof:created":1497042106,
+    "wof:geomhash":"6feb902291f67ccc6400c4082b95abff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125270517,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125270517,
+    "wof:lastmodified":1536698111,
+    "wof:name":"Hieflau",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":872,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838945
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76899,
+    47.59171,
+    14.76899,
+    47.59171
+],
+  "geometry": {"coordinates":[14.76899,47.59171],"type":"Point"}
+}

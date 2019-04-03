@@ -1,0 +1,82 @@
+{
+  "id": 1125327531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.84807,47.42656,12.84807,47.42656",
+    "geom:latitude":47.42656,
+    "geom:longitude":12.84807,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15670,
+    "gn:population":16567,
+    "iso:country":"AT",
+    "lbl:latitude":47.42656,
+    "lbl:longitude":12.84807,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872249,
+    "qs_pg:gn_pop":15670,
+    "qs_pg:name":"Saalfelden am Steinernen Meer",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":108542,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872249,
+        "qs_pg:id":108542
+    },
+    "wof:country":"AT",
+    "wof:created":1497044905,
+    "wof:geomhash":"2c96606a556723b60a9a5e15c16cea6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125327531,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125327531,
+    "wof:lastmodified":1534379148,
+    "wof:name":"Saalfelden am Steinernen Meer",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:population":16567,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837235
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.84807,
+    47.42656,
+    12.84807,
+    47.42656
+],
+  "geometry": {"coordinates":[12.84807,47.42656],"type":"Point"}
+}

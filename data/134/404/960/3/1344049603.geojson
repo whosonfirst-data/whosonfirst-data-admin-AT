@@ -1,0 +1,71 @@
+{
+  "id": 1344049603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45423,47.05036,14.45423,47.05036",
+    "geom:latitude":47.05036,
+    "geom:longitude":14.45423,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"614.0",
+    "gn:admin3_code":"61439.0",
+    "gn:asciiname":"Schoenhof",
+    "gn:country_code":"AT",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765675,
+    "gn:latitude":47.05036,
+    "gn:longitude":14.45423,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Sch\u00f6nhof",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838811,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765675
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"515889fceba36f64305bcbd1f9f1b854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838811,
+            "locality_id":1344049603,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1344049603,
+    "wof:lastmodified":1536890963,
+    "wof:name":"Schoenhof",
+    "wof:parent_id":1108838811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45423,
+    47.05036,
+    14.45423,
+    47.05036
+],
+  "geometry": {"coordinates":[14.45423,47.05036],"type":"Point"}
+}

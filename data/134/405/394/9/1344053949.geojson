@@ -1,0 +1,75 @@
+{
+  "id": 1344053949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.66667,47.33333,11.66667,47.33333",
+    "geom:latitude":47.33333,
+    "geom:longitude":11.66667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"709",
+    "gn:admin3_code":"70936.0",
+    "gn:asciiname":"Vomperbach",
+    "gn:country_code":"AT",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319547,
+    "gn:latitude":47.33333,
+    "gn:longitude":11.66667,
+    "gn:modification_date":"2018-07-30",
+    "gn:name":"Vomperbach",
+    "gn:population":579,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837711,
+        85632785,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319547,
+        "wk:page":"Vomperbach"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4c94ec5d9e82aee23cad1585c76f678c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837711,
+            "locality_id":1344053949,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1344053949,
+    "wof:lastmodified":1537486396,
+    "wof:name":"Vomperbach",
+    "wof:parent_id":1108837711,
+    "wof:placetype":"locality",
+    "wof:population":579,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66667,
+    47.33333,
+    11.66667,
+    47.33333
+],
+  "geometry": {"coordinates":[11.66667,47.33333],"type":"Point"}
+}

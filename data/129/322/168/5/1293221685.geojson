@@ -1,0 +1,79 @@
+{
+  "id": 1293221685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4444,47.13801,11.4444,47.13801",
+    "geom:latitude":47.13801,
+    "geom:longitude":11.4444,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70330.0",
+    "gn:asciiname":"Mietzens",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771592,
+    "gn:latitude":47.13801,
+    "gn:longitude":11.4444,
+    "gn:modification_date":"2018-07-29",
+    "gn:name":"Mietzens",
+    "gn:population":330,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00fctzens",
+        "Mietzens"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837549,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771592
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b3af79e53c4cf291fd2d5cab05b8493f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837549,
+            "locality_id":1293221685,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1293221685,
+    "wof:lastmodified":1537584953,
+    "wof:name":"Mietzens",
+    "wof:parent_id":1108837549,
+    "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4444,
+    47.13801,
+    11.4444,
+    47.13801
+],
+  "geometry": {"coordinates":[11.4444,47.13801],"type":"Point"}
+}

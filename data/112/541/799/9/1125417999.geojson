@@ -1,0 +1,88 @@
+{
+  "id": 1125417999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36714,48.19198,16.36714,48.19198",
+    "geom:latitude":48.19198,
+    "geom:longitude":16.36714,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":31187,
+    "gn:population":31187,
+    "iso:country":"AT",
+    "lbl:latitude":48.19198,
+    "lbl:longitude":16.36714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Wieden"
+    ],
+    "name:unk_x_variant":[
+        "4. Wiener Gemeindebezirk"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2761393,
+    "qs_pg:gn_pop":31187,
+    "qs_pg:name":"Gemeindebezirk Wieden",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":575932,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681667,
+        102049859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761393,
+        "qs_pg:id":575932
+    },
+    "wof:country":"AT",
+    "wof:created":1497051687,
+    "wof:geomhash":"ac428d1710d27c065881125267cd87bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1125417999,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1125417999,
+    "wof:lastmodified":1536698248,
+    "wof:name":"Gemeindebezirk Wieden",
+    "wof:parent_id":102049859,
+    "wof:placetype":"localadmin",
+    "wof:population":31187,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838101
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36714,
+    48.19198,
+    16.36714,
+    48.19198
+],
+  "geometry": {"coordinates":[16.36714,48.19198],"type":"Point"}
+}

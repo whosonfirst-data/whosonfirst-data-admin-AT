@@ -1,0 +1,74 @@
+{
+  "id": 1276981185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37351,48.23111,14.37351,48.23111",
+    "geom:latitude":48.23111,
+    "geom:longitude":14.37351,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"410.0",
+    "gn:admin3_code":"41013.0",
+    "gn:asciiname":"Toedling",
+    "gn:country_code":"AT",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763560,
+    "gn:latitude":48.23111,
+    "gn:longitude":14.37351,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"T\u00f6dling",
+    "gn:population":59,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835545,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763560
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"93eb8e8e1778e6d8b5d9e74a2cfee05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835545,
+            "locality_id":1276981185,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276981185,
+    "wof:lastmodified":1536905630,
+    "wof:name":"Toedling",
+    "wof:parent_id":1108835545,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37351,
+    48.23111,
+    14.37351,
+    48.23111
+],
+  "geometry": {"coordinates":[14.37351,48.23111],"type":"Point"}
+}

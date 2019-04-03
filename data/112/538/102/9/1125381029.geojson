@@ -1,0 +1,82 @@
+{
+  "id": 1125381029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87681,48.1946,15.87681,48.1946",
+    "geom:latitude":48.1946,
+    "geom:longitude":15.87681,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7460,
+    "gn:population":8308,
+    "iso:country":"AT",
+    "lbl:latitude":48.1946,
+    "lbl:longitude":15.87681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871889,
+    "qs_pg:gn_pop":7460,
+    "qs_pg:name":"Neulengbach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":380947,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871889,
+        "qs_pg:id":380947
+    },
+    "wof:country":"AT",
+    "wof:created":1497048048,
+    "wof:geomhash":"d889a4535c3c72f3329f36dda8b9080e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125381029,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125381029,
+    "wof:lastmodified":1534530973,
+    "wof:name":"Neulengbach",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:population":8308,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834967
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87681,
+    48.1946,
+    15.87681,
+    48.1946
+],
+  "geometry": {"coordinates":[15.87681,48.1946],"type":"Point"}
+}

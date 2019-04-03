@@ -1,0 +1,74 @@
+{
+  "id": 1310429629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.09304,48.24663,13.09304,48.24663",
+    "geom:latitude":48.24663,
+    "geom:longitude":13.09304,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40438.0",
+    "gn:asciiname":"Aselkam",
+    "gn:country_code":"AT",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782328,
+    "gn:latitude":48.24663,
+    "gn:longitude":13.09304,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Aselkam",
+    "gn:population":162,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834791,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782328
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"885d1f13f229307deae0e98c06e0b004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834791,
+            "locality_id":1310429629,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310429629,
+    "wof:lastmodified":1537025296,
+    "wof:name":"Aselkam",
+    "wof:parent_id":1108834791,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.09304,
+    48.24663,
+    13.09304,
+    48.24663
+],
+  "geometry": {"coordinates":[13.09304,48.24663],"type":"Point"}
+}

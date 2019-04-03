@@ -1,0 +1,110 @@
+{
+  "id": 85898591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14260672.358506,
+    "geom:bbox":"15.473508,47.11334,15.473508,47.11334",
+    "geom:latitude":47.11334,
+    "geom:longitude":15.473508,
+    "iso:country":"AT",
+    "lbl:latitude":47.11334,
+    "lbl:longitude":15.473508,
+    "mps:latitude":47.115748,
+    "mps:longitude":15.470323,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Wenisbuch"
+    ],
+    "name:unk_x_variant":[
+        "Wenisbuch"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7871499,
+    "qs:gn_nam_loc":"Graz, Graz Stadt, Steiermark, AT",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Wenisbuch",
+    "qs:local_max":3393,
+    "qs:local_sum":13910,
+    "qs:localhoods":22,
+    "qs:name":"Wenisbuch",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Steiermark",
+    "qs:name_adm2":"Graz Stadt",
+    "qs:name_lau":"Graz",
+    "qs:name_local":"Graz",
+    "qs:photo_max":23,
+    "qs:photo_sum":68,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344713,
+    "qs:woe_adm2":12591740,
+    "qs:woe_lau":12674996,
+    "qs:woe_local":12674996,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761492,
+        "gp:id":550303,
+        "qs:id":303610,
+        "qs_pg:id":303610
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"43ba51661ae5222ddf87f5d92cba4865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":85898591,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":85898591,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932093,
+    "wof:name":"Wenisbuch",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.473508,
+    47.11334,
+    15.473508,
+    47.11334
+],
+  "geometry": {"coordinates":[15.473508,47.11334],"type":"Point"}
+}

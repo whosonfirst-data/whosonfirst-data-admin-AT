@@ -1,0 +1,74 @@
+{
+  "id": 1293106163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34158,47.64156,16.34158,47.64156",
+    "geom:latitude":47.64156,
+    "geom:longitude":16.34158,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"323",
+    "gn:admin3_code":"32326.0",
+    "gn:asciiname":"Schwarzenbach (Zerstreut)",
+    "gn:country_code":"AT",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11550642,
+    "gn:latitude":47.64156,
+    "gn:longitude":16.34158,
+    "gn:modification_date":"2017-06-05",
+    "gn:name":"Schwarzenbach (Zerstreut)",
+    "gn:population":338,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836273,
+        85632785,
+        102049787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11550642
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e9dc8aefd40109cb9e3bd73e109a4085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108836273,
+            "locality_id":1293106163,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293106163,
+    "wof:lastmodified":1536838741,
+    "wof:name":"Schwarzenbach (Zerstreut)",
+    "wof:parent_id":1108836273,
+    "wof:placetype":"locality",
+    "wof:population":338,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34158,
+    47.64156,
+    16.34158,
+    47.64156
+],
+  "geometry": {"coordinates":[16.34158,47.64156],"type":"Point"}
+}

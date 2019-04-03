@@ -1,0 +1,74 @@
+{
+  "id": 1259496197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51748,46.62209,13.51748,46.62209",
+    "geom:latitude":46.62209,
+    "geom:longitude":13.51748,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20316.0",
+    "gn:asciiname":"Schmoelzing",
+    "gn:country_code":"AT",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594214,
+    "gn:latitude":46.62209,
+    "gn:longitude":13.51748,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schm\u00f6lzing",
+    "gn:population":97,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838157,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594214
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"da94944f80059c0108de68b8c8ac4b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838157,
+            "locality_id":1259496197,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259496197,
+    "wof:lastmodified":1536839469,
+    "wof:name":"Schmoelzing",
+    "wof:parent_id":1108838157,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51748,
+    46.62209,
+    13.51748,
+    46.62209
+],
+  "geometry": {"coordinates":[13.51748,46.62209],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293581849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36667,47.16667,14.36667,47.16667",
+    "geom:latitude":47.16667,
+    "geom:longitude":14.36667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"614.0",
+    "gn:admin3_code":"61444.0",
+    "gn:asciiname":"Pachern",
+    "gn:country_code":"AT",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769303,
+    "gn:latitude":47.16667,
+    "gn:longitude":14.36667,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Pachern",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838797,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769303
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"46feb1a7b2538c68dfe4b3dad6a76cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838797,
+            "locality_id":1293581849,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293581849,
+    "wof:lastmodified":1536650938,
+    "wof:name":"Pachern",
+    "wof:parent_id":1108838797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36667,
+    47.16667,
+    14.36667,
+    47.16667
+],
+  "geometry": {"coordinates":[14.36667,47.16667],"type":"Point"}
+}

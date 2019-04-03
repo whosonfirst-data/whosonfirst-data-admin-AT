@@ -1,0 +1,74 @@
+{
+  "id": 1310313855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08333,46.76667,13.08333,46.76667",
+    "geom:latitude":46.76667,
+    "geom:longitude":13.08333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20604.0",
+    "gn:asciiname":"Untere Drassnitz",
+    "gn:country_code":"AT",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763043,
+    "gn:latitude":46.76667,
+    "gn:longitude":13.08333,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Untere Drassnitz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Unterdra\u00dfnitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838255,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763043
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a952b67c9a8e5f2e9f2216d8f328c90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838255,
+            "locality_id":1310313855,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310313855,
+    "wof:lastmodified":1537486360,
+    "wof:name":"Untere Drassnitz",
+    "wof:parent_id":1108838255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08333,
+    46.76667,
+    13.08333,
+    46.76667
+],
+  "geometry": {"coordinates":[13.08333,46.76667],"type":"Point"}
+}

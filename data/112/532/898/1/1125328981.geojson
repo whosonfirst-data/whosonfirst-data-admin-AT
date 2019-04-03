@@ -1,0 +1,82 @@
+{
+  "id": 1125328981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96173,47.49112,13.96173,47.49112",
+    "geom:latitude":47.49112,
+    "geom:longitude":13.96173,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":769,
+    "gn:population":769,
+    "iso:country":"AT",
+    "lbl:latitude":47.49112,
+    "lbl:longitude":13.96173,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872450,
+    "qs_pg:gn_pop":769,
+    "qs_pg:name":"Sankt Martin am Grimming",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108608,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872450,
+        "qs_pg:id":108608
+    },
+    "wof:country":"AT",
+    "wof:created":1497045008,
+    "wof:geomhash":"06b5bb036483b9212c9a5731d07573fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125328981,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125328981,
+    "wof:lastmodified":1536698168,
+    "wof:name":"Sankt Martin am Grimming",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":769,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838899
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96173,
+    47.49112,
+    13.96173,
+    47.49112
+],
+  "geometry": {"coordinates":[13.96173,47.49112],"type":"Point"}
+}

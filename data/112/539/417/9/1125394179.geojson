@@ -1,0 +1,82 @@
+{
+  "id": 1125394179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59113,48.01398,14.59113,48.01398",
+    "geom:latitude":48.01398,
+    "geom:longitude":14.59113,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4967,
+    "gn:population":5149,
+    "iso:country":"AT",
+    "lbl:latitude":48.01398,
+    "lbl:longitude":14.59113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871698,
+    "qs_pg:gn_pop":4967,
+    "qs_pg:name":"Sankt Peter in der Au",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1041951,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871698,
+        "qs_pg:id":1041951
+    },
+    "wof:country":"AT",
+    "wof:created":1497048901,
+    "wof:geomhash":"a83982361028ee8147840a0ecbf24f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1125394179,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125394179,
+    "wof:lastmodified":1536698227,
+    "wof:name":"Sankt Peter in der Au",
+    "wof:parent_id":102049835,
+    "wof:placetype":"localadmin",
+    "wof:population":5149,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835399
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59113,
+    48.01398,
+    14.59113,
+    48.01398
+],
+  "geometry": {"coordinates":[14.59113,48.01398],"type":"Point"}
+}

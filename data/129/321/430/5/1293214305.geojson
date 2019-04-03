@@ -1,0 +1,74 @@
+{
+  "id": 1293214305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,47.03333,16.2,47.03333",
+    "geom:latitude":47.03333,
+    "geom:longitude":16.2,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10502.0",
+    "gn:asciiname":"Zahling",
+    "gn:country_code":"AT",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760757,
+    "gn:latitude":47.03333,
+    "gn:longitude":16.2,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Zahling",
+    "gn:population":375,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838687,
+        85632785,
+        102049715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760757
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c1324ad580f50bd08004a293674db9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838687,
+            "locality_id":1293214305,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1293214305,
+    "wof:lastmodified":1536683732,
+    "wof:name":"Zahling",
+    "wof:parent_id":1108838687,
+    "wof:placetype":"locality",
+    "wof:population":375,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    47.03333,
+    16.2,
+    47.03333
+],
+  "geometry": {"coordinates":[16.2,47.03333],"type":"Point"}
+}

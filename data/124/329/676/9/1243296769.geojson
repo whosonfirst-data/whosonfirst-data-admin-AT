@@ -1,0 +1,74 @@
+{
+  "id": 1243296769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08845,48.19833,13.08845,48.19833",
+    "geom:latitude":48.19833,
+    "geom:longitude":13.08845,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40405.0",
+    "gn:asciiname":"Fuchshofen",
+    "gn:country_code":"AT",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610782,
+    "gn:latitude":48.19833,
+    "gn:longitude":13.08845,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Fuchshofen",
+    "gn:population":14,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834717,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610782
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e77ed364eba34f1aa1f6bff8acd125e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834717,
+            "locality_id":1243296769,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243296769,
+    "wof:lastmodified":1537020409,
+    "wof:name":"Fuchshofen",
+    "wof:parent_id":1108834717,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08845,
+    48.19833,
+    13.08845,
+    48.19833
+],
+  "geometry": {"coordinates":[13.08845,48.19833],"type":"Point"}
+}

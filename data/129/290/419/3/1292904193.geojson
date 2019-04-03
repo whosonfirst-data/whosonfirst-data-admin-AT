@@ -1,0 +1,74 @@
+{
+  "id": 1292904193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49477,47.9977,13.49477,47.9977",
+    "geom:latitude":47.9977,
+    "geom:longitude":13.49477,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41747.0",
+    "gn:asciiname":"Gruendberg",
+    "gn:country_code":"AT",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609596,
+    "gn:latitude":47.9977,
+    "gn:longitude":13.49477,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gr\u00fcndberg",
+    "gn:population":52,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836523,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609596
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"135ab298215e2a879e17f3d09150ef68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836523,
+            "locality_id":1292904193,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1292904193,
+    "wof:lastmodified":1536632392,
+    "wof:name":"Gruendberg",
+    "wof:parent_id":1108836523,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49477,
+    47.9977,
+    13.49477,
+    47.9977
+],
+  "geometry": {"coordinates":[13.49477,47.9977],"type":"Point"}
+}

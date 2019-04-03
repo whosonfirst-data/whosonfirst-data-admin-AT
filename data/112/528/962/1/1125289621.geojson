@@ -1,0 +1,105 @@
+{
+  "id": 1125289621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11667,48.86667,15.11667,48.86667",
+    "geom:latitude":48.86667,
+    "geom:longitude":15.11667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":4472,
+    "gn:population":4472,
+    "iso:country":"AT",
+    "lbl:latitude":48.86667,
+    "lbl:longitude":15.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u0439\u0434\u0435\u043d\u0440\u0430\u0439\u0445\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u0434\u0435\u043d\u0440\u0430\u0439\u0445\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u767b\u8d56\u5e0c\u65bd\u6cf0\u56e0"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2776603,
+    "qs_pg:gn_pop":4472,
+    "qs_pg:name":"Heidenreichstein",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":218,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":141424,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673725,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776603,
+        "gp:id":12673725,
+        "qs_pg:id":141424
+    },
+    "wof:country":"AT",
+    "wof:created":1497042863,
+    "wof:geomhash":"12329158d7857b89d64f2a05c151627a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049905,
+            "localadmin_id":1125289621,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125289621,
+    "wof:lastmodified":1534531030,
+    "wof:name":"Heidenreichstein",
+    "wof:parent_id":102049905,
+    "wof:placetype":"localadmin",
+    "wof:population":4472,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834865
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11667,
+    48.86667,
+    15.11667,
+    48.86667
+],
+  "geometry": {"coordinates":[15.11667,48.86667],"type":"Point"}
+}

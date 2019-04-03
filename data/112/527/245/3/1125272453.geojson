@@ -1,0 +1,82 @@
+{
+  "id": 1125272453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84404,47.20277,15.84404,47.20277",
+    "geom:latitude":47.20277,
+    "geom:longitude":15.84404,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":368,
+    "gn:population":368,
+    "iso:country":"AT",
+    "lbl:latitude":47.20277,
+    "lbl:longitude":15.84404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873429,
+    "qs_pg:gn_pop":368,
+    "qs_pg:name":"Kaibing",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1245874,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873429,
+        "qs_pg:id":1245874
+    },
+    "wof:country":"AT",
+    "wof:created":1497042181,
+    "wof:geomhash":"89b1004e735eab97013420c447805f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1125272453,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125272453,
+    "wof:lastmodified":1534379095,
+    "wof:name":"Kaibing",
+    "wof:parent_id":1108892549,
+    "wof:placetype":"localadmin",
+    "wof:population":368,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125385451
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84404,
+    47.20277,
+    15.84404,
+    47.20277
+],
+  "geometry": {"coordinates":[15.84404,47.20277],"type":"Point"}
+}

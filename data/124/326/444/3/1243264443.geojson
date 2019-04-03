@@ -1,0 +1,74 @@
+{
+  "id": 1243264443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73244,48.41479,13.73244,48.41479",
+    "geom:latitude":48.41479,
+    "geom:longitude":13.73244,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40816.0",
+    "gn:asciiname":"Lichtberg",
+    "gn:country_code":"AT",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611752,
+    "gn:latitude":48.41479,
+    "gn:longitude":13.73244,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lichtberg",
+    "gn:population":14,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835201,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611752
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5acd3bf3bf61ea1d05d7a399765c8175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835201,
+            "locality_id":1243264443,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243264443,
+    "wof:lastmodified":1537065028,
+    "wof:name":"Lichtberg",
+    "wof:parent_id":1108835201,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73244,
+    48.41479,
+    13.73244,
+    48.41479
+],
+  "geometry": {"coordinates":[13.73244,48.41479],"type":"Point"}
+}

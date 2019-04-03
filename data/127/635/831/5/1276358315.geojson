@@ -1,0 +1,71 @@
+{
+  "id": 1276358315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,47.15,15.28333,47.15",
+    "geom:latitude":47.15,
+    "geom:longitude":15.28333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606",
+    "gn:admin3_code":"60664.0",
+    "gn:asciiname":"Enzenbach",
+    "gn:country_code":"AT",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780023,
+    "gn:latitude":47.15,
+    "gn:longitude":15.28333,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Enzenbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839197,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780023
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ee853b254c47bd09742d87dc2ab459f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839197,
+            "locality_id":1276358315,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276358315,
+    "wof:lastmodified":1536744792,
+    "wof:name":"Enzenbach",
+    "wof:parent_id":1108839197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    47.15,
+    15.28333,
+    47.15
+],
+  "geometry": {"coordinates":[15.28333,47.15],"type":"Point"}
+}

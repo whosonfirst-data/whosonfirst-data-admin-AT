@@ -1,0 +1,82 @@
+{
+  "id": 1125299919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53817,48.44201,14.53817,48.44201",
+    "geom:latitude":48.44201,
+    "geom:longitude":14.53817,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2115,
+    "gn:population":2097,
+    "iso:country":"AT",
+    "lbl:latitude":48.44201,
+    "lbl:longitude":14.53817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873124,
+    "qs_pg:gn_pop":2115,
+    "qs_pg:name":"Kefermarkt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155414,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873124,
+        "qs_pg:id":1155414
+    },
+    "wof:country":"AT",
+    "wof:created":1497043367,
+    "wof:geomhash":"b266fcacedf1dae38fba7c2372db1cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1125299919,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125299919,
+    "wof:lastmodified":1534531019,
+    "wof:name":"Kefermarkt",
+    "wof:parent_id":102049883,
+    "wof:placetype":"localadmin",
+    "wof:population":2097,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835075
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53817,
+    48.44201,
+    14.53817,
+    48.44201
+],
+  "geometry": {"coordinates":[14.53817,48.44201],"type":"Point"}
+}

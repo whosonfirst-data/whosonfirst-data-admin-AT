@@ -1,0 +1,74 @@
+{
+  "id": 1226037569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13391,47.1587,14.13391,47.1587",
+    "geom:latitude":47.1587,
+    "geom:longitude":14.13391,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61441.0",
+    "gn:asciiname":"Rinegg",
+    "gn:country_code":"AT",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592894,
+    "gn:latitude":47.1587,
+    "gn:longitude":14.13391,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rinegg",
+    "gn:population":156,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838789,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592894
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"47831259babc31cd6562c2b7a5eed861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838789,
+            "locality_id":1226037569,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226037569,
+    "wof:lastmodified":1536736981,
+    "wof:name":"Rinegg",
+    "wof:parent_id":1108838789,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13391,
+    47.1587,
+    14.13391,
+    47.1587
+],
+  "geometry": {"coordinates":[14.13391,47.1587],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125270551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0276,47.20402,14.0276,47.20402",
+    "geom:latitude":47.20402,
+    "geom:longitude":14.0276,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":662,
+    "gn:population":662,
+    "iso:country":"AT",
+    "lbl:latitude":47.20402,
+    "lbl:longitude":14.0276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872465,
+    "qs_pg:gn_pop":662,
+    "qs_pg:name":"Krakaudorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743409,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872465,
+        "qs_pg:id":743409
+    },
+    "wof:country":"AT",
+    "wof:created":1497042107,
+    "wof:geomhash":"682c61b2c4a045fceb805aaf440119b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1125270551,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125270551,
+    "wof:lastmodified":1534379088,
+    "wof:name":"Krakaudorf",
+    "wof:parent_id":102049733,
+    "wof:placetype":"localadmin",
+    "wof:population":662,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125326135
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0276,
+    47.20402,
+    14.0276,
+    47.20402
+],
+  "geometry": {"coordinates":[14.0276,47.20402],"type":"Point"}
+}

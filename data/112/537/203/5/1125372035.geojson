@@ -1,0 +1,82 @@
+{
+  "id": 1125372035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78105,48.5996,16.78105,48.5996",
+    "geom:latitude":48.5996,
+    "geom:longitude":16.78105,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1230,
+    "gn:population":1265,
+    "iso:country":"AT",
+    "lbl:latitude":48.5996,
+    "lbl:longitude":16.78105,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872867,
+    "qs_pg:gn_pop":1230,
+    "qs_pg:name":"Neusiedl an der Zaya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108734,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872867,
+        "qs_pg:id":108734
+    },
+    "wof:country":"AT",
+    "wof:created":1497047470,
+    "wof:geomhash":"4190be91f4a7b41d94a74d292c3b4e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1125372035,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125372035,
+    "wof:lastmodified":1534531045,
+    "wof:name":"Neusiedl an der Zaya",
+    "wof:parent_id":102049891,
+    "wof:placetype":"localadmin",
+    "wof:population":1265,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836601
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78105,
+    48.5996,
+    16.78105,
+    48.5996
+],
+  "geometry": {"coordinates":[16.78105,48.5996],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309906211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93693,48.42732,13.93693,48.42732",
+    "geom:latitude":48.42732,
+    "geom:longitude":13.93693,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41314.0",
+    "gn:asciiname":"Haiden",
+    "gn:country_code":"AT",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777021,
+    "gn:latitude":48.42732,
+    "gn:longitude":13.93693,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Haiden",
+    "gn:population":33,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835959,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777021
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b16e9bfb7e0a0a43cb90dafb6bcea803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835959,
+            "locality_id":1309906211,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1309906211,
+    "wof:lastmodified":1536786840,
+    "wof:name":"Haiden",
+    "wof:parent_id":1108835959,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93693,
+    48.42732,
+    13.93693,
+    48.42732
+],
+  "geometry": {"coordinates":[13.93693,48.42732],"type":"Point"}
+}

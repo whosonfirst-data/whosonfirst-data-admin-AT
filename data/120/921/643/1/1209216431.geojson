@@ -1,0 +1,66 @@
+{
+  "id": 1209216431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05,48.88333,15.05,48.88333",
+    "geom:latitude":48.88333,
+    "geom:longitude":15.05,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"309.0",
+    "gn:admin3_code":"30916.0",
+    "gn:asciiname":"Thaures",
+    "gn:country_code":"AT",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763713,
+    "gn:latitude":48.88333,
+    "gn:longitude":15.05,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Thaures",
+    "gn:population":122,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763713
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"707d4502df84875df629c2439bb7c6a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209216431
+        }
+    ],
+    "wof:id":1209216431,
+    "wof:lastmodified":1536294115,
+    "wof:name":"Thaures",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05,
+    48.88333,
+    15.05,
+    48.88333
+],
+  "geometry": {"coordinates":[15.05,48.88333],"type":"Point"}
+}

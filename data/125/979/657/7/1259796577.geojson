@@ -1,0 +1,71 @@
+{
+  "id": 1259796577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86667,46.56667,13.86667,46.56667",
+    "geom:latitude":46.56667,
+    "geom:longitude":13.86667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20711.0",
+    "gn:asciiname":"Sankt Stefan",
+    "gn:country_code":"AT",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766402,
+    "gn:latitude":46.56667,
+    "gn:longitude":13.86667,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Sankt Stefan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838339,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766402
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4446d3e4e24a4c6c8799625991b6d9a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838339,
+            "locality_id":1259796577,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259796577,
+    "wof:lastmodified":1536904445,
+    "wof:name":"Sankt Stefan",
+    "wof:parent_id":1108838339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86667,
+    46.56667,
+    13.86667,
+    46.56667
+],
+  "geometry": {"coordinates":[13.86667,46.56667],"type":"Point"}
+}

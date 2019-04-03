@@ -1,0 +1,82 @@
+{
+  "id": 1125363559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72771,47.22014,15.72771,47.22014",
+    "geom:latitude":47.22014,
+    "geom:longitude":15.72771,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2150,
+    "gn:population":2095,
+    "iso:country":"AT",
+    "lbl:latitude":47.22014,
+    "lbl:longitude":15.72771,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873575,
+    "qs_pg:gn_pop":2150,
+    "qs_pg:name":"Puch bei Weiz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1245902,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873575,
+        "qs_pg:id":1245902
+    },
+    "wof:country":"AT",
+    "wof:created":1497046945,
+    "wof:geomhash":"b9b7b1e22bc517b02751ad98a342e310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125363559,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125363559,
+    "wof:lastmodified":1534379090,
+    "wof:name":"Puch bei Weiz",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":2095,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125297785
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72771,
+    47.22014,
+    15.72771,
+    47.22014
+],
+  "geometry": {"coordinates":[15.72771,47.22014],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1125394501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52794,47.90789,13.52794,47.90789",
+    "geom:latitude":47.90789,
+    "geom:longitude":13.52794,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1539,
+    "gn:population":1599,
+    "iso:country":"AT",
+    "lbl:latitude":47.90789,
+    "lbl:longitude":13.52794,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873251,
+    "qs_pg:gn_pop":1539,
+    "qs_pg:name":"Attersee",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":140,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1042222,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674241,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873251,
+        "gp:id":12674241,
+        "qs_pg:id":1042222
+    },
+    "wof:concordances_alt":{
+        "gn:id":2782287,
+        "qs_pg:id":248012
+    },
+    "wof:country":"AT",
+    "wof:created":1497048924,
+    "wof:geomhash":"02739c12d954871c74d47c5d1e320af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1125394501,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125394501,
+    "wof:lastmodified":1536698228,
+    "wof:name":"Attersee",
+    "wof:parent_id":102049817,
+    "wof:placetype":"localadmin",
+    "wof:population":1599,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836421
+    ],
+    "wof:supersedes":[
+        1125297201
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52794,
+    47.90789,
+    13.52794,
+    47.90789
+],
+  "geometry": {"coordinates":[13.52794,47.90789],"type":"Point"}
+}

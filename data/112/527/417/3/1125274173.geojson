@@ -1,0 +1,82 @@
+{
+  "id": 1125274173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76985,48.04485,14.76985,48.04485",
+    "geom:latitude":48.04485,
+    "geom:longitude":14.76985,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2532,
+    "gn:population":2600,
+    "iso:country":"AT",
+    "lbl:latitude":48.04485,
+    "lbl:longitude":14.76985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872824,
+    "qs_pg:gn_pop":2532,
+    "qs_pg:name":"Kematen an der Ybbs",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108717,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872824,
+        "qs_pg:id":108717
+    },
+    "wof:country":"AT",
+    "wof:created":1497042248,
+    "wof:geomhash":"89351abc0119505a07412bd5a9fa945c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1125274173,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125274173,
+    "wof:lastmodified":1534530972,
+    "wof:name":"Kematen an der Ybbs",
+    "wof:parent_id":102049835,
+    "wof:placetype":"localadmin",
+    "wof:population":2600,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834841
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76985,
+    48.04485,
+    14.76985,
+    48.04485
+],
+  "geometry": {"coordinates":[14.76985,48.04485],"type":"Point"}
+}

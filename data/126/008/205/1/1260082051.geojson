@@ -1,0 +1,74 @@
+{
+  "id": 1260082051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,48.5,15.8,48.5",
+    "geom:latitude":48.5,
+    "geom:longitude":15.8,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"310.0",
+    "gn:admin3_code":"31021.0",
+    "gn:asciiname":"Ronthal",
+    "gn:country_code":"AT",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767228,
+    "gn:latitude":48.5,
+    "gn:longitude":15.8,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ronthal",
+    "gn:population":120,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836259,
+        85632785,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767228
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e33c2fba73c400218d840f573e3627bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108836259,
+            "locality_id":1260082051,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1260082051,
+    "wof:lastmodified":1536989237,
+    "wof:name":"Ronthal",
+    "wof:parent_id":1108836259,
+    "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    48.5,
+    15.8,
+    48.5
+],
+  "geometry": {"coordinates":[15.8,48.5],"type":"Point"}
+}

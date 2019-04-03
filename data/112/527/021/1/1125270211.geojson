@@ -1,0 +1,100 @@
+{
+  "id": 1125270211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05562,48.0849,17.05562,48.0849",
+    "geom:latitude":48.0849,
+    "geom:longitude":17.05562,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1873,
+    "gn:population":3073,
+    "iso:country":"AT",
+    "lbl:latitude":48.0849,
+    "lbl:longitude":17.05562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hun_x_preferred":[
+        "K\u00f6pcs\u00e9ny"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30c3\u30c4\u30a8\u30fc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0442\u0442\u0437\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0442\u0442\u0437\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0442\u0442\u0437\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7b56"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871589,
+    "qs_pg:gn_pop":1873,
+    "qs_pg:name":"Kittsee",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743300,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871589,
+        "qs_pg:id":743300
+    },
+    "wof:country":"AT",
+    "wof:created":1497042095,
+    "wof:geomhash":"53edf03ed4ed1b33ce4ae4966aa54758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1125270211,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125270211,
+    "wof:lastmodified":1534530999,
+    "wof:name":"Kittsee",
+    "wof:parent_id":102049841,
+    "wof:placetype":"localadmin",
+    "wof:population":3073,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838543
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05562,
+    48.0849,
+    17.05562,
+    48.0849
+],
+  "geometry": {"coordinates":[17.05562,48.0849],"type":"Point"}
+}

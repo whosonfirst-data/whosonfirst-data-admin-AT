@@ -1,0 +1,76 @@
+{
+  "id": 1327243063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47976,48.09213,14.47976,48.09213",
+    "geom:latitude":48.09213,
+    "geom:longitude":14.47976,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30515.0",
+    "gn:asciiname":"Dorf an der Enns",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780815,
+    "gn:latitude":48.09213,
+    "gn:longitude":14.47976,
+    "gn:modification_date":"2017-06-20",
+    "gn:name":"Dorf an der Enns",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dorf",
+        "Dorf an der Enns"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836371,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780815
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"efaf46bdf84f8c33827c85ad03cc1b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836371,
+            "locality_id":1327243063,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327243063,
+    "wof:lastmodified":1537584979,
+    "wof:name":"Dorf an der Enns",
+    "wof:parent_id":1108836371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47976,
+    48.09213,
+    14.47976,
+    48.09213
+],
+  "geometry": {"coordinates":[14.47976,48.09213],"type":"Point"}
+}

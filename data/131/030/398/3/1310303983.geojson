@@ -1,0 +1,74 @@
+{
+  "id": 1310303983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76685,47.14716,13.76685,47.14716",
+    "geom:latitude":47.14716,
+    "geom:longitude":13.76685,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"505",
+    "gn:admin3_code":"50507.0",
+    "gn:asciiname":"Lintsching",
+    "gn:country_code":"AT",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630049,
+    "gn:latitude":47.14716,
+    "gn:longitude":13.76685,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Lintsching",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sankt Andr\u00e4-Lintsching"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837059,
+        85632785,
+        102049721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630049
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"15184d421f0e1d1c1673d8e06b3e795d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837059,
+            "locality_id":1310303983,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1310303983,
+    "wof:lastmodified":1537584989,
+    "wof:name":"Lintsching",
+    "wof:parent_id":1108837059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76685,
+    47.14716,
+    13.76685,
+    47.14716
+],
+  "geometry": {"coordinates":[13.76685,47.14716],"type":"Point"}
+}

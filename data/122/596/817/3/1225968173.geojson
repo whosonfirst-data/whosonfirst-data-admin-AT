@@ -1,0 +1,74 @@
+{
+  "id": 1225968173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42196,47.98487,14.42196,47.98487",
+    "geom:latitude":47.98487,
+    "geom:longitude":14.42196,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"415.0",
+    "gn:admin3_code":"41506.0",
+    "gn:asciiname":"Unterdambach",
+    "gn:country_code":"AT",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763077,
+    "gn:latitude":47.98487,
+    "gn:longitude":14.42196,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterdambach",
+    "gn:population":484,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836103,
+        85632785,
+        102049819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763077
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0b63fa86c42850a95f0df2f67384c0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836103,
+            "locality_id":1225968173,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225968173,
+    "wof:lastmodified":1536835915,
+    "wof:name":"Unterdambach",
+    "wof:parent_id":1108836103,
+    "wof:placetype":"locality",
+    "wof:population":484,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42196,
+    47.98487,
+    14.42196,
+    47.98487
+],
+  "geometry": {"coordinates":[14.42196,47.98487],"type":"Point"}
+}

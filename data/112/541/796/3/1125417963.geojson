@@ -1,0 +1,101 @@
+{
+  "id": 1125417963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.467376,47.346732,15.467376,47.346732",
+    "geom:latitude":47.346732,
+    "geom:longitude":15.467376,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1139,
+    "gn:population":1806,
+    "iso:country":"AT",
+    "lbl:latitude":47.346732,
+    "lbl:longitude":15.467376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872506,
+    "qs_pg:gn_pop":1139,
+    "qs_pg:name":"Fladnitz an der Teichalm",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1189886,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675033,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872506,
+        "gp:id":12675033,
+        "qs_pg:id":1189886
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155276
+    },
+    "wof:country":"AT",
+    "wof:created":1497051678,
+    "wof:geomhash":"660184831109305026ccc5e108203583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125417963,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125417963,
+    "wof:lastmodified":1536698247,
+    "wof:name":"Fladnitz an der Teichalm",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":1806,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838859
+    ],
+    "wof:supersedes":[
+        1125409605
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.467376,
+    47.346732,
+    15.467376,
+    47.346732
+],
+  "geometry": {"coordinates":[15.467376,47.346732],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1125374491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.402421,47.271491,10.402421,47.271491",
+    "geom:latitude":47.271491,
+    "geom:longitude":10.402421,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.271491,
+    "lbl:longitude":10.402421,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bach",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Tirol",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":189,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":994270,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675373,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Tirol",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681661,
+        102049745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12675373,
+        "qs_pg:id":994270
+    },
+    "wof:country":"AT",
+    "wof:created":1497047632,
+    "wof:geomhash":"44b7d05b140049daa557ed1abf4cef4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1125374491,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125374491,
+    "wof:lastmodified":1536698210,
+    "wof:name":"Bach",
+    "wof:parent_id":102049745,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837799
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.402421,
+    47.271491,
+    10.402421,
+    47.271491
+],
+  "geometry": {"coordinates":[10.402421,47.271491],"type":"Point"}
+}

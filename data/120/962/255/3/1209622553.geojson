@@ -1,0 +1,66 @@
+{
+  "id": 1209622553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,48.63333,15.55,48.63333",
+    "geom:latitude":48.63333,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"311",
+    "gn:admin3_code":"31101.0",
+    "gn:asciiname":"Fuglau",
+    "gn:country_code":"AT",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779150,
+    "gn:latitude":48.63333,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Fuglau",
+    "gn:population":110,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779150
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b2b207f15eec6eb2b6acff5083ebb61b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209622553
+        }
+    ],
+    "wof:id":1209622553,
+    "wof:lastmodified":1536281467,
+    "wof:name":"Fuglau",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    48.63333,
+    15.55,
+    48.63333
+],
+  "geometry": {"coordinates":[15.55,48.63333],"type":"Point"}
+}

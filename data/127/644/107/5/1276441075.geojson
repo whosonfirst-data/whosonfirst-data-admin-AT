@@ -1,0 +1,74 @@
+{
+  "id": 1276441075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.18746,47.79926,13.18746,47.79926",
+    "geom:latitude":47.79926,
+    "geom:longitude":13.18746,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50307.0",
+    "gn:asciiname":"Vorderschroffenau",
+    "gn:country_code":"AT",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762193,
+    "gn:latitude":47.79926,
+    "gn:longitude":13.18746,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Vorderschroffenau",
+    "gn:population":532,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837123,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762193
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"21856e5b575b86447fa2d6e3e5e601b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837123,
+            "locality_id":1276441075,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1276441075,
+    "wof:lastmodified":1536632840,
+    "wof:name":"Vorderschroffenau",
+    "wof:parent_id":1108837123,
+    "wof:placetype":"locality",
+    "wof:population":532,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.18746,
+    47.79926,
+    13.18746,
+    47.79926
+],
+  "geometry": {"coordinates":[13.18746,47.79926],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243193493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.66466,46.79031,12.66466,46.79031",
+    "geom:latitude":46.79031,
+    "geom:longitude":12.66466,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70705.0",
+    "gn:asciiname":"Klausen",
+    "gn:country_code":"AT",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11551136,
+    "gn:latitude":46.79031,
+    "gn:longitude":12.66466,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Klausen",
+    "gn:population":36,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837489,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551136
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"88321d5b2ae2d7dd389d7a28251413cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837489,
+            "locality_id":1243193493,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1243193493,
+    "wof:lastmodified":1536673226,
+    "wof:name":"Klausen",
+    "wof:parent_id":1108837489,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.66466,
+    46.79031,
+    12.66466,
+    46.79031
+],
+  "geometry": {"coordinates":[12.66466,46.79031],"type":"Point"}
+}

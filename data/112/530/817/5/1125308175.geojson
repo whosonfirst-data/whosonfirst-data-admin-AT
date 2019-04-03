@@ -1,0 +1,101 @@
+{
+  "id": 1125308175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94667,46.72194,15.94667,46.72194",
+    "geom:latitude":46.72194,
+    "geom:longitude":15.94667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.72194,
+    "lbl:longitude":15.94667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u043b\u044c\u0431\u0435\u043d\u0440\u0430\u0439\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u044c\u0431\u0435\u043d\u0440\u0430\u0439\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5c14\u672c\u8d56\u56e0"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2776959,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Halbenrain",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":535936,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674971,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776959,
+        "gp:id":12674971,
+        "qs_pg:id":535936
+    },
+    "wof:country":"AT",
+    "wof:created":1497043817,
+    "wof:geomhash":"ea131c5f131c6f7ff3f5b980926ade6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125308175,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125308175,
+    "wof:lastmodified":1534531002,
+    "wof:name":"Halbenrain",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838805
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94667,
+    46.72194,
+    15.94667,
+    46.72194
+],
+  "geometry": {"coordinates":[15.94667,46.72194],"type":"Point"}
+}

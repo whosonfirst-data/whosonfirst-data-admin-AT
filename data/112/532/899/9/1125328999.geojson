@@ -1,0 +1,82 @@
+{
+  "id": 1125328999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39519,47.48445,15.39519,47.48445",
+    "geom:latitude":47.48445,
+    "geom:longitude":15.39519,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":992,
+    "gn:population":992,
+    "iso:country":"AT",
+    "lbl:latitude":47.48445,
+    "lbl:longitude":15.39519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872460,
+    "qs_pg:gn_pop":992,
+    "qs_pg:name":"M\u00fcrzhofen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108614,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872460,
+        "qs_pg:id":108614
+    },
+    "wof:country":"AT",
+    "wof:created":1497045009,
+    "wof:geomhash":"d9008c9dcf4ac1f0dce92227135fb277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1125328999,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125328999,
+    "wof:lastmodified":1536698169,
+    "wof:name":"M\u00fcrzhofen",
+    "wof:parent_id":1108892551,
+    "wof:placetype":"localadmin",
+    "wof:population":992,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838881
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39519,
+    47.48445,
+    15.39519,
+    47.48445
+],
+  "geometry": {"coordinates":[15.39519,47.48445],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 85898533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6009951.914756,
+    "geom:bbox":"15.094429,47.361814,15.094429,47.361814",
+    "geom:latitude":47.361814,
+    "geom:longitude":15.094429,
+    "iso:country":"AT",
+    "lbl:latitude":47.361814,
+    "lbl:longitude":15.094429,
+    "mps:latitude":47.356406,
+    "mps:longitude":15.091815,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:deu_x_colloquial":[
+        "Goess",
+        "Goss"
+    ],
+    "name:deu_x_preferred":[
+        "G\u00f6\u00df"
+    ],
+    "name:unk_x_variant":[
+        "G\u00f6\u00df"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_id":0,
+    "qs:gn_local":7872425,
+    "qs:gn_nam_loc":"Leoben, Leoben, Steiermark, AT",
+    "qs:gn_namadm1":"06",
+    "qs:id":0,
+    "qs:local_max":615,
+    "qs:local_sum":925,
+    "qs:localhoods":6,
+    "qs:name":"G\u00f6\u00df",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Steiermark",
+    "qs:name_adm2":"Leoben",
+    "qs:name_lau":"Leoben",
+    "qs:name_local":"Leoben",
+    "qs:photo_max":42,
+    "qs:photo_sum":116,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344713,
+    "qs:woe_adm2":12591737,
+    "qs:woe_lau":12674968,
+    "qs:woe_local":12674968,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839009,
+        85632785,
+        101834299,
+        102049769
+    ],
+    "wof:breaches":[
+        85898553
+    ],
+    "wof:concordances":{
+        "gp:id":548501
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"78a4e7323517902fce54809e192b9d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":101834299,
+            "neighbourhood_id":85898533,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":85898533,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932076,
+    "wof:name":"G\u00f6\u00df",
+    "wof:parent_id":101834299,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.094429,
+    47.361814,
+    15.094429,
+    47.361814
+],
+  "geometry": {"coordinates":[15.094429,47.361814],"type":"Point"}
+}

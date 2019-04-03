@@ -1,0 +1,82 @@
+{
+  "id": 1125355807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.77435,48.09539,12.77435,48.09539",
+    "geom:latitude":48.09539,
+    "geom:longitude":12.77435,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":574,
+    "gn:population":587,
+    "iso:country":"AT",
+    "lbl:latitude":48.09539,
+    "lbl:longitude":12.77435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873111,
+    "qs_pg:gn_pop":574,
+    "qs_pg:name":"Sankt Radegund",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743470,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873111,
+        "qs_pg:id":743470
+    },
+    "wof:country":"AT",
+    "wof:created":1497046465,
+    "wof:geomhash":"c3585cf5b38a183218a51565c3f8eb09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1125355807,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125355807,
+    "wof:lastmodified":1536698183,
+    "wof:name":"Sankt Radegund",
+    "wof:parent_id":102049833,
+    "wof:placetype":"localadmin",
+    "wof:population":587,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834793
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.77435,
+    48.09539,
+    12.77435,
+    48.09539
+],
+  "geometry": {"coordinates":[12.77435,48.09539],"type":"Point"}
+}

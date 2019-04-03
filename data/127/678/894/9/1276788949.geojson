@@ -1,0 +1,74 @@
+{
+  "id": 1276788949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,47.46667,15.56667,47.46667",
+    "geom:latitude":47.46667,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62132.0",
+    "gn:asciiname":"Fochnitz",
+    "gn:country_code":"AT",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779452,
+    "gn:latitude":47.46667,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Fochnitz",
+    "gn:population":27,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838839,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779452
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"23d13c22f478042b7f8ddd8e60bf70f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838839,
+            "locality_id":1276788949,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276788949,
+    "wof:lastmodified":1536665503,
+    "wof:name":"Fochnitz",
+    "wof:parent_id":1108838839,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    47.46667,
+    15.56667,
+    47.46667
+],
+  "geometry": {"coordinates":[15.56667,47.46667],"type":"Point"}
+}

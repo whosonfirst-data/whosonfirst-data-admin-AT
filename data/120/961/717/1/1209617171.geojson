@@ -1,0 +1,63 @@
+{
+  "id": 1209617171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93333,48.16667,14.93333,48.16667",
+    "geom:latitude":48.16667,
+    "geom:longitude":14.93333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30521.0",
+    "gn:asciiname":"Drulling",
+    "gn:country_code":"AT",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780662,
+    "gn:latitude":48.16667,
+    "gn:longitude":14.93333,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Dr\u00fclling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780662
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ee73605ad65437ec9b16cc9b7d14a475",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209617171
+        }
+    ],
+    "wof:id":1209617171,
+    "wof:lastmodified":1536281648,
+    "wof:name":"Drulling",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.933329999999998,
+    48.16667,
+    14.933329999999998,
+    48.16667
+],
+  "geometry": {"coordinates":[14.93333,48.16667],"type":"Point"}
+}

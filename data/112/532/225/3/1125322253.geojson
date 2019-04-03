@@ -1,0 +1,101 @@
+{
+  "id": 1125322253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90219,48.19745,15.90219,48.19745",
+    "geom:latitude":48.19745,
+    "geom:longitude":15.90219,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.19745,
+    "lbl:longitude":15.90219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439\u043b\u0435\u043d\u0433\u0431\u0430\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u043b\u0435\u043d\u0433\u0431\u0430\u0445"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u4f26\u5df4\u8d6b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2770730,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Neulengbach",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":233,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":37558,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673704,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770730,
+        "gp:id":12673704,
+        "qs_pg:id":37558
+    },
+    "wof:country":"AT",
+    "wof:created":1497044598,
+    "wof:geomhash":"a4f74752907026c0a2e56a982def77b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125322253,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125322253,
+    "wof:lastmodified":1534530974,
+    "wof:name":"Neulengbach",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834967
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90219,
+    48.19745,
+    15.90219,
+    48.19745
+],
+  "geometry": {"coordinates":[15.90219,48.19745],"type":"Point"}
+}

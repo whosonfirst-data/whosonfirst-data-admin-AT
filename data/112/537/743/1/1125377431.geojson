@@ -1,0 +1,101 @@
+{
+  "id": 1125377431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47919,47.69656,16.47919,47.69656",
+    "geom:latitude":47.69656,
+    "geom:longitude":16.47919,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.69656,
+    "lbl:longitude":16.47919,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hun_x_preferred":[
+        "L\u00e9pesfalva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0439\u043f\u0435\u0440\u0441\u0431\u0430\u0445 (\u0411\u0443\u0440\u0433\u0435\u043d\u043b\u0430\u043d\u0434)"
+    ],
+    "name:unk_x_variant":[
+        "Loipersbach"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2772294,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Loipersbach im Burgenland",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Burgenland",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1002010,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673464,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Burgenland",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772294,
+        "gp:id":12673464,
+        "qs_pg:id":1002010
+    },
+    "wof:country":"AT",
+    "wof:created":1497047838,
+    "wof:geomhash":"dd25772b5a831c1d53b2e32b2707dc94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049789,
+            "localadmin_id":1125377431,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125377431,
+    "wof:lastmodified":1534531000,
+    "wof:name":"Loipersbach im Burgenland",
+    "wof:parent_id":102049789,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838625
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47919,
+    47.69656,
+    16.47919,
+    47.69656
+],
+  "geometry": {"coordinates":[16.47919,47.69656],"type":"Point"}
+}

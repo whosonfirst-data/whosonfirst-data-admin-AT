@@ -1,0 +1,107 @@
+{
+  "id": 1125409845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01444,47.58876,14.01444,47.58876",
+    "geom:latitude":47.58876,
+    "geom:longitude":14.01444,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1006,
+    "gn:population":1006,
+    "iso:country":"AT",
+    "lbl:latitude":47.58876,
+    "lbl:longitude":14.01444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u0443\u043f\u043b\u0438\u0446"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0443\u043f\u043b\u0438\u0446"
+    ],
+    "name:zho_x_preferred":[
+        "\u9676\u666e\u5229\u8328"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873508,
+    "qs_pg:gn_pop":1006,
+    "qs_pg:name":"Tauplitz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":950,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155515,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675061,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873508,
+        "gp:id":12675061,
+        "qs_pg:id":1155515
+    },
+    "wof:concordances_alt":{
+        "gn:id":2763855,
+        "qs_pg:id":1101870
+    },
+    "wof:country":"AT",
+    "wof:created":1497049913,
+    "wof:geomhash":"6676c861608173a6ccbacece920f8807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125409845,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125409845,
+    "wof:lastmodified":1536698240,
+    "wof:name":"Tauplitz",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":1006,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838931
+    ],
+    "wof:supersedes":[
+        1125300775
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01444,
+    47.58876,
+    14.01444,
+    47.58876
+],
+  "geometry": {"coordinates":[14.01444,47.58876],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327239031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5,48.16667,15.5,48.16667",
+    "geom:latitude":48.16667,
+    "geom:longitude":15.5,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31938.0",
+    "gn:asciiname":"Eigendorf",
+    "gn:country_code":"AT",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780246,
+    "gn:latitude":48.16667,
+    "gn:longitude":15.5,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Eigendorf",
+    "gn:population":20,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835895,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780246
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"28788bca4a77fe3e1adf2c4cd804b0b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835895,
+            "locality_id":1327239031,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327239031,
+    "wof:lastmodified":1536959894,
+    "wof:name":"Eigendorf",
+    "wof:parent_id":1108835895,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5,
+    48.16667,
+    15.5,
+    48.16667
+],
+  "geometry": {"coordinates":[15.5,48.16667],"type":"Point"}
+}

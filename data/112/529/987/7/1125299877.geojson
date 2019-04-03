@@ -1,0 +1,94 @@
+{
+  "id": 1125299877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21714,48.32409,16.21714,48.32409",
+    "geom:latitude":48.32409,
+    "geom:longitude":16.21714,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":7118,
+    "gn:population":7823,
+    "iso:country":"AT",
+    "lbl:latitude":48.32409,
+    "lbl:longitude":16.21714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0412\u0451\u0440\u0434\u0435\u0440\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0410\u043d\u0434\u0440\u0435-\u0412\u0451\u0440\u0434\u0435\u0440\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0410\u043d\u0434\u0440\u0435-\u0412\u0435\u0440\u0434\u0435\u0440\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5b89\u5fb7\u70c8-\u6c83\u5c14\u767b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873041,
+    "qs_pg:gn_pop":7118,
+    "qs_pg:name":"Sankt Andr\u00e4-W\u00f6rdern",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1155408,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873041,
+        "qs_pg:id":1155408
+    },
+    "wof:country":"AT",
+    "wof:created":1497043364,
+    "wof:geomhash":"62eced9df64ecdd802386d08a346f2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1125299877,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125299877,
+    "wof:lastmodified":1536698139,
+    "wof:name":"Sankt Andr\u00e4-W\u00f6rdern",
+    "wof:parent_id":102049879,
+    "wof:placetype":"localadmin",
+    "wof:population":7823,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835345
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21714,
+    48.32409,
+    16.21714,
+    48.32409
+],
+  "geometry": {"coordinates":[16.21714,48.32409],"type":"Point"}
+}

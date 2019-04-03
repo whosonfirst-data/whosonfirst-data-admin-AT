@@ -1,0 +1,82 @@
+{
+  "id": 1125327635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.11606,47.36292,12.11606,47.36292",
+    "geom:latitude":47.36292,
+    "geom:longitude":12.11606,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":5383,
+    "gn:population":5647,
+    "iso:country":"AT",
+    "lbl:latitude":47.36292,
+    "lbl:longitude":12.11606,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873635,
+    "qs_pg:gn_pop":5383,
+    "qs_pg:name":"Hopfgarten im Brixental",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":108994,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681661,
+        102049763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873635,
+        "qs_pg:id":108994
+    },
+    "wof:country":"AT",
+    "wof:created":1497044912,
+    "wof:geomhash":"6cc2ed792a8d3fc7e4cd87a174c807c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1125327635,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125327635,
+    "wof:lastmodified":1534379107,
+    "wof:name":"Hopfgarten im Brixental",
+    "wof:parent_id":102049763,
+    "wof:placetype":"localadmin",
+    "wof:population":5647,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837343
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.11606,
+    47.36292,
+    12.11606,
+    47.36292
+],
+  "geometry": {"coordinates":[12.11606,47.36292],"type":"Point"}
+}

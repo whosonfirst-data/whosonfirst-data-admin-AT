@@ -1,0 +1,109 @@
+{
+  "id": 1125386555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4,48.21667,16.4,48.21667",
+    "geom:latitude":48.21667,
+    "geom:longitude":16.4,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":97677,
+    "gn:population":97677,
+    "iso:country":"AT",
+    "lbl:latitude":48.21667,
+    "lbl:longitude":16.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Leopoidst\u00e5t"
+    ],
+    "name:deu_x_preferred":[
+        "Leopoldstadt"
+    ],
+    "name:eng_x_preferred":[
+        "Leopoldstadt"
+    ],
+    "name:ita_x_preferred":[
+        "Leopoldstadt"
+    ],
+    "name:ltz_x_preferred":[
+        "Leopoldstadt"
+    ],
+    "name:nor_x_preferred":[
+        "Leopoldstadt"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u043e\u043f\u043e\u043b\u0434\u0448\u0442\u0430\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Leopoldstadt"
+    ],
+    "name:unk_x_variant":[
+        "2. Wiener Gemeindebezirk"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2772614,
+    "qs_pg:gn_pop":97677,
+    "qs_pg:name":"Gemeindebezirk Leopoldstadt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":1032501,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681667,
+        102049859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772614,
+        "qs_pg:id":1032501
+    },
+    "wof:country":"AT",
+    "wof:created":1497048418,
+    "wof:geomhash":"9d87e8228f1e9bf172b22af3155a8177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1125386555,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1125386555,
+    "wof:lastmodified":1536698222,
+    "wof:name":"Gemeindebezirk Leopoldstadt",
+    "wof:parent_id":102049859,
+    "wof:placetype":"localadmin",
+    "wof:population":97677,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838101
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4,
+    48.21667,
+    16.4,
+    48.21667
+],
+  "geometry": {"coordinates":[16.4,48.21667],"type":"Point"}
+}

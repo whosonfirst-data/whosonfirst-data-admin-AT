@@ -1,0 +1,85 @@
+{
+  "id": 1293792853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44868,46.51077,14.44868,46.51077",
+    "geom:latitude":46.51077,
+    "geom:longitude":14.44868,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"204",
+    "gn:admin3_code":"20441.0",
+    "gn:asciiname":"Zell-Homoelisch",
+    "gn:country_code":"AT",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775551,
+    "gn:latitude":46.51077,
+    "gn:longitude":14.44868,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Zell-Hom\u00f6lisch",
+    "gn:population":16,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zell-Hom\u00f6lisch"
+    ],
+    "name:slv_x_preferred":[
+        "Sele-Homeli\u0161e"
+    ],
+    "name:und_x_variant":[
+        "Sele-Homeli\u0161e",
+        "Hom\u00f6litsch",
+        "Hom\u00f6lisch"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838197,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775551
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"144fb783e43034381a9512399f770807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838197,
+            "locality_id":1293792853,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293792853,
+    "wof:lastmodified":1537584964,
+    "wof:name":"Zell-Homoelisch",
+    "wof:parent_id":1108838197,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44868,
+    46.51077,
+    14.44868,
+    46.51077
+],
+  "geometry": {"coordinates":[14.44868,46.51077],"type":"Point"}
+}

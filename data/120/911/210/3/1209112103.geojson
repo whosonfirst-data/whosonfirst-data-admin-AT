@@ -1,0 +1,66 @@
+{
+  "id": 1209112103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23333,48.45,14.23333,48.45",
+    "geom:latitude":48.45,
+    "geom:longitude":14.23333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"416",
+    "gn:admin3_code":"41615.0",
+    "gn:asciiname":"Lobenstein",
+    "gn:country_code":"AT",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772358,
+    "gn:latitude":48.45,
+    "gn:longitude":14.23333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lobenstein",
+    "gn:population":185,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772358
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"eff7bbcdf040e2606b35c06bdc8e7441",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209112103
+        }
+    ],
+    "wof:id":1209112103,
+    "wof:lastmodified":1536297373,
+    "wof:name":"Lobenstein",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":185,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23333,
+    48.45,
+    14.23333,
+    48.45
+],
+  "geometry": {"coordinates":[14.23333,48.45],"type":"Point"}
+}

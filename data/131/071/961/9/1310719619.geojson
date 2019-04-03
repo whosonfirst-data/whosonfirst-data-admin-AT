@@ -1,0 +1,71 @@
+{
+  "id": 1310719619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23333,47.01667,16.23333,47.01667",
+    "geom:latitude":47.01667,
+    "geom:longitude":16.23333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"105",
+    "gn:admin3_code":"10503.0",
+    "gn:asciiname":"Hochkugel",
+    "gn:country_code":"AT",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776004,
+    "gn:latitude":47.01667,
+    "gn:longitude":16.23333,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Hochkugel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838739,
+        85632785,
+        102049715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776004
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7e90d24c3bc5f1489fae50a92b2b2f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838739,
+            "locality_id":1310719619,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1310719619,
+    "wof:lastmodified":1536605069,
+    "wof:name":"Hochkugel",
+    "wof:parent_id":1108838739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23333,
+    47.01667,
+    16.23333,
+    47.01667
+],
+  "geometry": {"coordinates":[16.23333,47.01667],"type":"Point"}
+}

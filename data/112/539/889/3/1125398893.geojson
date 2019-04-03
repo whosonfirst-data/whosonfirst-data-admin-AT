@@ -1,0 +1,82 @@
+{
+  "id": 1125398893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72471,47.18036,13.72471,47.18036",
+    "geom:latitude":47.18036,
+    "geom:longitude":13.72471,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2293,
+    "gn:population":2358,
+    "iso:country":"AT",
+    "lbl:latitude":47.18036,
+    "lbl:longitude":13.72471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873319,
+    "qs_pg:gn_pop":2293,
+    "qs_pg:name":"Mariapfarr",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1063852,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873319,
+        "qs_pg:id":1063852
+    },
+    "wof:country":"AT",
+    "wof:created":1497049191,
+    "wof:geomhash":"0281f0d808be88482f9108ba6dfd2801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1125398893,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125398893,
+    "wof:lastmodified":1534379180,
+    "wof:name":"Mariapfarr",
+    "wof:parent_id":102049721,
+    "wof:placetype":"localadmin",
+    "wof:population":2358,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837049
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72471,
+    47.18036,
+    13.72471,
+    47.18036
+],
+  "geometry": {"coordinates":[13.72471,47.18036],"type":"Point"}
+}

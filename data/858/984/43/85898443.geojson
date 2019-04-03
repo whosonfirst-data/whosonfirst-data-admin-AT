@@ -1,0 +1,111 @@
+{
+  "id": 85898443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16187993.848543,
+    "geom:bbox":"13.868179,48.092716,13.868179,48.092716",
+    "geom:latitude":48.092716,
+    "geom:longitude":13.868179,
+    "iso:country":"AT",
+    "lbl:latitude":48.092716,
+    "lbl:longitude":13.868179,
+    "mps:latitude":48.093855,
+    "mps:longitude":13.863036,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Sand"
+    ],
+    "name:unk_x_variant":[
+        "Sand"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7872183,
+    "qs:gn_nam_loc":"Edt bei Lambach, Wels-Land, Ober\u00f6sterreich, AT",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Sand",
+    "qs:local_max":88,
+    "qs:local_sum":88,
+    "qs:localhoods":1,
+    "qs:name":"Sand",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Ober\u00f6sterreich",
+    "qs:name_adm2":"Wels-Land",
+    "qs:name_lau":"Edt bei Lambach",
+    "qs:name_local":"Edt bei Lambach",
+    "qs:photo_max":28,
+    "qs:photo_sum":88,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344711,
+    "qs:woe_adm2":12591714,
+    "qs:woe_lau":12674394,
+    "qs:woe_local":12674394,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836559,
+        85632785,
+        101833211,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766793,
+        "gp:id":546618,
+        "qs:id":267599,
+        "qs_pg:id":267599
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f46bac443547c0168e24daef5ecfe98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836559,
+            "locality_id":101833211,
+            "neighbourhood_id":85898443,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":85898443,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932064,
+    "wof:name":"Sand",
+    "wof:parent_id":101833211,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.868179,
+    48.092716,
+    13.868179,
+    48.092716
+],
+  "geometry": {"coordinates":[13.868179,48.092716],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310613871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48028,46.63,14.48028,46.63",
+    "geom:latitude":46.63,
+    "geom:longitude":14.48028,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20409.0",
+    "gn:asciiname":"Thon",
+    "gn:country_code":"AT",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763676,
+    "gn:latitude":46.63,
+    "gn:longitude":14.48028,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Thon",
+    "gn:population":34,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838167,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763676
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d19181977b37d01bf48bffc529af1885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838167,
+            "locality_id":1310613871,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310613871,
+    "wof:lastmodified":1536760758,
+    "wof:name":"Thon",
+    "wof:parent_id":1108838167,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48028,
+    46.63,
+    14.48028,
+    46.63
+],
+  "geometry": {"coordinates":[14.48028,46.63],"type":"Point"}
+}

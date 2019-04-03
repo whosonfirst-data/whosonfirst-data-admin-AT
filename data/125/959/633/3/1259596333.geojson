@@ -1,0 +1,71 @@
+{
+  "id": 1259596333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33333,46.65,13.33333,46.65",
+    "geom:latitude":46.65,
+    "geom:longitude":13.33333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20320.0",
+    "gn:asciiname":"Liesch",
+    "gn:country_code":"AT",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772498,
+    "gn:latitude":46.65,
+    "gn:longitude":13.33333,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Liesch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838159,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772498
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9a16541e29c7f7bd189ae30f42f70bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838159,
+            "locality_id":1259596333,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259596333,
+    "wof:lastmodified":1536696410,
+    "wof:name":"Liesch",
+    "wof:parent_id":1108838159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33333,
+    46.65,
+    13.33333,
+    46.65
+],
+  "geometry": {"coordinates":[13.33333,46.65],"type":"Point"}
+}

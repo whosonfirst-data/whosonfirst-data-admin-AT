@@ -1,0 +1,82 @@
+{
+  "id": 1125394147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4389,47.30961,16.4389,47.30961",
+    "geom:latitude":47.30961,
+    "geom:longitude":16.4389,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3138,
+    "gn:population":3123,
+    "iso:country":"AT",
+    "lbl:latitude":47.30961,
+    "lbl:longitude":16.4389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871624,
+    "qs_pg:gn_pop":3138,
+    "qs_pg:name":"Rechnitz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1041938,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871624,
+        "qs_pg:id":1041938
+    },
+    "wof:country":"AT",
+    "wof:created":1497048899,
+    "wof:geomhash":"ad4bf2967d2a52a13560b8d8d59aca08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1125394147,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125394147,
+    "wof:lastmodified":1534379134,
+    "wof:name":"Rechnitz",
+    "wof:parent_id":102049757,
+    "wof:placetype":"localadmin",
+    "wof:population":3123,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838571
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4389,
+    47.30961,
+    16.4389,
+    47.30961
+],
+  "geometry": {"coordinates":[16.4389,47.30961],"type":"Point"}
+}

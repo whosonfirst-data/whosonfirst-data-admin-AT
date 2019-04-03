@@ -1,0 +1,66 @@
+{
+  "id": 1209335743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56845,46.77981,12.56845,46.77981",
+    "geom:latitude":46.77981,
+    "geom:longitude":12.56845,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70704.0",
+    "gn:asciiname":"Kobreil",
+    "gn:country_code":"AT",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591873,
+    "gn:latitude":46.77981,
+    "gn:longitude":12.56845,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kobreil",
+    "gn:population":6,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591873
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d51051380c3f837b9f482121efe6b936",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209335743
+        }
+    ],
+    "wof:id":1209335743,
+    "wof:lastmodified":1536290228,
+    "wof:name":"Kobreil",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56845,
+    46.77981,
+    12.56845,
+    46.77981
+],
+  "geometry": {"coordinates":[12.56845,46.77981],"type":"Point"}
+}

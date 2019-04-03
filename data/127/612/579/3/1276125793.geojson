@@ -1,0 +1,74 @@
+{
+  "id": 1276125793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83525,48.2536,15.83525,48.2536",
+    "geom:latitude":48.2536,
+    "geom:longitude":15.83525,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"321",
+    "gn:admin3_code":"32139.0",
+    "gn:asciiname":"Gumperding",
+    "gn:country_code":"AT",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777283,
+    "gn:latitude":48.2536,
+    "gn:longitude":15.83525,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gumperding",
+    "gn:population":46,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834939,
+        85632785,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777283
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c65f4c31721712bbcb08737eeb3aef0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108834939,
+            "locality_id":1276125793,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276125793,
+    "wof:lastmodified":1537054276,
+    "wof:name":"Gumperding",
+    "wof:parent_id":1108834939,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83525,
+    48.2536,
+    15.83525,
+    48.2536
+],
+  "geometry": {"coordinates":[15.83525,48.2536],"type":"Point"}
+}

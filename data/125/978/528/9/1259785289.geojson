@@ -1,0 +1,74 @@
+{
+  "id": 1259785289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85396,48.27565,15.85396,48.27565",
+    "geom:latitude":48.27565,
+    "geom:longitude":15.85396,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"321",
+    "gn:admin3_code":"32139.0",
+    "gn:asciiname":"Diendorf",
+    "gn:country_code":"AT",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780996,
+    "gn:latitude":48.27565,
+    "gn:longitude":15.85396,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Diendorf",
+    "gn:population":97,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834939,
+        85632785,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780996
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a18743137b33a21c7b68545fa88dd4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108834939,
+            "locality_id":1259785289,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259785289,
+    "wof:lastmodified":1536921211,
+    "wof:name":"Diendorf",
+    "wof:parent_id":1108834939,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85396,
+    48.27565,
+    15.85396,
+    48.27565
+],
+  "geometry": {"coordinates":[15.85396,48.27565],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1125272965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25934,48.18654,15.25934,48.18654",
+    "geom:latitude":48.18654,
+    "geom:longitude":15.25934,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1229,
+    "gn:population":1265,
+    "iso:country":"AT",
+    "lbl:latitude":48.18654,
+    "lbl:longitude":15.25934,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871832,
+    "qs_pg:gn_pop":1229,
+    "qs_pg:name":"Zelking-Matzleinsdorf",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108392,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673755,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871832,
+        "gp:id":12673755,
+        "qs_pg:id":108392
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1018951
+    },
+    "wof:country":"AT",
+    "wof:created":1497042207,
+    "wof:geomhash":"004a3dbe85eefd0d81574e1785c8e9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1125272965,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125272965,
+    "wof:lastmodified":1536698118,
+    "wof:name":"Zelking-Matzleinsdorf",
+    "wof:parent_id":102049855,
+    "wof:placetype":"localadmin",
+    "wof:population":1265,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835387
+    ],
+    "wof:supersedes":[
+        1125393067
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25934,
+    48.18654,
+    15.25934,
+    48.18654
+],
+  "geometry": {"coordinates":[15.25934,48.18654],"type":"Point"}
+}

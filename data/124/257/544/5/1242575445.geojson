@@ -1,0 +1,74 @@
+{
+  "id": 1242575445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46667,47.28333,15.46667,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":15.46667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61758.0",
+    "gn:asciiname":"Schrems",
+    "gn:country_code":"AT",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765603,
+    "gn:latitude":47.28333,
+    "gn:longitude":15.46667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schrems",
+    "gn:population":268,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838859,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765603
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"141e58b4b7cb6f65fb537c6cd8848779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838859,
+            "locality_id":1242575445,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1242575445,
+    "wof:lastmodified":1537063957,
+    "wof:name":"Schrems",
+    "wof:parent_id":1108838859,
+    "wof:placetype":"locality",
+    "wof:population":268,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46667,
+    47.28333,
+    15.46667,
+    47.28333
+],
+  "geometry": {"coordinates":[15.46667,47.28333],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1125300273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10561,47.89465,16.10561,47.89465",
+    "geom:latitude":47.89465,
+    "geom:longitude":16.10561,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.89465,
+    "lbl:longitude":16.10561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0425\u0435\u0440\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0440\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u6069\u65af\u6cf0\u56e0"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2776485,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hernstein",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1101769,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673688,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776485,
+        "gp:id":12673688,
+        "qs_pg:id":1101769
+    },
+    "wof:country":"AT",
+    "wof:created":1497043382,
+    "wof:geomhash":"539261091faa8f180cd365e7ca701067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1125300273,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125300273,
+    "wof:lastmodified":1534530980,
+    "wof:name":"Hernstein",
+    "wof:parent_id":102049829,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835803
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10561,
+    47.89465,
+    16.10561,
+    47.89465
+],
+  "geometry": {"coordinates":[16.10561,47.89465],"type":"Point"}
+}

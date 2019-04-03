@@ -1,0 +1,66 @@
+{
+  "id": 1209011955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91302,48.07596,16.91302,48.07596",
+    "geom:latitude":48.07596,
+    "geom:longitude":16.91302,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"307.0",
+    "gn:admin3_code":"30719.0",
+    "gn:asciiname":"Schoenabrunn",
+    "gn:country_code":"AT",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765751,
+    "gn:latitude":48.07596,
+    "gn:longitude":16.91302,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sch\u00f6nabrunn",
+    "gn:population":192,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765751
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"92932d3382adbda33495892f18714c0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209011955
+        }
+    ],
+    "wof:id":1209011955,
+    "wof:lastmodified":1536300417,
+    "wof:name":"Schoenabrunn",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91302,
+    48.07596,
+    16.91302,
+    48.07596
+],
+  "geometry": {"coordinates":[16.91302,48.07596],"type":"Point"}
+}

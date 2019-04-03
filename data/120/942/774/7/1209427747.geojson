@@ -1,0 +1,66 @@
+{
+  "id": 1209427747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73333,46.8,13.73333,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":13.73333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20630.0",
+    "gn:asciiname":"Obertweng",
+    "gn:country_code":"AT",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769643,
+    "gn:latitude":46.8,
+    "gn:longitude":13.73333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Obertweng",
+    "gn:population":80,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769643
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3d7bfff3d0e02e135027a85b1ac323a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209427747
+        }
+    ],
+    "wof:id":1209427747,
+    "wof:lastmodified":1536287328,
+    "wof:name":"Obertweng",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73333,
+    46.8,
+    13.73333,
+    46.8
+],
+  "geometry": {"coordinates":[13.73333,46.8],"type":"Point"}
+}

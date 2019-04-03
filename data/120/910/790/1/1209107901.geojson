@@ -1,0 +1,66 @@
+{
+  "id": 1209107901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08333,48.48333,16.08333,48.48333",
+    "geom:latitude":48.48333,
+    "geom:longitude":16.08333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"310",
+    "gn:admin3_code":"31008.0",
+    "gn:asciiname":"Eitzersthal",
+    "gn:country_code":"AT",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780160,
+    "gn:latitude":48.48333,
+    "gn:longitude":16.08333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Eitzersthal",
+    "gn:population":155,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780160
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"077bde8655dc2ec4701ab0bed7ac0c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209107901
+        }
+    ],
+    "wof:id":1209107901,
+    "wof:lastmodified":1536297506,
+    "wof:name":"Eitzersthal",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":155,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08333,
+    48.48333,
+    16.08333,
+    48.48333
+],
+  "geometry": {"coordinates":[16.08333,48.48333],"type":"Point"}
+}

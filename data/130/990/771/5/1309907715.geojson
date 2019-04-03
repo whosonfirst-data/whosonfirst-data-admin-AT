@@ -1,0 +1,74 @@
+{
+  "id": 1309907715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09204,48.10852,15.09204,48.10852",
+    "geom:latitude":48.10852,
+    "geom:longitude":15.09204,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"320",
+    "gn:admin3_code":"32017.0",
+    "gn:asciiname":"Kaswinkel",
+    "gn:country_code":"AT",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610476,
+    "gn:latitude":48.10852,
+    "gn:longitude":15.09204,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kaswinkel",
+    "gn:population":10,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836719,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610476
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c5e47c3a12526ae0eb8edc96b0fc07fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108836719,
+            "locality_id":1309907715,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1309907715,
+    "wof:lastmodified":1536784674,
+    "wof:name":"Kaswinkel",
+    "wof:parent_id":1108836719,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09204,
+    48.10852,
+    15.09204,
+    48.10852
+],
+  "geometry": {"coordinates":[15.09204,48.10852],"type":"Point"}
+}

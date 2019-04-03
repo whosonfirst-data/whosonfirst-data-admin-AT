@@ -1,0 +1,74 @@
+{
+  "id": 1310406307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96667,48.06667,12.96667,48.06667",
+    "geom:latitude":48.06667,
+    "geom:longitude":12.96667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40406.0",
+    "gn:asciiname":"Ibm",
+    "gn:country_code":"AT",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775348,
+    "gn:latitude":48.06667,
+    "gn:longitude":12.96667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ibm",
+    "gn:population":327,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834719,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775348
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f467d44c7a3a443c580d5af1d08aa77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834719,
+            "locality_id":1310406307,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310406307,
+    "wof:lastmodified":1537057602,
+    "wof:name":"Ibm",
+    "wof:parent_id":1108834719,
+    "wof:placetype":"locality",
+    "wof:population":327,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96667,
+    48.06667,
+    12.96667,
+    48.06667
+],
+  "geometry": {"coordinates":[12.96667,48.06667],"type":"Point"}
+}

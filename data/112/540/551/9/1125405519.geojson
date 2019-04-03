@@ -1,0 +1,82 @@
+{
+  "id": 1125405519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77378,48.00028,14.77378,48.00028",
+    "geom:latitude":48.00028,
+    "geom:longitude":14.77378,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4040,
+    "gn:population":3846,
+    "iso:country":"AT",
+    "lbl:latitude":48.00028,
+    "lbl:longitude":14.77378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872826,
+    "qs_pg:gn_pop":4040,
+    "qs_pg:name":"Sonntagberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155379,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872826,
+        "qs_pg:id":1155379
+    },
+    "wof:country":"AT",
+    "wof:created":1497049616,
+    "wof:geomhash":"b5224a159bb5259a02d2add41ef8f1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1125405519,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125405519,
+    "wof:lastmodified":1534531025,
+    "wof:name":"Sonntagberg",
+    "wof:parent_id":102049835,
+    "wof:placetype":"localadmin",
+    "wof:population":3846,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836699
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77378,
+    48.00028,
+    14.77378,
+    48.00028
+],
+  "geometry": {"coordinates":[14.77378,48.00028],"type":"Point"}
+}

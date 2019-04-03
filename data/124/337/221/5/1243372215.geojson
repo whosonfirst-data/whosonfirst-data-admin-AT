@@ -1,0 +1,74 @@
+{
+  "id": 1243372215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.12617,46.66428,13.12617,46.66428",
+    "geom:latitude":46.66428,
+    "geom:longitude":13.12617,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20306.0",
+    "gn:asciiname":"Schmalzgrube",
+    "gn:country_code":"AT",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594170,
+    "gn:latitude":46.66428,
+    "gn:longitude":13.12617,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schmalzgrube",
+    "gn:population":8,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838153,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594170
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7aab6b5c40d78d85e5220f8dab59a9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838153,
+            "locality_id":1243372215,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1243372215,
+    "wof:lastmodified":1536912964,
+    "wof:name":"Schmalzgrube",
+    "wof:parent_id":1108838153,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.12617,
+    46.66428,
+    13.12617,
+    46.66428
+],
+  "geometry": {"coordinates":[13.12617,46.66428],"type":"Point"}
+}

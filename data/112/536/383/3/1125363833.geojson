@@ -1,0 +1,86 @@
+{
+  "id": 1125363833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.290165,48.306455,14.290165,48.306455",
+    "geom:latitude":48.306455,
+    "geom:longitude":14.290165,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":48.306455,
+    "lbl:longitude":14.290165,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Linz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":190,
+    "qs_pg:photos_9r":23,
+    "qs_pg:photos_all":42855,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1168446,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674377,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674377,
+        "qs_pg:id":1168446
+    },
+    "wof:country":"AT",
+    "wof:created":1497046958,
+    "wof:geomhash":"5469ee12cd2213b84313d7bb10a9309a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049853,
+            "localadmin_id":1125363833,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125363833,
+    "wof:lastmodified":1534379223,
+    "wof:name":"Linz",
+    "wof:parent_id":102049853,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834701
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.290165,
+    48.306455,
+    14.290165,
+    48.306455
+],
+  "geometry": {"coordinates":[14.290165,48.306455],"type":"Point"}
+}

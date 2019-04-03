@@ -1,0 +1,74 @@
+{
+  "id": 1226242925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75608,47.98059,13.75608,47.98059",
+    "geom:latitude":47.98059,
+    "geom:longitude":13.75608,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"407",
+    "gn:admin3_code":"40713.0",
+    "gn:asciiname":"Grossreith",
+    "gn:country_code":"AT",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611869,
+    "gn:latitude":47.98059,
+    "gn:longitude":13.75608,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gro\u00dfreith",
+    "gn:population":31,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835149,
+        85632785,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611869
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dfbc418f5b72c153721f887d944bd867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835149,
+            "locality_id":1226242925,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226242925,
+    "wof:lastmodified":1536938430,
+    "wof:name":"Grossreith",
+    "wof:parent_id":1108835149,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75608,
+    47.98059,
+    13.75608,
+    47.98059
+],
+  "geometry": {"coordinates":[13.75608,47.98059],"type":"Point"}
+}

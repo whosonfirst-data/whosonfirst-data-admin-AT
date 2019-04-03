@@ -1,0 +1,82 @@
+{
+  "id": 1125394143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33073,47.23812,16.33073,47.23812",
+    "geom:latitude":47.23812,
+    "geom:longitude":16.33073,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3582,
+    "gn:population":3530,
+    "iso:country":"AT",
+    "lbl:latitude":47.23812,
+    "lbl:longitude":16.33073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871617,
+    "qs_pg:gn_pop":3582,
+    "qs_pg:name":"Gro\u00dfpetersdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1041930,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871617,
+        "qs_pg:id":1041930
+    },
+    "wof:country":"AT",
+    "wof:created":1497048899,
+    "wof:geomhash":"3cdf06dadcdee99ae3b0985d60de8f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1125394143,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125394143,
+    "wof:lastmodified":1534531052,
+    "wof:name":"Gro\u00dfpetersdorf",
+    "wof:parent_id":102049757,
+    "wof:placetype":"localadmin",
+    "wof:population":3530,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838651
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33073,
+    47.23812,
+    16.33073,
+    47.23812
+],
+  "geometry": {"coordinates":[16.33073,47.23812],"type":"Point"}
+}

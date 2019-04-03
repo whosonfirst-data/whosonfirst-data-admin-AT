@@ -1,0 +1,74 @@
+{
+  "id": 1343965541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16195,48.74416,15.16195,48.74416",
+    "geom:latitude":48.74416,
+    "geom:longitude":15.16195,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"322",
+    "gn:admin3_code":"32219.0",
+    "gn:asciiname":"Kleingloms",
+    "gn:country_code":"AT",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774123,
+    "gn:latitude":48.74416,
+    "gn:longitude":15.16195,
+    "gn:modification_date":"2018-08-01",
+    "gn:name":"Kleingloms",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836749,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774123
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"131e03ff8b7bb9c23d61333254905b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836749,
+            "locality_id":1343965541,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343965541,
+    "wof:lastmodified":1537011839,
+    "wof:name":"Kleingloms",
+    "wof:parent_id":1108836749,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16195,
+    48.74416,
+    15.16195,
+    48.74416
+],
+  "geometry": {"coordinates":[15.16195,48.74416],"type":"Point"}
+}

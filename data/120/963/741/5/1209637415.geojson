@@ -1,0 +1,72 @@
+{
+  "id": 1209637415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85,47.16667,15.85,47.16667",
+    "geom:latitude":47.16667,
+    "geom:longitude":15.85,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61759.0",
+    "gn:asciiname":"Gersdorf an der Feistritz",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2778636,
+    "gn:latitude":47.16667,
+    "gn:longitude":15.85,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gersdorf an der Feistritz",
+    "gn:population":583,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gersdorf",
+        "Gersdorf an der Feistritz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778636,
+        "wk:page":"Gersdorf_an_der_Feistritz"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9a697942519ad29a41bbd6ea22083a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209637415
+        }
+    ],
+    "wof:id":1209637415,
+    "wof:lastmodified":1537584973,
+    "wof:name":"Gersdorf an der Feistritz",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":583,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85,
+    47.16667,
+    15.85,
+    47.16667
+],
+  "geometry": {"coordinates":[15.85,47.16667],"type":"Point"}
+}

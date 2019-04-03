@@ -1,0 +1,74 @@
+{
+  "id": 1276774789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10613,48.71695,15.10613,48.71695",
+    "geom:latitude":48.71695,
+    "geom:longitude":15.10613,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"309",
+    "gn:admin3_code":"30921.0",
+    "gn:asciiname":"Hollenstein",
+    "gn:country_code":"AT",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775614,
+    "gn:latitude":48.71695,
+    "gn:longitude":15.10613,
+    "gn:modification_date":"2018-08-01",
+    "gn:name":"Hollenstein",
+    "gn:population":162,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836923,
+        85632785,
+        102049905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775614
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f8daa2a384ae9c404397fb8ef1561cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049905,
+            "localadmin_id":1108836923,
+            "locality_id":1276774789,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276774789,
+    "wof:lastmodified":1536684255,
+    "wof:name":"Hollenstein",
+    "wof:parent_id":1108836923,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10613,
+    48.71695,
+    15.10613,
+    48.71695
+],
+  "geometry": {"coordinates":[15.10613,48.71695],"type":"Point"}
+}

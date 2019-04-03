@@ -1,0 +1,77 @@
+{
+  "id": 1293881161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5343,47.5446,15.5343,47.5446",
+    "geom:latitude":47.5446,
+    "geom:longitude":15.5343,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62115.0",
+    "gn:asciiname":"Fressnitz",
+    "gn:country_code":"AT",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779264,
+    "gn:latitude":47.5446,
+    "gn:longitude":15.5343,
+    "gn:modification_date":"2018-07-30",
+    "gn:name":"Fressnitz",
+    "gn:population":893,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fre\u00dfnitz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838877,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779264
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"497ba1b6c90d7a0d234e98c9631ae073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838877,
+            "locality_id":1293881161,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293881161,
+    "wof:lastmodified":1537584974,
+    "wof:name":"Fressnitz",
+    "wof:parent_id":1108838877,
+    "wof:placetype":"locality",
+    "wof:population":893,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5343,
+    47.5446,
+    15.5343,
+    47.5446
+],
+  "geometry": {"coordinates":[15.5343,47.5446],"type":"Point"}
+}

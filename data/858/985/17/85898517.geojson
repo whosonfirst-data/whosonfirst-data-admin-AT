@@ -1,0 +1,115 @@
+{
+  "id": 85898517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10947430.17378,
+    "geom:bbox":"12.978088,47.771069,12.978088,47.771069",
+    "geom:latitude":47.771069,
+    "geom:longitude":12.978088,
+    "iso:country":"AT",
+    "lbl:latitude":47.771069,
+    "lbl:longitude":12.978088,
+    "mps:latitude":47.766401,
+    "mps:longitude":12.978471,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Schwelzer-Siedlung"
+    ],
+    "name:eng_x_preferred":[
+        "Schweizersiedlung"
+    ],
+    "name:eng_x_variant":[
+        "Schweizersiedlung"
+    ],
+    "name:unk_x_variant":[
+        "Schwelzer-Siedlung"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Schweizer Siedlung",
+    "qs:local_max":138,
+    "qs:local_sum":278,
+    "qs:localhoods":4,
+    "qs:name":"Schwelzer-Siedlung",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Salzburg",
+    "qs:name_adm2":"Salzburg-Umgebung",
+    "qs:name_en":"Schweizersiedlung",
+    "qs:name_lau":"Wals-Siezenheim",
+    "qs:name_local":"Wals-Siezenheim",
+    "qs:photo_max":45,
+    "qs:photo_sum":138,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344712,
+    "qs:woe_adm2":12591721,
+    "qs:woe_lau":12674753,
+    "qs:woe_local":12674753,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1108837189,
+        85632785,
+        102049799,
+        85681681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3322808,
+        "gp:id":547870,
+        "qs:id":475807,
+        "qs_pg:id":475807
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"75eb93c626ae7618f66cabdb2b8785b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":-1,
+            "neighbourhood_id":85898517,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":85898517,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932073,
+    "wof:name":"Schwelzer-Siedlung",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.978088,
+    47.771069,
+    12.978088,
+    47.771069
+],
+  "geometry": {"coordinates":[12.978088,47.771069],"type":"Point"}
+}

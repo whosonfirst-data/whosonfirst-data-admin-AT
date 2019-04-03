@@ -1,0 +1,66 @@
+{
+  "id": 1209323431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17138,46.69705,14.17138,46.69705",
+    "geom:latitude":46.69705,
+    "geom:longitude":14.17138,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Farcha",
+    "gn:country_code":"AT",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591909,
+    "gn:latitude":46.69705,
+    "gn:longitude":14.17138,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Farcha",
+    "gn:population":37,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591909
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c9950a37c2eff9eddc06d8b05a1c03e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209323431
+        }
+    ],
+    "wof:id":1209323431,
+    "wof:lastmodified":1536290612,
+    "wof:name":"Farcha",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17138,
+    46.69705,
+    14.17138,
+    46.69705
+],
+  "geometry": {"coordinates":[14.17138,46.69705],"type":"Point"}
+}

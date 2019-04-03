@@ -1,0 +1,74 @@
+{
+  "id": 1226650983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58024,47.07946,13.58024,47.07946",
+    "geom:latitude":47.07946,
+    "geom:longitude":13.58024,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50505.0",
+    "gn:asciiname":"Schellgaden",
+    "gn:country_code":"AT",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766039,
+    "gn:latitude":47.07946,
+    "gn:longitude":13.58024,
+    "gn:modification_date":"2018-07-29",
+    "gn:name":"Schellgaden",
+    "gn:population":67,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837055,
+        85632785,
+        102049721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766039
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dc0d5fbf85d2171af1f7d95e7b7fad8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837055,
+            "locality_id":1226650983,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1226650983,
+    "wof:lastmodified":1536850733,
+    "wof:name":"Schellgaden",
+    "wof:parent_id":1108837055,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58024,
+    47.07946,
+    13.58024,
+    47.07946
+],
+  "geometry": {"coordinates":[13.58024,47.07946],"type":"Point"}
+}

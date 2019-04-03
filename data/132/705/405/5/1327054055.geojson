@@ -1,0 +1,74 @@
+{
+  "id": 1327054055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64262,48.182,13.64262,48.182",
+    "geom:latitude":48.182,
+    "geom:longitude":13.64262,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40809.0",
+    "gn:asciiname":"Manichgattern",
+    "gn:country_code":"AT",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611680,
+    "gn:latitude":48.182,
+    "gn:longitude":13.64262,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Manichgattern",
+    "gn:population":67,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835185,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611680
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6bd334f6620d021eace84a6c016d5b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835185,
+            "locality_id":1327054055,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327054055,
+    "wof:lastmodified":1536729530,
+    "wof:name":"Manichgattern",
+    "wof:parent_id":1108835185,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64262,
+    48.182,
+    13.64262,
+    48.182
+],
+  "geometry": {"coordinates":[13.64262,48.182],"type":"Point"}
+}

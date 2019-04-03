@@ -1,0 +1,74 @@
+{
+  "id": 1360091321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49842,48.29364,13.49842,48.29364",
+    "geom:latitude":48.29364,
+    "geom:longitude":13.49842,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41233.0",
+    "gn:asciiname":"Floecklern",
+    "gn:country_code":"AT",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610580,
+    "gn:latitude":48.29364,
+    "gn:longitude":13.49842,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Fl\u00f6cklern",
+    "gn:population":5,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835697,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610580
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"839bf353d84b7f95ca1be08df98a8444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835697,
+            "locality_id":1360091321,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1360091321,
+    "wof:lastmodified":1536937367,
+    "wof:name":"Floecklern",
+    "wof:parent_id":1108835697,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49842,
+    48.29364,
+    13.49842,
+    48.29364
+],
+  "geometry": {"coordinates":[13.49842,48.29364],"type":"Point"}
+}

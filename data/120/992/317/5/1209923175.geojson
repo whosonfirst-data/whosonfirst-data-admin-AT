@@ -1,0 +1,74 @@
+{
+  "id": 1209923175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50037,46.61222,14.50037,46.61222",
+    "geom:latitude":46.61222,
+    "geom:longitude":14.50037,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"204",
+    "gn:admin3_code":"20409.0",
+    "gn:asciiname":"Woelfnitz",
+    "gn:country_code":"AT",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11608999,
+    "gn:latitude":46.61222,
+    "gn:longitude":14.50037,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"W\u00f6lfnitz",
+    "gn:population":88,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838167,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11608999
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"94392d785f0a70f5287e052783e71c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838167,
+            "locality_id":1209923175,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1209923175,
+    "wof:lastmodified":1536396082,
+    "wof:name":"Woelfnitz",
+    "wof:parent_id":1108838167,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50037,
+    46.61222,
+    14.50037,
+    46.61222
+],
+  "geometry": {"coordinates":[14.50037,46.61222],"type":"Point"}
+}

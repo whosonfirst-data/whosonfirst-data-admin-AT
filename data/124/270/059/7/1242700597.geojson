@@ -1,0 +1,76 @@
+{
+  "id": 1242700597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4,47.53333,13.4,47.53333",
+    "geom:latitude":47.53333,
+    "geom:longitude":13.4,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"502",
+    "gn:admin3_code":"50201.0",
+    "gn:asciiname":"Gwechenberg",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777174,
+    "gn:latitude":47.53333,
+    "gn:longitude":13.4,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Gwechenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quechenberg",
+        "Gwechenberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837081,
+        85632785,
+        102049773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777174
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"af317024d8dec2118b90ece8b4880110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837081,
+            "locality_id":1242700597,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1242700597,
+    "wof:lastmodified":1537584969,
+    "wof:name":"Gwechenberg",
+    "wof:parent_id":1108837081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4,
+    47.53333,
+    13.4,
+    47.53333
+],
+  "geometry": {"coordinates":[13.4,47.53333],"type":"Point"}
+}

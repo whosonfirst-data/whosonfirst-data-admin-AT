@@ -1,0 +1,63 @@
+{
+  "id": 1209028003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18333,47.4,11.18333,47.4",
+    "geom:latitude":47.4,
+    "geom:longitude":11.18333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70326.0",
+    "gn:asciiname":"Reindlau",
+    "gn:country_code":"AT",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767714,
+    "gn:latitude":47.4,
+    "gn:longitude":11.18333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Reindlau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767714
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cdd9371d6c43f62ab90c20eefd15ae9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209028003
+        }
+    ],
+    "wof:id":1209028003,
+    "wof:lastmodified":1536299935,
+    "wof:name":"Reindlau",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18333,
+    47.4,
+    11.18333,
+    47.4
+],
+  "geometry": {"coordinates":[11.18333,47.4],"type":"Point"}
+}

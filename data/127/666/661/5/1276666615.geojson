@@ -1,0 +1,71 @@
+{
+  "id": 1276666615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45778,46.68806,14.45778,46.68806",
+    "geom:latitude":46.68806,
+    "geom:longitude":14.45778,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20442.0",
+    "gn:asciiname":"OEchsendorf",
+    "gn:country_code":"AT",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769544,
+    "gn:latitude":46.68806,
+    "gn:longitude":14.45778,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"\u00d6chsendorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838199,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769544
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5044e9f9efd5857d2a89524ee3b92965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838199,
+            "locality_id":1276666615,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1276666615,
+    "wof:lastmodified":1536828143,
+    "wof:name":"OEchsendorf",
+    "wof:parent_id":1108838199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45778,
+    46.68806,
+    14.45778,
+    46.68806
+],
+  "geometry": {"coordinates":[14.45778,46.68806],"type":"Point"}
+}

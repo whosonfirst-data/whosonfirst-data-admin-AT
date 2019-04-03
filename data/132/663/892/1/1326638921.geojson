@@ -1,0 +1,74 @@
+{
+  "id": 1326638921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35123,46.56329,14.35123,46.56329",
+    "geom:latitude":46.56329,
+    "geom:longitude":14.35123,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20417.0",
+    "gn:asciiname":"Saberda",
+    "gn:country_code":"AT",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766911,
+    "gn:latitude":46.56329,
+    "gn:longitude":14.35123,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Saberda",
+    "gn:population":32,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838179,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766911
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2c4b4b6e633aab48e59c3616e55deb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838179,
+            "locality_id":1326638921,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1326638921,
+    "wof:lastmodified":1536829103,
+    "wof:name":"Saberda",
+    "wof:parent_id":1108838179,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35123,
+    46.56329,
+    14.35123,
+    46.56329
+],
+  "geometry": {"coordinates":[14.35123,46.56329],"type":"Point"}
+}

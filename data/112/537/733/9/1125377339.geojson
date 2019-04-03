@@ -1,0 +1,82 @@
+{
+  "id": 1125377339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68753,48.35902,16.68753,48.35902",
+    "geom:latitude":48.35902,
+    "geom:longitude":16.68753,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1917,
+    "gn:population":1974,
+    "iso:country":"AT",
+    "lbl:latitude":48.35902,
+    "lbl:longitude":16.68753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871743,
+    "qs_pg:gn_pop":1917,
+    "qs_pg:name":"Sch\u00f6nkirchen-Reyersdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108350,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871743,
+        "qs_pg:id":108350
+    },
+    "wof:country":"AT",
+    "wof:created":1497047833,
+    "wof:geomhash":"6d2b30c8514ed548ed52013504de33a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1125377339,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125377339,
+    "wof:lastmodified":1536698213,
+    "wof:name":"Sch\u00f6nkirchen-Reyersdorf",
+    "wof:parent_id":102049891,
+    "wof:placetype":"localadmin",
+    "wof:population":1974,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836235
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68753,
+    48.35902,
+    16.68753,
+    48.35902
+],
+  "geometry": {"coordinates":[16.68753,48.35902],"type":"Point"}
+}

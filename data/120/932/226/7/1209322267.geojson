@@ -1,0 +1,63 @@
+{
+  "id": 1209322267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51278,48.64194,16.51278,48.64194",
+    "geom:latitude":48.64194,
+    "geom:longitude":16.51278,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"316",
+    "gn:admin3_code":"31633.0",
+    "gn:asciiname":"Ziegelei Steingassner",
+    "gn:country_code":"AT",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3321107,
+    "gn:latitude":48.64194,
+    "gn:longitude":16.51278,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Ziegelei Steingassner",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3321107
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"efffa05d00fc00a5fe57b3d7fc67fdb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209322267
+        }
+    ],
+    "wof:id":1209322267,
+    "wof:lastmodified":1536290651,
+    "wof:name":"Ziegelei Steingassner",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51278,
+    48.64194000000001,
+    16.51278,
+    48.64194000000001
+],
+  "geometry": {"coordinates":[16.51278,48.64194000000001],"type":"Point"}
+}

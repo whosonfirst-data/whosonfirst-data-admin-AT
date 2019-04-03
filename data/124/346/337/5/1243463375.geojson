@@ -1,0 +1,74 @@
+{
+  "id": 1243463375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,46.71667,14.35,46.71667",
+    "geom:latitude":46.71667,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20527.0",
+    "gn:asciiname":"Streimberg",
+    "gn:country_code":"AT",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764155,
+    "gn:latitude":46.71667,
+    "gn:longitude":14.35,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Streimberg",
+    "gn:population":2,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838239,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764155
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"854db876aaacd51b47d58b5d55f80a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838239,
+            "locality_id":1243463375,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1243463375,
+    "wof:lastmodified":1536781533,
+    "wof:name":"Streimberg",
+    "wof:parent_id":1108838239,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    46.71667,
+    14.35,
+    46.71667
+],
+  "geometry": {"coordinates":[14.35,46.71667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209721717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7466,48.33894,13.7466,48.33894",
+    "geom:latitude":48.33894,
+    "geom:longitude":13.7466,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40828.0",
+    "gn:asciiname":"Enzing",
+    "gn:country_code":"AT",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609136,
+    "gn:latitude":48.33894,
+    "gn:longitude":13.7466,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Enzing",
+    "gn:population":47,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835227,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609136
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"57bec718afcb74bf8d0bea9eeacac315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835227,
+            "locality_id":1209721717,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1209721717,
+    "wof:lastmodified":1536386074,
+    "wof:name":"Enzing",
+    "wof:parent_id":1108835227,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7466,
+    48.33894,
+    13.7466,
+    48.33894
+],
+  "geometry": {"coordinates":[13.7466,48.33894],"type":"Point"}
+}

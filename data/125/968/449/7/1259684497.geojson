@@ -1,0 +1,74 @@
+{
+  "id": 1259684497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45885,48.18311,13.45885,48.18311",
+    "geom:latitude":48.18311,
+    "geom:longitude":13.45885,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41218.0",
+    "gn:asciiname":"Ponneredt",
+    "gn:country_code":"AT",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609674,
+    "gn:latitude":48.18311,
+    "gn:longitude":13.45885,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ponneredt",
+    "gn:population":94,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835663,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609674
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"96fb6a312804ea01766d329427636529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835663,
+            "locality_id":1259684497,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259684497,
+    "wof:lastmodified":1537062758,
+    "wof:name":"Ponneredt",
+    "wof:parent_id":1108835663,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45885,
+    48.18311,
+    13.45885,
+    48.18311
+],
+  "geometry": {"coordinates":[13.45885,48.18311],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1210024133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27409,48.2165,15.27409,48.2165",
+    "geom:latitude":48.2165,
+    "geom:longitude":15.27409,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31550.0",
+    "gn:asciiname":"Bergern",
+    "gn:country_code":"AT",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781872,
+    "gn:latitude":48.2165,
+    "gn:longitude":15.27409,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bergern",
+    "gn:population":33,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835387,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781872
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ea07e9831e3010f4caa985154d6ff9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835387,
+            "locality_id":1210024133,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1210024133,
+    "wof:lastmodified":1536391510,
+    "wof:name":"Bergern",
+    "wof:parent_id":1108835387,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27409,
+    48.2165,
+    15.27409,
+    48.2165
+],
+  "geometry": {"coordinates":[15.27409,48.2165],"type":"Point"}
+}

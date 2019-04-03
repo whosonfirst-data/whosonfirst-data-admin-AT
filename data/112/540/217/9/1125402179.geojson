@@ -1,0 +1,99 @@
+{
+  "id": 1125402179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36052,47.07644,15.36052,47.07644",
+    "geom:latitude":47.07644,
+    "geom:longitude":15.36052,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":2231,
+    "gn:population":2231,
+    "iso:country":"AT",
+    "lbl:latitude":47.07644,
+    "lbl:longitude":15.36052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u044c-\u0413\u0440\u0430\u0446"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":7304078,
+    "qs_pg:gn_pop":2231,
+    "qs_pg:name":"Thal",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":189,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":335,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":902498,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674981,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304078,
+        "gp:id":12674981,
+        "qs_pg:id":902498
+    },
+    "wof:country":"AT",
+    "wof:created":1497049393,
+    "wof:geomhash":"57832440d9801309498de86bef160922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125402179,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125402179,
+    "wof:lastmodified":1536698234,
+    "wof:name":"Thal",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":2231,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839149
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36052,
+    47.07644,
+    15.36052,
+    47.07644
+],
+  "geometry": {"coordinates":[15.36052,47.07644],"type":"Point"}
+}

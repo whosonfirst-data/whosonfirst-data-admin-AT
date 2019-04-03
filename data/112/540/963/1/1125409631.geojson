@@ -1,0 +1,82 @@
+{
+  "id": 1125409631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83379,47.53577,15.83379,47.53577",
+    "geom:latitude":47.53577,
+    "geom:longitude":15.83379,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":771,
+    "gn:population":749,
+    "iso:country":"AT",
+    "lbl:latitude":47.53577,
+    "lbl:longitude":15.83379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872520,
+    "qs_pg:gn_pop":771,
+    "qs_pg:name":"Rettenegg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1155295,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872520,
+        "qs_pg:id":1155295
+    },
+    "wof:country":"AT",
+    "wof:created":1497049893,
+    "wof:geomhash":"85366d355a18d396ca10e0526e8609f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125409631,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125409631,
+    "wof:lastmodified":1534531033,
+    "wof:name":"Rettenegg",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":749,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839389
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83379,
+    47.53577,
+    15.83379,
+    47.53577
+],
+  "geometry": {"coordinates":[15.83379,47.53577],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243461949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88163,47.73872,14.88163,47.73872",
+    "geom:latitude":47.73872,
+    "geom:longitude":14.88163,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"320",
+    "gn:admin3_code":"32002.0",
+    "gn:asciiname":"Mendling",
+    "gn:country_code":"AT",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771666,
+    "gn:latitude":47.73872,
+    "gn:longitude":14.88163,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mendling",
+    "gn:population":18,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835773,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771666
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"01962beb10858e8483b048235612b9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835773,
+            "locality_id":1243461949,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243461949,
+    "wof:lastmodified":1536783604,
+    "wof:name":"Mendling",
+    "wof:parent_id":1108835773,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88163,
+    47.73872,
+    14.88163,
+    47.73872
+],
+  "geometry": {"coordinates":[14.88163,47.73872],"type":"Point"}
+}

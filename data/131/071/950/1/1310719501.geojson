@@ -1,0 +1,71 @@
+{
+  "id": 1310719501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01667,47.81667,17.01667,47.81667",
+    "geom:latitude":47.81667,
+    "geom:longitude":17.01667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"107",
+    "gn:admin3_code":"10701.0",
+    "gn:asciiname":"Albrechtsfeld",
+    "gn:country_code":"AT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782814,
+    "gn:latitude":47.81667,
+    "gn:longitude":17.01667,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Albrechtsfeld",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838503,
+        85632785,
+        102049841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782814
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f8c0530bf506c92465f6a4177d71b0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1108838503,
+            "locality_id":1310719501,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1310719501,
+    "wof:lastmodified":1536605248,
+    "wof:name":"Albrechtsfeld",
+    "wof:parent_id":1108838503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01667,
+    47.81667,
+    17.01667,
+    47.81667
+],
+  "geometry": {"coordinates":[17.01667,47.81667],"type":"Point"}
+}

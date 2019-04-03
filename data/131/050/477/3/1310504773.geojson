@@ -1,0 +1,79 @@
+{
+  "id": 1310504773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44942,46.6304,14.44942,46.6304",
+    "geom:latitude":46.6304,
+    "geom:longitude":14.44942,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20409.0",
+    "gn:asciiname":"Oberwuchl",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769579,
+    "gn:latitude":46.6304,
+    "gn:longitude":14.44942,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberwuchl",
+    "gn:population":12,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oberwuchel",
+        "Oberwuchl"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838167,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769579
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"be521dd35aba6eb4033ee2c0a8d31759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838167,
+            "locality_id":1310504773,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310504773,
+    "wof:lastmodified":1537584945,
+    "wof:name":"Oberwuchl",
+    "wof:parent_id":1108838167,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44942,
+    46.6304,
+    14.44942,
+    46.6304
+],
+  "geometry": {"coordinates":[14.44942,46.6304],"type":"Point"}
+}

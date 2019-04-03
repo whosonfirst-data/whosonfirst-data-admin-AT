@@ -1,0 +1,101 @@
+{
+  "id": 1125415769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86031,48.70484,15.86031,48.70484",
+    "geom:latitude":48.70484,
+    "geom:longitude":15.86031,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.70484,
+    "lbl:longitude":15.86031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041f\u0443\u043b\u044c\u043a\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043b\u044c\u043a\u0430\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5c14\u8003"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2768255,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pulkau",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":329,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":248809,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674140,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768255,
+        "gp:id":12674140,
+        "qs_pg:id":248809
+    },
+    "wof:country":"AT",
+    "wof:created":1497051312,
+    "wof:geomhash":"78e90dd64ec1781e3f57a01bf1c28b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1125415769,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125415769,
+    "wof:lastmodified":1534531055,
+    "wof:name":"Pulkau",
+    "wof:parent_id":102049899,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835787
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86031,
+    48.70484,
+    15.86031,
+    48.70484
+],
+  "geometry": {"coordinates":[15.86031,48.70484],"type":"Point"}
+}

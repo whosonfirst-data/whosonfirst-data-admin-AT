@@ -1,0 +1,74 @@
+{
+  "id": 1310602841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,48.2,15.51667,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"319.0",
+    "gn:admin3_code":"31932.0",
+    "gn:asciiname":"Uttendorf",
+    "gn:country_code":"AT",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762490,
+    "gn:latitude":48.2,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Uttendorf",
+    "gn:population":63,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834901,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762490
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3fd71491d178e6109fe2d543861899c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834901,
+            "locality_id":1310602841,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310602841,
+    "wof:lastmodified":1536777081,
+    "wof:name":"Uttendorf",
+    "wof:parent_id":1108834901,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    48.2,
+    15.51667,
+    48.2
+],
+  "geometry": {"coordinates":[15.51667,48.2],"type":"Point"}
+}

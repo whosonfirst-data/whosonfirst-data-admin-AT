@@ -1,0 +1,82 @@
+{
+  "id": 1125273151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80818,48.24605,13.80818,48.24605",
+    "geom:latitude":48.24605,
+    "geom:longitude":13.80818,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":843,
+    "gn:population":924,
+    "iso:country":"AT",
+    "lbl:latitude":48.24605,
+    "lbl:longitude":13.80818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872036,
+    "qs_pg:gn_pop":843,
+    "qs_pg:name":"Tollet",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108478,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872036,
+        "qs_pg:id":108478
+    },
+    "wof:country":"AT",
+    "wof:created":1497042213,
+    "wof:geomhash":"137681f46eef0a379e8d00b6908e7663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1125273151,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125273151,
+    "wof:lastmodified":1536698119,
+    "wof:name":"Tollet",
+    "wof:parent_id":102049861,
+    "wof:placetype":"localadmin",
+    "wof:population":924,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835231
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80818,
+    48.24605,
+    13.80818,
+    48.24605
+],
+  "geometry": {"coordinates":[13.80818,48.24605],"type":"Point"}
+}

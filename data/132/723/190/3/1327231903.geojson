@@ -1,0 +1,74 @@
+{
+  "id": 1327231903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89221,48.5166,13.89221,48.5166",
+    "geom:latitude":48.5166,
+    "geom:longitude":13.89221,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41311.0",
+    "gn:asciiname":"Streinesberg",
+    "gn:country_code":"AT",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764152,
+    "gn:latitude":48.5166,
+    "gn:longitude":13.89221,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Streinesberg",
+    "gn:population":36,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835951,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764152
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"837fcb9a8d312a7aecea1537e3d60687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835951,
+            "locality_id":1327231903,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327231903,
+    "wof:lastmodified":1536969969,
+    "wof:name":"Streinesberg",
+    "wof:parent_id":1108835951,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89221,
+    48.5166,
+    13.89221,
+    48.5166
+],
+  "geometry": {"coordinates":[13.89221,48.5166],"type":"Point"}
+}

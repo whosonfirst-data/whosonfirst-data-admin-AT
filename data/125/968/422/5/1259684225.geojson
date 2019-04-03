@@ -1,0 +1,79 @@
+{
+  "id": 1259684225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26781,48.23091,14.26781,48.23091",
+    "geom:latitude":48.23091,
+    "geom:longitude":14.26781,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"410.0",
+    "gn:admin3_code":"41021.0",
+    "gn:asciiname":"Sankt Martin",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766525,
+    "gn:latitude":48.23091,
+    "gn:longitude":14.26781,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Martin",
+    "gn:population":6984,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Martin bei Traun",
+        "Sankt Martin-Traun"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835563,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766525
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bc7cc0fd6402ca7691b46142b7839436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835563,
+            "locality_id":1259684225,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259684225,
+    "wof:lastmodified":1537584931,
+    "wof:name":"Sankt Martin",
+    "wof:parent_id":1108835563,
+    "wof:placetype":"locality",
+    "wof:population":6984,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26781,
+    48.23091,
+    14.26781,
+    48.23091
+],
+  "geometry": {"coordinates":[14.26781,48.23091],"type":"Point"}
+}

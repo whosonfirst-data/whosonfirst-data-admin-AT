@@ -1,0 +1,71 @@
+{
+  "id": 1309999281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88333,47.08333,9.88333,47.08333",
+    "geom:latitude":47.08333,
+    "geom:longitude":9.88333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80128.0",
+    "gn:asciiname":"Rodund",
+    "gn:country_code":"AT",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767324,
+    "gn:latitude":47.08333,
+    "gn:longitude":9.88333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Rodund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838077,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767324
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"207d29dffcedce47d983245dc6194da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838077,
+            "locality_id":1309999281,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1309999281,
+    "wof:lastmodified":1536652157,
+    "wof:name":"Rodund",
+    "wof:parent_id":1108838077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88333,
+    47.08333,
+    9.88333,
+    47.08333
+],
+  "geometry": {"coordinates":[9.88333,47.08333],"type":"Point"}
+}

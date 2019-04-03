@@ -1,0 +1,82 @@
+{
+  "id": 1125328913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07581,47.68152,16.07581,47.68152",
+    "geom:latitude":47.68152,
+    "geom:longitude":16.07581,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1611,
+    "gn:population":1619,
+    "iso:country":"AT",
+    "lbl:latitude":47.68152,
+    "lbl:longitude":16.07581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871875,
+    "qs_pg:gn_pop":1611,
+    "qs_pg:name":"Wartmannstetten",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108416,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871875,
+        "qs_pg:id":108416
+    },
+    "wof:country":"AT",
+    "wof:created":1497045002,
+    "wof:geomhash":"6caf68786e955d6505b18be77c4b05b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1125328913,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125328913,
+    "wof:lastmodified":1534531029,
+    "wof:name":"Wartmannstetten",
+    "wof:parent_id":102049791,
+    "wof:placetype":"localadmin",
+    "wof:population":1619,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836291
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07581,
+    47.68152,
+    16.07581,
+    47.68152
+],
+  "geometry": {"coordinates":[16.07581,47.68152],"type":"Point"}
+}

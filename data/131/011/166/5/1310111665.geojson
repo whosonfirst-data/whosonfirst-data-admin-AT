@@ -1,0 +1,74 @@
+{
+  "id": 1310111665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88333,48.51667,14.88333,48.51667",
+    "geom:latitude":48.51667,
+    "geom:longitude":14.88333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40611.0",
+    "gn:asciiname":"Kienau",
+    "gn:country_code":"AT",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774472,
+    "gn:latitude":48.51667,
+    "gn:longitude":14.88333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kienau",
+    "gn:population":40,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835083,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774472
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0abc2dc01db211bd87830f78ff7f7d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835083,
+            "locality_id":1310111665,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310111665,
+    "wof:lastmodified":1536986730,
+    "wof:name":"Kienau",
+    "wof:parent_id":1108835083,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88333,
+    48.51667,
+    14.88333,
+    48.51667
+],
+  "geometry": {"coordinates":[14.88333,48.51667],"type":"Point"}
+}

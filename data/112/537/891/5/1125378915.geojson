@@ -1,0 +1,86 @@
+{
+  "id": 1125378915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.842271,48.063726,14.842271,48.063726",
+    "geom:latitude":48.063726,
+    "geom:longitude":14.842271,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":48.063726,
+    "lbl:longitude":14.842271,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Neuhofen an der Ybbs",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":235517,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673992,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12673992,
+        "qs_pg:id":235517
+    },
+    "wof:country":"AT",
+    "wof:created":1497047925,
+    "wof:geomhash":"739212106c21a0f21c358c9c1e69ad18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1125378915,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125378915,
+    "wof:lastmodified":1536698214,
+    "wof:name":"Neuhofen an der Ybbs",
+    "wof:parent_id":102049835,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835819
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.842271,
+    48.063726,
+    14.842271,
+    48.063726
+],
+  "geometry": {"coordinates":[14.842271,48.063726],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125274123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21168,46.72151,14.21168,46.72151",
+    "geom:latitude":46.72151,
+    "geom:longitude":14.21168,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1995,
+    "gn:population":1884,
+    "iso:country":"AT",
+    "lbl:latitude":46.72151,
+    "lbl:longitude":14.21168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872811,
+    "qs_pg:gn_pop":1995,
+    "qs_pg:name":"Glanegg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108712,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872811,
+        "qs_pg:id":108712
+    },
+    "wof:country":"AT",
+    "wof:created":1497042247,
+    "wof:geomhash":"6b3a8cf194382438445baf6a9644930d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1125274123,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125274123,
+    "wof:lastmodified":1534379155,
+    "wof:name":"Glanegg",
+    "wof:parent_id":102049689,
+    "wof:placetype":"localadmin",
+    "wof:population":1884,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838125
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21168,
+    46.72151,
+    14.21168,
+    46.72151
+],
+  "geometry": {"coordinates":[14.21168,46.72151],"type":"Point"}
+}

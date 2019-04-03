@@ -1,0 +1,82 @@
+{
+  "id": 1125409623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.55518,47.45099,12.55518,47.45099",
+    "geom:latitude":47.45099,
+    "geom:longitude":12.55518,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4299,
+    "gn:population":4249,
+    "iso:country":"AT",
+    "lbl:latitude":47.45099,
+    "lbl:longitude":12.55518,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872556,
+    "qs_pg:gn_pop":4299,
+    "qs_pg:name":"Fieberbrunn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155289,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681661,
+        102049763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872556,
+        "qs_pg:id":1155289
+    },
+    "wof:country":"AT",
+    "wof:created":1497049892,
+    "wof:geomhash":"f786e03b2132e69f76509f2ff9dfb669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1125409623,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125409623,
+    "wof:lastmodified":1534530991,
+    "wof:name":"Fieberbrunn",
+    "wof:parent_id":102049763,
+    "wof:placetype":"localadmin",
+    "wof:population":4249,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837361
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.55518,
+    47.45099,
+    12.55518,
+    47.45099
+],
+  "geometry": {"coordinates":[12.55518,47.45099],"type":"Point"}
+}

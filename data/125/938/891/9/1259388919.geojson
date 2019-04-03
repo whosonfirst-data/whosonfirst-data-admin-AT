@@ -1,0 +1,79 @@
+{
+  "id": 1259388919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07098,48.14925,13.07098,48.14925",
+    "geom:latitude":48.14925,
+    "geom:longitude":13.07098,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40432.0",
+    "gn:asciiname":"Schwarzgroeben",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765425,
+    "gn:latitude":48.14925,
+    "gn:longitude":13.07098,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schwarzgr\u00f6ben",
+    "gn:population":39,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Schwarzgr\u00f6bn",
+        "Schwarzgr\u00f6ben"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834777,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765425
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9bceed2ec74b85e3f3f232f54644a535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834777,
+            "locality_id":1259388919,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259388919,
+    "wof:lastmodified":1537584926,
+    "wof:name":"Schwarzgroeben",
+    "wof:parent_id":1108834777,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07098,
+    48.14925,
+    13.07098,
+    48.14925
+],
+  "geometry": {"coordinates":[13.07098,48.14925],"type":"Point"}
+}

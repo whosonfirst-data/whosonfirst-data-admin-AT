@@ -1,0 +1,78 @@
+{
+  "id": 1276336365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.88581,48.51069,16.88581,48.51069",
+    "geom:latitude":48.51069,
+    "geom:longitude":16.88581,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"308.0",
+    "gn:admin3_code":"30829.0",
+    "gn:asciiname":"Sierndorf an der March",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765082,
+    "gn:latitude":48.51069,
+    "gn:longitude":16.88581,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sierndorf an der March",
+    "gn:population":411,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sierndorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836191,
+        85632785,
+        102049891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765082
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"62ed9080efeb9b545fba0326a6893971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108836191,
+            "locality_id":1276336365,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276336365,
+    "wof:lastmodified":1537584925,
+    "wof:name":"Sierndorf an der March",
+    "wof:parent_id":1108836191,
+    "wof:placetype":"locality",
+    "wof:population":411,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.88581,
+    48.51069,
+    16.88581,
+    48.51069
+],
+  "geometry": {"coordinates":[16.88581,48.51069],"type":"Point"}
+}

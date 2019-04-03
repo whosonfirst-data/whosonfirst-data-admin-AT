@@ -1,0 +1,71 @@
+{
+  "id": 1343762563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73827,48.3751,13.73827,48.3751",
+    "geom:latitude":48.3751,
+    "geom:longitude":13.73827,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40828.0",
+    "gn:asciiname":"Untertressleinsbach",
+    "gn:country_code":"AT",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762599,
+    "gn:latitude":48.3751,
+    "gn:longitude":13.73827,
+    "gn:modification_date":"2017-07-12",
+    "gn:name":"Untertre\u00dfleinsbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835207,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762599
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d1b8e33cf9b78999ad0388f956d793f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835207,
+            "locality_id":1343762563,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343762563,
+    "wof:lastmodified":1536807623,
+    "wof:name":"Untertressleinsbach",
+    "wof:parent_id":1108835207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73827,
+    48.3751,
+    13.73827,
+    48.3751
+],
+  "geometry": {"coordinates":[13.73827,48.3751],"type":"Point"}
+}

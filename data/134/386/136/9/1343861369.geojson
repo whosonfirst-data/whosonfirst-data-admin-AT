@@ -1,0 +1,74 @@
+{
+  "id": 1343861369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82596,46.73598,14.82596,46.73598",
+    "geom:latitude":46.73598,
+    "geom:longitude":14.82596,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"209",
+    "gn:admin3_code":"20913.0",
+    "gn:asciiname":"Winkling-Sued",
+    "gn:country_code":"AT",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612240,
+    "gn:latitude":46.73598,
+    "gn:longitude":14.82596,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Winkling-S\u00fcd",
+    "gn:population":25,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838107,
+        85632785,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612240
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"85893f2187d1676d1565987bdf9ba801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838107,
+            "locality_id":1343861369,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1343861369,
+    "wof:lastmodified":1536665274,
+    "wof:name":"Winkling-Sued",
+    "wof:parent_id":1108838107,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82596,
+    46.73598,
+    14.82596,
+    46.73598
+],
+  "geometry": {"coordinates":[14.82596,46.73598],"type":"Point"}
+}

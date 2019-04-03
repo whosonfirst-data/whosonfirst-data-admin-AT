@@ -1,0 +1,76 @@
+{
+  "id": 1243276673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92528,46.6225,13.92528,46.6225",
+    "geom:latitude":46.6225,
+    "geom:longitude":13.92528,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20727.0",
+    "gn:asciiname":"Unter-Wernberg",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762555,
+    "gn:latitude":46.6225,
+    "gn:longitude":13.92528,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Unter-Wernberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unterwernberg",
+        "Unter-Wernberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838363,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762555
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"121e7ba484639a6b97cdbcc81701e730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838363,
+            "locality_id":1243276673,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1243276673,
+    "wof:lastmodified":1537584917,
+    "wof:name":"Unter-Wernberg",
+    "wof:parent_id":1108838363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92528,
+    46.6225,
+    13.92528,
+    46.6225
+],
+  "geometry": {"coordinates":[13.92528,46.6225],"type":"Point"}
+}

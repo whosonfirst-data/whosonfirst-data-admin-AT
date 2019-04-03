@@ -1,0 +1,71 @@
+{
+  "id": 1259681501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,46.95,15.28333,46.95",
+    "geom:latitude":46.95,
+    "geom:longitude":15.28333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60348.0",
+    "gn:asciiname":"Griggling",
+    "gn:country_code":"AT",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777951,
+    "gn:latitude":46.95,
+    "gn:longitude":15.28333,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Griggling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839279,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777951
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7e42932b09c13e88e86e8e577e15ebda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839279,
+            "locality_id":1259681501,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259681501,
+    "wof:lastmodified":1537066979,
+    "wof:name":"Griggling",
+    "wof:parent_id":1108839279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    46.95,
+    15.28333,
+    46.95
+],
+  "geometry": {"coordinates":[15.28333,46.95],"type":"Point"}
+}

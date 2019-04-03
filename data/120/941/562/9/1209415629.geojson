@@ -1,0 +1,66 @@
+{
+  "id": 1209415629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54932,48.2036,13.54932,48.2036",
+    "geom:latitude":48.2036,
+    "geom:longitude":13.54932,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41209.0",
+    "gn:asciiname":"Ploeck",
+    "gn:country_code":"AT",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610529,
+    "gn:latitude":48.2036,
+    "gn:longitude":13.54932,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pl\u00f6ck",
+    "gn:population":76,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610529
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dca6eb6798c9dd181d66758345eaf13b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209415629
+        }
+    ],
+    "wof:id":1209415629,
+    "wof:lastmodified":1536287698,
+    "wof:name":"Ploeck",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.549320000000002,
+    48.2036,
+    13.549320000000002,
+    48.2036
+],
+  "geometry": {"coordinates":[13.54932,48.2036],"type":"Point"}
+}

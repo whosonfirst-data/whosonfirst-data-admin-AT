@@ -1,0 +1,66 @@
+{
+  "id": 1209521441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.03833,48.10428,13.03833,48.10428",
+    "geom:latitude":48.10428,
+    "geom:longitude":13.03833,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40407.0",
+    "gn:asciiname":"Sperledt",
+    "gn:country_code":"AT",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610157,
+    "gn:latitude":48.10428,
+    "gn:longitude":13.03833,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sperledt",
+    "gn:population":8,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610157
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"436b8cf435b8dfdfdf479cd924a8a9ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209521441
+        }
+    ],
+    "wof:id":1209521441,
+    "wof:lastmodified":1536284567,
+    "wof:name":"Sperledt",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03833,
+    48.10428,
+    13.03833,
+    48.10428
+],
+  "geometry": {"coordinates":[13.03833,48.10428],"type":"Point"}
+}

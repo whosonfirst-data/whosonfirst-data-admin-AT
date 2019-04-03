@@ -1,0 +1,71 @@
+{
+  "id": 1327319329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8,47.58333,9.8,47.58333",
+    "geom:latitude":47.58333,
+    "geom:longitude":9.8,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"802",
+    "gn:admin3_code":"80229.0",
+    "gn:asciiname":"Goehren",
+    "gn:country_code":"AT",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778397,
+    "gn:latitude":47.58333,
+    "gn:longitude":9.8,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"G\u00f6hren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838013,
+        85632785,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778397
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"950e5dd8cb4306b96d644ab1788512e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838013,
+            "locality_id":1327319329,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1327319329,
+    "wof:lastmodified":1536843125,
+    "wof:name":"Goehren",
+    "wof:parent_id":1108838013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8,
+    47.58333,
+    9.8,
+    47.58333
+],
+  "geometry": {"coordinates":[9.8,47.58333],"type":"Point"}
+}

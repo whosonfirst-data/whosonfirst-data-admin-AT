@@ -1,0 +1,74 @@
+{
+  "id": 1259605547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0822,47.52256,14.0822,47.52256",
+    "geom:latitude":47.52256,
+    "geom:longitude":14.0822,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61267.0",
+    "gn:asciiname":"Trautenfels",
+    "gn:country_code":"AT",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593121,
+    "gn:latitude":47.52256,
+    "gn:longitude":14.0822,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Trautenfels",
+    "gn:population":144,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838891,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593121
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"77111b8c64b88d19c0bc2d3ee7b2fe59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838891,
+            "locality_id":1259605547,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259605547,
+    "wof:lastmodified":1536682986,
+    "wof:name":"Trautenfels",
+    "wof:parent_id":1108838891,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0822,
+    47.52256,
+    14.0822,
+    47.52256
+],
+  "geometry": {"coordinates":[14.0822,47.52256],"type":"Point"}
+}

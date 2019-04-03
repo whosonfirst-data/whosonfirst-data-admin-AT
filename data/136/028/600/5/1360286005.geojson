@@ -1,0 +1,78 @@
+{
+  "id": 1360286005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00811,48.1256,13.00811,48.1256",
+    "geom:latitude":48.1256,
+    "geom:longitude":13.00811,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40435.0",
+    "gn:asciiname":"Sankt Georgen am Fillmannsbach",
+    "gn:country_code":"AT",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2766710,
+    "gn:latitude":48.1256,
+    "gn:longitude":13.00811,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Georgen am Fillmannsbach",
+    "gn:population":96,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Georgen",
+        "Sankt Georgen am Fillmannsbach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834783,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766710
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"60ba2e3b665b64a236718bae7047736f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834783,
+            "locality_id":1360286005,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1360286005,
+    "wof:lastmodified":1537584935,
+    "wof:name":"Sankt Georgen am Fillmannsbach",
+    "wof:parent_id":1108834783,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00811,
+    48.1256,
+    13.00811,
+    48.1256
+],
+  "geometry": {"coordinates":[13.00811,48.1256],"type":"Point"}
+}

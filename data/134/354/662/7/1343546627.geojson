@@ -1,0 +1,71 @@
+{
+  "id": 1343546627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.85422,47.14204,9.85422,47.14204",
+    "geom:latitude":47.14204,
+    "geom:longitude":9.85422,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801",
+    "gn:admin3_code":"80103.0",
+    "gn:asciiname":"Bings",
+    "gn:country_code":"AT",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781759,
+    "gn:latitude":47.14204,
+    "gn:longitude":9.85422,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Bings",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781759
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cebeb33c38e26edaa75dc79e771461ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":1343546627,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1343546627,
+    "wof:lastmodified":1536619795,
+    "wof:name":"Bings",
+    "wof:parent_id":1108837905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.85422,
+    47.14204,
+    9.85422,
+    47.14204
+],
+  "geometry": {"coordinates":[9.85422,47.14204],"type":"Point"}
+}

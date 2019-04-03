@@ -1,0 +1,71 @@
+{
+  "id": 1209837837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05,47.15,16.05,47.15",
+    "geom:latitude":47.15,
+    "geom:longitude":16.05,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"62206.0",
+    "gn:asciiname":"Speilbrunn",
+    "gn:country_code":"AT",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764833,
+    "gn:latitude":47.15,
+    "gn:longitude":16.05,
+    "gn:modification_date":"2014-04-28",
+    "gn:name":"Speilbrunn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839229,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764833
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2b2600f3f97605038f1331ebb897395f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839229,
+            "locality_id":1209837837,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1209837837,
+    "wof:lastmodified":1536394085,
+    "wof:name":"Speilbrunn",
+    "wof:parent_id":1108839229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05,
+    47.15,
+    16.05,
+    47.15
+],
+  "geometry": {"coordinates":[16.05,47.15],"type":"Point"}
+}

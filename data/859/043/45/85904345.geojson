@@ -1,0 +1,106 @@
+{
+  "id": 85904345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":200298.584971,
+    "geom:bbox":"16.3723754883,48.2491671649,16.3788386713,48.2550574573",
+    "geom:latitude":48.252068,
+    "geom:longitude":16.375407,
+    "iso:country":"AT",
+    "lbl:latitude":48.252803,
+    "lbl:longitude":16.374939,
+    "mps:latitude":48.252112,
+    "mps:longitude":16.375407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Heiligen"
+    ],
+    "name:unk_x_variant":[
+        "Heiligen"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_id":0,
+    "qs:gn_local":2761369,
+    "qs:gn_nam_loc":"Vienna",
+    "qs:gn_namadm1":"09",
+    "qs:id":0,
+    "qs:local_max":53712,
+    "qs:local_sum":394557,
+    "qs:localhoods":125,
+    "qs:name":"Heiligen",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Wien",
+    "qs:name_adm2":"Wien",
+    "qs:name_lau":"Wien 19",
+    "qs:name_local":"Wien",
+    "qs:photo_max":33,
+    "qs:photo_sum":75,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344716,
+    "qs:woe_adm2":12591699,
+    "qs:woe_lau":12673872,
+    "qs:woe_local":551801,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20095579
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c77a538b9fed0d6aa94009f50dc1965e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85904345,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":85904345,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1527269208,
+    "wof:name":"Heiligen",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37237548828108,
+    48.24916716485201,
+    16.37883867125538,
+    48.25505745726174
+],
+  "geometry": {"coordinates":[[[16.37809546722445,48.25028349850002],[16.37586540141848,48.24916716485201],[16.37512207030011,48.25028349268673],[16.37237548828108,48.25028349227158],[16.37237548828347,48.25211234611267],[16.37237548828779,48.25394113516798],[16.37512207214104,48.2539411393838],[16.37586535601827,48.25505745726174],[16.37786865232505,48.25405453300637],[16.37786865231482,48.25394114460006],[16.37786865231669,48.25211234747725],[16.37883867125538,48.25065553400891],[16.37809546722445,48.25028349850002]]],"type":"Polygon"}
+}

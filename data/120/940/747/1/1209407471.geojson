@@ -1,0 +1,66 @@
+{
+  "id": 1209407471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80251,47.01081,15.80251,47.01081",
+    "geom:latitude":47.01081,
+    "geom:longitude":15.80251,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62314.0",
+    "gn:asciiname":"Mitterfladnitz",
+    "gn:country_code":"AT",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771452,
+    "gn:latitude":47.01081,
+    "gn:longitude":15.80251,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Mitterfladnitz",
+    "gn:population":550,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771452
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0c89e57e001c4118d143a6f1c5f17bc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209407471
+        }
+    ],
+    "wof:id":1209407471,
+    "wof:lastmodified":1536287948,
+    "wof:name":"Mitterfladnitz",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":550,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80251,
+    47.01081,
+    15.80251,
+    47.01081
+],
+  "geometry": {"coordinates":[15.80251,47.01081],"type":"Point"}
+}

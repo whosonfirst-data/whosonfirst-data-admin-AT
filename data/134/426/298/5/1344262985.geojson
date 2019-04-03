@@ -1,0 +1,74 @@
+{
+  "id": 1344262985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56985,48.3522,14.56985,48.3522",
+    "geom:latitude":48.3522,
+    "geom:longitude":14.56985,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40614.0",
+    "gn:asciiname":"Halmenberg",
+    "gn:country_code":"AT",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776937,
+    "gn:latitude":48.3522,
+    "gn:longitude":14.56985,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Halmenberg",
+    "gn:population":84,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835089,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776937
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"03f6ba512057ed85ef1e1e3016c1ec85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835089,
+            "locality_id":1344262985,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344262985,
+    "wof:lastmodified":1537077350,
+    "wof:name":"Halmenberg",
+    "wof:parent_id":1108835089,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56985,
+    48.3522,
+    14.56985,
+    48.3522
+],
+  "geometry": {"coordinates":[14.56985,48.3522],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310522835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88601,47.20563,11.88601,47.20563",
+    "geom:latitude":47.20563,
+    "geom:longitude":11.88601,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"709",
+    "gn:admin3_code":"70922.0",
+    "gn:asciiname":"Ramsberg",
+    "gn:country_code":"AT",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3323917,
+    "gn:latitude":47.20563,
+    "gn:longitude":11.88601,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Ramsberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837825,
+        85632785,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3323917
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ddfdee5bb1f2614185584a98e77653d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837825,
+            "locality_id":1310522835,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1310522835,
+    "wof:lastmodified":1536891591,
+    "wof:name":"Ramsberg",
+    "wof:parent_id":1108837825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88601,
+    47.20563,
+    11.88601,
+    47.20563
+],
+  "geometry": {"coordinates":[11.88601,47.20563],"type":"Point"}
+}

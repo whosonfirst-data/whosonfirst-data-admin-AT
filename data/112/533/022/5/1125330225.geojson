@@ -1,0 +1,108 @@
+{
+  "id": 1125330225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.65512,47.51649,10.65512,47.51649",
+    "geom:latitude":47.51649,
+    "geom:longitude":10.65512,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":374,
+    "gn:population":391,
+    "iso:country":"AT",
+    "lbl:latitude":47.51649,
+    "lbl:longitude":10.65512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041c\u0443\u0437\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0437\u0430\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0437\u0430\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u7ecd"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873690,
+    "qs_pg:gn_pop":374,
+    "qs_pg:name":"Musau",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Tirol",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1295637,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675398,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Tirol",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681661,
+        102049745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873690,
+        "gp:id":12675398,
+        "qs_pg:id":1295637
+    },
+    "wof:country":"AT",
+    "wof:created":1497045090,
+    "wof:geomhash":"13868df329f25799d7d79a1d5735868c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1125330225,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125330225,
+    "wof:lastmodified":1534379220,
+    "wof:name":"Musau",
+    "wof:parent_id":102049745,
+    "wof:placetype":"localadmin",
+    "wof:population":391,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837757
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.65512,
+    47.51649,
+    10.65512,
+    47.51649
+],
+  "geometry": {"coordinates":[10.65512,47.51649],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309713955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93667,48.57167,15.93667,48.57167",
+    "geom:latitude":48.57167,
+    "geom:longitude":15.93667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"310",
+    "gn:admin3_code":"31043.0",
+    "gn:asciiname":"Frauendorf an der Schmida",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779332,
+    "gn:latitude":48.57167,
+    "gn:longitude":15.93667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Frauendorf an der Schmida",
+    "gn:population":294,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Frauendorf",
+        "Frauendorf an der Schmida"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836629,
+        85632785,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779332
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"570ddc4b4fbb6f0cdcae9e90c7ea8858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108836629,
+            "locality_id":1309713955,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1309713955,
+    "wof:lastmodified":1537584975,
+    "wof:name":"Frauendorf an der Schmida",
+    "wof:parent_id":1108836629,
+    "wof:placetype":"locality",
+    "wof:population":294,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93667,
+    48.57167000000001,
+    15.93667,
+    48.57167000000001
+],
+  "geometry": {"coordinates":[15.93667,48.57167000000001],"type":"Point"}
+}

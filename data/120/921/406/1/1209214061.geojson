@@ -1,0 +1,63 @@
+{
+  "id": 1209214061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36667,47.28333,12.36667,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":12.36667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50601.0",
+    "gn:asciiname":"Obermuhlbach",
+    "gn:country_code":"AT",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769911,
+    "gn:latitude":47.28333,
+    "gn:longitude":12.36667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Oberm\u00fchlbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769911
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"182f00c9300e27318caafed65293953a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209214061
+        }
+    ],
+    "wof:id":1209214061,
+    "wof:lastmodified":1536294192,
+    "wof:name":"Obermuhlbach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36667,
+    47.28333,
+    12.36667,
+    47.28333
+],
+  "geometry": {"coordinates":[12.36667,47.28333],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1125323201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5229995,47.938166,13.5229995,47.938166",
+    "geom:latitude":47.938166,
+    "geom:longitude":13.522999,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.938166,
+    "lbl:longitude":13.522999,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Berg im Attergau",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":274,
+    "qs_pg:photos_1k":56,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":278,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1249911,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674351,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674351,
+        "qs_pg:id":1249911
+    },
+    "wof:country":"AT",
+    "wof:created":1497044639,
+    "wof:geomhash":"41695bdc1c4299f8d900000c34d7f895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1125323201,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125323201,
+    "wof:lastmodified":1534379088,
+    "wof:name":"Berg im Attergau",
+    "wof:parent_id":102049817,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125376791
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5229995,
+    47.938166,
+    13.5229995,
+    47.938166
+],
+  "geometry": {"coordinates":[13.5229995,47.938166],"type":"Point"}
+}

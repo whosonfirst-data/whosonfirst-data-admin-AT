@@ -1,0 +1,92 @@
+{
+  "id": 101912429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000013,
+    "geom:area_square_m":112427.865433,
+    "geom:bbox":"14.0809121744,47.5171815677,14.087893428,47.5216648365",
+    "geom:latitude":47.519264,
+    "geom:longitude":14.084167,
+    "iso:country":"AT",
+    "lbl:latitude":47.51813,
+    "lbl:longitude":14.083638,
+    "mps:latitude":47.51813,
+    "mps:longitude":14.083638,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Gremuchij"
+    ],
+    "name:und_x_preferred":[
+        "\u0413\u0440\u0435\u043c\u0443\u0447\u0438\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gremuchiy",
+        "\u0413\u0440\u0435\u043c\u0443\u0447\u0438\u0439"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Steiermark",
+    "qs:a1r":"2",
+    "qs:a2":"Liezen",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"P\u00fcrgg-Trautenfels",
+    "qs:la_lc":"*AT61235",
+    "qs:level":"locality",
+    "qs:loc":"Trautenfels",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":406,
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838891,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814779,
+        "gp:id":2009776,
+        "qs:id":1302819,
+        "wd:id":"Q679484"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b0d8600953efeff18be0845234a66a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838891,
+            "locality_id":101912429,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":101912429,
+    "wof:lastmodified":1534985837,
+    "wof:name":"Trautenfels",
+    "wof:parent_id":1108838891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1175610481
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08091217442978,
+    47.51718156766128,
+    14.0878934279894,
+    47.52166483651968
+],
+  "geometry": {"coordinates":[[[14.08103947707127,47.51894246555401],[14.08132495938446,47.51911725064355],[14.08370453579607,47.51902816131843],[14.0838329268006,47.5206527408983],[14.08548601631549,47.52166483651968],[14.0878934279894,47.52157461616866],[14.08782234917084,47.5206761427375],[14.08649708390334,47.52072581643483],[14.08642603116488,47.51982734153825],[14.08510078650602,47.51987699815095],[14.08488771599434,47.51718156766128],[14.08091217442978,47.51733043201125],[14.08103947707127,47.51894246555401]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343268137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89522,48.66909,13.89522,48.66909",
+    "geom:latitude":48.66909,
+    "geom:longitude":13.89522,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41342.0",
+    "gn:asciiname":"Stangl",
+    "gn:country_code":"AT",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764657,
+    "gn:latitude":48.66909,
+    "gn:longitude":13.89522,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stangl",
+    "gn:population":111,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836021,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764657
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f77282053eb07492e2917acdc20cb477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836021,
+            "locality_id":1343268137,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343268137,
+    "wof:lastmodified":1537022771,
+    "wof:name":"Stangl",
+    "wof:parent_id":1108836021,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89522,
+    48.66909,
+    13.89522,
+    48.66909
+],
+  "geometry": {"coordinates":[13.89522,48.66909],"type":"Point"}
+}

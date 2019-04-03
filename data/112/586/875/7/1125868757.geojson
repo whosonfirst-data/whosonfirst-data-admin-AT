@@ -1,0 +1,93 @@
+{
+  "id": 1125868757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45,47.5,14.45,47.5",
+    "geom:latitude":47.5,
+    "geom:longitude":14.45,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.5,
+    "lbl:longitude":14.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sankt Lorenzen"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2766575,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St. Lorenzen im Paltental",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":37754,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":549791,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838887,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766575,
+        "gp:id":549791,
+        "qs_pg:id":37754
+    },
+    "wof:country":"AT",
+    "wof:created":1497294179,
+    "wof:geomhash":"eb31a0870716501c9c1a5b299c134fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838887,
+            "locality_id":1125868757,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125868757,
+    "wof:lastmodified":1509397165,
+    "wof:name":"St. Lorenzen im Paltental",
+    "wof:parent_id":1108838887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45,
+    47.5,
+    14.45,
+    47.5
+],
+  "geometry": {"coordinates":[14.45,47.5],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327438793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29692,48.23013,15.29692,48.23013",
+    "geom:latitude":48.23013,
+    "geom:longitude":15.29692,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"315.0",
+    "gn:admin3_code":"31519.0",
+    "gn:asciiname":"Weitenegg",
+    "gn:country_code":"AT",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761549,
+    "gn:latitude":48.23013,
+    "gn:longitude":15.29692,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Weitenegg",
+    "gn:population":43,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835931,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761549
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9b1bdcfc1a554e87b7edac221a878b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835931,
+            "locality_id":1327438793,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327438793,
+    "wof:lastmodified":1536671461,
+    "wof:name":"Weitenegg",
+    "wof:parent_id":1108835931,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29692,
+    48.23013,
+    15.29692,
+    48.23013
+],
+  "geometry": {"coordinates":[15.29692,48.23013],"type":"Point"}
+}

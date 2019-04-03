@@ -1,0 +1,82 @@
+{
+  "id": 1125395579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98831,47.77908,15.98831,47.77908",
+    "geom:latitude":47.77908,
+    "geom:longitude":15.98831,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":365,
+    "gn:population":367,
+    "iso:country":"AT",
+    "lbl:latitude":47.77908,
+    "lbl:longitude":15.98831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871869,
+    "qs_pg:gn_pop":365,
+    "qs_pg:name":"Schrattenbach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1048596,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871869,
+        "qs_pg:id":1048596
+    },
+    "wof:country":"AT",
+    "wof:created":1497048994,
+    "wof:geomhash":"ea5e65407ce38772cc9f34baea1bce28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1125395579,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125395579,
+    "wof:lastmodified":1534531054,
+    "wof:name":"Schrattenbach",
+    "wof:parent_id":102049791,
+    "wof:placetype":"localadmin",
+    "wof:population":367,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836893
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98831,
+    47.77908,
+    15.98831,
+    47.77908
+],
+  "geometry": {"coordinates":[15.98831,47.77908],"type":"Point"}
+}

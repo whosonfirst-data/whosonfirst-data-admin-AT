@@ -1,0 +1,74 @@
+{
+  "id": 1276682889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5794,48.27928,13.5794,48.27928",
+    "geom:latitude":48.27928,
+    "geom:longitude":13.5794,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41231.0",
+    "gn:asciiname":"Petersham",
+    "gn:country_code":"AT",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610605,
+    "gn:latitude":48.27928,
+    "gn:longitude":13.5794,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Petersham",
+    "gn:population":23,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835693,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610605
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c9fe8f4bcaf0892889e396df62e18fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835693,
+            "locality_id":1276682889,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276682889,
+    "wof:lastmodified":1536807055,
+    "wof:name":"Petersham",
+    "wof:parent_id":1108835693,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5794,
+    48.27928,
+    13.5794,
+    48.27928
+],
+  "geometry": {"coordinates":[13.5794,48.27928],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276758839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.88333,47.28333,10.88333,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":10.88333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70213.0",
+    "gn:asciiname":"Pipurg",
+    "gn:country_code":"AT",
+    "gn:dem":1774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768800,
+    "gn:latitude":47.28333,
+    "gn:longitude":10.88333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Pipurg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837433,
+        85632785,
+        102049727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768800
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6f64f9ee8940db2f97e394da8b60a023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837433,
+            "locality_id":1276758839,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1276758839,
+    "wof:lastmodified":1536705965,
+    "wof:name":"Pipurg",
+    "wof:parent_id":1108837433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.88333,
+    47.28333,
+    10.88333,
+    47.28333
+],
+  "geometry": {"coordinates":[10.88333,47.28333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327434675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41778,46.6725,14.41778,46.6725",
+    "geom:latitude":46.6725,
+    "geom:longitude":14.41778,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"204",
+    "gn:admin3_code":"20442.0",
+    "gn:asciiname":"Lassendorf",
+    "gn:country_code":"AT",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772895,
+    "gn:latitude":46.6725,
+    "gn:longitude":14.41778,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lassendorf",
+    "gn:population":333,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838199,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772895
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4b924429b380955d50aaa858cbe30814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838199,
+            "locality_id":1327434675,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1327434675,
+    "wof:lastmodified":1536677493,
+    "wof:name":"Lassendorf",
+    "wof:parent_id":1108838199,
+    "wof:placetype":"locality",
+    "wof:population":333,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41778,
+    46.6725,
+    14.41778,
+    46.6725
+],
+  "geometry": {"coordinates":[14.41778,46.6725],"type":"Point"}
+}

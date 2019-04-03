@@ -1,0 +1,74 @@
+{
+  "id": 1327357597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02405,48.61038,14.02405,48.61038",
+    "geom:latitude":48.61038,
+    "geom:longitude":14.02405,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41333.0",
+    "gn:asciiname":"Schwackerreith",
+    "gn:country_code":"AT",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765539,
+    "gn:latitude":48.61038,
+    "gn:longitude":14.02405,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schwackerreith",
+    "gn:population":76,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836001,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765539
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9093b9e1e088ba20cb6fe75308d7fd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836001,
+            "locality_id":1327357597,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327357597,
+    "wof:lastmodified":1536789317,
+    "wof:name":"Schwackerreith",
+    "wof:parent_id":1108836001,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02405,
+    48.61038,
+    14.02405,
+    48.61038
+],
+  "geometry": {"coordinates":[14.02405,48.61038],"type":"Point"}
+}

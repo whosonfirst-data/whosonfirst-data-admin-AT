@@ -1,0 +1,71 @@
+{
+  "id": 1242896011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,47.4,15.01667,47.4",
+    "geom:latitude":47.4,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"611",
+    "gn:admin3_code":"61114.0",
+    "gn:asciiname":"Gmeingrube",
+    "gn:country_code":"AT",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778443,
+    "gn:latitude":47.4,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Gmeingrube",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838995,
+        85632785,
+        102049769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778443
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d28aff2c1511754dc3817d03933929db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838995,
+            "locality_id":1242896011,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1242896011,
+    "wof:lastmodified":1536601893,
+    "wof:name":"Gmeingrube",
+    "wof:parent_id":1108838995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    47.4,
+    15.01667,
+    47.4
+],
+  "geometry": {"coordinates":[15.01667,47.4],"type":"Point"}
+}

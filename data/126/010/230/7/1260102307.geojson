@@ -1,0 +1,74 @@
+{
+  "id": 1260102307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31696,46.93891,15.31696,46.93891",
+    "geom:latitude":46.93891,
+    "geom:longitude":15.31696,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60318.0",
+    "gn:asciiname":"Heuholz",
+    "gn:country_code":"AT",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593908,
+    "gn:latitude":46.93891,
+    "gn:longitude":15.31696,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Heuholz",
+    "gn:population":489,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839293,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593908
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"01cd58a74ee6bf45b9a76e192d25c685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839293,
+            "locality_id":1260102307,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1260102307,
+    "wof:lastmodified":1536960919,
+    "wof:name":"Heuholz",
+    "wof:parent_id":1108839293,
+    "wof:placetype":"locality",
+    "wof:population":489,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31696,
+    46.93891,
+    15.31696,
+    46.93891
+],
+  "geometry": {"coordinates":[15.31696,46.93891],"type":"Point"}
+}

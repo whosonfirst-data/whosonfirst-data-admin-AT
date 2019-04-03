@@ -1,0 +1,126 @@
+{
+  "id": 85898549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16351483.876276,
+    "geom:bbox":"15.487106,47.098979,15.487106,47.098979",
+    "geom:latitude":47.098979,
+    "geom:longitude":15.487106,
+    "gn:population":9217,
+    "iso:country":"AT",
+    "lbl:latitude":47.098979,
+    "lbl:longitude":15.487106,
+    "mps:latitude":47.107906,
+    "mps:longitude":15.505559,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Mariatrost"
+    ],
+    "name:deu_x_preferred":[
+        "Mariatrost"
+    ],
+    "name:fra_x_preferred":[
+        "Mariatrost"
+    ],
+    "name:swe_x_preferred":[
+        "Mariatrost"
+    ],
+    "name:unk_x_variant":[
+        "Mariatrost"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7871499,
+    "qs:gn_nam_loc":"Graz, Graz Stadt, Steiermark, AT",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Mariatrost",
+    "qs:local_max":3393,
+    "qs:local_sum":13910,
+    "qs:localhoods":22,
+    "qs:name":"Mariatrost",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Steiermark",
+    "qs:name_adm2":"Graz Stadt",
+    "qs:name_lau":"Graz",
+    "qs:name_local":"Graz",
+    "qs:photo_max":217,
+    "qs:photo_sum":469,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344713,
+    "qs:woe_adm2":12591740,
+    "qs:woe_lau":12674996,
+    "qs:woe_local":12674996,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771896,
+        "gp:id":549139,
+        "qs:id":402235,
+        "qs_pg:id":402235,
+        "wd:id":"Q875624",
+        "wk:page":"Mariatrost"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0813b5992a7c4f5e279f4521ad4470b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":85898549,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":85898549,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932081,
+    "wof:name":"Mariatrost",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":9217,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.487106,
+    47.098979,
+    15.487106,
+    47.098979
+],
+  "geometry": {"coordinates":[15.487106,47.098979],"type":"Point"}
+}

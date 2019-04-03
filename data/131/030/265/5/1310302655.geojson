@@ -1,0 +1,71 @@
+{
+  "id": 1310302655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1,47.06667,15.1,47.06667",
+    "geom:latitude":47.06667,
+    "geom:longitude":15.1,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"616",
+    "gn:admin3_code":"61618.0",
+    "gn:asciiname":"Obergraden",
+    "gn:country_code":"AT",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770114,
+    "gn:latitude":47.06667,
+    "gn:longitude":15.1,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Obergraden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839353,
+        85632785,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770114
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"64b38a3e3242931261e6c2d50479f7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108839353,
+            "locality_id":1310302655,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310302655,
+    "wof:lastmodified":1536712371,
+    "wof:name":"Obergraden",
+    "wof:parent_id":1108839353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1,
+    47.06667,
+    15.1,
+    47.06667
+],
+  "geometry": {"coordinates":[15.1,47.06667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276658997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02373,48.00049,16.02373,48.00049",
+    "geom:latitude":48.00049,
+    "geom:longitude":16.02373,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"306.0",
+    "gn:admin3_code":"30602.0",
+    "gn:asciiname":"Sulzbach",
+    "gn:country_code":"AT",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764019,
+    "gn:latitude":48.00049,
+    "gn:longitude":16.02373,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sulzbach",
+    "gn:population":72,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836807,
+        85632785,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764019
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bf1dc0de0f5f182cdbc4d69945544cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836807,
+            "locality_id":1276658997,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276658997,
+    "wof:lastmodified":1536838335,
+    "wof:name":"Sulzbach",
+    "wof:parent_id":1108836807,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02373,
+    48.00049,
+    16.02373,
+    48.00049
+],
+  "geometry": {"coordinates":[16.02373,48.00049],"type":"Point"}
+}

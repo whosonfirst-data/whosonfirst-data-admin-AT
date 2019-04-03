@@ -1,0 +1,82 @@
+{
+  "id": 1125372057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46469,48.58943,15.46469,48.58943",
+    "geom:latitude":48.58943,
+    "geom:longitude":15.46469,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":769,
+    "gn:population":753,
+    "iso:country":"AT",
+    "lbl:latitude":48.58943,
+    "lbl:longitude":15.46469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872917,
+    "qs_pg:gn_pop":769,
+    "qs_pg:name":"Krumau am Kamp",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108752,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872917,
+        "qs_pg:id":108752
+    },
+    "wof:country":"AT",
+    "wof:created":1497047473,
+    "wof:geomhash":"db91ea85f8720741dd5c0a7e796b6181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1125372057,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125372057,
+    "wof:lastmodified":1534379214,
+    "wof:name":"Krumau am Kamp",
+    "wof:parent_id":102049885,
+    "wof:placetype":"localadmin",
+    "wof:population":753,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835849
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46469,
+    48.58943,
+    15.46469,
+    48.58943
+],
+  "geometry": {"coordinates":[15.46469,48.58943],"type":"Point"}
+}

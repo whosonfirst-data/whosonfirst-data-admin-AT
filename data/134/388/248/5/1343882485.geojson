@@ -1,0 +1,74 @@
+{
+  "id": 1343882485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29646,47.92468,13.29646,47.92468",
+    "geom:latitude":47.92468,
+    "geom:longitude":13.29646,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41719.0",
+    "gn:asciiname":"Fischhof",
+    "gn:country_code":"AT",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609427,
+    "gn:latitude":47.92468,
+    "gn:longitude":13.29646,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Fischhof",
+    "gn:population":72,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836461,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609427
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6ea6b07602476ef4790d41484ef94f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836461,
+            "locality_id":1343882485,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343882485,
+    "wof:lastmodified":1536633481,
+    "wof:name":"Fischhof",
+    "wof:parent_id":1108836461,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29646,
+    47.92468,
+    13.29646,
+    47.92468
+],
+  "geometry": {"coordinates":[13.29646,47.92468],"type":"Point"}
+}

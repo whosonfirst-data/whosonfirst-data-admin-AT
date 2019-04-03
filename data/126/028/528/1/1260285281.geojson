@@ -1,0 +1,74 @@
+{
+  "id": 1260285281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0068,48.34655,14.0068,48.34655",
+    "geom:latitude":48.34655,
+    "geom:longitude":14.0068,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40506.0",
+    "gn:asciiname":"Deinham",
+    "gn:country_code":"AT",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609938,
+    "gn:latitude":48.34655,
+    "gn:longitude":14.0068,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Deinham",
+    "gn:population":121,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835045,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609938
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f80a07c5754ffa859e567a0abf68d4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835045,
+            "locality_id":1260285281,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1260285281,
+    "wof:lastmodified":1536709837,
+    "wof:name":"Deinham",
+    "wof:parent_id":1108835045,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0068,
+    48.34655,
+    14.0068,
+    48.34655
+],
+  "geometry": {"coordinates":[14.0068,48.34655],"type":"Point"}
+}

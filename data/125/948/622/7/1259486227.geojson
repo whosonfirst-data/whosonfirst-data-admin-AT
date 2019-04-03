@@ -1,0 +1,71 @@
+{
+  "id": 1259486227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39944,46.64,14.39944,46.64",
+    "geom:latitude":46.64,
+    "geom:longitude":14.39944,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"201",
+    "gn:admin3_code":"20101.0",
+    "gn:asciiname":"Sankt Margarethen",
+    "gn:country_code":"AT",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324598,
+    "gn:latitude":46.64,
+    "gn:longitude":14.39944,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Sankt Margarethen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838143,
+        85632785,
+        102049679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324598
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5b795f02f0ae195c2832950192fa974e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":1259486227,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259486227,
+    "wof:lastmodified":1536853719,
+    "wof:name":"Sankt Margarethen",
+    "wof:parent_id":1108838143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39944,
+    46.64,
+    14.39944,
+    46.64
+],
+  "geometry": {"coordinates":[14.39944,46.64],"type":"Point"}
+}

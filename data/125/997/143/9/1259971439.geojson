@@ -1,0 +1,87 @@
+{
+  "id": 1259971439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.70861,46.70417,12.70861,46.70417",
+    "geom:latitude":46.70417,
+    "geom:longitude":12.70861,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70733.0",
+    "gn:asciiname":"Untertilliach",
+    "gn:country_code":"AT",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3217911,
+    "gn:latitude":46.70417,
+    "gn:longitude":12.70861,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Untertilliach",
+    "gn:population":237,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0423\u043d\u0442\u0435\u0440\u0442\u0438\u043b\u043b\u0438\u0430\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u0442\u0435\u0440\u0442\u0438\u043b\u043b\u0438\u0430\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043d\u0442\u0435\u0440\u0442\u0456\u043b\u043b\u0456\u044f\u0445"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u8482\u5229\u4e9a\u8d6b"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838161,
+        85632785,
+        102049675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217911,
+        "wk:page":"Untertilliach"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9949de7b3063c8a165135c37b43ed78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049675,
+            "localadmin_id":1108838161,
+            "locality_id":1259971439,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259971439,
+    "wof:lastmodified":1537584988,
+    "wof:name":"Untertilliach",
+    "wof:parent_id":1108838161,
+    "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.70861,
+    46.70417,
+    12.70861,
+    46.70417
+],
+  "geometry": {"coordinates":[12.70861,46.70417],"type":"Point"}
+}

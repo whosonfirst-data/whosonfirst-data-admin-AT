@@ -1,0 +1,74 @@
+{
+  "id": 1293907363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97839,48.24743,13.97839,48.24743",
+    "geom:latitude":48.24743,
+    "geom:longitude":13.97839,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40511.0",
+    "gn:asciiname":"Finklham",
+    "gn:country_code":"AT",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779568,
+    "gn:latitude":48.24743,
+    "gn:longitude":13.97839,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Finklham",
+    "gn:population":374,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835057,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779568
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cadc04b42f514663edbc8a0d296a70a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835057,
+            "locality_id":1293907363,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293907363,
+    "wof:lastmodified":1536678953,
+    "wof:name":"Finklham",
+    "wof:parent_id":1108835057,
+    "wof:placetype":"locality",
+    "wof:population":374,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97839,
+    48.24743,
+    13.97839,
+    48.24743
+],
+  "geometry": {"coordinates":[13.97839,48.24743],"type":"Point"}
+}

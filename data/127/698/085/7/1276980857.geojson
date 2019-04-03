@@ -1,0 +1,74 @@
+{
+  "id": 1276980857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12632,48.2941,14.12632,48.2941",
+    "geom:latitude":48.2941,
+    "geom:longitude":14.12632,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40501.0",
+    "gn:asciiname":"Bergham",
+    "gn:country_code":"AT",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781860,
+    "gn:latitude":48.2941,
+    "gn:longitude":14.12632,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bergham",
+    "gn:population":174,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834811,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781860
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"07644ed22d10a2fa74ea33dc1bad7633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108834811,
+            "locality_id":1276980857,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276980857,
+    "wof:lastmodified":1536906107,
+    "wof:name":"Bergham",
+    "wof:parent_id":1108834811,
+    "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12632,
+    48.2941,
+    14.12632,
+    48.2941
+],
+  "geometry": {"coordinates":[14.12632,48.2941],"type":"Point"}
+}

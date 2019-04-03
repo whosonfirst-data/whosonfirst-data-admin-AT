@@ -1,0 +1,71 @@
+{
+  "id": 1259675299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.51667,47.0,12.51667,47.0",
+    "geom:latitude":47.0,
+    "geom:longitude":12.51667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"707.0",
+    "gn:admin3_code":"70717.0",
+    "gn:asciiname":"Sankt Nikolaus",
+    "gn:country_code":"AT",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766481,
+    "gn:latitude":47.0,
+    "gn:longitude":12.51667,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Sankt Nikolaus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837513,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766481
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c0b5e5be3e084eac9f63ee5cadbaa023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837513,
+            "locality_id":1259675299,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1259675299,
+    "wof:lastmodified":1537075746,
+    "wof:name":"Sankt Nikolaus",
+    "wof:parent_id":1108837513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.51667,
+    47.0,
+    12.51667,
+    47.0
+],
+  "geometry": {"coordinates":[12.51667,47.0],"type":"Point"}
+}

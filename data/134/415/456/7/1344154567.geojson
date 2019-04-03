@@ -1,0 +1,71 @@
+{
+  "id": 1344154567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20833,46.96583,15.20833,46.96583",
+    "geom:latitude":46.96583,
+    "geom:longitude":15.20833,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"616",
+    "gn:admin3_code":"61612.0",
+    "gn:asciiname":"Grusser",
+    "gn:country_code":"AT",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219734,
+    "gn:latitude":46.96583,
+    "gn:longitude":15.20833,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Gr\u00fcsser",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838827,
+        85632785,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219734
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"778c1feb704f5a22bea4780597821931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108838827,
+            "locality_id":1344154567,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1344154567,
+    "wof:lastmodified":1536739699,
+    "wof:name":"Grusser",
+    "wof:parent_id":1108838827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20833,
+    46.96583,
+    15.20833,
+    46.96583
+],
+  "geometry": {"coordinates":[15.20833,46.96583],"type":"Point"}
+}

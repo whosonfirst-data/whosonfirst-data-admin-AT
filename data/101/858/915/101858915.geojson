@@ -1,0 +1,79 @@
+{
+  "id": 101858915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.585281,48.082822,15.585281,48.082822",
+    "geom:latitude":48.082822,
+    "geom:longitude":15.585281,
+    "iso:country":"AT",
+    "lbl:latitude":48.082822,
+    "lbl:longitude":15.585281,
+    "mps:latitude":48.082822,
+    "mps:longitude":15.585281,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Nieder\u00f6sterreich",
+    "qs:a1r":"0",
+    "qs:a2":"Sankt P\u00f6lten - Land",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"G\u00f6blasbruck",
+    "qs:loc_alt":"Goeblasbruck",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835833,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778411,
+        "gp:id":541765,
+        "qs:id":8
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"be09712f702da28c867e2ecfe5903893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835833,
+            "locality_id":101858915,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":101858915,
+    "wof:lastmodified":1544744647,
+    "wof:name":"G\u00f6blasbruck",
+    "wof:parent_id":1108835833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.585281,
+    48.082822,
+    15.585281,
+    48.082822
+],
+  "geometry": {"coordinates":[15.585281,48.082822],"type":"Point"}
+}

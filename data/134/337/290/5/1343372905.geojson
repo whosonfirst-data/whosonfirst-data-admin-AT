@@ -1,0 +1,71 @@
+{
+  "id": 1343372905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13333,47.11667,16.13333,47.11667",
+    "geom:latitude":47.11667,
+    "geom:longitude":16.13333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"105",
+    "gn:admin3_code":"10501.0",
+    "gn:asciiname":"Mitterellau",
+    "gn:country_code":"AT",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771456,
+    "gn:latitude":47.11667,
+    "gn:longitude":16.13333,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Mitterellau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838685,
+        85632785,
+        102049715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771456
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"721dbd84d2d3333e2e48198571fdf72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049715,
+            "localadmin_id":1108838685,
+            "locality_id":1343372905,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1343372905,
+    "wof:lastmodified":1536871393,
+    "wof:name":"Mitterellau",
+    "wof:parent_id":1108838685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13332999999999,
+    47.11667,
+    16.13332999999999,
+    47.11667
+],
+  "geometry": {"coordinates":[16.13332999999999,47.11667],"type":"Point"}
+}

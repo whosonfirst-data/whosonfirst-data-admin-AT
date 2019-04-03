@@ -1,0 +1,78 @@
+{
+  "id": 1309806651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90167,46.67833,13.90167,46.67833",
+    "geom:latitude":46.67833,
+    "geom:longitude":13.90167,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"207",
+    "gn:admin3_code":"20724.0",
+    "gn:asciiname":"Kanzelhoehe",
+    "gn:country_code":"AT",
+    "gn:dem":1511,
+    "gn:elevation":"1530.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774787,
+    "gn:latitude":46.67833,
+    "gn:longitude":13.90167,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kanzelh\u00f6he",
+    "gn:population":33,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kanzelh\u00f6he/Gerlitzen"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838357,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774787
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f502d1591b79c1b38a8db1874f8c4fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838357,
+            "locality_id":1309806651,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1309806651,
+    "wof:lastmodified":1537584962,
+    "wof:name":"Kanzelhoehe",
+    "wof:parent_id":1108838357,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90167,
+    46.67833,
+    13.90167,
+    46.67833
+],
+  "geometry": {"coordinates":[13.90167,46.67833],"type":"Point"}
+}

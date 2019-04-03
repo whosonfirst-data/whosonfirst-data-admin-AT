@@ -1,0 +1,74 @@
+{
+  "id": 1243453651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61516,47.09511,13.61516,47.09511",
+    "geom:latitude":47.09511,
+    "geom:longitude":13.61516,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"505",
+    "gn:admin3_code":"50509.0",
+    "gn:asciiname":"Hoef",
+    "gn:country_code":"AT",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775874,
+    "gn:latitude":47.09511,
+    "gn:longitude":13.61516,
+    "gn:modification_date":"2018-07-29",
+    "gn:name":"H\u00f6f",
+    "gn:population":275,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837063,
+        85632785,
+        102049721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775874
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"be3984f56598da4a0d5a4589d4a8f29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837063,
+            "locality_id":1243453651,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1243453651,
+    "wof:lastmodified":1536795374,
+    "wof:name":"Hoef",
+    "wof:parent_id":1108837063,
+    "wof:placetype":"locality",
+    "wof:population":275,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61516,
+    47.09511,
+    13.61516,
+    47.09511
+],
+  "geometry": {"coordinates":[13.61516,47.09511],"type":"Point"}
+}

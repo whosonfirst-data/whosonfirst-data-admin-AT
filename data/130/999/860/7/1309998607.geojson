@@ -1,0 +1,74 @@
+{
+  "id": 1309998607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95,47.38333,15.95,47.38333",
+    "geom:latitude":47.38333,
+    "geom:longitude":15.95,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"622",
+    "gn:admin3_code":"62277.0",
+    "gn:asciiname":"Kleinschlag",
+    "gn:country_code":"AT",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774030,
+    "gn:latitude":47.38333,
+    "gn:longitude":15.95,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kleinschlag",
+    "gn:population":153,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839427,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774030
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d27d04e489e6873f5d44669a4bd3fbe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839427,
+            "locality_id":1309998607,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1309998607,
+    "wof:lastmodified":1536653185,
+    "wof:name":"Kleinschlag",
+    "wof:parent_id":1108839427,
+    "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95,
+    47.38333,
+    15.95,
+    47.38333
+],
+  "geometry": {"coordinates":[15.95,47.38333],"type":"Point"}
+}

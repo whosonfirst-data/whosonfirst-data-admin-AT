@@ -1,0 +1,74 @@
+{
+  "id": 1344168717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,48.31667,15.15,48.31667",
+    "geom:latitude":48.31667,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"315.0",
+    "gn:admin3_code":"31534.0",
+    "gn:asciiname":"Zoebring",
+    "gn:country_code":"AT",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760483,
+    "gn:latitude":48.31667,
+    "gn:longitude":15.15,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Z\u00f6bring",
+    "gn:population":70,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835923,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760483
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"66819ed47e9c9bbcfc159d14c43fd862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835923,
+            "locality_id":1344168717,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344168717,
+    "wof:lastmodified":1536719689,
+    "wof:name":"Zoebring",
+    "wof:parent_id":1108835923,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    48.31667,
+    15.15,
+    48.31667
+],
+  "geometry": {"coordinates":[15.15,48.31667],"type":"Point"}
+}

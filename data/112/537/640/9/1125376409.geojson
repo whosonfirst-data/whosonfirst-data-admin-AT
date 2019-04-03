@@ -1,0 +1,85 @@
+{
+  "id": 1125376409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65603,48.41952,15.65603,48.41952",
+    "geom:latitude":48.41952,
+    "geom:longitude":15.65603,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "gn:population":2076,
+    "iso:country":"AT",
+    "lbl:latitude":48.41952,
+    "lbl:longitude":15.65603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Rohrendorf"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2767271,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rohrendorf bei Krems",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":275771,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767271,
+        "qs_pg:id":275771
+    },
+    "wof:country":"AT",
+    "wof:created":1497047773,
+    "wof:geomhash":"76fe7705dbff37dc2839b25d60d1f087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1125376409,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125376409,
+    "wof:lastmodified":1534379181,
+    "wof:name":"Rohrendorf bei Krems",
+    "wof:parent_id":102049885,
+    "wof:placetype":"localadmin",
+    "wof:population":2076,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836177
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65603,
+    48.41952,
+    15.65603,
+    48.41952
+],
+  "geometry": {"coordinates":[15.65603,48.41952],"type":"Point"}
+}

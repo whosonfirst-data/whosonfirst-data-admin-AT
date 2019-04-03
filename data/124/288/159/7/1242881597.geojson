@@ -1,0 +1,74 @@
+{
+  "id": 1242881597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06667,48.38333,16.06667,48.38333",
+    "geom:latitude":48.38333,
+    "geom:longitude":16.06667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"312",
+    "gn:admin3_code":"31208.0",
+    "gn:asciiname":"Gaisruck",
+    "gn:country_code":"AT",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778999,
+    "gn:latitude":48.38333,
+    "gn:longitude":16.06667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gaisruck",
+    "gn:population":222,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836367,
+        85632785,
+        102049887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778999
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3962362d65a9e9f60348fbaba7d8a8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836367,
+            "locality_id":1242881597,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1242881597,
+    "wof:lastmodified":1536623773,
+    "wof:name":"Gaisruck",
+    "wof:parent_id":1108836367,
+    "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06667,
+    48.38333,
+    16.06667,
+    48.38333
+],
+  "geometry": {"coordinates":[16.06667,48.38333],"type":"Point"}
+}

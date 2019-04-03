@@ -1,0 +1,74 @@
+{
+  "id": 1242880031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88333,48.1,13.88333,48.1",
+    "geom:latitude":48.1,
+    "geom:longitude":13.88333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"418",
+    "gn:admin3_code":"41806.0",
+    "gn:asciiname":"Breitenberg",
+    "gn:country_code":"AT",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781477,
+    "gn:latitude":48.1,
+    "gn:longitude":13.88333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Breitenberg",
+    "gn:population":16,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836547,
+        85632785,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781477
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f26fa87bf136fce5e94c95f3a93d1ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836547,
+            "locality_id":1242880031,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1242880031,
+    "wof:lastmodified":1536626169,
+    "wof:name":"Breitenberg",
+    "wof:parent_id":1108836547,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88333,
+    48.1,
+    13.88333,
+    48.1
+],
+  "geometry": {"coordinates":[13.88333,48.1],"type":"Point"}
+}

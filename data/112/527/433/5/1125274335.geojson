@@ -1,0 +1,82 @@
+{
+  "id": 1125274335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57185,48.77145,16.57185,48.77145",
+    "geom:latitude":48.77145,
+    "geom:longitude":16.57185,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":608,
+    "gn:population":568,
+    "iso:country":"AT",
+    "lbl:latitude":48.77145,
+    "lbl:longitude":16.57185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872974,
+    "qs_pg:gn_pop":608,
+    "qs_pg:name":"Ottenthal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108768,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872974,
+        "qs_pg:id":108768
+    },
+    "wof:country":"AT",
+    "wof:created":1497042254,
+    "wof:geomhash":"59587c683774e7afb34dcf2082533cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1125274335,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125274335,
+    "wof:lastmodified":1534531010,
+    "wof:name":"Ottenthal",
+    "wof:parent_id":102049897,
+    "wof:placetype":"localadmin",
+    "wof:population":568,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836903
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57185,
+    48.77145,
+    16.57185,
+    48.77145
+],
+  "geometry": {"coordinates":[16.57185,48.77145],"type":"Point"}
+}

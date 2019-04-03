@@ -1,0 +1,71 @@
+{
+  "id": 1309743857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2,47.28333,13.2,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":13.2,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50411.0",
+    "gn:asciiname":"Viehhaus",
+    "gn:country_code":"AT",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2606050,
+    "gn:latitude":47.28333,
+    "gn:longitude":13.2,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Viehhaus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837011,
+        85632785,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2606050
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bea56d36dcef9e9a12434e3a5878fb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1108837011,
+            "locality_id":1309743857,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1309743857,
+    "wof:lastmodified":1537019643,
+    "wof:name":"Viehhaus",
+    "wof:parent_id":1108837011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2,
+    47.28333,
+    13.2,
+    47.28333
+],
+  "geometry": {"coordinates":[13.2,47.28333],"type":"Point"}
+}

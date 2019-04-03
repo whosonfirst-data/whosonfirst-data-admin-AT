@@ -1,0 +1,75 @@
+{
+  "id": 1360206977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17504,47.51587,15.17504,47.51587",
+    "geom:latitude":47.51587,
+    "geom:longitude":15.17504,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62147.0",
+    "gn:asciiname":"Etmissl",
+    "gn:country_code":"AT",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779906,
+    "gn:latitude":47.51587,
+    "gn:longitude":15.17504,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Etmi\u00dfl",
+    "gn:population":410,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839307,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779906,
+        "wk:page":"Etmi%C3%9Fl"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"62e4c0318f38839e37cc6b96755d1f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108839307,
+            "locality_id":1360206977,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1360206977,
+    "wof:lastmodified":1537486390,
+    "wof:name":"Etmissl",
+    "wof:parent_id":1108839307,
+    "wof:placetype":"locality",
+    "wof:population":410,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17504,
+    47.51587,
+    15.17504,
+    47.51587
+],
+  "geometry": {"coordinates":[15.17504,47.51587],"type":"Point"}
+}

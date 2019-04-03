@@ -1,0 +1,79 @@
+{
+  "id": 1360097835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03889,46.7275,14.03889,46.7275",
+    "geom:latitude":46.7275,
+    "geom:longitude":14.03889,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21005.0",
+    "gn:asciiname":"Tiffnerwinkl",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763606,
+    "gn:latitude":46.7275,
+    "gn:longitude":14.03889,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Tiffnerwinkl",
+    "gn:population":131,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiffnerwinkel",
+        "Tiffnerwinkl"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838129,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763606
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"290e1b5e71b56dbf9f001aae362f5046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838129,
+            "locality_id":1360097835,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1360097835,
+    "wof:lastmodified":1537584920,
+    "wof:name":"Tiffnerwinkl",
+    "wof:parent_id":1108838129,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03889,
+    46.7275,
+    14.03889,
+    46.7275
+],
+  "geometry": {"coordinates":[14.03889,46.7275],"type":"Point"}
+}

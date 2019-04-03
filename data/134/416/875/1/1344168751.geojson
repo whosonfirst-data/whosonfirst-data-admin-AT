@@ -1,0 +1,71 @@
+{
+  "id": 1344168751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86667,48.1,14.86667,48.1",
+    "geom:latitude":48.1,
+    "geom:longitude":14.86667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30541.0",
+    "gn:asciiname":"Holzing",
+    "gn:country_code":"AT",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775568,
+    "gn:latitude":48.1,
+    "gn:longitude":14.86667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Holzing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836763,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775568
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"65d7ab17acd5e21cbf2f33434e414da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836763,
+            "locality_id":1344168751,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344168751,
+    "wof:lastmodified":1536719636,
+    "wof:name":"Holzing",
+    "wof:parent_id":1108836763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86667,
+    48.1,
+    14.86667,
+    48.1
+],
+  "geometry": {"coordinates":[14.86667,48.1],"type":"Point"}
+}

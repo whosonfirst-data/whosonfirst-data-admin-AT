@@ -1,0 +1,74 @@
+{
+  "id": 1242897847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51052,48.39416,13.51052,48.39416",
+    "geom:latitude":48.39416,
+    "geom:longitude":13.51052,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41426.0",
+    "gn:asciiname":"Laufenbach",
+    "gn:country_code":"AT",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772842,
+    "gn:latitude":48.39416,
+    "gn:longitude":13.51052,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Laufenbach",
+    "gn:population":196,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836079,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772842
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"37dfe4503a021143bbde6acc7d6f2e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836079,
+            "locality_id":1242897847,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1242897847,
+    "wof:lastmodified":1537096133,
+    "wof:name":"Laufenbach",
+    "wof:parent_id":1108836079,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51052,
+    48.39416,
+    13.51052,
+    48.39416
+],
+  "geometry": {"coordinates":[13.51052,48.39416],"type":"Point"}
+}

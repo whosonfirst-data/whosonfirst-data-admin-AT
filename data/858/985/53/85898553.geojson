@@ -1,0 +1,114 @@
+{
+  "id": 85898553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3382831.259219,
+    "geom:bbox":"15.105286,47.367422,15.105286,47.367422",
+    "geom:latitude":47.367422,
+    "geom:longitude":15.105286,
+    "iso:country":"AT",
+    "lbl:latitude":47.367422,
+    "lbl:longitude":15.105286,
+    "mps:latitude":47.36175,
+    "mps:longitude":15.114777,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:deu_x_colloquial":[
+        "Muehltal",
+        "Muhltal"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00fchltal"
+    ],
+    "name:unk_x_variant":[
+        "M\u00fchltal"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7872425,
+    "qs:gn_nam_loc":"Leoben, Leoben, Steiermark, AT",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"M\u00fchltal",
+    "qs:local_max":615,
+    "qs:local_sum":925,
+    "qs:localhoods":6,
+    "qs:name":"M\u00fchltal",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Steiermark",
+    "qs:name_adm2":"Leoben",
+    "qs:name_lau":"Leoben",
+    "qs:name_local":"Leoben",
+    "qs:photo_max":8,
+    "qs:photo_sum":27,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344713,
+    "qs:woe_adm2":12591737,
+    "qs:woe_lau":12674968,
+    "qs:woe_local":12674968,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1108839009,
+        85632785,
+        102049769,
+        85681687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771060,
+        "gp:id":549234,
+        "qs:id":468162,
+        "qs_pg:id":468162
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b87c88d1de8ae12c3d9aa88dad605349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":-1,
+            "neighbourhood_id":85898553,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":85898553,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932082,
+    "wof:name":"M\u00fchltal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.105286,
+    47.367422,
+    15.105286,
+    47.367422
+],
+  "geometry": {"coordinates":[15.105286,47.367422],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226638659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,47.31667,15.86667,47.31667",
+    "geom:latitude":47.31667,
+    "geom:longitude":15.86667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"622",
+    "gn:admin3_code":"62235.0",
+    "gn:asciiname":"Oberneuberg",
+    "gn:country_code":"AT",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769871,
+    "gn:latitude":47.31667,
+    "gn:longitude":15.86667,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Oberneuberg",
+    "gn:population":769,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839103,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769871
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"67905640e558a0980d904638956f869c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839103,
+            "locality_id":1226638659,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226638659,
+    "wof:lastmodified":1536868508,
+    "wof:name":"Oberneuberg",
+    "wof:parent_id":1108839103,
+    "wof:placetype":"locality",
+    "wof:population":769,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    47.31667,
+    15.86667,
+    47.31667
+],
+  "geometry": {"coordinates":[15.86667,47.31667],"type":"Point"}
+}

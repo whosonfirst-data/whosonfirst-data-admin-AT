@@ -1,0 +1,111 @@
+{
+  "id": 1125395283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.32245,47.25227,11.32245,47.25227",
+    "geom:latitude":47.25227,
+    "geom:longitude":11.32245,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6539,
+    "gn:population":6730,
+    "iso:country":"AT",
+    "lbl:latitude":47.25227,
+    "lbl:longitude":11.32245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0424\u044c\u043e\u043b\u0441"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0451\u043b\u044c\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0451\u043b\u044c\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u043b\u044c\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u5c14\u65af"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873627,
+    "qs_pg:gn_pop":6539,
+    "qs_pg:name":"V\u00f6ls",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Tirol",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":75,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1019814,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675581,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Tirol",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681661,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873627,
+        "gp:id":12675581,
+        "qs_pg:id":1019814
+    },
+    "wof:country":"AT",
+    "wof:created":1497048976,
+    "wof:geomhash":"4402e3cfc875d6d17e596ee17571f319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1125395283,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125395283,
+    "wof:lastmodified":1534379179,
+    "wof:name":"V\u00f6ls",
+    "wof:parent_id":102049735,
+    "wof:placetype":"localadmin",
+    "wof:population":6730,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837635
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.32245,
+    47.25227,
+    11.32245,
+    47.25227
+],
+  "geometry": {"coordinates":[11.32245,47.25227],"type":"Point"}
+}

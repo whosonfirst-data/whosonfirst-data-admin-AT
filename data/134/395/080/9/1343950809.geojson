@@ -1,0 +1,71 @@
+{
+  "id": 1343950809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95,46.78333,15.95,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":15.95,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62368.0",
+    "gn:asciiname":"Dirneck",
+    "gn:country_code":"AT",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2608433,
+    "gn:latitude":46.78333,
+    "gn:longitude":15.95,
+    "gn:modification_date":"2014-04-28",
+    "gn:name":"Dirneck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839331,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2608433
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5e9a8e0f416a7eee1c75bb2103b49eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839331,
+            "locality_id":1343950809,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343950809,
+    "wof:lastmodified":1537032569,
+    "wof:name":"Dirneck",
+    "wof:parent_id":1108839331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95,
+    46.78333,
+    15.95,
+    46.78333
+],
+  "geometry": {"coordinates":[15.95,46.78333],"type":"Point"}
+}

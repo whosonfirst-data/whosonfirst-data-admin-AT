@@ -1,0 +1,103 @@
+{
+  "id": 1125363445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.39906,47.29204,13.39906,47.29204",
+    "geom:latitude":47.29204,
+    "geom:longitude":13.39906,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2662,
+    "gn:population":2782,
+    "iso:country":"AT",
+    "lbl:latitude":47.29204,
+    "lbl:longitude":13.39906,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Flochau"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u043b\u0430\u0445\u0430\u0443"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05db\u05d0\u05d5"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043b\u0430\u0445\u0430\u0443"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u043b\u0430\u0445\u0430\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043b\u0430\u0445\u0430\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u62c9\u8096"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873310,
+    "qs_pg:gn_pop":2662,
+    "qs_pg:name":"Flachau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1245853,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873310,
+        "qs_pg:id":1245853
+    },
+    "wof:country":"AT",
+    "wof:created":1497046939,
+    "wof:geomhash":"5939aeb7ead0d163d9028da7c55725ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "localadmin_id":1125363445,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125363445,
+    "wof:lastmodified":1534531059,
+    "wof:name":"Flachau",
+    "wof:parent_id":102049753,
+    "wof:placetype":"localadmin",
+    "wof:population":2782,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837005
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.39906,
+    47.29204,
+    13.39906,
+    47.29204
+],
+  "geometry": {"coordinates":[13.39906,47.29204],"type":"Point"}
+}

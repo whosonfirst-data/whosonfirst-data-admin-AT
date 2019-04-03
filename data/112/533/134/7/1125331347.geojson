@@ -1,0 +1,86 @@
+{
+  "id": 1125331347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9191805,46.568007,13.9191805,46.568007",
+    "geom:latitude":46.568007,
+    "geom:longitude":13.91918,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":46.568007,
+    "lbl:longitude":13.91918,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Finkenstein am Faaker See",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":13,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":2886,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1301149,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673554,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12673554,
+        "qs_pg:id":1301149
+    },
+    "wof:country":"AT",
+    "wof:created":1497045152,
+    "wof:geomhash":"c37206f2a21a19295a922199a0f56277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1125331347,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125331347,
+    "wof:lastmodified":1536698171,
+    "wof:name":"Finkenstein am Faaker See",
+    "wof:parent_id":102049683,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838339
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9191805,
+    46.568007,
+    13.9191805,
+    46.568007
+],
+  "geometry": {"coordinates":[13.9191805,46.568007],"type":"Point"}
+}

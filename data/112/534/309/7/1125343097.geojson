@@ -1,0 +1,86 @@
+{
+  "id": 1125343097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.478199,48.1231805,14.478199,48.1231805",
+    "geom:latitude":48.12318,
+    "geom:longitude":14.478199,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":48.12318,
+    "lbl:longitude":14.478199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ernsthofen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1318198,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673718,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12673718,
+        "qs_pg:id":1318198
+    },
+    "wof:country":"AT",
+    "wof:created":1497045774,
+    "wof:geomhash":"5ef0b89bba08aca19bde2f16889db61d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1125343097,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125343097,
+    "wof:lastmodified":1534531032,
+    "wof:name":"Ernsthofen",
+    "wof:parent_id":102049835,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836655
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.478199,
+    48.1231805,
+    14.478199,
+    48.1231805
+],
+  "geometry": {"coordinates":[14.478199,48.1231805],"type":"Point"}
+}

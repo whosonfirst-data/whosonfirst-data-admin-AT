@@ -1,0 +1,88 @@
+{
+  "id": 1125423461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25345,47.52928,14.25345,47.52928",
+    "geom:latitude":47.52928,
+    "geom:longitude":14.25345,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1807,
+    "gn:population":1719,
+    "iso:country":"AT",
+    "lbl:latitude":47.52928,
+    "lbl:longitude":14.25345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441\u0441\u0438\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8f9b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873500,
+    "qs_pg:gn_pop":1807,
+    "qs_pg:name":"Lassing",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1155516,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873500,
+        "qs_pg:id":1155516
+    },
+    "wof:country":"AT",
+    "wof:created":1497052695,
+    "wof:geomhash":"be3856099356d565f7b99d0bf9f4b808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125423461,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125423461,
+    "wof:lastmodified":1534531061,
+    "wof:name":"Lassing",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":1719,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838941
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25345,
+    47.52928,
+    14.25345,
+    47.52928
+],
+  "geometry": {"coordinates":[14.25345,47.52928],"type":"Point"}
+}

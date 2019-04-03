@@ -1,0 +1,74 @@
+{
+  "id": 1343773691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02083,48.62722,16.02083,48.62722",
+    "geom:latitude":48.62722,
+    "geom:longitude":16.02083,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"310.0",
+    "gn:admin3_code":"31009.0",
+    "gn:asciiname":"Ober-Steinabrunn",
+    "gn:country_code":"AT",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769707,
+    "gn:latitude":48.62722,
+    "gn:longitude":16.02083,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ober-Steinabrunn",
+    "gn:population":113,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835023,
+        85632785,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769707
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8832c04f1b153e719d055eb9a895e15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835023,
+            "locality_id":1343773691,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343773691,
+    "wof:lastmodified":1536792122,
+    "wof:name":"Ober-Steinabrunn",
+    "wof:parent_id":1108835023,
+    "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02083,
+    48.62722,
+    16.02083,
+    48.62722
+],
+  "geometry": {"coordinates":[16.02083,48.62722],"type":"Point"}
+}

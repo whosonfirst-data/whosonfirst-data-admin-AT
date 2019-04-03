@@ -1,0 +1,91 @@
+{
+  "id": 1125273835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1282,47.12235,10.1282,47.12235",
+    "geom:latitude":47.12235,
+    "geom:longitude":10.1282,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":735,
+    "gn:population":677,
+    "iso:country":"AT",
+    "lbl:latitude":47.12235,
+    "lbl:longitude":10.1282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0451\u0441\u0442\u0435\u0440\u043b\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0435\u0448\u0442\u0435\u0440\u043b\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u52d2\u65bd\u7279\u52d2"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872646,
+    "qs_pg:gn_pop":735,
+    "qs_pg:name":"Kl\u00f6sterle",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108642,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872646,
+        "qs_pg:id":108642
+    },
+    "wof:country":"AT",
+    "wof:created":1497042237,
+    "wof:geomhash":"a457ee66e9f940df4c7a0952baf1fea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1125273835,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125273835,
+    "wof:lastmodified":1534530993,
+    "wof:name":"Kl\u00f6sterle",
+    "wof:parent_id":102049711,
+    "wof:placetype":"localadmin",
+    "wof:population":677,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837975
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1282,
+    47.12235,
+    10.1282,
+    47.12235
+],
+  "geometry": {"coordinates":[10.1282,47.12235],"type":"Point"}
+}

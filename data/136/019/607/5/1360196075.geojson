@@ -1,0 +1,79 @@
+{
+  "id": 1360196075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.82528,48.70167,16.82528,48.70167",
+    "geom:latitude":48.70167,
+    "geom:longitude":16.82528,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"316.0",
+    "gn:admin3_code":"31604.0",
+    "gn:asciiname":"Reintal",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767692,
+    "gn:latitude":48.70167,
+    "gn:longitude":16.82528,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reintal",
+    "gn:population":414,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reinthal",
+        "Reintal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836223,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767692
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3f6dbc98504075d621b4b1a2df7e3af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836223,
+            "locality_id":1360196075,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1360196075,
+    "wof:lastmodified":1537584939,
+    "wof:name":"Reintal",
+    "wof:parent_id":1108836223,
+    "wof:placetype":"locality",
+    "wof:population":414,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.82528,
+    48.70167,
+    16.82528,
+    48.70167
+],
+  "geometry": {"coordinates":[16.82528,48.70167],"type":"Point"}
+}

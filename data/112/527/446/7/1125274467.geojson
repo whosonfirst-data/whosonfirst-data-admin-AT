@@ -1,0 +1,82 @@
+{
+  "id": 1125274467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22177,47.95674,15.22177,47.95674",
+    "geom:latitude":47.95674,
+    "geom:longitude":15.22177,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1256,
+    "gn:population":1206,
+    "iso:country":"AT",
+    "lbl:latitude":47.95674,
+    "lbl:longitude":15.22177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873033,
+    "qs_pg:gn_pop":1256,
+    "qs_pg:name":"Sankt Anton an der Je\u00dfnitz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108799,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873033,
+        "qs_pg:id":108799
+    },
+    "wof:country":"AT",
+    "wof:created":1497042258,
+    "wof:geomhash":"cb5c2cf79dfbf4fcf16a9a9e04f568c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1125274467,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125274467,
+    "wof:lastmodified":1536698124,
+    "wof:name":"Sankt Anton an der Je\u00dfnitz",
+    "wof:parent_id":102049825,
+    "wof:placetype":"localadmin",
+    "wof:population":1206,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836343
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22177,
+    47.95674,
+    15.22177,
+    47.95674
+],
+  "geometry": {"coordinates":[15.22177,47.95674],"type":"Point"}
+}

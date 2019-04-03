@@ -1,0 +1,74 @@
+{
+  "id": 1226747693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9453,48.44065,13.9453,48.44065",
+    "geom:latitude":48.44065,
+    "geom:longitude":13.9453,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41314.0",
+    "gn:asciiname":"Wolkersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760885,
+    "gn:latitude":48.44065,
+    "gn:longitude":13.9453,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wolkersdorf",
+    "gn:population":23,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835959,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760885
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"640703658ff07216295399ed14c12fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835959,
+            "locality_id":1226747693,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226747693,
+    "wof:lastmodified":1536713020,
+    "wof:name":"Wolkersdorf",
+    "wof:parent_id":1108835959,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9453,
+    48.44065,
+    13.9453,
+    48.44065
+],
+  "geometry": {"coordinates":[13.9453,48.44065],"type":"Point"}
+}

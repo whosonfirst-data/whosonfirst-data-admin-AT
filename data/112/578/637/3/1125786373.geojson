@@ -1,0 +1,93 @@
+{
+  "id": 1125786373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20688,47.96148,15.20688,47.96148",
+    "geom:latitude":47.96148,
+    "geom:longitude":15.20688,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.96148,
+    "lbl:longitude":15.20688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sankt Anton"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2766755,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St. Anton an der Je\u00dfnitz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":37564,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":543630,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836343,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766755,
+        "gp:id":543630,
+        "qs_pg:id":37564
+    },
+    "wof:country":"AT",
+    "wof:created":1497290696,
+    "wof:geomhash":"6f0ad67c812c0a59cd53f03abd8274c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108836343,
+            "locality_id":1125786373,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125786373,
+    "wof:lastmodified":1509391994,
+    "wof:name":"St. Anton an der Je\u00dfnitz",
+    "wof:parent_id":1108836343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20688,
+    47.96148,
+    15.20688,
+    47.96148
+],
+  "geometry": {"coordinates":[15.20688,47.96148],"type":"Point"}
+}

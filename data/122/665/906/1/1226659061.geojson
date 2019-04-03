@@ -1,0 +1,74 @@
+{
+  "id": 1226659061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06731,46.67736,14.06731,46.67736",
+    "geom:latitude":46.67736,
+    "geom:longitude":14.06731,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Debar",
+    "gn:country_code":"AT",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11591904,
+    "gn:latitude":46.67736,
+    "gn:longitude":14.06731,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Debar",
+    "gn:population":40,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591904
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b3ced4fe59bb7d0af5ef2c347864d1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":1226659061,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226659061,
+    "wof:lastmodified":1536839173,
+    "wof:name":"Debar",
+    "wof:parent_id":1108838123,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06731,
+    46.67736,
+    14.06731,
+    46.67736
+],
+  "geometry": {"coordinates":[14.06731,46.67736],"type":"Point"}
+}

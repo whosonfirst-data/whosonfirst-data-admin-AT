@@ -1,0 +1,76 @@
+{
+  "id": 101833111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":513522.433671,
+    "geom:bbox":"13.1046708786,47.8904271119,13.1204343385,47.9012268252",
+    "geom:latitude":47.896933,
+    "geom:longitude":13.114541,
+    "iso:country":"AT",
+    "lbl:latitude":47.896831,
+    "lbl:longitude":13.114541,
+    "mps:latitude":47.896831,
+    "mps:longitude":13.114541,
+    "mz:hierarchy_label":1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Salzburg",
+    "qs:a1r":"0",
+    "qs:a2":"Salzburg - Umgebung",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Seekirchen am Wallersee",
+    "qs:la_lc":"*AT50339",
+    "qs:level":"locality",
+    "qs:loc":"Waldprechting",
+    "qs:loc_alt":"Waldprechting",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837191,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761987,
+        "gp:id":547973,
+        "qs:id":315829
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2d6564c15aa49f5f1e4ab2535649500f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837191,
+            "locality_id":101833111,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":101833111,
+    "wof:lastmodified":1496614834,
+    "wof:name":"Waldprechting",
+    "wof:parent_id":1108837191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.10467087864095,
+    47.89042711191456,
+    13.12043433846463,
+    47.90122682524208
+],
+  "geometry": {"coordinates":[[[13.12043433846463,47.90116619090617],[13.11807055036479,47.89042711191456],[13.11630820916201,47.89047717511846],[13.11636301125731,47.89137614315803],[13.11769852805173,47.8913382128884],[13.1178630193221,47.89403511218768],[13.11118506608602,47.89422461265423],[13.11134922818576,47.89692151971826],[13.10467087864095,47.89711062563515],[13.10472548713642,47.89800959765591],[13.10606118406423,47.89797180819261],[13.10611581843096,47.89887077902887],[13.11145868184894,47.89871945566966],[13.11151341236064,47.89961842301841],[13.1181920682219,47.89942889948804],[13.11830177085517,47.90122682524208],[13.12043433846463,47.90116619090617]]],"type":"Polygon"}
+}

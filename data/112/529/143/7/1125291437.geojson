@@ -1,0 +1,111 @@
+{
+  "id": 1125291437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20833,46.75833,15.20833,46.75833",
+    "geom:latitude":46.75833,
+    "geom:longitude":15.20833,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "gn:population":4605,
+    "iso:country":"AT",
+    "lbl:latitude":46.75833,
+    "lbl:longitude":15.20833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0428\u0432\u0430\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0432\u0430\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u4e07\u8d1d\u683c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2765515,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Schwanberg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":80,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":80,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1187784,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675302,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765515,
+        "gp:id":12675302,
+        "qs_pg:id":1187784
+    },
+    "wof:concordances_alt":{
+        "gn:id":7873360,
+        "qs_pg:id":1155502
+    },
+    "wof:country":"AT",
+    "wof:created":1497042935,
+    "wof:geomhash":"f81174dee740db42cf26f98a1f48b8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125291437,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125291437,
+    "wof:lastmodified":1536698132,
+    "wof:name":"Schwanberg",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:population":4605,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839277
+    ],
+    "wof:supersedes":[
+        1125409827
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20833,
+    46.75833,
+    15.20833,
+    46.75833
+],
+  "geometry": {"coordinates":[15.20833,46.75833],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209737823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81667,47.61667,15.81667,47.61667",
+    "geom:latitude":47.61667,
+    "geom:longitude":15.81667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62131.0",
+    "gn:asciiname":"Froeschnitz",
+    "gn:country_code":"AT",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779186,
+    "gn:latitude":47.61667,
+    "gn:longitude":15.81667,
+    "gn:modification_date":"2014-04-28",
+    "gn:name":"Fr\u00f6schnitz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838841,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779186
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"42698a7c9a56bb834f18c57354bde369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838841,
+            "locality_id":1209737823,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1209737823,
+    "wof:lastmodified":1536371774,
+    "wof:name":"Froeschnitz",
+    "wof:parent_id":1108838841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81667,
+    47.61667,
+    15.81667,
+    47.61667
+],
+  "geometry": {"coordinates":[15.81667,47.61667],"type":"Point"}
+}

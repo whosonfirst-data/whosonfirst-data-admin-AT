@@ -1,0 +1,97 @@
+{
+  "id": 1125398021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25785,47.88625,14.25785,47.88625",
+    "geom:latitude":47.88625,
+    "geom:longitude":14.25785,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3597,
+    "gn:population":3653,
+    "iso:country":"AT",
+    "lbl:latitude":47.88625,
+    "lbl:longitude":14.25785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871037,
+    "qs_pg:gn_pop":3597,
+    "qs_pg:name":"Molln",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":95,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1041905,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674255,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871037,
+        "gp:id":12674255,
+        "qs_pg:id":1041905
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":31954
+    },
+    "wof:country":"AT",
+    "wof:created":1497049137,
+    "wof:geomhash":"200871b9b728421de88faf96e389bff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049815,
+            "localadmin_id":1125398021,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125398021,
+    "wof:lastmodified":1536698232,
+    "wof:name":"Molln",
+    "wof:parent_id":102049815,
+    "wof:placetype":"localadmin",
+    "wof:population":3653,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835261
+    ],
+    "wof:supersedes":[
+        1125306249
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25785,
+    47.88625,
+    14.25785,
+    47.88625
+],
+  "geometry": {"coordinates":[14.25785,47.88625],"type":"Point"}
+}

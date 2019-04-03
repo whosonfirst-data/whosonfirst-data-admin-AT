@@ -1,0 +1,74 @@
+{
+  "id": 1292914941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35863,48.84506,15.35863,48.84506",
+    "geom:latitude":48.84506,
+    "geom:longitude":15.35863,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"322.0",
+    "gn:admin3_code":"32220.0",
+    "gn:asciiname":"Puch",
+    "gn:country_code":"AT",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768284,
+    "gn:latitude":48.84506,
+    "gn:longitude":15.35863,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Puch",
+    "gn:population":93,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835381,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768284
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4767a180635bdb640559b1422ede14d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108835381,
+            "locality_id":1292914941,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1292914941,
+    "wof:lastmodified":1536616026,
+    "wof:name":"Puch",
+    "wof:parent_id":1108835381,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35863,
+    48.84506,
+    15.35863,
+    48.84506
+],
+  "geometry": {"coordinates":[15.35863,48.84506],"type":"Point"}
+}

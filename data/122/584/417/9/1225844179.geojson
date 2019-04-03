@@ -1,0 +1,71 @@
+{
+  "id": 1225844179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18658,47.24673,12.18658,47.24673",
+    "geom:latitude":47.24673,
+    "geom:longitude":12.18658,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50626.0",
+    "gn:asciiname":"Reitlbauer",
+    "gn:country_code":"AT",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594665,
+    "gn:latitude":47.24673,
+    "gn:longitude":12.18658,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Reitlbauer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837249,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594665
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"735b082b4cc6e6bdbf21e85d67f821bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837249,
+            "locality_id":1225844179,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1225844179,
+    "wof:lastmodified":1537015213,
+    "wof:name":"Reitlbauer",
+    "wof:parent_id":1108837249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18658,
+    47.24673,
+    12.18658,
+    47.24673
+],
+  "geometry": {"coordinates":[12.18658,47.24673],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125381079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06409,48.33327,16.06409,48.33327",
+    "geom:latitude":48.33327,
+    "geom:longitude":16.06409,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":14213,
+    "gn:population":16156,
+    "iso:country":"AT",
+    "lbl:latitude":48.33327,
+    "lbl:longitude":16.06409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871918,
+    "qs_pg:gn_pop":14213,
+    "qs_pg:name":"Tulln an der Donau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":380960,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871918,
+        "qs_pg:id":380960
+    },
+    "wof:country":"AT",
+    "wof:created":1497048050,
+    "wof:geomhash":"34b9bc1e16702a543d3014db27656eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1125381079,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125381079,
+    "wof:lastmodified":1534379124,
+    "wof:name":"Tulln an der Donau",
+    "wof:parent_id":102049879,
+    "wof:placetype":"localadmin",
+    "wof:population":16156,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836869
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06409,
+    48.33327,
+    16.06409,
+    48.33327
+],
+  "geometry": {"coordinates":[16.06409,48.33327],"type":"Point"}
+}

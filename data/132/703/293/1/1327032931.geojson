@@ -1,0 +1,74 @@
+{
+  "id": 1327032931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9,46.6,13.9,46.6",
+    "geom:latitude":46.6,
+    "geom:longitude":13.9,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"202",
+    "gn:admin3_code":"20201.0",
+    "gn:asciiname":"Kratschach",
+    "gn:country_code":"AT",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773581,
+    "gn:latitude":46.6,
+    "gn:longitude":13.9,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kratschach",
+    "gn:population":109,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        102049673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773581
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7f1aa368405e17d28400cd010e8b6f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":1327032931,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1327032931,
+    "wof:lastmodified":1536759832,
+    "wof:name":"Kratschach",
+    "wof:parent_id":1108838145,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9,
+    46.6,
+    13.9,
+    46.6
+],
+  "geometry": {"coordinates":[13.9,46.6],"type":"Point"}
+}

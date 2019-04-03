@@ -1,0 +1,117 @@
+{
+  "id": 1125378989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68699,47.39289,13.68699,47.39289",
+    "geom:latitude":47.39289,
+    "geom:longitude":13.68699,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":4659,
+    "gn:population":4659,
+    "iso:country":"AT",
+    "lbl:latitude":47.39289,
+    "lbl:longitude":13.68699,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Schlaming"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u043b\u0430\u0434\u043c\u0438\u043d\u0433"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u043b\u0430\u0434\u043c\u0438\u043d\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043b\u0430\u0434\u043c\u0438\u043d\u0433"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043b\u0430\u0434\u043c\u0438\u043d\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043b\u0430\u0434\u043c\u0456\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u62c9\u5fb7\u660e"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2765961,
+    "qs_pg:gn_pop":4659,
+    "qs_pg:name":"Schladming",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":15,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3374,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":988803,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675140,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765961,
+        "gp:id":12675140,
+        "qs_pg:id":988803
+    },
+    "wof:country":"AT",
+    "wof:created":1497047929,
+    "wof:geomhash":"ae6eec424404a3a79a5b717959f58c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125378989,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125378989,
+    "wof:lastmodified":1534379089,
+    "wof:name":"Schladming",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":4659,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125423183
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68699,
+    47.39289,
+    13.68699,
+    47.39289
+],
+  "geometry": {"coordinates":[13.68699,47.39289],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1125281021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48693,47.05849,14.48693,47.05849",
+    "geom:latitude":47.05849,
+    "geom:longitude":14.48693,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":361,
+    "gn:population":361,
+    "iso:country":"AT",
+    "lbl:latitude":47.05849,
+    "lbl:longitude":14.48693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kulm"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873521,
+    "qs_pg:gn_pop":361,
+    "qs_pg:name":"Kulm am Zirbitz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743543,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675180,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873521,
+        "gp:id":12675180,
+        "qs_pg:id":743543
+    },
+    "wof:concordances_alt":{
+        "gn:id":2773264,
+        "qs_pg:id":1195738
+    },
+    "wof:country":"AT",
+    "wof:created":1497042501,
+    "wof:geomhash":"e67ceaeebb49582526e0af3c0f2ba295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1125281021,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125281021,
+    "wof:lastmodified":1536698128,
+    "wof:name":"Kulm am Zirbitz",
+    "wof:parent_id":102049733,
+    "wof:placetype":"localadmin",
+    "wof:population":361,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838811
+    ],
+    "wof:supersedes":[
+        1125419747
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48693,
+    47.05849,
+    14.48693,
+    47.05849
+],
+  "geometry": {"coordinates":[14.48693,47.05849],"type":"Point"}
+}

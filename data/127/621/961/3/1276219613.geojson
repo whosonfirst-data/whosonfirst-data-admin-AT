@@ -1,0 +1,74 @@
+{
+  "id": 1276219613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88333,47.28333,15.88333,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":15.88333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"62275.0",
+    "gn:asciiname":"Winzendorf",
+    "gn:country_code":"AT",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761004,
+    "gn:latitude":47.28333,
+    "gn:longitude":15.88333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Winzendorf",
+    "gn:population":490,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839107,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761004
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"37ecb0c724806c731fa3181e134dd4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839107,
+            "locality_id":1276219613,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276219613,
+    "wof:lastmodified":1536932091,
+    "wof:name":"Winzendorf",
+    "wof:parent_id":1108839107,
+    "wof:placetype":"locality",
+    "wof:population":490,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88333,
+    47.28333,
+    15.88333,
+    47.28333
+],
+  "geometry": {"coordinates":[15.88333,47.28333],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125372263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53424,46.85049,15.53424,46.85049",
+    "geom:latitude":46.85049,
+    "geom:longitude":15.53424,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1952,
+    "gn:population":2173,
+    "iso:country":"AT",
+    "lbl:latitude":46.85049,
+    "lbl:longitude":15.53424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873469,
+    "qs_pg:gn_pop":1952,
+    "qs_pg:name":"Lebring-Sankt Margarethen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108953,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873469,
+        "qs_pg:id":108953
+    },
+    "wof:country":"AT",
+    "wof:created":1497047490,
+    "wof:geomhash":"d382e4c4020142014430c2a20fa71585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1125372263,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125372263,
+    "wof:lastmodified":1536698206,
+    "wof:name":"Lebring-Sankt Margarethen",
+    "wof:parent_id":102049699,
+    "wof:placetype":"localadmin",
+    "wof:population":2173,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839047
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53424,
+    46.85049,
+    15.53424,
+    46.85049
+],
+  "geometry": {"coordinates":[15.53424,46.85049],"type":"Point"}
+}

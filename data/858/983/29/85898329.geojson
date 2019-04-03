@@ -1,0 +1,111 @@
+{
+  "id": 85898329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":30735999.939105,
+    "geom:bbox":"16.233701,48.00425,16.233701,48.00425",
+    "geom:latitude":48.00425,
+    "geom:longitude":16.233701,
+    "iso:country":"AT",
+    "lbl:latitude":48.00425,
+    "lbl:longitude":16.233701,
+    "mps:latitude":48.004262,
+    "mps:longitude":16.246541,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Leesdorf"
+    ],
+    "name:unk_x_variant":[
+        "Leesdorf"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":7872834,
+    "qs:gn_nam_loc":"Baden, Baden, Nieder\u00f6sterreich, AT",
+    "qs:gn_namadm1":"03",
+    "qs:gn_name":"Kleedorf",
+    "qs:local_max":1826,
+    "qs:local_sum":2511,
+    "qs:localhoods":2,
+    "qs:name":"Leesdorf",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Nieder\u00f6sterreich",
+    "qs:name_adm2":"Baden",
+    "qs:name_lau":"Baden",
+    "qs:name_local":"Baden",
+    "qs:photo_max":550,
+    "qs:photo_sum":1826,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":55,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344710,
+    "qs:woe_adm2":12591690,
+    "qs:woe_lau":12673793,
+    "qs:woe_local":12673793,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835321,
+        85632785,
+        101833181,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774268,
+        "gp:id":542601,
+        "qs:id":1138185,
+        "qs_pg:id":1138185
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2d7cb8d4c6d87d0c1714aff25f6f14eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108835321,
+            "locality_id":101833181,
+            "neighbourhood_id":85898329,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":85898329,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932051,
+    "wof:name":"Leesdorf",
+    "wof:parent_id":101833181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.233701,
+    48.00425,
+    16.233701,
+    48.00425
+],
+  "geometry": {"coordinates":[16.233701,48.00425],"type":"Point"}
+}

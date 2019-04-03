@@ -1,0 +1,98 @@
+{
+  "id": 1125355733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60747,47.02916,15.60747,47.02916",
+    "geom:latitude":47.02916,
+    "geom:longitude":15.60747,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":649,
+    "gn:population":649,
+    "iso:country":"AT",
+    "lbl:latitude":47.02916,
+    "lbl:longitude":15.60747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872325,
+    "qs_pg:gn_pop":649,
+    "qs_pg:name":"Edelsgrub",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743369,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674976,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872325,
+        "gp:id":12674976,
+        "qs_pg:id":743369
+    },
+    "wof:concordances_alt":{
+        "gn:id":2780450,
+        "qs_pg:id":911064
+    },
+    "wof:country":"AT",
+    "wof:created":1497046460,
+    "wof:geomhash":"99cfc998cfc5b39f61ca06f7a8ec9b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125355733,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125355733,
+    "wof:lastmodified":1536698182,
+    "wof:name":"Edelsgrub",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":649,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839173
+    ],
+    "wof:supersedes":[
+        1125375049
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60747,
+    47.02916,
+    15.60747,
+    47.02916
+],
+  "geometry": {"coordinates":[15.60747,47.02916],"type":"Point"}
+}

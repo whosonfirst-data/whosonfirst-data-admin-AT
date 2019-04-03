@@ -1,0 +1,74 @@
+{
+  "id": 1344249771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30833,47.76333,15.30833,47.76333",
+    "geom:latitude":47.76333,
+    "geom:longitude":15.30833,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"621.0",
+    "gn:admin3_code":"62142.0",
+    "gn:asciiname":"Rasing",
+    "gn:country_code":"AT",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767931,
+    "gn:latitude":47.76333,
+    "gn:longitude":15.30833,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rasing",
+    "gn:population":66,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839309,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767931
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cb9d4e87cb8f7b7056fc3e91bacc0131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108839309,
+            "locality_id":1344249771,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1344249771,
+    "wof:lastmodified":1537096425,
+    "wof:name":"Rasing",
+    "wof:parent_id":1108839309,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30833,
+    47.76333,
+    15.30833,
+    47.76333
+],
+  "geometry": {"coordinates":[15.30833,47.76333],"type":"Point"}
+}

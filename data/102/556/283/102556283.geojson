@@ -1,0 +1,78 @@
+{
+  "id": 102556283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2639,47.9594,16.2639,47.9594",
+    "geom:latitude":47.9594,
+    "geom:longitude":16.2639,
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Flugplatz V\u00f6slau-Kottingbrunn"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Voslau"
+    ],
+    "name:pol_x_preferred":[
+        "Lotnisko V\u00f6slau-Kottingbrunn"
+    ],
+    "oa:elevation_ft":"765",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591690,
+        "localadmin_id":12674127,
+        "planet_id":1,
+        "state_id":2344710
+    },
+    "wof:belongsto":[
+        85632785,
+        101833193,
+        85681671,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051676,
+        "icao:code":"LOAV",
+        "oa:id":"28136",
+        "wd:id":"Q875379"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1d80e06ef79473121532b35ce2c281d7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556283,
+            "country_id":85632785,
+            "county_id":102049829,
+            "locality_id":101833193,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":102556283,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Flugplatz V\u00f6slau",
+    "wof:parent_id":101833193,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.2639,
+    47.9594,
+    16.2639,
+    47.9594
+],
+  "geometry": {"coordinates":[16.2639,47.9594],"type":"Point"}
+}

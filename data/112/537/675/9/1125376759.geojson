@@ -1,0 +1,78 @@
+{
+  "id": 1125376759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81667,48.4,15.81667,48.4",
+    "geom:latitude":48.4,
+    "geom:longitude":15.81667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.4,
+    "lbl:longitude":15.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":2765299,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Seebarn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":373487,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765299,
+        "qs_pg:id":373487
+    },
+    "wof:country":"AT",
+    "wof:created":1497047793,
+    "wof:geomhash":"2e7e93c661eae0db282b2ad58f2b4b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1125376759,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125376759,
+    "wof:lastmodified":1536698212,
+    "wof:name":"Seebarn",
+    "wof:parent_id":102049879,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836185
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81667,
+    48.4,
+    15.81667,
+    48.4
+],
+  "geometry": {"coordinates":[15.81667,48.4],"type":"Point"}
+}

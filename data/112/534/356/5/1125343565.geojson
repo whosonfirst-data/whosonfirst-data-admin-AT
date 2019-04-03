@@ -1,0 +1,86 @@
+{
+  "id": 1125343565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.692425,48.348991,15.692425,48.348991",
+    "geom:latitude":48.348991,
+    "geom:longitude":15.692425,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":48.348991,
+    "lbl:longitude":15.692425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Nu\u00dfdorf ob der Traisen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":62,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":62,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":479407,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673989,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12673989,
+        "qs_pg:id":479407
+    },
+    "wof:country":"AT",
+    "wof:created":1497045799,
+    "wof:geomhash":"38d5a2e36334ba6590daf73a924d5cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125343565,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125343565,
+    "wof:lastmodified":1534531037,
+    "wof:name":"Nu\u00dfdorf ob der Traisen",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834941
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.692425,
+    48.348991,
+    15.692425,
+    48.348991
+],
+  "geometry": {"coordinates":[15.692425,48.348991],"type":"Point"}
+}

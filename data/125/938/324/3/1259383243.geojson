@@ -1,0 +1,74 @@
+{
+  "id": 1259383243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47198,48.17713,13.47198,48.17713",
+    "geom:latitude":48.17713,
+    "geom:longitude":13.47198,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41218.0",
+    "gn:asciiname":"Grillnau",
+    "gn:country_code":"AT",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609673,
+    "gn:latitude":48.17713,
+    "gn:longitude":13.47198,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Grillnau",
+    "gn:population":112,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835663,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609673
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"45ded76de6b04b6197c6ca833b895582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835663,
+            "locality_id":1259383243,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259383243,
+    "wof:lastmodified":1537001859,
+    "wof:name":"Grillnau",
+    "wof:parent_id":1108835663,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47198,
+    48.17713,
+    13.47198,
+    48.17713
+],
+  "geometry": {"coordinates":[13.47198,48.17713],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276887801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25908,47.27603,16.25908,47.27603",
+    "geom:latitude":47.27603,
+    "geom:longitude":16.25908,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"109",
+    "gn:admin3_code":"10925.0",
+    "gn:asciiname":"Eisenzicken",
+    "gn:country_code":"AT",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780180,
+    "gn:latitude":47.27603,
+    "gn:longitude":16.25908,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Eisenzicken",
+    "gn:population":271,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838783,
+        85632785,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780180,
+        "wk:page":"Eisenzicken"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b2c401c6bf84ff06e4256df3a740912c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838783,
+            "locality_id":1276887801,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1276887801,
+    "wof:lastmodified":1537486390,
+    "wof:name":"Eisenzicken",
+    "wof:parent_id":1108838783,
+    "wof:placetype":"locality",
+    "wof:population":271,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25907999999999,
+    47.27603,
+    16.25907999999999,
+    47.27603
+],
+  "geometry": {"coordinates":[16.25907999999999,47.27603],"type":"Point"}
+}

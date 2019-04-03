@@ -1,0 +1,66 @@
+{
+  "id": 1209322319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12184,48.446,16.12184,48.446",
+    "geom:latitude":48.446,
+    "geom:longitude":16.12184,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"312",
+    "gn:admin3_code":"31226.0",
+    "gn:asciiname":"Oberhautzental",
+    "gn:country_code":"AT",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11550316,
+    "gn:latitude":48.446,
+    "gn:longitude":16.12184,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberhautzental",
+    "gn:population":248,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11550316
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8d799c4d14bf947540f4776090275a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209322319
+        }
+    ],
+    "wof:id":1209322319,
+    "wof:lastmodified":1536290650,
+    "wof:name":"Oberhautzental",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12184,
+    48.44600000000001,
+    16.12184,
+    48.44600000000001
+],
+  "geometry": {"coordinates":[16.12184,48.44600000000001],"type":"Point"}
+}

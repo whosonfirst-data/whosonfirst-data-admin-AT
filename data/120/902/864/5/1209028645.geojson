@@ -1,0 +1,71 @@
+{
+  "id": 1209028645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73333,47.06667,14.73333,47.06667",
+    "geom:latitude":47.06667,
+    "geom:longitude":14.73333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"620.0",
+    "gn:admin3_code":"62042.0",
+    "gn:asciiname":"Sankt Georgen in Obdachegg",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766689,
+    "gn:latitude":47.06667,
+    "gn:longitude":14.73333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Georgen in Obdachegg",
+    "gn:population":65,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Georgen",
+        "Sankt Georgen in Obdachegg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766689
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d642bf3a20131fde04efd57a5c8747e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209028645
+        }
+    ],
+    "wof:id":1209028645,
+    "wof:lastmodified":1537584935,
+    "wof:name":"Sankt Georgen in Obdachegg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73333,
+    47.06667,
+    14.73333,
+    47.06667
+],
+  "geometry": {"coordinates":[14.73333,47.06667],"type":"Point"}
+}

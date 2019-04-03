@@ -1,0 +1,71 @@
+{
+  "id": 1344168659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51217,48.02202,14.51217,48.02202",
+    "geom:latitude":48.02202,
+    "geom:longitude":14.51217,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30515.0",
+    "gn:asciiname":"Reinthal",
+    "gn:country_code":"AT",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609997,
+    "gn:latitude":48.02202,
+    "gn:longitude":14.51217,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Reinthal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836371,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609997
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a96e271a8d1d7a1872492c260eefeff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836371,
+            "locality_id":1344168659,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344168659,
+    "wof:lastmodified":1536719772,
+    "wof:name":"Reinthal",
+    "wof:parent_id":1108836371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51217,
+    48.02202,
+    14.51217,
+    48.02202
+],
+  "geometry": {"coordinates":[14.51217,48.02202],"type":"Point"}
+}

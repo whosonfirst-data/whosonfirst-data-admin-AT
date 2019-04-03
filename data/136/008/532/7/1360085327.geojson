@@ -1,0 +1,74 @@
+{
+  "id": 1360085327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60622,48.3571,13.60622,48.3571",
+    "geom:latitude":48.3571,
+    "geom:longitude":13.60622,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"414.0",
+    "gn:admin3_code":"41402.0",
+    "gn:asciiname":"Schulleredt",
+    "gn:country_code":"AT",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765579,
+    "gn:latitude":48.3571,
+    "gn:longitude":13.60622,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schulleredt",
+    "gn:population":64,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836025,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765579
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5994b2591355aac4acf62fd8157b8b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836025,
+            "locality_id":1360085327,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1360085327,
+    "wof:lastmodified":1536945743,
+    "wof:name":"Schulleredt",
+    "wof:parent_id":1108836025,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60622,
+    48.3571,
+    13.60622,
+    48.3571
+],
+  "geometry": {"coordinates":[13.60622,48.3571],"type":"Point"}
+}

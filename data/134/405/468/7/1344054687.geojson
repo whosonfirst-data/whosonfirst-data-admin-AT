@@ -1,0 +1,77 @@
+{
+  "id": 1344054687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29988,46.95958,15.29988,46.95958",
+    "geom:latitude":46.95958,
+    "geom:longitude":15.29988,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"616",
+    "gn:admin3_code":"61615.0",
+    "gn:asciiname":"Giessenberg",
+    "gn:country_code":"AT",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778576,
+    "gn:latitude":46.95958,
+    "gn:longitude":15.29988,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Giessenberg",
+    "gn:population":266,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gie\u00dfenberg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839351,
+        85632785,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778576
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1129e5321cb111a3d41e4331fb2529b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108839351,
+            "locality_id":1344054687,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1344054687,
+    "wof:lastmodified":1537584973,
+    "wof:name":"Giessenberg",
+    "wof:parent_id":1108839351,
+    "wof:placetype":"locality",
+    "wof:population":266,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29988,
+    46.95958,
+    15.29988,
+    46.95958
+],
+  "geometry": {"coordinates":[15.29988,46.95958],"type":"Point"}
+}

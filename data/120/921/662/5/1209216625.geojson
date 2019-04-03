@@ -1,0 +1,63 @@
+{
+  "id": 1209216625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,48.28333,15.3,48.28333",
+    "geom:latitude":48.28333,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"313",
+    "gn:admin3_code":"31326.0",
+    "gn:asciiname":"Fahnsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779851,
+    "gn:latitude":48.28333,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Fahnsdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779851
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8fdbe1fe5d9d9465d59755f4e9413878",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209216625
+        }
+    ],
+    "wof:id":1209216625,
+    "wof:lastmodified":1536294109,
+    "wof:name":"Fahnsdorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    48.28333,
+    15.3,
+    48.28333
+],
+  "geometry": {"coordinates":[15.3,48.28333],"type":"Point"}
+}

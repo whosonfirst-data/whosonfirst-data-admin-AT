@@ -1,0 +1,82 @@
+{
+  "id": 1125275159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45691,47.16634,13.45691,47.16634",
+    "geom:latitude":47.16634,
+    "geom:longitude":13.45691,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1223,
+    "gn:population":1202,
+    "iso:country":"AT",
+    "lbl:latitude":47.16634,
+    "lbl:longitude":13.45691,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873325,
+    "qs_pg:gn_pop":1223,
+    "qs_pg:name":"Zederhaus",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108909,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873325,
+        "qs_pg:id":108909
+    },
+    "wof:country":"AT",
+    "wof:created":1497042280,
+    "wof:geomhash":"d3a5513da7d5c3f07253d91aa7586703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1125275159,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125275159,
+    "wof:lastmodified":1534379171,
+    "wof:name":"Zederhaus",
+    "wof:parent_id":102049721,
+    "wof:placetype":"localadmin",
+    "wof:population":1202,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837077
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45691,
+    47.16634,
+    13.45691,
+    47.16634
+],
+  "geometry": {"coordinates":[13.45691,47.16634],"type":"Point"}
+}

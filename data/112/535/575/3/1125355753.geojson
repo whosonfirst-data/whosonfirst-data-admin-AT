@@ -1,0 +1,82 @@
+{
+  "id": 1125355753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54324,47.0956,15.54324,47.0956",
+    "geom:latitude":47.0956,
+    "geom:longitude":15.54324,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2588,
+    "gn:population":2762,
+    "iso:country":"AT",
+    "lbl:latitude":47.0956,
+    "lbl:longitude":15.54324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872335,
+    "qs_pg:gn_pop":2588,
+    "qs_pg:name":"Kainbach bei Graz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":743372,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872335,
+        "qs_pg:id":743372
+    },
+    "wof:country":"AT",
+    "wof:created":1497046460,
+    "wof:geomhash":"a91ecbb337775e27d6c8d32f8db08388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125355753,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125355753,
+    "wof:lastmodified":1534379096,
+    "wof:name":"Kainbach bei Graz",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":2762,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125338837
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54324,
+    47.0956,
+    15.54324,
+    47.0956
+],
+  "geometry": {"coordinates":[15.54324,47.0956],"type":"Point"}
+}

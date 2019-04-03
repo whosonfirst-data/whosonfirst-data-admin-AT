@@ -1,0 +1,115 @@
+{
+  "id": 85898269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":39166601.335526,
+    "geom:bbox":"13.847584,46.615166,13.847584,46.615166",
+    "geom:latitude":46.615166,
+    "geom:longitude":13.847584,
+    "iso:country":"AT",
+    "lbl:latitude":46.615166,
+    "lbl:longitude":13.847584,
+    "mps:latitude":46.621158,
+    "mps:longitude":13.852977,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:deu_x_colloquial":[
+        "Voelkendorf",
+        "Volkendorf"
+    ],
+    "name:deu_x_preferred":[
+        "V\u00f6lkendorf"
+    ],
+    "name:unk_x_variant":[
+        "V\u00f6lkendorf"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":7871492,
+    "qs:gn_nam_loc":"Villach, Villach Stadt, K\u00e4rnten, AT",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"V\u00f6lkendorf",
+    "qs:local_max":4207,
+    "qs:local_sum":4538,
+    "qs:localhoods":3,
+    "qs:name":"V\u00f6lkendorf",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"K\u00e4rnten",
+    "qs:name_adm2":"Villach Stadt",
+    "qs:name_lau":"Villach",
+    "qs:name_local":"Villach",
+    "qs:photo_max":844,
+    "qs:photo_sum":4207,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":108,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344709,
+    "qs:woe_adm2":12591677,
+    "qs:woe_lau":12673563,
+    "qs:woe_local":12673563,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        101748057,
+        102049673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762316,
+        "gp:id":540861,
+        "qs:id":440836,
+        "qs_pg:id":440836
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b26e03e6a8e46cf041078d5ef2dd0654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":101748057,
+            "neighbourhood_id":85898269,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":85898269,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932047,
+    "wof:name":"V\u00f6lkendorf",
+    "wof:parent_id":101748057,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.847584,
+    46.615166,
+    13.847584,
+    46.615166
+],
+  "geometry": {"coordinates":[13.847584,46.615166],"type":"Point"}
+}

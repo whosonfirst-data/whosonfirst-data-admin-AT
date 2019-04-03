@@ -1,0 +1,66 @@
+{
+  "id": 1209528649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56667,46.7,14.56667,46.7",
+    "geom:latitude":46.7,
+    "geom:longitude":14.56667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20817.0",
+    "gn:asciiname":"Terpetzen",
+    "gn:country_code":"AT",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763794,
+    "gn:latitude":46.7,
+    "gn:longitude":14.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Terpetzen",
+    "gn:population":18,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763794
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d888379ab6fa003d4d839d3e7a23b34e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209528649
+        }
+    ],
+    "wof:id":1209528649,
+    "wof:lastmodified":1536284353,
+    "wof:name":"Terpetzen",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.566670000000002,
+    46.7,
+    14.566670000000002,
+    46.7
+],
+  "geometry": {"coordinates":[14.56667,46.7],"type":"Point"}
+}

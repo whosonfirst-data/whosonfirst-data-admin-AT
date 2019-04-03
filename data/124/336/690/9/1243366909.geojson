@@ -1,0 +1,74 @@
+{
+  "id": 1243366909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25403,46.57001,14.25403,46.57001",
+    "geom:latitude":46.57001,
+    "geom:longitude":14.25403,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"204",
+    "gn:admin3_code":"20414.0",
+    "gn:asciiname":"Schwanein",
+    "gn:country_code":"AT",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609052,
+    "gn:latitude":46.57001,
+    "gn:longitude":14.25403,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schwanein",
+    "gn:population":33,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838173,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609052
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"59c1aa1b532195c6c7d99e17b2234d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838173,
+            "locality_id":1243366909,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1243366909,
+    "wof:lastmodified":1536920883,
+    "wof:name":"Schwanein",
+    "wof:parent_id":1108838173,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25403,
+    46.57001,
+    14.25403,
+    46.57001
+],
+  "geometry": {"coordinates":[14.25403,46.57001],"type":"Point"}
+}

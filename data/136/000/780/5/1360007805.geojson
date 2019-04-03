@@ -1,0 +1,80 @@
+{
+  "id": 1360007805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02199,47.11009,14.02199,47.11009",
+    "geom:latitude":47.11009,
+    "geom:longitude":14.02199,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"614.0",
+    "gn:admin3_code":"61442.0",
+    "gn:asciiname":"Sankt Ruprecht ob Murau",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766409,
+    "gn:latitude":47.11009,
+    "gn:longitude":14.02199,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Ruprecht ob Murau",
+    "gn:population":273,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Rupercht",
+        "Sankt Ruprecht ob Murau",
+        "St. Ruprecht ob Murau"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838791,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766409
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2c2c23b8cfcadc17f3184150741cdba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838791,
+            "locality_id":1360007805,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1360007805,
+    "wof:lastmodified":1537584929,
+    "wof:name":"Sankt Ruprecht ob Murau",
+    "wof:parent_id":1108838791,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02199,
+    47.11009,
+    14.02199,
+    47.11009
+],
+  "geometry": {"coordinates":[14.02199,47.11009],"type":"Point"}
+}

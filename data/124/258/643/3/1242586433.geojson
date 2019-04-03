@@ -1,0 +1,74 @@
+{
+  "id": 1242586433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65,46.56667,14.65,46.56667",
+    "geom:latitude":46.56667,
+    "geom:longitude":14.65,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20803.0",
+    "gn:asciiname":"Koecking",
+    "gn:country_code":"AT",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773853,
+    "gn:latitude":46.56667,
+    "gn:longitude":14.65,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"K\u00f6cking",
+    "gn:population":220,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838371,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773853
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b48a1547e9175633de0e4cf2fd2c00aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838371,
+            "locality_id":1242586433,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1242586433,
+    "wof:lastmodified":1537048750,
+    "wof:name":"Koecking",
+    "wof:parent_id":1108838371,
+    "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65,
+    46.56667,
+    14.65,
+    46.56667
+],
+  "geometry": {"coordinates":[14.65,46.56667],"type":"Point"}
+}

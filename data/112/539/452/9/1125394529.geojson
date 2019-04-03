@@ -1,0 +1,82 @@
+{
+  "id": 1125394529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51059,47.01578,15.51059,47.01578",
+    "geom:latitude":47.01578,
+    "geom:longitude":15.51059,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1554,
+    "gn:population":1554,
+    "iso:country":"AT",
+    "lbl:latitude":47.01578,
+    "lbl:longitude":15.51059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873400,
+    "qs_pg:gn_pop":1554,
+    "qs_pg:name":"Grambach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1042235,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873400,
+        "qs_pg:id":1042235
+    },
+    "wof:country":"AT",
+    "wof:created":1497048925,
+    "wof:geomhash":"419acd8ca56c43515f693e335c2e05ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125394529,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125394529,
+    "wof:lastmodified":1536698228,
+    "wof:name":"Grambach",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":1554,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839169
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51059,
+    47.01578,
+    15.51059,
+    47.01578
+],
+  "geometry": {"coordinates":[15.51059,47.01578],"type":"Point"}
+}

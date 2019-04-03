@@ -1,0 +1,74 @@
+{
+  "id": 1226646609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1225,48.22038,14.1225,48.22038",
+    "geom:latitude":48.22038,
+    "geom:longitude":14.1225,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"410",
+    "gn:admin3_code":"41016.0",
+    "gn:asciiname":"Oberbachham",
+    "gn:country_code":"AT",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770341,
+    "gn:latitude":48.22038,
+    "gn:longitude":14.1225,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberbachham",
+    "gn:population":31,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835551,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770341
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"26905f3531c3eba64c20d76297fe85ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835551,
+            "locality_id":1226646609,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226646609,
+    "wof:lastmodified":1536856927,
+    "wof:name":"Oberbachham",
+    "wof:parent_id":1108835551,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1225,
+    48.22038,
+    14.1225,
+    48.22038
+],
+  "geometry": {"coordinates":[14.1225,48.22038],"type":"Point"}
+}

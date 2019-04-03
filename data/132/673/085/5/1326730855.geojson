@@ -1,0 +1,74 @@
+{
+  "id": 1326730855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4825,48.05542,13.4825,48.05542",
+    "geom:latitude":48.05542,
+    "geom:longitude":13.4825,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41709.0",
+    "gn:asciiname":"Lessigen",
+    "gn:country_code":"AT",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609513,
+    "gn:latitude":48.05542,
+    "gn:longitude":13.4825,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lessigen",
+    "gn:population":50,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836437,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609513
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4124506667f5f6d7a0d757874f055270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836437,
+            "locality_id":1326730855,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1326730855,
+    "wof:lastmodified":1536697977,
+    "wof:name":"Lessigen",
+    "wof:parent_id":1108836437,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4825,
+    48.05542,
+    13.4825,
+    48.05542
+],
+  "geometry": {"coordinates":[13.4825,48.05542],"type":"Point"}
+}

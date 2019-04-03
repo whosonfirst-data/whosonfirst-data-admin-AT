@@ -1,0 +1,78 @@
+{
+  "id": 101912385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":448803.424861,
+    "geom:bbox":"11.4942899012,47.0583897214,11.5087040019,47.0648356888",
+    "geom:latitude":47.062321,
+    "geom:longitude":11.501772,
+    "iso:country":"AT",
+    "lbl:latitude":47.062021,
+    "lbl:longitude":11.502481,
+    "mps:latitude":47.062021,
+    "mps:longitude":11.502481,
+    "mz:hierarchy_label":1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Tirol",
+    "qs:a1r":"2",
+    "qs:a2":"Innsbruck - Land",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:id":0,
+    "qs:la":"Schmirn",
+    "qs:la_lc":"*AT70349",
+    "qs:level":"locality",
+    "qs:loc":"St. Jodok",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837633,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":551162,
+        "qs:id":1077456,
+        "qs_pg:id":1077456
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f33fcd4b9415f46cd6f72f95e994206d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837633,
+            "locality_id":101912385,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":101912385,
+    "wof:lastmodified":1497290227,
+    "wof:name":"St. Jodok",
+    "wof:parent_id":1108837633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.49428990120128,
+    47.05838972142038,
+    11.50870400192144,
+    47.06483568876655
+],
+  "geometry": {"coordinates":[[[11.50870400192144,47.06193503136325],[11.50867812169935,47.0610349863839],[11.50736311488464,47.06105329430619],[11.50733725834425,47.0601532485237],[11.50470728729834,47.06018981575653],[11.50465566779519,47.05838972142038],[11.50334072610332,47.05840798037042],[11.50336651274705,47.05930802812071],[11.50073658179406,47.05934449885865],[11.50076232449391,47.06024454689083],[11.49944733523279,47.06026275867811],[11.49947305652631,47.0611628066307],[11.49684303043642,47.06119918303978],[11.49686870777936,47.06209923127238],[11.49555367095059,47.06211739589344],[11.49560498394447,47.06391749175782],[11.49428990120128,47.06393564113495],[11.49431553684957,47.06483568876655],[11.50615145462274,47.06467176644162],[11.50609977865167,47.06287167723468],[11.50741483138472,47.06285338454995],[11.50738897256457,47.06195333964826],[11.50870400192144,47.06193503136325]]],"type":"Polygon"}
+}

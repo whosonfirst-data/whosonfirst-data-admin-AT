@@ -1,0 +1,74 @@
+{
+  "id": 1310502155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64768,48.12519,13.64768,48.12519",
+    "geom:latitude":48.12519,
+    "geom:longitude":13.64768,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41722.0",
+    "gn:asciiname":"Mitterarming",
+    "gn:country_code":"AT",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611046,
+    "gn:latitude":48.12519,
+    "gn:longitude":13.64768,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mitterarming",
+    "gn:population":20,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836467,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611046
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fc620a2db7a7ef3ba270420e086fe558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836467,
+            "locality_id":1310502155,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310502155,
+    "wof:lastmodified":1536922425,
+    "wof:name":"Mitterarming",
+    "wof:parent_id":1108836467,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64768,
+    48.12519,
+    13.64768,
+    48.12519
+],
+  "geometry": {"coordinates":[13.64768,48.12519],"type":"Point"}
+}

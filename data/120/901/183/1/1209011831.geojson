@@ -1,0 +1,68 @@
+{
+  "id": 1209011831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,48.88333,15.56667,48.88333",
+    "geom:latitude":48.88333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"322",
+    "gn:admin3_code":"32216.0",
+    "gn:asciiname":"Nonndorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770454,
+    "gn:latitude":48.88333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Nonndorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nondorf",
+        "Nonndorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770454
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"106fbbd770d7ae5493856d82a95822ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209011831
+        }
+    ],
+    "wof:id":1209011831,
+    "wof:lastmodified":1537584948,
+    "wof:name":"Nonndorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    48.88333,
+    15.56667,
+    48.88333
+],
+  "geometry": {"coordinates":[15.56667,48.88333],"type":"Point"}
+}

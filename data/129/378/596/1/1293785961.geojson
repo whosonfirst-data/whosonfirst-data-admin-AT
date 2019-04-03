@@ -1,0 +1,79 @@
+{
+  "id": 1293785961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,48.58333,16.2,48.58333",
+    "geom:latitude":48.58333,
+    "geom:longitude":16.2,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"310",
+    "gn:admin3_code":"31022.0",
+    "gn:asciiname":"Altenmarkt im Thale",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782672,
+    "gn:latitude":48.58333,
+    "gn:longitude":16.2,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Altenmarkt im Thale",
+    "gn:population":136,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Altenmarkt",
+        "Altenmarkt im Thale"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835367,
+        85632785,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782672
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"af01482e782a5403d320b2562c985c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835367,
+            "locality_id":1293785961,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293785961,
+    "wof:lastmodified":1537584985,
+    "wof:name":"Altenmarkt im Thale",
+    "wof:parent_id":1108835367,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    48.58333,
+    16.2,
+    48.58333
+],
+  "geometry": {"coordinates":[16.2,48.58333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209215113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70562,48.24371,13.70562,48.24371",
+    "geom:latitude":48.24371,
+    "geom:longitude":13.70562,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40829.0",
+    "gn:asciiname":"Hehenberg",
+    "gn:country_code":"AT",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776608,
+    "gn:latitude":48.24371,
+    "gn:longitude":13.70562,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hehenberg",
+    "gn:population":109,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776608
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"01fea186ce94c8fed3ce646ba35b609a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209215113
+        }
+    ],
+    "wof:id":1209215113,
+    "wof:lastmodified":1536294158,
+    "wof:name":"Hehenberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70562,
+    48.24371,
+    13.70562,
+    48.24371
+],
+  "geometry": {"coordinates":[13.70562,48.24371],"type":"Point"}
+}

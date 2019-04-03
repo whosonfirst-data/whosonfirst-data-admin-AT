@@ -1,0 +1,76 @@
+{
+  "id": 101827501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":721745.280783,
+    "geom:bbox":"9.90693471661,47.4225678971,9.92184894514,47.4378742309",
+    "geom:latitude":47.432394,
+    "geom:longitude":9.913621,
+    "iso:country":"AT",
+    "lbl:latitude":47.434274,
+    "lbl:longitude":9.914129,
+    "mps:latitude":47.434274,
+    "mps:longitude":9.914129,
+    "mz:hierarchy_label":1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Vorarlberg",
+    "qs:a1r":"0",
+    "qs:a2":"Bregenz",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:id":0,
+    "qs:la":"Egg",
+    "qs:la_lc":"*AT80211",
+    "qs:level":"locality",
+    "qs:loc":"Gro\u00dfdorf",
+    "qs:loc_alt":"Grossdorf",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837931,
+        85632785,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777879,
+        "gp:id":551499
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1311d922e817ae197f906d6686b37ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837931,
+            "locality_id":101827501,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":101827501,
+    "wof:lastmodified":1496616238,
+    "wof:name":"Gro\u00dfdorf",
+    "wof:parent_id":1108837931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.90693471661206,
+    47.4225678970833,
+    9.92184894514264,
+    47.43787423094727
+],
+  "geometry": {"coordinates":[[[9.90799447877828,47.4225678970833],[9.90693471661206,47.43336807267661],[9.91124912131721,47.43337169094622],[9.91124142252056,47.43787210552193],[9.91389093015681,47.43787423094727],[9.91389242408604,47.43697414880637],[9.92051607909718,47.43697918048935],[9.92052297323789,47.4324787631553],[9.92184758947576,47.43247972109179],[9.92184894514264,47.43157963638049],[9.91919975866676,47.43157770444623],[9.91920116022595,47.4306776193651],[9.91787659003234,47.4306766292687],[9.91787516549647,47.43157671432994],[9.91390138626781,47.43157364738448],[9.91390437313083,47.42977347697604],[9.90860618531593,47.42976916249626],[9.90861569563361,47.4243686419789],[9.90994010468165,47.42436974461452],[9.90994166651996,47.42346965640843],[9.91259043883167,47.42347181334583],[9.91259195466625,47.42257172468732],[9.90799447877828,47.4225678970833]]],"type":"Polygon"}
+}

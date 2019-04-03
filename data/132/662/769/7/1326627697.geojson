@@ -1,0 +1,74 @@
+{
+  "id": 1326627697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,46.83333,15.96667,46.83333",
+    "geom:latitude":46.83333,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62387.0",
+    "gn:asciiname":"Hochstraden",
+    "gn:country_code":"AT",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775934,
+    "gn:latitude":46.83333,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hochstraden",
+    "gn:population":145,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839239,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775934
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e2347f1127f657e2d0ba2dfc69dc99a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839239,
+            "locality_id":1326627697,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1326627697,
+    "wof:lastmodified":1536845311,
+    "wof:name":"Hochstraden",
+    "wof:parent_id":1108839239,
+    "wof:placetype":"locality",
+    "wof:population":145,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    46.83333,
+    15.96667,
+    46.83333
+],
+  "geometry": {"coordinates":[15.96667,46.83333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259807807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51344,48.32236,13.51344,48.32236",
+    "geom:latitude":48.32236,
+    "geom:longitude":13.51344,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41212.0",
+    "gn:asciiname":"Messenbach",
+    "gn:country_code":"AT",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771650,
+    "gn:latitude":48.32236,
+    "gn:longitude":13.51344,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Messenbach",
+    "gn:population":144,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835651,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771650
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"11a917efe9d0e9f1c73c8428293d49ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835651,
+            "locality_id":1259807807,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259807807,
+    "wof:lastmodified":1536887800,
+    "wof:name":"Messenbach",
+    "wof:parent_id":1108835651,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51344,
+    48.32236,
+    13.51344,
+    48.32236
+],
+  "geometry": {"coordinates":[13.51344,48.32236],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1125915745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,46.56667,14.15,46.56667",
+    "geom:latitude":46.56667,
+    "geom:longitude":14.15,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.56667,
+    "lbl:longitude":14.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Zedras"
+    ],
+    "name:slv_x_preferred":[
+        "Sodra\u017eava"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2760697,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Zederhaus",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":982868,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":548010,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838171,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760697,
+        "gp:id":548010,
+        "qs_pg:id":982868
+    },
+    "wof:country":"AT",
+    "wof:created":1497296310,
+    "wof:geomhash":"e59bf9e47140c1d53cf2357246cfad56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838171,
+            "locality_id":1125915745,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125915745,
+    "wof:lastmodified":1509400511,
+    "wof:name":"Zederhaus",
+    "wof:parent_id":1108838171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    46.56667,
+    14.15,
+    46.56667
+],
+  "geometry": {"coordinates":[14.15,46.56667],"type":"Point"}
+}

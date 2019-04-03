@@ -1,0 +1,82 @@
+{
+  "id": 1125355715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9341,46.94212,15.9341,46.94212",
+    "geom:latitude":46.94212,
+    "geom:longitude":15.9341,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":626,
+    "gn:population":626,
+    "iso:country":"AT",
+    "lbl:latitude":46.94212,
+    "lbl:longitude":15.9341,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872298,
+    "qs_pg:gn_pop":626,
+    "qs_pg:name":"Leitersdorf im Raabtal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743367,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872298,
+        "qs_pg:id":743367
+    },
+    "wof:country":"AT",
+    "wof:created":1497046459,
+    "wof:geomhash":"13abd8b8f7ff290fe562f0c65ffa8aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125355715,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125355715,
+    "wof:lastmodified":1536698182,
+    "wof:name":"Leitersdorf im Raabtal",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:population":626,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839259
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9341,
+    46.94212,
+    15.9341,
+    46.94212
+],
+  "geometry": {"coordinates":[15.9341,46.94212],"type":"Point"}
+}

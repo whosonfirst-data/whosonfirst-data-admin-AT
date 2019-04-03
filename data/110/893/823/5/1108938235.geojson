@@ -1,0 +1,67 @@
+{
+  "id": 1108938235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3312727058,48.2086117563,16.3312727058,48.2086117563",
+    "geom:latitude":48.208612,
+    "geom:longitude":16.331273,
+    "iso:country":"AT",
+    "lbl:latitude":48.208612,
+    "lbl:longitude":16.331273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "src:geom":"mz",
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"AT",
+    "wof:created":1491360228,
+    "wof:geomhash":"ef7214bb17f770f33fbe956f0c7ab2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":1108938235,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1108938235,
+    "wof:lastmodified":1534803977,
+    "wof:name":"Neulerchenfeld",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33127270578216,
+    48.20861175630827,
+    16.33127270578216,
+    48.20861175630827
+],
+  "geometry": {"coordinates":[16.33127270578216,48.20861175630827],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343267719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57914,48.24643,13.57914,48.24643",
+    "geom:latitude":48.24643,
+    "geom:longitude":13.57914,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40822.0",
+    "gn:asciiname":"Pramberg",
+    "gn:country_code":"AT",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610489,
+    "gn:latitude":48.24643,
+    "gn:longitude":13.57914,
+    "gn:modification_date":"2017-07-17",
+    "gn:name":"Pramberg",
+    "gn:population":12,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835213,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610489
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8a0d571e88ec680df6115b861d05ef60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835213,
+            "locality_id":1343267719,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343267719,
+    "wof:lastmodified":1537023337,
+    "wof:name":"Pramberg",
+    "wof:parent_id":1108835213,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57914,
+    48.24643,
+    13.57914,
+    48.24643
+],
+  "geometry": {"coordinates":[13.57914,48.24643],"type":"Point"}
+}

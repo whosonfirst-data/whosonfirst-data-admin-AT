@@ -1,0 +1,82 @@
+{
+  "id": 1125327539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85034,47.2676,15.85034,47.2676",
+    "geom:latitude":47.2676,
+    "geom:longitude":15.85034,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1385,
+    "gn:population":1385,
+    "iso:country":"AT",
+    "lbl:latitude":47.2676,
+    "lbl:longitude":15.85034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872366,
+    "qs_pg:gn_pop":1385,
+    "qs_pg:name":"Sch\u00f6negg bei P\u00f6llau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108592,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872366,
+        "qs_pg:id":108592
+    },
+    "wof:country":"AT",
+    "wof:created":1497044905,
+    "wof:geomhash":"d2ea58bab5d201958ebe1ac0f61dc6e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1125327539,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125327539,
+    "wof:lastmodified":1536698164,
+    "wof:name":"Sch\u00f6negg bei P\u00f6llau",
+    "wof:parent_id":1108892549,
+    "wof:placetype":"localadmin",
+    "wof:population":1385,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839107
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85034,
+    47.2676,
+    15.85034,
+    47.2676
+],
+  "geometry": {"coordinates":[15.85034,47.2676],"type":"Point"}
+}

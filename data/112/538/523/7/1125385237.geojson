@@ -1,0 +1,82 @@
+{
+  "id": 1125385237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68652,48.10907,13.68652,48.10907",
+    "geom:latitude":48.10907,
+    "geom:longitude":13.68652,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2012,
+    "gn:population":1999,
+    "iso:country":"AT",
+    "lbl:latitude":48.10907,
+    "lbl:longitude":13.68652,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873271,
+    "qs_pg:gn_pop":2012,
+    "qs_pg:name":"Wolfsegg am Hausruck",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108887,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873271,
+        "qs_pg:id":108887
+    },
+    "wof:country":"AT",
+    "wof:created":1497048326,
+    "wof:geomhash":"88bc61f76e8c55cd4df2caa1942159cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1125385237,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125385237,
+    "wof:lastmodified":1534379145,
+    "wof:name":"Wolfsegg am Hausruck",
+    "wof:parent_id":102049817,
+    "wof:placetype":"localadmin",
+    "wof:population":1999,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836529
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68652,
+    48.10907,
+    13.68652,
+    48.10907
+],
+  "geometry": {"coordinates":[13.68652,48.10907],"type":"Point"}
+}

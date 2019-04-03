@@ -1,0 +1,77 @@
+{
+  "id": 1243271399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93533,48.14135,15.93533,48.14135",
+    "geom:latitude":48.14135,
+    "geom:longitude":15.93533,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31901.0",
+    "gn:asciiname":"Maiss",
+    "gn:country_code":"AT",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772059,
+    "gn:latitude":48.14135,
+    "gn:longitude":15.93533,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mai\u00df",
+    "gn:population":215,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Maiss"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836931,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772059
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5c11672e7827672f52a37f53ebf26694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836931,
+            "locality_id":1243271399,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243271399,
+    "wof:lastmodified":1537584954,
+    "wof:name":"Maiss",
+    "wof:parent_id":1108836931,
+    "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93533,
+    48.14135,
+    15.93533,
+    48.14135
+],
+  "geometry": {"coordinates":[15.93533,48.14135],"type":"Point"}
+}

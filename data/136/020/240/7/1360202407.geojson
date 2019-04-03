@@ -1,0 +1,82 @@
+{
+  "id": 1360202407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45237,47.10405,16.45237,47.10405",
+    "geom:latitude":47.10405,
+    "geom:longitude":16.45237,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10403.0",
+    "gn:asciiname":"Kulm im Burgenland",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773258,
+    "gn:latitude":47.10405,
+    "gn:longitude":16.45237,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kulm im Burgenland",
+    "gn:population":125,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "K\u00f3lom"
+    ],
+    "name:und_x_variant":[
+        "Kulm an de Pinka",
+        "Kulm im Burgenland"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838613,
+        85632785,
+        102049729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773258
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"96d3c22d3ff17d8b328fe934bfce98ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838613,
+            "locality_id":1360202407,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1360202407,
+    "wof:lastmodified":1537584958,
+    "wof:name":"Kulm im Burgenland",
+    "wof:parent_id":1108838613,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45237,
+    47.10405,
+    16.45237,
+    47.10405
+],
+  "geometry": {"coordinates":[16.45237,47.10405],"type":"Point"}
+}

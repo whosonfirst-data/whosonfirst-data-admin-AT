@@ -1,0 +1,71 @@
+{
+  "id": 1344254835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08333,47.53333,14.08333,47.53333",
+    "geom:latitude":47.53333,
+    "geom:longitude":14.08333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61267.0",
+    "gn:asciiname":"Rantenstein",
+    "gn:country_code":"AT",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2604701,
+    "gn:latitude":47.53333,
+    "gn:longitude":14.08333,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Rantenstein",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838891,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2604701
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ec19b5ffebeaa1254da1b70556cb249b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838891,
+            "locality_id":1344254835,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1344254835,
+    "wof:lastmodified":1537089154,
+    "wof:name":"Rantenstein",
+    "wof:parent_id":1108838891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08333,
+    47.53333,
+    14.08333,
+    47.53333
+],
+  "geometry": {"coordinates":[14.08333,47.53333],"type":"Point"}
+}

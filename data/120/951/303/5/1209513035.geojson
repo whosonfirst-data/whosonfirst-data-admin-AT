@@ -1,0 +1,63 @@
+{
+  "id": 1209513035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65,47.58333,15.65,47.58333",
+    "geom:latitude":47.58333,
+    "geom:longitude":15.65,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"621.0",
+    "gn:admin3_code":"62143.0",
+    "gn:asciiname":"Zimmersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760560,
+    "gn:latitude":47.58333,
+    "gn:longitude":15.65,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Zimmersdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760560
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"58d56a3ba6ea7825f37ea5b0f83259c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209513035
+        }
+    ],
+    "wof:id":1209513035,
+    "wof:lastmodified":1536284821,
+    "wof:name":"Zimmersdorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65,
+    47.58333,
+    15.65,
+    47.58333
+],
+  "geometry": {"coordinates":[15.65,47.58333],"type":"Point"}
+}

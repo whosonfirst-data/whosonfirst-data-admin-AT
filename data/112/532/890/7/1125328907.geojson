@@ -1,0 +1,103 @@
+{
+  "id": 1125328907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00562,47.73361,16.00562,47.73361",
+    "geom:latitude":47.73361,
+    "geom:longitude":16.00562,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15079,
+    "gn:population":14732,
+    "iso:country":"AT",
+    "lbl:latitude":47.73361,
+    "lbl:longitude":16.00562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0646\u062a\u06cc\u062a\u0633"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05e8\u05e0\u05d9\u05e5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10e0\u10dc\u10d8\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0435\u0440\u043d\u0438\u0446"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u043d\u0438\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0440\u043d\u0438\u0446"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u723e\u5c3c\u8328"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871873,
+    "qs_pg:gn_pop":15079,
+    "qs_pg:name":"Ternitz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":108414,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871873,
+        "qs_pg:id":108414
+    },
+    "wof:country":"AT",
+    "wof:created":1497045002,
+    "wof:geomhash":"1594065246c343cb5b43427dd1fc4642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1125328907,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125328907,
+    "wof:lastmodified":1534379136,
+    "wof:name":"Ternitz",
+    "wof:parent_id":102049791,
+    "wof:placetype":"localadmin",
+    "wof:population":14732,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835287
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00562,
+    47.73361,
+    16.00562,
+    47.73361
+],
+  "geometry": {"coordinates":[16.00562,47.73361],"type":"Point"}
+}

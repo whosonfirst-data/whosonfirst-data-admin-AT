@@ -1,0 +1,86 @@
+{
+  "id": 1125291795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.816238,47.130205,12.816238,47.130205",
+    "geom:latitude":47.130205,
+    "geom:longitude":12.816238,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.130205,
+    "lbl:longitude":12.816238,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fusch an der Gro\u00dfglocknerstra\u00dfe",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":413,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1096990,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674704,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674704,
+        "qs_pg:id":1096990
+    },
+    "wof:country":"AT",
+    "wof:created":1497042957,
+    "wof:geomhash":"2faf5daed83643e979118575effd2638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125291795,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125291795,
+    "wof:lastmodified":1536698134,
+    "wof:name":"Fusch an der Gro\u00dfglocknerstra\u00dfe",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837201
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.816238,
+    47.130205,
+    12.816238,
+    47.130205
+],
+  "geometry": {"coordinates":[12.816238,47.130205],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125284241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10044,48.32647,14.10044,48.32647",
+    "geom:latitude":48.32647,
+    "geom:longitude":14.10044,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":915,
+    "gn:population":850,
+    "iso:country":"AT",
+    "lbl:latitude":48.32647,
+    "lbl:longitude":14.10044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872150,
+    "qs_pg:gn_pop":915,
+    "qs_pg:name":"Goldw\u00f6rth",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1155162,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872150,
+        "qs_pg:id":1155162
+    },
+    "wof:country":"AT",
+    "wof:created":1497042633,
+    "wof:geomhash":"9969629c4a83a68c4dc322045f376764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1125284241,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125284241,
+    "wof:lastmodified":1534379141,
+    "wof:name":"Goldw\u00f6rth",
+    "wof:parent_id":102049881,
+    "wof:placetype":"localadmin",
+    "wof:population":850,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836151
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10044,
+    48.32647,
+    14.10044,
+    48.32647
+],
+  "geometry": {"coordinates":[14.10044,48.32647],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276454807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,48.11667,15.01667,48.11667",
+    "geom:latitude":48.11667,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"320.0",
+    "gn:admin3_code":"32014.0",
+    "gn:asciiname":"Reith bei Weinberg",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767603,
+    "gn:latitude":48.11667,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reith bei Weinberg",
+    "gn:population":31,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reith",
+        "Reith bei Weinberg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835725,
+        85632785,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767603
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"916a534590d7646da226f8cc9a08e429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1108835725,
+            "locality_id":1276454807,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276454807,
+    "wof:lastmodified":1537584939,
+    "wof:name":"Reith bei Weinberg",
+    "wof:parent_id":1108835725,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    48.11667,
+    15.01667,
+    48.11667
+],
+  "geometry": {"coordinates":[15.01667,48.11667],"type":"Point"}
+}

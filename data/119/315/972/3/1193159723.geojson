@@ -1,0 +1,71 @@
+{
+  "id": 1193159723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.94583,47.97361,12.94583,47.97361",
+    "geom:latitude":47.97361,
+    "geom:longitude":12.94583,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50322.0",
+    "gn:asciiname":"Niederreit",
+    "gn:country_code":"AT",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3323142,
+    "gn:latitude":47.97361,
+    "gn:longitude":12.94583,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Niederreit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837157,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3323142
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5e85acde31cbeae8e053621759e1f198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837157,
+            "locality_id":1193159723,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1193159723,
+    "wof:lastmodified":1536369260,
+    "wof:name":"Niederreit",
+    "wof:parent_id":1108837157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.94583,
+    47.97361,
+    12.94583,
+    47.97361
+],
+  "geometry": {"coordinates":[12.94583,47.97361],"type":"Point"}
+}

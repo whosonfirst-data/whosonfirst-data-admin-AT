@@ -1,0 +1,74 @@
+{
+  "id": 1276219529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87,46.99417,15.87,46.99417",
+    "geom:latitude":46.99417,
+    "geom:longitude":15.87,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62379.0",
+    "gn:asciiname":"Wetzelsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761439,
+    "gn:latitude":46.99417,
+    "gn:longitude":15.87,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wetzelsdorf",
+    "gn:population":483,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839259,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761439
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f161506daae5173ca71c6cdbdfb4b27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839259,
+            "locality_id":1276219529,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276219529,
+    "wof:lastmodified":1536932211,
+    "wof:name":"Wetzelsdorf",
+    "wof:parent_id":1108839259,
+    "wof:placetype":"locality",
+    "wof:population":483,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87,
+    46.99417,
+    15.87,
+    46.99417
+],
+  "geometry": {"coordinates":[15.87,46.99417],"type":"Point"}
+}

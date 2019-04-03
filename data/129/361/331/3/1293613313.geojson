@@ -1,0 +1,74 @@
+{
+  "id": 1293613313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20412,48.28234,14.20412,48.28234",
+    "geom:latitude":48.28234,
+    "geom:longitude":14.20412,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"410",
+    "gn:admin3_code":"41022.0",
+    "gn:asciiname":"Doernbach",
+    "gn:country_code":"AT",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780746,
+    "gn:latitude":48.28234,
+    "gn:longitude":14.20412,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"D\u00f6rnbach",
+    "gn:population":707,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835565,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780746
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0c5bbff96f0aac399dd253f67aac0d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835565,
+            "locality_id":1293613313,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293613313,
+    "wof:lastmodified":1536602650,
+    "wof:name":"Doernbach",
+    "wof:parent_id":1108835565,
+    "wof:placetype":"locality",
+    "wof:population":707,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20412,
+    48.28234000000001,
+    14.20412,
+    48.28234000000001
+],
+  "geometry": {"coordinates":[14.20412,48.28234000000001],"type":"Point"}
+}

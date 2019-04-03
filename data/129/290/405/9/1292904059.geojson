@@ -1,0 +1,74 @@
+{
+  "id": 1292904059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87788,48.32721,13.87788,48.32721",
+    "geom:latitude":48.32721,
+    "geom:longitude":13.87788,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40831.0",
+    "gn:asciiname":"Brunnwald",
+    "gn:country_code":"AT",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609928,
+    "gn:latitude":48.32721,
+    "gn:longitude":13.87788,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Brunnwald",
+    "gn:population":11,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835233,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609928
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"19ee60ec37590b921f96635336c24280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835233,
+            "locality_id":1292904059,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1292904059,
+    "wof:lastmodified":1536632599,
+    "wof:name":"Brunnwald",
+    "wof:parent_id":1108835233,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87788,
+    48.32721,
+    13.87788,
+    48.32721
+],
+  "geometry": {"coordinates":[13.87788,48.32721],"type":"Point"}
+}

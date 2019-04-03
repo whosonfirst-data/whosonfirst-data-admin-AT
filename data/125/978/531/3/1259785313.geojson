@@ -1,0 +1,74 @@
+{
+  "id": 1259785313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8,48.63333,14.8,48.63333",
+    "geom:latitude":48.63333,
+    "geom:longitude":14.8,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"309",
+    "gn:admin3_code":"30910.0",
+    "gn:asciiname":"Angelbach",
+    "gn:country_code":"AT",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782532,
+    "gn:latitude":48.63333,
+    "gn:longitude":14.8,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Angelbach",
+    "gn:population":121,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836723,
+        85632785,
+        102049905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782532
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"10eb2f31a93dc5990d79f9f68e33922f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049905,
+            "localadmin_id":1108836723,
+            "locality_id":1259785313,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259785313,
+    "wof:lastmodified":1536921175,
+    "wof:name":"Angelbach",
+    "wof:parent_id":1108836723,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8,
+    48.63333,
+    14.8,
+    48.63333
+],
+  "geometry": {"coordinates":[14.8,48.63333],"type":"Point"}
+}

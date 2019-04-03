@@ -1,0 +1,76 @@
+{
+  "id": 1243574129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.03333,46.96667,10.03333,46.96667",
+    "geom:latitude":46.96667,
+    "geom:longitude":10.03333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80110.0",
+    "gn:asciiname":"Rifen",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767413,
+    "gn:latitude":46.96667,
+    "gn:longitude":10.03333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Rifen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rifa",
+        "Rifen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837949,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767413
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b66092a69d25acd0b5ced959225eb89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837949,
+            "locality_id":1243574129,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1243574129,
+    "wof:lastmodified":1537584938,
+    "wof:name":"Rifen",
+    "wof:parent_id":1108837949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.03333,
+    46.96667,
+    10.03333,
+    46.96667
+],
+  "geometry": {"coordinates":[10.03333,46.96667],"type":"Point"}
+}

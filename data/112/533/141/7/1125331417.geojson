@@ -1,0 +1,86 @@
+{
+  "id": 1125331417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.747527,48.429208,15.747527,48.429208",
+    "geom:latitude":48.429208,
+    "geom:longitude":15.747527,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":48.429208,
+    "lbl:longitude":15.747527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Etsdorf-Haitzendorf",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":824,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1301231,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673948,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12673948,
+        "qs_pg:id":1301231
+    },
+    "wof:country":"AT",
+    "wof:created":1497045155,
+    "wof:geomhash":"1ad163738757c7697716047d26b5460f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1125331417,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125331417,
+    "wof:lastmodified":1536698171,
+    "wof:name":"Etsdorf-Haitzendorf",
+    "wof:parent_id":102049885,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836301
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.747527,
+    48.429208,
+    15.747527,
+    48.429208
+],
+  "geometry": {"coordinates":[15.747527,48.429208],"type":"Point"}
+}

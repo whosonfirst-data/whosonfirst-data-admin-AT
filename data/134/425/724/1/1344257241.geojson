@@ -1,0 +1,74 @@
+{
+  "id": 1344257241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47469,48.1441,13.47469,48.1441",
+    "geom:latitude":48.1441,
+    "geom:longitude":13.47469,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41229.0",
+    "gn:asciiname":"Aigen",
+    "gn:country_code":"AT",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609663,
+    "gn:latitude":48.1441,
+    "gn:longitude":13.47469,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Aigen",
+    "gn:population":63,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835689,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609663
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e9e9c6cf19bd810a2693f209dfd6e923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835689,
+            "locality_id":1344257241,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344257241,
+    "wof:lastmodified":1537085661,
+    "wof:name":"Aigen",
+    "wof:parent_id":1108835689,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47469,
+    48.1441,
+    13.47469,
+    48.1441
+],
+  "geometry": {"coordinates":[13.47469,48.1441],"type":"Point"}
+}

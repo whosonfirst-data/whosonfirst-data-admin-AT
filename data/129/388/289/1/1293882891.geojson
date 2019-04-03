@@ -1,0 +1,71 @@
+{
+  "id": 1293882891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07111,47.97833,13.07111,47.97833",
+    "geom:latitude":47.97833,
+    "geom:longitude":13.07111,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50332.0",
+    "gn:asciiname":"Kalberpoint",
+    "gn:country_code":"AT",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3323084,
+    "gn:latitude":47.97833,
+    "gn:longitude":13.07111,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"K\u00e4lberpoint",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837181,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3323084
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1d178428cd63dcfe941f775333a7a78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837181,
+            "locality_id":1293882891,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1293882891,
+    "wof:lastmodified":1536714561,
+    "wof:name":"Kalberpoint",
+    "wof:parent_id":1108837181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07111,
+    47.97833,
+    13.07111,
+    47.97833
+],
+  "geometry": {"coordinates":[13.07111,47.97833],"type":"Point"}
+}

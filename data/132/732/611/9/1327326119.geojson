@@ -1,0 +1,71 @@
+{
+  "id": 1327326119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14667,46.87417,15.14667,46.87417",
+    "geom:latitude":46.87417,
+    "geom:longitude":15.14667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60344.0",
+    "gn:asciiname":"Rupp",
+    "gn:country_code":"AT",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219749,
+    "gn:latitude":46.87417,
+    "gn:longitude":15.14667,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Rupp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219749
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8c68c9f68dc5d159f5d9d0ce49812b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":1327326119,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1327326119,
+    "wof:lastmodified":1536833303,
+    "wof:name":"Rupp",
+    "wof:parent_id":1108839301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14667,
+    46.87417,
+    15.14667,
+    46.87417
+],
+  "geometry": {"coordinates":[15.14667,46.87417],"type":"Point"}
+}

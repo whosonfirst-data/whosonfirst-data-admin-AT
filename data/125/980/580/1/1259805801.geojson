@@ -1,0 +1,71 @@
+{
+  "id": 1259805801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.27611,47.48861,14.27611,47.48861",
+    "geom:latitude":47.48861,
+    "geom:longitude":14.27611,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61263.0",
+    "gn:asciiname":"Rohrach",
+    "gn:country_code":"AT",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324886,
+    "gn:latitude":47.48861,
+    "gn:longitude":14.27611,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Rohrach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838903,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324886
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"20499337475a5524882d92819d34f615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838903,
+            "locality_id":1259805801,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259805801,
+    "wof:lastmodified":1536890768,
+    "wof:name":"Rohrach",
+    "wof:parent_id":1108838903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27611,
+    47.48861,
+    14.27611,
+    47.48861
+],
+  "geometry": {"coordinates":[14.27611,47.48861],"type":"Point"}
+}

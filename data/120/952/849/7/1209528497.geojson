@@ -1,0 +1,66 @@
+{
+  "id": 1209528497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.02549,46.65288,13.02549,46.65288",
+    "geom:latitude":46.65288,
+    "geom:longitude":13.02549,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20307.0",
+    "gn:asciiname":"Mahlbach",
+    "gn:country_code":"AT",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594179,
+    "gn:latitude":46.65288,
+    "gn:longitude":13.02549,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mahlbach",
+    "gn:population":8,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594179
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ed5e3822906c799b7d0b8d0ca118487f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209528497
+        }
+    ],
+    "wof:id":1209528497,
+    "wof:lastmodified":1536284357,
+    "wof:name":"Mahlbach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02549,
+    46.65288,
+    13.02549,
+    46.65288
+],
+  "geometry": {"coordinates":[13.02549,46.65288],"type":"Point"}
+}

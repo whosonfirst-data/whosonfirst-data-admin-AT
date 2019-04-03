@@ -1,0 +1,74 @@
+{
+  "id": 1259591923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89222,46.64417,13.89222,46.64417",
+    "geom:latitude":46.64417,
+    "geom:longitude":13.89222,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"202.0",
+    "gn:admin3_code":"20201.0",
+    "gn:asciiname":"Sankt Andrae",
+    "gn:country_code":"AT",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766773,
+    "gn:latitude":46.64417,
+    "gn:longitude":13.89222,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Andr\u00e4",
+    "gn:population":773,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838145,
+        85632785,
+        102049673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766773
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5d2fd425a2a5a89bbe4156074d2684e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049673,
+            "localadmin_id":1108838145,
+            "locality_id":1259591923,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259591923,
+    "wof:lastmodified":1536702843,
+    "wof:name":"Sankt Andrae",
+    "wof:parent_id":1108838145,
+    "wof:placetype":"locality",
+    "wof:population":773,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89222,
+    46.64417,
+    13.89222,
+    46.64417
+],
+  "geometry": {"coordinates":[13.89222,46.64417],"type":"Point"}
+}

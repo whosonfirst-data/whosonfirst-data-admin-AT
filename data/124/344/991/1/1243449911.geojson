@@ -1,0 +1,74 @@
+{
+  "id": 1243449911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96305,47.44812,15.96305,47.44812",
+    "geom:latitude":47.44812,
+    "geom:longitude":15.96305,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"622",
+    "gn:admin3_code":"62245.0",
+    "gn:asciiname":"Auerbach",
+    "gn:country_code":"AT",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782221,
+    "gn:latitude":47.44812,
+    "gn:longitude":15.96305,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Auerbach",
+    "gn:population":129,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839095,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782221
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6cce0dd1efc933898873c13bc4ff3dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839095,
+            "locality_id":1243449911,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243449911,
+    "wof:lastmodified":1536800605,
+    "wof:name":"Auerbach",
+    "wof:parent_id":1108839095,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96305,
+    47.44812,
+    15.96305,
+    47.44812
+],
+  "geometry": {"coordinates":[15.96305,47.44812],"type":"Point"}
+}

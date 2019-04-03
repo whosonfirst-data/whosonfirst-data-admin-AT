@@ -1,0 +1,63 @@
+{
+  "id": 1209105251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26667,47.46667,13.26667,47.46667",
+    "geom:latitude":47.46667,
+    "geom:longitude":13.26667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50425.0",
+    "gn:asciiname":"Zaglauwinkl",
+    "gn:country_code":"AT",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2605486,
+    "gn:latitude":47.46667,
+    "gn:longitude":13.26667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Zaglauwinkl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2605486
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c3003ff662aaa8dae8ae18e62455b304",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209105251
+        }
+    ],
+    "wof:id":1209105251,
+    "wof:lastmodified":1536297595,
+    "wof:name":"Zaglauwinkl",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26667,
+    47.46667,
+    13.26667,
+    47.46667
+],
+  "geometry": {"coordinates":[13.26667,47.46667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1360206931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61667,46.98333,15.61667,46.98333",
+    "geom:latitude":46.98333,
+    "geom:longitude":15.61667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62385.0",
+    "gn:asciiname":"Rettenbach in Oststeiermark",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767533,
+    "gn:latitude":46.98333,
+    "gn:longitude":15.61667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rettenbach in Oststeiermark",
+    "gn:population":243,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rettenbach",
+        "Rettenbach in Oststeiermark"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839257,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767533
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bf4cf6b12189b4614344d9d5e766a97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839257,
+            "locality_id":1360206931,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1360206931,
+    "wof:lastmodified":1537584938,
+    "wof:name":"Rettenbach in Oststeiermark",
+    "wof:parent_id":1108839257,
+    "wof:placetype":"locality",
+    "wof:population":243,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61667,
+    46.98333,
+    15.61667,
+    46.98333
+],
+  "geometry": {"coordinates":[15.61667,46.98333],"type":"Point"}
+}

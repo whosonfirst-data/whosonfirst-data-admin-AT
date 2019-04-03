@@ -1,0 +1,78 @@
+{
+  "id": 1108938239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3487249546,48.2078490926,16.3487249546,48.2078490926",
+    "geom:latitude":48.207849,
+    "geom:longitude":16.348725,
+    "iso:country":"AT",
+    "lbl:latitude":48.207849,
+    "lbl:longitude":16.348725,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Strozzigrund"
+    ],
+    "name:ger_x_preferred":[
+        "Strozzigrund"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30c8\u30ed\u30c3\u30c4\u30a3\u30b0\u30eb\u30f3\u30c8"
+    ],
+    "src:geom":"mz",
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1290757"
+    },
+    "wof:country":"AT",
+    "wof:created":1491360230,
+    "wof:geomhash":"b90cae2926d90fca01011adbaa1f101a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":1108938239,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1108938239,
+    "wof:lastmodified":1534803977,
+    "wof:name":"Strozzigrund",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34872495455352,
+    48.20784909260527,
+    16.34872495455352,
+    48.20784909260527
+],
+  "geometry": {"coordinates":[16.34872495455352,48.20784909260527],"type":"Point"}
+}

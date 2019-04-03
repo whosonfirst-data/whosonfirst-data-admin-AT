@@ -1,0 +1,71 @@
+{
+  "id": 1209207065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43333,46.83333,15.43333,46.83333",
+    "geom:latitude":46.83333,
+    "geom:longitude":15.43333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"610",
+    "gn:admin3_code":"61033.0",
+    "gn:asciiname":"Mollitsch",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771303,
+    "gn:latitude":46.83333,
+    "gn:longitude":15.43333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mollitsch",
+    "gn:population":81,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mallitsch",
+        "Mollitsch"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771303
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e4b98258e2c750aac2e2f7f23b71df7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209207065
+        }
+    ],
+    "wof:id":1209207065,
+    "wof:lastmodified":1537584952,
+    "wof:name":"Mollitsch",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43333,
+    46.83333,
+    15.43333,
+    46.83333
+],
+  "geometry": {"coordinates":[15.43333,46.83333],"type":"Point"}
+}

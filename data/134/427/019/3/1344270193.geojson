@@ -1,0 +1,74 @@
+{
+  "id": 1344270193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93333,46.55,13.93333,46.55",
+    "geom:latitude":46.55,
+    "geom:longitude":13.93333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20711.0",
+    "gn:asciiname":"Untergreuth",
+    "gn:country_code":"AT",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762918,
+    "gn:latitude":46.55,
+    "gn:longitude":13.93333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Untergreuth",
+    "gn:population":60,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838339,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762918
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e86a5cd7cfba2e57c2bfd3aefe3ff562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838339,
+            "locality_id":1344270193,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1344270193,
+    "wof:lastmodified":1537067096,
+    "wof:name":"Untergreuth",
+    "wof:parent_id":1108838339,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93333,
+    46.55,
+    13.93333,
+    46.55
+],
+  "geometry": {"coordinates":[13.93333,46.55],"type":"Point"}
+}

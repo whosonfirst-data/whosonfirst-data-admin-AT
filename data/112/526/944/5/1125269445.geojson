@@ -1,0 +1,88 @@
+{
+  "id": 1125269445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33306,48.25,16.33306,48.25",
+    "geom:latitude":48.25,
+    "geom:longitude":16.33306,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":69324,
+    "gn:population":69324,
+    "iso:country":"AT",
+    "lbl:latitude":48.25,
+    "lbl:longitude":16.33306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "D\u00f6bling"
+    ],
+    "name:unk_x_variant":[
+        "19. Wiener Gemeindebezirk"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2780893,
+    "qs_pg:gn_pop":69324,
+    "qs_pg:name":"Gemeindebezirk D\u00f6bling",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":576218,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681667,
+        102049859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780893,
+        "qs_pg:id":576218
+    },
+    "wof:country":"AT",
+    "wof:created":1497042059,
+    "wof:geomhash":"fb8854e8ed150d4325252d66a68c7e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1125269445,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1125269445,
+    "wof:lastmodified":1536698106,
+    "wof:name":"Gemeindebezirk D\u00f6bling",
+    "wof:parent_id":102049859,
+    "wof:placetype":"localadmin",
+    "wof:population":69324,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838101
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33306,
+    48.25,
+    16.33306,
+    48.25
+],
+  "geometry": {"coordinates":[16.33306,48.25],"type":"Point"}
+}

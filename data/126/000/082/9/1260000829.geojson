@@ -1,0 +1,71 @@
+{
+  "id": 1260000829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26667,47.11667,11.26667,47.11667",
+    "geom:latitude":47.11667,
+    "geom:longitude":11.26667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70334.0",
+    "gn:asciiname":"Baerenbad",
+    "gn:country_code":"AT",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782012,
+    "gn:latitude":47.11667,
+    "gn:longitude":11.26667,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"B\u00e4renbad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837577,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782012
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"40a96a5207de5a5a13df568c975c0c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837577,
+            "locality_id":1260000829,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1260000829,
+    "wof:lastmodified":1536607391,
+    "wof:name":"Baerenbad",
+    "wof:parent_id":1108837577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26667,
+    47.11667,
+    11.26667,
+    47.11667
+],
+  "geometry": {"coordinates":[11.26667,47.11667],"type":"Point"}
+}

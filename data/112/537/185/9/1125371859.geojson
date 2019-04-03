@@ -1,0 +1,91 @@
+{
+  "id": 1125371859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10722,48.09754,16.10722,48.09754",
+    "geom:latitude":48.09754,
+    "geom:longitude":16.10722,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2472,
+    "gn:population":2777,
+    "iso:country":"AT",
+    "lbl:latitude":48.09754,
+    "lbl:longitude":16.10722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043d\u0435\u0440\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0435\u0440\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u5185\u5c14\u74e6\u5c14\u5fb7"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871857,
+    "qs_pg:gn_pop":2472,
+    "qs_pg:name":"Wienerwald",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108405,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871857,
+        "qs_pg:id":108405
+    },
+    "wof:country":"AT",
+    "wof:created":1497047457,
+    "wof:geomhash":"08b9c938fc6d12e59adbbb2ca33adf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1125371859,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125371859,
+    "wof:lastmodified":1534379215,
+    "wof:name":"Wienerwald",
+    "wof:parent_id":102049837,
+    "wof:placetype":"localadmin",
+    "wof:population":2777,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836663
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10722,
+    48.09754,
+    16.10722,
+    48.09754
+],
+  "geometry": {"coordinates":[16.10722,48.09754],"type":"Point"}
+}

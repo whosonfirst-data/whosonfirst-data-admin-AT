@@ -1,0 +1,71 @@
+{
+  "id": 1309828193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,47.3,14.35,47.3",
+    "geom:latitude":47.3,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"620",
+    "gn:admin3_code":"62021.0",
+    "gn:asciiname":"Fuchsgraben",
+    "gn:country_code":"AT",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2779163,
+    "gn:latitude":47.3,
+    "gn:longitude":14.35,
+    "gn:modification_date":"2014-04-28",
+    "gn:name":"Fuchsgraben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839407,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779163
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7bc68ff3c4d3ba6a6458ce9db5edf96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108839407,
+            "locality_id":1309828193,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1309828193,
+    "wof:lastmodified":1536898828,
+    "wof:name":"Fuchsgraben",
+    "wof:parent_id":1108839407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    47.3,
+    14.35,
+    47.3
+],
+  "geometry": {"coordinates":[14.35,47.3],"type":"Point"}
+}

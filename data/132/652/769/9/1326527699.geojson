@@ -1,0 +1,80 @@
+{
+  "id": 1326527699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43333,47.2,14.43333,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":14.43333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"620",
+    "gn:admin3_code":"62036.0",
+    "gn:asciiname":"Frauenburg",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779336,
+    "gn:latitude":47.2,
+    "gn:longitude":14.43333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Frauenburg",
+    "gn:population":601,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Frauendorf",
+        "Frauenburg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839421,
+        85632785,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779336,
+        "wk:page":"Frauenburg_%28castle%29"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4e5621f38ea33c15ae6382787b0ae108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1108839421,
+            "locality_id":1326527699,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1326527699,
+    "wof:lastmodified":1537584975,
+    "wof:name":"Frauenburg",
+    "wof:parent_id":1108839421,
+    "wof:placetype":"locality",
+    "wof:population":601,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43333,
+    47.2,
+    14.43333,
+    47.2
+],
+  "geometry": {"coordinates":[14.43333,47.2],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343483401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03333,47.18333,14.03333,47.18333",
+    "geom:latitude":47.18333,
+    "geom:longitude":14.03333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61437.0",
+    "gn:asciiname":"Kuensten",
+    "gn:country_code":"AT",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777256,
+    "gn:latitude":47.18333,
+    "gn:longitude":14.03333,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"K\u00fcnsten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcnsten",
+        "G\u00fcnster",
+        "K\u00fcnsten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838833,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777256
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f4aa5291542fe264e2958adc83619312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838833,
+            "locality_id":1343483401,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343483401,
+    "wof:lastmodified":1537584969,
+    "wof:name":"Kuensten",
+    "wof:parent_id":1108838833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03333,
+    47.18333,
+    14.03333,
+    47.18333
+],
+  "geometry": {"coordinates":[14.03333,47.18333],"type":"Point"}
+}

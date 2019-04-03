@@ -1,0 +1,74 @@
+{
+  "id": 1242874321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67965,48.25106,13.67965,48.25106",
+    "geom:latitude":48.25106,
+    "geom:longitude":13.67965,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40834.0",
+    "gn:asciiname":"Gugenedt",
+    "gn:country_code":"AT",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610628,
+    "gn:latitude":48.25106,
+    "gn:longitude":13.67965,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gugenedt",
+    "gn:population":14,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835241,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610628
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1f4116202cd271890daa18463b7afa9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835241,
+            "locality_id":1242874321,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1242874321,
+    "wof:lastmodified":1536635023,
+    "wof:name":"Gugenedt",
+    "wof:parent_id":1108835241,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67965,
+    48.25106,
+    13.67965,
+    48.25106
+],
+  "geometry": {"coordinates":[13.67965,48.25106],"type":"Point"}
+}

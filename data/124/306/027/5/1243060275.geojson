@@ -1,0 +1,71 @@
+{
+  "id": 1243060275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61667,46.93333,15.61667,46.93333",
+    "geom:latitude":46.93333,
+    "geom:longitude":15.61667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62385.0",
+    "gn:asciiname":"Labillberg",
+    "gn:country_code":"AT",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2607632,
+    "gn:latitude":46.93333,
+    "gn:longitude":15.61667,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Labillberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839257,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2607632
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3ff77befe1878dfbb97566b1af38a94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839257,
+            "locality_id":1243060275,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243060275,
+    "wof:lastmodified":1536863908,
+    "wof:name":"Labillberg",
+    "wof:parent_id":1108839257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61667,
+    46.93333,
+    15.61667,
+    46.93333
+],
+  "geometry": {"coordinates":[15.61667,46.93333],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125363535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17304,47.38301,15.17304,47.38301",
+    "geom:latitude":47.38301,
+    "geom:longitude":15.17304,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2598,
+    "gn:population":2541,
+    "iso:country":"AT",
+    "lbl:latitude":47.38301,
+    "lbl:longitude":15.17304,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873485,
+    "qs_pg:gn_pop":2598,
+    "qs_pg:name":"Niklasdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1245893,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873485,
+        "qs_pg:id":1245893
+    },
+    "wof:country":"AT",
+    "wof:created":1497046944,
+    "wof:geomhash":"1c14a241ce34279fda4d89029537397d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1125363535,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125363535,
+    "wof:lastmodified":1534531037,
+    "wof:name":"Niklasdorf",
+    "wof:parent_id":102049769,
+    "wof:placetype":"localadmin",
+    "wof:population":2541,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839005
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17304,
+    47.38301,
+    15.17304,
+    47.38301
+],
+  "geometry": {"coordinates":[15.17304,47.38301],"type":"Point"}
+}

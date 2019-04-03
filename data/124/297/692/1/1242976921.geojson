@@ -1,0 +1,74 @@
+{
+  "id": 1242976921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5564,48.55855,13.5564,48.55855",
+    "geom:latitude":48.55855,
+    "geom:longitude":13.5564,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"414.0",
+    "gn:admin3_code":"41409.0",
+    "gn:asciiname":"Unteresternberg",
+    "gn:country_code":"AT",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762974,
+    "gn:latitude":48.55855,
+    "gn:longitude":13.5564,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unteresternberg",
+    "gn:population":125,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836041,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762974
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2d35fa0a649febf5020c09be4d84ee46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836041,
+            "locality_id":1242976921,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1242976921,
+    "wof:lastmodified":1536984590,
+    "wof:name":"Unteresternberg",
+    "wof:parent_id":1108836041,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5564,
+    48.55855,
+    13.5564,
+    48.55855
+],
+  "geometry": {"coordinates":[13.5564,48.55855],"type":"Point"}
+}

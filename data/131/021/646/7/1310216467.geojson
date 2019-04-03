@@ -1,0 +1,74 @@
+{
+  "id": 1310216467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,48.18333,15.56667,48.18333",
+    "geom:latitude":48.18333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30201.0",
+    "gn:asciiname":"Pummersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768250,
+    "gn:latitude":48.18333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Pummersdorf",
+    "gn:population":100,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836803,
+        85632785,
+        102049849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768250
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d979665ae9e6475d9b3328d3dd1c0f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049849,
+            "localadmin_id":1108836803,
+            "locality_id":1310216467,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310216467,
+    "wof:lastmodified":1536835356,
+    "wof:name":"Pummersdorf",
+    "wof:parent_id":1108836803,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    48.18333,
+    15.56667,
+    48.18333
+],
+  "geometry": {"coordinates":[15.56667,48.18333],"type":"Point"}
+}

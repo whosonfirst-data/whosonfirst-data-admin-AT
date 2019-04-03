@@ -1,0 +1,74 @@
+{
+  "id": 1310502479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13923,48.57587,14.13923,48.57587",
+    "geom:latitude":48.57587,
+    "geom:longitude":14.13923,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41301.0",
+    "gn:asciiname":"Unterafiesl",
+    "gn:country_code":"AT",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763140,
+    "gn:latitude":48.57587,
+    "gn:longitude":14.13923,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterafiesl",
+    "gn:population":36,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835707,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763140
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"79c45460347e46ee4d25f41d81d84f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835707,
+            "locality_id":1310502479,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310502479,
+    "wof:lastmodified":1536921951,
+    "wof:name":"Unterafiesl",
+    "wof:parent_id":1108835707,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13923,
+    48.57587,
+    14.13923,
+    48.57587
+],
+  "geometry": {"coordinates":[14.13923,48.57587],"type":"Point"}
+}

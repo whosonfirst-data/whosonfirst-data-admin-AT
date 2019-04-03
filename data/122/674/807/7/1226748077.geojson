@@ -1,0 +1,74 @@
+{
+  "id": 1226748077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05433,48.14172,13.05433,48.14172",
+    "geom:latitude":48.14172,
+    "geom:longitude":13.05433,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40427.0",
+    "gn:asciiname":"Kottingauerbach",
+    "gn:country_code":"AT",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610109,
+    "gn:latitude":48.14172,
+    "gn:longitude":13.05433,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kottingauerbach",
+    "gn:population":25,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834765,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610109
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e5fe48b36140eb43ddd808b953e3d560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834765,
+            "locality_id":1226748077,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226748077,
+    "wof:lastmodified":1536712462,
+    "wof:name":"Kottingauerbach",
+    "wof:parent_id":1108834765,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05433,
+    48.14172,
+    13.05433,
+    48.14172
+],
+  "geometry": {"coordinates":[13.05433,48.14172],"type":"Point"}
+}

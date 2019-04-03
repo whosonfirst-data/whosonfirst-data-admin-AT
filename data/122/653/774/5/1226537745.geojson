@@ -1,0 +1,80 @@
+{
+  "id": 1226537745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23333,47.2,14.23333,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":14.23333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"614.0",
+    "gn:admin3_code":"61440.0",
+    "gn:asciiname":"Winklern bei Oberwoelz",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2761037,
+    "gn:latitude":47.2,
+    "gn:longitude":14.23333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Winklern bei Oberw\u00f6lz",
+    "gn:population":314,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Winklern",
+        "Winklern bei Oberw\u00f6lz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838785,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761037,
+        "wk:page":"Winklern_bei_Oberw%C3%B6lz"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"acfced8c058371897e666f51bd09c053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838785,
+            "locality_id":1226537745,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226537745,
+    "wof:lastmodified":1537584912,
+    "wof:name":"Winklern bei Oberwoelz",
+    "wof:parent_id":1108838785,
+    "wof:placetype":"locality",
+    "wof:population":314,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23333,
+    47.2,
+    14.23333,
+    47.2
+],
+  "geometry": {"coordinates":[14.23333,47.2],"type":"Point"}
+}

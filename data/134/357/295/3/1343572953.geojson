@@ -1,0 +1,74 @@
+{
+  "id": 1343572953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23606,48.86127,15.23606,48.86127",
+    "geom:latitude":48.86127,
+    "geom:longitude":15.23606,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"322.0",
+    "gn:admin3_code":"32217.0",
+    "gn:asciiname":"Ranzles",
+    "gn:country_code":"AT",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767956,
+    "gn:latitude":48.86127,
+    "gn:longitude":15.23606,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Ranzles",
+    "gn:population":31,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836985,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767956
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0d65f7bffd9965028e9fd1962cda0234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836985,
+            "locality_id":1343572953,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343572953,
+    "wof:lastmodified":1537078271,
+    "wof:name":"Ranzles",
+    "wof:parent_id":1108836985,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23606,
+    48.86127000000001,
+    15.23606,
+    48.86127000000001
+],
+  "geometry": {"coordinates":[15.23606,48.86127000000001],"type":"Point"}
+}

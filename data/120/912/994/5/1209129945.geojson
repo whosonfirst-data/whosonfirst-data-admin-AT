@@ -1,0 +1,63 @@
+{
+  "id": 1209129945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80917,48.55611,13.80917,48.55611",
+    "geom:latitude":48.55611,
+    "geom:longitude":13.80917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41327.0",
+    "gn:asciiname":"Pichlhaeuseln",
+    "gn:country_code":"AT",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319422,
+    "gn:latitude":48.55611,
+    "gn:longitude":13.80917,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Pichlh\u00e4useln",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319422
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1fbdcfd2505124995c1dd281609a0dfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209129945
+        }
+    ],
+    "wof:id":1209129945,
+    "wof:lastmodified":1536296835,
+    "wof:name":"Pichlhaeuseln",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.809170000000002,
+    48.55611,
+    13.809170000000002,
+    48.55611
+],
+  "geometry": {"coordinates":[13.80917,48.55611],"type":"Point"}
+}

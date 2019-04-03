@@ -1,0 +1,92 @@
+{
+  "id": 1125388459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51709,48.04567,16.51709,48.04567",
+    "geom:latitude":48.04567,
+    "geom:longitude":16.51709,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.04567,
+    "lbl:longitude":16.51709,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2780536,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ebergassing",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1016747,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673923,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780536,
+        "gp:id":12673923,
+        "qs_pg:id":1016747
+    },
+    "wof:country":"AT",
+    "wof:created":1497048553,
+    "wof:geomhash":"ff1ab26d9fd519304a053fb2fb04649c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1125388459,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125388459,
+    "wof:lastmodified":1536698223,
+    "wof:name":"Ebergassing",
+    "wof:parent_id":102049843,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836651
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51709,
+    48.04567,
+    16.51709,
+    48.04567
+],
+  "geometry": {"coordinates":[16.51709,48.04567],"type":"Point"}
+}

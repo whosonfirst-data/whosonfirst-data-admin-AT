@@ -1,0 +1,82 @@
+{
+  "id": 1125270555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42098,48.35708,16.42098,48.35708",
+    "geom:latitude":48.35708,
+    "geom:longitude":16.42098,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1489,
+    "gn:population":1684,
+    "iso:country":"AT",
+    "lbl:latitude":48.35708,
+    "lbl:longitude":16.42098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872903,
+    "qs_pg:gn_pop":1489,
+    "qs_pg:name":"Enzersfeld",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743448,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872903,
+        "qs_pg:id":743448
+    },
+    "wof:country":"AT",
+    "wof:created":1497042107,
+    "wof:geomhash":"edcde4d988790dfdb3183159704e90cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1125270555,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125270555,
+    "wof:lastmodified":1534379097,
+    "wof:name":"Enzersfeld",
+    "wof:parent_id":102049887,
+    "wof:placetype":"localadmin",
+    "wof:population":1684,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125374245
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42098,
+    48.35708,
+    16.42098,
+    48.35708
+],
+  "geometry": {"coordinates":[16.42098,48.35708],"type":"Point"}
+}

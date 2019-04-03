@@ -1,0 +1,82 @@
+{
+  "id": 1125274687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28178,48.29404,13.28178,48.29404",
+    "geom:latitude":48.29404,
+    "geom:longitude":13.28178,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":593,
+    "gn:population":636,
+    "iso:country":"AT",
+    "lbl:latitude":48.29404,
+    "lbl:longitude":13.28178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873182,
+    "qs_pg:gn_pop":593,
+    "qs_pg:name":"Kirchdorf am Inn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108847,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873182,
+        "qs_pg:id":108847
+    },
+    "wof:country":"AT",
+    "wof:created":1497042265,
+    "wof:geomhash":"2b30fdffeb99519069a06e5b106f6770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1125274687,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125274687,
+    "wof:lastmodified":1534379167,
+    "wof:name":"Kirchdorf am Inn",
+    "wof:parent_id":102049851,
+    "wof:placetype":"localadmin",
+    "wof:population":636,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835645
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28178,
+    48.29404,
+    13.28178,
+    48.29404
+],
+  "geometry": {"coordinates":[13.28178,48.29404],"type":"Point"}
+}

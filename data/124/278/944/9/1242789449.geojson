@@ -1,0 +1,71 @@
+{
+  "id": 1242789449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64967,47.96016,14.64967,47.96016",
+    "geom:latitude":47.96016,
+    "geom:longitude":14.64967,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30510.0",
+    "gn:asciiname":"Unter-Predmass",
+    "gn:country_code":"AT",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610051,
+    "gn:latitude":47.96016,
+    "gn:longitude":14.64967,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Unter-Predma\u00df",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836943,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610051
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0d6548888d6693056e577e4142dc381c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836943,
+            "locality_id":1242789449,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1242789449,
+    "wof:lastmodified":1536758598,
+    "wof:name":"Unter-Predmass",
+    "wof:parent_id":1108836943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64967,
+    47.96016,
+    14.64967,
+    47.96016
+],
+  "geometry": {"coordinates":[14.64967,47.96016],"type":"Point"}
+}

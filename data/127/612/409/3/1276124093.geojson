@@ -1,0 +1,74 @@
+{
+  "id": 1276124093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51453,48.32153,14.51453,48.32153",
+    "geom:latitude":48.32153,
+    "geom:longitude":14.51453,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40624.0",
+    "gn:asciiname":"Frensdorf",
+    "gn:country_code":"AT",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612249,
+    "gn:latitude":48.32153,
+    "gn:longitude":14.51453,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Frensdorf",
+    "gn:population":343,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835113,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612249
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4d323d69f906ec6a908e246d2540af83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835113,
+            "locality_id":1276124093,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276124093,
+    "wof:lastmodified":1537056439,
+    "wof:name":"Frensdorf",
+    "wof:parent_id":1108835113,
+    "wof:placetype":"locality",
+    "wof:population":343,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51453,
+    48.32153,
+    14.51453,
+    48.32153
+],
+  "geometry": {"coordinates":[14.51453,48.32153],"type":"Point"}
+}

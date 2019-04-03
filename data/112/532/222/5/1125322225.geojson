@@ -1,0 +1,82 @@
+{
+  "id": 1125322225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0664,48.14218,15.0664,48.14218",
+    "geom:latitude":48.14218,
+    "geom:longitude":15.0664,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1836,
+    "gn:population":1920,
+    "iso:country":"AT",
+    "lbl:latitude":48.14218,
+    "lbl:longitude":15.0664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871822,
+    "qs_pg:gn_pop":1836,
+    "qs_pg:name":"Neumarkt an der Ybbs",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":904277,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871822,
+        "qs_pg:id":904277
+    },
+    "wof:country":"AT",
+    "wof:created":1497044597,
+    "wof:geomhash":"fb2119c4ae652cef17bf5c155cd6a8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1125322225,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125322225,
+    "wof:lastmodified":1534379098,
+    "wof:name":"Neumarkt an der Ybbs",
+    "wof:parent_id":102049855,
+    "wof:placetype":"localadmin",
+    "wof:population":1920,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836671
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0664,
+    48.14218,
+    15.0664,
+    48.14218
+],
+  "geometry": {"coordinates":[15.0664,48.14218],"type":"Point"}
+}

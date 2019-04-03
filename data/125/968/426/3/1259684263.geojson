@@ -1,0 +1,74 @@
+{
+  "id": 1259684263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62958,48.45015,14.62958,48.45015",
+    "geom:latitude":48.45015,
+    "geom:longitude":14.62958,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40603.0",
+    "gn:asciiname":"Fuerling",
+    "gn:country_code":"AT",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779123,
+    "gn:latitude":48.45015,
+    "gn:longitude":14.62958,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"F\u00fcrling",
+    "gn:population":114,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835065,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779123
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"68a18e15aa6b64fa58223b984a8ad0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835065,
+            "locality_id":1259684263,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259684263,
+    "wof:lastmodified":1537063096,
+    "wof:name":"Fuerling",
+    "wof:parent_id":1108835065,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62958,
+    48.45015,
+    14.62958,
+    48.45015
+],
+  "geometry": {"coordinates":[14.62958,48.45015],"type":"Point"}
+}

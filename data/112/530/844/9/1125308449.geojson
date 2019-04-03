@@ -1,0 +1,105 @@
+{
+  "id": 1125308449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23615,47.22534,15.23615,47.22534",
+    "geom:latitude":47.22534,
+    "geom:longitude":15.23615,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.22534,
+    "lbl:longitude":15.23615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0418\u0431\u0435\u043b\u044c\u0431\u0430\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0431\u0435\u043b\u044c\u0431\u0430\u0445"
+    ],
+    "name:unk_x_variant":[
+        "\u00dcbelbach Markt"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u06cc\u0644\u0628\u0627\u0686"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8e\u4f2f\u5c14\u5df4\u8d6b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2763209,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00dcbelbach",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":93,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":203647,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675123,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763209,
+        "gp:id":12675123,
+        "qs_pg:id":203647
+    },
+    "wof:country":"AT",
+    "wof:created":1497043834,
+    "wof:geomhash":"d6c585470cc5ae48c8651591b31fbd9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125308449,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125308449,
+    "wof:lastmodified":1534531003,
+    "wof:name":"\u00dcbelbach",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839147
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23615,
+    47.22534,
+    15.23615,
+    47.22534
+],
+  "geometry": {"coordinates":[15.23615,47.22534],"type":"Point"}
+}

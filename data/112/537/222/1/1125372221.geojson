@@ -1,0 +1,91 @@
+{
+  "id": 1125372221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25954,47.0745,15.25954,47.0745",
+    "geom:latitude":47.0745,
+    "geom:longitude":15.25954,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1392,
+    "gn:population":1412,
+    "iso:country":"AT",
+    "lbl:latitude":47.0745,
+    "lbl:longitude":15.25954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u0430\u0440\u0442\u043e\u043b\u043e\u043c\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0411\u0430\u0440\u0442\u043e\u043b\u043e\u043c\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5df4\u6258\u6d1b\u6885"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873411,
+    "qs_pg:gn_pop":1392,
+    "qs_pg:name":"Sankt Bartholom\u00e4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108932,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873411,
+        "qs_pg:id":108932
+    },
+    "wof:country":"AT",
+    "wof:created":1497047485,
+    "wof:geomhash":"82aabe8ff893cebf6a1e0a80d67f38ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125372221,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125372221,
+    "wof:lastmodified":1536698205,
+    "wof:name":"Sankt Bartholom\u00e4",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":1412,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839167
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25954,
+    47.0745,
+    15.25954,
+    47.0745
+],
+  "geometry": {"coordinates":[15.25954,47.0745],"type":"Point"}
+}

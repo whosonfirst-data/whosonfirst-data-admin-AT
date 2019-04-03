@@ -1,0 +1,74 @@
+{
+  "id": 1242601837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87625,48.58723,13.87625,48.58723",
+    "geom:latitude":48.58723,
+    "geom:longitude":13.87625,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41338.0",
+    "gn:asciiname":"Inneroedt",
+    "gn:country_code":"AT",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775239,
+    "gn:latitude":48.58723,
+    "gn:longitude":13.87625,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Inner\u00f6dt",
+    "gn:population":39,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836013,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775239
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b037e65d52eef7919e0b9a0fde715abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108836013,
+            "locality_id":1242601837,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1242601837,
+    "wof:lastmodified":1537027562,
+    "wof:name":"Inneroedt",
+    "wof:parent_id":1108836013,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87625,
+    48.58723,
+    13.87625,
+    48.58723
+],
+  "geometry": {"coordinates":[13.87625,48.58723],"type":"Point"}
+}

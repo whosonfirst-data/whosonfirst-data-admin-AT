@@ -1,0 +1,74 @@
+{
+  "id": 1344169963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25,46.78333,14.25,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":14.25,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20515.0",
+    "gn:asciiname":"Grassendorf",
+    "gn:country_code":"AT",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778092,
+    "gn:latitude":46.78333,
+    "gn:longitude":14.25,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Grassendorf",
+    "gn:population":17,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838335,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778092
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"18d847ae521aa9186b153c0687f6d785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838335,
+            "locality_id":1344169963,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1344169963,
+    "wof:lastmodified":1536717852,
+    "wof:name":"Grassendorf",
+    "wof:parent_id":1108838335,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25,
+    46.78333,
+    14.25,
+    46.78333
+],
+  "geometry": {"coordinates":[14.25,46.78333],"type":"Point"}
+}

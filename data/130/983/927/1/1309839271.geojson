@@ -1,0 +1,71 @@
+{
+  "id": 1309839271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91461,48.01289,13.91461,48.01289",
+    "geom:latitude":48.01289,
+    "geom:longitude":13.91461,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"407",
+    "gn:admin3_code":"40720.0",
+    "gn:asciiname":"Feldham",
+    "gn:country_code":"AT",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779675,
+    "gn:latitude":48.01289,
+    "gn:longitude":13.91461,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Feldham",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835165,
+        85632785,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779675
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2bc72eda635797e484280537d84f20d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835165,
+            "locality_id":1309839271,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1309839271,
+    "wof:lastmodified":1536882257,
+    "wof:name":"Feldham",
+    "wof:parent_id":1108835165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91461,
+    48.01289000000001,
+    13.91461,
+    48.01289000000001
+],
+  "geometry": {"coordinates":[13.91461,48.01289000000001],"type":"Point"}
+}

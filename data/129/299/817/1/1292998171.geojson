@@ -1,0 +1,78 @@
+{
+  "id": 1292998171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67526,47.16451,15.67526,47.16451",
+    "geom:latitude":47.16451,
+    "geom:longitude":15.67526,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61765.0",
+    "gn:asciiname":"Arndorf bei Sankt Ruprecht an der Raab",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782413,
+    "gn:latitude":47.16451,
+    "gn:longitude":15.67526,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Arndorf bei Sankt Ruprecht an der Raab",
+    "gn:population":230,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arndorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838911,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782413
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c0b92b431a45d966bdc26f9f41c247e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838911,
+            "locality_id":1292998171,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1292998171,
+    "wof:lastmodified":1537584984,
+    "wof:name":"Arndorf bei Sankt Ruprecht an der Raab",
+    "wof:parent_id":1108838911,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67526,
+    47.16451,
+    15.67526,
+    47.16451
+],
+  "geometry": {"coordinates":[15.67526,47.16451],"type":"Point"}
+}

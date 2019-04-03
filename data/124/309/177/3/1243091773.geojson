@@ -1,0 +1,74 @@
+{
+  "id": 1243091773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61122,48.4427,14.61122,48.4427",
+    "geom:latitude":48.4427,
+    "geom:longitude":14.61122,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40603.0",
+    "gn:asciiname":"Erdmannsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779993,
+    "gn:latitude":48.4427,
+    "gn:longitude":14.61122,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Erdmannsdorf",
+    "gn:population":293,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835065,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779993
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"88891d1d41f0a6318ea7a1599a1da5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835065,
+            "locality_id":1243091773,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243091773,
+    "wof:lastmodified":1536818887,
+    "wof:name":"Erdmannsdorf",
+    "wof:parent_id":1108835065,
+    "wof:placetype":"locality",
+    "wof:population":293,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61122,
+    48.4427,
+    14.61122,
+    48.4427
+],
+  "geometry": {"coordinates":[14.61122,48.4427],"type":"Point"}
+}

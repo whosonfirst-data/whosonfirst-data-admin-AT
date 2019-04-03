@@ -1,0 +1,97 @@
+{
+  "id": 1125274513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15184,48.32972,16.15184,48.32972",
+    "geom:latitude":48.32972,
+    "geom:longitude":16.15184,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1135,
+    "gn:population":1488,
+    "iso:country":"AT",
+    "lbl:latitude":48.32972,
+    "lbl:longitude":16.15184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873042,
+    "qs_pg:gn_pop":1135,
+    "qs_pg:name":"Muckendorf-Wipfing",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108803,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":23388467,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873042,
+        "gp:id":23388467,
+        "qs_pg:id":108803
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1292791
+    },
+    "wof:country":"AT",
+    "wof:created":1497042259,
+    "wof:geomhash":"50e2faef1b2a03163f05b370ab8866df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1125274513,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125274513,
+    "wof:lastmodified":1536698124,
+    "wof:name":"Muckendorf-Wipfing",
+    "wof:parent_id":102049879,
+    "wof:placetype":"localadmin",
+    "wof:population":1488,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835031
+    ],
+    "wof:supersedes":[
+        1125328709
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15184,
+    48.32972,
+    16.15184,
+    48.32972
+],
+  "geometry": {"coordinates":[16.15184,48.32972],"type":"Point"}
+}

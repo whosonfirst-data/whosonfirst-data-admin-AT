@@ -1,0 +1,74 @@
+{
+  "id": 1243387601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56133,48.39849,13.56133,48.39849",
+    "geom:latitude":48.39849,
+    "geom:longitude":13.56133,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41404.0",
+    "gn:asciiname":"Inding",
+    "gn:country_code":"AT",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775291,
+    "gn:latitude":48.39849,
+    "gn:longitude":13.56133,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Inding",
+    "gn:population":35,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836031,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775291
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9c15534030d0d374aa8b12c06e4c6b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836031,
+            "locality_id":1243387601,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243387601,
+    "wof:lastmodified":1536890067,
+    "wof:name":"Inding",
+    "wof:parent_id":1108836031,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56133,
+    48.39849,
+    13.56133,
+    48.39849
+],
+  "geometry": {"coordinates":[13.56133,48.39849],"type":"Point"}
+}

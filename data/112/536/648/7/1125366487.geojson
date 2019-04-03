@@ -1,0 +1,82 @@
+{
+  "id": 1125366487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33229,47.31638,14.33229,47.31638",
+    "geom:latitude":47.31638,
+    "geom:longitude":14.33229,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":517,
+    "gn:population":464,
+    "iso:country":"AT",
+    "lbl:latitude":47.31638,
+    "lbl:longitude":14.33229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873447,
+    "qs_pg:gn_pop":517,
+    "qs_pg:name":"Pusterwald",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743534,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873447,
+        "qs_pg:id":743534
+    },
+    "wof:country":"AT",
+    "wof:created":1497047109,
+    "wof:geomhash":"1924c8218d653756c8dcb2f305bc199e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892555,
+            "localadmin_id":1125366487,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125366487,
+    "wof:lastmodified":1534379207,
+    "wof:name":"Pusterwald",
+    "wof:parent_id":1108892555,
+    "wof:placetype":"localadmin",
+    "wof:population":464,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839407
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33229,
+    47.31638,
+    14.33229,
+    47.31638
+],
+  "geometry": {"coordinates":[14.33229,47.31638],"type":"Point"}
+}

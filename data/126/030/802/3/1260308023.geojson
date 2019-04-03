@@ -1,0 +1,71 @@
+{
+  "id": 1260308023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85161,46.72948,15.85161,46.72948",
+    "geom:latitude":46.72948,
+    "geom:longitude":15.85161,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62346.0",
+    "gn:asciiname":"Fluttendorf",
+    "gn:country_code":"AT",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779455,
+    "gn:latitude":46.72948,
+    "gn:longitude":15.85161,
+    "gn:modification_date":"2017-06-20",
+    "gn:name":"Fluttendorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839343,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779455
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fe555bd38cff5335b4017829a6db7278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839343,
+            "locality_id":1260308023,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1260308023,
+    "wof:lastmodified":1536679063,
+    "wof:name":"Fluttendorf",
+    "wof:parent_id":1108839343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85161,
+    46.72948,
+    15.85161,
+    46.72948
+],
+  "geometry": {"coordinates":[15.85161,46.72948],"type":"Point"}
+}

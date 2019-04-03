@@ -1,0 +1,92 @@
+{
+  "id": 85898477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":339634.733304,
+    "geom:bbox":"13.0627441406,47.809465384,13.0737304687,47.8135253491",
+    "geom:latitude":47.811328,
+    "geom:longitude":13.068273,
+    "iso:country":"AT",
+    "lbl:latitude":47.811311,
+    "lbl:longitude":13.066223,
+    "mps:latitude":47.81131,
+    "mps:longitude":13.068272,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:deu_x_preferred":[
+        "Gnigl"
+    ],
+    "name:eng_x_preferred":[
+        "Gnigl"
+    ],
+    "name:ger_x_preferred":[
+        "Gnigl"
+    ],
+    "name:nob_x_preferred":[
+        "Gnigl"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1108837079,
+        85632785,
+        101748065,
+        102049779,
+        85681681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778420,
+        "gp:id":547523,
+        "qs:id":475768,
+        "qs_pg:id":475768,
+        "wd:id":"Q1533227"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ef31abebf979872d7f7249034f05205e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101748065,
+            "neighbourhood_id":85898477,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":85898477,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1513889734,
+    "wof:name":"Gnigl",
+    "wof:parent_id":101748065,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06274414060005,
+    47.80946538397514,
+    13.07373046871885,
+    47.81352534910555
+],
+  "geometry": {"coordinates":[[[13.07197344017032,47.81352534910555],[13.07321859649511,47.81315451749906],[13.07373046870009,47.81315451750002],[13.07373046871459,47.81300207206253],[13.07373046870629,47.80946544950008],[13.07373046871885,47.80946538397514],[13.06823730467511,47.80946538397514],[13.06291459607581,47.80946538397514],[13.06291452273155,47.80946544950008],[13.06274414060005,47.80946544950008],[13.0627441406146,47.80961766685435],[13.06274414061807,47.81315445200006],[13.06274414060971,47.81315451750002],[13.06823730470006,47.81315451750002],[13.07122633045418,47.81315451750002],[13.07197344017032,47.81352534910555]]],"type":"Polygon"}
+}

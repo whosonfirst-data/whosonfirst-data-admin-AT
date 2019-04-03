@@ -1,0 +1,71 @@
+{
+  "id": 1209106465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94517,48.47258,13.94517,48.47258",
+    "geom:latitude":48.47258,
+    "geom:longitude":13.94517,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41304.0",
+    "gn:asciiname":"Hoerhag",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775527,
+    "gn:latitude":48.47258,
+    "gn:longitude":13.94517,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"H\u00f6rhag",
+    "gn:population":109,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00f6rhaag",
+        "H\u00f6rhag"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775527
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"43ac76c23a1b97ede0471fd284a823c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209106465
+        }
+    ],
+    "wof:id":1209106465,
+    "wof:lastmodified":1537584964,
+    "wof:name":"Hoerhag",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94517,
+    48.47258,
+    13.94517,
+    48.47258
+],
+  "geometry": {"coordinates":[13.94517,48.47258],"type":"Point"}
+}

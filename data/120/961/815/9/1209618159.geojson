@@ -1,0 +1,66 @@
+{
+  "id": 1209618159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36109,46.63995,13.36109,46.63995",
+    "geom:latitude":46.63995,
+    "geom:longitude":13.36109,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"203.0",
+    "gn:admin3_code":"20305.0",
+    "gn:asciiname":"Radnig",
+    "gn:country_code":"AT",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768102,
+    "gn:latitude":46.63995,
+    "gn:longitude":13.36109,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Radnig",
+    "gn:population":208,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768102
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"94ae597f582b9ca9e52ecc161059136e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209618159
+        }
+    ],
+    "wof:id":1209618159,
+    "wof:lastmodified":1536281614,
+    "wof:name":"Radnig",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":208,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36109,
+    46.63995,
+    13.36109,
+    46.63995
+],
+  "geometry": {"coordinates":[13.36109,46.63995],"type":"Point"}
+}

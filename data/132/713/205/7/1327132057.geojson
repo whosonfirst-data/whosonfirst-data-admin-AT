@@ -1,0 +1,74 @@
+{
+  "id": 1327132057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0,47.06667,15.0,47.06667",
+    "geom:latitude":47.06667,
+    "geom:longitude":15.0,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"616",
+    "gn:admin3_code":"61632.0",
+    "gn:asciiname":"Kemetberg",
+    "gn:country_code":"AT",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774542,
+    "gn:latitude":47.06667,
+    "gn:longitude":15.0,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kemetberg",
+    "gn:population":225,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838829,
+        85632785,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774542
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6132a605f9b5d23330da41891dd570d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108838829,
+            "locality_id":1327132057,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1327132057,
+    "wof:lastmodified":1536614279,
+    "wof:name":"Kemetberg",
+    "wof:parent_id":1108838829,
+    "wof:placetype":"locality",
+    "wof:population":225,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0,
+    47.06667,
+    15.0,
+    47.06667
+],
+  "geometry": {"coordinates":[15.0,47.06667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343754523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5,47.3,15.5,47.3",
+    "geom:latitude":47.3,
+    "geom:longitude":15.5,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61763.0",
+    "gn:asciiname":"Pernesreith",
+    "gn:country_code":"AT",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769072,
+    "gn:latitude":47.3,
+    "gn:longitude":15.5,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Pernesreith",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839383,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769072
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d2e1c322ba6067c44a95e4c12742c29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839383,
+            "locality_id":1343754523,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1343754523,
+    "wof:lastmodified":1536818622,
+    "wof:name":"Pernesreith",
+    "wof:parent_id":1108839383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5,
+    47.3,
+    15.5,
+    47.3
+],
+  "geometry": {"coordinates":[15.5,47.3],"type":"Point"}
+}

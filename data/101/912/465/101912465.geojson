@@ -1,0 +1,143 @@
+{
+  "id": 101912465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000015,
+    "geom:area_square_m":130836.233913,
+    "geom:bbox":"14.1589626534,46.6137590276,14.1656395165,46.6182103731",
+    "geom:latitude":46.615929,
+    "geom:longitude":14.163153,
+    "iso:country":"AT",
+    "lbl:latitude":46.616192,
+    "lbl:longitude":14.163938,
+    "mps:latitude":46.616192,
+    "mps:longitude":14.163938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:chi_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:dut_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:eng_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:fre_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:fur_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:ger_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:hun_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:ita_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0430-\u0412\u0451\u0440\u0442"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub9ac\uc544\ubd48\ub974\ud2b8"
+    ],
+    "name:nob_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:pol_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:por_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0430-\u0412\u0451\u0440\u0442"
+    ],
+    "name:slo_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:slv_x_preferred":[
+        "Otok"
+    ],
+    "name:swe_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:uzb_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:vol_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "name:war_x_preferred":[
+        "Maria W\u00f6rth"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*K\u00e4rnten",
+    "qs:a1r":"7",
+    "qs:a2":"Klagenfurt Land",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:id":0,
+    "qs:la":"Maria W\u00f6rth",
+    "qs:la_lc":"*AT20419",
+    "qs:level":"locality",
+    "qs:loc":"Maria W\u00f6rth",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":498,
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838183,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771894,
+        "gp:id":12673653,
+        "qs:id":1101758,
+        "wd:id":"Q664432"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3c9be2d06815dfec1bcd870a3a42ac6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838183,
+            "locality_id":101912465,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":101912465,
+    "wof:lastmodified":1534985832,
+    "wof:name":"Maria W\u00f6rth",
+    "wof:parent_id":1108838183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1175610433
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15896265339006,
+    46.61375902758272,
+    14.16563951653353,
+    46.61821037312978
+],
+  "geometry": {"coordinates":[[[14.15896265339006,46.61480462658579],[14.16414268914048,46.61821037312978],[14.16563951653353,46.61815238081073],[14.16535754077768,46.61455694470402],[14.16275244701421,46.61465788989614],[14.16268200460712,46.61375902758272],[14.16137947628727,46.61380947553732],[14.16144989677179,46.61470833883664],[14.15896265339006,46.61480462658579]]],"type":"Polygon"}
+}

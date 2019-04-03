@@ -1,0 +1,74 @@
+{
+  "id": 1310118999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45,46.65,14.45,46.65",
+    "geom:latitude":46.65,
+    "geom:longitude":14.45,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"204",
+    "gn:admin3_code":"20425.0",
+    "gn:asciiname":"Lanzendorf",
+    "gn:country_code":"AT",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772948,
+    "gn:latitude":46.65,
+    "gn:longitude":14.45,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lanzendorf",
+    "gn:population":131,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838191,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772948
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4a5c01e08923400c34dc7327d164aa2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838191,
+            "locality_id":1310118999,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310118999,
+    "wof:lastmodified":1536976392,
+    "wof:name":"Lanzendorf",
+    "wof:parent_id":1108838191,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45,
+    46.65,
+    14.45,
+    46.65
+],
+  "geometry": {"coordinates":[14.45,46.65],"type":"Point"}
+}

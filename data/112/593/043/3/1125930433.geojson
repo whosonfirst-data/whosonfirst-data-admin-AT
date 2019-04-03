@@ -1,0 +1,93 @@
+{
+  "id": 1125930433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05722,46.54778,14.05722,46.54778",
+    "geom:latitude":46.54778,
+    "geom:longitude":14.05722,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4481,
+    "gn:population":4481,
+    "iso:country":"AT",
+    "lbl:latitude":46.54778,
+    "lbl:longitude":14.05722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sveti Jakob"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2766675,
+    "qs_pg:gn_pop":4481,
+    "qs_pg:name":"St. Jakob",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":182369,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":540414,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838353,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766675,
+        "gp:id":540414,
+        "qs_pg:id":182369
+    },
+    "wof:country":"AT",
+    "wof:created":1497296787,
+    "wof:geomhash":"b445b9dd01d5f181d95e32c4b9bffbaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838353,
+            "locality_id":1125930433,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125930433,
+    "wof:lastmodified":1509401370,
+    "wof:name":"St. Jakob",
+    "wof:parent_id":1108838353,
+    "wof:placetype":"locality",
+    "wof:population":4481,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05722,
+    46.54778,
+    14.05722,
+    46.54778
+],
+  "geometry": {"coordinates":[14.05722,46.54778],"type":"Point"}
+}

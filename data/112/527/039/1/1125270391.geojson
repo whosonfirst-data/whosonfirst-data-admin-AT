@@ -1,0 +1,82 @@
+{
+  "id": 1125270391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29907,47.08892,15.29907,47.08892",
+    "geom:latitude":47.08892,
+    "geom:longitude":15.29907,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1144,
+    "gn:population":1207,
+    "iso:country":"AT",
+    "lbl:latitude":47.08892,
+    "lbl:longitude":15.29907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872343,
+    "qs_pg:gn_pop":1144,
+    "qs_pg:name":"Sankt Oswald bei Plankenwarth",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743377,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872343,
+        "qs_pg:id":743377
+    },
+    "wof:country":"AT",
+    "wof:created":1497042101,
+    "wof:geomhash":"ca5ce07f5a21cdd77908b6315eba6e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125270391,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125270391,
+    "wof:lastmodified":1536698109,
+    "wof:name":"Sankt Oswald bei Plankenwarth",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":1207,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839163
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29907,
+    47.08892,
+    15.29907,
+    47.08892
+],
+  "geometry": {"coordinates":[15.29907,47.08892],"type":"Point"}
+}

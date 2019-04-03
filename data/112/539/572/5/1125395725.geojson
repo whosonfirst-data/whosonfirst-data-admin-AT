@@ -1,0 +1,104 @@
+{
+  "id": 1125395725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39921,46.97018,15.39921,46.97018",
+    "geom:latitude":46.97018,
+    "geom:longitude":15.39921,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3443,
+    "gn:population":3443,
+    "iso:country":"AT",
+    "lbl:latitude":46.97018,
+    "lbl:longitude":15.39921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u043c\u0441\u0442\u0435\u0442\u0442\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Premst\u00e4tten"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873417,
+    "qs_pg:gn_pop":3443,
+    "qs_pg:name":"Unterpremst\u00e4tten",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":564,
+    "qs_pg:photos_1k":114,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":970,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1049005,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675143,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873417,
+        "gp:id":12675143,
+        "qs_pg:id":1049005
+    },
+    "wof:concordances_alt":{
+        "gn:id":2762714,
+        "qs_pg:id":902501
+    },
+    "wof:country":"AT",
+    "wof:created":1497049000,
+    "wof:geomhash":"bcfbfb017c0f5f6e4ed9014d49f441aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125395725,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125395725,
+    "wof:lastmodified":1536698231,
+    "wof:name":"Unterpremst\u00e4tten",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":3443,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839145
+    ],
+    "wof:supersedes":[
+        1125349343
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39921,
+    46.97018,
+    15.39921,
+    46.97018
+],
+  "geometry": {"coordinates":[15.39921,46.97018],"type":"Point"}
+}

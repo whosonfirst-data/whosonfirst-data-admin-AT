@@ -1,0 +1,111 @@
+{
+  "id": 85904337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":549356.026101,
+    "geom:bbox":"16.3339233398,48.1880634725,16.34765625,48.1963028256",
+    "geom:latitude":48.191444,
+    "geom:longitude":16.341099,
+    "gn:id":"",
+    "iso:country":"AT",
+    "lbl:latitude":48.191643,
+    "lbl:longitude":16.340805,
+    "mps:latitude":48.191333,
+    "mps:longitude":16.34123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"dup",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Gumpendonf"
+    ],
+    "name:unk_x_variant":[
+        "Gumpendonf"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_id":0,
+    "qs:gn_local":2761369,
+    "qs:gn_nam_loc":"Vienna",
+    "qs:gn_namadm1":"09",
+    "qs:local_max":53712,
+    "qs:local_sum":394557,
+    "qs:localhoods":125,
+    "qs:name":"Gumpendonf",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Wien",
+    "qs:name_adm2":"Wien",
+    "qs:name_lau":"Wien  6",
+    "qs:name_local":"Wien",
+    "qs:photo_max":109,
+    "qs:photo_sum":688,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344716,
+    "qs:woe_adm2":12591699,
+    "qs:woe_lau":12675694,
+    "qs:woe_local":551801,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20095436,
+        "qs:id":1230039,
+        "qs_pg:id":1230039
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a976f7c9ad52e58298e16d9e5c71d818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":85904337,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":85904337,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1527269209,
+    "wof:name":"Gumpendonf",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3339233398122,
+    48.18806347248027,
+    16.34765625000006,
+    48.19630282560003
+],
+  "geometry": {"coordinates":[[[16.34216308591834,48.18806347248027],[16.33941650390005,48.18806347248027],[16.33666992188625,48.18806347302517],[16.3366699218866,48.18989455156266],[16.33392333981902,48.18989455487149],[16.3339233398122,48.19172556615364],[16.33666992188108,48.19172556937168],[16.3366699218866,48.1935565151481],[16.33892062134788,48.19355651869601],[16.33912403427644,48.19447197060033],[16.33941650390005,48.19447197174806],[16.3407897949001,48.19447197213778],[16.3407897949001,48.1950154580036],[16.3407897949001,48.19538740830002],[16.34216308590004,48.19538740830002],[16.34216308590004,48.1963028252015],[16.34284973141285,48.19630282560003],[16.34353637700008,48.19630282560003],[16.34353637698558,48.19593087272132],[16.3435363769845,48.19538740575327],[16.34490966800001,48.19538740189874],[16.34540554333006,48.1953873981001],[16.34520213762363,48.19447197060033],[16.34540555285673,48.19355650832519],[16.34490966798552,48.19281263146668],[16.34490966798109,48.19172556937168],[16.34765625000006,48.19172556615364],[16.34765625000006,48.18989455487149],[16.3449096679866,48.18989455156266],[16.34490966798626,48.18806347302517],[16.34216308591834,48.18806347248027]]],"type":"Polygon"}
+}

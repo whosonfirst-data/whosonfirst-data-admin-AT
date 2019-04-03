@@ -1,0 +1,71 @@
+{
+  "id": 1276144333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,47.26667,15.86667,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":15.86667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"62275.0",
+    "gn:asciiname":"Safenthal",
+    "gn:country_code":"AT",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766892,
+    "gn:latitude":47.26667,
+    "gn:longitude":15.86667,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Safenthal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839107,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766892
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"adead2b1a33541fba938a290ed171659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839107,
+            "locality_id":1276144333,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276144333,
+    "wof:lastmodified":1537030661,
+    "wof:name":"Safenthal",
+    "wof:parent_id":1108839107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    47.26667,
+    15.86667,
+    47.26667
+],
+  "geometry": {"coordinates":[15.86667,47.26667],"type":"Point"}
+}

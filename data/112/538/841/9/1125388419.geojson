@@ -1,0 +1,103 @@
+{
+  "id": 1125388419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60447,46.82295,13.60447,46.82295",
+    "geom:latitude":46.82295,
+    "geom:longitude":13.60447,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3379,
+    "gn:population":3431,
+    "iso:country":"AT",
+    "lbl:latitude":46.82295,
+    "lbl:longitude":13.60447,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043b\u0449\u0430\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Millstatt am See"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u043b\u044c\u0441\u0442\u0430\u0442"
+    ],
+    "name:pol_x_preferred":[
+        "Millstatt am See"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u043b\u044c\u0448\u0442\u0430\u0442\u0442-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Millstatt am See"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5c14\u65bd\u5854\u7279"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872784,
+    "qs_pg:gn_pop":3379,
+    "qs_pg:name":"Millstatt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":381053,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872784,
+        "qs_pg:id":381053
+    },
+    "wof:country":"AT",
+    "wof:created":1497048551,
+    "wof:geomhash":"07d4ca39e8f57ac2d08ea6f0f9d5d110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1125388419,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125388419,
+    "wof:lastmodified":1534531050,
+    "wof:name":"Millstatt",
+    "wof:parent_id":102049701,
+    "wof:placetype":"localadmin",
+    "wof:population":3431,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838279
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60447,
+    46.82295,
+    13.60447,
+    46.82295
+],
+  "geometry": {"coordinates":[13.60447,46.82295],"type":"Point"}
+}

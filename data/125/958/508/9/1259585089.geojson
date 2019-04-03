@@ -1,0 +1,77 @@
+{
+  "id": 1259585089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18929,48.3257,15.18929,48.3257",
+    "geom:latitude":48.3257,
+    "geom:longitude":15.18929,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31534.0",
+    "gn:asciiname":"Bergern bei Poeggstall",
+    "gn:country_code":"AT",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781871,
+    "gn:latitude":48.3257,
+    "gn:longitude":15.18929,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bergern bei P\u00f6ggstall",
+    "gn:population":28,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bergern"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835923,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781871
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b20b9fb098c361604c419f37f2521288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835923,
+            "locality_id":1259585089,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259585089,
+    "wof:lastmodified":1537584982,
+    "wof:name":"Bergern bei Poeggstall",
+    "wof:parent_id":1108835923,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18929,
+    48.3257,
+    15.18929,
+    48.3257
+],
+  "geometry": {"coordinates":[15.18929,48.3257],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293001561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81694,48.55056,13.81694,48.55056",
+    "geom:latitude":48.55056,
+    "geom:longitude":13.81694,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41327.0",
+    "gn:asciiname":"Amesedt",
+    "gn:country_code":"AT",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319421,
+    "gn:latitude":48.55056,
+    "gn:longitude":13.81694,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Amesedt",
+    "gn:population":79,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835987,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319421
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"64905e2854225a4b28129d1fc8785233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835987,
+            "locality_id":1293001561,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293001561,
+    "wof:lastmodified":1536989718,
+    "wof:name":"Amesedt",
+    "wof:parent_id":1108835987,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81694,
+    48.55056,
+    13.81694,
+    48.55056
+],
+  "geometry": {"coordinates":[13.81694,48.55056],"type":"Point"}
+}

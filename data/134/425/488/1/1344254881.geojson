@@ -1,0 +1,74 @@
+{
+  "id": 1344254881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31667,46.78333,15.31667,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":15.31667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60347.0",
+    "gn:asciiname":"Otternitz",
+    "gn:country_code":"AT",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769335,
+    "gn:latitude":46.78333,
+    "gn:longitude":15.31667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Otternitz",
+    "gn:population":180,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839283,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769335
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e53318386a81cd1ee10cbac7c145447b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839283,
+            "locality_id":1344254881,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1344254881,
+    "wof:lastmodified":1537089087,
+    "wof:name":"Otternitz",
+    "wof:parent_id":1108839283,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31667,
+    46.78333,
+    15.31667,
+    46.78333
+],
+  "geometry": {"coordinates":[15.31667,46.78333],"type":"Point"}
+}

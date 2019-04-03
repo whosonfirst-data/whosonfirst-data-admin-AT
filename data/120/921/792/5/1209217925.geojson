@@ -1,0 +1,63 @@
+{
+  "id": 1209217925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26034,46.70821,14.26034,46.70821",
+    "geom:latitude":46.70821,
+    "geom:longitude":14.26034,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20515.0",
+    "gn:asciiname":"Baerndorf",
+    "gn:country_code":"AT",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612027,
+    "gn:latitude":46.70821,
+    "gn:longitude":14.26034,
+    "gn:modification_date":"2017-07-27",
+    "gn:name":"B\u00e4rndorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612027
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"81d92d2f50543be463763e0f9726d79a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209217925
+        }
+    ],
+    "wof:id":1209217925,
+    "wof:lastmodified":1536294066,
+    "wof:name":"Baerndorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26034,
+    46.70821,
+    14.26034,
+    46.70821
+],
+  "geometry": {"coordinates":[14.26034,46.70821],"type":"Point"}
+}

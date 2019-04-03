@@ -1,0 +1,74 @@
+{
+  "id": 1326838951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12554,46.71436,14.12554,46.71436",
+    "geom:latitude":46.71436,
+    "geom:longitude":14.12554,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Persching",
+    "gn:country_code":"AT",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591924,
+    "gn:latitude":46.71436,
+    "gn:longitude":14.12554,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Persching",
+    "gn:population":58,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591924
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"aaab14b4938fd0f939319f2c61267fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":1326838951,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1326838951,
+    "wof:lastmodified":1537037386,
+    "wof:name":"Persching",
+    "wof:parent_id":1108838123,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12554,
+    46.71436,
+    14.12554,
+    46.71436
+],
+  "geometry": {"coordinates":[14.12554,46.71436],"type":"Point"}
+}

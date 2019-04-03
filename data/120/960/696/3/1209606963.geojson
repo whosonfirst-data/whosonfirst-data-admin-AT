@@ -1,0 +1,63 @@
+{
+  "id": 1209606963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41667,47.35,12.41667,47.35",
+    "geom:latitude":47.35,
+    "geom:longitude":12.41667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"704",
+    "gn:admin3_code":"70408.0",
+    "gn:asciiname":"Astach",
+    "gn:country_code":"AT",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3323963,
+    "gn:latitude":47.35,
+    "gn:longitude":12.41667,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Astach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3323963
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"394349d0b4d51b0c638fee3f4c9c2495",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209606963
+        }
+    ],
+    "wof:id":1209606963,
+    "wof:lastmodified":1536281979,
+    "wof:name":"Astach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41667,
+    47.35,
+    12.41667,
+    47.35
+],
+  "geometry": {"coordinates":[12.41667,47.35],"type":"Point"}
+}

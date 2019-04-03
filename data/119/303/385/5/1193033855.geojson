@@ -1,0 +1,71 @@
+{
+  "id": 1193033855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15,47.16667,16.15,47.16667",
+    "geom:latitude":47.16667,
+    "geom:longitude":16.15,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10414.0",
+    "gn:asciiname":"Vorderfrauenberg",
+    "gn:country_code":"AT",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762231,
+    "gn:latitude":47.16667,
+    "gn:longitude":16.15,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Vorderfrauenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838447,
+        85632785,
+        102049729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762231
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2c6f534fa94c9d29486f7aba5b34f3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838447,
+            "locality_id":1193033855,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1193033855,
+    "wof:lastmodified":1536383147,
+    "wof:name":"Vorderfrauenberg",
+    "wof:parent_id":1108838447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15,
+    47.16667,
+    16.15,
+    47.16667
+],
+  "geometry": {"coordinates":[16.15,47.16667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310398899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06951,47.36066,15.06951,47.36066",
+    "geom:latitude":47.36066,
+    "geom:longitude":15.06951,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"611",
+    "gn:admin3_code":"61108.0",
+    "gn:asciiname":"Hinterberg",
+    "gn:country_code":"AT",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593207,
+    "gn:latitude":47.36066,
+    "gn:longitude":15.06951,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hinterberg",
+    "gn:population":1050,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839009,
+        85632785,
+        102049769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593207
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"51c4120580e64f5e4353788155576662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108839009,
+            "locality_id":1310398899,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310398899,
+    "wof:lastmodified":1537067830,
+    "wof:name":"Hinterberg",
+    "wof:parent_id":1108839009,
+    "wof:placetype":"locality",
+    "wof:population":1050,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06951,
+    47.36066,
+    15.06951,
+    47.36066
+],
+  "geometry": {"coordinates":[15.06951,47.36066],"type":"Point"}
+}

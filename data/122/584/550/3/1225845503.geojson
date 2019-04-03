@@ -1,0 +1,79 @@
+{
+  "id": 1225845503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11248,48.1802,14.11248,48.1802",
+    "geom:latitude":48.1802,
+    "geom:longitude":14.11248,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"418",
+    "gn:admin3_code":"41812.0",
+    "gn:asciiname":"Au an der Traun",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782241,
+    "gn:latitude":48.1802,
+    "gn:longitude":14.11248,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Au an der Traun",
+    "gn:population":1864,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Au",
+        "Au an der Traun"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836561,
+        85632785,
+        102049831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782241
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"744ee7230ff54c3600cb8230af6598fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049831,
+            "localadmin_id":1108836561,
+            "locality_id":1225845503,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225845503,
+    "wof:lastmodified":1537584984,
+    "wof:name":"Au an der Traun",
+    "wof:parent_id":1108836561,
+    "wof:placetype":"locality",
+    "wof:population":1864,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11248,
+    48.1802,
+    14.11248,
+    48.1802
+],
+  "geometry": {"coordinates":[14.11248,48.1802],"type":"Point"}
+}

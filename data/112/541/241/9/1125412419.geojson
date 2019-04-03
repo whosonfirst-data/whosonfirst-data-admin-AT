@@ -1,0 +1,108 @@
+{
+  "id": 1125412419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.20422,47.50407,12.20422,47.50407",
+    "geom:latitude":47.50407,
+    "geom:longitude":12.20422,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3542,
+    "gn:population":3641,
+    "iso:country":"AT",
+    "lbl:latitude":47.50407,
+    "lbl:longitude":12.20422,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0417\u0451\u043b\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0451\u043b\u043b\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043b\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u745f\u5c14"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873657,
+    "qs_pg:gn_pop":3542,
+    "qs_pg:name":"S\u00f6ll",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Tirol",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1251,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":242331,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675396,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Tirol",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681661,
+        102049771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873657,
+        "gp:id":12675396,
+        "qs_pg:id":242331
+    },
+    "wof:country":"AT",
+    "wof:created":1497050626,
+    "wof:geomhash":"d16f5590327b5d90a77b66c7a7ad6491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049771,
+            "localadmin_id":1125412419,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125412419,
+    "wof:lastmodified":1534379099,
+    "wof:name":"S\u00f6ll",
+    "wof:parent_id":102049771,
+    "wof:placetype":"localadmin",
+    "wof:population":3641,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837267
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.20422,
+    47.50407,
+    12.20422,
+    47.50407
+],
+  "geometry": {"coordinates":[12.20422,47.50407],"type":"Point"}
+}

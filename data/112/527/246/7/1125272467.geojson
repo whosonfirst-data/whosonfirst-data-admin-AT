@@ -1,0 +1,82 @@
+{
+  "id": 1125272467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08521,47.17349,16.08521,47.17349",
+    "geom:latitude":47.17349,
+    "geom:longitude":16.08521,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1289,
+    "gn:population":1459,
+    "iso:country":"AT",
+    "lbl:latitude":47.17349,
+    "lbl:longitude":16.08521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873432,
+    "qs_pg:gn_pop":1289,
+    "qs_pg:name":"Neudau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1245879,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873432,
+        "qs_pg:id":1245879
+    },
+    "wof:country":"AT",
+    "wof:created":1497042182,
+    "wof:geomhash":"eb4aa0fca409895e71959bab59dab349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1125272467,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125272467,
+    "wof:lastmodified":1534531007,
+    "wof:name":"Neudau",
+    "wof:parent_id":1108892549,
+    "wof:placetype":"localadmin",
+    "wof:population":1459,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839111
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08521,
+    47.17349,
+    16.08521,
+    47.17349
+],
+  "geometry": {"coordinates":[16.08521,47.17349],"type":"Point"}
+}

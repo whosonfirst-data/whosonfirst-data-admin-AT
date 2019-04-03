@@ -1,0 +1,82 @@
+{
+  "id": 1125274637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.72797,47.20551,12.72797,47.20551",
+    "geom:latitude":47.20551,
+    "geom:longitude":12.72797,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2967,
+    "gn:population":3160,
+    "iso:country":"AT",
+    "lbl:latitude":47.20551,
+    "lbl:longitude":12.72797,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872239,
+    "qs_pg:gn_pop":2967,
+    "qs_pg:name":"Kaprun",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1042108,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872239,
+        "qs_pg:id":1042108
+    },
+    "wof:country":"AT",
+    "wof:created":1497042263,
+    "wof:geomhash":"a13d3faa868cc5c029f3760798f9bd9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125274637,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125274637,
+    "wof:lastmodified":1534379173,
+    "wof:name":"Kaprun",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:population":3160,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837205
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.72797,
+    47.20551,
+    12.72797,
+    47.20551
+],
+  "geometry": {"coordinates":[12.72797,47.20551],"type":"Point"}
+}

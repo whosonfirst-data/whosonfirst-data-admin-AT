@@ -1,0 +1,71 @@
+{
+  "id": 1343881229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.68333,47.3,12.68333,47.3",
+    "geom:latitude":47.3,
+    "geom:longitude":12.68333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50616.0",
+    "gn:asciiname":"Friedensbach",
+    "gn:country_code":"AT",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779241,
+    "gn:latitude":47.3,
+    "gn:longitude":12.68333,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Friedensbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837227,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779241
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"96e4c612a8e13fa22c6a4da96f698cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837227,
+            "locality_id":1343881229,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1343881229,
+    "wof:lastmodified":1536635412,
+    "wof:name":"Friedensbach",
+    "wof:parent_id":1108837227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.68333,
+    47.3,
+    12.68333,
+    47.3
+],
+  "geometry": {"coordinates":[12.68333,47.3],"type":"Point"}
+}

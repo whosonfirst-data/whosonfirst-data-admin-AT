@@ -1,0 +1,77 @@
+{
+  "id": 1243376329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57027,46.61136,14.57027,46.61136",
+    "geom:latitude":46.61136,
+    "geom:longitude":14.57027,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20813.0",
+    "gn:asciiname":"Seelach am Klopeinersee",
+    "gn:country_code":"AT",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692404,
+    "gn:latitude":46.61136,
+    "gn:longitude":14.57027,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Seelach am Klopeinersee",
+    "gn:population":305,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Seelach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838387,
+        85632785,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692404
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fa819b18d1e49316b35a8a2b3dfec8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1108838387,
+            "locality_id":1243376329,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1243376329,
+    "wof:lastmodified":1537486396,
+    "wof:name":"Seelach am Klopeinersee",
+    "wof:parent_id":1108838387,
+    "wof:placetype":"locality",
+    "wof:population":305,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57027,
+    46.61136,
+    14.57027,
+    46.61136
+],
+  "geometry": {"coordinates":[14.57027,46.61136],"type":"Point"}
+}

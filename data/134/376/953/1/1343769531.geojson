@@ -1,0 +1,74 @@
+{
+  "id": 1343769531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8728,48.19436,15.8728,48.19436",
+    "geom:latitude":48.19436,
+    "geom:longitude":15.8728,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31926.0",
+    "gn:asciiname":"Laa an der Tulln",
+    "gn:country_code":"AT",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611877,
+    "gn:latitude":48.19436,
+    "gn:longitude":15.8728,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Laa an der Tulln",
+    "gn:population":53,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834967,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611877
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c15f8f1f7395b5f7fab8453b56bd7e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834967,
+            "locality_id":1343769531,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343769531,
+    "wof:lastmodified":1536797930,
+    "wof:name":"Laa an der Tulln",
+    "wof:parent_id":1108834967,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8728,
+    48.19436,
+    15.8728,
+    48.19436
+],
+  "geometry": {"coordinates":[15.8728,48.19436],"type":"Point"}
+}

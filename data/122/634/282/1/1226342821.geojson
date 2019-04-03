@@ -1,0 +1,74 @@
+{
+  "id": 1226342821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5273,48.03956,13.5273,48.03956",
+    "geom:latitude":48.03956,
+    "geom:longitude":13.5273,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41716.0",
+    "gn:asciiname":"Jagersberg",
+    "gn:country_code":"AT",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609519,
+    "gn:latitude":48.03956,
+    "gn:longitude":13.5273,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Jagersberg",
+    "gn:population":39,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836453,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609519
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"725d4a3c9b2482d173be25585d1e502c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836453,
+            "locality_id":1226342821,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226342821,
+    "wof:lastmodified":1536793973,
+    "wof:name":"Jagersberg",
+    "wof:parent_id":1108836453,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5273,
+    48.03956,
+    13.5273,
+    48.03956
+],
+  "geometry": {"coordinates":[13.5273,48.03956],"type":"Point"}
+}

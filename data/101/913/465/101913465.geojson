@@ -1,0 +1,75 @@
+{
+  "id": 101913465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":653007.41857,
+    "geom:bbox":"16.4806836849,48.2913179054,16.4890348181,48.3079032659",
+    "geom:latitude":48.299439,
+    "geom:longitude":16.484612,
+    "iso:country":"AT",
+    "lbl:latitude":48.301611,
+    "lbl:longitude":16.485372,
+    "mps:latitude":48.301611,
+    "mps:longitude":16.485372,
+    "mz:hierarchy_label":1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Nieder\u00f6sterreich",
+    "qs:a1r":"0",
+    "qs:a2":"Wien - Umgebung",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Wien",
+    "qs:la_lc":"*AT90001",
+    "qs:level":"locality",
+    "qs:loc":"Gerasdorf",
+    "qs:loc_alt":"Gerasdorf",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836239,
+        85632785,
+        102049871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":542302,
+        "qs:id":7
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"aed79cd72649cc7cec6eba8f3895d6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049871,
+            "localadmin_id":1108836239,
+            "locality_id":101913465,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":101913465,
+    "wof:lastmodified":1496611940,
+    "wof:name":"Gerasdorf",
+    "wof:parent_id":1108836239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48068368488151,
+    48.29131790539049,
+    16.48903481814642,
+    48.30790326586958
+],
+  "geometry": {"coordinates":[[[16.48198770544258,48.29131790539049],[16.48068368488151,48.29366514240002],[16.48093492093835,48.29365038725535],[16.4825496601685,48.3061907397929],[16.48389289447647,48.3061117985589],[16.48412370186247,48.30790326586958],[16.48546697952651,48.30782430509339],[16.48512070547673,48.30513710818889],[16.4878071077809,48.30497914740528],[16.48769164632432,48.30408341728764],[16.48903481814642,48.30400441404902],[16.48834201715385,48.29863003202246],[16.4869989868356,48.29870902556149],[16.48676814195107,48.29691755745392],[16.48542515496723,48.29699653145406],[16.48496362190764,48.29341358247387],[16.48899228846142,48.29317663094724],[16.4888768474699,48.29228089723762],[16.48350537871301,48.29259679353322],[16.48339003721469,48.29170105283492],[16.48204718404025,48.2917799845327],[16.48198770544258,48.29131790539049]]],"type":"Polygon"}
+}

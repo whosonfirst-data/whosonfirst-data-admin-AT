@@ -1,0 +1,77 @@
+{
+  "id": 1344268597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37931,48.17856,15.37931,48.17856",
+    "geom:latitude":48.17856,
+    "geom:longitude":15.37931,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31543.0",
+    "gn:asciiname":"Gross-Schollach",
+    "gn:country_code":"AT",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777599,
+    "gn:latitude":48.17856,
+    "gn:longitude":15.37931,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gro\u00df-Schollach",
+    "gn:population":209,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Grossschollach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836383,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777599
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2fcc8fe25cb462550d1459e6e23016c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836383,
+            "locality_id":1344268597,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344268597,
+    "wof:lastmodified":1537584970,
+    "wof:name":"Gross-Schollach",
+    "wof:parent_id":1108836383,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37931,
+    48.17856,
+    15.37931,
+    48.17856
+],
+  "geometry": {"coordinates":[15.37931,48.17856],"type":"Point"}
+}

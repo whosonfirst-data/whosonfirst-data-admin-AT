@@ -1,0 +1,66 @@
+{
+  "id": 1209106655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85179,48.12376,13.85179,48.12376",
+    "geom:latitude":48.12376,
+    "geom:longitude":13.85179,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"418",
+    "gn:admin3_code":"41815.0",
+    "gn:asciiname":"Krexham",
+    "gn:country_code":"AT",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609311,
+    "gn:latitude":48.12376,
+    "gn:longitude":13.85179,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Krexham",
+    "gn:population":60,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609311
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3b82fc0f058e5b402b6cd30fdf6b07f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209106655
+        }
+    ],
+    "wof:id":1209106655,
+    "wof:lastmodified":1536297548,
+    "wof:name":"Krexham",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85179,
+    48.12376,
+    13.85179,
+    48.12376
+],
+  "geometry": {"coordinates":[13.85179,48.12376],"type":"Point"}
+}

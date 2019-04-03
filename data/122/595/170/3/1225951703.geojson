@@ -1,0 +1,78 @@
+{
+  "id": 1225951703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64134,48.05399,14.64134,48.05399",
+    "geom:latitude":48.05399,
+    "geom:longitude":14.64134,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30530.0",
+    "gn:asciiname":"Sankt Peter in der Au Dorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766436,
+    "gn:latitude":48.05399,
+    "gn:longitude":14.64134,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Sankt Peter in der Au Dorf",
+    "gn:population":737,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "St. Peter in der Au-Dorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835399,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766436
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a048d74ea1f14ebfdca6976bc7db3a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835399,
+            "locality_id":1225951703,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1225951703,
+    "wof:lastmodified":1537584930,
+    "wof:name":"Sankt Peter in der Au Dorf",
+    "wof:parent_id":1108835399,
+    "wof:placetype":"locality",
+    "wof:population":737,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64134,
+    48.05399,
+    14.64134,
+    48.05399
+],
+  "geometry": {"coordinates":[14.64134,48.05399],"type":"Point"}
+}

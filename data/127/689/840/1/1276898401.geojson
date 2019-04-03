@@ -1,0 +1,74 @@
+{
+  "id": 1276898401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08545,48.21366,13.08545,48.21366",
+    "geom:latitude":48.21366,
+    "geom:longitude":13.08545,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40405.0",
+    "gn:asciiname":"Maxedt",
+    "gn:country_code":"AT",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610784,
+    "gn:latitude":48.21366,
+    "gn:longitude":13.08545,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Maxedt",
+    "gn:population":12,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834717,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610784
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"456b909e83d3f9b2081e1731c4574a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834717,
+            "locality_id":1276898401,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276898401,
+    "wof:lastmodified":1537015644,
+    "wof:name":"Maxedt",
+    "wof:parent_id":1108834717,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08545,
+    48.21366,
+    13.08545,
+    48.21366
+],
+  "geometry": {"coordinates":[13.08545,48.21366],"type":"Point"}
+}

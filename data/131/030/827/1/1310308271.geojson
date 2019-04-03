@@ -1,0 +1,74 @@
+{
+  "id": 1310308271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43333,46.58333,14.43333,46.58333",
+    "geom:latitude":46.58333,
+    "geom:longitude":14.43333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20402.0",
+    "gn:asciiname":"Untermieger",
+    "gn:country_code":"AT",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762775,
+    "gn:latitude":46.58333,
+    "gn:longitude":14.43333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Untermieger",
+    "gn:population":36,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838227,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762775
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3e9668e8d2164bd4bfac5c52117e3df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838227,
+            "locality_id":1310308271,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310308271,
+    "wof:lastmodified":1536704167,
+    "wof:name":"Untermieger",
+    "wof:parent_id":1108838227,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43333,
+    46.58333,
+    14.43333,
+    46.58333
+],
+  "geometry": {"coordinates":[14.43333,46.58333],"type":"Point"}
+}

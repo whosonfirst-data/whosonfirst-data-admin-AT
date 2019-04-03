@@ -1,0 +1,76 @@
+{
+  "id": 1310593775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2,47.2,14.2,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":14.2,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61425.0",
+    "gn:asciiname":"Im Dorfl",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775317,
+    "gn:latitude":47.2,
+    "gn:longitude":14.2,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Im D\u00f6rfl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00f6rfl",
+        "Im D\u00f6rfl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838795,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775317
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"50da68ffb99d4476a9a75eb0ddec9fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838795,
+            "locality_id":1310593775,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310593775,
+    "wof:lastmodified":1537584964,
+    "wof:name":"Im Dorfl",
+    "wof:parent_id":1108838795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2,
+    47.2,
+    14.2,
+    47.2
+],
+  "geometry": {"coordinates":[14.2,47.2],"type":"Point"}
+}

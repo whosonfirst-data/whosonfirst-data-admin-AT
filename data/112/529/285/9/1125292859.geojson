@@ -1,0 +1,110 @@
+{
+  "id": 1125292859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,48.13333,15.13333,48.13333",
+    "geom:latitude":48.13333,
+    "geom:longitude":15.13333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.13333,
+    "lbl:longitude":15.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0437\u0435\u043b\u044c\u0431\u0443\u0440\u0433"
+    ],
+    "name:nah_x_preferred":[
+        "\u014cm\u0101t\u014dy\u0101c"
+    ],
+    "name:por_x_preferred":[
+        "Viselburgo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0437\u0435\u043b\u044c\u0431\u0443\u0440\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Wieselburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u745f\u5c14\u5821"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2761314,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Wieselburg-Land",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":26339,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673810,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761314,
+        "gp:id":12673810,
+        "qs_pg:id":26339
+    },
+    "wof:country":"AT",
+    "wof:created":1497043004,
+    "wof:geomhash":"21fc8c28258b0517f6908ab7049a2c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1125292859,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125292859,
+    "wof:lastmodified":1534531016,
+    "wof:name":"Wieselburg-Land",
+    "wof:parent_id":102049825,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836719
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    48.13333,
+    15.13333,
+    48.13333
+],
+  "geometry": {"coordinates":[15.13333,48.13333],"type":"Point"}
+}

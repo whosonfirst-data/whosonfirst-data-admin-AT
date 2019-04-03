@@ -1,0 +1,80 @@
+{
+  "id": 1276348719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5,46.68333,14.5,46.68333",
+    "geom:latitude":46.68333,
+    "geom:longitude":14.5,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20425.0",
+    "gn:asciiname":"Sankt Michael ob der Gurk",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766494,
+    "gn:latitude":46.68333,
+    "gn:longitude":14.5,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Michael ob der Gurk",
+    "gn:population":75,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Windisch Sankt Michael",
+        "Sankt Michael",
+        "Sankt Michael ob der Gurk"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838191,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766494
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1312f29c0f304c121c669c441466ef3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838191,
+            "locality_id":1276348719,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1276348719,
+    "wof:lastmodified":1537584931,
+    "wof:name":"Sankt Michael ob der Gurk",
+    "wof:parent_id":1108838191,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5,
+    46.68333,
+    14.5,
+    46.68333
+],
+  "geometry": {"coordinates":[14.5,46.68333],"type":"Point"}
+}

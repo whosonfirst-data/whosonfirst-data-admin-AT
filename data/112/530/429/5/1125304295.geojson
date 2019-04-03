@@ -1,0 +1,104 @@
+{
+  "id": 1125304295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03333,48.05,17.03333,48.05",
+    "geom:latitude":48.05,
+    "geom:longitude":17.03333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.05,
+    "lbl:longitude":17.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Pama"
+    ],
+    "name:hrv_x_preferred":[
+        "Bijelo Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Lajtak\u00f6rtv\u00e9lyes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043c\u0430"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2769259,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pama",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Burgenland",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":535455,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673488,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Burgenland",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769259,
+        "gp:id":12673488,
+        "qs_pg:id":535455
+    },
+    "wof:country":"AT",
+    "wof:created":1497043604,
+    "wof:geomhash":"58532092c00393834ea2e48876d3130f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1125304295,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125304295,
+    "wof:lastmodified":1534531021,
+    "wof:name":"Pama",
+    "wof:parent_id":102049841,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838405
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03333,
+    48.05,
+    17.03333,
+    48.05
+],
+  "geometry": {"coordinates":[17.03333,48.05],"type":"Point"}
+}

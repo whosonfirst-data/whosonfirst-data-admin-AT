@@ -1,0 +1,74 @@
+{
+  "id": 1327031779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31133,48.48552,15.31133,48.48552",
+    "geom:latitude":48.48552,
+    "geom:longitude":15.31133,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"313",
+    "gn:admin3_code":"31324.0",
+    "gn:asciiname":"Gloden",
+    "gn:country_code":"AT",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778458,
+    "gn:latitude":48.48552,
+    "gn:longitude":15.31133,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Gloden",
+    "gn:population":80,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835297,
+        85632785,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778458
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8b2e4adb0363b1ff5023fdd8154f18f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108835297,
+            "locality_id":1327031779,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327031779,
+    "wof:lastmodified":1536761578,
+    "wof:name":"Gloden",
+    "wof:parent_id":1108835297,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31133,
+    48.48552,
+    15.31133,
+    48.48552
+],
+  "geometry": {"coordinates":[15.31133,48.48552],"type":"Point"}
+}

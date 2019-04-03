@@ -1,0 +1,66 @@
+{
+  "id": 1209412819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,46.8,15.63333,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"610",
+    "gn:admin3_code":"61056.0",
+    "gn:asciiname":"Leitersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772716,
+    "gn:latitude":46.8,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Leitersdorf",
+    "gn:population":133,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772716
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e0891667d7af85da798c1d26cf93c8af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209412819
+        }
+    ],
+    "wof:id":1209412819,
+    "wof:lastmodified":1536287783,
+    "wof:name":"Leitersdorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    46.8,
+    15.63333,
+    46.8
+],
+  "geometry": {"coordinates":[15.63333,46.8],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242578109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26583,48.26417,14.26583,48.26417",
+    "geom:latitude":48.26417,
+    "geom:longitude":14.26583,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"410",
+    "gn:admin3_code":"41012.0",
+    "gn:asciiname":"Kinderdorf Sankt Isidor",
+    "gn:country_code":"AT",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3321853,
+    "gn:latitude":48.26417,
+    "gn:longitude":14.26583,
+    "gn:modification_date":"2018-07-30",
+    "gn:name":"Kinderdorf Sankt Isidor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Isidor",
+        "Kinderdorf Sankt Isidor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835543,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3321853
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0b4a13e2bd1beecda44b25d81153a8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835543,
+            "locality_id":1242578109,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1242578109,
+    "wof:lastmodified":1537584988,
+    "wof:name":"Kinderdorf Sankt Isidor",
+    "wof:parent_id":1108835543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26583,
+    48.26417,
+    14.26583,
+    48.26417
+],
+  "geometry": {"coordinates":[14.26583,48.26417],"type":"Point"}
+}

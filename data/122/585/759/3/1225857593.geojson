@@ -1,0 +1,74 @@
+{
+  "id": 1225857593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73333,46.63333,13.73333,46.63333",
+    "geom:latitude":46.63333,
+    "geom:longitude":13.73333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"207",
+    "gn:admin3_code":"20705.0",
+    "gn:asciiname":"Kadutschen",
+    "gn:country_code":"AT",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774990,
+    "gn:latitude":46.63333,
+    "gn:longitude":13.73333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kadutschen",
+    "gn:population":64,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838327,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774990
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"329b36dd0e9fd338bddf77b01a0d3ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838327,
+            "locality_id":1225857593,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1225857593,
+    "wof:lastmodified":1536995727,
+    "wof:name":"Kadutschen",
+    "wof:parent_id":1108838327,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73333,
+    46.63333,
+    13.73333,
+    46.63333
+],
+  "geometry": {"coordinates":[13.73333,46.63333],"type":"Point"}
+}

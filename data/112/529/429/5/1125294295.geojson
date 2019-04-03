@@ -1,0 +1,82 @@
+{
+  "id": 1125294295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24585,46.68483,15.24585,46.68483",
+    "geom:latitude":46.68483,
+    "geom:longitude":15.24585,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1396,
+    "gn:population":6575,
+    "iso:country":"AT",
+    "lbl:latitude":46.68483,
+    "lbl:longitude":15.24585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872262,
+    "qs_pg:gn_pop":1396,
+    "qs_pg:name":"Eibiswald",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1245736,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872262,
+        "qs_pg:id":1245736
+    },
+    "wof:country":"AT",
+    "wof:created":1497043066,
+    "wof:geomhash":"939e235032a1f225341659aead0689f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125294295,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125294295,
+    "wof:lastmodified":1534379198,
+    "wof:name":"Eibiswald",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:population":6575,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839299
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24585,
+    46.68483,
+    15.24585,
+    46.68483
+],
+  "geometry": {"coordinates":[15.24585,46.68483],"type":"Point"}
+}

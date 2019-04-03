@@ -1,0 +1,82 @@
+{
+  "id": 1125272995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25736,48.11895,16.25736,48.11895",
+    "geom:latitude":48.11895,
+    "geom:longitude":16.25736,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":14460,
+    "gn:population":14961,
+    "iso:country":"AT",
+    "lbl:latitude":48.11895,
+    "lbl:longitude":16.25736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871856,
+    "qs_pg:gn_pop":14460,
+    "qs_pg:name":"Perchtoldsdorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":108404,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871856,
+        "qs_pg:id":108404
+    },
+    "wof:country":"AT",
+    "wof:created":1497042208,
+    "wof:geomhash":"7f12dab2b125b67d478c46ebf87333a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1125272995,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125272995,
+    "wof:lastmodified":1534530976,
+    "wof:name":"Perchtoldsdorf",
+    "wof:parent_id":102049837,
+    "wof:placetype":"localadmin",
+    "wof:population":14961,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835283
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25736,
+    48.11895,
+    16.25736,
+    48.11895
+],
+  "geometry": {"coordinates":[16.25736,48.11895],"type":"Point"}
+}

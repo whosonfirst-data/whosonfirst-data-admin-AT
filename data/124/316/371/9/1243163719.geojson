@@ -1,0 +1,74 @@
+{
+  "id": 1243163719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.64054,46.77981,12.64054,46.77981",
+    "geom:latitude":46.77981,
+    "geom:longitude":12.64054,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70705.0",
+    "gn:asciiname":"Thal-Wilfern",
+    "gn:country_code":"AT",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592307,
+    "gn:latitude":46.77981,
+    "gn:longitude":12.64054,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Thal-Wilfern",
+    "gn:population":106,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837489,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592307
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"469c31f17563790b43a39ae766716a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837489,
+            "locality_id":1243163719,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1243163719,
+    "wof:lastmodified":1536716564,
+    "wof:name":"Thal-Wilfern",
+    "wof:parent_id":1108837489,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.64054,
+    46.77981,
+    12.64054,
+    46.77981
+],
+  "geometry": {"coordinates":[12.64054,46.77981],"type":"Point"}
+}

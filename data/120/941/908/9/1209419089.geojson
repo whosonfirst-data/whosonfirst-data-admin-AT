@@ -1,0 +1,66 @@
+{
+  "id": 1209419089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40469,47.42873,16.40469,47.42873",
+    "geom:latitude":47.42873,
+    "geom:longitude":16.40469,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"108",
+    "gn:admin3_code":"10809.0",
+    "gn:asciiname":"Hochstrass",
+    "gn:country_code":"AT",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551055,
+    "gn:latitude":47.42873,
+    "gn:longitude":16.40469,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hochstra\u00df",
+    "gn:population":201,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551055
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"71b564ad662e8c6f3687975896faf864",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209419089
+        }
+    ],
+    "wof:id":1209419089,
+    "wof:lastmodified":1536287590,
+    "wof:name":"Hochstrass",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":201,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40469,
+    47.42873,
+    16.40469,
+    47.42873
+],
+  "geometry": {"coordinates":[16.40469,47.42873],"type":"Point"}
+}

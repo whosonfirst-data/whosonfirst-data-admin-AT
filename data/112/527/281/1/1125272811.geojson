@@ -1,0 +1,94 @@
+{
+  "id": 1125272811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35967,47.86577,15.35967,47.86577",
+    "geom:latitude":47.86577,
+    "geom:longitude":15.35967,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":649,
+    "gn:population":545,
+    "iso:country":"AT",
+    "lbl:latitude":47.86577,
+    "lbl:longitude":15.35967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u043d\u0430\u0431\u0435\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043d\u0430\u0431\u0435\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u043d\u0430\u0431\u0435\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u7eb3\u8d1d\u683c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871809,
+    "qs_pg:gn_pop":649,
+    "qs_pg:name":"Annaberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108381,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871809,
+        "qs_pg:id":108381
+    },
+    "wof:country":"AT",
+    "wof:created":1497042195,
+    "wof:geomhash":"9b8960f936799f75502d6852f51279fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1125272811,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125272811,
+    "wof:lastmodified":1534531008,
+    "wof:name":"Annaberg",
+    "wof:parent_id":102049823,
+    "wof:placetype":"localadmin",
+    "wof:population":545,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836793
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35967,
+    47.86577,
+    15.35967,
+    47.86577
+],
+  "geometry": {"coordinates":[15.35967,47.86577],"type":"Point"}
+}

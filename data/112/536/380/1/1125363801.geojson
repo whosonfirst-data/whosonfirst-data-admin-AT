@@ -1,0 +1,86 @@
+{
+  "id": 1125363801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.544441,47.817243,15.544441,47.817243",
+    "geom:latitude":47.817243,
+    "geom:longitude":15.544441,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.817243,
+    "lbl:longitude":15.544441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St. Aegyd am Neuwalde",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":361,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1168395,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673971,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12673971,
+        "qs_pg:id":1168395
+    },
+    "wof:country":"AT",
+    "wof:created":1497046957,
+    "wof:geomhash":"b8ce745f0c320a9e6bb03ab7858e7b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1125363801,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125363801,
+    "wof:lastmodified":1534379110,
+    "wof:name":"St. Aegyd am Neuwalde",
+    "wof:parent_id":102049823,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836245
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.544441,
+    47.817243,
+    15.544441,
+    47.817243
+],
+  "geometry": {"coordinates":[15.544441,47.817243],"type":"Point"}
+}

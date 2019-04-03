@@ -1,0 +1,74 @@
+{
+  "id": 1243278271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06667,47.31667,16.06667,47.31667",
+    "geom:latitude":47.31667,
+    "geom:longitude":16.06667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"109",
+    "gn:admin3_code":"10910.0",
+    "gn:asciiname":"Kitzladen",
+    "gn:country_code":"AT",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774335,
+    "gn:latitude":47.31667,
+    "gn:longitude":16.06667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kitzladen",
+    "gn:population":326,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838507,
+        85632785,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774335
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4b9c514f23501c8e7172dc204574fd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838507,
+            "locality_id":1243278271,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1243278271,
+    "wof:lastmodified":1537045975,
+    "wof:name":"Kitzladen",
+    "wof:parent_id":1108838507,
+    "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06667,
+    47.31667,
+    16.06667,
+    47.31667
+],
+  "geometry": {"coordinates":[16.06667,47.31667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259706019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03333,47.13333,16.03333,47.13333",
+    "geom:latitude":47.13333,
+    "geom:longitude":16.03333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"62264.0",
+    "gn:asciiname":"Schwarzmannshofen",
+    "gn:country_code":"AT",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765407,
+    "gn:latitude":47.13333,
+    "gn:longitude":16.03333,
+    "gn:modification_date":"2017-06-21",
+    "gn:name":"Schwarzmannshofen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839083,
+        85632785,
+        1108892549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765407
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"39cb733deef05349be9438fb17008b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892549,
+            "localadmin_id":1108839083,
+            "locality_id":1259706019,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259706019,
+    "wof:lastmodified":1537033229,
+    "wof:name":"Schwarzmannshofen",
+    "wof:parent_id":1108839083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03333,
+    47.13333,
+    16.03333,
+    47.13333
+],
+  "geometry": {"coordinates":[16.03333,47.13333],"type":"Point"}
+}

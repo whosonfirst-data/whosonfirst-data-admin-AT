@@ -1,0 +1,71 @@
+{
+  "id": 1309902799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.96056,47.51583,9.96056,47.51583",
+    "geom:latitude":47.51583,
+    "geom:longitude":9.96056,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"802",
+    "gn:admin3_code":"80231.0",
+    "gn:asciiname":"Unterlitten",
+    "gn:country_code":"AT",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3333808,
+    "gn:latitude":47.51583,
+    "gn:longitude":9.96056,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Unterlitten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838027,
+        85632785,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3333808
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a1beb14bd63db750d5d2a2862d2e0c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838027,
+            "locality_id":1309902799,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1309902799,
+    "wof:lastmodified":1536791654,
+    "wof:name":"Unterlitten",
+    "wof:parent_id":1108838027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.96056,
+    47.51583,
+    9.96056,
+    47.51583
+],
+  "geometry": {"coordinates":[9.96056,47.51583],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125409663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.76371,47.44737,9.76371,47.44737",
+    "geom:latitude":47.44737,
+    "geom:longitude":9.76371,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3535,
+    "gn:population":3915,
+    "iso:country":"AT",
+    "lbl:latitude":47.44737,
+    "lbl:longitude":9.76371,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0428\u0432\u0430\u0440\u0446\u0430\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0432\u0430\u0440\u0446\u0430\u0445"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u74e6\u5c14\u5bdf\u8d6b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872668,
+    "qs_pg:gn_pop":3535,
+    "qs_pg:name":"Schwarzach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155323,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872668,
+        "qs_pg:id":1155323
+    },
+    "wof:country":"AT",
+    "wof:created":1497049894,
+    "wof:geomhash":"badcf07007024aec5090de01d6dbabb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1125409663,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125409663,
+    "wof:lastmodified":1534379144,
+    "wof:name":"Schwarzach",
+    "wof:parent_id":102049751,
+    "wof:placetype":"localadmin",
+    "wof:population":3915,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838049
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.76371,
+    47.44737,
+    9.76371,
+    47.44737
+],
+  "geometry": {"coordinates":[9.76371,47.44737],"type":"Point"}
+}

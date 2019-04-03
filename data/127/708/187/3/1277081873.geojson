@@ -1,0 +1,74 @@
+{
+  "id": 1277081873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76667,47.76667,14.76667,47.76667",
+    "geom:latitude":47.76667,
+    "geom:longitude":14.76667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30516.0",
+    "gn:asciiname":"Wenten",
+    "gn:country_code":"AT",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761486,
+    "gn:latitude":47.76667,
+    "gn:longitude":14.76667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wenten",
+    "gn:population":76,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836847,
+        85632785,
+        102049801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761486
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a24cd6617c9f93a775a8474b20aafc41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049801,
+            "localadmin_id":1108836847,
+            "locality_id":1277081873,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1277081873,
+    "wof:lastmodified":1536769301,
+    "wof:name":"Wenten",
+    "wof:parent_id":1108836847,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76667,
+    47.76667,
+    14.76667,
+    47.76667
+],
+  "geometry": {"coordinates":[14.76667,47.76667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242700051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2616,47.77161,15.2616,47.77161",
+    "geom:latitude":47.77161,
+    "geom:longitude":15.2616,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62142.0",
+    "gn:asciiname":"Gruenau",
+    "gn:country_code":"AT",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593345,
+    "gn:latitude":47.77161,
+    "gn:longitude":15.2616,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gr\u00fcnau",
+    "gn:population":110,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839309,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593345
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d5fec5419afe82347df1d1198e0acd9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108839309,
+            "locality_id":1242700051,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1242700051,
+    "wof:lastmodified":1536886973,
+    "wof:name":"Gruenau",
+    "wof:parent_id":1108839309,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2616,
+    47.77161,
+    15.2616,
+    47.77161
+],
+  "geometry": {"coordinates":[15.2616,47.77161],"type":"Point"}
+}

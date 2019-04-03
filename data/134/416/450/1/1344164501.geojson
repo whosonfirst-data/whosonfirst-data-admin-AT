@@ -1,0 +1,71 @@
+{
+  "id": 1344164501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14947,48.17313,16.14947,48.17313",
+    "geom:latitude":48.17313,
+    "geom:longitude":16.14947,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"319.0",
+    "gn:admin3_code":"31954.0",
+    "gn:asciiname":"Heimbautal",
+    "gn:country_code":"AT",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2601175,
+    "gn:latitude":48.17313,
+    "gn:longitude":16.14947,
+    "gn:modification_date":"2017-06-16",
+    "gn:name":"Heimbautal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836753,
+        85632785,
+        102049867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2601175
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8b96f7ca3d6a9608ba500f4f3c9eb6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049867,
+            "localadmin_id":1108836753,
+            "locality_id":1344164501,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344164501,
+    "wof:lastmodified":1536725784,
+    "wof:name":"Heimbautal",
+    "wof:parent_id":1108836753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14947,
+    48.17313,
+    16.14947,
+    48.17313
+],
+  "geometry": {"coordinates":[16.14947,48.17313],"type":"Point"}
+}

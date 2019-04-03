@@ -1,0 +1,74 @@
+{
+  "id": 1310699305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85,46.88333,15.85,46.88333",
+    "geom:latitude":46.88333,
+    "geom:longitude":15.85,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62380.0",
+    "gn:asciiname":"Katzendorf",
+    "gn:country_code":"AT",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774606,
+    "gn:latitude":46.88333,
+    "gn:longitude":15.85,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Katzendorf",
+    "gn:population":194,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839255,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774606
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0a32267263f1246dedfe0e942c7d6e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839255,
+            "locality_id":1310699305,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310699305,
+    "wof:lastmodified":1536636102,
+    "wof:name":"Katzendorf",
+    "wof:parent_id":1108839255,
+    "wof:placetype":"locality",
+    "wof:population":194,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85,
+    46.88333,
+    15.85,
+    46.88333
+],
+  "geometry": {"coordinates":[15.85,46.88333],"type":"Point"}
+}

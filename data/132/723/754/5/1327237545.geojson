@@ -1,0 +1,74 @@
+{
+  "id": 1327237545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68613,48.3845,13.68613,48.3845",
+    "geom:latitude":48.3845,
+    "geom:longitude":13.68613,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41408.0",
+    "gn:asciiname":"Matzing",
+    "gn:country_code":"AT",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771794,
+    "gn:latitude":48.3845,
+    "gn:longitude":13.68613,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Matzing",
+    "gn:population":89,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836039,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771794
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"29a4657af2a3dc0082b5620e5ca32753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836039,
+            "locality_id":1327237545,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1327237545,
+    "wof:lastmodified":1536961971,
+    "wof:name":"Matzing",
+    "wof:parent_id":1108836039,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68613,
+    48.3845,
+    13.68613,
+    48.3845
+],
+  "geometry": {"coordinates":[13.68613,48.3845],"type":"Point"}
+}

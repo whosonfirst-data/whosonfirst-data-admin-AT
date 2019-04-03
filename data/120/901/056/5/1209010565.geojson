@@ -1,0 +1,66 @@
+{
+  "id": 1209010565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.46529,47.90386,13.46529,47.90386",
+    "geom:latitude":47.90386,
+    "geom:longitude":13.46529,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41741.0",
+    "gn:asciiname":"Sagerer",
+    "gn:country_code":"AT",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609444,
+    "gn:latitude":47.90386,
+    "gn:longitude":13.46529,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sagerer",
+    "gn:population":117,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609444
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1b7212a561d2e29914d81ce073fe426b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209010565
+        }
+    ],
+    "wof:id":1209010565,
+    "wof:lastmodified":1536300461,
+    "wof:name":"Sagerer",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46529,
+    47.90386,
+    13.46529,
+    47.90386
+],
+  "geometry": {"coordinates":[13.46529,47.90386],"type":"Point"}
+}

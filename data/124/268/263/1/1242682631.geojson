@@ -1,0 +1,71 @@
+{
+  "id": 1242682631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45,47.11667,13.45,47.11667",
+    "geom:latitude":47.11667,
+    "geom:longitude":13.45,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50505.0",
+    "gn:asciiname":"Ollschutzen",
+    "gn:country_code":"AT",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769434,
+    "gn:latitude":47.11667,
+    "gn:longitude":13.45,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Ollsch\u00fctzen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837055,
+        85632785,
+        102049721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769434
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"75c4f628d94f5d6c9dea6f5f3aafcd7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1108837055,
+            "locality_id":1242682631,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1242682631,
+    "wof:lastmodified":1536912887,
+    "wof:name":"Ollschutzen",
+    "wof:parent_id":1108837055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45,
+    47.11667,
+    13.45,
+    47.11667
+],
+  "geometry": {"coordinates":[13.45,47.11667],"type":"Point"}
+}

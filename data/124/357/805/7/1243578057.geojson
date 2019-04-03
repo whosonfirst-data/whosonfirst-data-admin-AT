@@ -1,0 +1,74 @@
+{
+  "id": 1243578057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95,48.36667,13.95,48.36667",
+    "geom:latitude":48.36667,
+    "geom:longitude":13.95,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40512.0",
+    "gn:asciiname":"Woegern",
+    "gn:country_code":"AT",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760964,
+    "gn:latitude":48.36667,
+    "gn:longitude":13.95,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"W\u00f6gern",
+    "gn:population":82,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835045,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760964
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"469ba35c0f1edbad10273eb25a3ded4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835045,
+            "locality_id":1243578057,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243578057,
+    "wof:lastmodified":1536613537,
+    "wof:name":"Woegern",
+    "wof:parent_id":1108835045,
+    "wof:placetype":"locality",
+    "wof:population":82,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95,
+    48.36667,
+    13.95,
+    48.36667
+],
+  "geometry": {"coordinates":[13.95,48.36667],"type":"Point"}
+}

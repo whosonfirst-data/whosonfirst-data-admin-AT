@@ -1,0 +1,71 @@
+{
+  "id": 1327031833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47012,47.89816,15.47012,47.89816",
+    "geom:latitude":47.89816,
+    "geom:longitude":15.47012,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"314.0",
+    "gn:admin3_code":"31414.0",
+    "gn:asciiname":"Weidenaurote",
+    "gn:country_code":"AT",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761756,
+    "gn:latitude":47.89816,
+    "gn:longitude":15.47012,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Weidenaurote",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835855,
+        85632785,
+        102049823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761756
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"eb87af23eb51b3a94da0597836c02159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108835855,
+            "locality_id":1327031833,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327031833,
+    "wof:lastmodified":1536761496,
+    "wof:name":"Weidenaurote",
+    "wof:parent_id":1108835855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47012,
+    47.89816,
+    15.47012,
+    47.89816
+],
+  "geometry": {"coordinates":[15.47012,47.89816],"type":"Point"}
+}

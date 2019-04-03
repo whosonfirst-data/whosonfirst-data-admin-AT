@@ -1,0 +1,74 @@
+{
+  "id": 1260077865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15212,46.66325,15.15212,46.66325",
+    "geom:latitude":46.66325,
+    "geom:longitude":15.15212,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60345.0",
+    "gn:asciiname":"Sankt Bartlmae",
+    "gn:country_code":"AT",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593912,
+    "gn:latitude":46.66325,
+    "gn:longitude":15.15212,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Bartlm\u00e4",
+    "gn:population":17,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839299,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593912
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0196857bd7b0548a140e4a3a42a228b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839299,
+            "locality_id":1260077865,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1260077865,
+    "wof:lastmodified":1536995375,
+    "wof:name":"Sankt Bartlmae",
+    "wof:parent_id":1108839299,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15212,
+    46.66325,
+    15.15212,
+    46.66325
+],
+  "geometry": {"coordinates":[15.15212,46.66325],"type":"Point"}
+}

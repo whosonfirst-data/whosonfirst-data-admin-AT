@@ -1,0 +1,71 @@
+{
+  "id": 1309801083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,46.86667,15.6,46.86667",
+    "geom:latitude":46.86667,
+    "geom:longitude":15.6,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"610.0",
+    "gn:admin3_code":"61027.0",
+    "gn:asciiname":"Badendorfberg",
+    "gn:country_code":"AT",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2607799,
+    "gn:latitude":46.86667,
+    "gn:longitude":15.6,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Badendorfberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839039,
+        85632785,
+        102049699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2607799
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4bd412613658c886b6342f13c1bebd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049699,
+            "localadmin_id":1108839039,
+            "locality_id":1309801083,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1309801083,
+    "wof:lastmodified":1536938637,
+    "wof:name":"Badendorfberg",
+    "wof:parent_id":1108839039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    46.86667,
+    15.6,
+    46.86667
+],
+  "geometry": {"coordinates":[15.6,46.86667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243456459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67457,48.02185,15.67457,48.02185",
+    "geom:latitude":48.02185,
+    "geom:longitude":15.67457,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"314.0",
+    "gn:admin3_code":"31412.0",
+    "gn:asciiname":"Wobach",
+    "gn:country_code":"AT",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760969,
+    "gn:latitude":48.02185,
+    "gn:longitude":15.67457,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wobach",
+    "gn:population":63,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834853,
+        85632785,
+        102049823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760969
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c215591b3f0fe7ce3aa749e94c5c1b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108834853,
+            "locality_id":1243456459,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243456459,
+    "wof:lastmodified":1536791425,
+    "wof:name":"Wobach",
+    "wof:parent_id":1108834853,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67457,
+    48.02185,
+    15.67457,
+    48.02185
+],
+  "geometry": {"coordinates":[15.67457,48.02185],"type":"Point"}
+}

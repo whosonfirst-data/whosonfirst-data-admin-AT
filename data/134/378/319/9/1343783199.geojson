@@ -1,0 +1,71 @@
+{
+  "id": 1343783199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36667,47.63333,12.36667,47.63333",
+    "geom:latitude":47.63333,
+    "geom:longitude":12.36667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"704",
+    "gn:admin3_code":"70412.0",
+    "gn:asciiname":"Bichlach",
+    "gn:country_code":"AT",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781791,
+    "gn:latitude":47.63333,
+    "gn:longitude":12.36667,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Bichlach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837365,
+        85632785,
+        102049763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781791
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4ccc89439215b72b2ebefab90f763e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049763,
+            "localadmin_id":1108837365,
+            "locality_id":1343783199,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1343783199,
+    "wof:lastmodified":1536778746,
+    "wof:name":"Bichlach",
+    "wof:parent_id":1108837365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36667,
+    47.63333,
+    12.36667,
+    47.63333
+],
+  "geometry": {"coordinates":[12.36667,47.63333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226551541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43333,48.66667,16.43333,48.66667",
+    "geom:latitude":48.66667,
+    "geom:longitude":16.43333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"316",
+    "gn:admin3_code":"31609.0",
+    "gn:asciiname":"Hagendorf",
+    "gn:country_code":"AT",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777064,
+    "gn:latitude":48.66667,
+    "gn:longitude":16.43333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hagendorf",
+    "gn:population":211,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834953,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777064
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"28d3b0f0a1a27076d9bb3a4470eacd90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108834953,
+            "locality_id":1226551541,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1226551541,
+    "wof:lastmodified":1536988832,
+    "wof:name":"Hagendorf",
+    "wof:parent_id":1108834953,
+    "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43333,
+    48.66667,
+    16.43333,
+    48.66667
+],
+  "geometry": {"coordinates":[16.43333,48.66667],"type":"Point"}
+}

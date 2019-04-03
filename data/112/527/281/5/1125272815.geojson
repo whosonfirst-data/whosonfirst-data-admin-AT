@@ -1,0 +1,91 @@
+{
+  "id": 1125272815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35,48.2,16.35,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":16.35,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":30515,
+    "gn:population":30515,
+    "iso:country":"AT",
+    "lbl:latitude":48.2,
+    "lbl:longitude":16.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Neubau"
+    ],
+    "name:spa_x_preferred":[
+        "Neubau"
+    ],
+    "name:unk_x_variant":[
+        "7. Wiener Gemeindebezirk"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2770853,
+    "qs_pg:gn_pop":30515,
+    "qs_pg:name":"Gemeindebezirk Neubau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":576066,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681667,
+        102049859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770853,
+        "qs_pg:id":576066
+    },
+    "wof:country":"AT",
+    "wof:created":1497042195,
+    "wof:geomhash":"ff6e05b44fb69f0055f30e4484217e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1125272815,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1125272815,
+    "wof:lastmodified":1536698116,
+    "wof:name":"Gemeindebezirk Neubau",
+    "wof:parent_id":102049859,
+    "wof:placetype":"localadmin",
+    "wof:population":30515,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838101
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35,
+    48.2,
+    16.35,
+    48.2
+],
+  "geometry": {"coordinates":[16.35,48.2],"type":"Point"}
+}

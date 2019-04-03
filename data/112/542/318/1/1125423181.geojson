@@ -1,0 +1,91 @@
+{
+  "id": 1125423181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60528,47.66137,14.60528,47.66137",
+    "geom:latitude":47.66137,
+    "geom:longitude":14.60528,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1463,
+    "gn:population":1846,
+    "iso:country":"AT",
+    "lbl:latitude":47.66137,
+    "lbl:longitude":14.60528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0413\u0430\u043b\u043b\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0413\u0430\u043b\u043b\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u52a0\u4f26"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873505,
+    "qs_pg:gn_pop":1463,
+    "qs_pg:name":"Sankt Gallen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108967,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873505,
+        "qs_pg:id":108967
+    },
+    "wof:country":"AT",
+    "wof:created":1497052651,
+    "wof:geomhash":"4862ac447d48877848a58a4ce40d9b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125423181,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125423181,
+    "wof:lastmodified":1536698255,
+    "wof:name":"Sankt Gallen",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":1846,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838901
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60528,
+    47.66137,
+    14.60528,
+    47.66137
+],
+  "geometry": {"coordinates":[14.60528,47.66137],"type":"Point"}
+}

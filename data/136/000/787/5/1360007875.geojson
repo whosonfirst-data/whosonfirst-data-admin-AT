@@ -1,0 +1,74 @@
+{
+  "id": 1360007875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2849,47.44667,15.2849,47.44667",
+    "geom:latitude":47.44667,
+    "geom:longitude":15.2849,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"621.0",
+    "gn:admin3_code":"62140.0",
+    "gn:asciiname":"Sankt Martin",
+    "gn:country_code":"AT",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766526,
+    "gn:latitude":47.44667,
+    "gn:longitude":15.2849,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Martin",
+    "gn:population":2417,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839319,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766526
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"72ef4cf1d33f697333a958d336add18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108839319,
+            "locality_id":1360007875,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1360007875,
+    "wof:lastmodified":1537054692,
+    "wof:name":"Sankt Martin",
+    "wof:parent_id":1108839319,
+    "wof:placetype":"locality",
+    "wof:population":2417,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2849,
+    47.44667000000001,
+    15.2849,
+    47.44667000000001
+],
+  "geometry": {"coordinates":[15.2849,47.44667000000001],"type":"Point"}
+}

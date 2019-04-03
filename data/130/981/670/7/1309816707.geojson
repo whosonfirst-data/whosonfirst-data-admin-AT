@@ -1,0 +1,79 @@
+{
+  "id": 1309816707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58417,46.77722,13.58417,46.77722",
+    "geom:latitude":46.77722,
+    "geom:longitude":13.58417,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20635.0",
+    "gn:asciiname":"Molzbichl",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771290,
+    "gn:latitude":46.77722,
+    "gn:longitude":13.58417,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Molzbichl",
+    "gn:population":209,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malzbiehl",
+        "Molzbichl"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838301,
+        85632785,
+        102049701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771290
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0cebd66064ce54f688055b01b94bc30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049701,
+            "localadmin_id":1108838301,
+            "locality_id":1309816707,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1309816707,
+    "wof:lastmodified":1537584952,
+    "wof:name":"Molzbichl",
+    "wof:parent_id":1108838301,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58417,
+    46.77722,
+    13.58417,
+    46.77722
+],
+  "geometry": {"coordinates":[13.58417,46.77722],"type":"Point"}
+}

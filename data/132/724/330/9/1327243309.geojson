@@ -1,0 +1,71 @@
+{
+  "id": 1327243309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,48.18333,15.3,48.18333",
+    "geom:latitude":48.18333,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31539.0",
+    "gn:asciiname":"Grossweichselbach",
+    "gn:country_code":"AT",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777549,
+    "gn:latitude":48.18333,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Grossweichselbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835729,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777549
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"dc90f5ba1e16f8687dcca34ae7321cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835729,
+            "locality_id":1327243309,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327243309,
+    "wof:lastmodified":1536953841,
+    "wof:name":"Grossweichselbach",
+    "wof:parent_id":1108835729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    48.18333,
+    15.3,
+    48.18333
+],
+  "geometry": {"coordinates":[15.3,48.18333],"type":"Point"}
+}

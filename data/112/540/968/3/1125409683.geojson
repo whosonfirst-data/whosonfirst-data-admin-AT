@@ -1,0 +1,82 @@
+{
+  "id": 1125409683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.04111,47.77362,17.04111,47.77362",
+    "geom:latitude":47.77362,
+    "geom:longitude":17.04111,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2440,
+    "gn:population":2319,
+    "iso:country":"AT",
+    "lbl:latitude":47.77362,
+    "lbl:longitude":17.04111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872713,
+    "qs_pg:gn_pop":2440,
+    "qs_pg:name":"Andau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155351,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872713,
+        "qs_pg:id":1155351
+    },
+    "wof:country":"AT",
+    "wof:created":1497049897,
+    "wof:geomhash":"97c465b03ea33e5a25e79d0631efd71d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049841,
+            "localadmin_id":1125409683,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125409683,
+    "wof:lastmodified":1534379160,
+    "wof:name":"Andau",
+    "wof:parent_id":102049841,
+    "wof:placetype":"localadmin",
+    "wof:population":2319,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838503
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.04111,
+    47.77362,
+    17.04111,
+    47.77362
+],
+  "geometry": {"coordinates":[17.04111,47.77362],"type":"Point"}
+}

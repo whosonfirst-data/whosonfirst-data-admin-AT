@@ -1,0 +1,71 @@
+{
+  "id": 1293397519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.72917,48.38139,16.72917,48.38139",
+    "geom:latitude":48.38139,
+    "geom:longitude":16.72917,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"308",
+    "gn:admin3_code":"30848.0",
+    "gn:asciiname":"Osterreichische Mineraloverwaltung-Lagerplatz",
+    "gn:country_code":"AT",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3322410,
+    "gn:latitude":48.38139,
+    "gn:longitude":16.72917,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"\u00d6sterreichische Mineral\u00f6verwaltung-Lagerplatz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834831,
+        85632785,
+        102049891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3322410
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"eeef7b547b9ec6b17a5d545f7b61f1f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049891,
+            "localadmin_id":1108834831,
+            "locality_id":1293397519,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293397519,
+    "wof:lastmodified":1536917163,
+    "wof:name":"Osterreichische Mineraloverwaltung-Lagerplatz",
+    "wof:parent_id":1108834831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72917,
+    48.38139,
+    16.72917,
+    48.38139
+],
+  "geometry": {"coordinates":[16.72917,48.38139],"type":"Point"}
+}

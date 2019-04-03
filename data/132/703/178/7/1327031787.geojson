@@ -1,0 +1,77 @@
+{
+  "id": 1327031787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34797,48.2567,15.34797,48.2567",
+    "geom:latitude":48.2567,
+    "geom:longitude":15.34797,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31553.0",
+    "gn:asciiname":"Gossam",
+    "gn:country_code":"AT",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778283,
+    "gn:latitude":48.2567,
+    "gn:longitude":15.34797,
+    "gn:modification_date":"2018-07-29",
+    "gn:name":"Go\u00dfam",
+    "gn:population":264,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Go\u00dfam"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836935,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778283
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c05823f1582805b85f669a7d1c049502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836935,
+            "locality_id":1327031787,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327031787,
+    "wof:lastmodified":1537584972,
+    "wof:name":"Gossam",
+    "wof:parent_id":1108836935,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34797,
+    48.2567,
+    15.34797,
+    48.2567
+],
+  "geometry": {"coordinates":[15.34797,48.2567],"type":"Point"}
+}

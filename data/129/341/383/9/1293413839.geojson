@@ -1,0 +1,78 @@
+{
+  "id": 1293413839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78228,48.43507,14.78228,48.43507",
+    "geom:latitude":48.43507,
+    "geom:longitude":14.78228,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40621.0",
+    "gn:asciiname":"Unterweissenbach",
+    "gn:country_code":"AT",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762559,
+    "gn:latitude":48.43507,
+    "gn:longitude":14.78228,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterweissenbach",
+    "gn:population":887,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Unterwei\u00dfenbach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835105,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762559,
+        "wk:page":"Unterwei%C3%9Fenbach"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3a37de47ce970079c89fd5cea94956b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835105,
+            "locality_id":1293413839,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293413839,
+    "wof:lastmodified":1537486359,
+    "wof:name":"Unterweissenbach",
+    "wof:parent_id":1108835105,
+    "wof:placetype":"locality",
+    "wof:population":887,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78228,
+    48.43507,
+    14.78228,
+    48.43507
+],
+  "geometry": {"coordinates":[14.78228,48.43507],"type":"Point"}
+}

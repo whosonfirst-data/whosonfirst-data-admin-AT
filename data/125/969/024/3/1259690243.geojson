@@ -1,0 +1,74 @@
+{
+  "id": 1259690243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81054,48.38926,13.81054,48.38926",
+    "geom:latitude":48.38926,
+    "geom:longitude":13.81054,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40804.0",
+    "gn:asciiname":"Hagenberg",
+    "gn:country_code":"AT",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609752,
+    "gn:latitude":48.38926,
+    "gn:longitude":13.81054,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hagenberg",
+    "gn:population":6,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835173,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609752
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a6c687479efef4e67ed487c8348c4a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835173,
+            "locality_id":1259690243,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259690243,
+    "wof:lastmodified":1537054839,
+    "wof:name":"Hagenberg",
+    "wof:parent_id":1108835173,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81054,
+    48.38926,
+    13.81054,
+    48.38926
+],
+  "geometry": {"coordinates":[13.81054,48.38926],"type":"Point"}
+}

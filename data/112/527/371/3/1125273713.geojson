@@ -1,0 +1,82 @@
+{
+  "id": 1125273713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02951,47.12199,15.02951,47.12199",
+    "geom:latitude":47.12199,
+    "geom:longitude":15.02951,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":519,
+    "gn:population":519,
+    "iso:country":"AT",
+    "lbl:latitude":47.12199,
+    "lbl:longitude":15.02951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872494,
+    "qs_pg:gn_pop":519,
+    "qs_pg:name":"Graden",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108622,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872494,
+        "qs_pg:id":108622
+    },
+    "wof:country":"AT",
+    "wof:created":1497042233,
+    "wof:geomhash":"9a5bbad64331433ad374d00836d42d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1125273713,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125273713,
+    "wof:lastmodified":1536698121,
+    "wof:name":"Graden",
+    "wof:parent_id":102049717,
+    "wof:placetype":"localadmin",
+    "wof:population":519,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839349
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02951,
+    47.12199,
+    15.02951,
+    47.12199
+],
+  "geometry": {"coordinates":[15.02951,47.12199],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125271943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8578,46.95569,15.8578,46.95569",
+    "geom:latitude":46.95569,
+    "geom:longitude":15.8578,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2192,
+    "gn:population":2192,
+    "iso:country":"AT",
+    "lbl:latitude":46.95569,
+    "lbl:longitude":15.8578,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873372,
+    "qs_pg:gn_pop":2192,
+    "qs_pg:name":"Gniebing-Wei\u00dfenbach",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":743503,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873372,
+        "qs_pg:id":743503
+    },
+    "wof:country":"AT",
+    "wof:created":1497042162,
+    "wof:geomhash":"6c8405090fa5b4242ab4ebc77ac8d21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125271943,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125271943,
+    "wof:lastmodified":1536698113,
+    "wof:name":"Gniebing-Wei\u00dfenbach",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:population":2192,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839259
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8578,
+    46.95569,
+    15.8578,
+    46.95569
+],
+  "geometry": {"coordinates":[15.8578,46.95569],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310013539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95786,48.74095,15.95786,48.74095",
+    "geom:latitude":48.74095,
+    "geom:longitude":15.95786,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"310.0",
+    "gn:admin3_code":"31037.0",
+    "gn:asciiname":"Unternalb",
+    "gn:country_code":"AT",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762757,
+    "gn:latitude":48.74095,
+    "gn:longitude":15.95786,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unternalb",
+    "gn:population":706,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836817,
+        85632785,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762757
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"127f115daa2d7ebd4063f3e5a12b853d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108836817,
+            "locality_id":1310013539,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310013539,
+    "wof:lastmodified":1536630003,
+    "wof:name":"Unternalb",
+    "wof:parent_id":1108836817,
+    "wof:placetype":"locality",
+    "wof:population":706,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95786,
+    48.74095,
+    15.95786,
+    48.74095
+],
+  "geometry": {"coordinates":[15.95786,48.74095],"type":"Point"}
+}

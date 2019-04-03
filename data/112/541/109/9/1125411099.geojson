@@ -1,0 +1,86 @@
+{
+  "id": 1125411099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.198082,47.96533,15.198082,47.96533",
+    "geom:latitude":47.96533,
+    "geom:longitude":15.198082,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.96533,
+    "lbl:longitude":15.198082,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St. Anton an der Je\u00dfnitz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":185,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":207,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":233974,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674134,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674134,
+        "qs_pg:id":233974
+    },
+    "wof:country":"AT",
+    "wof:created":1497050182,
+    "wof:geomhash":"0e7c347811167e2ff6bed9e34f64b13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1125411099,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125411099,
+    "wof:lastmodified":1534379157,
+    "wof:name":"St. Anton an der Je\u00dfnitz",
+    "wof:parent_id":102049825,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836343
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.198082,
+    47.96533,
+    15.198082,
+    47.96533
+],
+  "geometry": {"coordinates":[15.198082,47.96533],"type":"Point"}
+}

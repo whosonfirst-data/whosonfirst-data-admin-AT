@@ -1,0 +1,71 @@
+{
+  "id": 1310316563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47929,48.07699,14.47929,48.07699",
+    "geom:latitude":48.07699,
+    "geom:longitude":14.47929,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30506.0",
+    "gn:asciiname":"Mosing",
+    "gn:country_code":"AT",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771165,
+    "gn:latitude":48.07699,
+    "gn:longitude":14.47929,
+    "gn:modification_date":"2016-03-27",
+    "gn:name":"Mosing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836371,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771165
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c12f574a98eb47a26cf5d13c3ba96dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836371,
+            "locality_id":1310316563,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310316563,
+    "wof:lastmodified":1536692085,
+    "wof:name":"Mosing",
+    "wof:parent_id":1108836371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47929,
+    48.07699,
+    14.47929,
+    48.07699
+],
+  "geometry": {"coordinates":[14.47929,48.07699],"type":"Point"}
+}

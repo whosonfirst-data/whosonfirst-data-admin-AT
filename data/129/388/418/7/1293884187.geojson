@@ -1,0 +1,71 @@
+{
+  "id": 1293884187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67952,48.02788,13.67952,48.02788",
+    "geom:latitude":48.02788,
+    "geom:longitude":13.67952,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"417.0",
+    "gn:admin3_code":"41746.0",
+    "gn:asciiname":"Unterpilsbach",
+    "gn:country_code":"AT",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762724,
+    "gn:latitude":48.02788,
+    "gn:longitude":13.67952,
+    "gn:modification_date":"2017-09-15",
+    "gn:name":"Unterpilsbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836471,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762724
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"62625ab5ccd558c3638b4b62baf1c768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836471,
+            "locality_id":1293884187,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293884187,
+    "wof:lastmodified":1536712669,
+    "wof:name":"Unterpilsbach",
+    "wof:parent_id":1108836471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67952,
+    48.02788,
+    13.67952,
+    48.02788
+],
+  "geometry": {"coordinates":[13.67952,48.02788],"type":"Point"}
+}

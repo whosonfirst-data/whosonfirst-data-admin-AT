@@ -1,0 +1,74 @@
+{
+  "id": 1243079151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74337,48.14201,15.74337,48.14201",
+    "geom:latitude":48.14201,
+    "geom:longitude":15.74337,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31934.0",
+    "gn:asciiname":"Baumgarten",
+    "gn:country_code":"AT",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591782,
+    "gn:latitude":48.14201,
+    "gn:longitude":15.74337,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Baumgarten",
+    "gn:population":7,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834975,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591782
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cafece5f7bd8d48d362385d816a7bda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834975,
+            "locality_id":1243079151,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243079151,
+    "wof:lastmodified":1536836892,
+    "wof:name":"Baumgarten",
+    "wof:parent_id":1108834975,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74337,
+    48.14201,
+    15.74337,
+    48.14201
+],
+  "geometry": {"coordinates":[15.74337,48.14201],"type":"Point"}
+}

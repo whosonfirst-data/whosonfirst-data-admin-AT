@@ -1,0 +1,71 @@
+{
+  "id": 1226234903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81667,47.05,15.81667,47.05",
+    "geom:latitude":47.05,
+    "geom:longitude":15.81667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61716.0",
+    "gn:asciiname":"Weidenwinkel",
+    "gn:country_code":"AT",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761748,
+    "gn:latitude":47.05,
+    "gn:longitude":15.81667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Weidenwinkel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838873,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761748
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"68c8b0a5388d339bb61a8fe981b7b99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838873,
+            "locality_id":1226234903,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226234903,
+    "wof:lastmodified":1536949553,
+    "wof:name":"Weidenwinkel",
+    "wof:parent_id":1108838873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81667,
+    47.05,
+    15.81667,
+    47.05
+],
+  "geometry": {"coordinates":[15.81667,47.05],"type":"Point"}
+}

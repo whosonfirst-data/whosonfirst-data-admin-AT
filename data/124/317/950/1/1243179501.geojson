@@ -1,0 +1,71 @@
+{
+  "id": 1243179501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65,48.1,14.65,48.1",
+    "geom:latitude":48.1,
+    "geom:longitude":14.65,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30542.0",
+    "gn:asciiname":"Egg",
+    "gn:country_code":"AT",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780377,
+    "gn:latitude":48.1,
+    "gn:longitude":14.65,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Egg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834959,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780377
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b483da75bbdd28b090161dc9d6961a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108834959,
+            "locality_id":1243179501,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243179501,
+    "wof:lastmodified":1536693568,
+    "wof:name":"Egg",
+    "wof:parent_id":1108834959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65,
+    48.1,
+    14.65,
+    48.1
+],
+  "geometry": {"coordinates":[14.65,48.1],"type":"Point"}
+}

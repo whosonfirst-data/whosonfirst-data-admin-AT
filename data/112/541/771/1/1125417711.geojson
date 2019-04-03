@@ -1,0 +1,82 @@
+{
+  "id": 1125417711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88244,48.35076,15.88244,48.35076",
+    "geom:latitude":48.35076,
+    "geom:longitude":15.88244,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3746,
+    "gn:population":4013,
+    "iso:country":"AT",
+    "lbl:latitude":48.35076,
+    "lbl:longitude":15.88244,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871920,
+    "qs_pg:gn_pop":3746,
+    "qs_pg:name":"Zwentendorf an der Donau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108426,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871920,
+        "qs_pg:id":108426
+    },
+    "wof:country":"AT",
+    "wof:created":1497051638,
+    "wof:geomhash":"b88d40fb065b8f83058cc839925517bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1125417711,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125417711,
+    "wof:lastmodified":1534379118,
+    "wof:name":"Zwentendorf an der Donau",
+    "wof:parent_id":102049879,
+    "wof:placetype":"localadmin",
+    "wof:population":4013,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835903
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88244,
+    48.35076,
+    15.88244,
+    48.35076
+],
+  "geometry": {"coordinates":[15.88244,48.35076],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259971359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.54197,46.75309,12.54197,46.75309",
+    "geom:latitude":46.75309,
+    "geom:longitude":12.54197,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"707",
+    "gn:admin3_code":"70704.0",
+    "gn:asciiname":"Lehen",
+    "gn:country_code":"AT",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592311,
+    "gn:latitude":46.75309,
+    "gn:longitude":12.54197,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lehen",
+    "gn:population":3,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837487,
+        85632785,
+        102049703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592311
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fd9863cb9384f506e440b109101deef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049703,
+            "localadmin_id":1108837487,
+            "locality_id":1259971359,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1259971359,
+    "wof:lastmodified":1536652520,
+    "wof:name":"Lehen",
+    "wof:parent_id":1108837487,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54197,
+    46.75309,
+    12.54197,
+    46.75309
+],
+  "geometry": {"coordinates":[12.54197,46.75309],"type":"Point"}
+}

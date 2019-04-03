@@ -1,0 +1,77 @@
+{
+  "id": 1260179437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,47.0,15.3,47.0",
+    "geom:latitude":47.0,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"616",
+    "gn:admin3_code":"61633.0",
+    "gn:asciiname":"Grosssoeding",
+    "gn:country_code":"AT",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777588,
+    "gn:latitude":47.0,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Grosss\u00f6ding",
+    "gn:population":660,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gro\u00dfs\u00f6ding"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839355,
+        85632785,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777588
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1a379fdc90eb7ea81ecbd9a5589867bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108839355,
+            "locality_id":1260179437,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1260179437,
+    "wof:lastmodified":1537584970,
+    "wof:name":"Grosssoeding",
+    "wof:parent_id":1108839355,
+    "wof:placetype":"locality",
+    "wof:population":660,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    47.0,
+    15.3,
+    47.0
+],
+  "geometry": {"coordinates":[15.3,47.0],"type":"Point"}
+}

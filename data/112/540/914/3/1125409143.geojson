@@ -1,0 +1,82 @@
+{
+  "id": 1125409143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40122,48.08746,15.40122,48.08746",
+    "geom:latitude":48.08746,
+    "geom:longitude":15.40122,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2536,
+    "gn:population":2581,
+    "iso:country":"AT",
+    "lbl:latitude":48.08746,
+    "lbl:longitude":15.40122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871815,
+    "qs_pg:gn_pop":2536,
+    "qs_pg:name":"Kilb",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155113,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871815,
+        "qs_pg:id":1155113
+    },
+    "wof:country":"AT",
+    "wof:created":1497049857,
+    "wof:geomhash":"7e7f8e3acb10cdc0bc9b919aa6c84d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1125409143,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125409143,
+    "wof:lastmodified":1534379202,
+    "wof:name":"Kilb",
+    "wof:parent_id":102049855,
+    "wof:placetype":"localadmin",
+    "wof:population":2581,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836335
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40122,
+    48.08746,
+    15.40122,
+    48.08746
+],
+  "geometry": {"coordinates":[15.40122,48.08746],"type":"Point"}
+}

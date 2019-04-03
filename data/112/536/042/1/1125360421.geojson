@@ -1,0 +1,86 @@
+{
+  "id": 1125360421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.258094,47.97201,13.258094,47.97201",
+    "geom:latitude":47.97201,
+    "geom:longitude":13.258094,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.97201,
+    "lbl:longitude":13.258094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Stra\u00dfwalchen",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1322111,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674677,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674677,
+        "qs_pg:id":1322111
+    },
+    "wof:country":"AT",
+    "wof:created":1497046752,
+    "wof:geomhash":"8eba9664106241c8ef283d8e13f48fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1125360421,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125360421,
+    "wof:lastmodified":1534531048,
+    "wof:name":"Stra\u00dfwalchen",
+    "wof:parent_id":102049799,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837183
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.258094,
+    47.97201,
+    13.258094,
+    47.97201
+],
+  "geometry": {"coordinates":[13.258094,47.97201],"type":"Point"}
+}

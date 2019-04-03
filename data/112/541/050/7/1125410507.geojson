@@ -1,0 +1,116 @@
+{
+  "id": 1125410507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2,48.2,15.2,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":15.2,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.2,
+    "lbl:longitude":15.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Bechlarn"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u044c\u043e\u0445\u043b\u0430\u0440\u043d"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0451\u0445\u043b\u0430\u0440\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0451\u0445\u043b\u0430\u0440\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0445\u043b\u0430\u0440\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u044c\u043e\u0445\u043b\u0430\u0440\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Gross P\u00f6chlarn"
+    ],
+    "name:zho_x_preferred":[
+        "\u73c0\u5e0c\u62c9\u6069"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2768627,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"P\u00f6chlarn",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":238,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":59313,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674037,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768627,
+        "gp:id":12674037,
+        "qs_pg:id":59313
+    },
+    "wof:country":"AT",
+    "wof:created":1497050017,
+    "wof:geomhash":"ba2c4cdae62b5b7467d96644b9f23236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1125410507,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125410507,
+    "wof:lastmodified":1534530982,
+    "wof:name":"P\u00f6chlarn",
+    "wof:parent_id":102049855,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836173
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2,
+    48.2,
+    15.2,
+    48.2
+],
+  "geometry": {"coordinates":[15.2,48.2],"type":"Point"}
+}

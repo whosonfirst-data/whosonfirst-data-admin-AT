@@ -1,0 +1,82 @@
+{
+  "id": 1125275239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22692,47.1931,15.22692,47.1931",
+    "geom:latitude":47.1931,
+    "geom:longitude":15.22692,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":359,
+    "gn:population":359,
+    "iso:country":"AT",
+    "lbl:latitude":47.1931,
+    "lbl:longitude":15.22692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873401,
+    "qs_pg:gn_pop":359,
+    "qs_pg:name":"Gro\u00dfst\u00fcbing",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108929,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873401,
+        "qs_pg:id":108929
+    },
+    "wof:country":"AT",
+    "wof:created":1497042283,
+    "wof:geomhash":"1cdddb8b6f9855cd7a503914b5d58dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125275239,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125275239,
+    "wof:lastmodified":1536698125,
+    "wof:name":"Gro\u00dfst\u00fcbing",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":359,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839211
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22692,
+    47.1931,
+    15.22692,
+    47.1931
+],
+  "geometry": {"coordinates":[15.22692,47.1931],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209821735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53045,48.42328,14.53045,48.42328",
+    "geom:latitude":48.42328,
+    "geom:longitude":14.53045,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40607.0",
+    "gn:asciiname":"Wittinghof",
+    "gn:country_code":"AT",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11591895,
+    "gn:latitude":48.42328,
+    "gn:longitude":14.53045,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wittinghof",
+    "gn:population":135,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835075,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591895
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b7974df06789e480472a1d2e5d039b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835075,
+            "locality_id":1209821735,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1209821735,
+    "wof:lastmodified":1536377997,
+    "wof:name":"Wittinghof",
+    "wof:parent_id":1108835075,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53045,
+    48.42328,
+    14.53045,
+    48.42328
+],
+  "geometry": {"coordinates":[14.53045,48.42328],"type":"Point"}
+}

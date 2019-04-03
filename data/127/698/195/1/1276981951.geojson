@@ -1,0 +1,74 @@
+{
+  "id": 1276981951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6194,48.28365,15.6194,48.28365",
+    "geom:latitude":48.28365,
+    "geom:longitude":15.6194,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31930.0",
+    "gn:asciiname":"Kleinrust",
+    "gn:country_code":"AT",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774036,
+    "gn:latitude":48.28365,
+    "gn:longitude":15.6194,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Kleinrust",
+    "gn:population":135,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834925,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774036
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e2b5318b97485684d0324dbddc89b765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834925,
+            "locality_id":1276981951,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276981951,
+    "wof:lastmodified":1536904561,
+    "wof:name":"Kleinrust",
+    "wof:parent_id":1108834925,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6194,
+    48.28365,
+    15.6194,
+    48.28365
+],
+  "geometry": {"coordinates":[15.6194,48.28365],"type":"Point"}
+}

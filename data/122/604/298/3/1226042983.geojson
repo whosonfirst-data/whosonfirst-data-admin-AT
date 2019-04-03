@@ -1,0 +1,71 @@
+{
+  "id": 1226042983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96663,48.28382,13.96663,48.28382",
+    "geom:latitude":48.28382,
+    "geom:longitude":13.96663,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40508.0",
+    "gn:asciiname":"Elend",
+    "gn:country_code":"AT",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609837,
+    "gn:latitude":48.28382,
+    "gn:longitude":13.96663,
+    "gn:modification_date":"2017-07-13",
+    "gn:name":"Elend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835049,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609837
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"496eb2273bd4a75ebc7b49339f6676c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835049,
+            "locality_id":1226042983,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226042983,
+    "wof:lastmodified":1536729532,
+    "wof:name":"Elend",
+    "wof:parent_id":1108835049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96663,
+    48.28382,
+    13.96663,
+    48.28382
+],
+  "geometry": {"coordinates":[13.96663,48.28382],"type":"Point"}
+}

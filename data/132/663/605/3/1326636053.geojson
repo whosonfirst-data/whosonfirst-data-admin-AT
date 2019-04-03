@@ -1,0 +1,71 @@
+{
+  "id": 1326636053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31252,48.07521,14.31252,48.07521",
+    "geom:latitude":48.07521,
+    "geom:longitude":14.31252,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"415",
+    "gn:admin3_code":"41516.0",
+    "gn:asciiname":"Oberbrunnern",
+    "gn:country_code":"AT",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770313,
+    "gn:latitude":48.07521,
+    "gn:longitude":14.31252,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Oberbrunnern",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836125,
+        85632785,
+        102049819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770313
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"79a19c9509cc349bbe9a2a46c6b38f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049819,
+            "localadmin_id":1108836125,
+            "locality_id":1326636053,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1326636053,
+    "wof:lastmodified":1536833219,
+    "wof:name":"Oberbrunnern",
+    "wof:parent_id":1108836125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31252,
+    48.07521,
+    14.31252,
+    48.07521
+],
+  "geometry": {"coordinates":[14.31252,48.07521],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276762753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69214,48.5228,13.69214,48.5228",
+    "geom:latitude":48.5228,
+    "geom:longitude":13.69214,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41407.0",
+    "gn:asciiname":"Roning",
+    "gn:country_code":"AT",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319349,
+    "gn:latitude":48.5228,
+    "gn:longitude":13.69214,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Roning",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836037,
+        85632785,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319349
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a50d1cc9a68a3bc88fd07e79773fa373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1108836037,
+            "locality_id":1276762753,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276762753,
+    "wof:lastmodified":1536700732,
+    "wof:name":"Roning",
+    "wof:parent_id":1108836037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69214,
+    48.5228,
+    13.69214,
+    48.5228
+],
+  "geometry": {"coordinates":[13.69214,48.5228],"type":"Point"}
+}

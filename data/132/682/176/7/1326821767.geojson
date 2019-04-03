@@ -1,0 +1,71 @@
+{
+  "id": 1326821767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01667,46.95,11.01667,46.95",
+    "geom:latitude":46.95,
+    "geom:longitude":11.01667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70220.0",
+    "gn:asciiname":"Wohlfahrt",
+    "gn:country_code":"AT",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760961,
+    "gn:latitude":46.95,
+    "gn:longitude":11.01667,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Wohlfahrt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837447,
+        85632785,
+        102049727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760961
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"165bd48772141a6ef5c62ba0bd679364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837447,
+            "locality_id":1326821767,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1326821767,
+    "wof:lastmodified":1537061199,
+    "wof:name":"Wohlfahrt",
+    "wof:parent_id":1108837447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01667,
+    46.95,
+    11.01667,
+    46.95
+],
+  "geometry": {"coordinates":[11.01667,46.95],"type":"Point"}
+}

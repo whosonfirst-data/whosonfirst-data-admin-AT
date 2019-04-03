@@ -1,0 +1,77 @@
+{
+  "id": 1327432171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45,47.8,13.45,47.8",
+    "geom:latitude":47.8,
+    "geom:longitude":13.45,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"See",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765329,
+    "gn:latitude":47.8,
+    "gn:longitude":13.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"See",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0435"
+    ],
+    "name:und_x_variant":[
+        "See am Mondsee",
+        "See"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837175,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765329
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"89c3993580ffdddf30f51afeb603b89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837175,
+            "locality_id":1327432171,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1327432171,
+    "wof:lastmodified":1537584925,
+    "wof:name":"See",
+    "wof:parent_id":1108837175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45,
+    47.8,
+    13.45,
+    47.8
+],
+  "geometry": {"coordinates":[13.45,47.8],"type":"Point"}
+}

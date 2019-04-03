@@ -1,0 +1,71 @@
+{
+  "id": 1293006745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37552,48.13585,14.37552,48.13585",
+    "geom:latitude":48.13585,
+    "geom:longitude":14.37552,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"410",
+    "gn:admin3_code":"41008.0",
+    "gn:asciiname":"Aigner-Kreuz-Siedlung",
+    "gn:country_code":"AT",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609965,
+    "gn:latitude":48.13585,
+    "gn:longitude":14.37552,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Aigner-Kreuz-Siedlung",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835533,
+        85632785,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609965
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b499af778b818ba3a30fd0241cc2173b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835533,
+            "locality_id":1293006745,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1293006745,
+    "wof:lastmodified":1536982306,
+    "wof:name":"Aigner-Kreuz-Siedlung",
+    "wof:parent_id":1108835533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37552,
+    48.13585,
+    14.37552,
+    48.13585
+],
+  "geometry": {"coordinates":[14.37552,48.13585],"type":"Point"}
+}

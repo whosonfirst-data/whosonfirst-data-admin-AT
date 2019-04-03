@@ -1,0 +1,71 @@
+{
+  "id": 1226544667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.03667,47.97667,13.03667,47.97667",
+    "geom:latitude":47.97667,
+    "geom:longitude":13.03667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50304.0",
+    "gn:asciiname":"Schwandt",
+    "gn:country_code":"AT",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3323077,
+    "gn:latitude":47.97667,
+    "gn:longitude":13.03667,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Schwandt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837117,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3323077
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7fcad3296dbf772be35785befe60dc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837117,
+            "locality_id":1226544667,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1226544667,
+    "wof:lastmodified":1536998792,
+    "wof:name":"Schwandt",
+    "wof:parent_id":1108837117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03667,
+    47.97667,
+    13.03667,
+    47.97667
+],
+  "geometry": {"coordinates":[13.03667,47.97667],"type":"Point"}
+}

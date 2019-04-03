@@ -1,0 +1,71 @@
+{
+  "id": 1276982183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96743,47.86431,15.96743,47.86431",
+    "geom:latitude":47.86431,
+    "geom:longitude":15.96743,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"323.0",
+    "gn:admin3_code":"32321.0",
+    "gn:asciiname":"Waidmannsbach",
+    "gn:country_code":"AT",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762073,
+    "gn:latitude":47.86431,
+    "gn:longitude":15.96743,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Waidmannsbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836193,
+        85632785,
+        102049805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762073
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"34b394da2f4d9139f841d528dd192d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049805,
+            "localadmin_id":1108836193,
+            "locality_id":1276982183,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276982183,
+    "wof:lastmodified":1536904247,
+    "wof:name":"Waidmannsbach",
+    "wof:parent_id":1108836193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96743,
+    47.86431,
+    15.96743,
+    47.86431
+],
+  "geometry": {"coordinates":[15.96743,47.86431],"type":"Point"}
+}

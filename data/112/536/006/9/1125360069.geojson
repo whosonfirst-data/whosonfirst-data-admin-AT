@@ -1,0 +1,82 @@
+{
+  "id": 1125360069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63051,46.97276,15.63051,46.97276",
+    "geom:latitude":46.97276,
+    "geom:longitude":15.63051,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":448,
+    "gn:population":448,
+    "iso:country":"AT",
+    "lbl:latitude":46.97276,
+    "lbl:longitude":15.63051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872286,
+    "qs_pg:gn_pop":448,
+    "qs_pg:name":"Edelstauden",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743360,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872286,
+        "qs_pg:id":743360
+    },
+    "wof:country":"AT",
+    "wof:created":1497046732,
+    "wof:geomhash":"717ea64abe3b672361ec6d468602bdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125360069,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125360069,
+    "wof:lastmodified":1536698188,
+    "wof:name":"Edelstauden",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:population":448,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839257
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63051,
+    46.97276,
+    15.63051,
+    46.97276
+],
+  "geometry": {"coordinates":[15.63051,46.97276],"type":"Point"}
+}

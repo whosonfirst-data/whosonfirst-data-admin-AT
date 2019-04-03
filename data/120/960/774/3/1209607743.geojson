@@ -1,0 +1,66 @@
+{
+  "id": 1209607743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81667,47.15,15.81667,47.15",
+    "geom:latitude":47.15,
+    "geom:longitude":15.81667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61759.0",
+    "gn:asciiname":"Rothgmos",
+    "gn:country_code":"AT",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767075,
+    "gn:latitude":47.15,
+    "gn:longitude":15.81667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rothgmos",
+    "gn:population":198,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767075
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"13d76310428539ecb6ddcff4e27a81b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209607743
+        }
+    ],
+    "wof:id":1209607743,
+    "wof:lastmodified":1536281952,
+    "wof:name":"Rothgmos",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.816670000000002,
+    47.15,
+    15.816670000000002,
+    47.15
+],
+  "geometry": {"coordinates":[15.81667,47.15],"type":"Point"}
+}

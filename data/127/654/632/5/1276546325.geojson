@@ -1,0 +1,74 @@
+{
+  "id": 1276546325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00889,47.99278,13.00889,47.99278",
+    "geom:latitude":47.99278,
+    "geom:longitude":13.00889,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50306.0",
+    "gn:asciiname":"Reitsberg",
+    "gn:country_code":"AT",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3323121,
+    "gn:latitude":47.99278,
+    "gn:longitude":13.00889,
+    "gn:modification_date":"2018-07-29",
+    "gn:name":"Reitsberg",
+    "gn:population":50,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837121,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3323121
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4d48bca6745cd57d9cc4649117e79698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837121,
+            "locality_id":1276546325,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1276546325,
+    "wof:lastmodified":1536989785,
+    "wof:name":"Reitsberg",
+    "wof:parent_id":1108837121,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00889,
+    47.99278,
+    13.00889,
+    47.99278
+],
+  "geometry": {"coordinates":[13.00889,47.99278],"type":"Point"}
+}

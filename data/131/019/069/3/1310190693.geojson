@@ -1,0 +1,76 @@
+{
+  "id": 1310190693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01667,46.98333,10.01667,46.98333",
+    "geom:latitude":46.98333,
+    "geom:longitude":10.01667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801",
+    "gn:admin3_code":"80110.0",
+    "gn:asciiname":"Innergosten",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775253,
+    "gn:latitude":46.98333,
+    "gn:longitude":10.01667,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Innergosten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Innergosta",
+        "Innergosten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837949,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775253
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7a94677155692699cf30d547589676c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837949,
+            "locality_id":1310190693,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1310190693,
+    "wof:lastmodified":1537584963,
+    "wof:name":"Innergosten",
+    "wof:parent_id":1108837949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01667,
+    46.98333,
+    10.01667,
+    46.98333
+],
+  "geometry": {"coordinates":[10.01667,46.98333],"type":"Point"}
+}

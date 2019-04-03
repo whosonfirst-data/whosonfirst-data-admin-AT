@@ -1,0 +1,110 @@
+{
+  "id": 85898247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9355342.384377,
+    "geom:bbox":"14.301035,46.62644,14.301035,46.62644",
+    "geom:latitude":46.62644,
+    "geom:longitude":14.301035,
+    "iso:country":"AT",
+    "lbl:latitude":46.62644,
+    "lbl:longitude":14.301035,
+    "mps:latitude":46.638426,
+    "mps:longitude":14.298457,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Feschnig"
+    ],
+    "name:unk_x_variant":[
+        "Feschnig"
+    ],
+    "qs:gn_adm0_cc":"AT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2774326,
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Feschnig",
+    "qs:local_max":5010,
+    "qs:local_sum":14043,
+    "qs:localhoods":10,
+    "qs:name":"Feschnig",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"K\u00e4rnten",
+    "qs:name_adm2":"Klagenfurt Stadt",
+    "qs:name_lau":"Klagenfurt",
+    "qs:name_local":"Klagenfurt",
+    "qs:photo_max":738,
+    "qs:photo_sum":3596,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":55,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344709,
+    "qs:woe_adm2":12591676,
+    "qs:woe_lau":12673562,
+    "qs:woe_local":12673562,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838143,
+        85632785,
+        101748059,
+        102049679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779619,
+        "gp:id":539415,
+        "qs:id":1082865,
+        "qs_pg:id":1082865
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"40797e4a66ac5a6ee11002d5f1262385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049679,
+            "localadmin_id":1108838143,
+            "locality_id":101748059,
+            "neighbourhood_id":85898247,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":85898247,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932040,
+    "wof:name":"Feschnig",
+    "wof:parent_id":101748059,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.301035,
+    46.62644,
+    14.301035,
+    46.62644
+],
+  "geometry": {"coordinates":[14.301035,46.62644],"type":"Point"}
+}

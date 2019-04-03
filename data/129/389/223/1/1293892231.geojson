@@ -1,0 +1,74 @@
+{
+  "id": 1293892231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,46.76667,14.15,46.76667",
+    "geom:latitude":46.76667,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21008.0",
+    "gn:asciiname":"Lawesen",
+    "gn:country_code":"AT",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772813,
+    "gn:latitude":46.76667,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lawesen",
+    "gn:population":9,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838137,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772813
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b2de0bca74ef6ad7ce019002984e7bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838137,
+            "locality_id":1293892231,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293892231,
+    "wof:lastmodified":1536700951,
+    "wof:name":"Lawesen",
+    "wof:parent_id":1108838137,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    46.76667,
+    14.15,
+    46.76667
+],
+  "geometry": {"coordinates":[14.15,46.76667],"type":"Point"}
+}

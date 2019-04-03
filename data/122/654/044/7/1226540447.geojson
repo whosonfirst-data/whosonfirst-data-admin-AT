@@ -1,0 +1,74 @@
+{
+  "id": 1226540447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50805,48.34068,14.50805,48.34068",
+    "geom:latitude":48.34068,
+    "geom:longitude":14.50805,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40624.0",
+    "gn:asciiname":"Schlossberg",
+    "gn:country_code":"AT",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612245,
+    "gn:latitude":48.34068,
+    "gn:longitude":14.50805,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schlossberg",
+    "gn:population":68,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835113,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612245
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"25f95aec2fe3fee29fa7bb1523ffda33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835113,
+            "locality_id":1226540447,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226540447,
+    "wof:lastmodified":1537004961,
+    "wof:name":"Schlossberg",
+    "wof:parent_id":1108835113,
+    "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50805,
+    48.34068,
+    14.50805,
+    48.34068
+],
+  "geometry": {"coordinates":[14.50805,48.34068],"type":"Point"}
+}

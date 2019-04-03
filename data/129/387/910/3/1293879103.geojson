@@ -1,0 +1,76 @@
+{
+  "id": 1293879103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0,47.08333,10.0,47.08333",
+    "geom:latitude":47.08333,
+    "geom:longitude":10.0,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801",
+    "gn:admin3_code":"80123.0",
+    "gn:asciiname":"Buchen",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781236,
+    "gn:latitude":47.08333,
+    "gn:longitude":10.0,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Buchen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unter Buchen",
+        "Buchen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838055,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781236
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9e4c05dfee9ecb547dc7c8a275165538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838055,
+            "locality_id":1293879103,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1293879103,
+    "wof:lastmodified":1537584980,
+    "wof:name":"Buchen",
+    "wof:parent_id":1108838055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0,
+    47.08333,
+    10.0,
+    47.08333
+],
+  "geometry": {"coordinates":[10.0,47.08333],"type":"Point"}
+}

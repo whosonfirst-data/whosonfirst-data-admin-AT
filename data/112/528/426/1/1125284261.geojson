@@ -1,0 +1,91 @@
+{
+  "id": 1125284261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69169,47.27482,15.69169,47.27482",
+    "geom:latitude":47.27482,
+    "geom:longitude":15.69169,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":869,
+    "gn:population":4165,
+    "iso:country":"AT",
+    "lbl:latitude":47.27482,
+    "lbl:longitude":15.69169,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0433\u0435\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0433\u0435\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u70ed\u5c14"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872502,
+    "qs_pg:gn_pop":869,
+    "qs_pg:name":"Anger",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1155274,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872502,
+        "qs_pg:id":1155274
+    },
+    "wof:country":"AT",
+    "wof:created":1497042634,
+    "wof:geomhash":"1a1f743ad748852d1b865bc52e779b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125284261,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125284261,
+    "wof:lastmodified":1534379144,
+    "wof:name":"Anger",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":4165,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838851
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69169,
+    47.27482,
+    15.69169,
+    47.27482
+],
+  "geometry": {"coordinates":[15.69169,47.27482],"type":"Point"}
+}

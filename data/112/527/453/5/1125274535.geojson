@@ -1,0 +1,82 @@
+{
+  "id": 1125274535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23501,48.9323,15.23501,48.9323",
+    "geom:latitude":48.9323,
+    "geom:longitude":15.23501,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1234,
+    "gn:population":1155,
+    "iso:country":"AT",
+    "lbl:latitude":48.9323,
+    "lbl:longitude":15.23501,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873047,
+    "qs_pg:gn_pop":1234,
+    "qs_pg:name":"Kautzen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108805,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873047,
+        "qs_pg:id":108805
+    },
+    "wof:country":"AT",
+    "wof:created":1497042259,
+    "wof:geomhash":"50aac083b114cda9ec903bc7018aa0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1125274535,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125274535,
+    "wof:lastmodified":1534531011,
+    "wof:name":"Kautzen",
+    "wof:parent_id":102049903,
+    "wof:placetype":"localadmin",
+    "wof:population":1155,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835021
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23501,
+    48.9323,
+    15.23501,
+    48.9323
+],
+  "geometry": {"coordinates":[15.23501,48.9323],"type":"Point"}
+}

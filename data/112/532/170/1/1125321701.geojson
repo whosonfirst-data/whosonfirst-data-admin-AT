@@ -1,0 +1,85 @@
+{
+  "id": 1125321701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.66591,47.27876,9.66591,47.27876",
+    "geom:latitude":47.27876,
+    "geom:longitude":9.66591,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "gn:population":3187,
+    "iso:country":"AT",
+    "lbl:latitude":47.27876,
+    "lbl:longitude":9.66591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Gemeinde Zwischenwasser"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2760391,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Zwischenwasser",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1243779,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760391,
+        "qs_pg:id":1243779
+    },
+    "wof:country":"AT",
+    "wof:created":1497044567,
+    "wof:geomhash":"13eb3e49ad864cd45b2418d6ff2b4f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049725,
+            "localadmin_id":1125321701,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125321701,
+    "wof:lastmodified":1534379138,
+    "wof:name":"Zwischenwasser",
+    "wof:parent_id":102049725,
+    "wof:placetype":"localadmin",
+    "wof:population":3187,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838093
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.66591,
+    47.27876,
+    9.66591,
+    47.27876
+],
+  "geometry": {"coordinates":[9.66591,47.27876],"type":"Point"}
+}

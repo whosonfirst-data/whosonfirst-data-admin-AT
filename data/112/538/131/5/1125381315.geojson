@@ -1,0 +1,91 @@
+{
+  "id": 1125381315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61007,48.04252,15.61007,48.04252",
+    "geom:latitude":48.04252,
+    "geom:longitude":15.61007,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3650,
+    "gn:population":3538,
+    "iso:country":"AT",
+    "lbl:latitude":48.04252,
+    "lbl:longitude":15.61007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0422\u0440\u0430\u0439\u0437\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0439\u0437\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u8cf4\u68ee"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872936,
+    "qs_pg:gn_pop":3650,
+    "qs_pg:name":"Traisen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":381091,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872936,
+        "qs_pg:id":381091
+    },
+    "wof:country":"AT",
+    "wof:created":1497048066,
+    "wof:geomhash":"28f6e2aa49ce76550304f8a5cd23fbf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1125381315,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125381315,
+    "wof:lastmodified":1534379170,
+    "wof:name":"Traisen",
+    "wof:parent_id":102049823,
+    "wof:placetype":"localadmin",
+    "wof:population":3538,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834897
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61007,
+    48.04252,
+    15.61007,
+    48.04252
+],
+  "geometry": {"coordinates":[15.61007,48.04252],"type":"Point"}
+}

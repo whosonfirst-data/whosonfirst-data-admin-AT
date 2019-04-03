@@ -1,0 +1,74 @@
+{
+  "id": 1276229515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38333,48.9,15.38333,48.9",
+    "geom:latitude":48.9,
+    "geom:longitude":15.38333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"322",
+    "gn:admin3_code":"32209.0",
+    "gn:asciiname":"Hohenwarth",
+    "gn:country_code":"AT",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775714,
+    "gn:latitude":48.9,
+    "gn:longitude":15.38333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hohenwarth",
+    "gn:population":92,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836969,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775714
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c476a0103bbd84655b822ab7d8eb004d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836969,
+            "locality_id":1276229515,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276229515,
+    "wof:lastmodified":1536918521,
+    "wof:name":"Hohenwarth",
+    "wof:parent_id":1108836969,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38333,
+    48.9,
+    15.38333,
+    48.9
+],
+  "geometry": {"coordinates":[15.38333,48.9],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343392925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7,47.36667,12.7,47.36667",
+    "geom:latitude":47.36667,
+    "geom:longitude":12.7,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50625.0",
+    "gn:asciiname":"Exenbach",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779874,
+    "gn:latitude":47.36667,
+    "gn:longitude":12.7,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Exenbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vorder Exenbach",
+        "Exenbach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837247,
+        85632785,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779874
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6011b81e15ba443283f298cf48d54802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1108837247,
+            "locality_id":1343392925,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1343392925,
+    "wof:lastmodified":1537584976,
+    "wof:name":"Exenbach",
+    "wof:parent_id":1108837247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7,
+    47.36667,
+    12.7,
+    47.36667
+],
+  "geometry": {"coordinates":[12.7,47.36667],"type":"Point"}
+}

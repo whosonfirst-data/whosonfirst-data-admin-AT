@@ -1,0 +1,99 @@
+{
+  "id": 1125319863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.14184,47.20797,10.14184,47.20797",
+    "geom:latitude":47.20797,
+    "geom:longitude":10.14184,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":1865,
+    "gn:population":1865,
+    "iso:country":"AT",
+    "lbl:latitude":47.20797,
+    "lbl:longitude":10.14184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0445"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2772798,
+    "qs_pg:gn_pop":1865,
+    "qs_pg:name":"Lech",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Vorarlberg",
+    "qs_pg:photos":500,
+    "qs_pg:photos_1k":101,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":4937,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":213492,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675663,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Vorarlberg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772798,
+        "gp:id":12675663,
+        "qs_pg:id":213492
+    },
+    "wof:country":"AT",
+    "wof:created":1497044468,
+    "wof:geomhash":"0d0c8d6dc384fd28de665c2cf7bd2aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1125319863,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125319863,
+    "wof:lastmodified":1534530993,
+    "wof:name":"Lech",
+    "wof:parent_id":102049711,
+    "wof:placetype":"localadmin",
+    "wof:population":1865,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837991
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.14184,
+    47.20797,
+    10.14184,
+    47.20797
+],
+  "geometry": {"coordinates":[10.14184,47.20797],"type":"Point"}
+}

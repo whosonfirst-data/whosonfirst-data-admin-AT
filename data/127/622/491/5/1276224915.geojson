@@ -1,0 +1,74 @@
+{
+  "id": 1276224915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56754,47.32713,15.56754,47.32713",
+    "geom:latitude":47.32713,
+    "geom:longitude":15.56754,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61745.0",
+    "gn:asciiname":"Sankt Kathrein am Offenegg II Viertel",
+    "gn:country_code":"AT",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592514,
+    "gn:latitude":47.32713,
+    "gn:longitude":15.56754,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Sankt Kathrein am Offenegg II Viertel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Kathrein am Offenegg II.Viertel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838905,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592514
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b21cf5baae114fa5fb45e9c19ce564b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838905,
+            "locality_id":1276224915,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276224915,
+    "wof:lastmodified":1537584989,
+    "wof:name":"Sankt Kathrein am Offenegg II Viertel",
+    "wof:parent_id":1108838905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56754,
+    47.32713,
+    15.56754,
+    47.32713
+],
+  "geometry": {"coordinates":[15.56754,47.32713],"type":"Point"}
+}

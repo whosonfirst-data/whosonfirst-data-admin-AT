@@ -1,0 +1,89 @@
+{
+  "id": 1344166593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36199,47.01637,16.36199,47.01637",
+    "geom:latitude":47.01637,
+    "geom:longitude":16.36199,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10420.0",
+    "gn:asciiname":"Grossmuerbisch",
+    "gn:country_code":"AT",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777640,
+    "gn:latitude":47.01637,
+    "gn:longitude":16.36199,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Grossm\u00fcrbisch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Grossm\u00fcrbisch"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliki Medve\u0161"
+    ],
+    "name:hun_x_historical":[
+        "Nagymedves"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3medves"
+    ],
+    "name:hun_x_variant":[
+        "Nagymedves"
+    ],
+    "name:und_x_variant":[
+        "Grossm\u00fcrbisch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838621,
+        85632785,
+        102049729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777640
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c5476423d98f1e379f64f52858b5f480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838621,
+            "locality_id":1344166593,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1344166593,
+    "wof:lastmodified":1537584971,
+    "wof:name":"Grossmuerbisch",
+    "wof:parent_id":1108838621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36199,
+    47.01637,
+    16.36199,
+    47.01637
+],
+  "geometry": {"coordinates":[16.36199,47.01637],"type":"Point"}
+}

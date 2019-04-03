@@ -1,0 +1,82 @@
+{
+  "id": 1125394483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65824,48.44019,13.65824,48.44019",
+    "geom:latitude":48.44019,
+    "geom:longitude":13.65824,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2009,
+    "gn:population":1974,
+    "iso:country":"AT",
+    "lbl:latitude":48.44019,
+    "lbl:longitude":13.65824,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873213,
+    "qs_pg:gn_pop":2009,
+    "qs_pg:name":"Kopfing im Innkreis",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1042205,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873213,
+        "qs_pg:id":1042205
+    },
+    "wof:country":"AT",
+    "wof:created":1497048922,
+    "wof:geomhash":"3e88772d4bc63b755a7bbd162bcf569d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049877,
+            "localadmin_id":1125394483,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125394483,
+    "wof:lastmodified":1534530982,
+    "wof:name":"Kopfing im Innkreis",
+    "wof:parent_id":102049877,
+    "wof:placetype":"localadmin",
+    "wof:population":1974,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836047
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65824,
+    48.44019,
+    13.65824,
+    48.44019
+],
+  "geometry": {"coordinates":[13.65824,48.44019],"type":"Point"}
+}

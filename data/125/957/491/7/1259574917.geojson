@@ -1,0 +1,74 @@
+{
+  "id": 1259574917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85351,47.24134,10.85351,47.24134",
+    "geom:latitude":47.24134,
+    "geom:longitude":10.85351,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"702",
+    "gn:admin3_code":"70202.0",
+    "gn:asciiname":"Schlierenzau",
+    "gn:country_code":"AT",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592375,
+    "gn:latitude":47.24134,
+    "gn:longitude":10.85351,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schlierenzau",
+    "gn:population":133,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837531,
+        85632785,
+        102049727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592375
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ff06dd89ef344a21787e53ea18a1fcb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837531,
+            "locality_id":1259574917,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1259574917,
+    "wof:lastmodified":1536727610,
+    "wof:name":"Schlierenzau",
+    "wof:parent_id":1108837531,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85351,
+    47.24134,
+    10.85351,
+    47.24134
+],
+  "geometry": {"coordinates":[10.85351,47.24134],"type":"Point"}
+}

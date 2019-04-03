@@ -1,0 +1,74 @@
+{
+  "id": 1226078239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70502,48.2209,13.70502,48.2209",
+    "geom:latitude":48.2209,
+    "geom:longitude":13.70502,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40811.0",
+    "gn:asciiname":"Regnersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609210,
+    "gn:latitude":48.2209,
+    "gn:longitude":13.70502,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Regnersdorf",
+    "gn:population":67,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835189,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609210
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c95359fed1d785276f792d62904b9506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835189,
+            "locality_id":1226078239,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226078239,
+    "wof:lastmodified":1536678424,
+    "wof:name":"Regnersdorf",
+    "wof:parent_id":1108835189,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70502,
+    48.2209,
+    13.70502,
+    48.2209
+],
+  "geometry": {"coordinates":[13.70502,48.2209],"type":"Point"}
+}

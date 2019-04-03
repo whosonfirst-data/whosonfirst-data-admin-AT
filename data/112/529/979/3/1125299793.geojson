@@ -1,0 +1,82 @@
+{
+  "id": 1125299793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08317,48.00704,13.08317,48.00704",
+    "geom:latitude":48.00704,
+    "geom:longitude":13.08317,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":742,
+    "gn:population":998,
+    "iso:country":"AT",
+    "lbl:latitude":48.00704,
+    "lbl:longitude":13.08317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871981,
+    "qs_pg:gn_pop":742,
+    "qs_pg:name":"Perwang am Grabensee",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1155129,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871981,
+        "qs_pg:id":1155129
+    },
+    "wof:country":"AT",
+    "wof:created":1497043360,
+    "wof:geomhash":"08a6a338cdf02f3e60081337d26a4343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1125299793,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125299793,
+    "wof:lastmodified":1534379160,
+    "wof:name":"Perwang am Grabensee",
+    "wof:parent_id":102049833,
+    "wof:placetype":"localadmin",
+    "wof:population":998,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834773
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08317,
+    48.00704,
+    13.08317,
+    48.00704
+],
+  "geometry": {"coordinates":[13.08317,48.00704],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326527555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2,47.18333,14.2,47.18333",
+    "geom:latitude":47.18333,
+    "geom:longitude":14.2,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61425.0",
+    "gn:asciiname":"Kammersberg",
+    "gn:country_code":"AT",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774822,
+    "gn:latitude":47.18333,
+    "gn:longitude":14.2,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kammersberg",
+    "gn:population":119,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838795,
+        85632785,
+        102049733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774822
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"344cff54d018b146b80d597c458553ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049733,
+            "localadmin_id":1108838795,
+            "locality_id":1326527555,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1326527555,
+    "wof:lastmodified":1536990022,
+    "wof:name":"Kammersberg",
+    "wof:parent_id":1108838795,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2,
+    47.18333,
+    14.2,
+    47.18333
+],
+  "geometry": {"coordinates":[14.2,47.18333],"type":"Point"}
+}

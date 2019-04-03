@@ -1,0 +1,74 @@
+{
+  "id": 1242699917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23333,47.03333,15.23333,47.03333",
+    "geom:latitude":47.03333,
+    "geom:longitude":15.23333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"616",
+    "gn:admin3_code":"61624.0",
+    "gn:asciiname":"Bernau",
+    "gn:country_code":"AT",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781844,
+    "gn:latitude":47.03333,
+    "gn:longitude":15.23333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bernau",
+    "gn:population":262,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838843,
+        85632785,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781844
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3b83766208005ddbfbe01eca29934daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108838843,
+            "locality_id":1242699917,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1242699917,
+    "wof:lastmodified":1536887177,
+    "wof:name":"Bernau",
+    "wof:parent_id":1108838843,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23333,
+    47.03333,
+    15.23333,
+    47.03333
+],
+  "geometry": {"coordinates":[15.23333,47.03333],"type":"Point"}
+}

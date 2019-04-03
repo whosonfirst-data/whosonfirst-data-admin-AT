@@ -1,0 +1,66 @@
+{
+  "id": 1209539617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62197,48.30052,13.62197,48.30052",
+    "geom:latitude":48.30052,
+    "geom:longitude":13.62197,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"414",
+    "gn:admin3_code":"41416.0",
+    "gn:asciiname":"Schwabenbach",
+    "gn:country_code":"AT",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11612074,
+    "gn:latitude":48.30052,
+    "gn:longitude":13.62197,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schwabenbach",
+    "gn:population":179,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612074
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c8b1cc359fb6a49b1df91ea3c0783588",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209539617
+        }
+    ],
+    "wof:id":1209539617,
+    "wof:lastmodified":1536284026,
+    "wof:name":"Schwabenbach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62197,
+    48.30052,
+    13.62197,
+    48.30052
+],
+  "geometry": {"coordinates":[13.62197,48.30052],"type":"Point"}
+}

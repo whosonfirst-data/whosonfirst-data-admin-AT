@@ -1,0 +1,74 @@
+{
+  "id": 1344157555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62744,48.58138,14.62744,48.58138",
+    "geom:latitude":48.58138,
+    "geom:longitude":14.62744,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40616.0",
+    "gn:asciiname":"Hundsberg",
+    "gn:country_code":"AT",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775413,
+    "gn:latitude":48.58138,
+    "gn:longitude":14.62744,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hundsberg",
+    "gn:population":22,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835095,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775413
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d0a57348fa0b8f0b398b22f2f932a20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835095,
+            "locality_id":1344157555,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344157555,
+    "wof:lastmodified":1536735583,
+    "wof:name":"Hundsberg",
+    "wof:parent_id":1108835095,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62744,
+    48.58138,
+    14.62744,
+    48.58138
+],
+  "geometry": {"coordinates":[14.62744,48.58138],"type":"Point"}
+}

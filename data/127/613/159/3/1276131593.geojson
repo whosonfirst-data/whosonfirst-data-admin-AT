@@ -1,0 +1,74 @@
+{
+  "id": 1276131593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7039,46.54552,13.7039,46.54552",
+    "geom:latitude":46.54552,
+    "geom:longitude":13.7039,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"207",
+    "gn:admin3_code":"20702.0",
+    "gn:asciiname":"Agoritschach",
+    "gn:country_code":"AT",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782949,
+    "gn:latitude":46.54552,
+    "gn:longitude":13.7039,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Agoritschach",
+    "gn:population":54,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838323,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782949
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9fae6195c3c12250bae3ac33a243c550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838323,
+            "locality_id":1276131593,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1276131593,
+    "wof:lastmodified":1537046924,
+    "wof:name":"Agoritschach",
+    "wof:parent_id":1108838323,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7039,
+    46.54552,
+    13.7039,
+    46.54552
+],
+  "geometry": {"coordinates":[13.7039,46.54552],"type":"Point"}
+}

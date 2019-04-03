@@ -1,0 +1,71 @@
+{
+  "id": 1293205277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00833,47.91083,13.00833,47.91083",
+    "geom:latitude":47.91083,
+    "geom:longitude":13.00833,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50302.0",
+    "gn:asciiname":"Pomed",
+    "gn:country_code":"AT",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3322991,
+    "gn:latitude":47.91083,
+    "gn:longitude":13.00833,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Pomed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837113,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3322991
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"152279cd293146e87bdd400a7cb98d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837113,
+            "locality_id":1293205277,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1293205277,
+    "wof:lastmodified":1536697082,
+    "wof:name":"Pomed",
+    "wof:parent_id":1108837113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00833,
+    47.91083,
+    13.00833,
+    47.91083
+],
+  "geometry": {"coordinates":[13.00833,47.91083],"type":"Point"}
+}

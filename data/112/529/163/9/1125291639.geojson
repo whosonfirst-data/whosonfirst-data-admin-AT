@@ -1,0 +1,117 @@
+{
+  "id": 1125291639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11667,47.36667,16.11667,47.36667",
+    "geom:latitude":47.36667,
+    "geom:longitude":16.11667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":5257,
+    "gn:population":5257,
+    "iso:country":"AT",
+    "lbl:latitude":47.36667,
+    "lbl:longitude":16.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Pinkaf\u00f6d"
+    ],
+    "name:deu_x_preferred":[
+        "Pinkafeld"
+    ],
+    "name:hrv_x_preferred":[
+        "Pinkafelj"
+    ],
+    "name:hun_x_preferred":[
+        "Pinkaf\u0151"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0438\u043d\u043a\u0430\u0444\u0435\u043b\u044c\u0434"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043d\u043a\u0430\u0444\u0435\u043b\u044c\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u840d\u5361\u83f2\u5c14\u7279"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2768811,
+    "qs_pg:gn_pop":5257,
+    "qs_pg:name":"Pinkafeld",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Burgenland",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":955822,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673423,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Burgenland",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768811,
+        "gp:id":12673423,
+        "qs_pg:id":955822
+    },
+    "wof:country":"AT",
+    "wof:created":1497042945,
+    "wof:geomhash":"819f16b143ecebfe117cc210ea5dae94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1125291639,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125291639,
+    "wof:lastmodified":1534531015,
+    "wof:name":"Pinkafeld",
+    "wof:parent_id":102049757,
+    "wof:placetype":"localadmin",
+    "wof:population":5257,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838567
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11667,
+    47.36667,
+    16.11667,
+    47.36667
+],
+  "geometry": {"coordinates":[16.11667,47.36667],"type":"Point"}
+}

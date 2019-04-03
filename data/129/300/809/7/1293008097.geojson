@@ -1,0 +1,74 @@
+{
+  "id": 1293008097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96595,48.58801,14.96595,48.58801",
+    "geom:latitude":48.58801,
+    "geom:longitude":14.96595,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"325",
+    "gn:admin3_code":"32508.0",
+    "gn:asciiname":"Haid",
+    "gn:country_code":"AT",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2777031,
+    "gn:latitude":48.58801,
+    "gn:longitude":14.96595,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Haid",
+    "gn:population":69,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835477,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777031
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2c8a2f7a683836f52b495ead96f3e612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835477,
+            "locality_id":1293008097,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293008097,
+    "wof:lastmodified":1536980392,
+    "wof:name":"Haid",
+    "wof:parent_id":1108835477,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96595,
+    48.58801,
+    14.96595,
+    48.58801
+],
+  "geometry": {"coordinates":[14.96595,48.58801],"type":"Point"}
+}

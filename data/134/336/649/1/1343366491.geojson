@@ -1,0 +1,74 @@
+{
+  "id": 1343366491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20289,48.78129,15.20289,48.78129",
+    "geom:latitude":48.78129,
+    "geom:longitude":15.20289,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"322.0",
+    "gn:admin3_code":"32219.0",
+    "gn:asciiname":"Stoies",
+    "gn:country_code":"AT",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764255,
+    "gn:latitude":48.78129,
+    "gn:longitude":15.20289,
+    "gn:modification_date":"2018-08-01",
+    "gn:name":"Stoies",
+    "gn:population":17,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836749,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764255
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4bb95aa0a65d72c25402a57b8c373ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836749,
+            "locality_id":1343366491,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343366491,
+    "wof:lastmodified":1536881016,
+    "wof:name":"Stoies",
+    "wof:parent_id":1108836749,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20289,
+    48.78129000000001,
+    15.20289,
+    48.78129000000001
+],
+  "geometry": {"coordinates":[15.20289,48.78129000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193159255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.323,47.57786,14.323,47.57786",
+    "geom:latitude":47.57786,
+    "geom:longitude":14.323,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61259.0",
+    "gn:asciiname":"Zwirtnersee",
+    "gn:country_code":"AT",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610093,
+    "gn:latitude":47.57786,
+    "gn:longitude":14.323,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Zwirtnersee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838933,
+        85632785,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610093
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6ec3f0554e3129c1d056dfdc68632597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1108838933,
+            "locality_id":1193159255,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1193159255,
+    "wof:lastmodified":1536369803,
+    "wof:name":"Zwirtnersee",
+    "wof:parent_id":1108838933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.323,
+    47.57786,
+    14.323,
+    47.57786
+],
+  "geometry": {"coordinates":[14.323,47.57786],"type":"Point"}
+}

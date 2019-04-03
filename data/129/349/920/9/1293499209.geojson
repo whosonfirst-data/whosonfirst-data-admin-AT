@@ -1,0 +1,74 @@
+{
+  "id": 1293499209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,48.55,15.63333,48.55",
+    "geom:latitude":48.55,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"313",
+    "gn:admin3_code":"31355.0",
+    "gn:asciiname":"Buchberger Waldhuetten",
+    "gn:country_code":"AT",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781249,
+    "gn:latitude":48.55,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Buchberger Waldh\u00fctten",
+    "gn:population":35,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834907,
+        85632785,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781249
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ec036e1dbd59bd033774b691f519a4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108834907,
+            "locality_id":1293499209,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293499209,
+    "wof:lastmodified":1536770606,
+    "wof:name":"Buchberger Waldhuetten",
+    "wof:parent_id":1108834907,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    48.55,
+    15.63333,
+    48.55
+],
+  "geometry": {"coordinates":[15.63333,48.55],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1125282909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.924942,47.406947,12.924942,47.406947",
+    "geom:latitude":47.406947,
+    "geom:longitude":12.924942,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.406947,
+    "lbl:longitude":12.924942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Maria Alm am Steinernen Meer",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":589,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1092271,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674682,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674682,
+        "qs_pg:id":1092271
+    },
+    "wof:country":"AT",
+    "wof:created":1497042578,
+    "wof:geomhash":"05185bf7675196f74a5902e81a4e3a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049761,
+            "localadmin_id":1125282909,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125282909,
+    "wof:lastmodified":1534531013,
+    "wof:name":"Maria Alm am Steinernen Meer",
+    "wof:parent_id":102049761,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837219
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.924942,
+    47.406947,
+    12.924942,
+    47.406947
+],
+  "geometry": {"coordinates":[12.924942,47.406947],"type":"Point"}
+}

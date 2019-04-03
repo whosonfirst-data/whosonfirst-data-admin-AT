@@ -1,0 +1,66 @@
+{
+  "id": 1209013493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06199,46.6826,14.06199,46.6826",
+    "geom:latitude":46.6826,
+    "geom:longitude":14.06199,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Adriach",
+    "gn:country_code":"AT",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11551083,
+    "gn:latitude":46.6826,
+    "gn:longitude":14.06199,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Adriach",
+    "gn:population":12,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551083
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c38a80c0c80be82db583dd86a13024f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209013493
+        }
+    ],
+    "wof:id":1209013493,
+    "wof:lastmodified":1536300369,
+    "wof:name":"Adriach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06199,
+    46.6826,
+    14.06199,
+    46.6826
+],
+  "geometry": {"coordinates":[14.06199,46.6826],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310507675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62976,48.44657,14.62976,48.44657",
+    "geom:latitude":48.44657,
+    "geom:longitude":14.62976,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40603.0",
+    "gn:asciiname":"Nussbaum",
+    "gn:country_code":"AT",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770405,
+    "gn:latitude":48.44657,
+    "gn:longitude":14.62976,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Nussbaum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835065,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770405
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a260208c06a809f9c3c7440363b47003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835065,
+            "locality_id":1310507675,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310507675,
+    "wof:lastmodified":1536914182,
+    "wof:name":"Nussbaum",
+    "wof:parent_id":1108835065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62976,
+    48.44657,
+    14.62976,
+    48.44657
+],
+  "geometry": {"coordinates":[14.62976,48.44657],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327226263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36667,47.48333,15.36667,47.48333",
+    "geom:latitude":47.48333,
+    "geom:longitude":15.36667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62128.0",
+    "gn:asciiname":"Herrenberg",
+    "gn:country_code":"AT",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776481,
+    "gn:latitude":47.48333,
+    "gn:longitude":15.36667,
+    "gn:modification_date":"2014-04-28",
+    "gn:name":"Herrenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839313,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776481
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"34decddadab81dc3f5711d41f64c3457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108839313,
+            "locality_id":1327226263,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1327226263,
+    "wof:lastmodified":1536977899,
+    "wof:name":"Herrenberg",
+    "wof:parent_id":1108839313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36667,
+    47.48333,
+    15.36667,
+    47.48333
+],
+  "geometry": {"coordinates":[15.36667,47.48333],"type":"Point"}
+}

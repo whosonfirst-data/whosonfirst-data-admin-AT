@@ -1,0 +1,86 @@
+{
+  "id": 1125276279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.714027,46.683598,13.714027,46.683598",
+    "geom:latitude":46.683598,
+    "geom:longitude":13.714027,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":46.683598,
+    "lbl:longitude":13.714027,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Wei\u00dfenstein",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":18,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":968300,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673644,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12673644,
+        "qs_pg:id":968300
+    },
+    "wof:country":"AT",
+    "wof:created":1497042329,
+    "wof:geomhash":"c0f52bf66d18ebd873c924cef8cdf1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1125276279,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125276279,
+    "wof:lastmodified":1534379089,
+    "wof:name":"Wei\u00dfenstein",
+    "wof:parent_id":102049683,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125409405
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.714027,
+    46.683598,
+    13.714027,
+    46.683598
+],
+  "geometry": {"coordinates":[13.714027,46.683598],"type":"Point"}
+}

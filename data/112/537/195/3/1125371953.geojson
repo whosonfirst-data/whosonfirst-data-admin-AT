@@ -1,0 +1,108 @@
+{
+  "id": 1125371953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,47.53333,15.55,47.53333",
+    "geom:latitude":47.53333,
+    "geom:longitude":15.55,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":5236,
+    "gn:population":5236,
+    "iso:country":"AT",
+    "lbl:latitude":47.53333,
+    "lbl:longitude":15.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Kriagl\u00e5ch"
+    ],
+    "name:fra_x_preferred":[
+        "Alpl"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0433\u043b\u0430\u0445"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u683c\u62c9\u8d6b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2773447,
+    "qs_pg:gn_pop":5236,
+    "qs_pg:name":"Krieglach",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":190,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":956246,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674826,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773447,
+        "gp:id":12674826,
+        "qs_pg:id":956246
+    },
+    "wof:country":"AT",
+    "wof:created":1497047464,
+    "wof:geomhash":"2d7ffd2ed950738f7a1e4efb8b20a194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1125371953,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125371953,
+    "wof:lastmodified":1534531040,
+    "wof:name":"Krieglach",
+    "wof:parent_id":1108892551,
+    "wof:placetype":"localadmin",
+    "wof:population":5236,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838877
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    47.53333,
+    15.55,
+    47.53333
+],
+  "geometry": {"coordinates":[15.55,47.53333],"type":"Point"}
+}

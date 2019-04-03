@@ -1,0 +1,74 @@
+{
+  "id": 1277006017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54099,48.0613,13.54099,48.0613",
+    "geom:latitude":48.0613,
+    "geom:longitude":13.54099,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41716.0",
+    "gn:asciiname":"Seirigen",
+    "gn:country_code":"AT",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609646,
+    "gn:latitude":48.0613,
+    "gn:longitude":13.54099,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Seirigen",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836453,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609646
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7bc4a59006e0377245c86bd2065cbe90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836453,
+            "locality_id":1277006017,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1277006017,
+    "wof:lastmodified":1536871029,
+    "wof:name":"Seirigen",
+    "wof:parent_id":1108836453,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54099,
+    48.0613,
+    13.54099,
+    48.0613
+],
+  "geometry": {"coordinates":[13.54099,48.0613],"type":"Point"}
+}

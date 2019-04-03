@@ -1,0 +1,82 @@
+{
+  "id": 1125417747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80361,47.17707,15.80361,47.17707",
+    "geom:latitude":47.17707,
+    "geom:longitude":15.80361,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2464,
+    "gn:population":2464,
+    "iso:country":"AT",
+    "lbl:latitude":47.17707,
+    "lbl:longitude":15.80361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872517,
+    "qs_pg:gn_pop":2464,
+    "qs_pg:name":"Pischelsdorf in der Steiermark",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108637,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872517,
+        "qs_pg:id":108637
+    },
+    "wof:country":"AT",
+    "wof:created":1497051643,
+    "wof:geomhash":"8059a09bb29d44c3ac908104020a6e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125417747,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125417747,
+    "wof:lastmodified":1534379096,
+    "wof:name":"Pischelsdorf in der Steiermark",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":2464,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1125410529
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80361,
+    47.17707,
+    15.80361,
+    47.17707
+],
+  "geometry": {"coordinates":[15.80361,47.17707],"type":"Point"}
+}

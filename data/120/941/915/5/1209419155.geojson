@@ -1,0 +1,63 @@
+{
+  "id": 1209419155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13333,47.1,16.13333,47.1",
+    "geom:latitude":47.1,
+    "geom:longitude":16.13333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"105",
+    "gn:admin3_code":"10501.0",
+    "gn:asciiname":"Kracherberg",
+    "gn:country_code":"AT",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773632,
+    "gn:latitude":47.1,
+    "gn:longitude":16.13333,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Kracherberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773632
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5eb587fc951a7e800d44654529321523",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209419155
+        }
+    ],
+    "wof:id":1209419155,
+    "wof:lastmodified":1536287588,
+    "wof:name":"Kracherberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.133329999999994,
+    47.1,
+    16.133329999999994,
+    47.1
+],
+  "geometry": {"coordinates":[16.13332999999999,47.1],"type":"Point"}
+}

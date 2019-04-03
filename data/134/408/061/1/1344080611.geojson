@@ -1,0 +1,74 @@
+{
+  "id": 1344080611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73919,48.54786,14.73919,48.54786",
+    "geom:latitude":48.54786,
+    "geom:longitude":14.73919,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40611.0",
+    "gn:asciiname":"Schoeneben",
+    "gn:country_code":"AT",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765700,
+    "gn:latitude":48.54786,
+    "gn:longitude":14.73919,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sch\u00f6neben",
+    "gn:population":167,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835083,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765700
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c7871cac8ee5c66d685d38cce87f0539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835083,
+            "locality_id":1344080611,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344080611,
+    "wof:lastmodified":1536845482,
+    "wof:name":"Schoeneben",
+    "wof:parent_id":1108835083,
+    "wof:placetype":"locality",
+    "wof:population":167,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73919,
+    48.54786,
+    14.73919,
+    48.54786
+],
+  "geometry": {"coordinates":[14.73919,48.54786],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276982311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61667,48.73333,16.61667,48.73333",
+    "geom:latitude":48.73333,
+    "geom:longitude":16.61667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"316.0",
+    "gn:admin3_code":"31606.0",
+    "gn:asciiname":"Stuetzenhofen",
+    "gn:country_code":"AT",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764045,
+    "gn:latitude":48.73333,
+    "gn:longitude":16.61667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"St\u00fctzenhofen",
+    "gn:population":105,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836233,
+        85632785,
+        102049897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764045
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b53e80a2c8a140bb1e38451d1110719e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049897,
+            "localadmin_id":1108836233,
+            "locality_id":1276982311,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276982311,
+    "wof:lastmodified":1536904075,
+    "wof:name":"Stuetzenhofen",
+    "wof:parent_id":1108836233,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61667000000001,
+    48.73333,
+    16.61667000000001,
+    48.73333
+],
+  "geometry": {"coordinates":[16.61667000000001,48.73333],"type":"Point"}
+}

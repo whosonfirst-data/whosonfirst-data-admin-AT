@@ -1,0 +1,71 @@
+{
+  "id": 1276348385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93333,46.7,14.93333,46.7",
+    "geom:latitude":46.7,
+    "geom:longitude":14.93333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"209",
+    "gn:admin3_code":"20909.0",
+    "gn:asciiname":"Fransdorf",
+    "gn:country_code":"AT",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779371,
+    "gn:latitude":46.7,
+    "gn:longitude":14.93333,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Fransdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838397,
+        85632785,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779371
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b197a8a1815bdd39f547e75716fe982f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838397,
+            "locality_id":1276348385,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1276348385,
+    "wof:lastmodified":1536758399,
+    "wof:name":"Fransdorf",
+    "wof:parent_id":1108838397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93333,
+    46.7,
+    14.93333,
+    46.7
+],
+  "geometry": {"coordinates":[14.93333,46.7],"type":"Point"}
+}

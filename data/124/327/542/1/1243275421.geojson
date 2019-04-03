@@ -1,0 +1,71 @@
+{
+  "id": 1243275421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85,48.16667,14.85,48.16667",
+    "geom:latitude":48.16667,
+    "geom:longitude":14.85,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30503.0",
+    "gn:asciiname":"Kirchfeld",
+    "gn:country_code":"AT",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774383,
+    "gn:latitude":48.16667,
+    "gn:longitude":14.85,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Kirchfeld",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836795,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774383
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"67fb47fb5dbfc178b497575b9bbf4367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108836795,
+            "locality_id":1243275421,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243275421,
+    "wof:lastmodified":1537049962,
+    "wof:name":"Kirchfeld",
+    "wof:parent_id":1108836795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85,
+    48.16667,
+    14.85,
+    48.16667
+],
+  "geometry": {"coordinates":[14.85,48.16667],"type":"Point"}
+}

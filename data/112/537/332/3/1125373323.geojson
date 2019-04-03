@@ -1,0 +1,98 @@
+{
+  "id": 1125373323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48333,47.16667,15.48333,47.16667",
+    "geom:latitude":47.16667,
+    "geom:longitude":15.48333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.16667,
+    "lbl:longitude":15.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Radegund bei Graz"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u8328\u9644\u8fd1\u5723\u62c9\u5fb7\u8d21\u5fb7"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2766420,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St. Radegund bei Graz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989356,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674956,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766420,
+        "gp:id":12674956,
+        "qs_pg:id":989356
+    },
+    "wof:country":"AT",
+    "wof:created":1497047560,
+    "wof:geomhash":"1b4b563faddf3110e0127914d702df05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125373323,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125373323,
+    "wof:lastmodified":1536698209,
+    "wof:name":"St. Radegund bei Graz",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839161
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48333,
+    47.16667,
+    15.48333,
+    47.16667
+],
+  "geometry": {"coordinates":[15.48333,47.16667],"type":"Point"}
+}

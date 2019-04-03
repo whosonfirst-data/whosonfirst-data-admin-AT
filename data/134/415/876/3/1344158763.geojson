@@ -1,0 +1,74 @@
+{
+  "id": 1344158763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02339,48.02702,16.02339,48.02702",
+    "geom:latitude":48.02702,
+    "geom:longitude":16.02339,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"306",
+    "gn:admin3_code":"30602.0",
+    "gn:asciiname":"Noestach",
+    "gn:country_code":"AT",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770422,
+    "gn:latitude":48.02702,
+    "gn:longitude":16.02339,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"N\u00f6stach",
+    "gn:population":386,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836807,
+        85632785,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770422
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"894b8b1e8ec12ff2258556646c35721b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836807,
+            "locality_id":1344158763,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344158763,
+    "wof:lastmodified":1536733940,
+    "wof:name":"Noestach",
+    "wof:parent_id":1108836807,
+    "wof:placetype":"locality",
+    "wof:population":386,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02339,
+    48.02702,
+    16.02339,
+    48.02702
+],
+  "geometry": {"coordinates":[16.02339,48.02702],"type":"Point"}
+}

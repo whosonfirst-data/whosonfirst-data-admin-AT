@@ -1,0 +1,100 @@
+{
+  "id": 1125977051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78333,48.43333,15.78333,48.43333",
+    "geom:latitude":48.43333,
+    "geom:longitude":15.78333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.43333,
+    "lbl:longitude":15.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Feuersbrunn"
+    ],
+    "name:eng_x_preferred":[
+        "Feuersbrunn"
+    ],
+    "name:ger_x_preferred":[
+        "Feuersbrunn"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2779606,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Feuersbrunn",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":74,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":537206,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":541596,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836185,
+        85632785,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779606,
+        "gp:id":541596,
+        "qs_pg:id":537206,
+        "wd:id":"Q1409656"
+    },
+    "wof:country":"AT",
+    "wof:created":1497298389,
+    "wof:geomhash":"c6aa88aac7632196e19858aa21901f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108836185,
+            "locality_id":1125977051,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125977051,
+    "wof:lastmodified":1513889710,
+    "wof:name":"Feuersbrunn",
+    "wof:parent_id":1108836185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78333,
+    48.43333,
+    15.78333,
+    48.43333
+],
+  "geometry": {"coordinates":[15.78333,48.43333],"type":"Point"}
+}

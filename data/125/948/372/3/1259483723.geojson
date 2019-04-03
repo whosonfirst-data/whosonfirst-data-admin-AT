@@ -1,0 +1,74 @@
+{
+  "id": 1259483723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.02618,48.09445,13.02618,48.09445",
+    "geom:latitude":48.09445,
+    "geom:longitude":13.02618,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40407.0",
+    "gn:asciiname":"Hansried",
+    "gn:country_code":"AT",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610160,
+    "gn:latitude":48.09445,
+    "gn:longitude":13.02618,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hansried",
+    "gn:population":6,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834721,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610160
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2e012f6f94b5669709613a701fc58631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834721,
+            "locality_id":1259483723,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1259483723,
+    "wof:lastmodified":1536857244,
+    "wof:name":"Hansried",
+    "wof:parent_id":1108834721,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02618,
+    48.09445,
+    13.02618,
+    48.09445
+],
+  "geometry": {"coordinates":[13.02618,48.09445],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1259386045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38056,46.71779,14.38056,46.71779",
+    "geom:latitude":46.71779,
+    "geom:longitude":14.38056,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20418.0",
+    "gn:asciiname":"Sankt Michael am Zollfeld",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766498,
+    "gn:latitude":46.71779,
+    "gn:longitude":14.38056,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Sankt Michael am Zollfeld",
+    "gn:population":186,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Michael",
+        "Sankt Michael am Zollfeld",
+        "St. Michael am Zollfeld"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838181,
+        85632785,
+        102049681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766498
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0cf28bd5208ed7f424f3044f51172325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049681,
+            "localadmin_id":1108838181,
+            "locality_id":1259386045,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1259386045,
+    "wof:lastmodified":1537584931,
+    "wof:name":"Sankt Michael am Zollfeld",
+    "wof:parent_id":1108838181,
+    "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38056,
+    46.71779,
+    14.38056,
+    46.71779
+],
+  "geometry": {"coordinates":[14.38056,46.71779],"type":"Point"}
+}

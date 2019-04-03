@@ -1,0 +1,74 @@
+{
+  "id": 1343763905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47944,48.27111,15.47944,48.27111",
+    "geom:latitude":48.27111,
+    "geom:longitude":15.47944,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31507.0",
+    "gn:asciiname":"Duernbach",
+    "gn:country_code":"AT",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780625,
+    "gn:latitude":48.27111,
+    "gn:longitude":15.47944,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"D\u00fcrnbach",
+    "gn:population":7,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835417,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780625
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"57e6abe6e428822f52e3d8fed778feba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108835417,
+            "locality_id":1343763905,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343763905,
+    "wof:lastmodified":1536805792,
+    "wof:name":"Duernbach",
+    "wof:parent_id":1108835417,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47944,
+    48.27111,
+    15.47944,
+    48.27111
+],
+  "geometry": {"coordinates":[15.47944,48.27111],"type":"Point"}
+}

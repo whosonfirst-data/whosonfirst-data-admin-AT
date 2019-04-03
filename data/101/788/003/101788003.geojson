@@ -1,0 +1,142 @@
+{
+  "id": 101788003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:area_square_m":1156817.432432,
+    "geom:bbox":"16.181770341,47.5130437122,16.2007584877,47.5305275718",
+    "geom:latitude":47.522976,
+    "geom:longitude":16.193174,
+    "iso:country":"AT",
+    "lbl:latitude":47.523271,
+    "lbl:longitude":16.193318,
+    "mps:latitude":47.523271,
+    "mps:longitude":16.193318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Grumboch in da Buckladn W\u00f6d"
+    ],
+    "name:chi_x_preferred":[
+        "Krumbach"
+    ],
+    "name:cze_x_preferred":[
+        "Krumbach"
+    ],
+    "name:deu_x_preferred":[
+        "Krumbach Markt"
+    ],
+    "name:dut_x_preferred":[
+        "Krumbach"
+    ],
+    "name:eng_x_preferred":[
+        "Krumbach"
+    ],
+    "name:fre_x_preferred":[
+        "Krumbach"
+    ],
+    "name:ger_x_preferred":[
+        "Krumbach"
+    ],
+    "name:hun_x_preferred":[
+        "Krumbach"
+    ],
+    "name:ita_x_preferred":[
+        "Krumbach"
+    ],
+    "name:pol_x_preferred":[
+        "Krumbach"
+    ],
+    "name:por_x_preferred":[
+        "Krumbach"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043c\u0431\u0430\u0445"
+    ],
+    "name:slo_x_preferred":[
+        "Krumbach"
+    ],
+    "name:swe_x_preferred":[
+        "Krumbach"
+    ],
+    "name:unk_x_variant":[
+        "Krumbach"
+    ],
+    "name:uzb_x_preferred":[
+        "Krumbach"
+    ],
+    "name:vie_x_preferred":[
+        "Krumbach"
+    ],
+    "name:vol_x_preferred":[
+        "Krumbach"
+    ],
+    "name:war_x_preferred":[
+        "Krumbach"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Nieder\u00f6sterreich",
+    "qs:a1r":"0",
+    "qs:a2":"Wiener Neustadt - Land",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Krumbach",
+    "qs:la_lc":"*AT32315",
+    "qs:level":"locality",
+    "qs:loc":"Krumbach-Markt",
+    "qs:loc_alt":"Krumbach-Markt",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836751,
+        85632785,
+        102049787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0322cfd6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2773336,
+        "gp:id":542535,
+        "qs:id":1138186,
+        "wd:id":"Q695232"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9e4234588425ee24c74090d259bc6b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049787,
+            "localadmin_id":1108836751,
+            "locality_id":101788003,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":101788003,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1553815503,
+    "wof:name":"Krumbach-Markt",
+    "wof:parent_id":1108836751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18177034097977,
+    47.51304371219516,
+    16.20075848770762,
+    47.53052757175584
+],
+  "geometry": {"coordinates":[[[16.19918965860546,47.52925477350453],[16.19875860509575,47.52566906292964],[16.19743530374461,47.52574436186671],[16.19678900316603,47.52036577033596],[16.20075848770762,47.52013985254871],[16.20054295607792,47.51834699331221],[16.19789672742411,47.51849761517582],[16.19757360211111,47.51580831311901],[16.19889665003905,47.51573301472428],[16.19878892843781,47.51483658110271],[16.20011195015275,47.51476126818295],[16.20000421061457,47.51386483551352],[16.19868121161284,47.51394014692642],[16.19857349956288,47.51304371219516],[16.1972505197748,47.51311900606976],[16.19735820911239,47.51401544230754],[16.19471219361839,47.51416598497497],[16.19492749576091,47.51595886181093],[16.19228137542331,47.51610934637279],[16.19271185524843,47.51969510543671],[16.18741920914056,47.5199959062453],[16.18795696184924,47.52447812270748],[16.18663367796978,47.52455329034598],[16.18674122009378,47.52544973348154],[16.18541790999427,47.52552488658841],[16.18552543416001,47.52642133067462],[16.1828787580252,47.52657159178733],[16.18309372974528,47.52836448431532],[16.18177034097977,47.52843959382358],[16.18187781125903,47.52933604076111],[16.18452463075948,47.5291858026996],[16.18441711501811,47.52828935876971],[16.18838724987296,47.5280638859096],[16.18827967071098,47.52716744593948],[16.19224970591898,47.52694183326253],[16.19268032395865,47.53052757175584],[16.19532717844857,47.5303770710716],[16.19521947131415,47.52948064029164],[16.19918965860546,47.52925477350453]]],"type":"Polygon"}
+}

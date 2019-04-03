@@ -1,0 +1,66 @@
+{
+  "id": 1209423821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54139,46.63,13.54139,46.63",
+    "geom:latitude":46.63,
+    "geom:longitude":13.54139,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20316.0",
+    "gn:asciiname":"Matschiedl",
+    "gn:country_code":"AT",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771823,
+    "gn:latitude":46.63,
+    "gn:longitude":13.54139,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Matschiedl",
+    "gn:population":94,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771823
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ab5e3ad843530f2ba963ab617cb2ad06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209423821
+        }
+    ],
+    "wof:id":1209423821,
+    "wof:lastmodified":1536287443,
+    "wof:name":"Matschiedl",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54139,
+    46.63,
+    13.54139,
+    46.63
+],
+  "geometry": {"coordinates":[13.54139,46.63],"type":"Point"}
+}

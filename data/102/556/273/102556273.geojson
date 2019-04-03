@@ -1,0 +1,65 @@
+{
+  "id": 102556273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6959,47.132,13.6959,47.132",
+    "geom:latitude":47.132,
+    "geom:longitude":13.6959,
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"3642",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591728,
+        "localadmin_id":12674708,
+        "planet_id":1,
+        "state_id":2344712
+    },
+    "wof:belongsto":[
+        85632785,
+        85681681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051681,
+        "icao:code":"LOSM",
+        "oa:id":"29478",
+        "wd:id":"Q16894767"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0ecac8a61062079fc14bbc7d5b22c662",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556273,
+            "country_id":85632785,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":102556273,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Flugfeld Mauterndorf",
+    "wof:parent_id":85681681,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.6959,
+    47.132,
+    13.6959,
+    47.132
+],
+  "geometry": {"coordinates":[13.6959,47.132],"type":"Point"}
+}

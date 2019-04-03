@@ -1,0 +1,79 @@
+{
+  "id": 101844555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":578388.52367,
+    "geom:bbox":"13.1278385499,47.65945547,13.1411343937,47.6692688559",
+    "geom:latitude":47.664582,
+    "geom:longitude":13.133939,
+    "iso:country":"AT",
+    "lbl:latitude":47.664834,
+    "lbl:longitude":13.133838,
+    "mps:latitude":47.664834,
+    "mps:longitude":13.133838,
+    "mz:hierarchy_label":1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Salzburg",
+    "qs:a1r":"0",
+    "qs:a2":"Hallein",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Bad Vigaun",
+    "qs:la_lc":"*AT50213",
+    "qs:level":"locality",
+    "qs:loc":"Vigaun",
+    "qs:loc_alt":"Vigaun",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837109,
+        85632785,
+        102049773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762378,
+        "gp:id":547954,
+        "qs:id":982866,
+        "qs_pg:id":982866
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0e7e110a151745f72c29b6ae6ecb9e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049773,
+            "localadmin_id":1108837109,
+            "locality_id":101844555,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":101844555,
+    "wof:lastmodified":1497296309,
+    "wof:name":"Vigaun",
+    "wof:parent_id":1108837109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.12783854991392,
+    47.65945547003651,
+    13.1411343937155,
+    47.66926885594341
+],
+  "geometry": {"coordinates":[[[13.13752924104023,47.66923070982227],[13.13731003685405,47.66563449613153],[13.13863968621035,47.665596336926],[13.13853005248075,47.66379822902076],[13.13985965374269,47.66376005519487],[13.13980481739588,47.66286100136153],[13.1411343937155,47.66282281214706],[13.14107953666644,47.66192375865],[13.1370908717733,47.66203827551334],[13.1370360866124,47.66113921927609],[13.13304747503713,47.66125358841884],[13.13293805092025,47.65945547003651],[13.13160855644128,47.65949355923533],[13.13166324413424,47.66039261941023],[13.13033372472091,47.66043069321944],[13.13049773299031,47.66312787344685],[13.12783854991392,47.6632039771938],[13.12789317791328,47.66410303793714],[13.12922279349533,47.66406499337586],[13.12949608581141,47.66856028676762],[13.13614471571793,47.6683698024014],[13.13619949727553,47.66926885594341],[13.13752924104023,47.66923070982227]]],"type":"Polygon"}
+}

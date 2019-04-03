@@ -1,0 +1,82 @@
+{
+  "id": 1125382259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27754,47.23712,16.27754,47.23712",
+    "geom:latitude":47.23712,
+    "geom:longitude":16.27754,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":747,
+    "gn:population":729,
+    "iso:country":"AT",
+    "lbl:latitude":47.23712,
+    "lbl:longitude":16.27754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871627,
+    "qs_pg:gn_pop":747,
+    "qs_pg:name":"Jabing",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1155018,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871627,
+        "qs_pg:id":1155018
+    },
+    "wof:country":"AT",
+    "wof:created":1497048117,
+    "wof:geomhash":"ae6a571cbfc21f5239d9e34679542d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1125382259,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125382259,
+    "wof:lastmodified":1534379165,
+    "wof:name":"Jabing",
+    "wof:parent_id":102049757,
+    "wof:placetype":"localadmin",
+    "wof:population":729,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838407
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27754,
+    47.23712,
+    16.27754,
+    47.23712
+],
+  "geometry": {"coordinates":[16.27754,47.23712],"type":"Point"}
+}

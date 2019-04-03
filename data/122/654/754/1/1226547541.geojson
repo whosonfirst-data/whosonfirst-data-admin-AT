@@ -1,0 +1,74 @@
+{
+  "id": 1226547541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25237,48.72879,15.25237,48.72879",
+    "geom:latitude":48.72879,
+    "geom:longitude":15.25237,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"325.0",
+    "gn:admin3_code":"32524.0",
+    "gn:asciiname":"Schlag",
+    "gn:country_code":"AT",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2765950,
+    "gn:latitude":48.72879,
+    "gn:longitude":15.25237,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schlag",
+    "gn:population":49,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836313,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2765950
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"636553dc46c922d828ab5ee5be52c840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836313,
+            "locality_id":1226547541,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1226547541,
+    "wof:lastmodified":1536994585,
+    "wof:name":"Schlag",
+    "wof:parent_id":1108836313,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25237,
+    48.72879,
+    15.25237,
+    48.72879
+],
+  "geometry": {"coordinates":[15.25237,48.72879],"type":"Point"}
+}

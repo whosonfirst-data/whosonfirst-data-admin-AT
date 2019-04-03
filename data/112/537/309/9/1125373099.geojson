@@ -1,0 +1,86 @@
+{
+  "id": 1125373099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8279455,47.191535,13.8279455,47.191535",
+    "geom:latitude":47.191535,
+    "geom:longitude":13.827946,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":47.191535,
+    "lbl:longitude":13.827946,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lessach",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":25,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":988714,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674781,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674781,
+        "qs_pg:id":988714
+    },
+    "wof:country":"AT",
+    "wof:created":1497047544,
+    "wof:geomhash":"198e6ef843bcd0d869a03603fdac8bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049721,
+            "localadmin_id":1125373099,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125373099,
+    "wof:lastmodified":1534530989,
+    "wof:name":"Lessach",
+    "wof:parent_id":102049721,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837047
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8279455,
+    47.191535,
+    13.8279455,
+    47.191535
+],
+  "geometry": {"coordinates":[13.8279455,47.191535],"type":"Point"}
+}

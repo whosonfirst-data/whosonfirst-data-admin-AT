@@ -1,0 +1,79 @@
+{
+  "id": 1226643379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95952,47.41807,14.95952,47.41807",
+    "geom:latitude":47.41807,
+    "geom:longitude":14.95952,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"611.0",
+    "gn:admin3_code":"61120.0",
+    "gn:asciiname":"Schardorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766153,
+    "gn:latitude":47.41807,
+    "gn:longitude":14.95952,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Schardorf",
+    "gn:population":248,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scharsdorf",
+        "Schardorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838989,
+        85632785,
+        102049769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766153
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"59b3e57ef3dd535527b3ca38943d7537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049769,
+            "localadmin_id":1108838989,
+            "locality_id":1226643379,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1226643379,
+    "wof:lastmodified":1537584927,
+    "wof:name":"Schardorf",
+    "wof:parent_id":1108838989,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95952,
+    47.41807,
+    14.95952,
+    47.41807
+],
+  "geometry": {"coordinates":[14.95952,47.41807],"type":"Point"}
+}

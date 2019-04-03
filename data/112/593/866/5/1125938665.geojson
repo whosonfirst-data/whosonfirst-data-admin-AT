@@ -1,0 +1,96 @@
+{
+  "id": 1125938665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0736,48.03046,16.0736,48.03046",
+    "geom:latitude":48.03046,
+    "geom:longitude":16.0736,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.03046,
+    "lbl:longitude":16.0736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_historical":[
+        "Raisenmarkt bei Alland"
+    ],
+    "name:deu_x_preferred":[
+        "Raisenmarkt bei Alland"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2768045,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Raisenmarkt",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":494434,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":543431,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836967,
+        85632785,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768045,
+        "gp:id":543431,
+        "qs_pg:id":494434
+    },
+    "wof:country":"AT",
+    "wof:created":1497297046,
+    "wof:geomhash":"1c6b2c80f25d4ef55909504b0dfb5b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1108836967,
+            "locality_id":1125938665,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125938665,
+    "wof:lastmodified":1509401945,
+    "wof:name":"Raisenmarkt",
+    "wof:parent_id":1108836967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0736,
+    48.03046,
+    16.0736,
+    48.03046
+],
+  "geometry": {"coordinates":[16.0736,48.03046],"type":"Point"}
+}

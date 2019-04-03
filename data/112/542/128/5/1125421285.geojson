@@ -1,0 +1,94 @@
+{
+  "id": 1125421285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.89426,48.0075,12.89426,48.0075",
+    "geom:latitude":48.0075,
+    "geom:longitude":12.89426,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3076,
+    "gn:population":3071,
+    "iso:country":"AT",
+    "lbl:latitude":48.0075,
+    "lbl:longitude":12.89426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Pontigo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041f\u0430\u043d\u0442\u0430\u043b\u0435\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041f\u0430\u043d\u0442\u0430\u043b\u0435\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u6f58\u5854\u83b1\u6602"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873110,
+    "qs_pg:gn_pop":3076,
+    "qs_pg:name":"Sankt Pantaleon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":743469,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873110,
+        "qs_pg:id":743469
+    },
+    "wof:country":"AT",
+    "wof:created":1497052281,
+    "wof:geomhash":"79852f320a3ad3bb39da0e835bdeb0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1125421285,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125421285,
+    "wof:lastmodified":1536698250,
+    "wof:name":"Sankt Pantaleon",
+    "wof:parent_id":102049833,
+    "wof:placetype":"localadmin",
+    "wof:population":3071,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108834789
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.89426,
+    48.0075,
+    12.89426,
+    48.0075
+],
+  "geometry": {"coordinates":[12.89426,48.0075],"type":"Point"}
+}

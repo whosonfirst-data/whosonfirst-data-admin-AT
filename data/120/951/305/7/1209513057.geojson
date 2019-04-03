@@ -1,0 +1,63 @@
+{
+  "id": 1209513057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5,47.03333,14.5,47.03333",
+    "geom:latitude":47.03333,
+    "geom:longitude":14.5,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"614",
+    "gn:admin3_code":"61410.0",
+    "gn:asciiname":"Hitzmannsdorf",
+    "gn:country_code":"AT",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776152,
+    "gn:latitude":47.03333,
+    "gn:longitude":14.5,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Hitzmannsdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776152
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"20820799dc62faadd3f10305ceb14e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209513057
+        }
+    ],
+    "wof:id":1209513057,
+    "wof:lastmodified":1536284821,
+    "wof:name":"Hitzmannsdorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5,
+    47.03333,
+    14.5,
+    47.03333
+],
+  "geometry": {"coordinates":[14.5,47.03333],"type":"Point"}
+}

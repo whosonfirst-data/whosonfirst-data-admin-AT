@@ -1,0 +1,97 @@
+{
+  "id": 1125329077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46846,48.36412,15.46846,48.36412",
+    "geom:latitude":48.36412,
+    "geom:longitude":15.46846,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1148,
+    "gn:population":1077,
+    "iso:country":"AT",
+    "lbl:latitude":48.36412,
+    "lbl:longitude":15.46846,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872923,
+    "qs_pg:gn_pop":1148,
+    "qs_pg:name":"Rossatz-Arnsdorf",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":186,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":419,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108756,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673917,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872923,
+        "gp:id":12673917,
+        "qs_pg:id":108756
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1120499
+    },
+    "wof:country":"AT",
+    "wof:created":1497045018,
+    "wof:geomhash":"2faa29072d66d23248c36c206fa98287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1125329077,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125329077,
+    "wof:lastmodified":1536698169,
+    "wof:name":"Rossatz-Arnsdorf",
+    "wof:parent_id":102049885,
+    "wof:placetype":"localadmin",
+    "wof:population":1077,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836221
+    ],
+    "wof:supersedes":[
+        1125335143
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46846,
+    48.36412,
+    15.46846,
+    48.36412
+],
+  "geometry": {"coordinates":[15.46846,48.36412],"type":"Point"}
+}

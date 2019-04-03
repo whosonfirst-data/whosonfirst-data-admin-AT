@@ -1,0 +1,76 @@
+{
+  "id": 1193158351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48333,47.1,10.48333,47.1",
+    "geom:latitude":47.1,
+    "geom:longitude":10.48333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"706.0",
+    "gn:admin3_code":"70609.0",
+    "gn:asciiname":"Raut",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767843,
+    "gn:latitude":47.1,
+    "gn:longitude":10.48333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Raut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rauth",
+        "Raut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837299,
+        85632785,
+        102049707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767843
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2e078a5ff2529fb7a24deb470f81d1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049707,
+            "localadmin_id":1108837299,
+            "locality_id":1193158351,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1193158351,
+    "wof:lastmodified":1537584939,
+    "wof:name":"Raut",
+    "wof:parent_id":1108837299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48333,
+    47.1,
+    10.48333,
+    47.1
+],
+  "geometry": {"coordinates":[10.48333,47.1],"type":"Point"}
+}

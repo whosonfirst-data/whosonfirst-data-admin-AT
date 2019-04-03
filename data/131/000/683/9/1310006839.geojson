@@ -1,0 +1,71 @@
+{
+  "id": 1310006839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5391,48.24923,13.5391,48.24923",
+    "geom:latitude":48.24923,
+    "geom:longitude":13.5391,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41201.0",
+    "gn:asciiname":"Mauzedt",
+    "gn:country_code":"AT",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610601,
+    "gn:latitude":48.24923,
+    "gn:longitude":13.5391,
+    "gn:modification_date":"2017-07-17",
+    "gn:name":"Mauzedt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835625,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610601
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3bf4aad523b296f96717db266912d8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835625,
+            "locality_id":1310006839,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310006839,
+    "wof:lastmodified":1536640467,
+    "wof:name":"Mauzedt",
+    "wof:parent_id":1108835625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5391,
+    48.24923,
+    13.5391,
+    48.24923
+],
+  "geometry": {"coordinates":[13.5391,48.24923],"type":"Point"}
+}

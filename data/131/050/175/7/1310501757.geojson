@@ -1,0 +1,74 @@
+{
+  "id": 1310501757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13348,48.32373,14.13348,48.32373",
+    "geom:latitude":48.32373,
+    "geom:longitude":14.13348,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"416",
+    "gn:admin3_code":"41608.0",
+    "gn:asciiname":"Hagenau",
+    "gn:country_code":"AT",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3321890,
+    "gn:latitude":48.32373,
+    "gn:longitude":14.13348,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hagenau",
+    "gn:population":48,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836151,
+        85632785,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3321890
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"336fd8e72ef72a3351342c2b6a4d8e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1108836151,
+            "locality_id":1310501757,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310501757,
+    "wof:lastmodified":1536923019,
+    "wof:name":"Hagenau",
+    "wof:parent_id":1108836151,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13348,
+    48.32373,
+    14.13348,
+    48.32373
+],
+  "geometry": {"coordinates":[14.13348,48.32373],"type":"Point"}
+}

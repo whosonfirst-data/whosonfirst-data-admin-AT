@@ -1,0 +1,79 @@
+{
+  "id": 1209717493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38333,48.88333,15.38333,48.88333",
+    "geom:latitude":48.88333,
+    "geom:longitude":15.38333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"322",
+    "gn:admin3_code":"32209.0",
+    "gn:asciiname":"Muenchreith an der Thaya",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771041,
+    "gn:latitude":48.88333,
+    "gn:longitude":15.38333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"M\u00fcnchreith an der Thaya",
+    "gn:population":93,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00fcnichreith an der Thaya",
+        "M\u00fcnchreith an der Thaya"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836969,
+        85632785,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771041
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e3bcbef2ee9721836a6b183b4de72b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1108836969,
+            "locality_id":1209717493,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1209717493,
+    "wof:lastmodified":1537584951,
+    "wof:name":"Muenchreith an der Thaya",
+    "wof:parent_id":1108836969,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38333,
+    48.88333,
+    15.38333,
+    48.88333
+],
+  "geometry": {"coordinates":[15.38333,48.88333],"type":"Point"}
+}

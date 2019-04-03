@@ -1,0 +1,71 @@
+{
+  "id": 1327329275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65771,47.41597,9.65771,47.41597",
+    "geom:latitude":47.41597,
+    "geom:longitude":9.65771,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"803",
+    "gn:admin3_code":"80303.0",
+    "gn:asciiname":"Hasenfeld",
+    "gn:country_code":"AT",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7506751,
+    "gn:latitude":47.41597,
+    "gn:longitude":9.65771,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Hasenfeld",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838001,
+        85632785,
+        102049737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7506751
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fa43aae5fc2e714ab57d3ec025db405c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049737,
+            "localadmin_id":1108838001,
+            "locality_id":1327329275,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1327329275,
+    "wof:lastmodified":1536828801,
+    "wof:name":"Hasenfeld",
+    "wof:parent_id":1108838001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65771,
+    47.41597,
+    9.65771,
+    47.41597
+],
+  "geometry": {"coordinates":[9.65771,47.41597],"type":"Point"}
+}

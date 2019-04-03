@@ -1,0 +1,67 @@
+{
+  "id": 1108938271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3312727058,48.2290278539,16.3312727058,48.2290278539",
+    "geom:latitude":48.229028,
+    "geom:longitude":16.331273,
+    "iso:country":"AT",
+    "lbl:latitude":48.229028,
+    "lbl:longitude":16.331273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "src:geom":"mz",
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1108838101,
+        85632785,
+        101748073,
+        102049859,
+        85681667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"AT",
+    "wof:created":1491360260,
+    "wof:geomhash":"f7375800bda3cdbf69e1caf596348520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1108838101,
+            "locality_id":101748073,
+            "neighbourhood_id":1108938271,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1108938271,
+    "wof:lastmodified":1534803978,
+    "wof:name":"Weinhaus",
+    "wof:parent_id":101748073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33127270578216,
+    48.22902785393594,
+    16.33127270578216,
+    48.22902785393594
+],
+  "geometry": {"coordinates":[16.33127270578216,48.22902785393594],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1125310457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40972,46.85861,15.40972,46.85861",
+    "geom:latitude":46.85861,
+    "geom:longitude":15.40972,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.85861,
+    "lbl:longitude":15.40972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0435\u0434\u0438\u043d\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0434\u0438\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u96f7\u4e01"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2768393,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Preding",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1195740,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675192,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768393,
+        "gp:id":12675192,
+        "qs_pg:id":1195740
+    },
+    "wof:country":"AT",
+    "wof:created":1497043948,
+    "wof:geomhash":"bc3291155dd93ee8ad3e4b15aeeb378e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125310457,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125310457,
+    "wof:lastmodified":1534531042,
+    "wof:name":"Preding",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839289
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40972,
+    46.85861,
+    15.40972,
+    46.85861
+],
+  "geometry": {"coordinates":[15.40972,46.85861],"type":"Point"}
+}

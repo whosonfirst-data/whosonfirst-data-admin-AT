@@ -1,0 +1,74 @@
+{
+  "id": 1243578119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45,48.61667,14.45,48.61667",
+    "geom:latitude":48.61667,
+    "geom:longitude":14.45,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40610.0",
+    "gn:asciiname":"Eisenhut",
+    "gn:country_code":"AT",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2780198,
+    "gn:latitude":48.61667,
+    "gn:longitude":14.45,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Eisenhut",
+    "gn:population":30,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835081,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2780198
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f4500cd058b2af76c28c035a980f2260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835081,
+            "locality_id":1243578119,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1243578119,
+    "wof:lastmodified":1536613435,
+    "wof:name":"Eisenhut",
+    "wof:parent_id":1108835081,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45,
+    48.61667,
+    14.45,
+    48.61667
+],
+  "geometry": {"coordinates":[14.45,48.61667],"type":"Point"}
+}

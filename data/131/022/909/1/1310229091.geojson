@@ -1,0 +1,71 @@
+{
+  "id": 1310229091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96371,48.27954,13.96371,48.27954",
+    "geom:latitude":48.27954,
+    "geom:longitude":13.96371,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40510.0",
+    "gn:asciiname":"Unterlengau",
+    "gn:country_code":"AT",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609836,
+    "gn:latitude":48.27954,
+    "gn:longitude":13.96371,
+    "gn:modification_date":"2017-07-13",
+    "gn:name":"Unterlengau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835053,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609836
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"239236a0575710787e2d98d28eddef30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108835053,
+            "locality_id":1310229091,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310229091,
+    "wof:lastmodified":1536817421,
+    "wof:name":"Unterlengau",
+    "wof:parent_id":1108835053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96371,
+    48.27954,
+    13.96371,
+    48.27954
+],
+  "geometry": {"coordinates":[13.96371,48.27954],"type":"Point"}
+}

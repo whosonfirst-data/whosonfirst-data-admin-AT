@@ -1,0 +1,74 @@
+{
+  "id": 1193134667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23333,47.05,15.23333,47.05",
+    "geom:latitude":47.05,
+    "geom:longitude":15.23333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"616",
+    "gn:admin3_code":"61624.0",
+    "gn:asciiname":"Kalchberg",
+    "gn:country_code":"AT",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774914,
+    "gn:latitude":47.05,
+    "gn:longitude":15.23333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kalchberg",
+    "gn:population":389,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838843,
+        85632785,
+        102049717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774914
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5dd79fbd3375e13d394354882bf76207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049717,
+            "localadmin_id":1108838843,
+            "locality_id":1193134667,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1193134667,
+    "wof:lastmodified":1536372055,
+    "wof:name":"Kalchberg",
+    "wof:parent_id":1108838843,
+    "wof:placetype":"locality",
+    "wof:population":389,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23333,
+    47.05,
+    15.23333,
+    47.05
+],
+  "geometry": {"coordinates":[15.23333,47.05],"type":"Point"}
+}

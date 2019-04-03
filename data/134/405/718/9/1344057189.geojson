@@ -1,0 +1,74 @@
+{
+  "id": 1344057189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80424,47.94622,13.80424,47.94622",
+    "geom:latitude":47.94622,
+    "geom:longitude":13.80424,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"407",
+    "gn:admin3_code":"40713.0",
+    "gn:asciiname":"Holzhaeuseln",
+    "gn:country_code":"AT",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611873,
+    "gn:latitude":47.94622,
+    "gn:longitude":13.80424,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Holzh\u00e4useln",
+    "gn:population":50,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835149,
+        85632785,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611873
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7f9d51017ef9dc7d1259624d20659dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1108835149,
+            "locality_id":1344057189,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1344057189,
+    "wof:lastmodified":1536879528,
+    "wof:name":"Holzhaeuseln",
+    "wof:parent_id":1108835149,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80424,
+    47.94622,
+    13.80424,
+    47.94622
+],
+  "geometry": {"coordinates":[13.80424,47.94622],"type":"Point"}
+}

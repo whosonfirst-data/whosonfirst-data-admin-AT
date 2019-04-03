@@ -1,0 +1,74 @@
+{
+  "id": 1310002787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88669,47.23216,9.88669,47.23216",
+    "geom:latitude":47.23216,
+    "geom:longitude":9.88669,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801",
+    "gn:admin3_code":"80124.0",
+    "gn:asciiname":"Sand",
+    "gn:country_code":"AT",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11592159,
+    "gn:latitude":47.23216,
+    "gn:longitude":9.88669,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sand",
+    "gn:population":15,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838057,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592159
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7b35026921c7b9ae093f67ec0c6761ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108838057,
+            "locality_id":1310002787,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1310002787,
+    "wof:lastmodified":1536646836,
+    "wof:name":"Sand",
+    "wof:parent_id":1108838057,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88669,
+    47.23216,
+    9.88669,
+    47.23216
+],
+  "geometry": {"coordinates":[9.88669,47.23216],"type":"Point"}
+}

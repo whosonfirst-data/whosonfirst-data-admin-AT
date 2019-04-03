@@ -1,0 +1,75 @@
+{
+  "id": 1277069299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,46.96667,15.8,46.96667",
+    "geom:latitude":46.96667,
+    "geom:longitude":15.8,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62382.0",
+    "gn:asciiname":"Oberstorcha",
+    "gn:country_code":"AT",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2769697,
+    "gn:latitude":46.96667,
+    "gn:longitude":15.8,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberstorcha",
+    "gn:population":146,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839245,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769697,
+        "wk:page":"Oberstorcha"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"bdf56e12a4a77ab28a613edf5b845131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839245,
+            "locality_id":1277069299,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1277069299,
+    "wof:lastmodified":1537486373,
+    "wof:name":"Oberstorcha",
+    "wof:parent_id":1108839245,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    46.96667,
+    15.8,
+    46.96667
+],
+  "geometry": {"coordinates":[15.8,46.96667],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1125385423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00806,46.94,16.00806,46.94",
+    "geom:latitude":46.94,
+    "geom:longitude":16.00806,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "gn:population":7332,
+    "iso:country":"AT",
+    "lbl:latitude":46.94,
+    "lbl:longitude":16.00806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0424\u0435\u0440\u0438\u043d\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u0438\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u7075"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2779767,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fehring",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":37,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1015550,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674944,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779767,
+        "gp:id":12674944,
+        "qs_pg:id":1015550
+    },
+    "wof:concordances_alt":{
+        "gn:id":7872288,
+        "qs_pg:id":1042110
+    },
+    "wof:country":"AT",
+    "wof:created":1497048336,
+    "wof:geomhash":"c71972ef200eafaf53f4234edde3977d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125385423,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125385423,
+    "wof:lastmodified":1536698222,
+    "wof:name":"Fehring",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:population":7332,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839261
+    ],
+    "wof:supersedes":[
+        1125344419
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00806,
+    46.94,
+    16.00806,
+    46.94
+],
+  "geometry": {"coordinates":[16.00806,46.94],"type":"Point"}
+}

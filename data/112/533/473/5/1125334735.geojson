@@ -1,0 +1,110 @@
+{
+  "id": 1125334735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.23333,47.76667,13.23333,47.76667",
+    "geom:latitude":47.76667,
+    "geom:longitude":13.23333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.76667,
+    "lbl:longitude":13.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Foastnau"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0430\u0439\u0441\u0442\u0435\u043d\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0439\u0441\u0442\u0435\u043d\u0430\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0439\u0448\u0442\u0435\u043d\u0430\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0633\u0679\u06cc\u0646\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u4f0a\u65bd\u7279\u7459"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2779838,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Faistenau",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Salzburg",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":88,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":535890,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674691,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Salzburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681681,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779838,
+        "gp:id":12674691,
+        "qs_pg:id":535890
+    },
+    "wof:country":"AT",
+    "wof:created":1497045332,
+    "wof:geomhash":"51edfcf058411a6569802adb39df28ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1125334735,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1125334735,
+    "wof:lastmodified":1536698174,
+    "wof:name":"Faistenau",
+    "wof:parent_id":102049799,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837133
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.23333,
+    47.76667,
+    13.23333,
+    47.76667
+],
+  "geometry": {"coordinates":[13.23333,47.76667],"type":"Point"}
+}

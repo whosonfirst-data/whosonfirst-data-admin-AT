@@ -1,0 +1,74 @@
+{
+  "id": 1276654559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76611,46.94611,15.76611,46.94611",
+    "geom:latitude":46.94611,
+    "geom:longitude":15.76611,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62384.0",
+    "gn:asciiname":"Axbach",
+    "gn:country_code":"AT",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782105,
+    "gn:latitude":46.94611,
+    "gn:longitude":15.76611,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Axbach",
+    "gn:population":285,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839243,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782105
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6c9182d210301ffaca848772bedc5246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839243,
+            "locality_id":1276654559,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276654559,
+    "wof:lastmodified":1536844324,
+    "wof:name":"Axbach",
+    "wof:parent_id":1108839243,
+    "wof:placetype":"locality",
+    "wof:population":285,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76611,
+    46.94611,
+    15.76611,
+    46.94611
+],
+  "geometry": {"coordinates":[15.76611,46.94611],"type":"Point"}
+}

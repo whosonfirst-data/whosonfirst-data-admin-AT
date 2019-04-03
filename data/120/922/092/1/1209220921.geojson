@@ -1,0 +1,66 @@
+{
+  "id": 1209220921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56126,48.27834,14.56126,48.27834",
+    "geom:latitude":48.27834,
+    "geom:longitude":14.56126,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"411.0",
+    "gn:admin3_code":"41118.0",
+    "gn:asciiname":"Poneggen",
+    "gn:country_code":"AT",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768527,
+    "gn:latitude":48.27834,
+    "gn:longitude":14.56126,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Poneggen",
+    "gn:population":2,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768527
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"578e122f21c71a5715318dd1001710c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209220921
+        }
+    ],
+    "wof:id":1209220921,
+    "wof:lastmodified":1536293966,
+    "wof:name":"Poneggen",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56126,
+    48.27834,
+    14.56126,
+    48.27834
+],
+  "geometry": {"coordinates":[14.56126,48.27834],"type":"Point"}
+}

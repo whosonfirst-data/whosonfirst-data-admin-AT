@@ -1,0 +1,66 @@
+{
+  "id": 1209215239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84865,48.30098,13.84865,48.30098",
+    "geom:latitude":48.30098,
+    "geom:longitude":13.84865,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40831.0",
+    "gn:asciiname":"Anrath",
+    "gn:country_code":"AT",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609815,
+    "gn:latitude":48.30098,
+    "gn:longitude":13.84865,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Anrath",
+    "gn:population":26,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609815
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"48d87998e50b959d915cacd80f6b4808",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209215239
+        }
+    ],
+    "wof:id":1209215239,
+    "wof:lastmodified":1536294154,
+    "wof:name":"Anrath",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84865,
+    48.30098,
+    13.84865,
+    48.30098
+],
+  "geometry": {"coordinates":[13.84865,48.30098],"type":"Point"}
+}

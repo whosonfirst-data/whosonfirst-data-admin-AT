@@ -1,0 +1,110 @@
+{
+  "id": 1125398879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10384,47.54116,14.10384,47.54116",
+    "geom:latitude":47.54116,
+    "geom:longitude":14.10384,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1973,
+    "gn:population":1973,
+    "iso:country":"AT",
+    "lbl:latitude":47.54116,
+    "lbl:longitude":14.10384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0430\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0430\u0445"
+    ],
+    "name:unk_x_variant":[
+        "Steinach"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u6cf0\u7eb3\u8d6b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872452,
+    "qs_pg:gn_pop":1973,
+    "qs_pg:name":"Stainach",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":45,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1063839,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675255,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872452,
+        "gp:id":12675255,
+        "qs_pg:id":1063839
+    },
+    "wof:concordances_alt":{
+        "gn:id":2764708,
+        "qs_pg:id":1195755
+    },
+    "wof:country":"AT",
+    "wof:created":1497049190,
+    "wof:geomhash":"f7c1470a820122be50589aad16c57fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125398879,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125398879,
+    "wof:lastmodified":1536698232,
+    "wof:name":"Stainach",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":1973,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838891
+    ],
+    "wof:supersedes":[
+        1125310493
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10384,
+    47.54116,
+    14.10384,
+    47.54116
+],
+  "geometry": {"coordinates":[14.10384,47.54116],"type":"Point"}
+}

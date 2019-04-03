@@ -1,0 +1,74 @@
+{
+  "id": 1327033027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73778,46.66694,13.73778,46.66694",
+    "geom:latitude":46.66694,
+    "geom:longitude":13.73778,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20726.0",
+    "gn:asciiname":"Stadelbach",
+    "gn:country_code":"AT",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764742,
+    "gn:latitude":46.66694,
+    "gn:longitude":13.73778,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stadelbach",
+    "gn:population":418,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838361,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764742
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2cfdcc9542ac1a9e4427730a74711a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838361,
+            "locality_id":1327033027,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1327033027,
+    "wof:lastmodified":1536759687,
+    "wof:name":"Stadelbach",
+    "wof:parent_id":1108838361,
+    "wof:placetype":"locality",
+    "wof:population":418,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73778,
+    46.66694,
+    13.73778,
+    46.66694
+],
+  "geometry": {"coordinates":[13.73778,46.66694],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209515591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36684,48.25583,13.36684,48.25583",
+    "geom:latitude":48.25583,
+    "geom:longitude":13.36684,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41208.0",
+    "gn:asciiname":"Dorf",
+    "gn:country_code":"AT",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610557,
+    "gn:latitude":48.25583,
+    "gn:longitude":13.36684,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Dorf",
+    "gn:population":55,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610557
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"55355844eeff99cdbb19eefca2a1fb8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209515591
+        }
+    ],
+    "wof:id":1209515591,
+    "wof:lastmodified":1536284743,
+    "wof:name":"Dorf",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36684,
+    48.25583,
+    13.36684,
+    48.25583
+],
+  "geometry": {"coordinates":[13.36684,48.25583],"type":"Point"}
+}

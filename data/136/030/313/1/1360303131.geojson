@@ -1,0 +1,77 @@
+{
+  "id": 1360303131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.44447,47.1171,16.44447,47.1171",
+    "geom:latitude":47.1171,
+    "geom:longitude":16.44447,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10403.0",
+    "gn:asciiname":"Winten",
+    "gn:country_code":"AT",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761019,
+    "gn:latitude":47.1171,
+    "gn:longitude":16.44447,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Winten",
+    "gn:population":76,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Pinkat\u00f3tfalu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838613,
+        85632785,
+        102049729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761019
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2566dac693bd11ddefeced572512522f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838613,
+            "locality_id":1360303131,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1360303131,
+    "wof:lastmodified":1537584912,
+    "wof:name":"Winten",
+    "wof:parent_id":1108838613,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.44447000000001,
+    47.1171,
+    16.44447000000001,
+    47.1171
+],
+  "geometry": {"coordinates":[16.44447000000001,47.1171],"type":"Point"}
+}

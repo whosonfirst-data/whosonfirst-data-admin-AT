@@ -1,0 +1,71 @@
+{
+  "id": 1310504721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93417,46.82056,14.93417,46.82056",
+    "geom:latitude":46.82056,
+    "geom:longitude":14.93417,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"209",
+    "gn:admin3_code":"20923.0",
+    "gn:asciiname":"Elsenbrunn",
+    "gn:country_code":"AT",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219633,
+    "gn:latitude":46.82056,
+    "gn:longitude":14.93417,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Elsenbrunn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838113,
+        85632785,
+        102049693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219633
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a418cc7020514ffb77ae3d2a0e355747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049693,
+            "localadmin_id":1108838113,
+            "locality_id":1310504721,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1310504721,
+    "wof:lastmodified":1536918594,
+    "wof:name":"Elsenbrunn",
+    "wof:parent_id":1108838113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93417,
+    46.82056,
+    14.93417,
+    46.82056
+],
+  "geometry": {"coordinates":[14.93417,46.82056],"type":"Point"}
+}

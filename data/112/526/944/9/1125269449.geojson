@@ -1,0 +1,91 @@
+{
+  "id": 1125269449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35,48.23333,16.35,48.23333",
+    "geom:latitude":48.23333,
+    "geom:longitude":16.35,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":39895,
+    "gn:population":39895,
+    "iso:country":"AT",
+    "lbl:latitude":48.23333,
+    "lbl:longitude":16.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Alsergrund"
+    ],
+    "name:spa_x_preferred":[
+        "Alsergrund"
+    ],
+    "name:unk_x_variant":[
+        "9. Wiener Gemeindebezirk"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2782729,
+    "qs_pg:gn_pop":39895,
+    "qs_pg:name":"Gemeindebezirk Alsergrund",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":576250,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681667,
+        102049859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782729,
+        "qs_pg:id":576250
+    },
+    "wof:country":"AT",
+    "wof:created":1497042059,
+    "wof:geomhash":"af931e5a8fb5d8a9901ebaf8a37d6c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049859,
+            "localadmin_id":1125269449,
+            "region_id":85681667
+        }
+    ],
+    "wof:id":1125269449,
+    "wof:lastmodified":1536698106,
+    "wof:name":"Gemeindebezirk Alsergrund",
+    "wof:parent_id":102049859,
+    "wof:placetype":"localadmin",
+    "wof:population":39895,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838101
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35,
+    48.23333,
+    16.35,
+    48.23333
+],
+  "geometry": {"coordinates":[16.35,48.23333],"type":"Point"}
+}

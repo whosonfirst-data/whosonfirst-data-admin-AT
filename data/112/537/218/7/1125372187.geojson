@@ -1,0 +1,98 @@
+{
+  "id": 1125372187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0721,46.7836,15.0721,46.7836",
+    "geom:latitude":46.7836,
+    "geom:longitude":15.0721,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":291,
+    "gn:population":291,
+    "iso:country":"AT",
+    "lbl:latitude":46.7836,
+    "lbl:longitude":15.0721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873350,
+    "qs_pg:gn_pop":291,
+    "qs_pg:name":"Garanas",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108918,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675068,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873350,
+        "gp:id":12675068,
+        "qs_pg:id":108918
+    },
+    "wof:concordances_alt":{
+        "gn:id":2778864,
+        "qs_pg:id":1195704
+    },
+    "wof:country":"AT",
+    "wof:created":1497047483,
+    "wof:geomhash":"4936fa0626469717752c6c9cc64dfa13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1125372187,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125372187,
+    "wof:lastmodified":1536698203,
+    "wof:name":"Garanas",
+    "wof:parent_id":102049691,
+    "wof:placetype":"localadmin",
+    "wof:population":291,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839277
+    ],
+    "wof:supersedes":[
+        1125310375
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0721,
+    46.7836,
+    15.0721,
+    46.7836
+],
+  "geometry": {"coordinates":[15.0721,46.7836],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259384721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0,48.93333,15.0,48.93333",
+    "geom:latitude":48.93333,
+    "geom:longitude":15.0,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"309.0",
+    "gn:admin3_code":"30925.0",
+    "gn:asciiname":"Langauhauser",
+    "gn:country_code":"AT",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2607306,
+    "gn:latitude":48.93333,
+    "gn:longitude":15.0,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Langauh\u00e4user",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836269,
+        85632785,
+        102049905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2607306
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2f0bbd33a6080ede138cdfccd97e0fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049905,
+            "localadmin_id":1108836269,
+            "locality_id":1259384721,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259384721,
+    "wof:lastmodified":1536999734,
+    "wof:name":"Langauhauser",
+    "wof:parent_id":1108836269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0,
+    48.93333,
+    15.0,
+    48.93333
+],
+  "geometry": {"coordinates":[15.0,48.93333],"type":"Point"}
+}

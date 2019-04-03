@@ -1,0 +1,82 @@
+{
+  "id": 1125334311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61395,48.11573,16.61395,48.11573",
+    "geom:latitude":48.11573,
+    "geom:longitude":16.61395,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4523,
+    "gn:population":5493,
+    "iso:country":"AT",
+    "lbl:latitude":48.11573,
+    "lbl:longitude":16.61395,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871945,
+    "qs_pg:gn_pop":4523,
+    "qs_pg:name":"Fischamend",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":380968,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871945,
+        "qs_pg:id":380968
+    },
+    "wof:country":"AT",
+    "wof:created":1497045309,
+    "wof:geomhash":"fcc7ec7bd5f1c066a0e3335111bee020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049843,
+            "localadmin_id":1125334311,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125334311,
+    "wof:lastmodified":1534530987,
+    "wof:name":"Fischamend",
+    "wof:parent_id":102049843,
+    "wof:placetype":"localadmin",
+    "wof:population":5493,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836773
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61395,
+    48.11573,
+    16.61395,
+    48.11573
+],
+  "geometry": {"coordinates":[16.61395,48.11573],"type":"Point"}
+}

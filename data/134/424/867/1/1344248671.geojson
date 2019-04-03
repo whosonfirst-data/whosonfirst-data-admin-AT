@@ -1,0 +1,71 @@
+{
+  "id": 1344248671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.45,47.56667,10.45,47.56667",
+    "geom:latitude":47.56667,
+    "geom:longitude":10.45,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"708",
+    "gn:admin3_code":"70818.0",
+    "gn:asciiname":"Langenschwand",
+    "gn:country_code":"AT",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773005,
+    "gn:latitude":47.56667,
+    "gn:longitude":10.45,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Langenschwand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837745,
+        85632785,
+        102049745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773005
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4e1028522fb881dc5b1f8a39b3f7870e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837745,
+            "locality_id":1344248671,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1344248671,
+    "wof:lastmodified":1536600828,
+    "wof:name":"Langenschwand",
+    "wof:parent_id":1108837745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45,
+    47.56667,
+    10.45,
+    47.56667
+],
+  "geometry": {"coordinates":[10.45,47.56667],"type":"Point"}
+}

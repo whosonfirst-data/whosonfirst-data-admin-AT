@@ -1,0 +1,74 @@
+{
+  "id": 1360179191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68995,47.48658,10.68995,47.48658",
+    "geom:latitude":47.48658,
+    "geom:longitude":10.68995,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"708.0",
+    "gn:admin3_code":"70835.0",
+    "gn:asciiname":"Waengle",
+    "gn:country_code":"AT",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2761907,
+    "gn:latitude":47.48658,
+    "gn:longitude":10.68995,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"W\u00e4ngle",
+    "gn:population":552,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837839,
+        85632785,
+        102049745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761907
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"007e77b23bcf242d52f02b695beab51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049745,
+            "localadmin_id":1108837839,
+            "locality_id":1360179191,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1360179191,
+    "wof:lastmodified":1536809524,
+    "wof:name":"Waengle",
+    "wof:parent_id":1108837839,
+    "wof:placetype":"locality",
+    "wof:population":552,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68995,
+    47.48658,
+    10.68995,
+    47.48658
+],
+  "geometry": {"coordinates":[10.68995,47.48658],"type":"Point"}
+}

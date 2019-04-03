@@ -1,0 +1,71 @@
+{
+  "id": 1243365317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76521,48.16357,15.76521,48.16357",
+    "geom:latitude":48.16357,
+    "geom:longitude":15.76521,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31903.0",
+    "gn:asciiname":"Ausserkasten",
+    "gn:country_code":"AT",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782132,
+    "gn:latitude":48.16357,
+    "gn:longitude":15.76521,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Ausserkasten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835801,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782132
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"62712db33386407e22638aa9a2b029d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108835801,
+            "locality_id":1243365317,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1243365317,
+    "wof:lastmodified":1536923249,
+    "wof:name":"Ausserkasten",
+    "wof:parent_id":1108835801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76521,
+    48.16357,
+    15.76521,
+    48.16357
+],
+  "geometry": {"coordinates":[15.76521,48.16357],"type":"Point"}
+}

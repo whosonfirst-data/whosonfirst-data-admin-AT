@@ -1,0 +1,82 @@
+{
+  "id": 1193277521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10836,48.28456,16.10836,48.28456",
+    "geom:latitude":48.28456,
+    "geom:longitude":16.10836,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"321",
+    "gn:admin3_code":"32134.0",
+    "gn:asciiname":"Katzelsdorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774610,
+    "gn:latitude":48.28456,
+    "gn:longitude":16.10836,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Katzelsdorf",
+    "gn:population":1008,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0446\u0435\u043b\u044c\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:und_x_variant":[
+        "Katzelsdorf an der Zeil",
+        "Katzelsdorf im Dorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834867,
+        85632785,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774610
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"2b500183e9756a67672c94f11d01ad0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049879,
+            "localadmin_id":1108834867,
+            "locality_id":1193277521,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1193277521,
+    "wof:lastmodified":1537584962,
+    "wof:name":"Katzelsdorf",
+    "wof:parent_id":1108834867,
+    "wof:placetype":"locality",
+    "wof:population":1008,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10836,
+    48.28456,
+    16.10836,
+    48.28456
+],
+  "geometry": {"coordinates":[16.10836,48.28456],"type":"Point"}
+}

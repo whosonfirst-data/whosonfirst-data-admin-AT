@@ -1,0 +1,82 @@
+{
+  "id": 1125271079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23339,48.39456,14.23339,48.39456",
+    "geom:latitude":48.39456,
+    "geom:longitude":14.23339,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1950,
+    "gn:population":2107,
+    "iso:country":"AT",
+    "lbl:latitude":48.39456,
+    "lbl:longitude":14.23339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873233,
+    "qs_pg:gn_pop":1950,
+    "qs_pg:name":"Eidenberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":906889,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873233,
+        "qs_pg:id":906889
+    },
+    "wof:country":"AT",
+    "wof:created":1497042131,
+    "wof:geomhash":"8f5a2d30abb7fdbcdd3d5704e7d5d780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049881,
+            "localadmin_id":1125271079,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125271079,
+    "wof:lastmodified":1534531006,
+    "wof:name":"Eidenberg",
+    "wof:parent_id":102049881,
+    "wof:placetype":"localadmin",
+    "wof:population":2107,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836143
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23339,
+    48.39456,
+    14.23339,
+    48.39456
+],
+  "geometry": {"coordinates":[14.23339,48.39456],"type":"Point"}
+}

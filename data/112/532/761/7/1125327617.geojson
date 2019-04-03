@@ -1,0 +1,91 @@
+{
+  "id": 1125327617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02648,47.799,16.02648,47.799",
+    "geom:latitude":47.799,
+    "geom:longitude":16.02648,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":830,
+    "gn:population":891,
+    "iso:country":"AT",
+    "lbl:latitude":47.799,
+    "lbl:longitude":16.02648,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0426\u0432\u0430\u0439\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0451\u0444\u043b\u0430\u0439\u043d-\u0430\u043d-\u0434\u0435\u0440-\u0425\u043e\u044d\u043d-\u0412\u0430\u043d\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u4ea8\u4e07\u5fb7\u5c71\u9e93\u8d6b\u592b\u83b1\u56e0"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873005,
+    "qs_pg:gn_pop":830,
+    "qs_pg:name":"H\u00f6flein an der Hohen Wand",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108782,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873005,
+        "qs_pg:id":108782
+    },
+    "wof:country":"AT",
+    "wof:created":1497044911,
+    "wof:geomhash":"7811baf62fb64bba67818ad2c72db537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1125327617,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125327617,
+    "wof:lastmodified":1534530986,
+    "wof:name":"H\u00f6flein an der Hohen Wand",
+    "wof:parent_id":102049791,
+    "wof:placetype":"localadmin",
+    "wof:population":891,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836695
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02648,
+    47.799,
+    16.02648,
+    47.799
+],
+  "geometry": {"coordinates":[16.02648,47.799],"type":"Point"}
+}

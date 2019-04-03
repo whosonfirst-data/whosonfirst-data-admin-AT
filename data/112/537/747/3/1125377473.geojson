@@ -1,0 +1,104 @@
+{
+  "id": 1125377473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32756,48.69725,15.32756,48.69725",
+    "geom:latitude":48.69725,
+    "geom:longitude":15.32756,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":48.69725,
+    "lbl:longitude":15.32756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u0646\u0633\u200c\u062a\u0633\u062a\u062c"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u043b\u0435\u043d\u0442\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043b\u0435\u043d\u0442\u0448\u0442\u0430\u0439\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4f26\u7279\u65bd\u6cf0\u683c"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2782800,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Allentsteig",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1002016,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12673700,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782800,
+        "gp:id":12673700,
+        "qs_pg:id":1002016
+    },
+    "wof:country":"AT",
+    "wof:created":1497047840,
+    "wof:geomhash":"50ac9064ddd1244636446b70798e10a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1125377473,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125377473,
+    "wof:lastmodified":1534531044,
+    "wof:name":"Allentsteig",
+    "wof:parent_id":102049895,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835411
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32756,
+    48.69725,
+    15.32756,
+    48.69725
+],
+  "geometry": {"coordinates":[15.32756,48.69725],"type":"Point"}
+}

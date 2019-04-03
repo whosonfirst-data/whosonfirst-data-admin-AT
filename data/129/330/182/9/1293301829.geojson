@@ -1,0 +1,74 @@
+{
+  "id": 1293301829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8575,46.66,13.8575,46.66",
+    "geom:latitude":46.66,
+    "geom:longitude":13.8575,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"207.0",
+    "gn:admin3_code":"20724.0",
+    "gn:asciiname":"Toebring",
+    "gn:country_code":"AT",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763561,
+    "gn:latitude":46.66,
+    "gn:longitude":13.8575,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"T\u00f6bring",
+    "gn:population":352,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838357,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763561
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b35c0a0872ecc0d09db2d68b182e8499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838357,
+            "locality_id":1293301829,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293301829,
+    "wof:lastmodified":1537052347,
+    "wof:name":"Toebring",
+    "wof:parent_id":1108838357,
+    "wof:placetype":"locality",
+    "wof:population":352,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8575,
+    46.66,
+    13.8575,
+    46.66
+],
+  "geometry": {"coordinates":[13.8575,46.66],"type":"Point"}
+}

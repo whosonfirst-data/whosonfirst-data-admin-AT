@@ -1,0 +1,76 @@
+{
+  "id": 1243546993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84868,47.04103,15.84868,47.04103",
+    "geom:latitude":47.04103,
+    "geom:longitude":15.84868,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62314.0",
+    "gn:asciiname":"Palsdorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769271,
+    "gn:latitude":47.04103,
+    "gn:longitude":15.84868,
+    "gn:modification_date":"2017-06-15",
+    "gn:name":"Palsdorf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balsdorf",
+        "Palsdorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838873,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769271
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"952d879233d61b0719130d6b4773220e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838873,
+            "locality_id":1243546993,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1243546993,
+    "wof:lastmodified":1537584944,
+    "wof:name":"Palsdorf",
+    "wof:parent_id":1108838873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84868,
+    47.04103,
+    15.84868,
+    47.04103
+],
+  "geometry": {"coordinates":[15.84868,47.04103],"type":"Point"}
+}

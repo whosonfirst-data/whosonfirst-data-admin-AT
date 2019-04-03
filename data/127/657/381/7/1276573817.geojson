@@ -1,0 +1,74 @@
+{
+  "id": 1276573817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16611,47.48131,15.16611,47.48131",
+    "geom:latitude":47.48131,
+    "geom:longitude":15.16611,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62148.0",
+    "gn:asciiname":"Huettengraben",
+    "gn:country_code":"AT",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775360,
+    "gn:latitude":47.48131,
+    "gn:longitude":15.16611,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"H\u00fcttengraben",
+    "gn:population":67,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839315,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775360
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f8c866c066cfd41204ae9ad60e650b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108839315,
+            "locality_id":1276573817,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276573817,
+    "wof:lastmodified":1536954127,
+    "wof:name":"Huettengraben",
+    "wof:parent_id":1108839315,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16611,
+    47.48131,
+    15.16611,
+    47.48131
+],
+  "geometry": {"coordinates":[15.16611,47.48131],"type":"Point"}
+}

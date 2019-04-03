@@ -1,0 +1,71 @@
+{
+  "id": 1209327365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30639,46.53667,14.30639,46.53667",
+    "geom:latitude":46.53667,
+    "geom:longitude":14.30639,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"204.0",
+    "gn:admin3_code":"20405.0",
+    "gn:asciiname":"Unter-Ferlach",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762956,
+    "gn:latitude":46.53667,
+    "gn:longitude":14.30639,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unter-Ferlach",
+    "gn:population":297,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unterferlach",
+        "Unter-Ferlach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762956
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1c21123f7737d0c3b2301ab4fc26c22a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209327365
+        }
+    ],
+    "wof:id":1209327365,
+    "wof:lastmodified":1537584918,
+    "wof:name":"Unter-Ferlach",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":297,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30639,
+    46.53667,
+    14.30639,
+    46.53667
+],
+  "geometry": {"coordinates":[14.30639,46.53667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326647731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28333,47.1,16.28333,47.1",
+    "geom:latitude":47.1,
+    "geom:longitude":16.28333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10417.0",
+    "gn:asciiname":"Deutsch Tschantschendorf",
+    "gn:country_code":"AT",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781018,
+    "gn:latitude":47.1,
+    "gn:longitude":16.28333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Deutsch Tschantschendorf",
+    "gn:population":539,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838415,
+        85632785,
+        102049729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781018
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"aedb99db56c342fe55ab9f9ab5d95d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049729,
+            "localadmin_id":1108838415,
+            "locality_id":1326647731,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1326647731,
+    "wof:lastmodified":1536816714,
+    "wof:name":"Deutsch Tschantschendorf",
+    "wof:parent_id":1108838415,
+    "wof:placetype":"locality",
+    "wof:population":539,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28333,
+    47.1,
+    16.28333,
+    47.1
+],
+  "geometry": {"coordinates":[16.28333,47.1],"type":"Point"}
+}

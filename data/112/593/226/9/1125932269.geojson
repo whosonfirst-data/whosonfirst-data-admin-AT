@@ -1,0 +1,89 @@
+{
+  "id": 1125932269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33333,46.93333,15.33333,46.93333",
+    "geom:latitude":46.93333,
+    "geom:longitude":15.33333,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":46.93333,
+    "lbl:longitude":15.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Weinzettl"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2761676,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Weinzettel",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182539,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":550283,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839293,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761676,
+        "gp:id":550283,
+        "qs_pg:id":182539
+    },
+    "wof:country":"AT",
+    "wof:created":1497296846,
+    "wof:geomhash":"665f6d62548b325fc380b5048b621f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839293,
+            "locality_id":1125932269,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125932269,
+    "wof:lastmodified":1509401467,
+    "wof:name":"Weinzettel",
+    "wof:parent_id":1108839293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33333,
+    46.93333,
+    15.33333,
+    46.93333
+],
+  "geometry": {"coordinates":[15.33333,46.93333],"type":"Point"}
+}

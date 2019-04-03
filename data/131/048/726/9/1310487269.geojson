@@ -1,0 +1,71 @@
+{
+  "id": 1310487269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65,47.46667,9.65,47.46667",
+    "geom:latitude":47.46667,
+    "geom:longitude":9.65,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"802",
+    "gn:admin3_code":"80217.0",
+    "gn:asciiname":"Birkenfeld",
+    "gn:country_code":"AT",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781751,
+    "gn:latitude":47.46667,
+    "gn:longitude":9.65,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Birkenfeld",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838099,
+        85632785,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781751
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a28b82450ac2a69c66ef06a096921a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838099,
+            "locality_id":1310487269,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1310487269,
+    "wof:lastmodified":1536943766,
+    "wof:name":"Birkenfeld",
+    "wof:parent_id":1108838099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65,
+    47.46667,
+    9.65,
+    47.46667
+],
+  "geometry": {"coordinates":[9.65,47.46667],"type":"Point"}
+}

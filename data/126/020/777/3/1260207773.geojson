@@ -1,0 +1,74 @@
+{
+  "id": 1260207773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73333,48.35,14.73333,48.35",
+    "geom:latitude":48.35,
+    "geom:longitude":14.73333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40613.0",
+    "gn:asciiname":"Hoefnerberg",
+    "gn:country_code":"AT",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775802,
+    "gn:latitude":48.35,
+    "gn:longitude":14.73333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"H\u00f6fnerberg",
+    "gn:population":151,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835087,
+        85632785,
+        102049883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775802
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d8a133c0ab2b038c7d12604e1b902ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049883,
+            "localadmin_id":1108835087,
+            "locality_id":1260207773,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1260207773,
+    "wof:lastmodified":1536814046,
+    "wof:name":"Hoefnerberg",
+    "wof:parent_id":1108835087,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73333,
+    48.35,
+    14.73333,
+    48.35
+],
+  "geometry": {"coordinates":[14.73333,48.35],"type":"Point"}
+}

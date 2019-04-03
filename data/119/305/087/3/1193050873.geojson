@@ -1,0 +1,78 @@
+{
+  "id": 1193050873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3332,48.29193,13.3332,48.29193",
+    "geom:latitude":48.29193,
+    "geom:longitude":13.3332,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"412.0",
+    "gn:admin3_code":"41226.0",
+    "gn:asciiname":"Sankt Georgen bei Obernberg am Inn",
+    "gn:country_code":"AT",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2766695,
+    "gn:latitude":48.29193,
+    "gn:longitude":13.3332,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Georgen bei Obernberg am Inn",
+    "gn:population":140,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Georgen",
+        "Sankt Georgen bei Obernberg am Inn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835681,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766695
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b22b12db1e29ea9574033e3ee413b2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835681,
+            "locality_id":1193050873,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1193050873,
+    "wof:lastmodified":1537584935,
+    "wof:name":"Sankt Georgen bei Obernberg am Inn",
+    "wof:parent_id":1108835681,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.3332,
+    48.29193,
+    13.3332,
+    48.29193
+],
+  "geometry": {"coordinates":[13.3332,48.29193],"type":"Point"}
+}

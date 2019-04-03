@@ -1,0 +1,98 @@
+{
+  "id": 1125275621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51614,46.97218,15.51614,46.97218",
+    "geom:latitude":46.97218,
+    "geom:longitude":15.51614,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3035,
+    "gn:population":3035,
+    "iso:country":"AT",
+    "lbl:latitude":46.97218,
+    "lbl:longitude":15.51614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872327,
+    "qs_pg:gn_pop":3035,
+    "qs_pg:name":"Fernitz",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":36,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":904307,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674870,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872327,
+        "gp:id":12674870,
+        "qs_pg:id":904307
+    },
+    "wof:concordances_alt":{
+        "gn:id":2779631,
+        "qs_pg:id":399810
+    },
+    "wof:country":"AT",
+    "wof:created":1497042298,
+    "wof:geomhash":"e246dad50b8416498e3bbf8ef10281ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1125275621,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125275621,
+    "wof:lastmodified":1536698126,
+    "wof:name":"Fernitz",
+    "wof:parent_id":102049741,
+    "wof:placetype":"localadmin",
+    "wof:population":3035,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839205
+    ],
+    "wof:supersedes":[
+        1125299725
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51614,
+    46.97218,
+    15.51614,
+    46.97218
+],
+  "geometry": {"coordinates":[15.51614,46.97218],"type":"Point"}
+}

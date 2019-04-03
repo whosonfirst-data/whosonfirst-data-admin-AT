@@ -1,0 +1,75 @@
+{
+  "id": 1226366781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7469,48.274,13.7469,48.274",
+    "geom:latitude":48.274,
+    "geom:longitude":13.7469,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40829.0",
+    "gn:asciiname":"Widldorf",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2761407,
+    "gn:latitude":48.274,
+    "gn:longitude":13.7469,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Widldorf",
+    "gn:population":105,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835229,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2761407
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9075e16672a21a75a44deda953e026f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835229,
+            "locality_id":1226366781,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226366781,
+    "wof:lastmodified":1536759427,
+    "wof:name":"Widldorf",
+    "wof:parent_id":1108835229,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7469,
+    48.274,
+    13.7469,
+    48.274
+],
+  "geometry": {"coordinates":[13.7469,48.274],"type":"Point"}
+}

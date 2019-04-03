@@ -1,0 +1,71 @@
+{
+  "id": 1293482383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98333,46.95,15.98333,46.95",
+    "geom:latitude":46.95,
+    "geom:longitude":15.98333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62378.0",
+    "gn:asciiname":"Rattenberg",
+    "gn:country_code":"AT",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2608077,
+    "gn:latitude":46.95,
+    "gn:longitude":15.98333,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Rattenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839261,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2608077
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"26026629e3ed4b77811152b53c7f3db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839261,
+            "locality_id":1293482383,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293482383,
+    "wof:lastmodified":1536794691,
+    "wof:name":"Rattenberg",
+    "wof:parent_id":1108839261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98333,
+    46.95,
+    15.98333,
+    46.95
+],
+  "geometry": {"coordinates":[15.98333,46.95],"type":"Point"}
+}

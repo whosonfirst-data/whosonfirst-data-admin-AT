@@ -1,0 +1,74 @@
+{
+  "id": 1293392047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31348,48.71045,15.31348,48.71045",
+    "geom:latitude":48.71045,
+    "geom:longitude":15.31348,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"325.0",
+    "gn:admin3_code":"32501.0",
+    "gn:asciiname":"Reinsbach",
+    "gn:country_code":"AT",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767698,
+    "gn:latitude":48.71045,
+    "gn:longitude":15.31348,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Reinsbach",
+    "gn:population":74,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835411,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767698
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e4e8ff4c92d89247b7cb19541e3c789d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108835411,
+            "locality_id":1293392047,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293392047,
+    "wof:lastmodified":1536925301,
+    "wof:name":"Reinsbach",
+    "wof:parent_id":1108835411,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31348,
+    48.71045,
+    15.31348,
+    48.71045
+],
+  "geometry": {"coordinates":[15.31348,48.71045],"type":"Point"}
+}

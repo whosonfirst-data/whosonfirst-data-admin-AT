@@ -1,0 +1,82 @@
+{
+  "id": 1125275017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48969,47.99101,13.48969,47.99101",
+    "geom:latitude":47.99101,
+    "geom:longitude":13.48969,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4746,
+    "gn:population":4890,
+    "iso:country":"AT",
+    "lbl:latitude":47.99101,
+    "lbl:longitude":13.48969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873270,
+    "qs_pg:gn_pop":4746,
+    "qs_pg:name":"V\u00f6cklamarkt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108886,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873270,
+        "qs_pg:id":108886
+    },
+    "wof:country":"AT",
+    "wof:created":1497042276,
+    "wof:geomhash":"18e7c1e9168840dae418ef6fb715f5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1125275017,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125275017,
+    "wof:lastmodified":1534531022,
+    "wof:name":"V\u00f6cklamarkt",
+    "wof:parent_id":102049817,
+    "wof:placetype":"localadmin",
+    "wof:population":4890,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836523
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48969,
+    47.99101,
+    13.48969,
+    47.99101
+],
+  "geometry": {"coordinates":[13.48969,47.99101],"type":"Point"}
+}

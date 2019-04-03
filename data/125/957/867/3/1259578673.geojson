@@ -1,0 +1,71 @@
+{
+  "id": 1259578673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75,47.21667,15.75,47.21667",
+    "geom:latitude":47.21667,
+    "geom:longitude":15.75,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61740.0",
+    "gn:asciiname":"Kulming",
+    "gn:country_code":"AT",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2773257,
+    "gn:latitude":47.21667,
+    "gn:longitude":15.75,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Kulming",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839385,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2773257
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5c2b67aae3f29eebd0409a860d12bf8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108839385,
+            "locality_id":1259578673,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259578673,
+    "wof:lastmodified":1536722142,
+    "wof:name":"Kulming",
+    "wof:parent_id":1108839385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75,
+    47.21667,
+    15.75,
+    47.21667
+],
+  "geometry": {"coordinates":[15.75,47.21667],"type":"Point"}
+}

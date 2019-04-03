@@ -1,0 +1,74 @@
+{
+  "id": 1343365257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41122,48.12943,13.41122,48.12943",
+    "geom:latitude":48.12943,
+    "geom:longitude":13.41122,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"412",
+    "gn:admin3_code":"41234.0",
+    "gn:asciiname":"Gitthof",
+    "gn:country_code":"AT",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2778544,
+    "gn:latitude":48.12943,
+    "gn:longitude":13.41122,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Gitthof",
+    "gn:population":57,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835699,
+        85632785,
+        102049851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2778544
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"96b9d2d5db1f17764dac3f541841cb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049851,
+            "localadmin_id":1108835699,
+            "locality_id":1343365257,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343365257,
+    "wof:lastmodified":1536882895,
+    "wof:name":"Gitthof",
+    "wof:parent_id":1108835699,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41122,
+    48.12943,
+    13.41122,
+    48.12943
+],
+  "geometry": {"coordinates":[13.41122,48.12943],"type":"Point"}
+}

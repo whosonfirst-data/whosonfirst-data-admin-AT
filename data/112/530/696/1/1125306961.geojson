@@ -1,0 +1,99 @@
+{
+  "id": 1125306961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.69183,47.53627,11.69183,47.53627",
+    "geom:latitude":47.53627,
+    "geom:longitude":11.69183,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2097,
+    "gn:population":2226,
+    "iso:country":"AT",
+    "lbl:latitude":47.53627,
+    "lbl:longitude":11.69183,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Achenkirch am Achensee"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872622,
+    "qs_pg:gn_pop":2097,
+    "qs_pg:name":"Achenkirch",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Tirol",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":540,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1192681,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675326,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Tirol",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681661,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872622,
+        "gp:id":12675326,
+        "qs_pg:id":1192681
+    },
+    "wof:country":"AT",
+    "wof:created":1497043753,
+    "wof:geomhash":"d6228a56adccffb94a3b72be39088afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1125306961,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1125306961,
+    "wof:lastmodified":1534379211,
+    "wof:name":"Achenkirch",
+    "wof:parent_id":102049755,
+    "wof:placetype":"localadmin",
+    "wof:population":2226,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837847
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.69183,
+    47.53627,
+    11.69183,
+    47.53627
+],
+  "geometry": {"coordinates":[11.69183,47.53627],"type":"Point"}
+}

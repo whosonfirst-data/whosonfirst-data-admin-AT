@@ -1,0 +1,74 @@
+{
+  "id": 1210019577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46667,46.88333,14.46667,46.88333",
+    "geom:latitude":46.88333,
+    "geom:longitude":14.46667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20501.0",
+    "gn:asciiname":"Toescheldorf",
+    "gn:country_code":"AT",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2763506,
+    "gn:latitude":46.88333,
+    "gn:longitude":14.46667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"T\u00f6scheldorf",
+    "gn:population":5,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838201,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2763506
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"8806154654075a8405881ef278a9ecf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838201,
+            "locality_id":1210019577,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1210019577,
+    "wof:lastmodified":1536393491,
+    "wof:name":"Toescheldorf",
+    "wof:parent_id":1108838201,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46667,
+    46.88333,
+    14.46667,
+    46.88333
+],
+  "geometry": {"coordinates":[14.46667,46.88333],"type":"Point"}
+}

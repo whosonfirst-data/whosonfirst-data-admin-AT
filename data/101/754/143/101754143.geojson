@@ -1,0 +1,87 @@
+{
+  "id": 101754143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":907875.169099,
+    "geom:bbox":"15.4514275688,46.9821822586,15.4679224913,46.9941199199",
+    "geom:latitude":46.988863,
+    "geom:longitude":15.460467,
+    "iso:country":"AT",
+    "lbl:latitude":46.9889,
+    "lbl:longitude":15.461278,
+    "mps:latitude":46.9889,
+    "mps:longitude":15.461278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Waganiec"
+    ],
+    "name:nld_x_preferred":[
+        "Waganiec"
+    ],
+    "name:pol_x_preferred":[
+        "Waganiec"
+    ],
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Steiermark",
+    "qs:a1r":"0",
+    "qs:a2":"Graz-Umgebung",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:la":"Stattegg",
+    "qs:la_lc":"*AT60646",
+    "qs:level":"locality",
+    "qs:loc":"Wagnitz",
+    "qs:loc_alt":"Wagnitz",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839207,
+        85632785,
+        102049741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762104,
+        "gp:id":20095125,
+        "qs:id":2
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9b8f8ef0f953664e521c69ed927176c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839207,
+            "locality_id":101754143,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":101754143,
+    "wof:lastmodified":1527641859,
+    "wof:name":"Wagnitz",
+    "wof:parent_id":1108839207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45142756877249,
+    46.9821822585584,
+    15.46792249126327,
+    46.99411991989962
+],
+  "geometry": {"coordinates":[[[15.45142756877249,46.99271512624739],[15.45461596289596,46.99374666552268],[15.45854907422961,46.99332526073698],[15.46070600624256,46.99411991989962],[15.46080657745165,46.99411483733735],[15.46071313989103,46.99321733870687],[15.46333456269537,46.99308481229502],[15.46324108480275,46.99218731572745],[15.46455176949081,46.99212103002378],[15.46445827348663,46.99122353421222],[15.46576893296162,46.99115723394669],[15.46567541884571,46.99025973889133],[15.4669860531078,46.9901934240645],[15.46661194884734,46.98660344355693],[15.46792249126327,46.98653711809413],[15.46773541934584,46.98474212714467],[15.46511442035182,46.98487475697073],[15.46483397650502,46.9821822585584],[15.4609026553976,46.98238107252917],[15.46118289938136,46.9850735827049],[15.45856187042358,46.98520605385733],[15.4586552488658,46.98610355875815],[15.45734470768622,46.986169771839],[15.45753143244667,46.98796478259754],[15.45431128376742,46.98812739784626],[15.45142756877249,46.99271512624739]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293511687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71354,47.34592,15.71354,47.34592",
+    "geom:latitude":47.34592,
+    "geom:longitude":15.71354,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"617.0",
+    "gn:admin3_code":"61757.0",
+    "gn:asciiname":"Oed",
+    "gn:country_code":"AT",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769522,
+    "gn:latitude":47.34592,
+    "gn:longitude":15.71354,
+    "gn:modification_date":"2017-06-22",
+    "gn:name":"Oed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838855,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769522
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"46853073b91eb4c81df90f3136892414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838855,
+            "locality_id":1293511687,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293511687,
+    "wof:lastmodified":1536752150,
+    "wof:name":"Oed",
+    "wof:parent_id":1108838855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71354,
+    47.34592,
+    15.71354,
+    47.34592
+],
+  "geometry": {"coordinates":[15.71354,47.34592],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125321751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61266,48.09691,15.61266,48.09691",
+    "geom:latitude":48.09691,
+    "geom:longitude":15.61266,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6634,
+    "gn:population":6558,
+    "iso:country":"AT",
+    "lbl:latitude":48.09691,
+    "lbl:longitude":15.61266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u0445\u0435\u043b\u044c\u043c\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u0433\u0435\u043b\u044c\u043c\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u5a01\u5ec9\u65af\u5821"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871897,
+    "qs_pg:gn_pop":6634,
+    "qs_pg:name":"Wilhelmsburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":743308,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871897,
+        "qs_pg:id":743308
+    },
+    "wof:country":"AT",
+    "wof:created":1497044570,
+    "wof:geomhash":"ce3a005dd6ce3f7382a4951d19730d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1125321751,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125321751,
+    "wof:lastmodified":1534530981,
+    "wof:name":"Wilhelmsburg",
+    "wof:parent_id":102049869,
+    "wof:placetype":"localadmin",
+    "wof:population":6558,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835833
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61266,
+    48.09691,
+    15.61266,
+    48.09691
+],
+  "geometry": {"coordinates":[15.61266,48.09691],"type":"Point"}
+}

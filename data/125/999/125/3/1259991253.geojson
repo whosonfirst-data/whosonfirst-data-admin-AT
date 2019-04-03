@@ -1,0 +1,74 @@
+{
+  "id": 1259991253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96667,48.8,14.96667,48.8",
+    "geom:latitude":48.8,
+    "geom:longitude":14.96667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"309",
+    "gn:admin3_code":"30908.0",
+    "gn:asciiname":"Breitensee",
+    "gn:country_code":"AT",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781455,
+    "gn:latitude":48.8,
+    "gn:longitude":14.96667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Breitensee",
+    "gn:population":179,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835467,
+        85632785,
+        102049905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781455
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"faed3666c1d0761d2b3f91b95015645c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049905,
+            "localadmin_id":1108835467,
+            "locality_id":1259991253,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259991253,
+    "wof:lastmodified":1536621845,
+    "wof:name":"Breitensee",
+    "wof:parent_id":1108835467,
+    "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96667,
+    48.8,
+    14.96667,
+    48.8
+],
+  "geometry": {"coordinates":[14.96667,48.8],"type":"Point"}
+}

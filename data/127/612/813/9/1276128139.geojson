@@ -1,0 +1,74 @@
+{
+  "id": 1276128139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36667,47.28333,16.36667,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":16.36667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"109.0",
+    "gn:admin3_code":"10926.0",
+    "gn:asciiname":"Zuberbach",
+    "gn:country_code":"AT",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2760461,
+    "gn:latitude":47.28333,
+    "gn:longitude":16.36667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Zuberbach",
+    "gn:population":198,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838721,
+        85632785,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2760461
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"d8f9128b17ec80dc570533c079118dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838721,
+            "locality_id":1276128139,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1276128139,
+    "wof:lastmodified":1537051295,
+    "wof:name":"Zuberbach",
+    "wof:parent_id":1108838721,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36667000000001,
+    47.28333,
+    16.36667000000001,
+    47.28333
+],
+  "geometry": {"coordinates":[16.36667000000001,47.28333],"type":"Point"}
+}

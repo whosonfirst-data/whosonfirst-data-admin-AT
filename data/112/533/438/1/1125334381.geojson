@@ -1,0 +1,104 @@
+{
+  "id": 1125334381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46667,47.98333,16.46667,47.98333",
+    "geom:latitude":47.98333,
+    "geom:longitude":16.46667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"AT",
+    "lbl:latitude":47.98333,
+    "lbl:longitude":16.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0442\u0442\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0430\u043d-\u0434\u0435\u0440-\u0424\u0438\u0448\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0442\u0442\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0430\u043d-\u0434\u0435\u0440-\u0424\u0438\u0448\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mitterndorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u6c99\u6cb3\u7554\u7c73\u7279\u6069\u591a\u592b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":2771409,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mitterndorf an der Fischa",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":535812,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674158,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771409,
+        "gp:id":12674158,
+        "qs_pg:id":535812
+    },
+    "wof:country":"AT",
+    "wof:created":1497045313,
+    "wof:geomhash":"9c1bfd52d1dc525395b349528fe6ca58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1125334381,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125334381,
+    "wof:lastmodified":1534531053,
+    "wof:name":"Mitterndorf an der Fischa",
+    "wof:parent_id":102049829,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836607
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46667,
+    47.98333,
+    16.46667,
+    47.98333
+],
+  "geometry": {"coordinates":[16.46667,47.98333],"type":"Point"}
+}

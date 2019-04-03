@@ -1,0 +1,66 @@
+{
+  "id": 1209626789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92546,48.16929,15.92546,48.16929",
+    "geom:latitude":48.16929,
+    "geom:longitude":15.92546,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31901.0",
+    "gn:asciiname":"Hart",
+    "gn:country_code":"AT",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776818,
+    "gn:latitude":48.16929,
+    "gn:longitude":15.92546,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Hart",
+    "gn:population":81,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776818
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"5359e7c31a137e3a7a5eddc0808163e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209626789
+        }
+    ],
+    "wof:id":1209626789,
+    "wof:lastmodified":1536281329,
+    "wof:name":"Hart",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92546,
+    48.16929,
+    15.92546,
+    48.16929
+],
+  "geometry": {"coordinates":[15.92546,48.16929],"type":"Point"}
+}

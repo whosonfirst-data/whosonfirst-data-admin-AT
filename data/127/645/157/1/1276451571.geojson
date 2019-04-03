@@ -1,0 +1,74 @@
+{
+  "id": 1276451571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14498,46.73021,14.14498,46.73021",
+    "geom:latitude":46.73021,
+    "geom:longitude":14.14498,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Raunach",
+    "gn:country_code":"AT",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591940,
+    "gn:latitude":46.73021,
+    "gn:longitude":14.14498,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Raunach",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838123,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591940
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e15bf03f2aa1bfbc953733f433730f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838123,
+            "locality_id":1276451571,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1276451571,
+    "wof:lastmodified":1536617991,
+    "wof:name":"Raunach",
+    "wof:parent_id":1108838123,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14498,
+    46.73021,
+    14.14498,
+    46.73021
+],
+  "geometry": {"coordinates":[14.14498,46.73021],"type":"Point"}
+}

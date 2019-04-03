@@ -1,0 +1,74 @@
+{
+  "id": 1276759905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8107,47.10156,15.8107,47.10156",
+    "geom:latitude":47.10156,
+    "geom:longitude":15.8107,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"617",
+    "gn:admin3_code":"61748.0",
+    "gn:asciiname":"Untergrossau",
+    "gn:country_code":"AT",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592414,
+    "gn:latitude":47.10156,
+    "gn:longitude":15.8107,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Untergro\u00dfau",
+    "gn:population":729,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838913,
+        85632785,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592414
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"61309c77ce56e4a5e86775b2d46bdc40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1108838913,
+            "locality_id":1276759905,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1276759905,
+    "wof:lastmodified":1536704550,
+    "wof:name":"Untergrossau",
+    "wof:parent_id":1108838913,
+    "wof:placetype":"locality",
+    "wof:population":729,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8107,
+    47.10156,
+    15.8107,
+    47.10156
+],
+  "geometry": {"coordinates":[15.8107,47.10156],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209539809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66228,48.53303,14.66228,48.53303",
+    "geom:latitude":48.53303,
+    "geom:longitude":14.66228,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40616.0",
+    "gn:asciiname":"Rindlberg",
+    "gn:country_code":"AT",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767395,
+    "gn:latitude":48.53303,
+    "gn:longitude":14.66228,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rindlberg",
+    "gn:population":34,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767395
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"7745c6e1e4bf29cea45b70eb3dea9d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209539809
+        }
+    ],
+    "wof:id":1209539809,
+    "wof:lastmodified":1536284021,
+    "wof:name":"Rindlberg",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66228,
+    48.53303,
+    14.66228,
+    48.53303
+],
+  "geometry": {"coordinates":[14.66228,48.53303],"type":"Point"}
+}

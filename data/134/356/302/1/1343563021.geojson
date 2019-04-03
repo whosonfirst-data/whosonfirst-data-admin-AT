@@ -1,0 +1,79 @@
+{
+  "id": 1343563021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10836,47.77764,16.10836,47.77764",
+    "geom:latitude":47.77764,
+    "geom:longitude":16.10836,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"318",
+    "gn:admin3_code":"31831.0",
+    "gn:asciiname":"Neusiedl am Steinfelde",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2770681,
+    "gn:latitude":47.77764,
+    "gn:longitude":16.10836,
+    "gn:modification_date":"2018-08-01",
+    "gn:name":"Neusiedl am Steinfelde",
+    "gn:population":431,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neusiedl",
+        "Neusiedl am Steinfeld"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835809,
+        85632785,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2770681
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"b5fabc674e3a20ee979582adcfc20b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1108835809,
+            "locality_id":1343563021,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1343563021,
+    "wof:lastmodified":1537584949,
+    "wof:name":"Neusiedl am Steinfelde",
+    "wof:parent_id":1108835809,
+    "wof:placetype":"locality",
+    "wof:population":431,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10836,
+    47.77764000000001,
+    16.10836,
+    47.77764000000001
+],
+  "geometry": {"coordinates":[16.10836,47.77764000000001],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1125272563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77548,46.66233,14.77548,46.66233",
+    "geom:latitude":46.66233,
+    "geom:longitude":14.77548,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1542,
+    "gn:population":1520,
+    "iso:country":"AT",
+    "lbl:latitude":46.66233,
+    "lbl:longitude":14.77548,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0420\u0443\u0434\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u0435\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Ruda"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c81\u767b"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871677,
+    "qs_pg:gn_pop":1542,
+    "qs_pg:name":"Ruden",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108321,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681655,
+        102049685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871677,
+        "qs_pg:id":108321
+    },
+    "wof:country":"AT",
+    "wof:created":1497042186,
+    "wof:geomhash":"b987dcbd738f671cf5f29d70425e73cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049685,
+            "localadmin_id":1125272563,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125272563,
+    "wof:lastmodified":1534530998,
+    "wof:name":"Ruden",
+    "wof:parent_id":102049685,
+    "wof:placetype":"localadmin",
+    "wof:population":1520,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838383
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77548,
+    46.66233,
+    14.77548,
+    46.66233
+],
+  "geometry": {"coordinates":[14.77548,46.66233],"type":"Point"}
+}

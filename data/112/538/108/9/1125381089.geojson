@@ -1,0 +1,91 @@
+{
+  "id": 1125381089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1818,48.76239,15.1818,48.76239",
+    "geom:latitude":48.76239,
+    "geom:longitude":15.1818,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2605,
+    "gn:population":2666,
+    "iso:country":"AT",
+    "lbl:latitude":48.76239,
+    "lbl:longitude":15.1818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u042f\u0443\u0434\u043b\u0438\u043d\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0442\u0438\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u8482\u65af"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871924,
+    "qs_pg:gn_pop":2605,
+    "qs_pg:name":"Vitis",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":380961,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871924,
+        "qs_pg:id":380961
+    },
+    "wof:country":"AT",
+    "wof:created":1497048051,
+    "wof:geomhash":"1eb82cdd78cb56f311e27b6ae78fdc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049903,
+            "localadmin_id":1125381089,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125381089,
+    "wof:lastmodified":1534530987,
+    "wof:name":"Vitis",
+    "wof:parent_id":102049903,
+    "wof:placetype":"localadmin",
+    "wof:population":2666,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836749
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1818,
+    48.76239,
+    15.1818,
+    48.76239
+],
+  "geometry": {"coordinates":[15.1818,48.76239],"type":"Point"}
+}

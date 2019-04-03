@@ -1,0 +1,71 @@
+{
+  "id": 1209818401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71823,46.68345,13.71823,46.68345",
+    "geom:latitude":46.68345,
+    "geom:longitude":13.71823,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"207",
+    "gn:admin3_code":"20726.0",
+    "gn:asciiname":"Weissenstein ob der Drau",
+    "gn:country_code":"AT",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11524770,
+    "gn:latitude":46.68345,
+    "gn:longitude":13.71823,
+    "gn:modification_date":"2017-05-06",
+    "gn:name":"Weissenstein ob der Drau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838361,
+        85632785,
+        102049683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11524770
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"89aad5265562163ff4bfd254d638601a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838361,
+            "locality_id":1209818401,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1209818401,
+    "wof:lastmodified":1536381406,
+    "wof:name":"Weissenstein ob der Drau",
+    "wof:parent_id":1108838361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71823,
+    46.68345,
+    13.71823,
+    46.68345
+],
+  "geometry": {"coordinates":[13.71823,46.68345],"type":"Point"}
+}

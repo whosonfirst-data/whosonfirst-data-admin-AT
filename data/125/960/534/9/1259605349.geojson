@@ -1,0 +1,71 @@
+{
+  "id": 1259605349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74371,46.79033,15.74371,46.79033",
+    "geom:latitude":46.79033,
+    "geom:longitude":15.74371,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"623",
+    "gn:admin3_code":"62388.0",
+    "gn:asciiname":"Unterrosenberg",
+    "gn:country_code":"AT",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11592475,
+    "gn:latitude":46.79033,
+    "gn:longitude":15.74371,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Unterrosenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839335,
+        85632785,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11592475
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9da9ecc3c105cf8ca34ea1672ae3e89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1108839335,
+            "locality_id":1259605349,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1259605349,
+    "wof:lastmodified":1536683281,
+    "wof:name":"Unterrosenberg",
+    "wof:parent_id":1108839335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74371,
+    46.79033,
+    15.74371,
+    46.79033
+],
+  "geometry": {"coordinates":[15.74371,46.79033],"type":"Point"}
+}

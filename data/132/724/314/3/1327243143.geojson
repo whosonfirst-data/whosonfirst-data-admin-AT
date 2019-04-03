@@ -1,0 +1,78 @@
+{
+  "id": 1327243143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88838,48.69782,15.88838,48.69782",
+    "geom:latitude":48.69782,
+    "geom:longitude":15.88838,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"310.0",
+    "gn:admin3_code":"31035.0",
+    "gn:asciiname":"Rohrendorf an der Pulkau",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2767272,
+    "gn:latitude":48.69782,
+    "gn:longitude":15.88838,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rohrendorf an der Pulkau",
+    "gn:population":128,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rohrendorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835787,
+        85632785,
+        102049899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2767272
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e2ec0272222c4b7118e890ec03dd7245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049899,
+            "localadmin_id":1108835787,
+            "locality_id":1327243143,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1327243143,
+    "wof:lastmodified":1537584937,
+    "wof:name":"Rohrendorf an der Pulkau",
+    "wof:parent_id":1108835787,
+    "wof:placetype":"locality",
+    "wof:population":128,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88838,
+    48.69782,
+    15.88838,
+    48.69782
+],
+  "geometry": {"coordinates":[15.88838,48.69782],"type":"Point"}
+}

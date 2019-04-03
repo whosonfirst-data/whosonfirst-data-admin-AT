@@ -1,0 +1,74 @@
+{
+  "id": 1276762781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80012,48.20889,13.80012,48.20889",
+    "geom:latitude":48.20889,
+    "geom:longitude":13.80012,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40805.0",
+    "gn:asciiname":"Schuetzendorf",
+    "gn:country_code":"AT",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609262,
+    "gn:latitude":48.20889,
+    "gn:longitude":13.80012,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sch\u00fctzendorf",
+    "gn:population":281,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835175,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609262
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e871747236d7eed95523aa2651093582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835175,
+            "locality_id":1276762781,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1276762781,
+    "wof:lastmodified":1536700692,
+    "wof:name":"Schuetzendorf",
+    "wof:parent_id":1108835175,
+    "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80012,
+    48.20889,
+    13.80012,
+    48.20889
+],
+  "geometry": {"coordinates":[13.80012,48.20889],"type":"Point"}
+}

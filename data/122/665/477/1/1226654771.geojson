@@ -1,0 +1,74 @@
+{
+  "id": 1226654771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24056,46.71222,14.24056,46.71222",
+    "geom:latitude":46.71222,
+    "geom:longitude":14.24056,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20515.0",
+    "gn:asciiname":"Metschach",
+    "gn:country_code":"AT",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219086,
+    "gn:latitude":46.71222,
+    "gn:longitude":14.24056,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Metschach",
+    "gn:population":9,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838335,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219086
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"00877ca6e2c83ebd7d14bbb4df302e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838335,
+            "locality_id":1226654771,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226654771,
+    "wof:lastmodified":1536845255,
+    "wof:name":"Metschach",
+    "wof:parent_id":1108838335,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24056,
+    46.71222,
+    14.24056,
+    46.71222
+],
+  "geometry": {"coordinates":[14.24056,46.71222],"type":"Point"}
+}

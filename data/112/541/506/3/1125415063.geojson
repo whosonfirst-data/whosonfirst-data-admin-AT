@@ -1,0 +1,86 @@
+{
+  "id": 1125415063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.918647,48.231305,13.918647,48.231305",
+    "geom:latitude":48.231305,
+    "geom:longitude":13.918647,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":48.231305,
+    "lbl:longitude":13.918647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bad Schallerbach",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":453,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":248211,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674270,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674270,
+        "qs_pg:id":248211
+    },
+    "wof:country":"AT",
+    "wof:created":1497051166,
+    "wof:geomhash":"64eff477f3586f680873973b014d4ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1125415063,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125415063,
+    "wof:lastmodified":1534531042,
+    "wof:name":"Bad Schallerbach",
+    "wof:parent_id":102049861,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835169
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.918647,
+    48.231305,
+    13.918647,
+    48.231305
+],
+  "geometry": {"coordinates":[13.918647,48.231305],"type":"Point"}
+}

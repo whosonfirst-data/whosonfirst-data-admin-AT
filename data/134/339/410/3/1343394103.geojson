@@ -1,0 +1,74 @@
+{
+  "id": 1343394103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73965,48.43082,13.73965,48.43082",
+    "geom:latitude":48.43082,
+    "geom:longitude":13.73965,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40816.0",
+    "gn:asciiname":"Oberhoerzing",
+    "gn:country_code":"AT",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611761,
+    "gn:latitude":48.43082,
+    "gn:longitude":13.73965,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Oberh\u00f6rzing",
+    "gn:population":13,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835201,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611761
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6520fbd63cfe83df367d4cdebbd4d664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835201,
+            "locality_id":1343394103,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1343394103,
+    "wof:lastmodified":1536840995,
+    "wof:name":"Oberhoerzing",
+    "wof:parent_id":1108835201,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73965,
+    48.43082,
+    13.73965,
+    48.43082
+],
+  "geometry": {"coordinates":[13.73965,48.43082],"type":"Point"}
+}

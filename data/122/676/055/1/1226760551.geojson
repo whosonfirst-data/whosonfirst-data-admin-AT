@@ -1,0 +1,74 @@
+{
+  "id": 1226760551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43722,46.98056,14.43722,46.98056",
+    "geom:latitude":46.98056,
+    "geom:longitude":14.43722,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20505.0",
+    "gn:asciiname":"Wagendorf",
+    "gn:country_code":"AT",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219414,
+    "gn:latitude":46.98056,
+    "gn:longitude":14.43722,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wagendorf",
+    "gn:population":6,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838211,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219414
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"97467a2597a6f07ff0622cdef62a6d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838211,
+            "locality_id":1226760551,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226760551,
+    "wof:lastmodified":1536694384,
+    "wof:name":"Wagendorf",
+    "wof:parent_id":1108838211,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43722,
+    46.98056,
+    14.43722,
+    46.98056
+],
+  "geometry": {"coordinates":[14.43722,46.98056],"type":"Point"}
+}

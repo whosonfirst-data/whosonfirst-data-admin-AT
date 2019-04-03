@@ -1,0 +1,82 @@
+{
+  "id": 1125355917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74534,47.25714,15.74534,47.25714",
+    "geom:latitude":47.25714,
+    "geom:longitude":15.74534,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1241,
+    "gn:population":1194,
+    "iso:country":"AT",
+    "lbl:latitude":47.25714,
+    "lbl:longitude":15.74534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873558,
+    "qs_pg:gn_pop":1241,
+    "qs_pg:name":"Floing",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743550,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873558,
+        "qs_pg:id":743550
+    },
+    "wof:country":"AT",
+    "wof:created":1497046471,
+    "wof:geomhash":"2e06e3a040f2860738a04184623339d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049765,
+            "localadmin_id":1125355917,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125355917,
+    "wof:lastmodified":1534379179,
+    "wof:name":"Floing",
+    "wof:parent_id":102049765,
+    "wof:placetype":"localadmin",
+    "wof:population":1194,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839365
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74534,
+    47.25714,
+    15.74534,
+    47.25714
+],
+  "geometry": {"coordinates":[15.74534,47.25714],"type":"Point"}
+}

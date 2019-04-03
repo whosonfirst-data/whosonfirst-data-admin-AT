@@ -1,0 +1,113 @@
+{
+  "id": 85898423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4568512.079848,
+    "geom:bbox":"14.288661,48.35782,14.288661,48.35782",
+    "geom:latitude":48.35782,
+    "geom:longitude":14.288661,
+    "iso:country":"AT",
+    "lbl:latitude":48.35782,
+    "lbl:longitude":14.288661,
+    "mps:latitude":48.381794,
+    "mps:longitude":14.257507,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:deu_x_colloquial":[
+        "Gruendberg",
+        "Grundberg"
+    ],
+    "name:deu_x_preferred":[
+        "Gr\u00fcndberg"
+    ],
+    "name:unk_x_variant":[
+        "Gr\u00fcndberg"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_nam_loc":"Linz, Linz Stadt, Ober\u00f6sterreich, AT",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Gr\u00fcndberg",
+    "qs:local_max":22933,
+    "qs:local_sum":38224,
+    "qs:localhoods":15,
+    "qs:name":"Gr\u00fcndberg",
+    "qs:name_adm0":"\u00d6sterreich",
+    "qs:name_adm1":"Ober\u00f6sterreich",
+    "qs:name_adm2":"Linz Stadt",
+    "qs:name_lau":"Linz",
+    "qs:name_local":"Linz",
+    "qs:photo_max":49,
+    "qs:photo_sum":54,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424750,
+    "qs:woe_adm1":2344711,
+    "qs:woe_adm2":12591722,
+    "qs:woe_lau":12674377,
+    "qs:woe_local":12674377,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1108834701,
+        85632785,
+        102049853,
+        85681677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2777431,
+        "gp:id":545249,
+        "qs:id":1156280,
+        "qs_pg:id":1156280
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"28e41ead4f6ae4e923b5d819cd012154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049853,
+            "localadmin_id":1108834701,
+            "locality_id":-1,
+            "neighbourhood_id":85898423,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":85898423,
+    "wof:lang":[
+        "ger"
+    ],
+    "wof:lastmodified":1531932058,
+    "wof:name":"Gr\u00fcndberg",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.288661,
+    48.35782,
+    14.288661,
+    48.35782
+],
+  "geometry": {"coordinates":[14.288661,48.35782],"type":"Point"}
+}

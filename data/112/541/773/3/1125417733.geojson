@@ -1,0 +1,91 @@
+{
+  "id": 1125417733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88672,47.91335,13.88672,47.91335",
+    "geom:latitude":47.91335,
+    "geom:longitude":13.88672,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1060,
+    "gn:population":1103,
+    "iso:country":"AT",
+    "lbl:latitude":47.91335,
+    "lbl:longitude":13.88672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041a\u043e\u043d\u0440\u0430\u0434"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041a\u043e\u043d\u0440\u0430\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b54\u62c9\u5fb7"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872017,
+    "qs_pg:gn_pop":1060,
+    "qs_pg:name":"Sankt Konrad",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":108464,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872017,
+        "qs_pg:id":108464
+    },
+    "wof:country":"AT",
+    "wof:created":1497051641,
+    "wof:geomhash":"7d22253e6d133b071a809d765448146a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049807,
+            "localadmin_id":1125417733,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125417733,
+    "wof:lastmodified":1536698246,
+    "wof:name":"Sankt Konrad",
+    "wof:parent_id":102049807,
+    "wof:placetype":"localadmin",
+    "wof:population":1103,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835155
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88672,
+    47.91335,
+    13.88672,
+    47.91335
+],
+  "geometry": {"coordinates":[13.88672,47.91335],"type":"Point"}
+}

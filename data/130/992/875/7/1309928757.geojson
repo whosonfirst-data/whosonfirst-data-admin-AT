@@ -1,0 +1,74 @@
+{
+  "id": 1309928757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.02395,48.02036,13.02395,48.02036",
+    "geom:latitude":48.02036,
+    "geom:longitude":13.02395,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50306.0",
+    "gn:asciiname":"Wagnergraben",
+    "gn:country_code":"AT",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":11612324,
+    "gn:latitude":48.02036,
+    "gn:longitude":13.02395,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Wagnergraben",
+    "gn:population":21,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837121,
+        85632785,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11612324
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"22d7e7718fdc0b50e1795c1ca507a755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837121,
+            "locality_id":1309928757,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1309928757,
+    "wof:lastmodified":1536753903,
+    "wof:name":"Wagnergraben",
+    "wof:parent_id":1108837121,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02395,
+    48.02036,
+    13.02395,
+    48.02036
+],
+  "geometry": {"coordinates":[13.02395,48.02036],"type":"Point"}
+}

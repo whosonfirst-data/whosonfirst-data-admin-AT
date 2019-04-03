@@ -1,0 +1,74 @@
+{
+  "id": 1293213505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58333,46.93333,14.58333,46.93333",
+    "geom:latitude":46.93333,
+    "geom:longitude":14.58333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20511.0",
+    "gn:asciiname":"Loelling Sonnseite",
+    "gn:country_code":"AT",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772272,
+    "gn:latitude":46.93333,
+    "gn:longitude":14.58333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"L\u00f6lling Sonnseite",
+    "gn:population":130,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838219,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772272
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9aa8f39051b2a92d826c796a1cb7d573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838219,
+            "locality_id":1293213505,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293213505,
+    "wof:lastmodified":1536684944,
+    "wof:name":"Loelling Sonnseite",
+    "wof:parent_id":1108838219,
+    "wof:placetype":"locality",
+    "wof:population":130,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58333,
+    46.93333,
+    14.58333,
+    46.93333
+],
+  "geometry": {"coordinates":[14.58333,46.93333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293122953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,47.43333,15.56667,47.43333",
+    "geom:latitude":47.43333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"621.0",
+    "gn:admin3_code":"62132.0",
+    "gn:asciiname":"Possegg",
+    "gn:country_code":"AT",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768490,
+    "gn:latitude":47.43333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Possegg",
+    "gn:population":34,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838839,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2768490
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fde48d89ea7697fa635df60e103f4703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838839,
+            "locality_id":1293122953,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1293122953,
+    "wof:lastmodified":1536814916,
+    "wof:name":"Possegg",
+    "wof:parent_id":1108838839,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    47.43333,
+    15.56667,
+    47.43333
+],
+  "geometry": {"coordinates":[15.56667,47.43333],"type":"Point"}
+}

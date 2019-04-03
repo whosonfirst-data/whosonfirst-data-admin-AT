@@ -1,0 +1,75 @@
+{
+  "id": 1327021645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.11667,47.35,11.11667,47.35",
+    "geom:latitude":47.35,
+    "geom:longitude":11.11667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70326.0",
+    "gn:asciiname":"Mooshaeuser",
+    "gn:country_code":"AT",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771234,
+    "gn:latitude":47.35,
+    "gn:longitude":11.11667,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Moosh\u00e4user",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moos",
+        "Moosh\u00e4user"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837541,
+        85632785,
+        102049735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771234
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"36aaa76cc6fe00732b27092bae942019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049735,
+            "localadmin_id":1108837541,
+            "locality_id":1327021645,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1327021645,
+    "wof:lastmodified":1537584951,
+    "wof:name":"Mooshaeuser",
+    "wof:parent_id":1108837541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.11667,
+    47.35,
+    11.11667,
+    47.35
+],
+  "geometry": {"coordinates":[11.11667,47.35],"type":"Point"}
+}

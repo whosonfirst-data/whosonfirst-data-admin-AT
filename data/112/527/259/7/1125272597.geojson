@@ -1,0 +1,82 @@
+{
+  "id": 1125272597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37757,47.91295,16.37757,47.91295",
+    "geom:latitude":47.91295,
+    "geom:longitude":16.37757,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6088,
+    "gn:population":6908,
+    "iso:country":"AT",
+    "lbl:latitude":47.91295,
+    "lbl:longitude":16.37757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871713,
+    "qs_pg:gn_pop":6088,
+    "qs_pg:name":"Pottendorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":108333,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871713,
+        "qs_pg:id":108333
+    },
+    "wof:country":"AT",
+    "wof:created":1497042187,
+    "wof:geomhash":"8bff052f94a9d339ccb9ab76d6a99882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049829,
+            "localadmin_id":1125272597,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125272597,
+    "wof:lastmodified":1534379182,
+    "wof:name":"Pottendorf",
+    "wof:parent_id":102049829,
+    "wof:placetype":"localadmin",
+    "wof:population":6908,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835735
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37757,
+    47.91295,
+    16.37757,
+    47.91295
+],
+  "geometry": {"coordinates":[16.37757,47.91295],"type":"Point"}
+}

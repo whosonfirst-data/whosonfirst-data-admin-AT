@@ -1,0 +1,74 @@
+{
+  "id": 1310618795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33333,47.21667,16.33333,47.21667",
+    "geom:latitude":47.21667,
+    "geom:longitude":16.33333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"109",
+    "gn:admin3_code":"10905.0",
+    "gn:asciiname":"Kleinpetersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2774064,
+    "gn:latitude":47.21667,
+    "gn:longitude":16.33333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kleinpetersdorf",
+    "gn:population":271,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681651,
+        102191581,
+        1108838651,
+        85632785,
+        102049757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2774064
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"9b4130aaff603b1834e6f112648860a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049757,
+            "localadmin_id":1108838651,
+            "locality_id":1310618795,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1310618795,
+    "wof:lastmodified":1536753507,
+    "wof:name":"Kleinpetersdorf",
+    "wof:parent_id":1108838651,
+    "wof:placetype":"locality",
+    "wof:population":271,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33333,
+    47.21667,
+    16.33333,
+    47.21667
+],
+  "geometry": {"coordinates":[16.33333,47.21667],"type":"Point"}
+}

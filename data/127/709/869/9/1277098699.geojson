@@ -1,0 +1,74 @@
+{
+  "id": 1277098699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25868,46.92298,15.25868,46.92298",
+    "geom:latitude":46.92298,
+    "geom:longitude":15.25868,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60348.0",
+    "gn:asciiname":"Lichtenhof",
+    "gn:country_code":"AT",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593900,
+    "gn:latitude":46.92298,
+    "gn:longitude":15.25868,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Lichtenhof",
+    "gn:population":93,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839279,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11593900
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"69a4a40fce3d01e85660b36e0ee8f6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839279,
+            "locality_id":1277098699,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1277098699,
+    "wof:lastmodified":1536744372,
+    "wof:name":"Lichtenhof",
+    "wof:parent_id":1108839279,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25868,
+    46.92298,
+    15.25868,
+    46.92298
+],
+  "geometry": {"coordinates":[15.25868,46.92298],"type":"Point"}
+}

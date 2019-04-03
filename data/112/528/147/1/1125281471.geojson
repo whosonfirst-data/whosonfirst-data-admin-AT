@@ -1,0 +1,101 @@
+{
+  "id": 1125281471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.618111,47.400556,13.618111,47.400556",
+    "geom:latitude":47.400556,
+    "geom:longitude":13.618111,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":904,
+    "gn:population":904,
+    "iso:country":"AT",
+    "lbl:latitude":47.400556,
+    "lbl:longitude":13.618111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872446,
+    "qs_pg:gn_pop":904,
+    "qs_pg:name":"Pichl-Preunegg",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos":194,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":943,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083752,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675278,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Steiermark",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        102049777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872446,
+        "gp:id":12675278,
+        "qs_pg:id":1083752
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":108605
+    },
+    "wof:country":"AT",
+    "wof:created":1497042516,
+    "wof:geomhash":"2bdd037c115eb450a13961591965188d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049777,
+            "localadmin_id":1125281471,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125281471,
+    "wof:lastmodified":1536698128,
+    "wof:name":"Pichl-Preunegg",
+    "wof:parent_id":102049777,
+    "wof:placetype":"localadmin",
+    "wof:population":904,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838897
+    ],
+    "wof:supersedes":[
+        1125417035
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.618111,
+    47.400556,
+    13.618111,
+    47.400556
+],
+  "geometry": {"coordinates":[13.618111,47.400556],"type":"Point"}
+}

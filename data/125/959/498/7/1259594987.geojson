@@ -1,0 +1,74 @@
+{
+  "id": 1259594987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36667,48.08333,15.36667,48.08333",
+    "geom:latitude":48.08333,
+    "geom:longitude":15.36667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"315",
+    "gn:admin3_code":"31521.0",
+    "gn:asciiname":"Massendorf",
+    "gn:country_code":"AT",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2771836,
+    "gn:latitude":48.08333,
+    "gn:longitude":15.36667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Massendorf",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834887,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2771836
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"cb67d931f5d44a5b608de3a32e604c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108834887,
+            "locality_id":1259594987,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259594987,
+    "wof:lastmodified":1536698428,
+    "wof:name":"Massendorf",
+    "wof:parent_id":1108834887,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36667,
+    48.08333,
+    15.36667,
+    48.08333
+],
+  "geometry": {"coordinates":[15.36667,48.08333],"type":"Point"}
+}

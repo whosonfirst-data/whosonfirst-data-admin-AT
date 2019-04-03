@@ -1,0 +1,71 @@
+{
+  "id": 1193130425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78275,47.5881,9.78275,47.5881",
+    "geom:latitude":47.5881,
+    "geom:longitude":9.78275,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"802",
+    "gn:admin3_code":"80219.0",
+    "gn:asciiname":"Hub",
+    "gn:country_code":"AT",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775465,
+    "gn:latitude":47.5881,
+    "gn:longitude":9.78275,
+    "gn:modification_date":"2017-06-26",
+    "gn:name":"Hub",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837965,
+        85632785,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775465
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"219caa1963bb0d49a1d8e7dd16d95737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837965,
+            "locality_id":1193130425,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1193130425,
+    "wof:lastmodified":1536376391,
+    "wof:name":"Hub",
+    "wof:parent_id":1108837965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78275,
+    47.5881,
+    9.78275,
+    47.5881
+],
+  "geometry": {"coordinates":[9.78275,47.5881],"type":"Point"}
+}

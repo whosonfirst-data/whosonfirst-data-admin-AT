@@ -1,0 +1,82 @@
+{
+  "id": 1125328919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06298,47.79446,16.06298,47.79446",
+    "geom:latitude":47.79446,
+    "geom:longitude":16.06298,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":855,
+    "gn:population":966,
+    "iso:country":"AT",
+    "lbl:latitude":47.79446,
+    "lbl:longitude":16.06298,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871876,
+    "qs_pg:gn_pop":855,
+    "qs_pg:name":"Willendorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":108417,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871876,
+        "qs_pg:id":108417
+    },
+    "wof:country":"AT",
+    "wof:created":1497045003,
+    "wof:geomhash":"bc1b64d34aebcfd203bb01194bf1f428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049791,
+            "localadmin_id":1125328919,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125328919,
+    "wof:lastmodified":1534379121,
+    "wof:name":"Willendorf",
+    "wof:parent_id":102049791,
+    "wof:placetype":"localadmin",
+    "wof:population":966,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836929
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06298,
+    47.79446,
+    16.06298,
+    47.79446
+],
+  "geometry": {"coordinates":[16.06298,47.79446],"type":"Point"}
+}

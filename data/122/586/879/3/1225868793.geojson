@@ -1,0 +1,74 @@
+{
+  "id": 1225868793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97023,48.47713,13.97023,48.47713",
+    "geom:latitude":48.47713,
+    "geom:longitude":13.97023,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"413",
+    "gn:admin3_code":"41304.0",
+    "gn:asciiname":"Blumau",
+    "gn:country_code":"AT",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2781671,
+    "gn:latitude":48.47713,
+    "gn:longitude":13.97023,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Blumau",
+    "gn:population":104,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835713,
+        85632785,
+        102049889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2781671
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"6abf818b561bc5e6b3112451fc2214cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049889,
+            "localadmin_id":1108835713,
+            "locality_id":1225868793,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1225868793,
+    "wof:lastmodified":1536979826,
+    "wof:name":"Blumau",
+    "wof:parent_id":1108835713,
+    "wof:placetype":"locality",
+    "wof:population":104,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97023,
+    48.47713,
+    13.97023,
+    48.47713
+],
+  "geometry": {"coordinates":[13.97023,48.47713],"type":"Point"}
+}

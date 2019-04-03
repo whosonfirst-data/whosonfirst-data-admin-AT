@@ -1,0 +1,75 @@
+{
+  "id": 1310306857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,48.26667,15.03333,48.26667",
+    "geom:latitude":48.26667,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"315.0",
+    "gn:admin3_code":"31541.0",
+    "gn:asciiname":"Sankt Oswald",
+    "gn:country_code":"AT",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766474,
+    "gn:latitude":48.26667,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Oswald",
+    "gn:population":376,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836867,
+        85632785,
+        102049855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766474,
+        "wk:page":"Sankt_Oswald%2C_Lower_Austria"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"1595cc26e7064598684fcf23553d64cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049855,
+            "localadmin_id":1108836867,
+            "locality_id":1310306857,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1310306857,
+    "wof:lastmodified":1537486366,
+    "wof:name":"Sankt Oswald",
+    "wof:parent_id":1108836867,
+    "wof:placetype":"locality",
+    "wof:population":376,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    48.26667,
+    15.03333,
+    48.26667
+],
+  "geometry": {"coordinates":[15.03333,48.26667],"type":"Point"}
+}

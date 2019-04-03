@@ -1,0 +1,71 @@
+{
+  "id": 1310598835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06806,46.89833,15.06806,46.89833",
+    "geom:latitude":46.89833,
+    "geom:longitude":15.06806,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603",
+    "gn:admin3_code":"60344.0",
+    "gn:asciiname":"Gratzer",
+    "gn:country_code":"AT",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219741,
+    "gn:latitude":46.89833,
+    "gn:longitude":15.06806,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Gratzer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839301,
+        85632785,
+        102049691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219741
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"03259363d9799fdecd6fa9b7ee75f64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049691,
+            "localadmin_id":1108839301,
+            "locality_id":1310598835,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1310598835,
+    "wof:lastmodified":1536782828,
+    "wof:name":"Gratzer",
+    "wof:parent_id":1108839301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06806,
+    46.89833,
+    15.06806,
+    46.89833
+],
+  "geometry": {"coordinates":[15.06806,46.89833],"type":"Point"}
+}

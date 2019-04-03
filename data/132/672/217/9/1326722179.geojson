@@ -1,0 +1,71 @@
+{
+  "id": 1326722179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78333,47.08333,11.78333,47.08333",
+    "geom:latitude":47.08333,
+    "geom:longitude":11.78333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"709",
+    "gn:admin3_code":"70920.0",
+    "gn:asciiname":"Rauth",
+    "gn:country_code":"AT",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3319498,
+    "gn:latitude":47.08333,
+    "gn:longitude":11.78333,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Rauth",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837883,
+        85632785,
+        102049755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319498
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"f3c0d9a206120821cea27488aa96249d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049755,
+            "localadmin_id":1108837883,
+            "locality_id":1326722179,
+            "region_id":85681661
+        }
+    ],
+    "wof:id":1326722179,
+    "wof:lastmodified":1536710638,
+    "wof:name":"Rauth",
+    "wof:parent_id":1108837883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78333,
+    47.08333,
+    11.78333,
+    47.08333
+],
+  "geometry": {"coordinates":[11.78333,47.08333],"type":"Point"}
+}

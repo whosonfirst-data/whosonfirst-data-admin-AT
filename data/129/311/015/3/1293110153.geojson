@@ -1,0 +1,74 @@
+{
+  "id": 1293110153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29648,48.45747,15.29648,48.45747",
+    "geom:latitude":48.45747,
+    "geom:longitude":15.29648,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"325",
+    "gn:admin3_code":"32515.0",
+    "gn:asciiname":"Hoerans",
+    "gn:country_code":"AT",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775537,
+    "gn:latitude":48.45747,
+    "gn:longitude":15.29648,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"H\u00f6rans",
+    "gn:population":14,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836987,
+        85632785,
+        102049895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2775537
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"70d76b6f260f2ad065a329b89b8e2606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049895,
+            "localadmin_id":1108836987,
+            "locality_id":1293110153,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1293110153,
+    "wof:lastmodified":1536833023,
+    "wof:name":"Hoerans",
+    "wof:parent_id":1108836987,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29648,
+    48.45747,
+    15.29648,
+    48.45747
+],
+  "geometry": {"coordinates":[15.29648,48.45747],"type":"Point"}
+}

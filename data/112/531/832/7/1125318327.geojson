@@ -1,0 +1,86 @@
+{
+  "id": 1125318327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.287891,48.212284,14.287891,48.212284",
+    "geom:latitude":48.212284,
+    "geom:longitude":14.287891,
+    "gn:gn_country":null,
+    "iso:country":"AT",
+    "lbl:latitude":48.212284,
+    "lbl:longitude":14.287891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ansfelden",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Ober\u00f6sterreich",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":276,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1109208,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12674327,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Ober\u00f6sterreich",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681677,
+        102049847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12674327,
+        "qs_pg:id":1109208
+    },
+    "wof:country":"AT",
+    "wof:created":1497044385,
+    "wof:geomhash":"827346dcd3ad0763f96701ebbe229a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1125318327,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1125318327,
+    "wof:lastmodified":1534530978,
+    "wof:name":"Ansfelden",
+    "wof:parent_id":102049847,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108835519
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.287891,
+    48.212284,
+    14.287891,
+    48.212284
+],
+  "geometry": {"coordinates":[14.287891,48.212284],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344052655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.83306,47.14972,9.83306,47.14972",
+    "geom:latitude":47.14972,
+    "geom:longitude":9.83306,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80103.0",
+    "gn:asciiname":"Rungelin",
+    "gn:country_code":"AT",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766964,
+    "gn:latitude":47.14972,
+    "gn:longitude":9.83306,
+    "gn:modification_date":"2014-05-03",
+    "gn:name":"Rungelin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837905,
+        85632785,
+        102049711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766964
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"ffa8e9c1b1363fdecc13bdbd84addf8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049711,
+            "localadmin_id":1108837905,
+            "locality_id":1344052655,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1344052655,
+    "wof:lastmodified":1536886443,
+    "wof:name":"Rungelin",
+    "wof:parent_id":1108837905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.83306,
+    47.14972,
+    9.83306,
+    47.14972
+],
+  "geometry": {"coordinates":[9.83306,47.14972],"type":"Point"}
+}

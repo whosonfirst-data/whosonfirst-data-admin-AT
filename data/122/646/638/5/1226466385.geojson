@@ -1,0 +1,74 @@
+{
+  "id": 1226466385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65206,48.17896,13.65206,48.17896",
+    "geom:latitude":48.17896,
+    "geom:longitude":13.65206,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408",
+    "gn:admin3_code":"40809.0",
+    "gn:asciiname":"Obermeggenbach",
+    "gn:country_code":"AT",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2769932,
+    "gn:latitude":48.17896,
+    "gn:longitude":13.65206,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Obermeggenbach",
+    "gn:population":72,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835185,
+        85632785,
+        102049861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2769932
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0dcf46ed22cd496425a5875d0a691a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049861,
+            "localadmin_id":1108835185,
+            "locality_id":1226466385,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226466385,
+    "wof:lastmodified":1536613358,
+    "wof:name":"Obermeggenbach",
+    "wof:parent_id":1108835185,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65206,
+    48.17896,
+    13.65206,
+    48.17896
+],
+  "geometry": {"coordinates":[13.65206,48.17896],"type":"Point"}
+}

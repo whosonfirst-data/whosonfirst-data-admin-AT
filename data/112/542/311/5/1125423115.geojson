@@ -1,0 +1,102 @@
+{
+  "id": 1125423115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-09-11",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-09-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89035,46.92886,15.89035,46.92886",
+    "geom:latitude":46.92886,
+    "geom:longitude":15.89035,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3020,
+    "gn:population":3020,
+    "iso:country":"AT",
+    "lbl:latitude":46.92886,
+    "lbl:longitude":15.89035,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041c\u044e\u043b\u044c\u0434\u043e\u0440\u0444 (\u0424\u0435\u043b\u044c\u0434\u0431\u0430\u0445)"
+    ],
+    "name:unk_x_variant":[
+        "M\u00fchldorf"
+    ],
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872301,
+    "qs_pg:gn_pop":3020,
+    "qs_pg:name":"M\u00fchldorf bei Feldbach",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Steiermark",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":108568,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":12675247,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681687,
+        1108892553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872301,
+        "gp:id":12675247,
+        "qs_pg:id":108568
+    },
+    "wof:concordances_alt":{
+        "gn:id":2771089,
+        "qs_pg:id":203649
+    },
+    "wof:country":"AT",
+    "wof:created":1497052642,
+    "wof:geomhash":"1cc385eb1249514aa419754ff2ef286f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892553,
+            "localadmin_id":1125423115,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1125423115,
+    "wof:lastmodified":1536698253,
+    "wof:name":"M\u00fchldorf bei Feldbach",
+    "wof:parent_id":1108892553,
+    "wof:placetype":"localadmin",
+    "wof:population":3020,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108839259
+    ],
+    "wof:supersedes":[
+        1125308479
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89035,
+    46.92886,
+    15.89035,
+    46.92886
+],
+  "geometry": {"coordinates":[15.89035,46.92886],"type":"Point"}
+}

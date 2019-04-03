@@ -1,0 +1,74 @@
+{
+  "id": 1226552651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55,46.86667,14.55,46.86667",
+    "geom:latitude":46.86667,
+    "geom:longitude":14.55,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20513.0",
+    "gn:asciiname":"Unterwietingberg",
+    "gn:country_code":"AT",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762553,
+    "gn:latitude":46.86667,
+    "gn:longitude":14.55,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Unterwietingberg",
+    "gn:population":43,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838225,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762553
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3bce80565bef39d06c7d9703377fb4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838225,
+            "locality_id":1226552651,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1226552651,
+    "wof:lastmodified":1536987229,
+    "wof:name":"Unterwietingberg",
+    "wof:parent_id":1108838225,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55,
+    46.86667,
+    14.55,
+    46.86667
+],
+  "geometry": {"coordinates":[14.55,46.86667],"type":"Point"}
+}

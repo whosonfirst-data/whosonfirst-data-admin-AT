@@ -1,0 +1,78 @@
+{
+  "id": 101912333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":458682.81975,
+    "geom:bbox":"12.8429718155,48.0201167425,12.8536855094,48.0300758233",
+    "geom:latitude":48.025174,
+    "geom:longitude":12.848691,
+    "iso:country":"AT",
+    "lbl:latitude":48.025157,
+    "lbl:longitude":12.84861,
+    "mps:latitude":48.025157,
+    "mps:longitude":12.84861,
+    "mz:hierarchy_label":1,
+    "qs:a0":"\u00d6sterreich",
+    "qs:a1":"*Ober\u00f6sterreich",
+    "qs:a1r":"0",
+    "qs:a2":"Braunau am Inn",
+    "qs:adm0":"\u00d6sterreich",
+    "qs:id":0,
+    "qs:la":"Sankt Pantaleon",
+    "qs:la_lc":"*AT40437",
+    "qs:level":"locality",
+    "qs:loc":"Riedersbach Siedlung",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834789,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20097110,
+        "qs:id":1026295,
+        "qs_pg:id":1026295
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"522ac559f17563500f896a7bb09107db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834789,
+            "locality_id":101912333,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":101912333,
+    "wof:lastmodified":1497301624,
+    "wof:name":"Riedersbach Siedlung",
+    "wof:parent_id":1108834789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.84297181551705,
+    48.0201167424604,
+    12.85368550942025,
+    48.03007582333004
+],
+  "geometry": {"coordinates":[[[12.85120849077072,48.03004112037206],[12.85100709591399,48.02644488368952],[12.85368550942025,48.02637543454284],[12.8535847312238,48.02457731660581],[12.85224557247545,48.02461204791234],[12.85199378453137,48.0201167424604],[12.84931569787778,48.02018614912464],[12.84941631193885,48.02198427534444],[12.8467381243143,48.0220536196623],[12.84678838756975,48.02295268357773],[12.84544926768399,48.02298733200229],[12.84554975380297,48.02478546003169],[12.84421058508752,48.02482009357323],[12.84431103306559,48.02661822139709],[12.84297181551705,48.02665284005383],[12.84307222534716,48.02845096767254],[12.84976853239027,48.02827770438296],[12.84986918716294,48.03007582333004],[12.85120849077072,48.03004112037206]]],"type":"Polygon"}
+}

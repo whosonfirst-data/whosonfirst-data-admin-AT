@@ -1,0 +1,74 @@
+{
+  "id": 1226166753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13245,48.27885,14.13245,48.27885",
+    "geom:latitude":48.27885,
+    "geom:longitude":14.13245,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40501.0",
+    "gn:asciiname":"Annaberg",
+    "gn:country_code":"AT",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2782495,
+    "gn:latitude":48.27885,
+    "gn:longitude":14.13245,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Annaberg",
+    "gn:population":73,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834811,
+        85632785,
+        102049863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2782495
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"a807d158b1957465e007368b74aa2ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049863,
+            "localadmin_id":1108834811,
+            "locality_id":1226166753,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226166753,
+    "wof:lastmodified":1537045532,
+    "wof:name":"Annaberg",
+    "wof:parent_id":1108834811,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13245,
+    48.27885,
+    14.13245,
+    48.27885
+],
+  "geometry": {"coordinates":[14.13245,48.27885],"type":"Point"}
+}

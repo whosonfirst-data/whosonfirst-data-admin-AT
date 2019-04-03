@@ -1,0 +1,74 @@
+{
+  "id": 1344258707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26667,48.45,16.26667,48.45",
+    "geom:latitude":48.45,
+    "geom:longitude":16.26667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"312.0",
+    "gn:admin3_code":"31234.0",
+    "gn:asciiname":"Streitdorf",
+    "gn:country_code":"AT",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764146,
+    "gn:latitude":48.45,
+    "gn:longitude":16.26667,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Streitdorf",
+    "gn:population":163,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836823,
+        85632785,
+        102049887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2764146
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"c0b867cce577ee4a24d1460597eb4a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049887,
+            "localadmin_id":1108836823,
+            "locality_id":1344258707,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1344258707,
+    "wof:lastmodified":1537083528,
+    "wof:name":"Streitdorf",
+    "wof:parent_id":1108836823,
+    "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26667,
+    48.45,
+    16.26667,
+    48.45
+],
+  "geometry": {"coordinates":[16.26667,48.45],"type":"Point"}
+}

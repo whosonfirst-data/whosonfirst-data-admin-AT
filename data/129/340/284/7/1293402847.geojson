@@ -1,0 +1,74 @@
+{
+  "id": 1293402847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12694,46.78333,14.12694,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":14.12694,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21010.0",
+    "gn:asciiname":"Rennweg",
+    "gn:country_code":"AT",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3324656,
+    "gn:latitude":46.78333,
+    "gn:longitude":14.12694,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Rennweg",
+    "gn:population":192,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838141,
+        85632785,
+        102049689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3324656
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4092a097b933efee7691f22875af285d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049689,
+            "localadmin_id":1108838141,
+            "locality_id":1293402847,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1293402847,
+    "wof:lastmodified":1536909278,
+    "wof:name":"Rennweg",
+    "wof:parent_id":1108838141,
+    "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12694,
+    46.78333,
+    14.12694,
+    46.78333
+],
+  "geometry": {"coordinates":[14.12694,46.78333],"type":"Point"}
+}

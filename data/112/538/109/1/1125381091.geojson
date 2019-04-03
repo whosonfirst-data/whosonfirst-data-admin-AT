@@ -1,0 +1,82 @@
+{
+  "id": 1125381091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47557,48.31428,16.47557,48.31428",
+    "geom:latitude":48.31428,
+    "geom:longitude":16.47557,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9353,
+    "gn:population":10862,
+    "iso:country":"AT",
+    "lbl:latitude":48.31428,
+    "lbl:longitude":16.47557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871946,
+    "qs_pg:gn_pop":9353,
+    "qs_pg:name":"Gerasdorf bei Wien",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":380969,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871946,
+        "qs_pg:id":380969
+    },
+    "wof:country":"AT",
+    "wof:created":1497048051,
+    "wof:geomhash":"c821819e696c636375b8ab64b7cdb6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049871,
+            "localadmin_id":1125381091,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125381091,
+    "wof:lastmodified":1534531036,
+    "wof:name":"Gerasdorf bei Wien",
+    "wof:parent_id":102049871,
+    "wof:placetype":"localadmin",
+    "wof:population":10862,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836239
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47557,
+    48.31428,
+    16.47557,
+    48.31428
+],
+  "geometry": {"coordinates":[16.47557,48.31428],"type":"Point"}
+}

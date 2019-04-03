@@ -1,0 +1,71 @@
+{
+  "id": 1259981363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46597,48.38397,15.46597,48.38397",
+    "geom:latitude":48.38397,
+    "geom:longitude":15.46597,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"313.0",
+    "gn:admin3_code":"31338.0",
+    "gn:asciiname":"Unterkienstock",
+    "gn:country_code":"AT",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2762851,
+    "gn:latitude":48.38397,
+    "gn:longitude":15.46597,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Unterkienstock",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836221,
+        85632785,
+        102049885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2762851
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"25193d340dca1f6b0586190f6218af86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049885,
+            "localadmin_id":1108836221,
+            "locality_id":1259981363,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1259981363,
+    "wof:lastmodified":1536637051,
+    "wof:name":"Unterkienstock",
+    "wof:parent_id":1108836221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46597,
+    48.38397,
+    15.46597,
+    48.38397
+],
+  "geometry": {"coordinates":[15.46597,48.38397],"type":"Point"}
+}

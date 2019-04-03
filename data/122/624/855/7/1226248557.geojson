@@ -1,0 +1,74 @@
+{
+  "id": 1226248557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86279,48.35186,14.86279,48.35186",
+    "geom:latitude":48.35186,
+    "geom:longitude":14.86279,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"411",
+    "gn:admin3_code":"41115.0",
+    "gn:asciiname":"Henndorf",
+    "gn:country_code":"AT",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2776514,
+    "gn:latitude":48.35186,
+    "gn:longitude":14.86279,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Henndorf",
+    "gn:population":42,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108835599,
+        85632785,
+        102049865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2776514
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"3030304e25cd3da24c0b4c7d2388c3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049865,
+            "localadmin_id":1108835599,
+            "locality_id":1226248557,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1226248557,
+    "wof:lastmodified":1536930243,
+    "wof:name":"Henndorf",
+    "wof:parent_id":1108835599,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86279,
+    48.35186,
+    14.86279,
+    48.35186
+],
+  "geometry": {"coordinates":[14.86279,48.35186],"type":"Point"}
+}

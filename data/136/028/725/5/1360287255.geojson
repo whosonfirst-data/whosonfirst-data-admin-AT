@@ -1,0 +1,74 @@
+{
+  "id": 1360287255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89284,48.15818,15.89284,48.15818",
+    "geom:latitude":48.15818,
+    "geom:longitude":15.89284,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"319",
+    "gn:admin3_code":"31927.0",
+    "gn:asciiname":"Mannersdorf",
+    "gn:country_code":"AT",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2772005,
+    "gn:latitude":48.15818,
+    "gn:longitude":15.89284,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Mannersdorf",
+    "gn:population":66,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834849,
+        85632785,
+        102049869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2772005
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"16fc764341d8601694496233ab56b235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108834849,
+            "locality_id":1360287255,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1360287255,
+    "wof:lastmodified":1536653933,
+    "wof:name":"Mannersdorf",
+    "wof:parent_id":1108834849,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89284,
+    48.15818,
+    15.89284,
+    48.15818
+],
+  "geometry": {"coordinates":[15.89284,48.15818],"type":"Point"}
+}

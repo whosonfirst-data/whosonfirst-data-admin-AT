@@ -1,0 +1,74 @@
+{
+  "id": 1360107069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58333,47.58333,15.58333,47.58333",
+    "geom:latitude":47.58333,
+    "geom:longitude":15.58333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62116.0",
+    "gn:asciiname":"Feistritzberg",
+    "gn:country_code":"AT",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2779709,
+    "gn:latitude":47.58333,
+    "gn:longitude":15.58333,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Feistritzberg",
+    "gn:population":117,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108838863,
+        85632785,
+        1108892551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2779709
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"4e90d663ec4f94b152d856aa43f8b041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":1108892551,
+            "localadmin_id":1108838863,
+            "locality_id":1360107069,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1360107069,
+    "wof:lastmodified":1536914398,
+    "wof:name":"Feistritzberg",
+    "wof:parent_id":1108838863,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58333,
+    47.58333,
+    15.58333,
+    47.58333
+],
+  "geometry": {"coordinates":[15.58333,47.58333],"type":"Point"}
+}

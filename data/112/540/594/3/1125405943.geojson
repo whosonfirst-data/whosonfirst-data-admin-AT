@@ -1,0 +1,82 @@
+{
+  "id": 1125405943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14667,48.12793,15.14667,48.12793",
+    "geom:latitude":48.12793,
+    "geom:longitude":15.14667,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3677,
+    "gn:population":3969,
+    "iso:country":"AT",
+    "lbl:latitude":48.12793,
+    "lbl:longitude":15.14667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7873035,
+    "qs_pg:gn_pop":3677,
+    "qs_pg:name":"Wieselburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155398,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681671,
+        102049825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873035,
+        "qs_pg:id":1155398
+    },
+    "wof:country":"AT",
+    "wof:created":1497049638,
+    "wof:geomhash":"d4cead3c9822c4fbfbbb844c7036834c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049825,
+            "localadmin_id":1125405943,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125405943,
+    "wof:lastmodified":1534531056,
+    "wof:name":"Wieselburg",
+    "wof:parent_id":102049825,
+    "wof:placetype":"localadmin",
+    "wof:population":3969,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108836363
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14667,
+    48.12793,
+    15.14667,
+    48.12793
+],
+  "geometry": {"coordinates":[15.14667,48.12793],"type":"Point"}
+}

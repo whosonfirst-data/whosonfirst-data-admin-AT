@@ -1,0 +1,82 @@
+{
+  "id": 1125409645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.90295,47.4037,9.90295,47.4037",
+    "geom:latitude":47.4037,
+    "geom:longitude":9.90295,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2278,
+    "gn:population":2487,
+    "iso:country":"AT",
+    "lbl:latitude":47.4037,
+    "lbl:longitude":9.90295,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7872653,
+    "qs_pg:gn_pop":2278,
+    "qs_pg:name":"Andelsbuch",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1155312,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681649,
+        102049751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7872653,
+        "qs_pg:id":1155312
+    },
+    "wof:country":"AT",
+    "wof:created":1497049893,
+    "wof:geomhash":"72470b631444975f953ab7765bfe84f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1125409645,
+            "region_id":85681649
+        }
+    ],
+    "wof:id":1125409645,
+    "wof:lastmodified":1534379156,
+    "wof:name":"Andelsbuch",
+    "wof:parent_id":102049751,
+    "wof:placetype":"localadmin",
+    "wof:population":2487,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108837889
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.90295,
+    47.4037,
+    9.90295,
+    47.4037
+],
+  "geometry": {"coordinates":[9.90295,47.4037],"type":"Point"}
+}

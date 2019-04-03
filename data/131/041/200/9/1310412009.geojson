@@ -1,0 +1,74 @@
+{
+  "id": 1310412009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00597,48.15017,13.00597,48.15017",
+    "geom:latitude":48.15017,
+    "geom:longitude":13.00597,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40412.0",
+    "gn:asciiname":"Kastenberg",
+    "gn:country_code":"AT",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610126,
+    "gn:latitude":48.15017,
+    "gn:longitude":13.00597,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Kastenberg",
+    "gn:population":24,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108834733,
+        85632785,
+        102049833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610126
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"0370e651d889ecb8a92a109a3fc51734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049833,
+            "localadmin_id":1108834733,
+            "locality_id":1310412009,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310412009,
+    "wof:lastmodified":1537049749,
+    "wof:name":"Kastenberg",
+    "wof:parent_id":1108834733,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00597,
+    48.15017,
+    13.00597,
+    48.15017
+],
+  "geometry": {"coordinates":[13.00597,48.15017],"type":"Point"}
+}

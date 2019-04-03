@@ -1,0 +1,79 @@
+{
+  "id": 1276450145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61684,48.07384,14.61684,48.07384",
+    "geom:latitude":48.07384,
+    "geom:longitude":14.61684,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30530.0",
+    "gn:asciiname":"Sankt Johann in Engstetten",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766637,
+    "gn:latitude":48.07384,
+    "gn:longitude":14.61684,
+    "gn:modification_date":"2018-07-31",
+    "gn:name":"Sankt Johann in Engstetten",
+    "gn:population":568,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Johann",
+        "Sankt Johann in Engstetten"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835399,
+        85632785,
+        102049835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2766637
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"64da5ed89276600451d94801256ad955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049835,
+            "localadmin_id":1108835399,
+            "locality_id":1276450145,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1276450145,
+    "wof:lastmodified":1537584934,
+    "wof:name":"Sankt Johann in Engstetten",
+    "wof:parent_id":1108835399,
+    "wof:placetype":"locality",
+    "wof:population":568,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61684,
+    48.07384,
+    14.61684,
+    48.07384
+],
+  "geometry": {"coordinates":[14.61684,48.07384],"type":"Point"}
+}

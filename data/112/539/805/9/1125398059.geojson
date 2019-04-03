@@ -1,0 +1,82 @@
+{
+  "id": 1125398059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56981,47.77483,16.56981,47.77483",
+    "geom:latitude":47.77483,
+    "geom:longitude":16.56981,
+    "gn:gn_country":"AT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2749,
+    "gn:population":2919,
+    "iso:country":"AT",
+    "lbl:latitude":47.77483,
+    "lbl:longitude":16.56981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"AT",
+    "qs_pg:gn_country":"AT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7871542,
+    "qs_pg:gn_pop":2749,
+    "qs_pg:name":"Siegendorf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1041915,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632785,
+        85681651,
+        102049811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871542,
+        "qs_pg:id":1041915
+    },
+    "wof:country":"AT",
+    "wof:created":1497049139,
+    "wof:geomhash":"a8e8534765830dfce679edad956f092c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049811,
+            "localadmin_id":1125398059,
+            "region_id":85681651
+        }
+    ],
+    "wof:id":1125398059,
+    "wof:lastmodified":1534379157,
+    "wof:name":"Siegendorf",
+    "wof:parent_id":102049811,
+    "wof:placetype":"localadmin",
+    "wof:population":2919,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[
+        1108838705
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56981,
+    47.77483,
+    16.56981,
+    47.77483
+],
+  "geometry": {"coordinates":[16.56981,47.77483],"type":"Point"}
+}

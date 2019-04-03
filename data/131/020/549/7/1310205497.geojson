@@ -1,0 +1,74 @@
+{
+  "id": 1310205497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57897,48.07384,13.57897,48.07384",
+    "geom:latitude":48.07384,
+    "geom:longitude":13.57897,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"417",
+    "gn:admin3_code":"41752.0",
+    "gn:asciiname":"Bruck",
+    "gn:country_code":"AT",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611998,
+    "gn:latitude":48.07384,
+    "gn:longitude":13.57897,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Bruck",
+    "gn:population":79,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681677,
+        102191581,
+        1108836535,
+        85632785,
+        102049817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611998
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e38c23781ff997eaaa2f95fd143f891a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049817,
+            "localadmin_id":1108836535,
+            "locality_id":1310205497,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":1310205497,
+    "wof:lastmodified":1536851167,
+    "wof:name":"Bruck",
+    "wof:parent_id":1108836535,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57897,
+    48.07384,
+    13.57897,
+    48.07384
+],
+  "geometry": {"coordinates":[13.57897,48.07384],"type":"Point"}
+}

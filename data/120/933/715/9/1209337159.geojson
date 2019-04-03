@@ -1,0 +1,63 @@
+{
+  "id": 1209337159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2,47.48333,13.2,47.48333",
+    "geom:latitude":47.48333,
+    "geom:longitude":13.2,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50416.0",
+    "gn:asciiname":"Obereben",
+    "gn:country_code":"AT",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2605453,
+    "gn:latitude":47.48333,
+    "gn:longitude":13.2,
+    "gn:modification_date":"2013-07-28",
+    "gn:name":"Obereben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
+    "iso:country":"AT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2605453
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"e0e1435e0bdd6b846347be23eb8f9657",
+    "wof:hierarchy":[
+        {
+            "country_id":85632785,
+            "locality_id":1209337159
+        }
+    ],
+    "wof:id":1209337159,
+    "wof:lastmodified":1536290181,
+    "wof:name":"Obereben",
+    "wof:parent_id":85632785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2,
+    47.48333,
+    13.2,
+    47.48333
+],
+  "geometry": {"coordinates":[13.2,47.48333],"type":"Point"}
+}
