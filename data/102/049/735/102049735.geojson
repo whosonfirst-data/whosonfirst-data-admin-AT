@@ -10,6 +10,12 @@
     "geom:latitude":47.196344,
     "geom:longitude":11.341697,
     "iso:country":"AT",
+    "label:eng_x_preferred_longname":[
+        "Innsbruck District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":47.124034,
     "lbl:longitude":11.259919,
     "mps:latitude":47.123622,
@@ -35,6 +41,9 @@
         "Distrikto Innsbruck Land"
     ],
     "name:fra_x_preferred":[
+        "District d'Innsbruck-Land"
+    ],
+    "name:fre_x_preferred":[
         "District d'Innsbruck-Land"
     ],
     "name:hbs_x_preferred":[
@@ -155,7 +164,7 @@
         }
     ],
     "wof:id":102049735,
-    "wof:lastmodified":1536613998,
+    "wof:lastmodified":1555091986,
     "wof:name":"Innsbruck - Land",
     "wof:parent_id":85681661,
     "wof:placetype":"county",

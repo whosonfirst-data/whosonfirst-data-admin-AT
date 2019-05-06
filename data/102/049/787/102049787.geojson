@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047537,
-    "geom:area_square_m":396405324.42744,
+    "geom:area_square_m":396405324.427523,
     "geom:bbox":"16.1318880064,47.4221864179,16.3725515126,47.7941425162",
     "geom:latitude":47.593548,
     "geom:longitude":16.252237,
     "iso:country":"AT",
+    "label:eng_x_preferred_longname":[
+        "Wiener Neustadt-Land District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":47.888964,
     "lbl:longitude":15.888018,
     "mps:latitude":47.605507,
     "mps:longitude":16.260284,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "Wiener Neustadt - Land"
+    ],
     "qs:a0":"\u00c3sterreich",
     "qs:a0_lc":"AT00000",
     "qs:a1":"Nieder\u00c3\u00b6sterreich",
@@ -54,8 +63,8 @@
         }
     ],
     "wof:id":102049787,
-    "wof:lastmodified":1529537094,
-    "wof:name":"Wiener Neustadt - Land",
+    "wof:lastmodified":1555220290,
+    "wof:name":"Wiener Neustadt-Land",
     "wof:parent_id":85681671,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-at",

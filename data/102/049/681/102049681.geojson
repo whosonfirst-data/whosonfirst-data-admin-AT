@@ -10,6 +10,12 @@
     "geom:latitude":46.569926,
     "geom:longitude":14.294732,
     "iso:country":"AT",
+    "label:eng_x_preferred_longname":[
+        "Klagenfurt District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":46.510145,
     "lbl:longitude":14.27014,
     "mps:latitude":46.51027,
@@ -35,6 +41,9 @@
         "Distrikto Klagenfurt-Land"
     ],
     "name:fra_x_preferred":[
+        "District de Klagenfurt-Land"
+    ],
+    "name:fre_x_preferred":[
         "District de Klagenfurt-Land"
     ],
     "name:fur_x_preferred":[
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":102049681,
-    "wof:lastmodified":1536613990,
+    "wof:lastmodified":1555091985,
     "wof:name":"Klagenfurt Land",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

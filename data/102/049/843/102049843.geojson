@@ -5,17 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025142,
-    "geom:area_square_m":207679793.924768,
+    "geom:area_square_m":207679793.92476,
     "geom:bbox":"16.3753014213,47.9875174944,16.6696909894,48.1589280219",
     "geom:latitude":48.085906,
     "geom:longitude":16.502232,
     "iso:country":"AT",
+    "label:eng_x_preferred_longname":[
+        "Wien-Umgebung District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":48.081291,
     "lbl:longitude":16.47749,
     "mps:latitude":48.081291,
     "mps:longitude":16.47749,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "Wien - Umgebung"
+    ],
     "qs:a0":"\u00c3sterreich",
     "qs:a0_lc":"AT00000",
     "qs:a1":"Nieder\u00c3\u00b6sterreich",
@@ -54,8 +63,8 @@
         }
     ],
     "wof:id":102049843,
-    "wof:lastmodified":1529537108,
-    "wof:name":"Wien - Umgebung",
+    "wof:lastmodified":1555220291,
+    "wof:name":"Wien-Umgebung",
     "wof:parent_id":85681671,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-at",
