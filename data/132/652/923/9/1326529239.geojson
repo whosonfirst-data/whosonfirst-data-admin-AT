@@ -30,6 +30,7 @@
         85682571,
         102191581,
         85633111,
+        1377690971,
         404227567,
         102063227
     ],
@@ -44,15 +45,16 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063227,
+            "localadmin_id":1377690971,
             "locality_id":1326529239,
             "macrocounty_id":404227567,
             "region_id":85682571
         }
     ],
     "wof:id":1326529239,
-    "wof:lastmodified":1536987572,
+    "wof:lastmodified":1559016137,
     "wof:name":"Loch",
-    "wof:parent_id":102063227,
+    "wof:parent_id":1377690971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000524,
-    "geom:area_square_m":4346799.393485,
+    "geom:area_square_m":4346799.393483,
     "geom:bbox":"12.9734495404,47.8076206534,13.0155404838,47.8297519171",
     "geom:latitude":47.817236,
     "geom:longitude":12.994557,
@@ -59,12 +59,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85681681,
         102191581,
         1108837189,
         85632785,
-        101913413,
-        102049799,
-        85681681
+        1175610443,
+        102049799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +81,7 @@
             "country_id":85632785,
             "county_id":102049799,
             "localadmin_id":1108837189,
-            "locality_id":101913413,
+            "locality_id":1175610443,
             "neighbourhood_id":85898521,
             "region_id":85681681
         }
@@ -90,9 +90,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1497308129,
+    "wof:lastmodified":1559017078,
     "wof:name":"Taxham",
-    "wof:parent_id":101913413,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
