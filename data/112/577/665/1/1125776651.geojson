@@ -24,10 +24,7 @@
     "name:bos_x_preferred":[
         "Ramsau am Dachstein"
     ],
-    "name:chi_x_preferred":[
-        "Ramsau am Dachstein"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ramsau am Dachstein"
     ],
     "name:eng_x_preferred":[
@@ -39,13 +36,13 @@
     "name:fas_x_preferred":[
         "\u0631\u0627\u0645\u0633\u0627\u0648 \u0622\u0645 \u062f\u0627\u062e\u200c\u0627\u0634\u062a\u06cc\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0631\u0627\u0645\u0633\u0648 \u0627\u0645 \u062f\u0627\u0634\u062a\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Ramsau am Dachstein"
     ],
-    "name:fre_x_preferred":[
-        "Ramsau am Dachstein"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ramsau am Dachstein"
     ],
     "name:hun_x_preferred":[
@@ -63,19 +60,19 @@
     "name:kor_x_preferred":[
         "\ub78c\uc790\uc6b0\uc554\ub2e4\ud750\uc288\ud0c0\uc778"
     ],
+    "name:nld_x_preferred":[
+        "Ramsau am Dachstein"
+    ],
     "name:nno_x_preferred":[
         "Ramsau am Dachstein"
     ],
     "name:nob_x_preferred":[
         "Ramsau am Dachstein"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u0645\u0633\u0648 \u0627\u0645 \u062f\u0627\u0634\u062a\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Ramsau am Dachstein"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ramsau am Dachstein"
     ],
     "name:rus_x_preferred":[
@@ -84,7 +81,7 @@
     "name:rus_x_variant":[
         "\u0420\u0430\u043c\u0437\u0430\u0443-\u0430\u043c-\u0414\u0430\u0445\u0448\u0442\u0430\u0439\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ramsau am Dachstein"
     ],
     "name:swe_x_preferred":[
@@ -104,6 +101,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8fbe\u8d6b\u65bd\u6cf0\u56e0\u5c71\u9e93\u62c9\u59c6\u7ecd"
+    ],
+    "name:zho_x_variant":[
+        "Ramsau am Dachstein"
     ],
     "qs_pg:aaroncc":"AT",
     "qs_pg:gn_country":"AT",
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":1125776651,
-    "wof:lastmodified":1513889998,
+    "wof:lastmodified":1561827520,
     "wof:name":"Ramsau",
     "wof:parent_id":1108838921,
     "wof:placetype":"locality",

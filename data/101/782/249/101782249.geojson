@@ -20,17 +20,17 @@
     "name:bos_x_preferred":[
         "Mistelbach an der Zaya"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u65af\u7279\u723e\u5df4\u8d6b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mistelbach an der Zaya"
+    ],
+    "name:cym_x_preferred":[
+        "Mistelbach"
     ],
     "name:deu_x_preferred":[
         "Mistelbach an der Zaya"
     ],
-    "name:dut_x_preferred":[
-        "Mistelbach an der Zaya"
+    "name:deu_x_variant":[
+        "Mistelbach"
     ],
     "name:eng_x_preferred":[
         "Mistelbach"
@@ -38,11 +38,11 @@
     "name:est_x_preferred":[
         "Mistelbach"
     ],
-    "name:fre_x_preferred":[
-        "Mistelbach an der Zaya"
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0632\u062a\u0644\u0628\u0627\u062e"
     ],
-    "name:ger_x_preferred":[
-        "Mistelbach"
+    "name:fra_x_preferred":[
+        "Mistelbach an der Zaya"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05e1\u05d8\u05dc\u05d1\u05d0\u05da"
@@ -62,8 +62,8 @@
     "name:nan_x_preferred":[
         "Mistelbach"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0632\u062a\u0644\u0628\u0627\u062e"
+    "name:nld_x_preferred":[
+        "Mistelbach an der Zaya"
     ],
     "name:pol_x_preferred":[
         "Mistelbach an der Zaya"
@@ -74,7 +74,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u0441\u0442\u0435\u043b\u044c-\u0411\u0430\u0445"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mistelbach an der Zaya"
     ],
     "name:srp_x_preferred":[
@@ -101,8 +101,8 @@
     "name:war_x_preferred":[
         "Mistelbach"
     ],
-    "name:wel_x_preferred":[
-        "Mistelbach"
+    "name:zho_x_preferred":[
+        "\u7c73\u65af\u7279\u723e\u5df4\u8d6b"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
@@ -155,7 +155,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1513889911,
+    "wof:lastmodified":1561827466,
     "wof:name":"Mistelbach",
     "wof:parent_id":1108836627,
     "wof:placetype":"locality",

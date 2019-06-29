@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":742664.632954,
+    "geom:area_square_m":742670.621964,
     "geom:bbox":"14.419050054,48.0166094276,14.4512044966,48.0401430184",
     "geom:latitude":48.022219,
     "geom:longitude":14.433455,
@@ -16,20 +16,14 @@
     "mps:longitude":14.42968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u65bd\u6cf0\u5c14\u9644\u8fd1\u5723\u4e4c\u5c14\u91cc\u5e0c"
-    ],
-    "name:dut_x_preferred":[
-        "Sankt Ulrich bei Steyr"
+    "name:deu_x_preferred":[
+        "St. Ulrich bei Steyr"
     ],
     "name:eng_x_preferred":[
         "Sankt Ulrich bei Steyr"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sankt Ulrich bei Steyr"
-    ],
-    "name:ger_x_preferred":[
-        "St. Ulrich bei Steyr"
     ],
     "name:hun_x_preferred":[
         "Sankt Ulrich bei Steyr"
@@ -40,6 +34,9 @@
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0423\u043b\u044c\u0440\u0438\u0445-\u0428\u0442\u0430\u0439\u0440"
     ],
+    "name:nld_x_preferred":[
+        "Sankt Ulrich bei Steyr"
+    ],
     "name:pol_x_preferred":[
         "St. Ulrich bei Steyr"
     ],
@@ -49,7 +46,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0423\u043b\u044c\u0440\u0438\u0445-\u0428\u0442\u0430\u0439\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sankt Ulrich bei Steyr"
     ],
     "name:swe_x_preferred":[
@@ -66,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Sankt Ulrich bei Steyr"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u6cf0\u5c14\u9644\u8fd1\u5723\u4e4c\u5c14\u91cc\u5e0c"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Ober\u00f6sterreich",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1175610445,
-    "wof:lastmodified":1534985833,
+    "wof:lastmodified":1561827438,
     "wof:name":"Sankt Ulrich bei Steyr",
     "wof:parent_id":1108836121,
     "wof:placetype":"locality",

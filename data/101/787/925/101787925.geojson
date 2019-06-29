@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000285,
-    "geom:area_square_m":2383533.718586,
+    "geom:area_square_m":2383533.718585,
     "geom:bbox":"12.7814072218,47.3326209672,12.8136806854,47.3766908117",
     "geom:latitude":47.358483,
     "geom:longitude":12.802663,
@@ -25,28 +25,13 @@
     "name:ces_x_preferred":[
         "Maishofen"
     ],
-    "name:chi_x_preferred":[
-        "Maishofen"
-    ],
-    "name:cze_x_preferred":[
-        "Maishofen"
-    ],
     "name:deu_x_preferred":[
-        "Maishofen"
-    ],
-    "name:dut_x_preferred":[
         "Maishofen"
     ],
     "name:eng_x_preferred":[
         "Maishofen"
     ],
     "name:fra_x_preferred":[
-        "Maishofen"
-    ],
-    "name:fre_x_preferred":[
-        "Maishofen"
-    ],
-    "name:ger_x_preferred":[
         "Maishofen"
     ],
     "name:hun_x_preferred":[
@@ -68,9 +53,6 @@
         "\u041c\u0430\u0439\u0441\u0445\u043e\u0444\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Maishofen"
-    ],
-    "name:slo_x_preferred":[
         "Maishofen"
     ],
     "name:swe_x_preferred":[
@@ -96,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8fc8\u65af\u970d\u82ac"
+    ],
+    "name:zho_x_variant":[
+        "Maishofen"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Salzburg",
@@ -145,7 +130,7 @@
         }
     ],
     "wof:id":101787925,
-    "wof:lastmodified":1527715847,
+    "wof:lastmodified":1561827479,
     "wof:name":"Maishofen",
     "wof:parent_id":1108837217,
     "wof:placetype":"locality",

@@ -16,22 +16,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u8482\u6797\u683c\u5c14\u8d1d\u683c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Th\u00fcringerberg"
     ],
     "name:eng_x_preferred":[
         "Th\u00fcringerberg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Th\u00fcringerberg"
     ],
     "name:fur_x_preferred":[
-        "Th\u00fcringerberg"
-    ],
-    "name:ger_x_preferred":[
         "Th\u00fcringerberg"
     ],
     "name:gsw_x_preferred":[
@@ -46,13 +40,16 @@
     "name:lmo_x_preferred":[
         "Th\u00fcringerberg"
     ],
+    "name:nld_x_preferred":[
+        "Th\u00fcringerberg"
+    ],
     "name:pol_x_preferred":[
         "Th\u00fcringerberg"
     ],
     "name:rus_x_preferred":[
         "\u0422\u044e\u0440\u0438\u043d\u0433\u0435\u0440\u0431\u0435\u0440\u0433"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Th\u00fcringerberg"
     ],
     "name:swe_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "Th\u00fcringerberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u6797\u683c\u5c14\u8d1d\u683c"
     ],
     "qs_pg:aaroncc":"AT",
     "qs_pg:gn_country":null,
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1126057947,
-    "wof:lastmodified":1513890107,
+    "wof:lastmodified":1561827492,
     "wof:name":"Th\u00fcringerberg",
     "wof:parent_id":1108838075,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
-    "geom:area_square_m":2522562.356508,
+    "geom:area_square_m":2522562.356509,
     "geom:bbox":"15.3817091899,48.3512914692,15.4317088079,48.3719205994",
     "geom:latitude":48.362518,
     "geom:longitude":15.412095,
@@ -28,14 +28,11 @@
     "name:ces_x_preferred":[
         "\u0160picov\u00e9 a plemena primitivn\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u65bd\u76ae\u8328"
+    "name:ces_x_variant":[
+        "Spitz"
     ],
     "name:cym_x_preferred":[
         "Ci sbits"
-    ],
-    "name:cze_x_preferred":[
-        "Spitz"
     ],
     "name:dan_x_preferred":[
         "Spidshunde"
@@ -45,9 +42,6 @@
     ],
     "name:deu_x_variant":[
         "Spitz an der Donau"
-    ],
-    "name:dut_x_preferred":[
-        "Spitz"
     ],
     "name:eng_x_preferred":[
         "Spitz"
@@ -62,12 +56,6 @@
         "Pystykorva"
     ],
     "name:fra_x_preferred":[
-        "Spitz"
-    ],
-    "name:fre_x_preferred":[
-        "Spitz"
-    ],
-    "name:ger_x_preferred":[
         "Spitz"
     ],
     "name:heb_x_preferred":[
@@ -100,6 +88,9 @@
     "name:nld_x_preferred":[
         "Spits"
     ],
+    "name:nld_x_variant":[
+        "Spitz"
+    ],
     "name:nor_x_preferred":[
         "Spisshunder"
     ],
@@ -112,7 +103,7 @@
     "name:rus_x_preferred":[
         "\u0428\u043f\u0438\u0446"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Spitz"
     ],
     "name:spa_x_preferred":[
@@ -138,6 +129,9 @@
     ],
     "name:war_x_preferred":[
         "Spitz"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u76ae\u8328"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
@@ -186,7 +180,7 @@
         }
     ],
     "wof:id":101843339,
-    "wof:lastmodified":1527642589,
+    "wof:lastmodified":1561827451,
     "wof:name":"Spitz",
     "wof:parent_id":1108836357,
     "wof:placetype":"locality",

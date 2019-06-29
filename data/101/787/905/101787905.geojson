@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":2652840.397201,
+    "geom:area_square_m":2652840.3972,
     "geom:bbox":"15.8123385944,47.29107657,15.8462153635,47.3173945204",
     "geom:latitude":47.303388,
     "geom:longitude":15.829375,
@@ -22,28 +22,13 @@
     "name:ces_x_preferred":[
         "P\u00f6llau"
     ],
-    "name:chi_x_preferred":[
-        "\u73c0\u52b3"
-    ],
-    "name:cze_x_preferred":[
-        "P\u00f6llau"
-    ],
     "name:deu_x_preferred":[
-        "P\u00f6llau"
-    ],
-    "name:dut_x_preferred":[
         "P\u00f6llau"
     ],
     "name:eng_x_preferred":[
         "P\u00f6llau"
     ],
     "name:fra_x_preferred":[
-        "P\u00f6llau"
-    ],
-    "name:fre_x_preferred":[
-        "P\u00f6llau"
-    ],
-    "name:ger_x_preferred":[
         "P\u00f6llau"
     ],
     "name:hun_x_preferred":[
@@ -67,9 +52,6 @@
     "name:slk_x_preferred":[
         "P\u00f6llau"
     ],
-    "name:slo_x_preferred":[
-        "P\u00f6llau"
-    ],
     "name:swe_x_preferred":[
         "P\u00f6llau"
     ],
@@ -90,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "P\u00f6llau"
+    ],
+    "name:zho_x_preferred":[
+        "\u73c0\u52b3"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Steiermark",
@@ -138,7 +123,7 @@
         }
     ],
     "wof:id":101787905,
-    "wof:lastmodified":1530142070,
+    "wof:lastmodified":1561827479,
     "wof:name":"P\u00f6llau",
     "wof:parent_id":1108839107,
     "wof:placetype":"locality",

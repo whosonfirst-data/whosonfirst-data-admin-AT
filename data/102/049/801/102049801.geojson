@@ -25,9 +25,6 @@
     "name:ast_x_preferred":[
         "Amstetten"
     ],
-    "name:baq_x_preferred":[
-        "Amstetten"
-    ],
     "name:bar_x_preferred":[
         "Aumstettn"
     ],
@@ -40,16 +37,13 @@
     "name:cat_x_preferred":[
         "Amstetten"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u59c6\u65bd\u6cf0\u6ed5"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Amstetten"
     ],
     "name:dan_x_preferred":[
         "Amstetten"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Amstetten"
     ],
     "name:eng_x_preferred":[
@@ -58,16 +52,16 @@
     "name:est_x_preferred":[
         "Amstetten"
     ],
+    "name:eus_x_preferred":[
+        "Amstetten"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u0634\u062a\u062a\u0646"
+    ],
     "name:fin_x_preferred":[
         "Amstetten"
     ],
-    "name:fre_x_preferred":[
-        "Amstetten"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10db\u10e8\u10e2\u10d4\u10e2\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Amstetten"
     ],
     "name:hrv_x_preferred":[
@@ -76,10 +70,10 @@
     "name:hun_x_preferred":[
         "Amstetten"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Amstetten"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Amstetten"
     ],
     "name:ita_x_preferred":[
@@ -87,6 +81,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30e0\u30b7\u30e5\u30c6\u30c3\u30c6\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10e8\u10e2\u10d4\u10e2\u10d4\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u043c\u0448\u0442\u0435\u0442\u0442\u0435\u043d"
@@ -106,11 +103,11 @@
     "name:nan_x_preferred":[
         "Amstetten"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Amstetten"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0645\u0634\u062a\u062a\u0646"
+    "name:nob_x_preferred":[
+        "Amstetten"
     ],
     "name:pol_x_preferred":[
         "Amstetten"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Amstetten"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Amstetten"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +124,7 @@
     "name:sco_x_preferred":[
         "Amstetten"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Amstetten"
     ],
     "name:spa_x_preferred":[
@@ -159,6 +156,9 @@
     ],
     "name:war_x_preferred":[
         "Amstetten"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u59c6\u65bd\u6cf0\u6ed5"
     ],
     "qs:a0":"\u00c3sterreich",
     "qs:a0_lc":"AT00000",
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":102049801,
-    "wof:lastmodified":1555220291,
+    "wof:lastmodified":1561827343,
     "wof:name":"Amstetten",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

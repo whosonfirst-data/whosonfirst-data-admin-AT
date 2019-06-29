@@ -21,9 +21,6 @@
     "name:afr_x_preferred":[
         "Salzburg"
     ],
-    "name:alb_x_preferred":[
-        "Salzburg"
-    ],
     "name:als_x_preferred":[
         "Salzburg"
     ],
@@ -36,9 +33,6 @@
     "name:arg_x_preferred":[
         "Salzburgo"
     ],
-    "name:arm_x_preferred":[
-        "\u0536\u0561\u056c\u0581\u0562\u0578\u0582\u0580\u0563"
-    ],
     "name:ast_x_preferred":[
         "Salzburgo"
     ],
@@ -47,9 +41,6 @@
     ],
     "name:aze_x_preferred":[
         "Zaltsburq"
-    ],
-    "name:baq_x_preferred":[
-        "Salzburgo"
     ],
     "name:bar_x_preferred":[
         "S\u00e5izburg"
@@ -81,13 +72,10 @@
     "name:che_x_preferred":[
         "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u5c14\u8328\u5821"
-    ],
     "name:cos_x_preferred":[
         "Salisburgu"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Salzburg"
     ],
     "name:dan_x_preferred":[
@@ -97,9 +85,6 @@
         "Salzburg"
     ],
     "name:dsb_x_preferred":[
-        "Salzburg"
-    ],
-    "name:dut_x_preferred":[
         "Salzburg"
     ],
     "name:ell_x_preferred":[
@@ -129,15 +114,6 @@
     "name:fra_x_preferred":[
         "Salzbourg"
     ],
-    "name:fre_x_preferred":[
-        "Salzbourg"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10da\u10ea\u10d1\u10e3\u10e0\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Salzburg"
-    ],
     "name:gla_x_preferred":[
         "Salzburg"
     ],
@@ -149,9 +125,6 @@
     ],
     "name:glv_x_preferred":[
         "Salzburg"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bb\u03c4\u03c3\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Salzburg"
@@ -177,9 +150,6 @@
     "name:hye_x_preferred":[
         "\u0536\u0561\u056c\u0581\u0562\u0578\u0582\u0580\u0563"
     ],
-    "name:ice_x_preferred":[
-        "Salzburg"
-    ],
     "name:ido_x_preferred":[
         "Salzburg"
     ],
@@ -190,6 +160,9 @@
         "Salzburg"
     ],
     "name:ind_x_preferred":[
+        "Salzburg"
+    ],
+    "name:isl_x_preferred":[
         "Salzburg"
     ],
     "name:ita_x_preferred":[
@@ -240,23 +213,23 @@
     "name:ltz_x_preferred":[
         "Salzburg"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043b\u0446\u0431\u0443\u0440\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u093e\u0932\u094d\u0924\u094d\u0938\u092c\u0941\u0930\u094d\u0917"
     ],
-    "name:may_x_preferred":[
-        "Salzburg"
-    ],
     "name:mhr_x_preferred":[
         "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043b\u0446\u0431\u0443\u0440\u0433"
     ],
     "name:mlt_x_preferred":[
         "Sali\u017cburgu"
     ],
     "name:mon_x_preferred":[
         "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Salzburg"
     ],
     "name:nah_x_preferred":[
         "Salzburg"
@@ -285,9 +258,6 @@
     "name:pap_x_preferred":[
         "Salzburg"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u0644\u062a\u0633\u0628\u0648\u0631\u06af"
-    ],
     "name:pms_x_preferred":[
         "Salisborgh"
     ],
@@ -301,9 +271,6 @@
         "Salzburg"
     ],
     "name:ron_x_preferred":[
-        "Salzburg"
-    ],
-    "name:rum_x_preferred":[
         "Salzburg"
     ],
     "name:rus_x_preferred":[
@@ -324,9 +291,6 @@
     "name:slk_x_variant":[
         "Salzburg"
     ],
-    "name:slo_x_preferred":[
-        "Salzburg"
-    ],
     "name:slv_x_preferred":[
         "Salzburg"
     ],
@@ -335,6 +299,9 @@
     ],
     "name:spa_x_preferred":[
         "Salzburgo"
+    ],
+    "name:sqi_x_preferred":[
+        "Salzburg"
     ],
     "name:srd_x_preferred":[
         "Salzburg"
@@ -405,9 +372,6 @@
     "name:war_x_preferred":[
         "Salzburg"
     ],
-    "name:wel_x_preferred":[
-        "Salzburg"
-    ],
     "name:wuu_x_preferred":[
         "\u67f4\u5c14\u5179\u5b5b\u683c"
     ],
@@ -469,7 +433,7 @@
         }
     ],
     "wof:id":1175610443,
-    "wof:lastmodified":1559016138,
+    "wof:lastmodified":1561827438,
     "wof:name":"Salzburg",
     "wof:parent_id":1108837189,
     "wof:placetype":"locality",

@@ -19,13 +19,10 @@
     "mps:longitude":15.6946,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:chi_x_preferred":[
-        "\u9ed1\u63aa\u6839\u5821"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Herzogenburg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Herzogenburg"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +31,7 @@
     "name:est_x_preferred":[
         "Herzogenburg"
     ],
-    "name:fre_x_preferred":[
-        "Herzogenburg"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Herzogenburg"
     ],
     "name:hun_x_preferred":[
@@ -49,6 +43,9 @@
     "name:kaz_x_preferred":[
         "\u0412\u0438\u043b\u0430\u043d\u0434\u0441\u0442\u0430\u043b\u044c"
     ],
+    "name:nld_x_preferred":[
+        "Herzogenburg"
+    ],
     "name:pol_x_preferred":[
         "Herzogenburg"
     ],
@@ -58,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0425\u0435\u0440\u0446\u043e\u0433\u0435\u043d\u0431\u0443\u0440\u0433"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Herzogenburg"
     ],
     "name:swe_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Herzogenburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u63aa\u6839\u5821"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":101784543,
-    "wof:lastmodified":1553815500,
+    "wof:lastmodified":1561827470,
     "wof:name":"Herzogenburg",
     "wof:parent_id":1108836215,
     "wof:placetype":"locality",

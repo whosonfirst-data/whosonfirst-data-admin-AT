@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2102738.33387,
+    "geom:area_square_m":2102738.333869,
     "geom:bbox":"16.2940177966,48.359675847,16.3319150788,48.382612574",
     "geom:latitude":48.372445,
     "geom:longitude":16.313589,
@@ -22,28 +22,13 @@
     "name:ces_x_preferred":[
         "Leobendorf"
     ],
-    "name:chi_x_preferred":[
-        "Leobendorf"
-    ],
-    "name:cze_x_preferred":[
-        "Leobendorf"
-    ],
     "name:deu_x_preferred":[
-        "Leobendorf"
-    ],
-    "name:dut_x_preferred":[
         "Leobendorf"
     ],
     "name:eng_x_preferred":[
         "Leobendorf"
     ],
     "name:fra_x_preferred":[
-        "Leobendorf"
-    ],
-    "name:fre_x_preferred":[
-        "Leobendorf"
-    ],
-    "name:ger_x_preferred":[
         "Leobendorf"
     ],
     "name:hun_x_preferred":[
@@ -70,9 +55,6 @@
     "name:slk_x_preferred":[
         "Leobendorf"
     ],
-    "name:slo_x_preferred":[
-        "Leobendorf"
-    ],
     "name:swe_x_preferred":[
         "Leobendorf"
     ],
@@ -90,6 +72,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83b1\u5965\u672c\u591a\u592b"
+    ],
+    "name:zho_x_variant":[
+        "Leobendorf"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
@@ -139,7 +124,7 @@
         }
     ],
     "wof:id":101754249,
-    "wof:lastmodified":1527641865,
+    "wof:lastmodified":1561827447,
     "wof:name":"Leobendorf",
     "wof:parent_id":1108836331,
     "wof:placetype":"locality",

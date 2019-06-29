@@ -18,22 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
+    "name:ces_x_preferred":[
         "Mieming"
     ],
-    "name:cze_x_preferred":[
-        "Mieming"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mieming"
     ],
     "name:eng_x_preferred":[
         "Mieming"
     ],
-    "name:fre_x_preferred":[
-        "Mieming"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mieming"
     ],
     "name:hun_x_preferred":[
@@ -48,6 +42,9 @@
     "name:lmo_x_preferred":[
         "Mieming"
     ],
+    "name:nld_x_preferred":[
+        "Mieming"
+    ],
     "name:pnb_x_preferred":[
         "\u0645\u0627\u0626\u0645\u0646\u06af"
     ],
@@ -57,7 +54,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u043c\u0438\u043d\u0433"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mieming"
     ],
     "name:swe_x_preferred":[
@@ -77,6 +74,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7c73\u660e"
+    ],
+    "name:zho_x_variant":[
+        "Mieming"
     ],
     "qs_pg:aaroncc":"AT",
     "qs_pg:gn_country":"AT",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1126058713,
-    "wof:lastmodified":1553816732,
+    "wof:lastmodified":1561827492,
     "wof:name":"Mieming",
     "wof:parent_id":1108837423,
     "wof:placetype":"locality",

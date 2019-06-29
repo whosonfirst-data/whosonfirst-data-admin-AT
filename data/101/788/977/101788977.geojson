@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":1665648.929207,
+    "geom:area_square_m":1665648.929206,
     "geom:bbox":"13.5233400291,46.8995084198,13.543763145,46.9275538051",
     "geom:latitude":46.910392,
     "geom:longitude":13.532995,
@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Gm\u00fcnd"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u660e\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Gm\u00fcnd in K\u00e4rnten"
-    ],
-    "name:dut_x_preferred":[
         "Gm\u00fcnd in K\u00e4rnten"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +32,7 @@
     "name:fra_x_preferred":[
         "Gm\u00fcnd"
     ],
-    "name:fre_x_preferred":[
-        "Gm\u00fcnd in K\u00e4rnten"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Gm\u00fcnd in K\u00e4rnten"
     ],
     "name:hun_x_preferred":[
@@ -71,7 +62,7 @@
     "name:rus_x_preferred":[
         "\u0413\u043c\u044e\u043d\u0434"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gm\u00fcnd in K\u00e4rnten"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +82,9 @@
     ],
     "name:war_x_preferred":[
         "Gm\u00fcnd"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u660e\u5fb7"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*K\u00e4rnten",
@@ -140,7 +134,7 @@
         }
     ],
     "wof:id":101788977,
-    "wof:lastmodified":1513889733,
+    "wof:lastmodified":1561827475,
     "wof:name":"Gm\u00fcnd",
     "wof:parent_id":1108838263,
     "wof:placetype":"locality",

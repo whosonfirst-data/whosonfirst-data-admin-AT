@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001367,
-    "geom:area_square_m":11252422.487548,
+    "geom:area_square_m":11252422.48755,
     "geom:bbox":"12.9917791947,48.2169719719,13.087372403,48.2684379812",
     "geom:latitude":48.247075,
     "geom:longitude":13.042466,
@@ -23,14 +23,8 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0648\u0646\u0627\u0648 \u0622\u0645 \u0625\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0580\u0561\u0578\u0582\u0576\u0561\u0578\u0582 \u0561\u0574 \u053b\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u0627\u0646\u0627\u0626\u0648 \u0627\u0645"
-    ],
-    "name:baq_x_preferred":[
-        "Braunau am Inn"
     ],
     "name:bar_x_preferred":[
         "Braunau am Inn"
@@ -53,10 +47,7 @@
     "name:che_x_preferred":[
         "\u0411\u0440\u0430\u0443\u043d\u0430\u0443-\u0430\u043c-\u0418\u043d\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u56e0\u6cb3\u7554\u5e03\u52b3\u7459"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Braunau am Inn"
     ],
     "name:dan_x_preferred":[
@@ -65,8 +56,8 @@
     "name:deu_x_preferred":[
         "Braunau am Inn"
     ],
-    "name:dut_x_preferred":[
-        "Braunau am Inn"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03ac\u03bf\u03c5\u03bd\u03b1\u03bf\u03c5 \u03b1\u03bc \u0399\u03bd"
     ],
     "name:eng_x_preferred":[
         "Braunau"
@@ -80,8 +71,14 @@
     "name:est_x_preferred":[
         "Braunau Inni \u00e4\u00e4res"
     ],
+    "name:eus_x_preferred":[
+        "Braunau am Inn"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u0627\u0646\u0627\u0626\u0648 \u0627\u0645 \u0627\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u0627\u0646\u200c\u0622\u0626\u0648 \u0627\u0645 \u0627\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Braunau am Inn"
@@ -89,23 +86,11 @@
     "name:fra_x_preferred":[
         "Braunau am Inn"
     ],
-    "name:fre_x_preferred":[
-        "Braunau am Inn"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dc\u10d8\u10e1 \u10d1\u10e0\u10d0\u10e3\u10dc\u10d0\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Braunau am Inn"
-    ],
     "name:gla_x_preferred":[
         "Braunau am Inn"
     ],
     "name:glg_x_preferred":[
         "Braunau am Inn"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03ac\u03bf\u03c5\u03bd\u03b1\u03bf\u03c5 \u03b1\u03bc \u0399\u03bd"
     ],
     "name:hbs_x_preferred":[
         "Braunau am Inn"
@@ -122,10 +107,13 @@
     "name:hun_x_preferred":[
         "Braunau am Inn"
     ],
-    "name:ice_x_preferred":[
-        "Braunau am Inn"
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u0561\u0578\u0582\u0576\u0561\u0578\u0582 \u0561\u0574 \u053b\u0576"
     ],
     "name:ind_x_preferred":[
+        "Braunau am Inn"
+    ],
+    "name:isl_x_preferred":[
         "Braunau am Inn"
     ],
     "name:ita_x_preferred":[
@@ -158,9 +146,6 @@
     "name:lmo_x_preferred":[
         "Braunau am Inn"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0440\u0430\u0443\u043d\u0430\u0443 \u043d\u0430 \u0418\u043d"
-    ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0430\u0443\u043d\u0430\u0443 \u043d\u0430 \u0418\u043d"
     ],
@@ -182,9 +167,6 @@
     "name:pap_x_preferred":[
         "Braunau am Inn"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0627\u0646\u200c\u0622\u0626\u0648 \u0627\u0645 \u0627\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Braunau am Inn"
     ],
@@ -192,9 +174,6 @@
         "Braunau am Inn"
     ],
     "name:ron_x_preferred":[
-        "Braunau am Inn"
-    ],
-    "name:rum_x_preferred":[
         "Braunau am Inn"
     ],
     "name:rup_x_preferred":[
@@ -206,7 +185,7 @@
     "name:sco_x_preferred":[
         "Braunau am Inn"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Braunau am Inn"
     ],
     "name:slv_x_preferred":[
@@ -243,9 +222,6 @@
         "Braunau am Inn"
     ],
     "name:war_x_preferred":[
-        "Braunau am Inn"
-    ],
-    "name:wel_x_preferred":[
         "Braunau am Inn"
     ],
     "name:yid_x_preferred":[
@@ -310,7 +286,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527688565,
+    "wof:lastmodified":1561827472,
     "wof:name":"Braunau am Inn",
     "wof:parent_id":1108834715,
     "wof:placetype":"locality",

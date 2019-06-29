@@ -25,26 +25,26 @@
     "name:ara_x_preferred":[
         "\u0643\u062a\u0633\u0628\u0648\u064a\u0644"
     ],
-    "name:baq_x_preferred":[
-        "Kitzb\u00fchel"
-    ],
     "name:bar_x_preferred":[
         "Kitzbichl"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u0446\u0431\u044e\u0435\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u8328\u6bd4\u5384\u723e"
+    "name:ces_x_preferred":[
+        "Kitzb\u00fchel"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Kitzb\u00fchel"
     ],
     "name:dan_x_preferred":[
         "Kitzb\u00fchel"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kitzb\u00fchel"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03c4\u03c3\u03bc\u03c0\u03b9\u03b5\u03bb"
     ],
     "name:eng_x_preferred":[
         "Kitzb\u00fchel"
@@ -55,17 +55,14 @@
     "name:est_x_preferred":[
         "Kitzb\u00fchel"
     ],
+    "name:eus_x_preferred":[
+        "Kitzb\u00fchel"
+    ],
     "name:fin_x_preferred":[
         "Kitzb\u00fchel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kitzb\u00fchel"
-    ],
-    "name:ger_x_preferred":[
-        "Kitzb\u00fchel"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03af\u03c4\u03c3\u03bc\u03c0\u03b9\u03b5\u03bb"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e6\u05d1\u05d9\u05dc"
@@ -97,8 +94,11 @@
     "name:lmo_x_preferred":[
         "Kitzb\u00fchel"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u0438\u0446\u0431\u0438\u0435\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Kitzb\u00fchel"
     ],
     "name:nno_x_preferred":[
         "Kitzb\u00fchel"
@@ -112,7 +112,7 @@
     "name:por_x_preferred":[
         "Kitzb\u00fchel"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kitzb\u00fchel"
     ],
     "name:rus_x_preferred":[
@@ -121,7 +121,7 @@
     "name:sco_x_preferred":[
         "Kitzb\u00fchel"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kitzb\u00fchel"
     ],
     "name:slv_x_preferred":[
@@ -151,11 +151,11 @@
     "name:war_x_preferred":[
         "Kitzb\u00fchel"
     ],
-    "name:wel_x_preferred":[
-        "Kitzb\u00fchel"
-    ],
     "name:yid_x_preferred":[
         "\u05e7\u05d9\u05e6\u05d1\u05d9\u05dc"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u8328\u6bd4\u5384\u723e"
     ],
     "qs:a0":"\u00c3sterreich",
     "qs:a0_lc":"AT00000",
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":102049763,
-    "wof:lastmodified":1553716246,
+    "wof:lastmodified":1561827316,
     "wof:name":"Kitzb\u00fchel",
     "wof:parent_id":85681661,
     "wof:placetype":"county",
