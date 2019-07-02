@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000315,
-    "geom:area_square_m":2585694.41218,
+    "geom:area_square_m":2585694.412181,
     "geom:bbox":"16.3476208625,48.3190884324,16.3891255367,48.3412758961",
     "geom:latitude":48.332416,
     "geom:longitude":16.366381,
@@ -22,19 +22,10 @@
     "name:ces_x_preferred":[
         "Bisamberg"
     ],
-    "name:chi_x_preferred":[
-        "Bisamberg"
-    ],
-    "name:cze_x_preferred":[
-        "Bisamberg"
-    ],
     "name:dan_x_preferred":[
         "Bisamberg"
     ],
     "name:deu_x_preferred":[
-        "Bisamberg"
-    ],
-    "name:dut_x_preferred":[
         "Bisamberg"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +35,6 @@
         "Bisamberg"
     ],
     "name:fra_x_preferred":[
-        "Bisamberg"
-    ],
-    "name:fre_x_preferred":[
-        "Bisamberg"
-    ],
-    "name:ger_x_preferred":[
         "Bisamberg"
     ],
     "name:hun_x_preferred":[
@@ -76,9 +61,6 @@
     "name:slk_x_preferred":[
         "Bisamberg"
     ],
-    "name:slo_x_preferred":[
-        "Bisamberg"
-    ],
     "name:spa_x_preferred":[
         "Bisamberg"
     ],
@@ -99,6 +81,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u6851\u8d1d\u683c"
+    ],
+    "name:zho_x_variant":[
+        "Bisamberg"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
@@ -149,7 +134,7 @@
         }
     ],
     "wof:id":101754241,
-    "wof:lastmodified":1527641863,
+    "wof:lastmodified":1561827447,
     "wof:name":"Bisamberg",
     "wof:parent_id":1108836939,
     "wof:placetype":"locality",

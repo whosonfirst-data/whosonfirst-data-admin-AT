@@ -25,13 +25,10 @@
     "name:bos_x_preferred":[
         "Deutschlandsberg"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u610f\u5fd7\u5170\u8328\u8d1d\u683c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Deutschlandsberg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Deutschlandsberg"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +37,7 @@
     "name:fin_x_preferred":[
         "Deutschlandsberg"
     ],
-    "name:fre_x_preferred":[
-        "Deutschlandsberg"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Deutschlandsberg"
     ],
     "name:hun_x_preferred":[
@@ -64,19 +58,22 @@
     "name:kor_x_preferred":[
         "\ub3c4\uc774\uce60\ub780\uce20\ubca0\ub974\ud06c"
     ],
+    "name:nld_x_preferred":[
+        "Deutschlandsberg"
+    ],
     "name:nob_x_preferred":[
         "Deutschlandsberg"
     ],
     "name:pol_x_preferred":[
         "Deutschlandsberg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Deutschlandsberg"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0439\u0447\u043b\u0430\u043d\u0434\u0441\u0431\u0435\u0440\u0433"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Deutschlandsberg"
     ],
     "name:slv_x_preferred":[
@@ -99,6 +96,9 @@
     ],
     "name:war_x_preferred":[
         "Deutschlandsberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u610f\u5fd7\u5170\u8328\u8d1d\u683c"
     ],
     "qs:a0":"\u00c3sterreich",
     "qs:a0_lc":"AT00000",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":102049691,
-    "wof:lastmodified":1553716241,
+    "wof:lastmodified":1561827342,
     "wof:name":"Deutschlandsberg",
     "wof:parent_id":85681687,
     "wof:placetype":"county",

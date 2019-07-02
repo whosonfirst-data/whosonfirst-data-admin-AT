@@ -16,9 +16,6 @@
     "mps:longitude":13.766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u057f\u0561\u0578\u0582\u057d\u0566\u0565"
-    ],
     "name:bar_x_preferred":[
         "Oid Aussee"
     ],
@@ -28,19 +25,13 @@
     "name:ceb_x_preferred":[
         "Altaussee"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5c14\u9676\u585e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Altaussee"
     ],
     "name:dan_x_preferred":[
         "Altaussee"
     ],
     "name:deu_x_preferred":[
-        "Altaussee"
-    ],
-    "name:dut_x_preferred":[
         "Altaussee"
     ],
     "name:eng_x_preferred":[
@@ -55,15 +46,6 @@
     "name:fra_x_preferred":[
         "Altaussee"
     ],
-    "name:fre_x_preferred":[
-        "Altaussee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10e2\u10d0\u10e3\u10e1\u10d6\u10d4\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Altaussee"
-    ],
     "name:gla_x_preferred":[
         "Altaussee"
     ],
@@ -73,11 +55,17 @@
     "name:hun_x_preferred":[
         "Altaussee"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u057f\u0561\u0578\u0582\u057d\u0566\u0565"
+    ],
     "name:ita_x_preferred":[
         "Altaussee"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30c8\u30cf\u30a6\u30b9\u30bc\u30fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10e2\u10d0\u10e3\u10e1\u10d6\u10d4\u10d4"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u043b\u044c\u0442\u0430\u0443\u0441\u0437\u0435\u0435"
@@ -88,9 +76,6 @@
     "name:nob_x_preferred":[
         "Altaussee"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u062a\u0627\u0648\u0633\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Altaussee"
     ],
@@ -98,9 +83,6 @@
         "\u0410\u043b\u044c\u0442\u0430\u0443\u0441\u0437\u0435"
     ],
     "name:slk_x_preferred":[
-        "Altaussee"
-    ],
-    "name:slo_x_preferred":[
         "Altaussee"
     ],
     "name:spa_x_preferred":[
@@ -170,7 +152,7 @@
         }
     ],
     "wof:id":101912423,
-    "wof:lastmodified":1527653265,
+    "wof:lastmodified":1561827462,
     "wof:name":"Altaussee",
     "wof:parent_id":1108838971,
     "wof:placetype":"locality",

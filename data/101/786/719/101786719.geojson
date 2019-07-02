@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":2193925.419754,
+    "geom:area_square_m":2193925.419753,
     "geom:bbox":"16.6012515153,47.5935206047,16.6421986322,47.6088216779",
     "geom:latitude":47.60046,
     "geom:longitude":16.625202,
@@ -22,16 +22,10 @@
     "name:cat_x_preferred":[
         "Deutschkreutz"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u610f\u5fd7\u514b\u7f57\u4f0a\u8328"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Deutschkreutz"
     ],
     "name:deu_x_preferred":[
-        "Deutschkreutz"
-    ],
-    "name:dut_x_preferred":[
         "Deutschkreutz"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +34,10 @@
     "name:epo_x_preferred":[
         "Deutschkreutz"
     ],
-    "name:fre_x_preferred":[
-        "Deutschkreutz"
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u06cc\u0686\u06a9\u0631\u0648\u06cc\u062a\u0633"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Deutschkreutz"
     ],
     "name:heb_x_preferred":[
@@ -64,11 +58,11 @@
     "name:kaz_x_preferred":[
         "\u0414\u043e\u0439\u0447\u043a\u0440\u043e\u0439\u0446"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Deutschkreutz"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u06cc\u0686\u06a9\u0631\u0648\u06cc\u062a\u0633"
+    "name:oci_x_preferred":[
+        "Deutschkreutz"
     ],
     "name:pol_x_preferred":[
         "Deutschkreutz"
@@ -79,7 +73,7 @@
     "name:rus_x_preferred":[
         "\u0414\u043e\u0439\u0447\u043a\u0440\u043e\u0439\u0446"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Deutschkreutz"
     ],
     "name:swe_x_preferred":[
@@ -99,6 +93,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05e6\u05e2\u05dc\u05e2\u05dd"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u610f\u5fd7\u514b\u7f57\u4f0a\u8328"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Burgenland",
@@ -148,7 +145,7 @@
         }
     ],
     "wof:id":101786719,
-    "wof:lastmodified":1553815502,
+    "wof:lastmodified":1561827477,
     "wof:name":"Deutschkreutz",
     "wof:parent_id":1108838443,
     "wof:placetype":"locality",

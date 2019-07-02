@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
-    "geom:area_square_m":1156947.279917,
+    "geom:area_square_m":1156947.279916,
     "geom:bbox":"16.1071133515,47.0428590017,16.1337086404,47.0564538079",
     "geom:latitude":47.049754,
     "geom:longitude":16.121412,
@@ -16,10 +16,7 @@
     "mps:longitude":16.121211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9c81\u5fb7\u5c14\u65af\u591a\u592b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rudersdorf"
     ],
     "name:eng_x_preferred":[
@@ -28,10 +25,7 @@
     "name:epo_x_preferred":[
         "Rudersdorf"
     ],
-    "name:fre_x_preferred":[
-        "Rudersdorf"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rudersdorf"
     ],
     "name:hun_x_preferred":[
@@ -46,19 +40,22 @@
     "name:kaz_x_preferred":[
         "\u0420\u0443\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
     ],
+    "name:nld_x_preferred":[
+        "Rudersdorf"
+    ],
     "name:pol_x_preferred":[
         "Rudersdorf"
     ],
     "name:por_x_preferred":[
         "Rudersdorf"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rudersdorf"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Rudersdorf"
     ],
     "name:swe_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Rudersdorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c81\u5fb7\u5c14\u65af\u591a\u592b"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Burgenland",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":101789017,
-    "wof:lastmodified":1553815503,
+    "wof:lastmodified":1561827482,
     "wof:name":"Rudersdorf",
     "wof:parent_id":1108838559,
     "wof:placetype":"locality",

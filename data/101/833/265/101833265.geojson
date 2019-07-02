@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000631,
-    "geom:area_square_m":5173657.984119,
+    "geom:area_square_m":5173657.984121,
     "geom:bbox":"13.425674266,48.4354858628,13.4529946453,48.4902961743",
     "geom:latitude":48.461287,
     "geom:longitude":13.439231,
@@ -20,10 +20,10 @@
     "name:bar_x_preferred":[
         "Scharing"
     ],
-    "name:chi_x_preferred":[
-        "\u8b1d\u723e\u4e01"
+    "name:ces_x_preferred":[
+        "Sch\u00e4rding"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Sch\u00e4rding"
     ],
     "name:deu_x_colloquial":[
@@ -33,16 +33,10 @@
     "name:deu_x_preferred":[
         "Sch\u00e4rding"
     ],
-    "name:dut_x_preferred":[
-        "Sch\u00e4rding"
-    ],
     "name:eng_x_preferred":[
         "Sch\u00e4rding"
     ],
-    "name:fre_x_preferred":[
-        "Sch\u00e4rding"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sch\u00e4rding"
     ],
     "name:hun_x_preferred":[
@@ -60,6 +54,9 @@
     "name:kaz_x_preferred":[
         "\u0428\u0435\u0440\u0434\u0438\u043d\u0433"
     ],
+    "name:nld_x_preferred":[
+        "Sch\u00e4rding"
+    ],
     "name:nob_x_preferred":[
         "Sch\u00e4rding"
     ],
@@ -69,13 +66,13 @@
     "name:por_x_preferred":[
         "Sch\u00e4rding"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sch\u00e4rding"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u0440\u0434\u0438\u043d\u0433"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sch\u00e4rding"
     ],
     "name:srp_x_preferred":[
@@ -99,8 +96,8 @@
     "name:war_x_preferred":[
         "Sch\u00e4rding"
     ],
-    "name:wel_x_preferred":[
-        "Sch\u00e4rding"
+    "name:zho_x_preferred":[
+        "\u8b1d\u723e\u4e01"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Ober\u00f6sterreich",
@@ -154,7 +151,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1553815531,
+    "wof:lastmodified":1561827457,
     "wof:name":"Sch\u00e4rding",
     "wof:parent_id":1108836071,
     "wof:placetype":"locality",

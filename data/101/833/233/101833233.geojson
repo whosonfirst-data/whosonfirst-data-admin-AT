@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000885,
-    "geom:area_square_m":7292132.983132,
+    "geom:area_square_m":7292132.983134,
     "geom:bbox":"14.4363408069,48.1578831338,14.4841128776,48.2271822021",
     "geom:latitude":48.201053,
     "geom:longitude":14.470842,
@@ -29,10 +29,10 @@
     "name:ceb_x_preferred":[
         "Enns"
     ],
-    "name:chi_x_preferred":[
-        "\u6069\u65af"
+    "name:ces_x_preferred":[
+        "Enns"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Enns"
     ],
     "name:dan_x_preferred":[
@@ -44,22 +44,16 @@
     "name:deu_x_variant":[
         "Enns, Nieder\u00f6sterreich"
     ],
-    "name:dut_x_preferred":[
-        "Enns"
-    ],
     "name:eng_x_preferred":[
         "Enns"
     ],
     "name:epo_x_preferred":[
         "Enns"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0633"
+    ],
     "name:fra_x_preferred":[
-        "Enns"
-    ],
-    "name:fre_x_preferred":[
-        "Enns"
-    ],
-    "name:ger_x_preferred":[
         "Enns"
     ],
     "name:hun_x_preferred":[
@@ -95,9 +89,6 @@
     "name:nob_x_preferred":[
         "Enns"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u0633"
-    ],
     "name:pol_x_preferred":[
         "Enns"
     ],
@@ -107,16 +98,10 @@
     "name:ron_x_preferred":[
         "Enns"
     ],
-    "name:rum_x_preferred":[
-        "Enns"
-    ],
     "name:rus_x_preferred":[
         "\u042d\u043d\u0441"
     ],
     "name:slk_x_preferred":[
-        "Enns"
-    ],
-    "name:slo_x_preferred":[
         "Enns"
     ],
     "name:slv_x_preferred":[
@@ -146,8 +131,8 @@
     "name:war_x_preferred":[
         "Enns"
     ],
-    "name:wel_x_preferred":[
-        "Enns"
+    "name:zho_x_preferred":[
+        "\u6069\u65af"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Ober\u00f6sterreich",
@@ -198,7 +183,7 @@
         }
     ],
     "wof:id":101833233,
-    "wof:lastmodified":1527642923,
+    "wof:lastmodified":1561827456,
     "wof:name":"Enns",
     "wof:parent_id":1108835527,
     "wof:placetype":"locality",

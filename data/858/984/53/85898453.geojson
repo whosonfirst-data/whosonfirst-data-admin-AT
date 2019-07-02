@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10084538.621999,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.269624,48.315396,14.269624,48.315396",
     "geom:latitude":48.315396,
     "geom:longitude":14.269624,
@@ -23,10 +23,10 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0580\u0586\u0561\u0580"
-    ],
     "name:bar_x_preferred":[
+        "Urfahr"
+    ],
+    "name:cym_x_preferred":[
         "Urfahr"
     ],
     "name:deu_x_preferred":[
@@ -35,11 +35,11 @@
     "name:eng_x_preferred":[
         "Urfahr"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Urfahr"
     ],
-    "name:ger_x_preferred":[
-        "Urfahr"
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0580\u0586\u0561\u0580"
     ],
     "name:nno_x_preferred":[
         "Urfahr"
@@ -53,9 +53,6 @@
     "name:spa_x_preferred":[
         "Urfahr"
     ],
-    "name:wel_x_preferred":[
-        "Urfahr"
-    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -63,12 +60,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681677,
         102191581,
         1108834701,
         85632785,
         101748071,
-        102049853
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +92,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932068,
+    "wof:lastmodified":1561827376,
     "wof:name":"Urfahr",
     "wof:parent_id":101748071,
     "wof:placetype":"neighbourhood",

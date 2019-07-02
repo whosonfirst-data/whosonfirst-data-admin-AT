@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Rum"
     ],
-    "name:alb_x_preferred":[
-        "Rum"
-    ],
     "name:ara_x_preferred":[
         "\u0631\u0645"
     ],
@@ -34,9 +31,6 @@
     ],
     "name:ast_x_preferred":[
         "Ron"
-    ],
-    "name:baq_x_preferred":[
-        "Rum"
     ],
     "name:bel_x_preferred":[
         "\u0420\u043e\u043c"
@@ -59,25 +53,19 @@
     "name:ces_x_preferred":[
         "Rum"
     ],
-    "name:chi_x_preferred":[
-        "\u9b6f\u59c6"
-    ],
     "name:chv_x_preferred":[
         "\u0420\u043e\u043c"
     ],
     "name:cym_x_preferred":[
         "R\u1ef3m"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_variant":[
         "Rum"
     ],
     "name:dan_x_preferred":[
         "Rom"
     ],
     "name:deu_x_preferred":[
-        "Rum"
-    ],
-    "name:dut_x_preferred":[
         "Rum"
     ],
     "name:ell_x_preferred":[
@@ -95,6 +83,9 @@
     "name:eus_x_preferred":[
         "Ron"
     ],
+    "name:eus_x_variant":[
+        "Rum"
+    ],
     "name:fao_x_preferred":[
         "Romm"
     ],
@@ -107,13 +98,10 @@
     "name:fra_x_preferred":[
         "Rhum"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Rum"
     ],
     "name:frr_x_preferred":[
-        "Rum"
-    ],
-    "name:ger_x_preferred":[
         "Rum"
     ],
     "name:gle_x_preferred":[
@@ -143,9 +131,6 @@
     "name:hye_x_preferred":[
         "\u054c\u0578\u0574"
     ],
-    "name:ice_x_preferred":[
-        "Rum"
-    ],
     "name:ido_x_preferred":[
         "Rumo"
     ],
@@ -154,6 +139,9 @@
     ],
     "name:isl_x_preferred":[
         "Romm"
+    ],
+    "name:isl_x_variant":[
+        "Rum"
     ],
     "name:ita_x_preferred":[
         "Rum"
@@ -230,7 +218,7 @@
     "name:ron_x_preferred":[
         "Rom"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Rum"
     ],
     "name:rus_x_preferred":[
@@ -242,14 +230,14 @@
     "name:slk_x_preferred":[
         "Rum"
     ],
-    "name:slo_x_preferred":[
-        "Rum"
-    ],
     "name:slv_x_preferred":[
         "Rum"
     ],
     "name:spa_x_preferred":[
         "Ron"
+    ],
+    "name:sqi_x_preferred":[
+        "Rum"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0443\u043c"
@@ -284,14 +272,14 @@
     "name:war_x_preferred":[
         "Rum"
     ],
-    "name:wel_x_preferred":[
-        "Rum"
-    ],
     "name:wln_x_preferred":[
         "Rum"
     ],
     "name:zho_x_preferred":[
         "\u5170\u59c6\u9152"
+    ],
+    "name:zho_x_variant":[
+        "\u9b6f\u59c6"
     ],
     "name:zho_yue_x_preferred":[
         "\u51a7\u9152"
@@ -349,7 +337,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1544751577,
+    "wof:lastmodified":1561827451,
     "wof:name":"Rum",
     "wof:parent_id":1108837623,
     "wof:placetype":"locality",

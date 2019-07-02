@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
-    "geom:area_square_m":2142303.74657,
+    "geom:area_square_m":2142303.746571,
     "geom:bbox":"13.0080483596,47.8345163564,13.0464782446,47.8543232491",
     "geom:latitude":47.843472,
     "geom:longitude":13.02567,
@@ -20,19 +20,13 @@
     "name:bar_x_preferred":[
         "Bergham ba Soizburg"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u683c\u6d77\u59c6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bergheim"
     ],
     "name:eng_x_preferred":[
         "Bergheim"
     ],
-    "name:fre_x_preferred":[
-        "Bergheim"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bergheim"
     ],
     "name:hun_x_preferred":[
@@ -44,16 +38,19 @@
     "name:kaz_x_preferred":[
         "\u0411\u0435\u0440\u0433\u0445\u0430\u0439\u043c"
     ],
+    "name:nld_x_preferred":[
+        "Bergheim"
+    ],
     "name:pol_x_preferred":[
         "Bergheim"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bergheim"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0433\u0445\u0430\u0439\u043c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bergheim"
     ],
     "name:swe_x_preferred":[
@@ -70,6 +67,9 @@
     ],
     "name:war_x_preferred":[
         "Bergheim"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u683c\u6d77\u59c6"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Salzburg",
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":101754151,
-    "wof:lastmodified":1553815477,
+    "wof:lastmodified":1561827445,
     "wof:name":"Bergheim",
     "wof:parent_id":1108837115,
     "wof:placetype":"locality",

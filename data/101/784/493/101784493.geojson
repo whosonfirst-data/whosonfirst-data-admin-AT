@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":1954341.576712,
+    "geom:area_square_m":1954341.57671,
     "geom:bbox":"16.1516034962,48.1097237776,16.2304281109,48.1296362642",
     "geom:latitude":48.11749,
     "geom:longitude":16.193935,
@@ -22,28 +22,13 @@
     "name:ces_x_preferred":[
         "Kaltenleutgeben"
     ],
-    "name:chi_x_preferred":[
-        "Kaltenleutgeben"
-    ],
-    "name:cze_x_preferred":[
-        "Kaltenleutgeben"
-    ],
     "name:deu_x_preferred":[
-        "Kaltenleutgeben"
-    ],
-    "name:dut_x_preferred":[
         "Kaltenleutgeben"
     ],
     "name:eng_x_preferred":[
         "Kaltenleutgeben"
     ],
     "name:fra_x_preferred":[
-        "Kaltenleutgeben"
-    ],
-    "name:fre_x_preferred":[
-        "Kaltenleutgeben"
-    ],
-    "name:ger_x_preferred":[
         "Kaltenleutgeben"
     ],
     "name:heb_x_preferred":[
@@ -73,9 +58,6 @@
     "name:slk_x_preferred":[
         "Kaltenleutgeben"
     ],
-    "name:slo_x_preferred":[
-        "Kaltenleutgeben"
-    ],
     "name:swe_x_preferred":[
         "Kaltenleutgeben"
     ],
@@ -93,6 +75,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u5c14\u6ed5\u6d1b\u4f0a\u7279\u683c\u672c"
+    ],
+    "name:zho_x_variant":[
+        "Kaltenleutgeben"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
@@ -142,7 +127,7 @@
         }
     ],
     "wof:id":101784493,
-    "wof:lastmodified":1527688544,
+    "wof:lastmodified":1561827470,
     "wof:name":"Kaltenleutgeben",
     "wof:parent_id":1108835409,
     "wof:placetype":"locality",

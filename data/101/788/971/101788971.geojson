@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00032,
-    "geom:area_square_m":2702923.465966,
+    "geom:area_square_m":2702923.465965,
     "geom:bbox":"14.776633188,46.944386709,14.8188944073,46.9820599216",
     "geom:latitude":46.962601,
     "geom:longitude":14.793843,
@@ -23,17 +23,8 @@
     "name:ces_x_preferred":[
         "Bad Sankt Leonhard im Lavanttal"
     ],
-    "name:chi_x_preferred":[
-        "Bad Sankt Leonhard im Lavanttal"
-    ],
-    "name:cze_x_preferred":[
-        "Bad Sankt Leonhard im Lavanttal"
-    ],
     "name:deu_x_preferred":[
         "Bad St. Leonhard im Lavanttal"
-    ],
-    "name:dut_x_preferred":[
-        "Bad Sankt Leonhard im Lavanttal"
     ],
     "name:eng_x_preferred":[
         "Bad St. Leonhard im Lavanttal"
@@ -41,10 +32,7 @@
     "name:fra_x_preferred":[
         "Bad Sankt Leonhard im Lavanttal"
     ],
-    "name:fre_x_preferred":[
-        "Bad St. Leonhard im Lavanttal"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Bad St. Leonhard im Lavanttal"
     ],
     "name:hbs_x_preferred":[
@@ -78,9 +66,6 @@
     "name:slk_x_preferred":[
         "Bad Sankt Leonhard im Lavanttal"
     ],
-    "name:slo_x_preferred":[
-        "Bad Sankt Leonhard im Lavanttal"
-    ],
     "name:swe_x_preferred":[
         "Bad Sankt Leonhard im Lavanttal"
     ],
@@ -104,6 +89,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62c9\u4e07\u7279\u6cb3\u8c37\u5df4\u7279\u5723\u83b1\u6602\u54c8\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "Bad Sankt Leonhard im Lavanttal"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*K\u00e4rnten",
@@ -154,7 +142,7 @@
         }
     ],
     "wof:id":101788971,
-    "wof:lastmodified":1527715573,
+    "wof:lastmodified":1561827475,
     "wof:name":"Bad Sankt Leonhard im Lavanttal",
     "wof:parent_id":1108838393,
     "wof:placetype":"locality",

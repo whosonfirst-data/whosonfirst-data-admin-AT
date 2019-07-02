@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000348,
-    "geom:area_square_m":2901998.783838,
+    "geom:area_square_m":2901998.783839,
     "geom:bbox":"13.9092999205,47.5447801526,13.9627920397,47.5695655597",
     "geom:latitude":47.555638,
     "geom:longitude":13.934218,
@@ -19,10 +19,7 @@
     "name:bos_x_preferred":[
         "Bad Mitterndorf"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u7279\u7c73\u7279\u6069\u591a\u592b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bad Mitterndorf"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +28,7 @@
     "name:fin_x_preferred":[
         "Bad Mitterndorf"
     ],
-    "name:fre_x_preferred":[
-        "Bad Mitterndorf"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bad Mitterndorf"
     ],
     "name:hun_x_preferred":[
@@ -48,6 +42,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0434-\u041c\u0438\u0442\u0442\u0435\u0440\u043d\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Bad Mitterndorf"
     ],
     "name:nno_x_preferred":[
         "Bad-Mitterndorf"
@@ -64,7 +61,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0434-\u041c\u0438\u0442\u0442\u0435\u0440\u043d\u0434\u043e\u0440\u0444"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bad Mitterndorf"
     ],
     "name:swe_x_preferred":[
@@ -81,6 +78,9 @@
     ],
     "name:war_x_preferred":[
         "Bad Mitterndorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u7c73\u7279\u6069\u591a\u592b"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Steiermark",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":101787977,
-    "wof:lastmodified":1527715846,
+    "wof:lastmodified":1561827478,
     "wof:name":"Bad Mitterndorf",
     "wof:parent_id":1108838931,
     "wof:placetype":"locality",

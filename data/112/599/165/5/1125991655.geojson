@@ -18,22 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
+    "name:ces_x_preferred":[
         "Sitzendorf an der Schmida"
     ],
-    "name:cze_x_preferred":[
-        "Sitzendorf an der Schmida"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sitzendorf an der Schmida"
     ],
     "name:eng_x_preferred":[
         "Sitzendorf an der Schmida"
     ],
-    "name:fre_x_preferred":[
-        "Sitzendorf an der Schmida"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sitzendorf an der Schmida"
     ],
     "name:hun_x_preferred":[
@@ -45,6 +39,9 @@
     "name:kaz_x_preferred":[
         "\u0417\u0438\u0442\u0446\u0435\u043d\u0434\u043e\u0440\u0444-\u0430\u043d-\u0434\u0435\u0440-\u0428\u043c\u0438\u0434\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Sitzendorf an der Schmida"
+    ],
     "name:pol_x_preferred":[
         "Sitzendorf an der Schmida"
     ],
@@ -54,7 +51,7 @@
     "name:rus_x_preferred":[
         "\u0417\u0438\u0442\u0446\u0435\u043d\u0434\u043e\u0440\u0444-\u0430\u043d-\u0434\u0435\u0440-\u0428\u043c\u0438\u0434\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sitzendorf an der Schmida"
     ],
     "name:swe_x_preferred":[
@@ -77,6 +74,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65bd\u7c73\u8fbe\u6cb3\u7554\u9521\u5c91\u591a\u592b"
+    ],
+    "name:zho_x_variant":[
+        "Sitzendorf an der Schmida"
     ],
     "qs_pg:aaroncc":"AT",
     "qs_pg:gn_country":"AT",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1125991655,
-    "wof:lastmodified":1553816683,
+    "wof:lastmodified":1561827510,
     "wof:name":"Sitzendorf an der Schmida",
     "wof:parent_id":1108836629,
     "wof:placetype":"locality",

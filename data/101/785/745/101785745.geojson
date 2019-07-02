@@ -25,13 +25,10 @@
     "name:ceb_x_preferred":[
         "Frauenkirchen"
     ],
-    "name:chi_x_preferred":[
+    "name:cym_x_preferred":[
         "Frauenkirchen"
     ],
     "name:deu_x_preferred":[
-        "Frauenkirchen"
-    ],
-    "name:dut_x_preferred":[
         "Frauenkirchen"
     ],
     "name:eng_x_preferred":[
@@ -40,13 +37,10 @@
     "name:epo_x_preferred":[
         "Frauenkirchen"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0627\u0648\u0646\u06a9\u06cc\u0631\u062e\u0646"
+    ],
     "name:fra_x_preferred":[
-        "Frauenkirchen"
-    ],
-    "name:fre_x_preferred":[
-        "Frauenkirchen"
-    ],
-    "name:ger_x_preferred":[
         "Frauenkirchen"
     ],
     "name:heb_x_preferred":[
@@ -67,9 +61,6 @@
     "name:nld_x_preferred":[
         "Frauenkirchen"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0627\u0648\u0646\u06a9\u06cc\u0631\u062e\u0646"
-    ],
     "name:pol_x_preferred":[
         "Frauenkirchen"
     ],
@@ -80,9 +71,6 @@
         "\u0424\u0440\u0430\u0443\u044d\u043d\u043a\u0438\u0440\u0445\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Frauenkirchen"
-    ],
-    "name:slo_x_preferred":[
         "Frauenkirchen"
     ],
     "name:spa_x_preferred":[
@@ -103,11 +91,11 @@
     "name:war_x_preferred":[
         "Frauenkirchen"
     ],
-    "name:wel_x_preferred":[
-        "Frauenkirchen"
-    ],
     "name:zho_x_preferred":[
         "\u5f17\u52b3\u6069\u57fa\u5174"
+    ],
+    "name:zho_x_variant":[
+        "Frauenkirchen"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Burgenland",
@@ -156,7 +144,7 @@
         }
     ],
     "wof:id":101785745,
-    "wof:lastmodified":1527684904,
+    "wof:lastmodified":1561827466,
     "wof:name":"Frauenkirchen",
     "wof:parent_id":1108838505,
     "wof:placetype":"locality",

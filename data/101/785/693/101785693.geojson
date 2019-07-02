@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00027,
-    "geom:area_square_m":2233603.209075,
+    "geom:area_square_m":2233603.209076,
     "geom:bbox":"15.1544982684,47.9869785223,15.1737322977,48.0178016316",
     "geom:latitude":48.003937,
     "geom:longitude":15.164488,
@@ -26,11 +26,11 @@
     "name:ces_x_preferred":[
         "Scheibbs"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u4f0a\u5e03\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "\u0160ibice"
+    ],
+    "name:cym_x_preferred":[
+        "Scheibbs"
     ],
     "name:dan_x_preferred":[
         "Scheibbs"
@@ -38,19 +38,10 @@
     "name:deu_x_preferred":[
         "Scheibbs"
     ],
-    "name:dut_x_preferred":[
-        "Scheibbs"
-    ],
     "name:eng_x_preferred":[
         "Scheibbs"
     ],
     "name:fra_x_preferred":[
-        "Scheibbs"
-    ],
-    "name:fre_x_preferred":[
-        "Scheibbs"
-    ],
-    "name:ger_x_preferred":[
         "Scheibbs"
     ],
     "name:hbs_x_preferred":[
@@ -89,9 +80,6 @@
     "name:slk_x_preferred":[
         "Scheibbs"
     ],
-    "name:slo_x_preferred":[
-        "Scheibbs"
-    ],
     "name:slv_x_preferred":[
         "Scheibbs"
     ],
@@ -114,9 +102,6 @@
         "Scheibbs"
     ],
     "name:war_x_preferred":[
-        "Scheibbs"
-    ],
-    "name:wel_x_preferred":[
         "Scheibbs"
     ],
     "name:zho_x_preferred":[
@@ -174,7 +159,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1513890052,
+    "wof:lastmodified":1561827464,
     "wof:name":"Scheibbs",
     "wof:parent_id":1108834971,
     "wof:placetype":"locality",

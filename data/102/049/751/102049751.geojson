@@ -31,14 +31,8 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u063a\u0646\u0632"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0580\u0565\u0563\u0565\u0576\u0581"
-    ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u0642\u0646\u062a\u0633"
-    ],
-    "name:baq_x_preferred":[
-        "Bregenz"
     ],
     "name:bar_x_preferred":[
         "Bregenz"
@@ -58,20 +52,23 @@
     "name:cat_x_preferred":[
         "Bregenz"
     ],
+    "name:ces_x_preferred":[
+        "Bregenz"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0440\u0435\u0433\u0435\u043d\u0446"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u96f7\u6839\u8328"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bregenz"
     ],
     "name:dan_x_preferred":[
         "Bregenz"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bregenz"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03ad\u03b3\u03ba\u03b5\u03bd\u03c4\u03b6"
     ],
     "name:eng_x_preferred":[
         "Bregenz"
@@ -82,16 +79,16 @@
     "name:est_x_preferred":[
         "Bregenz"
     ],
+    "name:eus_x_preferred":[
+        "Bregenz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06af\u0646\u062a\u0633"
+    ],
     "name:fin_x_preferred":[
         "Bregenz"
     ],
-    "name:fre_x_preferred":[
-        "Bregenz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d4\u10d2\u10d4\u10dc\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bregenz"
     ],
     "name:gle_x_preferred":[
@@ -99,9 +96,6 @@
     ],
     "name:glg_x_preferred":[
         "Bregenz"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03ad\u03b3\u03ba\u03b5\u03bd\u03c4\u03b6"
     ],
     "name:gsw_x_preferred":[
         "Breagaz"
@@ -115,8 +109,8 @@
     "name:hun_x_preferred":[
         "Bregenz"
     ],
-    "name:ice_x_preferred":[
-        "Bregenz"
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u0565\u0563\u0565\u0576\u0581"
     ],
     "name:ile_x_preferred":[
         "Bregenz"
@@ -124,11 +118,17 @@
     "name:ind_x_preferred":[
         "Bregenz"
     ],
+    "name:isl_x_preferred":[
+        "Bregenz"
+    ],
     "name:ita_x_preferred":[
         "Bregenz"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ec\u30b2\u30f3\u30c4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d4\u10d2\u10d4\u10dc\u10ea\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0440\u0435\u0433\u0435\u043d\u0446"
@@ -151,10 +151,13 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0947\u0917\u0947\u0928\u094d\u091d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bregenz"
     ],
     "name:nan_x_preferred":[
+        "Bregenz"
+    ],
+    "name:nld_x_preferred":[
         "Bregenz"
     ],
     "name:nno_x_preferred":[
@@ -172,9 +175,6 @@
     "name:pap_x_preferred":[
         "Bregenz"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u06af\u0646\u062a\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u0631\u06af\u0646\u0632"
     ],
@@ -184,7 +184,7 @@
     "name:por_x_preferred":[
         "Bregenz"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bregenz"
     ],
     "name:rup_x_preferred":[
@@ -196,7 +196,7 @@
     "name:sco_x_preferred":[
         "Bregenz"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bregenz"
     ],
     "name:slv_x_preferred":[
@@ -241,14 +241,14 @@
     "name:war_x_preferred":[
         "Bregenz"
     ],
-    "name:wel_x_preferred":[
-        "Bregenz"
-    ],
     "name:yid_x_preferred":[
         "\u05d1\u05e8\u05e2\u05d2\u05e2\u05e0\u05e5"
     ],
     "name:yue_x_preferred":[
         "\u5e03\u96f7\u6839\u8332"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u96f7\u6839\u8328"
     ],
     "qs:a0":"\u00c3sterreich",
     "qs:a0_lc":"AT00000",
@@ -301,7 +301,7 @@
         }
     ],
     "wof:id":102049751,
-    "wof:lastmodified":1553716280,
+    "wof:lastmodified":1561827331,
     "wof:name":"Bregenz",
     "wof:parent_id":85681649,
     "wof:placetype":"county",

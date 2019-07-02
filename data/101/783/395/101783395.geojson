@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2063895.693413,
+    "geom:area_square_m":2063895.693415,
     "geom:bbox":"16.0890001454,48.3878456546,16.1317467013,48.4021783089",
     "geom:latitude":48.393805,
     "geom:longitude":16.109778,
@@ -19,28 +19,16 @@
     "name:ceb_x_preferred":[
         "Hausleiten"
     ],
-    "name:chi_x_preferred":[
-        "Hausleiten"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hausleiten"
     ],
     "name:deu_x_preferred":[
-        "Hausleiten"
-    ],
-    "name:dut_x_preferred":[
         "Hausleiten"
     ],
     "name:eng_x_preferred":[
         "Hausleiten"
     ],
     "name:fra_x_preferred":[
-        "Hausleiten"
-    ],
-    "name:fre_x_preferred":[
-        "Hausleiten"
-    ],
-    "name:ger_x_preferred":[
         "Hausleiten"
     ],
     "name:hun_x_preferred":[
@@ -67,9 +55,6 @@
     "name:slk_x_preferred":[
         "Hausleiten"
     ],
-    "name:slo_x_preferred":[
-        "Hausleiten"
-    ],
     "name:swe_x_preferred":[
         "Hausleiten"
     ],
@@ -84,6 +69,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8c6a\u65af\u83b1\u6ed5"
+    ],
+    "name:zho_x_variant":[
+        "Hausleiten"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
@@ -131,7 +119,7 @@
         }
     ],
     "wof:id":101783395,
-    "wof:lastmodified":1527688499,
+    "wof:lastmodified":1561827468,
     "wof:name":"Hausleiten",
     "wof:parent_id":1108836367,
     "wof:placetype":"locality",

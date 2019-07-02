@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":707928.965888,
+    "geom:area_square_m":707928.965889,
     "geom:bbox":"16.9038877783,48.2726833969,16.9158422,48.2823925285",
     "geom:latitude":48.277513,
     "geom:longitude":16.909895,
@@ -16,22 +16,16 @@
     "mps:longitude":16.910009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
+    "name:ces_x_preferred":[
         "Marchegg"
     ],
-    "name:cze_x_preferred":[
-        "Marchegg"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Marchegg"
     ],
     "name:eng_x_preferred":[
         "Marchegg"
     ],
-    "name:fre_x_preferred":[
-        "Marchegg"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Marchegg"
     ],
     "name:hun_x_preferred":[
@@ -46,6 +40,9 @@
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0440\u0445\u0435\u0433"
     ],
+    "name:nld_x_preferred":[
+        "Marchegg"
+    ],
     "name:pol_x_preferred":[
         "Marchegg"
     ],
@@ -55,7 +52,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0445\u0435\u0433"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Marchegg"
     ],
     "name:swe_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u5c14\u6b47\u683c"
+    ],
+    "name:zho_x_variant":[
+        "Marchegg"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":101783433,
-    "wof:lastmodified":1553815499,
+    "wof:lastmodified":1561827468,
     "wof:name":"Marchegg",
     "wof:parent_id":1108835301,
     "wof:placetype":"locality",

@@ -19,20 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "Sankt Wolfgang im Salzkammergut"
-    ],
-    "name:dut_x_preferred":[
-        "Sankt Wolfgang im Salzkammergut"
+    "name:deu_x_preferred":[
+        "St. Wolfgang im Salzkammergut"
     ],
     "name:eng_x_preferred":[
         "St. Wolfgang im Salzkammergut"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sankt Wolfgang im Salzkammergut"
-    ],
-    "name:ger_x_preferred":[
-        "St. Wolfgang im Salzkammergut"
     ],
     "name:hun_x_preferred":[
         "Sankt Wolfgang im Salzkammergut"
@@ -43,19 +37,22 @@
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0412\u043e\u043b\u044c\u0444\u0433\u0430\u043d\u0433-\u0438\u043c-\u0417\u0430\u043b\u044c\u0446\u043a\u0430\u043c\u043c\u0435\u0440\u0433\u0443\u0442"
     ],
+    "name:nld_x_preferred":[
+        "Sankt Wolfgang im Salzkammergut"
+    ],
     "name:pol_x_preferred":[
         "Sankt Wolfgang im Salzkammergut"
     ],
     "name:por_x_preferred":[
         "Sankt Wolfgang im Salzkammergut"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sankt Wolfgang im Salzkammergut"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0412\u043e\u043b\u044c\u0444\u0433\u0430\u043d\u0433-\u0438\u043c-\u0417\u0430\u043b\u044c\u0446\u043a\u0430\u043c\u043c\u0435\u0440\u0433\u0443\u0442"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "St. Wolfgang im Salzkammergut"
     ],
     "name:spa_x_preferred":[
@@ -81,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8428\u5c14\u8328\u5361\u9ed8\u53e4\u7279\u5730\u533a\u5723\u6c83\u5c14\u592b\u5188"
+    ],
+    "name:zho_x_variant":[
+        "Sankt Wolfgang im Salzkammergut"
     ],
     "qs_pg:aaroncc":"AT",
     "qs_pg:gn_country":"AT",
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":1125794307,
-    "wof:lastmodified":1513890084,
+    "wof:lastmodified":1561827519,
     "wof:name":"St. Wolfgang im Salzkammergut",
     "wof:parent_id":1108835157,
     "wof:placetype":"locality",
