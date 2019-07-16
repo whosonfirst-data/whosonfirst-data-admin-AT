@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000465,
-    "geom:area_square_m":3825802.147696,
+    "geom:area_square_m":3825802.147697,
     "geom:bbox":"16.3037109375,48.2466255253,16.3366699219,48.268569113",
     "geom:latitude":48.255549,
     "geom:longitude":16.319543,
@@ -24,8 +24,23 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ces_x_preferred":[
+        "Sievering"
+    ],
     "name:deu_x_preferred":[
         "Obersievering"
+    ],
+    "name:deu_x_variant":[
+        "Sievering"
+    ],
+    "name:eng_x_preferred":[
+        "Sievering"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30fc\u30d5\u30a7\u30ea\u30f3\u30b0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u0444\u0440\u0438\u043d\u0433"
     ],
     "name:unk_x_variant":[
         "Obersievering"
@@ -94,7 +109,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527640658,
+    "wof:lastmodified":1563243448,
     "wof:name":"Obersievering",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

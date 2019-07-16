@@ -61,6 +61,9 @@
     "name:fas_x_preferred":[
         "\u0634\u0627\u062e"
     ],
+    "name:fas_x_variant":[
+        "\u0647\u0648\u0631\u0646"
+    ],
     "name:fin_x_preferred":[
         "Horn"
     ],
@@ -82,11 +85,17 @@
     "name:jpn_x_preferred":[
         "\u30db\u30fc\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30db\u30eb\u30f3\u5e02"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u043e\u0440\u043d"
     ],
     "name:kor_x_preferred":[
         "\ud63c"
+    ],
+    "name:kor_x_variant":[
+        "\ud638\ub978"
     ],
     "name:lit_x_preferred":[
         "Hornas"
@@ -193,7 +202,7 @@
         }
     ],
     "wof:id":102049901,
-    "wof:lastmodified":1561827318,
+    "wof:lastmodified":1563242999,
     "wof:name":"Horn",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

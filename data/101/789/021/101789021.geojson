@@ -34,6 +34,12 @@
     "name:eng_x_preferred":[
         "Ilz"
     ],
+    "name:epo_x_preferred":[
+        "Ilz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Ilz"
     ],
@@ -67,6 +73,9 @@
     "name:slk_x_preferred":[
         "Ilz"
     ],
+    "name:spa_x_preferred":[
+        "Ilz"
+    ],
     "name:swe_x_preferred":[
         "Ilz"
     ],
@@ -86,7 +95,8 @@
         "\u4f0a\u723e\u8328\u6cb3"
     ],
     "name:zho_x_variant":[
-        "Ilz"
+        "Ilz",
+        "\u4f0a\u5c14\u8328"
     ],
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Steiermark",
@@ -132,7 +142,7 @@
         }
     ],
     "wof:id":101789021,
-    "wof:lastmodified":1561827482,
+    "wof:lastmodified":1563246171,
     "wof:name":"Ilz",
     "wof:parent_id":1108839221,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14113553.376856,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.38938,47.049407,15.38938,47.049407",
     "geom:latitude":47.049407,
     "geom:longitude":15.38938,
@@ -29,6 +29,21 @@
     ],
     "name:deu_x_preferred":[
         "Wetzelsdorf"
+    ],
+    "name:eng_x_preferred":[
+        "Wetzelsdorf"
+    ],
+    "name:fra_x_preferred":[
+        "Wetzelsdorf"
+    ],
+    "name:ita_x_preferred":[
+        "Wetzelsdorf"
+    ],
+    "name:nld_x_preferred":[
+        "Wetzelsdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0442\u0446\u0435\u043b\u044c\u0441\u0434\u043e\u0440\u0444"
     ],
     "name:swe_x_preferred":[
         "Wetzelsdorf"
@@ -70,12 +85,12 @@
     "src:population":"geonames",
     "wd:wordcount":222,
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +118,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932094,
+    "wof:lastmodified":1563243470,
     "wof:name":"Wetzelsdorf",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

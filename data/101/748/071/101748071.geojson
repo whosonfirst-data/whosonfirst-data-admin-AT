@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008124,
-    "geom:area_square_m":66845504.108499,
+    "geom:area_square_m":66845504.108497,
     "geom:bbox":"14.243868552,48.2314,14.3854968718,48.3499657719",
     "geom:latitude":48.286765,
     "geom:longitude":14.305991,
@@ -28,8 +28,17 @@
     "name:ara_x_variant":[
         "\u0644\u064a\u0646\u062a\u0632"
     ],
+    "name:ast_x_preferred":[
+        "Linz"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0646\u062a\u0633"
+    ],
     "name:aze_x_preferred":[
         "Linz"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0438\u043d\u0446"
     ],
     "name:bar_x_preferred":[
         "Linz"
@@ -39,6 +48,9 @@
     ],
     "name:bel_x_variant":[
         "\u041b\u0456\u043d\u0446"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c0\u09a8\u09cd\u099c"
     ],
     "name:bos_x_preferred":[
         "Linz"
@@ -76,6 +88,9 @@
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03bd\u03c4\u03c2"
     ],
+    "name:eml_x_preferred":[
+        "Linz"
+    ],
     "name:eng_x_preferred":[
         "Linz"
     ],
@@ -94,6 +109,9 @@
     "name:fin_x_preferred":[
         "Linz"
     ],
+    "name:fit_x_preferred":[
+        "Linz"
+    ],
     "name:fra_x_preferred":[
         "Linz"
     ],
@@ -103,19 +121,31 @@
     "name:glg_x_preferred":[
         "Linz"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abf\u0aa8\u0acd\u0a9d"
+    ],
     "name:hbs_x_preferred":[
         "Linz"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e0\u05e5"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u0902\u091c\u093c"
+    ],
     "name:hrv_x_preferred":[
+        "Linz"
+    ],
+    "name:hsb_x_preferred":[
         "Linz"
     ],
     "name:hun_x_preferred":[
         "Linz"
     ],
     "name:hye_x_preferred":[
+        "\u053c\u056b\u0576\u0581"
+    ],
+    "name:hyw_x_preferred":[
         "\u053c\u056b\u0576\u0581"
     ],
     "name:ido_x_preferred":[
@@ -139,8 +169,14 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30f3\u30c4"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbf\u0c82\u0c9c\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10dc\u10ea\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u041b\u0438\u043d\u0446"
     ],
     "name:kor_x_preferred":[
         "\ub9b0\uce20"
@@ -169,16 +205,28 @@
     "name:mhr_x_preferred":[
         "\u041b\u0438\u043d\u0446"
     ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u043d\u0446"
+    ],
     "name:mon_x_preferred":[
         "\u041b\u0438\u043d\u0446"
     ],
     "name:msa_x_preferred":[
         "Linz"
     ],
+    "name:myv_x_preferred":[
+        "\u041b\u0438\u043d\u0446"
+    ],
+    "name:nan_x_preferred":[
+        "Linz"
+    ],
     "name:nld_x_preferred":[
         "Linz"
     ],
     "name:nno_x_preferred":[
+        "Linz"
+    ],
+    "name:nob_x_preferred":[
         "Linz"
     ],
     "name:nor_x_preferred":[
@@ -189,6 +237,9 @@
     ],
     "name:oss_x_preferred":[
         "\u041b\u0438\u043d\u0446"
+    ],
+    "name:pap_x_preferred":[
+        "Linz"
     ],
     "name:pms_x_preferred":[
         "Linz"
@@ -214,6 +265,9 @@
     "name:sco_x_preferred":[
         "Linz"
     ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd2\u0db1\u0dc3\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Linz"
     ],
@@ -223,7 +277,13 @@
     "name:slv_x_preferred":[
         "Linz"
     ],
+    "name:sme_x_preferred":[
+        "Linz"
+    ],
     "name:spa_x_preferred":[
+        "Linz"
+    ],
+    "name:sqi_x_preferred":[
         "Linz"
     ],
     "name:srp_x_preferred":[
@@ -235,8 +295,17 @@
     "name:swe_x_preferred":[
         "Linz"
     ],
+    "name:szl_x_preferred":[
+        "Linz"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041b\u0438\u043d\u0446"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3f\u0c02\u0c1f\u0c4d\u0c38\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e34\u0e19\u0e0b\u0e4c"
@@ -253,6 +322,9 @@
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0646\u062a\u0632"
     ],
+    "name:uzb_x_preferred":[
+        "Lins"
+    ],
     "name:vec_x_preferred":[
         "Linz"
     ],
@@ -267,6 +339,12 @@
     ],
     "name:wuu_x_preferred":[
         "\u6797\u81ea"
+    ],
+    "name:yid_x_preferred":[
+        "\u05dc\u05d9\u05e0\u05e5"
+    ],
+    "name:yue_x_preferred":[
+        "\u6797\u8332"
     ],
     "name:zho_min_nan_x_preferred":[
         "Linz"
@@ -417,7 +495,7 @@
         }
     ],
     "wof:id":101748071,
-    "wof:lastmodified":1505337683,
+    "wof:lastmodified":1563245926,
     "wof:name":"Linz",
     "wof:parent_id":1108834701,
     "wof:placetype":"locality",

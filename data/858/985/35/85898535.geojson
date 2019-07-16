@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5002902.579482,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.390367,47.097599,15.390367,47.097599",
     "geom:latitude":47.097599,
     "geom:longitude":15.390367,
@@ -32,6 +32,24 @@
         "Gosting"
     ],
     "name:deu_x_preferred":[
+        "G\u00f6sting"
+    ],
+    "name:eng_x_preferred":[
+        "G\u00f6sting"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0634\u062a\u06cc\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "G\u00f6sting"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00f6sting"
+    ],
+    "name:nld_x_preferred":[
+        "G\u00f6sting"
+    ],
+    "name:slv_x_preferred":[
         "G\u00f6sting"
     ],
     "name:swe_x_preferred":[
@@ -74,12 +92,12 @@
     "src:population":"geonames",
     "wd:wordcount":508,
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +125,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932077,
+    "wof:lastmodified":1563243469,
     "wof:name":"G\u00f6sting",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

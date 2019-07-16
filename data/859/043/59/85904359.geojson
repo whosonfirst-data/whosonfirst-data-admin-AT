@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Plana"
     ],
+    "name:ast_x_preferred":[
+        "Enllanada"
+    ],
     "name:aym_x_preferred":[
         "Pallalla"
     ],
@@ -40,8 +43,11 @@
     "name:bel_x_preferred":[
         "\u0420\u0430\u045e\u043d\u0456\u043d\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0420\u0430\u045e\u043d\u0456\u043d\u0430"
+    "name:ben_x_preferred":[
+        "\u09b8\u09ae\u09ad\u09c2\u09ae\u09bf"
+    ],
+    "name:bho_x_preferred":[
+        "\u092e\u0948\u0926\u093e\u0928"
     ],
     "name:bos_x_preferred":[
         "Ravnica"
@@ -55,8 +61,20 @@
     "name:cat_x_preferred":[
         "Plana"
     ],
+    "name:cat_x_variant":[
+        "plana"
+    ],
     "name:ces_x_preferred":[
         "Planina"
+    ],
+    "name:ces_x_variant":[
+        "planina"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0435"
+    ],
+    "name:chv_x_preferred":[
+        "\u0422\u04f3\u0440\u0435\u043c"
     ],
     "name:dan_x_preferred":[
         "Slette"
@@ -67,8 +85,17 @@
     "name:deu_x_variant":[
         "Plain"
     ],
+    "name:ell_x_preferred":[
+        "\u03c0\u03b5\u03b4\u03b9\u03ac\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "plain"
+    ],
     "name:epo_x_preferred":[
         "Ebena\u0135o"
+    ],
+    "name:epo_x_variant":[
+        "ebena\u0135o"
     ],
     "name:est_x_preferred":[
         "Tasandik"
@@ -79,11 +106,20 @@
     "name:fas_x_preferred":[
         "\u062f\u0634\u062a"
     ],
+    "name:fas_x_variant":[
+        "\u062c\u0644\u06af\u0647"
+    ],
     "name:fin_x_preferred":[
         "Tasanko"
     ],
     "name:fra_x_preferred":[
         "Plaine"
+    ],
+    "name:fra_x_variant":[
+        "plaine"
+    ],
+    "name:fry_x_preferred":[
+        "Flakte"
     ],
     "name:glg_x_preferred":[
         "Chaira"
@@ -100,17 +136,35 @@
     "name:hin_x_preferred":[
         "\u092e\u0948\u0926\u093e\u0928"
     ],
+    "name:hrv_x_preferred":[
+        "nizina"
+    ],
+    "name:hsb_x_preferred":[
+        "runina"
+    ],
     "name:hun_x_preferred":[
         "S\u00edks\u00e1g"
+    ],
+    "name:hun_x_variant":[
+        "s\u00edks\u00e1g"
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0580\u0569\u0561\u057e\u0561\u0575\u0580"
     ],
+    "name:hye_x_variant":[
+        "\u0570\u0561\u0580\u0569\u0561\u057e\u0561\u0575\u0580"
+    ],
     "name:ita_x_preferred":[
         "Pianura"
     ],
+    "name:ita_x_variant":[
+        "pianura"
+    ],
     "name:jpn_x_preferred":[
         "\u5e73\u91ce"
+    ],
+    "name:kab_x_preferred":[
+        "Aza\u0263ar"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10d9\u10d4"
@@ -126,6 +180,9 @@
     ],
     "name:lav_x_preferred":[
         "L\u012bdzenums"
+    ],
+    "name:lav_x_variant":[
+        "l\u012bdzenums"
     ],
     "name:lez_x_preferred":[
         "\u041a\u044c\u0443\u043b\u0443\u0432\u0430\u043b"
@@ -148,14 +205,29 @@
     "name:mkd_x_preferred":[
         "\u041d\u0438\u0437\u0438\u043d\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u0440\u0430\u043c\u043d\u0438\u0446\u0430"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u043b \u0433\u0430\u0437\u0430\u0440"
+    ],
+    "name:nan_x_preferred":[
+        "P\u00ea\u207f-t\u0113"
     ],
     "name:nld_x_preferred":[
         "Vlakte"
     ],
+    "name:nld_x_variant":[
+        "vlakte"
+    ],
     "name:nno_x_preferred":[
         "Slette"
+    ],
+    "name:nno_x_variant":[
+        "slette"
+    ],
+    "name:nob_x_preferred":[
+        "slette"
     ],
     "name:nor_x_preferred":[
         "Slette"
@@ -166,20 +238,41 @@
     "name:pol_x_preferred":[
         "R\u00f3wnina"
     ],
+    "name:pol_x_variant":[
+        "r\u00f3wnina"
+    ],
     "name:por_x_preferred":[
         "Plan\u00edcie"
+    ],
+    "name:por_x_variant":[
+        "plan\u00edcie"
     ],
     "name:ron_x_preferred":[
         "C\u00e2mpie"
     ],
+    "name:ron_x_variant":[
+        "c\u00e2mpie"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0432\u043d\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0440\u0430\u0432\u043d\u0438\u043d\u0430"
     ],
     "name:scn_x_preferred":[
         "Chianu"
     ],
+    "name:scn_x_variant":[
+        "chianu"
+    ],
     "name:sco_x_preferred":[
         "Plain"
+    ],
+    "name:sco_x_variant":[
+        "plain"
+    ],
+    "name:sgs_x_preferred":[
+        "L\u012bgoma"
     ],
     "name:slk_x_preferred":[
         "Rovina"
@@ -193,17 +286,41 @@
     "name:spa_x_preferred":[
         "Llanura"
     ],
+    "name:spa_x_variant":[
+        "llanura"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0440\u0430\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Tambarare"
     ],
     "name:swe_x_preferred":[
         "Sl\u00e4tt"
     ],
+    "name:swe_x_variant":[
+        "sl\u00e4tt"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bae\u0bb5\u0bc6\u0bb3\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0438\u0433\u0435\u0437\u043b\u0435\u043a"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c48\u0c26\u0c3e\u0c28\u0c02"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0430\u0448\u0442"
+    ],
     "name:tgl_x_preferred":[
         "Kapatagan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e35\u0e48\u0e23\u0e32\u0e1a"
     ],
     "name:tur_x_preferred":[
         "Ova"
@@ -214,17 +331,26 @@
     "name:unk_x_variant":[
         "Plain"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062f\u0627\u0646\u06cc \u0639\u0644\u0627\u0642\u06c1"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u1ed3ng b\u1eb1ng"
     ],
     "name:war_x_preferred":[
         "Patag"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e73\u539f"
+    ],
     "name:xmf_x_preferred":[
         "\u10d3\u10f7\u10d9\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05e4\u05dc\u05d5\u05d9\u05df"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e73\u539f"
     ],
     "name:zho_min_nan_x_preferred":[
         "P\u00ea\u207f-po\u0358"
@@ -291,7 +417,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1530142092,
+    "wof:lastmodified":1563243402,
     "wof:name":"Plain",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -31,11 +31,17 @@
     "name:epo_x_preferred":[
         "Lockenhaus"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u0646\u0647\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
         "Lockenhaus"
     ],
     "name:hrv_x_preferred":[
         "Livka"
+    ],
+    "name:hrv_x_variant":[
+        "Likva"
     ],
     "name:hun_x_preferred":[
         "L\u00e9ka"
@@ -65,6 +71,9 @@
         "Lockenhaus"
     ],
     "name:slk_x_preferred":[
+        "Lockenhaus"
+    ],
+    "name:spa_x_preferred":[
         "Lockenhaus"
     ],
     "name:swe_x_preferred":[
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":101912421,
-    "wof:lastmodified":1561827462,
+    "wof:lastmodified":1563245855,
     "wof:name":"Lochenhaus",
     "wof:parent_id":1108838623,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Ulrichsberg"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0631\u06cc\u0634\u0628\u0631\u06af"
+    ],
     "name:fra_x_preferred":[
         "Ulrichsberg"
     ],
@@ -50,7 +53,13 @@
     "name:rus_x_preferred":[
         "\u0423\u043b\u044c\u0440\u0438\u0445\u0441\u0431\u0435\u0440\u0433"
     ],
+    "name:rus_x_variant":[
+        "\u0423\u043b\u044c\u0440\u0438\u043a\u0441\u0431\u0435\u0440\u0433"
+    ],
     "name:slk_x_preferred":[
+        "Ulrichsberg"
+    ],
+    "name:spa_x_preferred":[
         "Ulrichsberg"
     ],
     "name:uzb_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":101843341,
-    "wof:lastmodified":1561827451,
+    "wof:lastmodified":1563245679,
     "wof:name":"Ulrichsberg",
     "wof:parent_id":1108836021,
     "wof:placetype":"locality",

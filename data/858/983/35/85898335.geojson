@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000502,
-    "geom:area_square_m":4144205.80237,
+    "geom:area_square_m":4144205.802372,
     "geom:bbox":"16.262512207,48.1202673637,16.2994416093,48.1453372183",
     "geom:latitude":48.133867,
     "geom:longitude":16.282295,
@@ -24,12 +24,21 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ces_x_preferred":[
+        "Liesing"
+    ],
     "name:deu_x_preferred":[
         "Liesing"
     ],
     "name:deu_x_variant":[
         "23. Bezirk-Liesing",
         "23.bezirk-liesing"
+    ],
+    "name:eng_x_preferred":[
+        "Liesing"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30fc\u30b8\u30f3\u30b0"
     ],
     "name:unk_x_variant":[
         "Liesing"
@@ -97,7 +106,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1497312765,
+    "wof:lastmodified":1563243447,
     "wof:name":"Liesing",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

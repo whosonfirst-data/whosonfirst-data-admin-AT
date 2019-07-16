@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1264148.35367,
+    "geom:area_square_m":1264148.353669,
     "geom:bbox":"16.3531494141,48.2210129008,16.3723754883,48.2338208531",
     "geom:latitude":48.226686,
     "geom:longitude":16.361989,
@@ -34,7 +34,19 @@
     "name:deu_x_variant":[
         "Franz Josefs Bahnhof"
     ],
+    "name:eng_x_preferred":[
+        "Wien Franz-Josefs-Bahnhof"
+    ],
+    "name:fra_x_preferred":[
+        "Wien Franz-Josefs-Bahnhof"
+    ],
     "name:hun_x_preferred":[
+        "Wien Franz-Josefs-Bahnhof"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a3\u30fc\u30f3\u30fb\u30d5\u30e9\u30f3\u30c4\u30fb\u30e8\u30fc\u30bc\u30d5\u99c5"
+    ],
+    "name:nld_x_preferred":[
         "Wien Franz-Josefs-Bahnhof"
     ],
     "name:pol_x_preferred":[
@@ -108,7 +120,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527270672,
+    "wof:lastmodified":1563243491,
     "wof:name":"Franz Josefs Bahnhof",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

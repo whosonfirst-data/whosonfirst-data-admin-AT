@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5177229.074847,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.401154,47.028294,15.401154,47.028294",
     "geom:latitude":47.028294,
     "geom:longitude":15.401154,
@@ -28,6 +28,18 @@
     ],
     "name:deu_x_variant":[
         "Strassgang"
+    ],
+    "name:eng_x_preferred":[
+        "Stra\u00dfgang"
+    ],
+    "name:fra_x_preferred":[
+        "Stra\u00dfgang"
+    ],
+    "name:ita_x_preferred":[
+        "Stra\u00dfgang"
+    ],
+    "name:nld_x_preferred":[
+        "Stra\u00dfgang"
     ],
     "name:unk_x_variant":[
         "Strassgang"
@@ -97,7 +109,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932091,
+    "wof:lastmodified":1563243476,
     "wof:name":"Strassgang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

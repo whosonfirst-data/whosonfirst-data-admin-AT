@@ -25,6 +25,12 @@
     "name:eng_x_preferred":[
         "Moosbrunn"
     ],
+    "name:epo_x_preferred":[
+        "Moosbrunn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u0628\u0631\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Moosbrunn"
     ],
@@ -49,7 +55,13 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0441\u0431\u0440\u0443\u043d\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u0441\u0431\u0440\u0443\u043d"
+    ],
     "name:slk_x_preferred":[
+        "Moosbrunn"
+    ],
+    "name:spa_x_preferred":[
         "Moosbrunn"
     ],
     "name:swe_x_preferred":[
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":101784515,
-    "wof:lastmodified":1561827471,
+    "wof:lastmodified":1563246002,
     "wof:name":"Moosbrunn",
     "wof:parent_id":1108836635,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
-    "geom:area_square_m":687961.124661,
+    "geom:area_square_m":687961.124662,
     "geom:bbox":"14.4793081201,48.4233405249,14.4913658068,48.4342229588",
     "geom:latitude":48.428529,
     "geom:longitude":14.485712,
@@ -22,7 +22,16 @@
     "name:deu_x_preferred":[
         "Neumarkt im M\u00fchlkreis"
     ],
+    "name:eng_x_preferred":[
+        "Neumarkt im M\u00fchlkreis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u0645\u0627\u0631\u06a9\u062a \u0627\u06cc\u0645 \u0645\u0648\u0644\u06a9\u0631\u0627\u06cc\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Neumarkt im M\u00fchlkreis"
+    ],
+    "name:hun_x_preferred":[
         "Neumarkt im M\u00fchlkreis"
     ],
     "name:ita_x_preferred":[
@@ -32,6 +41,9 @@
         "\u041d\u043e\u0439\u043c\u0430\u0440\u043a\u0442"
     ],
     "name:nld_x_preferred":[
+        "Neumarkt im M\u00fchlkreis"
+    ],
+    "name:nno_x_preferred":[
         "Neumarkt im M\u00fchlkreis"
     ],
     "name:pol_x_preferred":[
@@ -44,13 +56,32 @@
         "\u041d\u043e\u0439\u043c\u0430\u0440\u043a\u0442-\u0438\u043c-\u041c\u044e\u043b\u044c\u043a\u0440\u0430\u0439\u0441"
     ],
     "name:rus_x_variant":[
-        "\u041d\u043e\u0439\u043c\u0430\u0440\u043a\u0442 (\u041c\u044e\u043b\u044c\u043a\u0440\u0430\u0439\u0441)"
+        "\u041d\u043e\u0439\u043c\u0430\u0440\u043a\u0442 (\u041c\u044e\u043b\u044c\u043a\u0440\u0430\u0439\u0441)",
+        "\u041d\u043e\u0439\u043c\u0430\u0440\u043a\u0442"
     ],
     "name:slk_x_preferred":[
         "Neumarkt im M\u00fchlkreis"
     ],
+    "name:spa_x_preferred":[
+        "Neumarkt im M\u00fchlkreis"
+    ],
+    "name:swe_x_preferred":[
+        "Neumarkt im M\u00fchlkreis"
+    ],
     "name:unk_x_variant":[
         "Neumarkt"
+    ],
+    "name:uzb_x_preferred":[
+        "Neumarkt im M\u00fchlkreis"
+    ],
+    "name:vie_x_preferred":[
+        "Neumarkt im M\u00fchlkreis"
+    ],
+    "name:vol_x_preferred":[
+        "Neumarkt im M\u00fchlkreis"
+    ],
+    "name:war_x_preferred":[
+        "Neumarkt im M\u00fchlkreis"
     ],
     "name:zho_x_preferred":[
         "\u7c73\u5c14\u5730\u533a\u8bfa\u4f0a\u9a6c\u514b\u7279"
@@ -103,7 +134,7 @@
         }
     ],
     "wof:id":101843337,
-    "wof:lastmodified":1527642589,
+    "wof:lastmodified":1563245678,
     "wof:name":"Neumarkt im M\u00fchlkreis",
     "wof:parent_id":1108835085,
     "wof:placetype":"locality",

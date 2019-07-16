@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Buch in Tirol"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05da \u05d1\u05d8\u05d9\u05e8\u05d5\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Buch bei Jenbach"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0445 (\u0419\u0435\u043d\u0431\u0430\u0445)"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0443\u0445-\u0419\u0435\u043d\u0431\u0430\u0445"
     ],
     "name:slk_x_preferred":[
         "Buch bei Jenbach"
@@ -127,7 +133,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1561827453,
+    "wof:lastmodified":1563245704,
     "wof:name":"Buch",
     "wof:parent_id":1108837853,
     "wof:placetype":"locality",

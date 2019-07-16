@@ -20,8 +20,20 @@
     "name:afr_x_preferred":[
         "Graz"
     ],
+    "name:aka_x_preferred":[
+        "Graz"
+    ],
+    "name:amh_x_preferred":[
+        "\u130d\u122b\u133d"
+    ],
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u062a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Graz"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0631\u0627\u062a\u0633"
     ],
     "name:aze_x_preferred":[
         "Qras"
@@ -46,6 +58,9 @@
     ],
     "name:cat_x_preferred":[
         "Graz"
+    ],
+    "name:ceb_x_preferred":[
+        "Graz Stadt"
     ],
     "name:ces_x_preferred":[
         "\u0160t\u00fdrsk\u00fd Hradec"
@@ -101,6 +116,12 @@
     "name:fra_x_preferred":[
         "Graz"
     ],
+    "name:frr_x_preferred":[
+        "Graz"
+    ],
+    "name:fur_x_preferred":[
+        "Graz"
+    ],
     "name:gla_x_preferred":[
         "Graz"
     ],
@@ -108,6 +129,9 @@
         "Graz"
     ],
     "name:glg_x_preferred":[
+        "Graz"
+    ],
+    "name:gsw_x_preferred":[
         "Graz"
     ],
     "name:guj_x_preferred":[
@@ -122,11 +146,20 @@
     "name:hrv_x_preferred":[
         "Graz"
     ],
+    "name:hsb_x_preferred":[
+        "Graz"
+    ],
     "name:hun_x_preferred":[
         "Gr\u00e1c"
     ],
+    "name:hun_x_variant":[
+        "Graz"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u0580\u0561\u0581"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0580\u0561\u0581"
     ],
     "name:ido_x_preferred":[
         "Graz"
@@ -203,6 +236,9 @@
     "name:nan_x_preferred":[
         "Graz"
     ],
+    "name:nds_x_preferred":[
+        "Graz"
+    ],
     "name:nld_x_preferred":[
         "Graz"
     ],
@@ -217,6 +253,12 @@
     ],
     "name:oss_x_preferred":[
         "\u0413\u0440\u0430\u0446"
+    ],
+    "name:pap_x_preferred":[
+        "Graz"
+    ],
+    "name:pih_x_preferred":[
+        "Graz"
     ],
     "name:pms_x_preferred":[
         "Graz"
@@ -253,6 +295,9 @@
     ],
     "name:slv_x_preferred":[
         "Gradec"
+    ],
+    "name:sme_x_preferred":[
+        "Graz"
     ],
     "name:spa_x_preferred":[
         "Graz"
@@ -295,6 +340,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0446"
+    ],
+    "name:ukr_x_variant":[
+        "\u0490\u0440\u0430\u0446"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0631\u0627\u062a\u0632"
@@ -373,7 +421,7 @@
         }
     ],
     "wof:id":101913377,
-    "wof:lastmodified":1561827472,
+    "wof:lastmodified":1563246015,
     "wof:name":"Graz",
     "wof:parent_id":1108839153,
     "wof:placetype":"locality",

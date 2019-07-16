@@ -21,11 +21,17 @@
     "name:bar_x_preferred":[
         "T\u00e5skira"
     ],
+    "name:ceb_x_preferred":[
+        "Taiskirchen im Innkreis"
+    ],
     "name:deu_x_preferred":[
         "Taiskirchen im Innkreis"
     ],
     "name:eng_x_preferred":[
         "Taiskirchen im Innkreis"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06cc\u0633\u06a9\u0631\u06cc\u0634\u0646 \u0627\u06cc\u0645 \u0627\u06cc\u0646\u06a9\u0631\u0627\u06cc\u0633"
     ],
     "name:fra_x_preferred":[
         "Taiskirchen im Innkreis"
@@ -51,7 +57,13 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0439\u0441\u043a\u0438\u0440\u0445\u0435\u043d (\u0418\u043d\u043a\u0440\u0430\u0439\u0441)"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u0439\u0441\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
     "name:slk_x_preferred":[
+        "Taiskirchen im Innkreis"
+    ],
+    "name:spa_x_preferred":[
         "Taiskirchen im Innkreis"
     ],
     "name:swe_x_preferred":[
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1126014027,
-    "wof:lastmodified":1561827515,
+    "wof:lastmodified":1563246566,
     "wof:name":"Taiskirchen im Innkreis",
     "wof:parent_id":1108835693,
     "wof:placetype":"locality",

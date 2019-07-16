@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9586423.236031,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.447746,47.067909,15.447746,47.067909",
     "geom:latitude":47.067909,
     "geom:longitude":15.447746,
@@ -26,7 +26,19 @@
     "name:deu_x_preferred":[
         "Waltendorf"
     ],
+    "name:eng_x_preferred":[
+        "Waltendorf"
+    ],
     "name:fin_x_preferred":[
+        "Waltendorf"
+    ],
+    "name:fra_x_preferred":[
+        "Waltendorf"
+    ],
+    "name:ita_x_preferred":[
+        "Waltendorf"
+    ],
+    "name:nld_x_preferred":[
         "Waltendorf"
     ],
     "name:unk_x_variant":[
@@ -65,12 +77,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":138,
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +110,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932093,
+    "wof:lastmodified":1563243470,
     "wof:name":"Waltendorf",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":29605596.296204,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.401415,47.229222,11.401415,47.229222",
     "geom:latitude":47.229222,
     "geom:longitude":11.401415,
@@ -25,6 +25,12 @@
     "mz:tier_locality":3,
     "name:deu_x_preferred":[
         "Vill"
+    ],
+    "name:eng_x_preferred":[
+        "Vill"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6751\u533a"
     ],
     "name:unk_x_variant":[
         "Vill"
@@ -61,12 +67,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":158,
     "wof:belongsto":[
-        85681661,
         102191581,
         1108837687,
         85632785,
         101789029,
-        102049723
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +99,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932099,
+    "wof:lastmodified":1563243493,
     "wof:name":"Vill",
     "wof:parent_id":101789029,
     "wof:placetype":"neighbourhood",

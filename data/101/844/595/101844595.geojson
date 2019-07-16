@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000611,
-    "geom:area_square_m":5035375.814763,
+    "geom:area_square_m":5035375.814759,
     "geom:bbox":"14.4889124469,48.1534174205,14.5470239753,48.2058413917",
     "geom:latitude":48.177443,
     "geom:longitude":14.519343,
@@ -17,14 +17,35 @@
     "mps:longitude":14.516922,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sankt Valentin"
+    ],
     "name:ceb_x_preferred":[
         "Sankt Valentin"
+    ],
+    "name:ces_x_preferred":[
+        "St. Valentin"
     ],
     "name:deu_x_preferred":[
         "St. Valentin"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03bd\u03ba\u03c4 \u0392\u03ac\u03bb\u03b5\u03bd\u03c4\u03b9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "St. Valentin"
+    ],
+    "name:epo_x_preferred":[
+        "Sankt Valentin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0641\u0627\u0644\u0646\u062a\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Sankt Valentin"
+    ],
+    "name:hun_x_preferred":[
+        "St. Valentin"
     ],
     "name:ind_x_preferred":[
         "Sankt Valentin"
@@ -38,8 +59,14 @@
     "name:nld_x_preferred":[
         "Sankt Valentin"
     ],
+    "name:nno_x_preferred":[
+        "St. Valentin"
+    ],
     "name:pol_x_preferred":[
         "St. Valentin"
+    ],
+    "name:pol_x_variant":[
+        "Sankt Valentin"
     ],
     "name:por_x_preferred":[
         "Sankt Valentin"
@@ -48,6 +75,9 @@
         "\u0421\u0430\u043d\u043a\u0442-\u0424\u0430\u043b\u0435\u043d\u0442\u0438\u043d"
     ],
     "name:slk_x_preferred":[
+        "St. Valentin"
+    ],
+    "name:spa_x_preferred":[
         "St. Valentin"
     ],
     "name:swe_x_preferred":[
@@ -117,7 +147,7 @@
         }
     ],
     "wof:id":101844595,
-    "wof:lastmodified":1527642619,
+    "wof:lastmodified":1563245693,
     "wof:name":"Sankt Valentin",
     "wof:parent_id":1108835825,
     "wof:placetype":"locality",

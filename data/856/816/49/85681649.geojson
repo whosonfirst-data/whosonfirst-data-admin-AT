@@ -36,6 +36,9 @@
     "name:arg_x_preferred":[
         "Vorarlberg"
     ],
+    "name:ast_x_preferred":[
+        "Vorarlberg"
+    ],
     "name:bar_x_preferred":[
         "Vorarlberg"
     ],
@@ -105,6 +108,9 @@
     "name:fra_x_preferred":[
         "Vorarlberg"
     ],
+    "name:frr_x_preferred":[
+        "Vorarlberg"
+    ],
     "name:fur_x_preferred":[
         "Vorarlberg"
     ],
@@ -162,11 +168,17 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0ccb\u0cb0\u0cbe\u0cb0\u0ccd\u0cb2\u0ccd\u200c\u0cac\u0cb0\u0ccd\u0c97\u0ccd\u200c"
     ],
+    "name:kan_x_variant":[
+        "\u0cb5\u0ccb\u0cb0\u0cbe\u0cb0\u0ccd\u0cb2\u0ccd \u0cac\u0cb0\u0ccd\u0c97\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e4\u10dd\u10e0\u10d0\u10e0\u10da\u10d1\u10d4\u10e0\u10d2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud3ec\uc5b4\uc544\ub97c\ubca0\ub974\ud06c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud3ec\uc5b4\uc544\ub97c\ubca0\ub974\ud06c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Cisarulana"
@@ -234,6 +246,9 @@
     "name:por_x_preferred":[
         "Vorarlberg"
     ],
+    "name:que_x_preferred":[
+        "Vorarlberg"
+    ],
     "name:ron_x_preferred":[
         "Vorarlberg"
     ],
@@ -279,6 +294,9 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c4b\u0c30\u0c3e\u0c30\u0c4d\u0c32\u0c4d\u200c\u0c2c\u0c46\u0c30\u0c4d\u0c17\u0c4d"
     ],
+    "name:tel_x_variant":[
+        "\u0c35\u0c4b\u0c30\u0c3e\u0c30\u0c4d\u0c32\u0c4d \u0c2c\u0c46\u0c30\u0c4d\u0c17\u0c4d"
+    ],
     "name:tgk_x_preferred":[
         "\u0418\u0451\u043b\u0430\u0442\u0438 \u0424\u043e\u0440\u0430\u0440\u043b\u0431\u0435\u0440\u0433"
     ],
@@ -305,6 +323,9 @@
     ],
     "name:war_x_preferred":[
         "Vorarlberg"
+    ],
+    "name:yue_x_preferred":[
+        "\u798f\u62c9\u723e\u8c9d\u683c"
     ],
     "name:zho_min_nan_x_preferred":[
         "Vorarlberg"
@@ -434,7 +455,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1561827373,
+    "wof:lastmodified":1563243439,
     "wof:name":"Vorarlberg",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
