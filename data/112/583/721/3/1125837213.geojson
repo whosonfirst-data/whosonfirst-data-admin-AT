@@ -21,6 +21,9 @@
     "name:bar_x_preferred":[
         "Walchsee"
     ],
+    "name:ceb_x_preferred":[
+        "Walchsee"
+    ],
     "name:deu_x_preferred":[
         "Walchsee"
     ],
@@ -29,6 +32,12 @@
     ],
     "name:epo_x_preferred":[
         "Walchsee"
+    ],
+    "name:est_x_preferred":[
+        "Walchsee"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u062e\u0633\u06cc"
     ],
     "name:fra_x_preferred":[
         "Walchsee"
@@ -57,14 +66,23 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u044c\u043a\u0441\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u043b\u044c\u0445\u0437\u0435"
+    ],
     "name:slk_x_preferred":[
         "Walchsee"
     ],
     "name:spa_x_preferred":[
         "Walchsee"
     ],
+    "name:swe_x_preferred":[
+        "Walchsee"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044c\u0445\u0437\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u043b\u044c\u0445\u0437\u0435\u0454"
     ],
     "name:uzb_x_preferred":[
         "Walchsee"
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":1125837213,
-    "wof:lastmodified":1561827520,
+    "wof:lastmodified":1563246653,
     "wof:name":"Walchsee",
     "wof:parent_id":1108837275,
     "wof:placetype":"locality",

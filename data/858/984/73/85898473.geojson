@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000332,
-    "geom:area_square_m":2757565.265944,
+    "geom:area_square_m":2757565.265943,
     "geom:bbox":"13.0297851563,47.7725602896,13.0538508168,47.7903308556",
     "geom:latitude":47.781272,
     "geom:longitude":13.041174,
@@ -26,6 +26,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Gneis"
+    ],
+    "name:aze_x_preferred":[
+        "Qneys"
+    ],
     "name:bak_x_preferred":[
         "\u0413\u043d\u0435\u0439\u0441"
     ],
@@ -41,8 +47,14 @@
     "name:cat_x_preferred":[
         "Gneis"
     ],
+    "name:cat_x_variant":[
+        "gneis"
+    ],
     "name:ces_x_preferred":[
         "Rula"
+    ],
+    "name:ces_x_variant":[
+        "rula"
     ],
     "name:csb_x_preferred":[
         "Gnejs"
@@ -50,14 +62,23 @@
     "name:dan_x_preferred":[
         "Gnejs"
     ],
+    "name:dan_x_variant":[
+        "gnejs"
+    ],
     "name:deu_x_preferred":[
         "Gneis"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03bd\u03b5\u03cd\u03c3\u03b9\u03bf\u03c2"
     ],
+    "name:eng_x_preferred":[
+        "gneiss"
+    ],
     "name:epo_x_preferred":[
         "Gnejso"
+    ],
+    "name:epo_x_variant":[
+        "gnejso"
     ],
     "name:est_x_preferred":[
         "Gneiss"
@@ -73,6 +94,9 @@
     ],
     "name:fra_x_preferred":[
         "Gneiss"
+    ],
+    "name:fra_x_variant":[
+        "gneiss"
     ],
     "name:gla_x_preferred":[
         "Gneiss"
@@ -95,6 +119,9 @@
     "name:hun_x_preferred":[
         "Gneisz"
     ],
+    "name:hun_x_variant":[
+        "gneisz"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u0576\u0565\u0575\u057d"
     ],
@@ -104,11 +131,17 @@
     "name:ind_x_preferred":[
         "Gneis"
     ],
+    "name:ind_x_variant":[
+        "gneis"
+    ],
     "name:isl_x_preferred":[
         "Gneis"
     ],
     "name:ita_x_preferred":[
         "Gneiss"
+    ],
+    "name:ita_x_variant":[
+        "Ortogneiss"
     ],
     "name:jpn_x_preferred":[
         "\u7247\u9ebb\u5ca9"
@@ -143,8 +176,17 @@
     "name:nld_x_preferred":[
         "Gneis"
     ],
+    "name:nld_x_variant":[
+        "gneis"
+    ],
     "name:nno_x_preferred":[
         "Gneis"
+    ],
+    "name:nno_x_variant":[
+        "gneis"
+    ],
+    "name:nob_x_preferred":[
+        "gneis"
     ],
     "name:nor_x_preferred":[
         "Gneis"
@@ -155,14 +197,26 @@
     "name:por_x_preferred":[
         "Gnaisse"
     ],
+    "name:por_x_variant":[
+        "gnaisse"
+    ],
     "name:ron_x_preferred":[
         "Gnais"
+    ],
+    "name:rue_x_preferred":[
+        "\u0413\u043d\u0430\u0439\u0441"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043d\u0435\u0439\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u0433\u043d\u0435\u0439\u0441"
+    ],
     "name:sco_x_preferred":[
         "Gneiss"
+    ],
+    "name:sco_x_variant":[
+        "gneiss"
     ],
     "name:slk_x_preferred":[
         "Rula"
@@ -179,11 +233,20 @@
     "name:swe_x_preferred":[
         "Gnejs"
     ],
+    "name:swe_x_variant":[
+        "gnejs"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0ca8\u0cc8\u0cb8\u0ccd \u0cb6\u0cbf\u0cb2\u0cc6"
+    ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e34\u0e19\u0e44\u0e19\u0e2a\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Gnays"
+    ],
+    "name:tur_x_variant":[
+        "gnays"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043d\u0435\u0439\u0441"
@@ -263,7 +326,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527640663,
+    "wof:lastmodified":1563243459,
     "wof:name":"Gneis",
     "wof:parent_id":101748065,
     "wof:placetype":"neighbourhood",

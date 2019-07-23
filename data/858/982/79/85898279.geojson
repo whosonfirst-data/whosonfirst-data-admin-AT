@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":1837680.21784,
+    "geom:area_square_m":1837680.217839,
     "geom:bbox":"16.4690095775,48.2058412346,16.4929170243,48.2293965154",
     "geom:latitude":48.21747,
     "geom:longitude":16.479436,
@@ -24,10 +24,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Aspern"
+    ],
     "name:dan_x_preferred":[
         "Aspern"
     ],
     "name:deu_x_preferred":[
+        "Aspern"
+    ],
+    "name:eng_x_preferred":[
         "Aspern"
     ],
     "name:epo_x_preferred":[
@@ -36,16 +42,34 @@
     "name:fra_x_preferred":[
         "Aspern"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05e4\u05e8\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Aspern"
+    ],
     "name:ita_x_preferred":[
         "Aspern"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b9\u30da\u30eb\u30f3"
+    ],
     "name:nld_x_preferred":[
+        "Aspern"
+    ],
+    "name:oci_x_preferred":[
         "Aspern"
     ],
     "name:pol_x_preferred":[
         "Aspern"
     ],
     "name:ron_x_preferred":[
+        "Aspern"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u043f\u0435\u0440\u043d"
+    ],
+    "name:slv_x_preferred":[
         "Aspern"
     ],
     "name:swe_x_preferred":[
@@ -122,7 +146,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527640721,
+    "wof:lastmodified":1563243481,
     "wof:name":"Aspern",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

@@ -33,6 +33,12 @@
     "name:arg_x_preferred":[
         "Alta Austria"
     ],
+    "name:ast_x_preferred":[
+        "Alta Austria"
+    ],
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Avstriya"
+    ],
     "name:bar_x_preferred":[
         "Oba\u00f6stareich"
     ],
@@ -53,6 +59,9 @@
     ],
     "name:cat_x_preferred":[
         "Alta \u00c0ustria"
+    ],
+    "name:ceb_x_preferred":[
+        "Ober\u00f6sterreich"
     ],
     "name:ces_x_preferred":[
         "Horn\u00ed Rakousy"
@@ -92,6 +101,9 @@
     ],
     "name:fra_x_preferred":[
         "Haute-Autriche"
+    ],
+    "name:frr_x_preferred":[
+        "Ober\u00f6sterreich"
     ],
     "name:fry_x_preferred":[
         "Boppe-Eastenryk"
@@ -150,6 +162,9 @@
     "name:kor_x_preferred":[
         "\uc624\ubc84\uc678\uc2a4\ud130\ub77c\uc774\ud788 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ubc84\uc678\uc2a4\ud130\ub77c\uc774\ud788\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Austria Superior"
     ],
@@ -176,6 +191,9 @@
     ],
     "name:msa_x_preferred":[
         "Ober\u00f6sterreich"
+    ],
+    "name:myv_x_preferred":[
+        "\u0412\u0435\u0440\u044c\u0446\u0435 \u0410\u0432\u0441\u0442\u0440\u0438\u044f"
     ],
     "name:nan_x_preferred":[
         "Ober\u00f6sterreich"
@@ -206,6 +224,9 @@
     ],
     "name:por_x_preferred":[
         "Alta \u00c1ustria"
+    ],
+    "name:que_x_preferred":[
+        "Ober\u00f6sterreich"
     ],
     "name:ron_x_preferred":[
         "Austria Superioar\u0103"
@@ -243,6 +264,9 @@
     "name:tam_x_preferred":[
         "\u0b85\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u042e\u0433\u0430\u0440\u044b \u0410\u0443\u0441\u0442\u0440\u0438\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2a\u0c4d\u0c2a\u0c30\u0c4d \u0c06\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c3f\u0c2f\u0c3e"
     ],
@@ -270,14 +294,23 @@
     "name:vie_x_preferred":[
         "Ober\u00f6sterreich"
     ],
+    "name:vls_x_preferred":[
+        "Ipper-\u00d4ostnryk"
+    ],
     "name:war_x_preferred":[
         "Uruigbaw nga Austria"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05d5\u05d9\u05d1\u05e2\u05e8-\u05e2\u05e1\u05d8\u05e8\u05d9\u05d9\u05da"
     ],
+    "name:yue_x_preferred":[
+        "\u4e0a\u5967\u5730\u5229"
+    ],
     "name:zho_x_preferred":[
         "\u4e0a\u5967\u5730\u5229"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u5967\u5730\u5229\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AUT",
@@ -400,7 +433,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1561827367,
+    "wof:lastmodified":1563243429,
     "wof:name":"Ober\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

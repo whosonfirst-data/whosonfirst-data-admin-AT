@@ -23,7 +23,7 @@
     "name:bar_x_preferred":[
         "Aumstettn"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0410\u043c\u0448\u0442\u044d\u0442\u044d\u043d"
     ],
     "name:bos_x_preferred":[
@@ -47,7 +47,13 @@
     "name:deu_x_preferred":[
         "Amstetten"
     ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bc\u03c3\u03c4\u03b5\u03c4\u03c4\u03b5\u03bd"
+    ],
     "name:eng_x_preferred":[
+        "Amstetten"
+    ],
+    "name:epo_x_preferred":[
         "Amstetten"
     ],
     "name:est_x_preferred":[
@@ -68,6 +74,9 @@
     "name:hbs_x_preferred":[
         "Amstetten"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05e9\u05d8\u05d8\u05df"
+    ],
     "name:hrv_x_preferred":[
         "Amstetten"
     ],
@@ -76,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Amstetten"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0577\u057f\u0565\u057f\u057f\u0565\u0576"
     ],
     "name:ind_x_preferred":[
         "Amstetten"
@@ -226,7 +238,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1561827470,
+    "wof:lastmodified":1563245986,
     "wof:name":"Amstetten",
     "wof:parent_id":1108834895,
     "wof:placetype":"locality",

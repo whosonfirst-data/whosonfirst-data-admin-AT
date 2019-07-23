@@ -19,6 +19,12 @@
     "name:bar_x_preferred":[
         "Schwauna"
     ],
+    "name:bar_x_variant":[
+        "Schw\u00e5na"
+    ],
+    "name:ceb_x_preferred":[
+        "Schwanenstadt"
+    ],
     "name:ces_x_preferred":[
         "Schwanenstadt"
     ],
@@ -31,8 +37,14 @@
     "name:eng_x_preferred":[
         "Schwanenstadt"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0627\u0646\u0633\u0646\u0633\u062a\u0627\u062a"
+    ],
     "name:fra_x_preferred":[
         "Schwanenstadt"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05d5\u05d0\u05e0\u05e0\u05e9\u05d8\u05d0\u05d8"
     ],
     "name:hun_x_preferred":[
         "Schwanenstadt"
@@ -71,6 +83,9 @@
         "Schwanenstadt"
     ],
     "name:slv_x_preferred":[
+        "Schwanenstadt"
+    ],
+    "name:spa_x_preferred":[
         "Schwanenstadt"
     ],
     "name:swe_x_preferred":[
@@ -142,7 +157,7 @@
         }
     ],
     "wof:id":101785665,
-    "wof:lastmodified":1561827465,
+    "wof:lastmodified":1563245901,
     "wof:name":"Schwanenstadt",
     "wof:parent_id":1108836503,
     "wof:placetype":"locality",

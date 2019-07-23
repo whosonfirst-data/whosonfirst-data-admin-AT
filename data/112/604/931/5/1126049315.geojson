@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0644\u0633\u062a\u0627\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0647\u0627\u0644\u0634\u062a\u0627\u062a"
+    ],
     "name:bar_x_preferred":[
         "Hoistod"
     ],
@@ -35,6 +38,9 @@
         "\u0425\u0430\u043b\u0448\u0442\u0430\u0442"
     ],
     "name:cat_x_preferred":[
+        "Hallstatt"
+    ],
+    "name:ceb_x_preferred":[
         "Hallstatt"
     ],
     "name:ces_x_preferred":[
@@ -79,6 +85,9 @@
     "name:heb_x_preferred":[
         "\u05d4\u05d0\u05dc\u05e9\u05d8\u05d0\u05d8"
     ],
+    "name:hin_x_preferred":[
+        "\u0939\u0949\u0932\u0938\u094d\u091f\u0948\u091f"
+    ],
     "name:hrv_x_preferred":[
         "Hallstatt"
     ],
@@ -106,8 +115,14 @@
     "name:kor_x_preferred":[
         "\ud560\uc288\ud0c0\ud2b8"
     ],
+    "name:lav_x_preferred":[
+        "Hall\u0161tate"
+    ],
     "name:lit_x_preferred":[
         "Hal\u0161tatas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d3e\u0d7d\u0d37\u0d4d\u0d1f\u0d3e\u0d31\u0d4d\u0d31\u0d4d"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u043b\u0448\u0442\u0430\u0442"
@@ -159,6 +174,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e31\u0e25\u0e25\u0e4c\u0e0a\u0e15\u0e31\u0e17\u0e17\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e31\u0e25\u0e0a\u0e15\u0e31\u0e17"
     ],
     "name:tur_x_preferred":[
         "Hallstatt"
@@ -236,7 +254,7 @@
         }
     ],
     "wof:id":1126049315,
-    "wof:lastmodified":1561827493,
+    "wof:lastmodified":1563246359,
     "wof:name":"Hallstatt",
     "wof:parent_id":1108835139,
     "wof:placetype":"locality",

@@ -33,8 +33,17 @@
     "name:arg_x_preferred":[
         "Baixa Austria"
     ],
+    "name:ast_x_preferred":[
+        "Baxa Austria"
+    ],
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Avstriya"
+    ],
     "name:bar_x_preferred":[
         "Nieda\u00f6stareich"
+    ],
+    "name:bar_x_variant":[
+        "Niada\u00f6stareich"
     ],
     "name:bel_x_preferred":[
         "\u041d\u0456\u0436\u043d\u044f\u044f \u0410\u045e\u0441\u0442\u0440\u044b\u044f"
@@ -53,6 +62,9 @@
     ],
     "name:cat_x_preferred":[
         "Baixa \u00c0ustria"
+    ],
+    "name:ceb_x_preferred":[
+        "Nieder\u00f6sterreich"
     ],
     "name:ces_x_preferred":[
         "Doln\u00ed Rakousy"
@@ -98,6 +110,9 @@
     ],
     "name:fra_x_preferred":[
         "Basse-Autriche"
+    ],
+    "name:frr_x_preferred":[
+        "Nieder\u00f6sterreich"
     ],
     "name:fry_x_preferred":[
         "Neder-Eastenryk"
@@ -160,8 +175,14 @@
     "name:kaz_x_preferred":[
         "\u0422\u04e9\u043c\u0435\u043d\u0433\u0456 \u0410\u0443\u0441\u0442\u0440\u0438\u044f"
     ],
+    "name:kaz_x_variant":[
+        "\u0422\u04e9\u043c\u0435\u04a3\u0433\u0456 \u0410\u0432\u0441\u0442\u0440\u0438\u044f"
+    ],
     "name:kor_x_preferred":[
         "\ub2c8\ub354\uc678\uc2a4\ud130\ub77c\uc774\ud788 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub2c8\ub354\uc678\uc2a4\ud130\ub77c\uc774\ud788\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Austria Inferior"
@@ -223,6 +244,9 @@
     "name:por_x_preferred":[
         "Baixa \u00c1ustria"
     ],
+    "name:que_x_preferred":[
+        "Nieder\u00f6sterreich"
+    ],
     "name:ron_x_preferred":[
         "Austria Inferioar\u0103"
     ],
@@ -277,6 +301,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e42\u0e25\u0e27\u0e4c\u0e40\u0e2d\u0e2d\u0e23\u0e4c\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e42\u0e25\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22"
+    ],
     "name:tuk_x_preferred":[
         "A\u015faky Awstri\u00fda"
     ],
@@ -295,11 +322,17 @@
     "name:vec_x_preferred":[
         "Basa \u00c0ustria"
     ],
+    "name:vec_x_variant":[
+        "Basa Austria"
+    ],
     "name:vie_x_preferred":[
         "Nieder\u00f6sterreich"
     ],
     "name:war_x_preferred":[
         "Uruubos nga Austria"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e0b\u5967\u5730\u5229"
     ],
     "name:zho_x_preferred":[
         "\u4e0b\u5967\u5730\u5229\u5dde"
@@ -425,7 +458,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1561827370,
+    "wof:lastmodified":1563243433,
     "wof:name":"Nieder\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

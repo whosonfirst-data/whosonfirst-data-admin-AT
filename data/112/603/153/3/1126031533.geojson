@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0628\u0648\u0644\u062a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Sankt P\u00f6lten"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u0627\u0646\u06a9\u062a \u067e\u0648\u0644\u062a\u0646"
+    ],
     "name:aze_x_preferred":[
         "Sankt-Pyolten"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:cat_x_preferred":[
         "Sankt P\u00f6lten"
+    ],
+    "name:ceb_x_preferred":[
+        "Sankt P\u00f6lten Stadt"
     ],
     "name:ces_x_preferred":[
         "Sankt P\u00f6lten"
@@ -73,6 +82,9 @@
     "name:eus_x_preferred":[
         "Sankt P\u00f6lten"
     ],
+    "name:ext_x_preferred":[
+        "Sankt P\u00f6lten"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0627\u0646\u06a9\u062a \u067e\u0648\u0644\u062a\u0646"
     ],
@@ -80,6 +92,9 @@
         "Sankt P\u00f6lten"
     ],
     "name:fra_x_preferred":[
+        "Sankt P\u00f6lten"
+    ],
+    "name:gle_x_preferred":[
         "Sankt P\u00f6lten"
     ],
     "name:glg_x_preferred":[
@@ -136,6 +151,9 @@
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442 \u041f\u0435\u043b\u0442\u0435\u043d"
     ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041f\u0451\u043b\u044c\u0442\u0435\u043d"
+    ],
     "name:msa_x_preferred":[
         "St. P\u00f6lten"
     ],
@@ -143,6 +161,9 @@
         "Sankt P\u00f6lten"
     ],
     "name:nld_x_preferred":[
+        "Sankt P\u00f6lten"
+    ],
+    "name:nno_x_preferred":[
         "Sankt P\u00f6lten"
     ],
     "name:nob_x_preferred":[
@@ -226,8 +247,14 @@
     "name:yid_x_preferred":[
         "\u05e1\u05d0\u05e0\u05e7\u05d8 \u05e4\u05e2\u05dc\u05d8\u05df"
     ],
+    "name:yue_x_preferred":[
+        "\u8056\u5e15\u723e\u6ed5"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u5e15\u723e\u6ed5"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u73c0\u5c14\u6ed5"
     ],
     "qs_pg:aaroncc":"AT",
     "qs_pg:gn_country":null,
@@ -279,7 +306,7 @@
         }
     ],
     "wof:id":1126031533,
-    "wof:lastmodified":1561827494,
+    "wof:lastmodified":1563246374,
     "wof:name":"St. P\u00f6lten",
     "wof:parent_id":1108836803,
     "wof:placetype":"locality",

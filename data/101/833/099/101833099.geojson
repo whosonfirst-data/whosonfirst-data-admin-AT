@@ -19,6 +19,9 @@
     "name:bar_x_preferred":[
         "Grousgmoa"
     ],
+    "name:bar_x_variant":[
+        "Gr\u00f3ssgmoah"
+    ],
     "name:ceb_x_preferred":[
         "Grossgmain"
     ],
@@ -27,6 +30,12 @@
     ],
     "name:eng_x_preferred":[
         "Gro\u00dfgmain"
+    ],
+    "name:epo_x_preferred":[
+        "Gro\u00dfgmain"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0648\u0633\u06af\u0645\u0627\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
         "Gro\u00dfgmain"
@@ -50,6 +59,9 @@
         "\u0413\u0440\u043e\u0441\u0433\u043c\u0430\u0439\u043d"
     ],
     "name:slk_x_preferred":[
+        "Gro\u00dfgmain"
+    ],
+    "name:spa_x_preferred":[
         "Gro\u00dfgmain"
     ],
     "name:swe_x_preferred":[
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":101833099,
-    "wof:lastmodified":1561827456,
+    "wof:lastmodified":1563245749,
     "wof:name":"Gro\u00dfgmain",
     "wof:parent_id":1108837141,
     "wof:placetype":"locality",

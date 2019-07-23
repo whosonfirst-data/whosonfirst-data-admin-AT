@@ -20,6 +20,12 @@
     "name:als_x_preferred":[
         "Hohenems"
     ],
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0648\u0646\u0627\u0645\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0647\u0646\u0645\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u0435\u043d\u0435\u043c\u0441"
     ],
@@ -27,6 +33,9 @@
         "Hohenems"
     ],
     "name:ces_x_preferred":[
+        "Hohenems"
+    ],
+    "name:cym_x_preferred":[
         "Hohenems"
     ],
     "name:dan_x_preferred":[
@@ -106,6 +115,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u044d\u043d\u0435\u043c\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u043e\u044d\u043d\u044d\u043c\u0441"
     ],
     "name:slk_x_preferred":[
         "Hohenems"
@@ -189,7 +201,7 @@
         }
     ],
     "wof:id":101873993,
-    "wof:lastmodified":1561827451,
+    "wof:lastmodified":1563245668,
     "wof:name":"Hohenems",
     "wof:parent_id":1108837963,
     "wof:placetype":"locality",

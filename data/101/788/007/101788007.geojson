@@ -20,10 +20,16 @@
     "name:bar_x_preferred":[
         "Bod Goisan"
     ],
+    "name:bar_x_variant":[
+        "B\u00e5d Goisan"
+    ],
     "name:bos_x_preferred":[
         "Bad Goisern am Hallst\u00e4ttersee"
     ],
     "name:ceb_x_preferred":[
+        "Bad Goisern"
+    ],
+    "name:dan_x_preferred":[
         "Bad Goisern"
     ],
     "name:deu_x_preferred":[
@@ -34,6 +40,12 @@
     ],
     "name:eng_x_preferred":[
         "Bad Goisern am Hallst\u00e4ttersee"
+    ],
+    "name:eng_x_variant":[
+        "Bad Goisern"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f \u06af\u0648\u06cc\u0632\u0631\u0646 \u0627\u0645 \u0647\u0627\u0644\u0634\u062a\u0631\u0632\u06cc"
     ],
     "name:fin_x_preferred":[
         "Bad Goisern"
@@ -62,8 +74,14 @@
     "name:nld_x_variant":[
         "Bad Goisern"
     ],
+    "name:nno_x_preferred":[
+        "Bad Goisern"
+    ],
     "name:pol_x_preferred":[
         "Bad Goisern am Hallst\u00e4ttersee"
+    ],
+    "name:pol_x_variant":[
+        "Bad Goisern"
     ],
     "name:por_x_preferred":[
         "Bad Goisern"
@@ -76,6 +94,9 @@
     ],
     "name:slv_x_preferred":[
         "Bad Goisern"
+    ],
+    "name:spa_x_preferred":[
+        "Bad Goisern am Hallst\u00e4ttersee"
     ],
     "name:swe_x_preferred":[
         "Bad Goisern"
@@ -148,7 +169,7 @@
         }
     ],
     "wof:id":101788007,
-    "wof:lastmodified":1561827475,
+    "wof:lastmodified":1563246060,
     "wof:name":"Bad Goisern",
     "wof:parent_id":1108835123,
     "wof:placetype":"locality",

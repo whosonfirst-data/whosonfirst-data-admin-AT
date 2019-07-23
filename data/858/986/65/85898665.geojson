@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":2004934.677223,
+    "geom:area_square_m":2004934.677222,
     "geom:bbox":"16.2886553926,48.1680893754,16.3146972656,48.1816541863",
     "geom:latitude":48.174986,
     "geom:longitude":16.302222,
@@ -28,11 +28,23 @@
     "name:ces_x_preferred":[
         "Gloriet"
     ],
+    "name:ces_x_variant":[
+        "gloriet"
+    ],
     "name:deu_x_preferred":[
+        "Gloriette"
+    ],
+    "name:eng_x_preferred":[
+        "gloriette"
+    ],
+    "name:est_x_preferred":[
         "Gloriette"
     ],
     "name:fra_x_preferred":[
         "Gloriette"
+    ],
+    "name:fra_x_variant":[
+        "gloriette"
     ],
     "name:hrv_x_preferred":[
         "Glorijet"
@@ -49,13 +61,22 @@
     "name:pol_x_preferred":[
         "Glorieta"
     ],
+    "name:por_x_preferred":[
+        "caramanch\u00e3o"
+    ],
     "name:ron_x_preferred":[
         "Gloriet\u0103"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043b\u043e\u0440\u0438\u0435\u0442\u0442\u0430"
     ],
+    "name:spa_x_preferred":[
+        "cenador"
+    ],
     "name:swe_x_preferred":[
+        "Gloriette"
+    ],
+    "name:tur_x_preferred":[
         "Gloriette"
     ],
     "name:ukr_x_preferred":[
@@ -126,7 +147,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527270673,
+    "wof:lastmodified":1563243497,
     "wof:name":"Gloriette",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

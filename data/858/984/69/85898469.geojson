@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000983,
-    "geom:area_square_m":8169582.047685,
+    "geom:area_square_m":8169582.047687,
     "geom:bbox":"13.0737304687,47.7690727887,13.1451416016,47.7954800866",
     "geom:latitude":47.781713,
     "geom:longitude":13.112509,
@@ -35,20 +35,32 @@
     "name:deu_x_variant":[
         "Glas"
     ],
+    "name:eng_x_preferred":[
+        "Glas"
+    ],
     "name:est_x_preferred":[
         "Glas"
     ],
     "name:fin_x_preferred":[
         "Glas"
     ],
+    "name:fra_x_preferred":[
+        "Glas"
+    ],
     "name:ita_x_preferred":[
         "Hans Glas GmbH"
+    ],
+    "name:ita_x_variant":[
+        "Glas"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30f3\u30b9\u30fb\u30b0\u30e9\u30fc\u30b9"
     ],
     "name:nld_x_preferred":[
         "Hans Glas GmbH"
+    ],
+    "name:nob_x_preferred":[
+        "Glas"
     ],
     "name:nor_x_preferred":[
         "Glas"
@@ -142,7 +154,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1534379223,
+    "wof:lastmodified":1563243458,
     "wof:name":"Glas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

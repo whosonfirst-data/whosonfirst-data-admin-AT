@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Hoechst"
     ],
+    "name:ceb_x_variant":[
+        "H\u00f6chst"
+    ],
     "name:deu_x_preferred":[
         "H\u00f6chst"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:epo_x_preferred":[
         "H\u00f6chst"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u062e\u0633\u062a"
     ],
     "name:fra_x_preferred":[
         "H\u00f6chst"
@@ -74,7 +80,13 @@
     "name:rus_x_preferred":[
         "\u0425\u0451\u0445\u0441\u0442"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0451\u043a\u0441\u0442"
+    ],
     "name:slk_x_preferred":[
+        "H\u00f6chst"
+    ],
+    "name:spa_x_preferred":[
         "H\u00f6chst"
     ],
     "name:swe_x_preferred":[
@@ -140,7 +152,7 @@
         }
     ],
     "wof:id":101827487,
-    "wof:lastmodified":1561827449,
+    "wof:lastmodified":1563245651,
     "wof:name":"H\u00f6chst",
     "wof:parent_id":1108838099,
     "wof:placetype":"locality",

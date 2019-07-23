@@ -28,6 +28,12 @@
     "name:bar_x_preferred":[
         "Bezirk Soizburg-Umgewung"
     ],
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
+    ],
+    "name:bos_x_preferred":[
+        "Salzburg-Umgebung"
+    ],
     "name:ceb_x_preferred":[
         "Politischer Bezirk Salzburg-Umgebung"
     ],
@@ -37,14 +43,23 @@
     "name:dan_x_preferred":[
         "Bezirk Salzburg-Umgebung"
     ],
+    "name:dan_x_variant":[
+        "Flachgau"
+    ],
     "name:deu_x_preferred":[
         "Bezirk Salzburg-Umgebung"
     ],
     "name:eng_x_preferred":[
         "Salzburg Umgebung"
     ],
+    "name:eng_x_variant":[
+        "Salzburg-Umgebung District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Salzburg-Umgebung"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0632\u0627\u0644\u062a\u0633\u0628\u0648\u0631\u06af-\u0627\u0648\u0645\u06af\u0647\u200c\u0628\u0648\u0646\u06af"
     ],
     "name:fra_x_preferred":[
         "District de Salzbourg-Umgebung"
@@ -55,14 +70,26 @@
     "name:hbs_x_preferred":[
         "Salzburg-Umgebung"
     ],
+    "name:hrv_x_preferred":[
+        "Salzburg-okolica"
+    ],
     "name:hun_x_preferred":[
         "Salzburg-Umgebung"
+    ],
+    "name:hun_x_variant":[
+        "Salzburg-Umgebung j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Salzburg-Umgebung"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043b\u0446\u0431\u0443\u0440\u0433-\u043e\u043a\u043e\u043b\u0438\u043d\u0430"
+    ],
     "name:nld_x_preferred":[
         "Salzburg-Umgebung"
+    ],
+    "name:nno_x_preferred":[
+        "Distriktet Salzburg-Umgebung"
     ],
     "name:pol_x_preferred":[
         "Powiat Salzburg-Umgebung"
@@ -70,8 +97,14 @@
     "name:ron_x_preferred":[
         "Districtul Salzburg-Regiune"
     ],
+    "name:ron_x_variant":[
+        "Districtul Salzburg-regiune"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433-\u0423\u043c\u0433\u0435\u0431\u0443\u043d\u0433"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
     ],
     "name:slk_x_preferred":[
         "Salzburg-okolie"
@@ -148,7 +181,7 @@
         }
     ],
     "wof:id":102049799,
-    "wof:lastmodified":1553716268,
+    "wof:lastmodified":1563242993,
     "wof:name":"Salzburg - Umgebung",
     "wof:parent_id":85681681,
     "wof:placetype":"county",

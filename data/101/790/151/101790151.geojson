@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Seeboden"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0628\u0648\u062f\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Seeboden"
     ],
@@ -47,14 +50,23 @@
     "name:nld_x_preferred":[
         "Seeboden"
     ],
+    "name:nno_x_preferred":[
+        "Seeboden"
+    ],
     "name:pol_x_preferred":[
         "Seeboden am Millst\u00e4tter See"
+    ],
+    "name:pol_x_variant":[
+        "Seeboden"
     ],
     "name:por_x_preferred":[
         "Seeboden"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0435\u0431\u043e\u0434\u0435\u043d-\u0430\u043c-\u041c\u0438\u043b\u043b\u044c\u0448\u0442\u0435\u0442\u0442\u0435\u0440-\u0417\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0435\u0435\u0431\u043e\u0434\u0435\u043d"
     ],
     "name:slk_x_preferred":[
         "Seeboden"
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":101790151,
-    "wof:lastmodified":1561827444,
+    "wof:lastmodified":1563245590,
     "wof:name":"Seeboden",
     "wof:parent_id":1108838299,
     "wof:placetype":"locality",

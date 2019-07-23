@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Wald im Pinzgau"
+    ],
     "name:ces_x_preferred":[
         "Wald im Pinzgau"
     ],
@@ -26,6 +29,12 @@
     ],
     "name:eng_x_preferred":[
         "Wald im Pinzgau"
+    ],
+    "name:epo_x_preferred":[
+        "Wald im Pinzgau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u062f\u06cc\u0645 \u067e\u06cc\u0646\u062a\u0633\u06af\u0648"
     ],
     "name:fra_x_preferred":[
         "Wald im Pinzgau"
@@ -48,7 +57,13 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u044c\u0434-\u0438\u043c-\u041f\u0438\u043d\u0446\u0433\u0430\u0443"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u043b\u044c\u0434"
+    ],
     "name:slk_x_preferred":[
+        "Wald im Pinzgau"
+    ],
+    "name:spa_x_preferred":[
         "Wald im Pinzgau"
     ],
     "name:swe_x_preferred":[
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":1125918563,
-    "wof:lastmodified":1561827513,
+    "wof:lastmodified":1563246513,
     "wof:name":"Wald im Pinzgau",
     "wof:parent_id":1108837223,
     "wof:placetype":"locality",
