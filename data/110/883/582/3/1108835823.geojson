@@ -31,8 +31,17 @@
     "name:bul_x_preferred":[
         "\u0417\u0435\u043c\u0435\u0440\u0438\u043d\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Semmering"
+    ],
+    "name:ces_x_preferred":[
+        "Semmering"
+    ],
     "name:deu_x_preferred":[
         "Semmering-Pass"
+    ],
+    "name:deu_x_variant":[
+        "Semmering"
     ],
     "name:eng_x_preferred":[
         "Semmering"
@@ -42,6 +51,9 @@
     ],
     "name:hun_x_preferred":[
         "Semmering-h\u00e1g\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Semmering"
     ],
     "name:jpn_x_preferred":[
         "\u30bc\u30e1\u30ea\u30f3\u30b0\u5ce0"
@@ -58,14 +70,26 @@
     "name:pol_x_preferred":[
         "Prze\u0142\u0119cz Semmering"
     ],
+    "name:pol_x_variant":[
+        "Semmering"
+    ],
     "name:ron_x_preferred":[
         "Pasul Semmering"
+    ],
+    "name:ron_x_variant":[
+        "Semmering"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0435\u043c\u043c\u0435\u0440\u0438\u043d\u0433"
     ],
     "name:swe_x_preferred":[
         "Semmeringpasset"
+    ],
+    "name:swe_x_variant":[
+        "Semmering"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043c\u043c\u0435\u0440\u0456\u043d\u0433"
     ],
     "name:unk_x_variant":[
         "Semmering-Kurort"
@@ -125,7 +149,7 @@
         }
     ],
     "wof:id":1108835823,
-    "wof:lastmodified":1536699433,
+    "wof:lastmodified":1564314553,
     "wof:name":"Semmering",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

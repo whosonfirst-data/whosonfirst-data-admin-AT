@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15459685.519877,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.289307,48.288804,14.289307,48.288804",
     "geom:latitude":48.288804,
     "geom:longitude":14.289307,
@@ -23,11 +23,89 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u063a\u0634\u064a\u0644\u062f"
+    ],
+    "name:ces_x_preferred":[
+        "Wegscheid"
+    ],
     "name:deu_x_preferred":[
         "Wegscheid"
     ],
+    "name:epo_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:eus_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06af\u0634\u0627\u06cc\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:fra_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:hun_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u0563\u0577\u0561\u0575\u0564"
+    ],
+    "name:ind_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:ita_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:lmo_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:msa_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:nld_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:pol_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:ron_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0433\u0448\u0430\u0439\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0433\u0448\u0430\u0458\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0433\u0448\u0430\u0439\u0434"
+    ],
     "name:unk_x_variant":[
         "Wegscheid"
+    ],
+    "name:uzb_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:vie_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:vol_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:war_x_preferred":[
+        "Wegscheid"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u683c\u6c99\u4f0a\u5fb7"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -60,12 +138,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681677,
         102191581,
         1108834701,
         85632785,
         101748071,
-        102049853
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +169,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932069,
+    "wof:lastmodified":1564312379,
     "wof:name":"Wegscheid",
     "wof:parent_id":101748071,
     "wof:placetype":"neighbourhood",

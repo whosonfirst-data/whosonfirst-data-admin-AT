@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10333611.657265,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.293997,48.308712,14.293997,48.308712",
     "geom:latitude":48.308712,
     "geom:longitude":14.293997,
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Steeg"
+    ],
     "name:deu_x_preferred":[
         "Steeg"
     ],
@@ -35,10 +38,16 @@
     "name:fra_x_preferred":[
         "Steeg"
     ],
+    "name:ita_x_preferred":[
+        "Steeg"
+    ],
     "name:lmo_x_preferred":[
         "Steeg"
     ],
     "name:pol_x_preferred":[
+        "Steeg"
+    ],
+    "name:swe_x_preferred":[
         "Steeg"
     ],
     "name:unk_x_variant":[
@@ -77,12 +86,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":23,
     "wof:belongsto":[
-        85681677,
         102191581,
         1108834701,
         85632785,
         101748071,
-        102049853
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +117,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932066,
+    "wof:lastmodified":1564312386,
     "wof:name":"Steeg",
     "wof:parent_id":101748071,
     "wof:placetype":"neighbourhood",

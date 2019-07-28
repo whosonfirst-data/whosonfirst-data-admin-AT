@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6750806.819579,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.316725,48.332974,14.316725,48.332974",
     "geom:latitude":48.332974,
     "geom:longitude":14.316725,
@@ -53,6 +53,9 @@
     "name:srp_x_preferred":[
         "\u0424\u0443\u0440\u0442"
     ],
+    "name:swe_x_preferred":[
+        "Furth"
+    ],
     "name:unk_x_variant":[
         "Furth"
     ],
@@ -90,12 +93,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681677,
         102191581,
         1108834701,
         85632785,
         101748071,
-        102049853
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,7 +124,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932057,
+    "wof:lastmodified":1564312381,
     "wof:name":"Furth",
     "wof:parent_id":101748071,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":2065615.690998,
+    "geom:area_square_m":2065615.690996,
     "geom:bbox":"14.3763691121,46.6020370173,14.4195345722,46.6122429283",
     "geom:latitude":46.607635,
     "geom:longitude":14.400048,
@@ -16,6 +16,7 @@
     "mps:latitude":46.607804,
     "mps:longitude":14.391569,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:ady_x_preferred":[
         "\u041e\u0449\u0445\u044b"
     ],
@@ -40,11 +41,17 @@
     "name:arg_x_preferred":[
         "Plevia"
     ],
+    "name:asm_x_preferred":[
+        "\u09ac\u09f0\u09b7\u09c1\u09a3"
+    ],
     "name:ast_x_preferred":[
         "Lluvia"
     ],
     "name:aym_x_preferred":[
         "Jallu"
+    ],
+    "name:azb_x_preferred":[
+        "\u06cc\u0627\u063a\u06cc\u0634"
     ],
     "name:aze_x_preferred":[
         "Ya\u011f\u0131\u015f"
@@ -61,11 +68,14 @@
     "name:bel_x_preferred":[
         "\u0414\u043e\u0436\u0434\u0436"
     ],
-    "name:bel_x_variant":[
-        "\u0414\u043e\u0436\u0434\u0436"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c3\u09b7\u09cd\u099f\u09bf"
+    ],
+    "name:bih_x_preferred":[
+        "\u092c\u0930\u0916\u093e"
+    ],
+    "name:bjn_x_preferred":[
+        "Hujan"
     ],
     "name:bod_x_preferred":[
         "\u0f46\u0f62\u0f0b\u0f54\u0f0d"
@@ -118,6 +128,9 @@
     "name:ell_x_preferred":[
         "\u0392\u03c1\u03bf\u03c7\u03ae"
     ],
+    "name:eml_x_preferred":[
+        "Pi\u00f2va"
+    ],
     "name:epo_x_preferred":[
         "Pluvo"
     ],
@@ -141,6 +154,9 @@
     ],
     "name:fry_x_preferred":[
         "Rein"
+    ],
+    "name:ful_x_preferred":[
+        "To\u0253o"
     ],
     "name:gan_x_preferred":[
         "\u96e8"
@@ -208,17 +224,26 @@
     "name:ind_x_preferred":[
         "Hujan"
     ],
+    "name:inh_x_preferred":[
+        "\u0414\u043e\u0433\u04c0\u0430"
+    ],
     "name:isl_x_preferred":[
         "Rigning"
     ],
     "name:ita_x_preferred":[
         "Pioggia"
     ],
+    "name:jam_x_preferred":[
+        "Rien"
+    ],
     "name:jav_x_preferred":[
         "Udan"
     ],
     "name:jpn_x_preferred":[
         "\u96e8"
+    ],
+    "name:kab_x_preferred":[
+        "Ageffur"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cb3\u0cc6"
@@ -228,6 +253,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0416\u0430\u04a3\u0431\u044b\u0440"
+    ],
+    "name:kbp_x_preferred":[
+        "T\u025b\u028b"
     ],
     "name:kir_x_preferred":[
         "\u0416\u0430\u043c\u0433\u044b\u0440"
@@ -289,8 +317,17 @@
     "name:msa_x_preferred":[
         "Hujan"
     ],
+    "name:mya_x_preferred":[
+        "\u1019\u102d\u102f\u1038"
+    ],
+    "name:myv_x_preferred":[
+        "\u041f\u0438\u0437\u0435\u043c\u0435"
+    ],
     "name:mzn_x_preferred":[
         "\u0648\u0627\u0631\u0634"
+    ],
+    "name:nah_x_preferred":[
+        "Quiyahuitl"
     ],
     "name:nds_nld_x_preferred":[
         "Regen"
@@ -349,6 +386,9 @@
     "name:sah_x_preferred":[
         "\u0410\u0440\u0434\u0430\u0445"
     ],
+    "name:sat_x_preferred":[
+        "\u1c61\u1c5f\u1c79\u1c6f\u1c69\u1c6b"
+    ],
     "name:scn_x_preferred":[
         "Chiuvuta"
     ],
@@ -367,6 +407,9 @@
     "name:snd_x_preferred":[
         "\u0628\u0627\u0631\u0634"
     ],
+    "name:snd_x_variant":[
+        "\u0628\u0631\u0633\u0627\u062a"
+    ],
     "name:som_x_preferred":[
         "Roob"
     ],
@@ -375,6 +418,9 @@
     ],
     "name:sqi_x_preferred":[
         "Shiu"
+    ],
+    "name:srd_x_preferred":[
+        "Proina"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0448\u0430"
@@ -393,6 +439,9 @@
     ],
     "name:tat_x_preferred":[
         "\u042f\u04a3\u0433\u044b\u0440"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0cac\u0cb0\u0ccd\u0cb8\u0cca"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c30\u0c4d\u0c37\u0c02"
@@ -505,7 +554,7 @@
         }
     ],
     "wof:id":101754119,
-    "wof:lastmodified":1496617224,
+    "wof:lastmodified":1564315099,
     "wof:name":"Rain",
     "wof:parent_id":1108838227,
     "wof:placetype":"locality",

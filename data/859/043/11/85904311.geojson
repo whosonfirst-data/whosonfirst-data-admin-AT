@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":946022.692108,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.427991,47.272087,11.427991,47.272087",
     "geom:latitude":47.272087,
     "geom:longitude":11.427991,
@@ -23,7 +23,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Au"
+    ],
     "name:deu_x_preferred":[
+        "Au"
+    ],
+    "name:est_x_preferred":[
+        "Au"
+    ],
+    "name:hun_x_preferred":[
         "Au"
     ],
     "name:unk_x_variant":[
@@ -60,12 +69,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681661,
         102191581,
         1108837687,
         85632785,
         101748061,
-        102049723
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +97,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531936202,
+    "wof:lastmodified":1564312366,
     "wof:name":"Au",
     "wof:parent_id":101748061,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "iso:country":"AT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Haiden"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632785
@@ -36,7 +39,7 @@
         "gn:id":3322193
     },
     "wof:country":"AT",
-    "wof:geomhash":"a7ae34d636304091ce0fb5c4fa81da89",
+    "wof:geomhash":"d9709485562a7b82838a9d55e97a3406",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1209112033,
-    "wof:lastmodified":1536297375,
+    "wof:lastmodified":1564313293,
     "wof:name":"Haiden",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -54,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.132220000000002,
+    14.13222,
     48.49389,
-    14.132220000000002,
+    14.13222,
     48.49389
 ],
   "geometry": {"coordinates":[14.13222,48.49389],"type":"Point"}

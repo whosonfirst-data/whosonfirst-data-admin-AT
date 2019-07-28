@@ -21,6 +21,30 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:als_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:deu_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:fra_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:ita_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:nld_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:pol_x_preferred":[
+        "Breitenfeld"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0439\u0442\u0435\u043d\u0444\u0435\u043b\u044c\u0434"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u0458\u0442\u0435\u043d\u0444\u0435\u043b\u0434"
+    ],
     "src:geom":"mz",
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1108938237,
-    "wof:lastmodified":1534803977,
+    "wof:lastmodified":1564313568,
     "wof:name":"Breitenfeld",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

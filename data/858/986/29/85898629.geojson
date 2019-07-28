@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20499899.435061,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.748853,47.488865,9.748853,47.488865",
     "geom:latitude":47.488865,
     "geom:longitude":9.748853,
@@ -38,17 +38,26 @@
     "name:epo_x_preferred":[
         "Rieden"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u062f\u0646"
+    ],
     "name:fra_x_preferred":[
         "Rieden"
     ],
     "name:hbs_x_preferred":[
         "Rieden"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u0564\u0565\u0576"
+    ],
     "name:ita_x_preferred":[
         "Rieden"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30fc\u30c7\u30f3"
+    ],
+    "name:lmo_x_preferred":[
+        "Rieden"
     ],
     "name:nld_x_preferred":[
         "Rieden"
@@ -62,8 +71,14 @@
     "name:rus_x_preferred":[
         "\u0420\u0438\u0434\u0435\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Rieden"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0438\u0434\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Rieden"
     ],
     "name:unk_x_variant":[
         "Rieden Ortsteil",
@@ -108,12 +123,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681649,
         102191581,
         1108837995,
         85632785,
         101878273,
-        102049751
+        102049751,
+        85681649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,7 +154,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932105,
+    "wof:lastmodified":1564312404,
     "wof:name":"Rieden",
     "wof:parent_id":101878273,
     "wof:placetype":"neighbourhood",

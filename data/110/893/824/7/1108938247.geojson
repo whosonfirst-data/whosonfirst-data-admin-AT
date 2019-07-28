@@ -21,8 +21,35 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Rossau"
+    ],
     "name:deu_x_preferred":[
         "Ro\u00dfau"
+    ],
+    "name:deu_x_variant":[
+        "Rossau"
+    ],
+    "name:epo_x_preferred":[
+        "Rossau"
+    ],
+    "name:fra_x_preferred":[
+        "Rossau"
+    ],
+    "name:nld_x_preferred":[
+        "Rossau"
+    ],
+    "name:pol_x_preferred":[
+        "Rossau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u0430\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Rossau"
+    ],
+    "name:vol_x_preferred":[
+        "Rossau"
     ],
     "src:geom":"mz",
     "src:lbl:centroid":"mz",
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1108938247,
-    "wof:lastmodified":1534803977,
+    "wof:lastmodified":1564313569,
     "wof:name":"Rossau",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",
