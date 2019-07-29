@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000626,
-    "geom:area_square_m":5195732.725728,
+    "geom:area_square_m":5195732.725729,
     "geom:bbox":"13.0452685045,47.820531802,13.0747266127,47.854500983",
     "geom:latitude":47.834676,
     "geom:longitude":13.061359,
@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Sam"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0645"
+    ],
     "name:fra_x_preferred":[
         "Sam"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:slv_x_preferred":[
         "SAM"
+    ],
+    "name:slv_x_variant":[
+        "Sam"
     ],
     "name:spa_x_preferred":[
         "Sam"
@@ -154,7 +160,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527640715,
+    "wof:lastmodified":1564312393,
     "wof:name":"Sam",
     "wof:parent_id":101748065,
     "wof:placetype":"neighbourhood",

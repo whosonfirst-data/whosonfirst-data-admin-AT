@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1182968.899091,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.467548,47.081972,15.467548,47.081972",
     "geom:latitude":47.081972,
     "geom:longitude":15.467548,
@@ -38,6 +38,9 @@
     "name:hbs_x_preferred":[
         "Rettenbach"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0565\u0569\u0565\u0576\u0562\u0561\u056d"
+    ],
     "name:ita_x_preferred":[
         "Rettenbach"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0420\u0435\u0442\u0435\u043d\u0431\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Rettenbach"
     ],
     "name:unk_x_variant":[
         "Rettenbach"
@@ -94,12 +100,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +131,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932087,
+    "wof:lastmodified":1564312388,
     "wof:name":"Rettenbach",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
