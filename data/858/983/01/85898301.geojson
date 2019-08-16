@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000805,
-    "geom:area_square_m":6621996.473128,
+    "geom:area_square_m":6621996.473127,
     "geom:bbox":"16.4441006176,48.2502831714,16.4953466466,48.2882237618",
     "geom:latitude":48.270119,
     "geom:longitude":16.467458,
@@ -28,6 +28,9 @@
         "U-Bahn-Station Gro\u00dffeldsiedlung"
     ],
     "name:deu_x_variant":[
+        "Grossfeldsiedlung"
+    ],
+    "name:ger_x_preferred_x_variant":[
         "Grossfeldsiedlung"
     ],
     "name:hun_x_preferred":[
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -113,7 +116,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1497313656,
+    "wof:lastmodified":1565990733,
     "wof:name":"Grossfeldsiedlung",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

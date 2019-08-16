@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21511309.214026,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.483486,48.161642,16.483486,48.161642",
     "geom:latitude":48.161642,
     "geom:longitude":16.483486,
@@ -59,14 +59,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85681667,
         102191581,
         1108838101,
         85632785,
         101748073,
-        102049859
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932049,
+    "wof:lastmodified":1565990739,
     "wof:name":"Albern",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",
