@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18204037.577354,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.448043,48.281719,16.448043,48.281719",
     "geom:latitude":48.281719,
     "geom:longitude":16.448043,
@@ -60,14 +60,14 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85681667,
         102191581,
         1108838101,
         85632785,
         101748073,
-        102049859
+        102049859,
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932052,
+    "wof:lastmodified":1566237689,
     "wof:name":"Nordrandsiedlung",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",
