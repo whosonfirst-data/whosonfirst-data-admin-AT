@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"5144aab50b45748ac2b6620f45734712",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db5d2544a49297ef0888d7ce293ae40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831669,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831669,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340933,
     "wof:name":"Wetzelsdorf",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.395261601132857,
-    47.056133707622884,
-    15.395261601132857,
-    47.056133707622884
+    15.39526160113286,
+    47.05613370762288,
+    15.39526160113286,
+    47.05613370762288
 ],
   "geometry": {"coordinates":[15.39526160113286,47.05613370762288],"type":"Point"}
 }

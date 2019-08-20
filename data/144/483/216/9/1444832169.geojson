@@ -32,13 +32,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"ae2a395bf6f876f01fa911efc0228283",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62d68f1dff239a4882e32a4db3467ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":1444832169,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444832169,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340989,
     "wof:name":"Weinzoedl",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.391668782686413,
-    47.109382795256046,
-    15.391668782686413,
-    47.109382795256046
+    15.39166878268641,
+    47.10938279525605,
+    15.39166878268641,
+    47.10938279525605
 ],
   "geometry": {"coordinates":[15.39166878268641,47.10938279525605],"type":"Point"}
 }

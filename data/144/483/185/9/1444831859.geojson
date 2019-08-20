@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"d21a8f6f879e10cc1e0252c69445dc5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0e8730572a74b79dbcdfa237953cae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831859,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831859,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340954,
     "wof:name":"Hart",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.400013517982229,
+    15.40001351798223,
     47.04072738417018,
-    15.400013517982229,
+    15.40001351798223,
     47.04072738417018
 ],
   "geometry": {"coordinates":[15.40001351798223,47.04072738417018],"type":"Point"}

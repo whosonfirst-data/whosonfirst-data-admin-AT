@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
     "wof:geomhash":"1a509b0c427fd248853cb4db04f9044b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831895,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831895,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340959,
     "wof:name":"Messendorfberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],

@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"9fb8a033418d258898c19fc442680583",
-    "wof:hierarchy":[],
+    "wof:geomhash":"197ebfa896947ae945d4f59682b842ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831525,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831525,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340915,
     "wof:name":"Andritz",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.423674994378544,
-    47.105108701817194,
-    15.423674994378544,
-    47.105108701817194
+    15.42367499437854,
+    47.10510870181719,
+    15.42367499437854,
+    47.10510870181719
 ],
   "geometry": {"coordinates":[15.42367499437854,47.10510870181719],"type":"Point"}
 }

@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"9cfed8101180f72e37186121e6310d63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfee9b8aaf1d0e9b95421a96a260364e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444832155,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444832155,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340986,
     "wof:name":"Oberandritz",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.420135975354466,
-    47.113666497551286,
-    15.420135975354466,
-    47.113666497551286
+    15.42013597535447,
+    47.11366649755129,
+    15.42013597535447,
+    47.11366649755129
 ],
   "geometry": {"coordinates":[15.42013597535447,47.11366649755129],"type":"Point"}
 }

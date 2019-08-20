@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"ce6854d65925441683ac67b983d80452",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6713a21080969d6ce4bbc3d2a9c7bae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444828211,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828211,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336690,
     "wof:name":"Haganau",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.029133504340434,
-    47.831963229252175,
-    13.029133504340434,
-    47.831963229252175
+    13.02913350434043,
+    47.83196322925217,
+    13.02913350434043,
+    47.83196322925217
 ],
   "geometry": {"coordinates":[13.02913350434043,47.83196322925217],"type":"Point"}
 }

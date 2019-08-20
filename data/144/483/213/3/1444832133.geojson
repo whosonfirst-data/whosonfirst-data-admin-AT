@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"0bd69a64d4788da9cce5f8ba585ad776",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3190e7924a802f6444ca39e2e7377b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444832133,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444832133,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340984,
     "wof:name":"Rossegg",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.433439738762148,
+    15.43343973876215,
     47.12244700936579,
-    15.433439738762148,
+    15.43343973876215,
     47.12244700936579
 ],
   "geometry": {"coordinates":[15.43343973876215,47.12244700936579],"type":"Point"}

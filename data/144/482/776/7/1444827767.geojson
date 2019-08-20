@@ -32,15 +32,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"d70854681f72bc06ea8a7abe71b7c6de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"770aef5bee7d1f50bbc105d47e599ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827767,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827767,
-    "wof:lastmodified":1566333177,
+    "wof:lastmodified":1566336635,
     "wof:name":"Riedenburg-St Paul",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -49,9 +66,9 @@
 },
   "bbox": [
     13.02897614799907,
-    47.792383244009415,
+    47.79238324400941,
     13.02897614799907,
-    47.792383244009415
+    47.79238324400941
 ],
   "geometry": {"coordinates":[13.02897614799907,47.79238324400941],"type":"Point"}
 }

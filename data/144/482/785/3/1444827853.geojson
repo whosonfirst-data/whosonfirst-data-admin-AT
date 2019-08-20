@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"9620de01585043536adc69d35f726f88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28178dc4a4d76bd71258a56b6666378b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827853,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827853,
-    "wof:lastmodified":1566333177,
+    "wof:lastmodified":1566336646,
     "wof:name":"Inneres Stein",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.049875931158878,
+    13.04987593115888,
     47.80058992330863,
-    13.049875931158878,
+    13.04987593115888,
     47.80058992330863
 ],
   "geometry": {"coordinates":[13.04987593115888,47.80058992330863],"type":"Point"}

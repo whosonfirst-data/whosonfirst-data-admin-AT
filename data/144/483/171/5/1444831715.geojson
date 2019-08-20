@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"f53ff83fbb8a4bc9f22e19bf6c7a91a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e02fd1e659a9a6bfabe99de736fa665a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831715,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831715,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340938,
     "wof:name":"Murfeld",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.459206028386983,
-    47.022997522091444,
-    15.459206028386983,
-    47.022997522091444
+    15.45920602838698,
+    47.02299752209144,
+    15.45920602838698,
+    47.02299752209144
 ],
   "geometry": {"coordinates":[15.45920602838698,47.02299752209144],"type":"Point"}
 }

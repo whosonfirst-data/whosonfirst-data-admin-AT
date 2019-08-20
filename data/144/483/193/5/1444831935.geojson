@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"ac78d88c63afdb62f99e360338bffb6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5b916ba133ba304c3af6c3443c6cd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831935,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831935,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340964,
     "wof:name":"Algersdorf",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.392458686442717,
+    15.39245868644272,
     47.0786447223657,
-    15.392458686442717,
+    15.39245868644272,
     47.0786447223657
 ],
   "geometry": {"coordinates":[15.39245868644272,47.0786447223657],"type":"Point"}

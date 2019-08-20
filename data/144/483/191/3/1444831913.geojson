@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"525ccc24f2d6b6c101099f981a2eb89e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1712fe0a5b811428e0b14f9fb1c8d0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831913,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831913,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340960,
     "wof:name":"Petersbergen",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -46,9 +63,9 @@
 },
   "bbox": [
     15.49810954700894,
-    47.059432398093904,
+    47.0594323980939,
     15.49810954700894,
-    47.059432398093904
+    47.0594323980939
 ],
   "geometry": {"coordinates":[15.49810954700894,47.0594323980939],"type":"Point"}
 }

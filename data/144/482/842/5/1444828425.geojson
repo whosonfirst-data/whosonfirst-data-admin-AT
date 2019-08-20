@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837079,
+        85632785,
+        101754149,
+        102049779
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"8fdac26e6bce694a686c581df69be11e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"451a37691a3f0e78ae0be0ecc411e45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101754149,
+            "neighbourhood_id":1444828425,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828425,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566336713,
     "wof:name":"Kendlersiedlung",
-    "wof:parent_id":-1,
+    "wof:parent_id":101754149,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.005158119962717,
+    13.00515811996272,
     47.77904222230038,
-    13.005158119962717,
+    13.00515811996272,
     47.77904222230038
 ],
   "geometry": {"coordinates":[13.00515811996272,47.77904222230038],"type":"Point"}

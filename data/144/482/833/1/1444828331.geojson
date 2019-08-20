@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"aefab2ed0ad7edbd75d902ec5ac6c151",
-    "wof:hierarchy":[],
+    "wof:geomhash":"955dae701b2519925ce1208eca6574f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
+            "neighbourhood_id":1444828331,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828331,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566336705,
     "wof:name":"Oberjudenberg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.103005154057918,
+    13.10300515405792,
     47.79816841504744,
-    13.103005154057918,
+    13.10300515405792,
     47.79816841504744
 ],
   "geometry": {"coordinates":[13.10300515405792,47.79816841504744],"type":"Point"}

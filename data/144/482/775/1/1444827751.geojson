@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"6e10d305413fd1c1379927187d53e8cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"baccd0e4a84e8c460afa65e1acbe8a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827751,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827751,
-    "wof:lastmodified":1566333177,
+    "wof:lastmodified":1566336631,
     "wof:name":"Thumegg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.045169546039386,
+    13.04516954603939,
     47.7838100122871,
-    13.045169546039386,
+    13.04516954603939,
     47.7838100122871
 ],
   "geometry": {"coordinates":[13.04516954603939,47.7838100122871],"type":"Point"}

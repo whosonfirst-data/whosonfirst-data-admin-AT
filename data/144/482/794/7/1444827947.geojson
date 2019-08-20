@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"fc69e6f9c22a6fda935331945f2bbe33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"173ca90fd697272cb49782020c472918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827947,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827947,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336657,
     "wof:name":"Kirchenviertel Maxglan",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.017918288736556,
+    13.01791828873656,
     47.80420275755038,
-    13.017918288736556,
+    13.01791828873656,
     47.80420275755038
 ],
   "geometry": {"coordinates":[13.01791828873656,47.80420275755038],"type":"Point"}

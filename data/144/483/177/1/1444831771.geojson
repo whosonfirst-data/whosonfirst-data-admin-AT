@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"a3c27cadb996beb9fb03b89494a0625b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb911ec69e696bc6a96e6139efca564f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831771,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831771,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340944,
     "wof:name":"Foelling",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.497967156396186,
+    15.49796715639619,
     47.11388284776526,
-    15.497967156396186,
+    15.49796715639619,
     47.11388284776526
 ],
   "geometry": {"coordinates":[15.49796715639619,47.11388284776526],"type":"Point"}

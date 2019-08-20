@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"7c39c7ae959f157ca54050a70461b267",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89d5582939bbc1fe3bdd9e2a41f161b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
+            "neighbourhood_id":1444828355,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828355,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566336709,
     "wof:name":"Hiesl",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.091131902844605,
-    47.808526298018265,
-    13.091131902844605,
-    47.808526298018265
+    13.09113190284461,
+    47.80852629801826,
+    13.09113190284461,
+    47.80852629801826
 ],
   "geometry": {"coordinates":[13.09113190284461,47.80852629801826],"type":"Point"}
 }

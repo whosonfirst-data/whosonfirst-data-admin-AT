@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"6aa049ceb622b617a9823807c65883cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e779fcbda4bca79cd9fc31a6132186b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831901,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831901,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340959,
     "wof:name":"Peterstal",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.485533133031158,
-    47.058746989825025,
-    15.485533133031158,
-    47.058746989825025
+    15.48553313303116,
+    47.05874698982502,
+    15.48553313303116,
+    47.05874698982502
 ],
   "geometry": {"coordinates":[15.48553313303116,47.05874698982502],"type":"Point"}
 }

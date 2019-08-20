@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"d9678b3dadd4795f9581fc890c05880e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2562079aad3b407744a2353cca942c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827737,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827737,
-    "wof:lastmodified":1566333177,
+    "wof:lastmodified":1566336628,
     "wof:name":"Kirchsiedlung Gneis",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.040248584090737,
+    13.04024858409074,
     47.77265885119373,
-    13.040248584090737,
+    13.04024858409074,
     47.77265885119373
 ],
   "geometry": {"coordinates":[13.04024858409074,47.77265885119373],"type":"Point"}

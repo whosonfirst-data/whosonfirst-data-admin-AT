@@ -32,15 +32,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"66e9c1bc720f5352bf74920fc183ecb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3bd1bc2e0f87127eacaedcdb3dd9534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831747,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831747,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340940,
     "wof:name":"Sankt Veit",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -48,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.409925656198284,
-    47.116528426109454,
-    15.409925656198284,
-    47.116528426109454
+    15.40992565619828,
+    47.11652842610945,
+    15.40992565619828,
+    47.11652842610945
 ],
   "geometry": {"coordinates":[15.40992565619828,47.11652842610945],"type":"Point"}
 }

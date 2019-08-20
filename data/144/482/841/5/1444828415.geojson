@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"2a644e60c24c368d4f7ff31ea69f40c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51afeb22d9f926ae82f91918f220e8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
+            "neighbourhood_id":1444828415,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828415,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566336709,
     "wof:name":"Hostetter",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.100716334546917,
+    13.10071633454692,
     47.78488654951004,
-    13.100716334546917,
+    13.10071633454692,
     47.78488654951004
 ],
   "geometry": {"coordinates":[13.10071633454692,47.78488654951004],"type":"Point"}

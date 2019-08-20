@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"d2664b0a58cf9231f8d04e848a42e2d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"413d2aee36ccc2846ffae2a5cd8a1bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444828125,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828125,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336680,
     "wof:name":"Itzling Mitte",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.044969274332159,
+    13.04496927433216,
     47.82090884763261,
-    13.044969274332159,
+    13.04496927433216,
     47.82090884763261
 ],
   "geometry": {"coordinates":[13.04496927433216,47.82090884763261],"type":"Point"}

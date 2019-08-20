@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"85c9ceb948863d9d2f8abfaaafa3ad49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eeaf496408fccf9e815c1d282e60a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444832363,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832363,
-    "wof:lastmodified":1566333181,
+    "wof:lastmodified":1566341013,
     "wof:name":"Elisabeth-Vorstadt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.041051144890142,
-    47.814375276735454,
-    13.041051144890142,
-    47.814375276735454
+    13.04105114489014,
+    47.81437527673545,
+    13.04105114489014,
+    47.81437527673545
 ],
   "geometry": {"coordinates":[13.04105114489014,47.81437527673545],"type":"Point"}
 }

@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
     "wof:geomhash":"bf9b83d7224aa4e4654797572ffa0b35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":1444832009,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444832009,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340970,
     "wof:name":"Eckmichl",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

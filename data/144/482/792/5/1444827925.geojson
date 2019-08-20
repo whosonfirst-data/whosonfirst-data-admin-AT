@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"5a51cd026c250af88c278331098d2151",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0211dc0e20c0cd19e3b73422124c7bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827925,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827925,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336656,
     "wof:name":"Maxglan-Riedenburg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.017517745322134,
+    13.01751774532213,
     47.79311363335284,
-    13.017517745322134,
+    13.01751774532213,
     47.79311363335284
 ],
   "geometry": {"coordinates":[13.01751774532213,47.79311363335284],"type":"Point"}

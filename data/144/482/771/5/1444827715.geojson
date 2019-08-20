@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"40f90232aa73cc83ec16cb0fbf6386ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d491250ec236804468d8a07b4fdd0156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
+            "neighbourhood_id":1444827715,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827715,
-    "wof:lastmodified":1566333177,
+    "wof:lastmodified":1566336623,
     "wof:name":"Mittemoos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.019892395564797,
+    13.0198923955648,
     47.76895729065276,
-    13.019892395564797,
+    13.0198923955648,
     47.76895729065276
 ],
   "geometry": {"coordinates":[13.0198923955648,47.76895729065276],"type":"Point"}

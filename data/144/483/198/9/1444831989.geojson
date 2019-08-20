@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"34bd18290271a11fb11e60baa27e4ee6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2a3299813771e89780aa7ec1e98fd83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":1444831989,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831989,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340969,
     "wof:name":"Rohrbach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.527852766066394,
-    47.107120058623785,
-    15.527852766066394,
-    47.107120058623785
+    15.52785276606639,
+    47.10712005862379,
+    15.52785276606639,
+    47.10712005862379
 ],
   "geometry": {"coordinates":[15.52785276606639,47.10712005862379],"type":"Point"}
 }

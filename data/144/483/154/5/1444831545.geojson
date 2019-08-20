@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"1bfb8766cab4eb369f59258303b85002",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02a3762c97922fbce8b42747ad5ca402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831545,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831545,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340919,
     "wof:name":"Ries",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.496166307528515,
+    15.49616630752852,
     47.08860705610721,
-    15.496166307528515,
+    15.49616630752852,
     47.08860705610721
 ],
   "geometry": {"coordinates":[15.49616630752852,47.08860705610721],"type":"Point"}

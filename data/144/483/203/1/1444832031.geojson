@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"6a740adbc532e38deec64b6105263a2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04006fa78bd93409b835b4b4bc3f13b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":1444832031,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444832031,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340974,
     "wof:name":"Teichhof",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.487392645669297,
+    15.4873926456693,
     47.09953790844372,
-    15.487392645669297,
+    15.4873926456693,
     47.09953790844372
 ],
   "geometry": {"coordinates":[15.4873926456693,47.09953790844372],"type":"Point"}

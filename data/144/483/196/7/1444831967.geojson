@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"26d77227f3af6185f36aa9f681305226",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d166ba85c68c8055f16a0ef7f6643f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831967,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831967,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340965,
     "wof:name":"Haidegg",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.500759577097117,
-    47.079280935643204,
-    15.500759577097117,
-    47.079280935643204
+    15.50075957709712,
+    47.0792809356432,
+    15.50075957709712,
+    47.0792809356432
 ],
   "geometry": {"coordinates":[15.50075957709712,47.0792809356432],"type":"Point"}
 }

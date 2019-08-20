@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"a0736b2333edca9f64884b3e85afa4bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bad7713d3232fc10df3c983e52fdc741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831645,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831645,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340929,
     "wof:name":"Gries",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.427162352503267,
-    47.062910356240344,
-    15.427162352503267,
-    47.062910356240344
+    15.42716235250327,
+    47.06291035624034,
+    15.42716235250327,
+    47.06291035624034
 ],
   "geometry": {"coordinates":[15.42716235250327,47.06291035624034],"type":"Point"}
 }

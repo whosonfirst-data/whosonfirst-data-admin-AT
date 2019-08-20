@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"f112737dca3d72b6d3ab8e3cd4c3e2fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9146b249af19c8cc31e48699bf66b012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827859,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827859,
-    "wof:lastmodified":1566333177,
+    "wof:lastmodified":1566336647,
     "wof:name":"Aeusserer Stein",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -46,9 +63,9 @@
 },
   "bbox": [
     13.05471106237586,
-    47.799513711348546,
+    47.79951371134855,
     13.05471106237586,
-    47.799513711348546
+    47.79951371134855
 ],
   "geometry": {"coordinates":[13.05471106237586,47.79951371134855],"type":"Point"}
 }

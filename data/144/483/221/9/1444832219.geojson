@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"276257482a0d3644dcefa2b1ba85fc74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31b35b8d516ea7ce7418021826a1cc66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444832219,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832219,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340995,
     "wof:name":"Gneis",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -46,9 +63,9 @@
 },
   "bbox": [
     13.04139446781679,
-    47.778281155351905,
+    47.77828115535191,
     13.04139446781679,
-    47.778281155351905
+    47.77828115535191
 ],
   "geometry": {"coordinates":[13.04139446781679,47.77828115535191],"type":"Point"}
 }

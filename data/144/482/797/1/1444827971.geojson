@@ -32,15 +32,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"0d8c7bd863793f30f18a7ea0b43ca56b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a1bbac1588122126ce02824ab845d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827971,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827971,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336661,
     "wof:name":"Annahof Siedlung",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -48,9 +65,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.020321549223102,
+    13.0203215492231,
     47.81067832622568,
-    13.020321549223102,
+    13.0203215492231,
     47.81067832622568
 ],
   "geometry": {"coordinates":[13.0203215492231,47.81067832622568],"type":"Point"}

@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"1415c59896d680a5659404b7c7156ee6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe07b14dff7cb54ae7ff80a1a8f127c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827747,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827747,
-    "wof:lastmodified":1566333177,
+    "wof:lastmodified":1566336631,
     "wof:name":"Gneis-Moos",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -46,9 +63,9 @@
 },
   "bbox": [
     13.03567094506874,
-    47.778273182964405,
+    47.7782731829644,
     13.03567094506874,
-    47.778273182964405
+    47.7782731829644
 ],
   "geometry": {"coordinates":[13.03567094506874,47.7782731829644],"type":"Point"}
 }

@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"d04261829324ed6b5123504390525c11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30e38a719c4844952dca597c3e543a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827869,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827869,
-    "wof:lastmodified":1566333177,
+    "wof:lastmodified":1566336650,
     "wof:name":"Aeusserer M\u00fclln",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.030564016534827,
+    13.03056401653483,
     47.8031266204341,
-    13.030564016534827,
+    13.03056401653483,
     47.8031266204341
 ],
   "geometry": {"coordinates":[13.03056401653483,47.8031266204341],"type":"Point"}

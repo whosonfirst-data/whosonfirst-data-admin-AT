@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        101754161,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
     "wof:geomhash":"1df0bed33ae6a02163fecc9677f94e5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":101754161,
+            "neighbourhood_id":1444828429,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828429,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566336714,
     "wof:name":"Pointing",
-    "wof:parent_id":-1,
+    "wof:parent_id":101754161,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],

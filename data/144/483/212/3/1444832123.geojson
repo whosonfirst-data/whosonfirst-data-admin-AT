@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"4696372427d89c53f6a064931b7eaa29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abe9e8fc25effda76b4aee26afdfcded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444832123,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444832123,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340984,
     "wof:name":"Ober Weizbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.433353908030488,
+    15.43335390803049,
     47.11231327430986,
-    15.433353908030488,
+    15.43335390803049,
     47.11231327430986
 ],
   "geometry": {"coordinates":[15.43335390803049,47.11231327430986],"type":"Point"}

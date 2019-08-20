@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"deed5a12182d7c15c5c6fb0c89e6edcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c60bfb3f3b8baf12a8114df9008f1e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444832429,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832429,
-    "wof:lastmodified":1566333181,
+    "wof:lastmodified":1566341022,
     "wof:name":"Gnigl",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.068087825363824,
+    13.06808782536382,
     47.81737238261291,
-    13.068087825363824,
+    13.06808782536382,
     47.81737238261291
 ],
   "geometry": {"coordinates":[13.06808782536382,47.81737238261291],"type":"Point"}

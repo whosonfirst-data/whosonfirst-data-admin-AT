@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"894e31dae52216ca217631f185100cb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fee105cca870af1ca462915b63fe0a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444828283,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828283,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336700,
     "wof:name":"Rennbahnsiedlung",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.066469872613604,
+    13.0664698726136,
     47.79363258796378,
-    13.066469872613604,
+    13.0664698726136,
     47.79363258796378
 ],
   "geometry": {"coordinates":[13.0664698726136,47.79363258796378],"type":"Point"}

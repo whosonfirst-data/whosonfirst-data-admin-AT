@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"870939bbaa9809bf2584002a4781e262",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5099c829e1f7ac7847b3e8d00d34ea00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444832283,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832283,
-    "wof:lastmodified":1566333181,
+    "wof:lastmodified":1566341005,
     "wof:name":"Neustadt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.043912169278892,
-    47.807073910257834,
-    13.043912169278892,
-    47.807073910257834
+    13.04391216927889,
+    47.80707391025783,
+    13.04391216927889,
+    47.80707391025783
 ],
   "geometry": {"coordinates":[13.04391216927889,47.80707391025783],"type":"Point"}
 }

@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"9e8e73917cc0c1f5037e0dedd7d43be7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f411f4503d227087c18aa3fca5bbe680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831703,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831703,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340935,
     "wof:name":"Liebenau",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.448944048331455,
+    15.44894404833146,
     47.04296741133666,
-    15.448944048331455,
+    15.44894404833146,
     47.04296741133666
 ],
   "geometry": {"coordinates":[15.44894404833146,47.04296741133666],"type":"Point"}

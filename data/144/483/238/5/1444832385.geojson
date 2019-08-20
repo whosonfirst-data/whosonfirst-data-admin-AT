@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"904f246637de1ff3aa95239ce04e4f44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bab453db25cbf96a916e8421fc0e19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444832385,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832385,
-    "wof:lastmodified":1566333181,
+    "wof:lastmodified":1566341017,
     "wof:name":"Liefering",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.017419083439073,
-    47.820484578883416,
-    13.017419083439073,
-    47.820484578883416
+    13.01741908343907,
+    47.82048457888342,
+    13.01741908343907,
+    47.82048457888342
 ],
   "geometry": {"coordinates":[13.01741908343907,47.82048457888342],"type":"Point"}
 }

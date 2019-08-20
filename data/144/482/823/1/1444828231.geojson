@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"6675b49f47895ae020ac76fb65e09cf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f5ed0616e4afa2ba3c1e3423951e1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444828231,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828231,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336694,
     "wof:name":"Inneres Parsch",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.064266883834271,
+    13.06426688383427,
     47.80157002551812,
-    13.064266883834271,
+    13.06426688383427,
     47.80157002551812
 ],
   "geometry": {"coordinates":[13.06426688383427,47.80157002551812],"type":"Point"}

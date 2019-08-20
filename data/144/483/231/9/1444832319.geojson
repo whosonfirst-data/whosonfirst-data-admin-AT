@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"221ba741dd4592488b7b5e1724ecf38e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd0e14332846c66d3850654278079417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
+            "neighbourhood_id":1444832319,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832319,
-    "wof:lastmodified":1566333181,
+    "wof:lastmodified":1566341009,
     "wof:name":"Gaisberg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.100102688273923,
+    13.10010268827392,
     47.79385198233895,
-    13.100102688273923,
+    13.10010268827392,
     47.79385198233895
 ],
   "geometry": {"coordinates":[13.10010268827392,47.79385198233895],"type":"Point"}

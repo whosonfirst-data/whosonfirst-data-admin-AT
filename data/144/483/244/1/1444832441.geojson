@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"41a865dffb4b0a05ce00b7e7516f2c98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"239da97fc9f4c58e310c0e571aa834eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444832441,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832441,
-    "wof:lastmodified":1566333181,
+    "wof:lastmodified":1566341022,
     "wof:name":"Heuberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -46,9 +63,9 @@
 },
   "bbox": [
     13.07827307218777,
-    47.817756614444924,
+    47.81775661444492,
     13.07827307218777,
-    47.817756614444924
+    47.81775661444492
 ],
   "geometry": {"coordinates":[13.07827307218777,47.81775661444492],"type":"Point"}
 }

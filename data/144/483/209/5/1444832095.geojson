@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"41bc2f87be57cd2413b47d540767a8cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"000f935ef4729d2784f7d30774dd637c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":1444832095,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444832095,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340979,
     "wof:name":"Raach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.372552019746452,
+    15.37255201974645,
     47.1114976470962,
-    15.372552019746452,
+    15.37255201974645,
     47.1114976470962
 ],
   "geometry": {"coordinates":[15.37255201974645,47.1114976470962],"type":"Point"}

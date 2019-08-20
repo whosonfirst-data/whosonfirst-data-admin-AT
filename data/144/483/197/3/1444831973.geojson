@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"fd8bc8bba5f925ff0b24aba3eb0f93c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e220a9c99cc1dac5e1b9ebce91f1e90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831973,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831973,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340965,
     "wof:name":"Goigner",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.479271875500789,
+    15.47927187550079,
     47.08422356463218,
-    15.479271875500789,
+    15.47927187550079,
     47.08422356463218
 ],
   "geometry": {"coordinates":[15.47927187550079,47.08422356463218],"type":"Point"}

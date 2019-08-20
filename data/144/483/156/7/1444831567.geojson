@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"03c23cf6c79bf6171878021e3a76c8c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f30520f98e35d8e1037482699804426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831567,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831567,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340920,
     "wof:name":"Goesting",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.405952354728317,
+    15.40595235472832,
     47.09257725797204,
-    15.405952354728317,
+    15.40595235472832,
     47.09257725797204
 ],
   "geometry": {"coordinates":[15.40595235472832,47.09257725797204],"type":"Point"}

@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"85a6d641c0ed24302cb15efc69fa9cc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e686d62b76fd6ebe0d98ae4375ebed59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827821,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827821,
-    "wof:lastmodified":1566333177,
+    "wof:lastmodified":1566336643,
     "wof:name":"Linke Altstadt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.043853474820562,
-    47.798975597008244,
-    13.043853474820562,
-    47.798975597008244
+    13.04385347482056,
+    47.79897559700824,
+    13.04385347482056,
+    47.79897559700824
 ],
   "geometry": {"coordinates":[13.04385347482056,47.79897559700824],"type":"Point"}
 }

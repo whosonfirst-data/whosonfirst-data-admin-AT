@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837115,
+        85632785,
+        101754151,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"ba1237253cd34d236c5d9fdf4280d73c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b221446870f2a9d2dedc9a068159c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837115,
+            "locality_id":101754151,
+            "neighbourhood_id":1444828091,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828091,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336676,
     "wof:name":"Schlachthofsiedlung",
-    "wof:parent_id":-1,
+    "wof:parent_id":101754151,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -46,9 +63,9 @@
 },
   "bbox": [
     13.01681679434688,
-    47.844570609256174,
+    47.84457060925617,
     13.01681679434688,
-    47.844570609256174
+    47.84457060925617
 ],
   "geometry": {"coordinates":[13.01681679434688,47.84457060925617],"type":"Point"}
 }

@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"ec70c724b3875ce56abf8ba126fef9e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0c57b298c84586f2a506543f588fe88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444832143,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444832143,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340985,
     "wof:name":"Unteradritz",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.422596456328787,
-    47.108798627319786,
-    15.422596456328787,
-    47.108798627319786
+    15.42259645632879,
+    47.10879862731979,
+    15.42259645632879,
+    47.10879862731979
 ],
   "geometry": {"coordinates":[15.42259645632879,47.10879862731979],"type":"Point"}
 }

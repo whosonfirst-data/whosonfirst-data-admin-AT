@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
     "wof:geomhash":"05860d9e1e61530a91504df4cb517d3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
+            "neighbourhood_id":1444832519,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832519,
-    "wof:lastmodified":1566333181,
+    "wof:lastmodified":1566341032,
     "wof:name":"Birkensiedling",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

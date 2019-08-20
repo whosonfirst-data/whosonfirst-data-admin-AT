@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108837079,
+        85632785,
+        102049779,
+        85681681
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"369c2d1b70af8b897913ce72498c51da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30366cddaaa121dc082d71418619a22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":-1,
+            "neighbourhood_id":1444828065,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828065,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336672,
     "wof:name":"Herrenau",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +62,9 @@
 },
   "bbox": [
     13.0040995409389,
-    47.838684985992614,
+    47.83868498599261,
     13.0040995409389,
-    47.838684985992614
+    47.83868498599261
 ],
   "geometry": {"coordinates":[13.0040995409389,47.83868498599261],"type":"Point"}
 }

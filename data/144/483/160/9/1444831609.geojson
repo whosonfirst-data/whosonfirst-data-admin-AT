@@ -32,15 +32,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"90f74953a1903cce1b68e321835e9f60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43ca166a59702f3d161ab8a8f24b4509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831609,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831609,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340925,
     "wof:name":"Sankt Leonhard",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -48,9 +65,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.461978763945169,
+    15.46197876394517,
     47.07630533384838,
-    15.461978763945169,
+    15.46197876394517,
     47.07630533384838
 ],
   "geometry": {"coordinates":[15.46197876394517,47.07630533384838],"type":"Point"}

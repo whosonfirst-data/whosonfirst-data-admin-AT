@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"a6cec24257756f257a9623ef5043ac79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d2dc0c6af2eb76c4a6355cf1bb495da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444832261,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832261,
-    "wof:lastmodified":1566333181,
+    "wof:lastmodified":1566341001,
     "wof:name":"Salzburg-Sued",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.068631419997685,
-    47.781780191520106,
-    13.068631419997685,
-    47.781780191520106
+    13.06863141999768,
+    47.78178019152011,
+    13.06863141999768,
+    47.78178019152011
 ],
   "geometry": {"coordinates":[13.06863141999768,47.78178019152011],"type":"Point"}
 }

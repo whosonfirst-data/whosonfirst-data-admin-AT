@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"ab1f165c8da4dc5dd0fc7d97c399d635",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4685caba2fac9347996bc001cb044c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444832351,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832351,
-    "wof:lastmodified":1566333181,
+    "wof:lastmodified":1566341012,
     "wof:name":"Itzling",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.042538877572293,
+    13.04253887757229,
     47.82328923754545,
-    13.042538877572293,
+    13.04253887757229,
     47.82328923754545
 ],
   "geometry": {"coordinates":[13.04253887757229,47.82328923754545],"type":"Point"}

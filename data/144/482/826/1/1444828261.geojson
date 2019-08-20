@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"475a66c12c731b087721693ddc05f496",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6de86c604e813f8963d346162deccc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444828261,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828261,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336698,
     "wof:name":"Wolfsgartenfeld",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.073250500414941,
+    13.07325050041494,
     47.80549024945058,
-    13.073250500414941,
+    13.07325050041494,
     47.80549024945058
 ],
   "geometry": {"coordinates":[13.07325050041494,47.80549024945058],"type":"Point"}

@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"b12d42f87c759474d538681ba9f6a96b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df7100d7ba8ee1f8ccb859d3c0f142f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444828161,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444828161,
-    "wof:lastmodified":1566333178,
+    "wof:lastmodified":1566336685,
     "wof:name":"Goethesiedlung",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.041507434821773,
-    47.825980133396655,
-    13.041507434821773,
-    47.825980133396655
+    13.04150743482177,
+    47.82598013339665,
+    13.04150743482177,
+    47.82598013339665
 ],
   "geometry": {"coordinates":[13.04150743482177,47.82598013339665],"type":"Point"}
 }

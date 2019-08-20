@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"a9ffdcad9100727ba5dfcf5ed9c7e4c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"663c9025258e28573abebca5a78e1f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831813,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831813,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340949,
     "wof:name":"Thondorf",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.471591279821496,
-    47.017949338839735,
-    15.471591279821496,
-    47.017949338839735
+    15.4715912798215,
+    47.01794933883973,
+    15.4715912798215,
+    47.01794933883973
 ],
   "geometry": {"coordinates":[15.4715912798215,47.01794933883973],"type":"Point"}
 }

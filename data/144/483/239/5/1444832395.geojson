@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"062d150b38fc9c48d5bd52f79f394125",
-    "wof:hierarchy":[],
+    "wof:geomhash":"939a236e22bc5f44ec8cb5bd136e3ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444832395,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832395,
-    "wof:lastmodified":1566333181,
+    "wof:lastmodified":1566341017,
     "wof:name":"Salzachsee",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.015015822952526,
+    13.01501582295253,
     47.83427589336299,
-    13.015015822952526,
+    13.01501582295253,
     47.83427589336299
 ],
   "geometry": {"coordinates":[13.01501582295253,47.83427589336299],"type":"Point"}

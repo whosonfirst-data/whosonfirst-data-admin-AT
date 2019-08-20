@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"76dbd2425a1f8b6470f776da43255ab8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb560f3ecb35498758b74a485cc9354e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444832061,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444832061,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340975,
     "wof:name":"Kroisbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.460658782813667,
+    15.46065878281367,
     47.09087826142386,
-    15.460658782813667,
+    15.46065878281367,
     47.09087826142386
 ],
   "geometry": {"coordinates":[15.46065878281367,47.09087826142386],"type":"Point"}

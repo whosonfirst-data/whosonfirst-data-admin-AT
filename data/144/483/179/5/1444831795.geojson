@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"0fc00d7d09e68a94245071ffb1d00824",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8daf24564cd3692763ded4cff986b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831795,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831795,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340945,
     "wof:name":"Ragnitz",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.492361103107227,
+    15.49236110310723,
     47.080833014223,
-    15.492361103107227,
+    15.49236110310723,
     47.080833014223
 ],
   "geometry": {"coordinates":[15.49236110310723,47.080833014223],"type":"Point"}

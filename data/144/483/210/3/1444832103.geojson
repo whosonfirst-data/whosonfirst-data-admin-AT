@@ -29,13 +29,29 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"7d3b536e3829117bd2a783d055a9f2e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4f2069c63b4f5e99e1c6882b07789fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":1444832103,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444832103,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340980,
     "wof:name":"Wenisbuch",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.478050166714372,
+    15.47805016671437,
     47.11775770661954,
-    15.478050166714372,
+    15.47805016671437,
     47.11775770661954
 ],
   "geometry": {"coordinates":[15.47805016671437,47.11775770661954],"type":"Point"}

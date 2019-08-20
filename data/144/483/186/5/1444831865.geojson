@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"a11250474a973732222aa0471b3e2ee6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31a2e1ad6c08684f12535c8d24e36014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831865,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831865,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340955,
     "wof:name":"Krottendorf",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.396923313404828,
+    15.39692331340483,
     47.04885654694899,
-    15.396923313404828,
+    15.39692331340483,
     47.04885654694899
 ],
   "geometry": {"coordinates":[15.39692331340483,47.04885654694899],"type":"Point"}

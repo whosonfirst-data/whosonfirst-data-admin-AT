@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"ad3c347be56cfc5211b0db01a975af5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27afd4529bc64e834f679dc7a54df7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444832193,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444832193,
-    "wof:lastmodified":1566333180,
+    "wof:lastmodified":1566340991,
     "wof:name":"Maxglan",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.017705185877947,
+    13.01770518587795,
     47.80261573504584,
-    13.017705185877947,
+    13.01770518587795,
     47.80261573504584
 ],
   "geometry": {"coordinates":[13.01770518587795,47.80261573504584],"type":"Point"}

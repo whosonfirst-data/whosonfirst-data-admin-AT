@@ -32,15 +32,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"71f7ef488cab9583b56961eeb5ca77f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb926a0535dde9663741fbd4f3a69a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831621,
+            "region_id":85681687
+        }
+    ],
     "wof:id":1444831621,
-    "wof:lastmodified":1566333179,
+    "wof:lastmodified":1566340928,
     "wof:name":"Sankt Peter",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -48,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.472555177929983,
-    47.055198929875175,
-    15.472555177929983,
-    47.055198929875175
+    15.47255517792998,
+    47.05519892987517,
+    15.47255517792998,
+    47.05519892987517
 ],
   "geometry": {"coordinates":[15.47255517792998,47.05519892987517],"type":"Point"}
 }

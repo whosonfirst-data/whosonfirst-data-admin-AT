@@ -29,15 +29,32 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"3e742a7189ce381f84263f4232ae68b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c38a08d19ede82ae03a8c2e71cd8b2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827759,
+            "region_id":85681681
+        }
+    ],
     "wof:id":1444827759,
-    "wof:lastmodified":1566333177,
+    "wof:lastmodified":1566336632,
     "wof:name":"Leopoldskroner Weiher",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
@@ -45,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.039104174335236,
+    13.03910417433524,
     47.78911558704414,
-    13.039104174335236,
+    13.03910417433524,
     47.78911558704414
 ],
   "geometry": {"coordinates":[13.03910417433524,47.78911558704414],"type":"Point"}
