@@ -1,0 +1,71 @@
+{
+  "id": 1444832061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4606587828,47.0908782614,15.4606587828,47.0908782614",
+    "geom:latitude":47.090878,
+    "geom:longitude":15.460659,
+    "iso:country":"AT",
+    "lbl:latitude":47.090878,
+    "lbl:longitude":15.460659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Kroisbach"
+    ],
+    "name:eng_x_preferred":[
+        "Kroisbach"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"eb560f3ecb35498758b74a485cc9354e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444832061,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1444832061,
+    "wof:lastmodified":1566340975,
+    "wof:name":"Kroisbach",
+    "wof:parent_id":101748063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46065878281367,
+    47.09087826142386,
+    15.46065878281367,
+    47.09087826142386
+],
+  "geometry": {"coordinates":[15.46065878281367,47.09087826142386],"type":"Point"}
+}

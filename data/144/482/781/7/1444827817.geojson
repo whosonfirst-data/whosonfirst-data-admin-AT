@@ -1,0 +1,74 @@
+{
+  "id": 1444827817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0231682685,47.7924024649,13.0231682685,47.7924024649",
+    "geom:latitude":47.792402,
+    "geom:longitude":13.023168,
+    "iso:country":"AT",
+    "lbl:latitude":47.792402,
+    "lbl:longitude":13.023168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Schliesselbergersiedlung"
+    ],
+    "name:deu_x_variant":[
+        "Schliesselberger Siedlung"
+    ],
+    "name:eng_x_preferred":[
+        "Schliesselbergersiedlung"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"436db2a57d8b3ec6369324421c12cb8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827817,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1444827817,
+    "wof:lastmodified":1566336642,
+    "wof:name":"Schliesselbergersiedlung",
+    "wof:parent_id":1175610443,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.02316826848991,
+    47.79240246491311,
+    13.02316826848991,
+    47.79240246491311
+],
+  "geometry": {"coordinates":[13.02316826848991,47.79240246491311],"type":"Point"}
+}

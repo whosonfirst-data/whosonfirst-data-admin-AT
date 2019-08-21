@@ -1,0 +1,71 @@
+{
+  "id": 1444827747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0356709451,47.778273183,13.0356709451,47.778273183",
+    "geom:latitude":47.778273,
+    "geom:longitude":13.035671,
+    "iso:country":"AT",
+    "lbl:latitude":47.778273,
+    "lbl:longitude":13.035671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Gneis-Moos"
+    ],
+    "name:eng_x_preferred":[
+        "Gneis-Moos"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"fe07b14dff7cb54ae7ff80a1a8f127c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827747,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1444827747,
+    "wof:lastmodified":1566336631,
+    "wof:name":"Gneis-Moos",
+    "wof:parent_id":1175610443,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03567094506874,
+    47.7782731829644,
+    13.03567094506874,
+    47.7782731829644
+],
+  "geometry": {"coordinates":[13.03567094506874,47.7782731829644],"type":"Point"}
+}

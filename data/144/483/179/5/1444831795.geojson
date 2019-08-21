@@ -1,0 +1,71 @@
+{
+  "id": 1444831795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4923611031,47.0808330142,15.4923611031,47.0808330142",
+    "geom:latitude":47.080833,
+    "geom:longitude":15.492361,
+    "iso:country":"AT",
+    "lbl:latitude":47.080833,
+    "lbl:longitude":15.492361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Ragnitz"
+    ],
+    "name:eng_x_preferred":[
+        "Ragnitz"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"d8daf24564cd3692763ded4cff986b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831795,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1444831795,
+    "wof:lastmodified":1566340945,
+    "wof:name":"Ragnitz",
+    "wof:parent_id":101748063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49236110310723,
+    47.080833014223,
+    15.49236110310723,
+    47.080833014223
+],
+  "geometry": {"coordinates":[15.49236110310723,47.080833014223],"type":"Point"}
+}

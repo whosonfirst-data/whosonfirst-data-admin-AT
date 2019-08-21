@@ -1,0 +1,74 @@
+{
+  "id": 1444831621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4725551779,47.0551989299,15.4725551779,47.0551989299",
+    "geom:latitude":47.055199,
+    "geom:longitude":15.472555,
+    "iso:country":"AT",
+    "lbl:latitude":47.055199,
+    "lbl:longitude":15.472555,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Sankt Peter"
+    ],
+    "name:deu_x_variant":[
+        "St. Peter"
+    ],
+    "name:eng_x_preferred":[
+        "Sankt Peter"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"fb926a0535dde9663741fbd4f3a69a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831621,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1444831621,
+    "wof:lastmodified":1566340928,
+    "wof:name":"Sankt Peter",
+    "wof:parent_id":101748063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47255517792998,
+    47.05519892987517,
+    15.47255517792998,
+    47.05519892987517
+],
+  "geometry": {"coordinates":[15.47255517792998,47.05519892987517],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1444828425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00515812,47.7790422223,13.00515812,47.7790422223",
+    "geom:latitude":47.779042,
+    "geom:longitude":13.005158,
+    "iso:country":"AT",
+    "lbl:latitude":47.779042,
+    "lbl:longitude":13.005158,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Kendlersiedlung"
+    ],
+    "name:eng_x_preferred":[
+        "Kendlersiedlung"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837079,
+        85632785,
+        101754149,
+        102049779
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"451a37691a3f0e78ae0be0ecc411e45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049779,
+            "localadmin_id":1108837079,
+            "locality_id":101754149,
+            "neighbourhood_id":1444828425,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1444828425,
+    "wof:lastmodified":1566336713,
+    "wof:name":"Kendlersiedlung",
+    "wof:parent_id":101754149,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00515811996272,
+    47.77904222230038,
+    13.00515811996272,
+    47.77904222230038
+],
+  "geometry": {"coordinates":[13.00515811996272,47.77904222230038],"type":"Point"}
+}

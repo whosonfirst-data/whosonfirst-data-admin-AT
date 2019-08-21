@@ -1,0 +1,70 @@
+{
+  "id": 1444832095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3725520197,47.1114976471,15.3725520197,47.1114976471",
+    "geom:latitude":47.111498,
+    "geom:longitude":15.372552,
+    "iso:country":"AT",
+    "lbl:latitude":47.111498,
+    "lbl:longitude":15.372552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Raach"
+    ],
+    "name:eng_x_preferred":[
+        "Raach"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"000f935ef4729d2784f7d30774dd637c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":1444832095,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1444832095,
+    "wof:lastmodified":1566340979,
+    "wof:name":"Raach",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37255201974645,
+    47.1114976470962,
+    15.37255201974645,
+    47.1114976470962
+],
+  "geometry": {"coordinates":[15.37255201974645,47.1114976470962],"type":"Point"}
+}

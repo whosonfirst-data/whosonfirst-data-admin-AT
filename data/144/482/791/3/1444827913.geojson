@@ -1,0 +1,71 @@
+{
+  "id": 1444827913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.004814797,47.7991485629,13.004814797,47.7991485629",
+    "geom:latitude":47.799149,
+    "geom:longitude":13.004815,
+    "iso:country":"AT",
+    "lbl:latitude":47.799149,
+    "lbl:longitude":13.004815,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Glanhofen"
+    ],
+    "name:eng_x_preferred":[
+        "Glanhofen"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"6d700a472ca403020c9b1ce7fe410f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444827913,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1444827913,
+    "wof:lastmodified":1566336655,
+    "wof:name":"Glanhofen",
+    "wof:parent_id":1175610443,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00481479703609,
+    47.79914856293976,
+    13.00481479703609,
+    47.79914856293976
+],
+  "geometry": {"coordinates":[13.00481479703609,47.79914856293976],"type":"Point"}
+}

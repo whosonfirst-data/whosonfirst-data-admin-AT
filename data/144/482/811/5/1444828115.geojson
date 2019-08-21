@@ -1,0 +1,71 @@
+{
+  "id": 1444828115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0581299865,47.8176045616,13.0581299865,47.8176045616",
+    "geom:latitude":47.817605,
+    "geom:longitude":13.05813,
+    "iso:country":"AT",
+    "lbl:latitude":47.817605,
+    "lbl:longitude":13.05813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Schallmoos Ost"
+    ],
+    "name:eng_x_preferred":[
+        "Schallmoos Ost"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        1108837189,
+        85632785,
+        1175610443,
+        102049799
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"7eeb15e4df793063d1505e7cda3a11b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049799,
+            "localadmin_id":1108837189,
+            "locality_id":1175610443,
+            "neighbourhood_id":1444828115,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":1444828115,
+    "wof:lastmodified":1566336677,
+    "wof:name":"Schallmoos Ost",
+    "wof:parent_id":1175610443,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0581299865204,
+    47.81760456157767,
+    13.0581299865204,
+    47.81760456157767
+],
+  "geometry": {"coordinates":[13.0581299865204,47.81760456157767],"type":"Point"}
+}

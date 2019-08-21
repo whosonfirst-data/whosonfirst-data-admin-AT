@@ -1,0 +1,71 @@
+{
+  "id": 1444831771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4979671564,47.1138828478,15.4979671564,47.1138828478",
+    "geom:latitude":47.113883,
+    "geom:longitude":15.497967,
+    "iso:country":"AT",
+    "lbl:latitude":47.113883,
+    "lbl:longitude":15.497967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "F\u00f6lling"
+    ],
+    "name:eng_x_preferred":[
+        "Foelling"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"eb911ec69e696bc6a96e6139efca564f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444831771,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1444831771,
+    "wof:lastmodified":1566340944,
+    "wof:name":"Foelling",
+    "wof:parent_id":101748063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49796715639619,
+    47.11388284776526,
+    15.49796715639619,
+    47.11388284776526
+],
+  "geometry": {"coordinates":[15.49796715639619,47.11388284776526],"type":"Point"}
+}

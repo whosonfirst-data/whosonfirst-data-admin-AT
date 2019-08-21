@@ -1,0 +1,70 @@
+{
+  "id": 1444832009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.506868121,47.1053102241,15.506868121,47.1053102241",
+    "geom:latitude":47.10531,
+    "geom:longitude":15.506868,
+    "iso:country":"AT",
+    "lbl:latitude":47.10531,
+    "lbl:longitude":15.506868,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Eckmichl"
+    ],
+    "name:eng_x_preferred":[
+        "Eckmichl"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        1108839329,
+        85632785,
+        102049709,
+        85681687
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"bf9b83d7224aa4e4654797572ffa0b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":-1,
+            "neighbourhood_id":1444832009,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1444832009,
+    "wof:lastmodified":1566340970,
+    "wof:name":"Eckmichl",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50686812102918,
+    47.10531022412214,
+    15.50686812102918,
+    47.10531022412214
+],
+  "geometry": {"coordinates":[15.50686812102918,47.10531022412214],"type":"Point"}
+}

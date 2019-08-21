@@ -1,0 +1,71 @@
+{
+  "id": 1444832123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.433353908,47.1123132743,15.433353908,47.1123132743",
+    "geom:latitude":47.112313,
+    "geom:longitude":15.433354,
+    "iso:country":"AT",
+    "lbl:latitude":47.112313,
+    "lbl:longitude":15.433354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Ober Weizbach"
+    ],
+    "name:eng_x_preferred":[
+        "Ober Weizbach"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"abe9e8fc25effda76b4aee26afdfcded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444832123,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1444832123,
+    "wof:lastmodified":1566340984,
+    "wof:name":"Ober Weizbach",
+    "wof:parent_id":101748063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43335390803049,
+    47.11231327430986,
+    15.43335390803049,
+    47.11231327430986
+],
+  "geometry": {"coordinates":[15.43335390803049,47.11231327430986],"type":"Point"}
+}

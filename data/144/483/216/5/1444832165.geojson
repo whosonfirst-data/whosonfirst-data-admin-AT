@@ -1,0 +1,71 @@
+{
+  "id": 1444832165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4121537173,47.1281506453,15.4121537173,47.1281506453",
+    "geom:latitude":47.128151,
+    "geom:longitude":15.412154,
+    "iso:country":"AT",
+    "lbl:latitude":47.128151,
+    "lbl:longitude":15.412154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Rohrerberg"
+    ],
+    "name:eng_x_preferred":[
+        "Rohrerberg"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85681687,
+        102191581,
+        1108839329,
+        85632785,
+        101748063,
+        102049709
+    ],
+    "wof:breaches":[],
+    "wof:country":"AT",
+    "wof:geomhash":"5ad4e58060cb7d2cf9589e6eee8f954a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049709,
+            "localadmin_id":1108839329,
+            "locality_id":101748063,
+            "neighbourhood_id":1444832165,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":1444832165,
+    "wof:lastmodified":1566340989,
+    "wof:name":"Rohrerberg",
+    "wof:parent_id":101748063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-at",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41215371730985,
+    47.12815064525528,
+    15.41215371730985,
+    47.12815064525528
+],
+  "geometry": {"coordinates":[15.41215371730985,47.12815064525528],"type":"Point"}
+}
