@@ -16,15 +16,17 @@
     "geom:bbox":"15.7474194928,47.4962508132,15.9138612677,47.5763704677",
     "geom:latitude":47.53605,
     "geom:longitude":15.832571,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":771,
-    "gn:population":749,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":771,
     "iso:country":"AT",
     "lbl:latitude":47.532374,
     "lbl:longitude":15.830991,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rettenegg"
     ],
@@ -67,7 +69,7 @@
     "name:swe_x_preferred":[
         "Rettenegg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Frauenwald"
     ],
     "name:uzb_x_preferred":[
@@ -106,7 +108,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675050,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":1108839389,
-    "wof:lastmodified":1564313596,
+    "wof:lastmodified":1566598141,
     "wof:name":"Rettenegg",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

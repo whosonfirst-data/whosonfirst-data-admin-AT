@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.004381,
     "lbl:longitude":13.654382,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.004381,
     "mps:longitude":13.654382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0641\u0648\u06a9\u0644\u0627\u0628\u0631\u0648\u06a9"
     ],
@@ -158,7 +161,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681677,
@@ -172,7 +175,6 @@
         "fct:id":"03251f48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2762343,
         "gp:id":547142,
-        "qs:id":21547,
         "qs_pg:id":21547,
         "wd:id":"Q251325",
         "wk:page":"V\u00f6cklabruck"
@@ -193,7 +195,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245759,
+    "wof:lastmodified":1566599055,
     "wof:name":"V\u00f6cklabruck",
     "wof:parent_id":1108836521,
     "wof:placetype":"locality",

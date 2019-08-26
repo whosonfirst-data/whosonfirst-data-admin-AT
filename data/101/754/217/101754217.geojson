@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.27888,
     "lbl:longitude":14.248305,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.27888,
     "mps:longitude":14.248305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0644\u0626\u0648\u062f\u06cc\u0646\u0642"
     ],
@@ -172,7 +175,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":282,
     "wof:belongsto":[
@@ -186,7 +189,6 @@
     "wof:concordances":{
         "gn:id":2772635,
         "gp:id":545766,
-        "qs:id":141414,
         "qs_pg:id":141414,
         "wd:id":"Q487958",
         "wk:page":"Leonding"
@@ -204,7 +206,7 @@
         }
     ],
     "wof:id":101754217,
-    "wof:lastmodified":1563245611,
+    "wof:lastmodified":1566599010,
     "wof:name":"Leonding",
     "wof:parent_id":1108835543,
     "wof:placetype":"locality",

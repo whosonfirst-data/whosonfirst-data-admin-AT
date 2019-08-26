@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"13.66333,46.68,13.70333,46.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632785
@@ -36,7 +40,7 @@
         "gn:id":2768631
     },
     "wof:country":"AT",
-    "wof:geomhash":"58d803015a442ed43f3aaf6bba8d826d",
+    "wof:geomhash":"9865f47612cd8d7c9dd4bc98c5ce399a",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209013313,
-    "wof:lastmodified":1536300375,
+    "wof:lastmodified":1566597848,
     "wof:name":"Pobersach",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.683329999999998,
+    13.68333,
     46.7,
-    13.683329999999998,
+    13.68333,
     46.7
 ],
   "geometry": {"coordinates":[13.68333,46.7],"type":"Point"}

@@ -9,15 +9,18 @@
     "geom:bbox":"12.8231,47.28494,12.8231,47.28494",
     "geom:latitude":47.28494,
     "geom:longitude":12.8231,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":4649,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
     "gn:population":4649,
     "iso:country":"AT",
+    "lbl:bbox":"12.8031,47.26494,12.8431,47.30494",
     "lbl:latitude":47.28494,
     "lbl:longitude":12.8231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Bruck an der Gro\u00dfglocknerstra\u00dfe"
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0443\u043a-\u0430\u043c-\u0434\u0435\u0440-\u0413\u0440\u043e\u0441\u0433\u043b\u043e\u043a\u043d\u0435\u0440\u0448\u0442\u0440\u0430\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bruck"
     ],
     "name:uzb_x_preferred":[
@@ -121,7 +124,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":547431,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1125916309,
-    "wof:lastmodified":1563246522,
+    "wof:lastmodified":1566599454,
     "wof:name":"Bruck an der Gro\u00dfglocknerstra\u00dfe",
     "wof:parent_id":1108837195,
     "wof:placetype":"locality",

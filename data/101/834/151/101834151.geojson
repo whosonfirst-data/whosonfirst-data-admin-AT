@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.377963,
     "lbl:longitude":16.263164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.377963,
     "mps:longitude":16.263164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Spillern"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         85681671,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":2764797,
         "gp:id":543883,
-        "qs:id":1002028,
         "qs_pg:id":466795,
         "wd:id":"Q876188",
         "wk:page":"Spillern"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1002028
     },
     "wof:country":"AT",
     "wof:geomhash":"28520fad12cdb9b45c3f12c3f3fc7f8b",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101834151,
-    "wof:lastmodified":1563245795,
+    "wof:lastmodified":1566599064,
     "wof:name":"Spillern",
     "wof:parent_id":1108835821,
     "wof:placetype":"locality",

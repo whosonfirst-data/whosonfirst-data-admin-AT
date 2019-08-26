@@ -25,8 +25,12 @@
     "gn:population":87,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"13.15647,46.61353,13.19647,46.65353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -37,7 +41,7 @@
         "gn:id":2770294
     },
     "wof:country":"AT",
-    "wof:geomhash":"b28a7814acde298b478567d681bb966e",
+    "wof:geomhash":"81274e5ab1fd201cb0a790511dfc6317",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209227339,
-    "wof:lastmodified":1536293754,
+    "wof:lastmodified":1566597900,
     "wof:name":"Oberdoebernitzen",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.176470000000002,
+    13.17647,
     46.63353,
-    13.176470000000002,
+    13.17647,
     46.63353
 ],
   "geometry": {"coordinates":[13.17647,46.63353],"type":"Point"}

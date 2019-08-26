@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":48.458797,
     "lbl:longitude":14.820267,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Unterweissenbach"
     ],
@@ -82,7 +85,7 @@
         "\u4e0b\u9b4f\u68ee\u5df4\u8d6b"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108835105,
-    "wof:lastmodified":1564313997,
+    "wof:lastmodified":1566598374,
     "wof:name":"Unterwei\u00dfenbach",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",

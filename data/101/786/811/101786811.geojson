@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.722266,
     "lbl:longitude":14.32708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.722266,
     "mps:longitude":14.32708,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Windischgarsten"
     ],
@@ -190,7 +193,7 @@
     "name:tur_x_preferred":[
         "Windischgarsten"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Garsten"
     ],
     "name:uzb_x_preferred":[
@@ -234,7 +237,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":762,
     "wof:belongsto":[
         85681677,
@@ -247,7 +250,6 @@
     "wof:concordances":{
         "gn:id":2761096,
         "gp:id":547316,
-        "qs:id":38149,
         "qs_pg:id":38149,
         "wd:id":"Q681099",
         "wk:page":"Windischgarsten"
@@ -265,7 +267,7 @@
         }
     ],
     "wof:id":101786811,
-    "wof:lastmodified":1563246078,
+    "wof:lastmodified":1566599143,
     "wof:name":"Windischgarsten",
     "wof:parent_id":1108835515,
     "wof:placetype":"locality",

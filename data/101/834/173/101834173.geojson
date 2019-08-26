@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.764525,
     "lbl:longitude":15.555844,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.764525,
     "mps:longitude":15.555844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wagna"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         85681687,
@@ -113,7 +116,6 @@
         "fct:id":"0326776c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2762109,
         "gp:id":550247,
-        "qs:id":303594,
         "qs_pg:id":303594,
         "wd:id":"Q693460",
         "wk:page":"Wagna"
@@ -134,7 +136,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245809,
+    "wof:lastmodified":1566599068,
     "wof:name":"Wagna",
     "wof:parent_id":1108839021,
     "wof:placetype":"locality",

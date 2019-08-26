@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000534,
-    "geom:area_square_m":2886005.464915,
+    "geom:area_square_m":4407278.434118,
     "geom:bbox":"16.5975898426,48.0731018728,16.6275003116,48.1240633173",
     "geom:latitude":48.100243,
     "geom:longitude":16.61102,
@@ -13,11 +13,14 @@
     "iso:country":"AT",
     "lbl:latitude":48.113945,
     "lbl:longitude":16.61535,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.113945,
     "mps:longitude":16.61535,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Fischamend Markt in Wien"
     ],
     "qs:a0":"\u00d6sterreich",
@@ -35,7 +38,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681671,
@@ -49,7 +52,7 @@
     "wof:concordances":{
         "gn:id":2779549,
         "gp:id":541604,
-        "qs:id":860291
+        "qs_pg:id":860291
     },
     "wof:country":"AT",
     "wof:geomhash":"5ed869799f30e4449d0fe5a9cb118fb2",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1175610431,
-    "wof:lastmodified":1534985832,
+    "wof:lastmodified":1566598801,
     "wof:name":"Fischamend-Markt",
     "wof:parent_id":1108836773,
     "wof:placetype":"locality",

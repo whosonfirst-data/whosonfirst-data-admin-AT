@@ -9,14 +9,18 @@
     "geom:bbox":"12.25139,47.52943,12.25139,47.52943",
     "geom:latitude":47.52943,
     "geom:longitude":12.25139,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"12.23139,47.50943,12.27139,47.54943",
     "lbl:latitude":47.52943,
     "lbl:longitude":12.25139,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Scheffau am Wilden Kaiser"
@@ -81,9 +85,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0444\u0444\u0430\u0443-\u0430\u043c-\u0412\u0456\u043b\u044c\u0434\u0435\u043d-\u041a\u0430\u0439\u0437\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Scheffau"
-    ],
     "name:uzb_x_preferred":[
         "Scheffau am Wilden Kaiser"
     ],
@@ -108,7 +109,7 @@
     "qs_pg:qs_id":373491,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         85681661,
         102191581,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1125882721,
-    "wof:lastmodified":1563246406,
+    "wof:lastmodified":1566599323,
     "wof:name":"Scheffau am Wilden Kaiser",
     "wof:parent_id":1108837263,
     "wof:placetype":"locality",

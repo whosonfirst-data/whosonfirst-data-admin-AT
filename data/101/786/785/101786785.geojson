@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.842396,
     "lbl:longitude":13.237306,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.842396,
     "mps:longitude":13.237306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Thalgau"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
     "wof:concordances":{
         "gn:id":2763749,
         "gp:id":547916,
-        "qs:id":470649,
         "qs_pg:id":470649,
         "wd:id":"Q688579",
         "wk:page":"Thalgau"
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":101786785,
-    "wof:lastmodified":1563246083,
+    "wof:lastmodified":1566599145,
     "wof:name":"Thalgau",
     "wof:parent_id":1108837187,
     "wof:placetype":"locality",

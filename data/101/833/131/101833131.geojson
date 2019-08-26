@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.900573,
     "lbl:longitude":13.759975,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.900573,
     "mps:longitude":13.759975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Oidm\u00fcnsta"
     ],
@@ -89,7 +92,7 @@
     "name:swe_x_preferred":[
         "Altm\u00fcnster"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Altmuenster"
     ],
     "name:uzb_x_preferred":[
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":2782627,
         "gp:id":544639,
-        "qs:id":472150,
         "qs_pg:id":472150,
         "wd:id":"Q443039",
         "wk:page":"Altm\u00fcnster"
@@ -156,7 +158,7 @@
         }
     ],
     "wof:id":101833131,
-    "wof:lastmodified":1563245760,
+    "wof:lastmodified":1566599055,
     "wof:name":"Altm\u00fcnster",
     "wof:parent_id":1108835121,
     "wof:placetype":"locality",

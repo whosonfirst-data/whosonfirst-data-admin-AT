@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.440528,
     "lbl:longitude":16.067994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.440528,
     "mps:longitude":16.067994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pinggau"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         85681687,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2768813,
         "gp:id":549512,
-        "qs:id":1060420,
         "qs_pg:id":1060420,
         "wd:id":"Q673002",
         "wk:page":"Pinggau"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101834279,
-    "wof:lastmodified":1563245818,
+    "wof:lastmodified":1566599071,
     "wof:name":"Pinggau",
     "wof:parent_id":1108839109,
     "wof:placetype":"locality",

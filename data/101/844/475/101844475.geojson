@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.254247,
     "lbl:longitude":10.881205,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.254247,
     "mps:longitude":10.881205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Haiming"
     ],
@@ -261,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":8,
     "wof:belongsto":[
         85681661,
@@ -275,7 +278,6 @@
         "fct:id":"0326a674-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2777001,
         "gp:id":550672,
-        "qs:id":963846,
         "qs_pg:id":963846,
         "wd:id":"Q696161"
     },
@@ -295,7 +297,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245717,
+    "wof:lastmodified":1566599041,
     "wof:name":"Haiming",
     "wof:parent_id":1108837531,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.08098,
     "lbl:longitude":14.931687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.08098,
     "mps:longitude":14.931687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Euratsfeld"
     ],
@@ -124,7 +127,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":24,
     "wof:belongsto":[
         85681671,
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gn:id":2779879,
         "gp:id":12673969,
-        "qs:id":75546,
+        "qs_pg:id":75546,
         "wd:id":"Q673813",
         "wk:page":"Euratsfeld"
     },
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101779755,
-    "wof:lastmodified":1563246003,
+    "wof:lastmodified":1566599121,
     "wof:name":"Euratsfeld",
     "wof:parent_id":1108835335,
     "wof:placetype":"locality",

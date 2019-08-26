@@ -10,8 +10,10 @@
     "geom:latitude":48.315396,
     "geom:longitude":14.269624,
     "iso:country":"AT",
+    "lbl:bbox":"14.264624,48.310396,14.274624,48.320396",
     "lbl:latitude":48.315396,
     "lbl:longitude":14.269624,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.325907,
     "mps:longitude":14.258739,
     "mz:hierarchy_label":0,
@@ -64,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108834701,
@@ -77,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2762518,
         "gp:id":547116,
-        "qs:id":433616,
         "qs_pg:id":433616,
         "wd:id":"Q1322586"
     },
@@ -98,7 +99,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563243463,
+    "wof:lastmodified":1566597461,
     "wof:name":"Urfahr",
     "wof:parent_id":101748071,
     "wof:placetype":"neighbourhood",

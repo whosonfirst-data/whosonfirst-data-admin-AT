@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":48.065883,
     "lbl:longitude":16.783966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "H\u00f6flein"
     ],
@@ -82,7 +85,7 @@
         "\u8d6b\u592b\u83b1\u56e0"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108835879,
-    "wof:lastmodified":1564314136,
+    "wof:lastmodified":1566598454,
     "wof:name":"H\u00f6flein",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

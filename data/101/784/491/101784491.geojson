@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.053999,
     "lbl:longitude":16.207828,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.053999,
     "mps:longitude":16.207828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Gaaden"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85681671,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":2779075,
         "gp:id":541678,
-        "qs:id":987676,
         "qs_pg:id":54228,
         "wd:id":"Q669960",
         "wk:page":"Gaaden"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":987676
     },
     "wof:country":"AT",
     "wof:geomhash":"e0cf351dbcc597b735d993ab8fb64ad8",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101784491,
-    "wof:lastmodified":1563245974,
+    "wof:lastmodified":1566599115,
     "wof:name":"Gaaden",
     "wof:parent_id":1108834943,
     "wof:placetype":"locality",

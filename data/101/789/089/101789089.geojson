@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.185306,
     "lbl:longitude":14.809783,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.185306,
     "mps:longitude":14.809783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u0633\u0644\u0648\u0628\u0645\u064a\u0646\u063a"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0431\u043c\u0456\u043d\u0433\u0442\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grosslobming"
     ],
     "name:uzb_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         85681687,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":2777649,
         "gp:id":548568,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q690970",
         "wk:page":"Gro\u00dflobming"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101789089,
-    "wof:lastmodified":1563246165,
+    "wof:lastmodified":1566599168,
     "wof:name":"Gro\u00dflobming",
     "wof:parent_id":1108839397,
     "wof:placetype":"locality",

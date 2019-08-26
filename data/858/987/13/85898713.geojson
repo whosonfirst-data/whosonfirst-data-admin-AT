@@ -13,6 +13,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.197879,
     "lbl:longitude":16.250207,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.196041,
     "mps:longitude":16.250544,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
-        "Nikolaitor"
-    ],
-    "name:unk_x_variant":[
         "Nikolaitor"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":551775,
-        "qs:id":1120269,
         "qs_pg:id":1120269
     },
     "wof:country":"AT",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237691,
+    "wof:lastmodified":1566597473,
     "wof:name":"Nikolaitor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

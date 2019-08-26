@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.281278,
     "lbl:longitude":11.50101,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.281278,
     "mps:longitude":11.50101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u0644 \u0627\u06cc\u0646 \u062a\u06cc\u0631\u0648\u0644"
     ],
@@ -147,9 +150,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u043b\u044c-\u0456\u043d-\u0422\u0456\u0440\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Solbad Hall in Tirol"
-    ],
     "name:uzb_x_preferred":[
         "Hall in Tirol"
     ],
@@ -185,7 +185,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":552,
     "wof:belongsto":[
@@ -200,7 +200,6 @@
         "fct:id":"0326df72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2764958,
         "gp:id":551231,
-        "qs:id":976253,
         "qs_pg:id":976253,
         "wd:id":"Q302745",
         "wk:page":"Hall in Tirol"
@@ -221,7 +220,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245719,
+    "wof:lastmodified":1566599041,
     "wof:name":"Hall in Tirol",
     "wof:parent_id":1108837615,
     "wof:placetype":"locality",

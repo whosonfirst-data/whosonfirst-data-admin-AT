@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.199097,
     "lbl:longitude":9.765999,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.199097,
     "mps:longitude":9.765999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Th\u00fcringen"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":6813,
     "wof:belongsto":[
         85681649,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":2763658,
         "gp:id":12675681,
-        "qs:id":1187802,
+        "qs_pg:id":1187802,
         "wd:id":"Q692961"
     },
     "wof:country":"AT",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101827445,
-    "wof:lastmodified":1563245654,
+    "wof:lastmodified":1566599022,
     "wof:name":"Th\u00fcringen",
     "wof:parent_id":1108838073,
     "wof:placetype":"locality",

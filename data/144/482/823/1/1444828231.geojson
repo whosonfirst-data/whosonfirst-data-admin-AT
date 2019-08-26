@@ -10,8 +10,10 @@
     "geom:latitude":47.80157,
     "geom:longitude":13.064267,
     "iso:country":"AT",
+    "lbl:bbox":"13.0592668838,47.7965700255,13.0692668838,47.8065700255",
     "lbl:latitude":47.80157,
     "lbl:longitude":13.064267,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681681,
         102191581,
         1108837189,
         85632785,
         1175610443,
-        102049799
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444828231,
-    "wof:lastmodified":1566336694,
+    "wof:lastmodified":1566597992,
     "wof:name":"Inneres Parsch",
     "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",

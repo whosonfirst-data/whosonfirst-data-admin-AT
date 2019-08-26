@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.5456,
     "lbl:longitude":16.450425,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.5456,
     "mps:longitude":16.450425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Neitoi"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85681651,
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gn:id":2770649,
         "gp:id":12673478,
-        "qs:id":52744,
+        "qs_pg:id":52744,
         "wd:id":"Q252101",
         "wk:page":"Neutal"
     },
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101786721,
-    "wof:lastmodified":1563246098,
+    "wof:lastmodified":1566599149,
     "wof:name":"Neutal",
     "wof:parent_id":1108838431,
     "wof:placetype":"locality",

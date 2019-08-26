@@ -10,8 +10,10 @@
     "geom:latitude":48.158061,
     "geom:longitude":16.353818,
     "iso:country":"AT",
+    "lbl:bbox":"16.348817578,48.1530607363,16.358817578,48.1630607363",
     "lbl:latitude":48.158061,
     "lbl:longitude":16.353818,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,7 +24,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
     "src:geom":"mz",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108938223,
-    "wof:lastmodified":1534803977,
+    "wof:lastmodified":1566598127,
     "wof:name":"Inzersdorf-Stadt",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

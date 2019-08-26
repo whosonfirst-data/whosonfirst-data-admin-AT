@@ -16,15 +16,17 @@
     "geom:bbox":"16.6651934255,47.8955883418,16.8041804552,47.973808772",
     "geom:latitude":47.937358,
     "geom:longitude":16.734879,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1793,
-    "gn:population":1938,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":1793,
     "iso:country":"AT",
     "lbl:latitude":47.94016,
     "lbl:longitude":16.734857,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Breitenbrunn"
     ],
@@ -70,7 +72,7 @@
     "name:swe_x_preferred":[
         "Breitenbrunn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Breitenbrunn am Neusiedler See"
     ],
     "name:vol_x_preferred":[
@@ -97,7 +99,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12673389,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1108838521,
-    "wof:lastmodified":1564314528,
+    "wof:lastmodified":1566598694,
     "wof:name":"Breitenbrunn",
     "wof:parent_id":102049811,
     "wof:placetype":"localadmin",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.976617,
     "lbl:longitude":14.98296,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.976617,
     "mps:longitude":14.98296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pack"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":235,
     "wof:belongsto":[
         85681687,
@@ -97,9 +100,11 @@
     "wof:concordances":{
         "gn:id":2769300,
         "gp:id":549450,
-        "qs:id":1187779,
         "qs_pg:id":977197,
         "wd:id":"Q695644"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1187779
     },
     "wof:country":"AT",
     "wof:geomhash":"c7cfdc2b5c087cc8eb57830bd4afd4c3",
@@ -114,7 +119,7 @@
         }
     ],
     "wof:id":101912497,
-    "wof:lastmodified":1563245846,
+    "wof:lastmodified":1566599079,
     "wof:name":"Pack",
     "wof:parent_id":1108838819,
     "wof:placetype":"locality",

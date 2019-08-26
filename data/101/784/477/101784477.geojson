@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":1754908.173702,
+    "geom:area_square_m":1754908.173703,
     "geom:bbox":"14.7033355316,48.1568410775,14.722532694,48.1750241118",
     "geom:latitude":48.166549,
     "geom:longitude":14.712851,
     "iso:country":"AT",
     "lbl:latitude":48.167427,
     "lbl:longitude":14.712668,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.167427,
     "mps:longitude":14.712668,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
     "qs:a1r":"0",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":2761945,
         "gp:id":544258,
-        "qs:id":246701,
         "qs_pg:id":246701
     },
     "wof:country":"AT",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101784477,
-    "wof:lastmodified":1497300359,
+    "wof:lastmodified":1566599114,
     "wof:name":"Wallsee",
     "wof:parent_id":1108835323,
     "wof:placetype":"locality",

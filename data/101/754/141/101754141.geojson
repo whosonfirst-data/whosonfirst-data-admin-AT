@@ -12,9 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.971684,
     "lbl:longitude":15.393125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.971684,
     "mps:longitude":15.393125,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Steiermark",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681687,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2769817,
         "gp:id":550184,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"AT",
     "wof:geomhash":"03675601988bad792cf6d5468d261789",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101754141,
-    "wof:lastmodified":1496619739,
+    "wof:lastmodified":1566599017,
     "wof:name":"Oberpremst\u00e4tten",
     "wof:parent_id":1108839145,
     "wof:placetype":"locality",

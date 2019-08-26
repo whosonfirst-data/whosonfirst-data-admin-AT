@@ -16,15 +16,17 @@
     "geom:bbox":"15.8292623008,48.3553796951,15.9546175077,48.4643232632",
     "geom:latitude":48.414632,
     "geom:longitude":15.886921,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3400,
-    "gn:population":3633,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":3400,
     "iso:country":"AT",
     "lbl:latitude":48.413972,
     "lbl:longitude":15.887889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kirchberg am Wagram"
     ],
@@ -76,7 +78,7 @@
     "name:swe_x_preferred":[
         "Kirchberg am Wagram"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirchberg"
     ],
     "name:uzb_x_preferred":[
@@ -115,7 +117,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12673720,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1108836599,
-    "wof:lastmodified":1564313960,
+    "wof:lastmodified":1566598353,
     "wof:name":"Kirchberg am Wagram",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",

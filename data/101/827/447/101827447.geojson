@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.074671,
     "lbl:longitude":9.905872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.074671,
     "mps:longitude":9.905872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Tschagguns"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         85681649,
@@ -121,9 +124,11 @@
     "wof:concordances":{
         "gn:id":2763302,
         "gp:id":551703,
-        "qs:id":38512,
-        "qs_pg:id":1153600,
+        "qs_pg:id":38512,
         "wd:id":"Q478260"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1153600
     },
     "wof:country":"AT",
     "wof:geomhash":"b7a5a8938a86f55175b8178ea7ee408e",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101827447,
-    "wof:lastmodified":1563245641,
+    "wof:lastmodified":1566599019,
     "wof:name":"Tschagguns",
     "wof:parent_id":1108838077,
     "wof:placetype":"locality",

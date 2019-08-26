@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.666196,
     "lbl:longitude":16.628957,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.666196,
     "mps:longitude":16.628957,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Poysdorf"
     ],
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -136,10 +139,12 @@
     "wof:concordances":{
         "gn:id":2768185,
         "gp:id":543353,
-        "qs:id":141410,
-        "qs_pg:id":224863,
+        "qs_pg:id":141410,
         "wd:id":"Q661260",
         "wk:page":"Poysdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":224863
     },
     "wof:country":"AT",
     "wof:geomhash":"29fd9f67a424e4aa6f8219b6f7ada1c8",
@@ -154,7 +159,7 @@
         }
     ],
     "wof:id":101782241,
-    "wof:lastmodified":1563245917,
+    "wof:lastmodified":1566599099,
     "wof:name":"Poysdorf",
     "wof:parent_id":1108835357,
     "wof:placetype":"locality",

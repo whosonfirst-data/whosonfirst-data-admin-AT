@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.204591,
     "lbl:longitude":16.258061,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.208201,
     "mps:longitude":16.260473,
     "mz:hierarchy_label":1,
@@ -61,10 +62,6 @@
     "name:slk_x_preferred":[
         "H\u00fctteldorf"
     ],
-    "name:unk_x_variant":[
-        "H\u00fctteldorf",
-        "H\u00fctteldorf"
-    ],
     "name:zho_x_preferred":[
         "\u8a31\u7279\u723e\u591a\u592b"
     ],
@@ -111,7 +108,6 @@
     "wof:concordances":{
         "gn:id":2775371,
         "gp:id":551757,
-        "qs:id":901637,
         "qs_pg:id":901637,
         "wd:id":"Q1423660",
         "wk:page":"H\u00fctteldorf"
@@ -133,7 +129,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237685,
+    "wof:lastmodified":1566597476,
     "wof:name":"Huetteldorf",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

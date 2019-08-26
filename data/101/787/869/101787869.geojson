@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.350125,
     "lbl:longitude":13.201271,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.350125,
     "mps:longitude":13.201271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0632\u0627\u0646\u06a9\u062a \u06cc\u0648\u0647\u0627\u0646 \u0627\u06cc\u0645 \u067e\u0648\u0646\u0642\u0627\u0626\u0648"
     ],
@@ -120,7 +123,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0419\u043e\u0433\u0430\u043d\u043d-\u0456\u043c-\u041f\u043e\u043d\u0433\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "St. John\u2019s im Pougau"
     ],
     "name:uzb_x_preferred":[
@@ -158,7 +161,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681681,
@@ -172,7 +175,6 @@
         "gn:id":2766643,
         "gp:id":547835,
         "loc:id":"n88201582",
-        "qs:id":1079021,
         "qs_pg:id":1079021,
         "wd:id":"Q251022",
         "wk:page":"St Johann im Pongau"
@@ -190,7 +192,7 @@
         }
     ],
     "wof:id":101787869,
-    "wof:lastmodified":1563246115,
+    "wof:lastmodified":1566599154,
     "wof:name":"Sankt Johann im Pongau",
     "wof:parent_id":1108837027,
     "wof:placetype":"locality",

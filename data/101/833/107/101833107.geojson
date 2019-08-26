@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.940673,
     "lbl:longitude":12.944506,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.940673,
     "mps:longitude":12.944506,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Owandorf ba Soizburg"
     ],
@@ -91,9 +94,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0431\u0430\u0439-\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Oberndorf"
-    ],
     "name:uzb_x_preferred":[
         "Oberndorf bei Salzburg"
     ],
@@ -124,7 +124,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":250,
     "wof:belongsto":[
         85681681,
@@ -137,7 +137,7 @@
     "wof:concordances":{
         "gn:id":2769874,
         "gp:id":12674716,
-        "qs:id":1316997,
+        "qs_pg:id":1316997,
         "wd:id":"Q255524",
         "wk:page":"Oberndorf bei Salzburg"
     },
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":101833107,
-    "wof:lastmodified":1563245761,
+    "wof:lastmodified":1566599055,
     "wof:name":"Oberndorf bei Salzburg",
     "wof:parent_id":1108837167,
     "wof:placetype":"locality",

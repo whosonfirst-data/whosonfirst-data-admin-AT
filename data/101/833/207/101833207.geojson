@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.09572,
     "lbl:longitude":13.896169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.09572,
     "mps:longitude":13.896169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Lambach"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         85681677,
@@ -141,7 +144,6 @@
         "fct:id":"0324856a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2773110,
         "gp:id":545723,
-        "qs:id":910306,
         "qs_pg:id":910306,
         "wd:id":"Q686750",
         "wk:page":"Lambach"
@@ -162,7 +164,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245773,
+    "wof:lastmodified":1566599058,
     "wof:name":"Lambach",
     "wof:parent_id":1108836547,
     "wof:placetype":"locality",

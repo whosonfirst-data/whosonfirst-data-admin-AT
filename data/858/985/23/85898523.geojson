@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000357,
-    "geom:area_square_m":2969138.946506,
+    "geom:area_square_m":2969138.946507,
     "geom:bbox":"13.0094237746,47.7652963947,13.0324430616,47.7873255378",
     "geom:latitude":47.776527,
     "geom:longitude":13.021288,
     "iso:country":"AT",
     "lbl:latitude":47.779907,
     "lbl:longitude":13.022515,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.77667,
     "mps:longitude":13.021507,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:deu_x_preferred":[
-        "Untermoos"
-    ],
-    "name:unk_x_variant":[
         "Untermoos"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837079,
@@ -70,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2762767,
         "gp:id":547940,
-        "qs:id":982861,
         "qs_pg:id":982861
     },
     "wof:country":"AT",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1497314795,
+    "wof:lastmodified":1566597467,
     "wof:name":"Untermoos",
     "wof:parent_id":101748065,
     "wof:placetype":"neighbourhood",

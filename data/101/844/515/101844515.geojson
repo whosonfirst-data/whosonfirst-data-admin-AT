@@ -12,9 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.416972,
     "lbl:longitude":13.217046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.416972,
     "mps:longitude":13.217046,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Salzburg",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681681,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2771485,
         "gp:id":547713,
-        "qs:id":1220197
+        "qs_pg:id":1220197
     },
     "wof:country":"AT",
     "wof:geomhash":"bee21f7c4c3c079132adc19934b32297",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101844515,
-    "wof:lastmodified":1496614161,
+    "wof:lastmodified":1566599044,
     "wof:name":"Mitterbergh\u00fctten",
     "wof:parent_id":1108836995,
     "wof:placetype":"locality",

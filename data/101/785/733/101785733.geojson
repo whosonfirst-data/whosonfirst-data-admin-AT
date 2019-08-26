@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000157,
-    "geom:area_square_m":1296274.423299,
+    "geom:area_square_m":1296274.423298,
     "geom:bbox":"14.611901071,48.036534732,14.6300355242,48.0536492228",
     "geom:latitude":48.0446,
     "geom:longitude":14.62215,
     "iso:country":"AT",
     "lbl:latitude":48.043868,
     "lbl:longitude":14.622768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.043868,
     "mps:longitude":14.622768,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Sankt Peter"
     ],
     "qs:a0":"\u00d6sterreich",
@@ -33,7 +37,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2766435,
         "gp:id":543661,
-        "qs:id":977158
+        "qs_pg:id":977158
     },
     "wof:country":"AT",
     "wof:geomhash":"68ef2ad5d156419826357db8d68f8922",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101785733,
-    "wof:lastmodified":1501264062,
+    "wof:lastmodified":1566599092,
     "wof:name":"Sankt Peter in der Au-Markt",
     "wof:parent_id":1108835399,
     "wof:placetype":"locality",

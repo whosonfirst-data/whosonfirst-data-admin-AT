@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.347177,
     "lbl:longitude":13.243764,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.345331,
     "mps:longitude":13.244322,
     "mz:hierarchy_label":1,
@@ -384,9 +385,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"7,154",
     "statoids:area_mi":"2,762",
     "statoids:as_of_date":"2011-10-31",
@@ -434,11 +435,10 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1565652198,
+    "wof:lastmodified":1566597430,
     "wof:name":"Salzburg",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":533247,
     "wof:population_rank":11,

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.113083,
     "lbl:longitude":16.366039,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.113083,
     "mps:longitude":16.366039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Hennersdorf"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         85681671,
@@ -133,9 +136,11 @@
     "wof:concordances":{
         "gn:id":2767568,
         "gp:id":542096,
-        "qs:id":8,
-        "qs_pg:id":475716,
+        "qs_pg:id":8,
         "wd:id":"Q666491"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":475716
     },
     "wof:country":"AT",
     "wof:geomhash":"5aee5dab6061b6acad3dc738ef8722d7",
@@ -150,7 +155,7 @@
         }
     ],
     "wof:id":101758511,
-    "wof:lastmodified":1563246030,
+    "wof:lastmodified":1566599128,
     "wof:name":"Hennersdorf",
     "wof:parent_id":1108835875,
     "wof:placetype":"locality",

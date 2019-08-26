@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.776014,
     "lbl:longitude":13.746727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.776014,
     "mps:longitude":13.746727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Feld am See"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_variant":[
         "\u0424\u0435\u043b\u044c\u0434-\u0430\u043c-\u0417\u0435\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Feld"
     ],
     "name:uzb_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":350,
     "wof:belongsto":[
         85681655,
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":2779686,
         "gp:id":539408,
-        "qs:id":231597,
         "qs_pg:id":226850,
         "wd:id":"Q663618",
         "wk:page":"Feld am See"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":231597
     },
     "wof:country":"AT",
     "wof:geomhash":"4fb245fd1c6db7d18bbec470abbe9600",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101911551,
-    "wof:lastmodified":1563246053,
+    "wof:lastmodified":1566599134,
     "wof:name":"Feld am See",
     "wof:parent_id":1108838333,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.53292,
     "lbl:longitude":14.109709,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.53292,
     "mps:longitude":14.109709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stainach"
     ],
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0430\u0439\u043d\u0430\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Steinach"
     ],
     "name:uzb_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         85681687,
@@ -109,10 +112,12 @@
     "wof:concordances":{
         "gn:id":2605074,
         "gp:id":549970,
-        "qs:id":1195755,
         "qs_pg:id":1174736,
         "wd:id":"Q871426",
         "wk:page":"Stainach"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1195755
     },
     "wof:country":"AT",
     "wof:geomhash":"96a6b54ffcd37f86faa421012a42cc59",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":101787983,
-    "wof:lastmodified":1563246117,
+    "wof:lastmodified":1566599154,
     "wof:name":"Stainach",
     "wof:parent_id":1108838891,
     "wof:placetype":"locality",

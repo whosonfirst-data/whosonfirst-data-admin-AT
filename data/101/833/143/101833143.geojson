@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000205,
-    "geom:area_square_m":1703941.99463,
+    "geom:area_square_m":1703941.994629,
     "geom:bbox":"13.7389391736,47.7846738294,13.7708306922,47.801796257",
     "geom:latitude":47.791182,
     "geom:longitude":13.758223,
     "iso:country":"AT",
     "lbl:latitude":47.792201,
     "lbl:longitude":13.762451,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.792201,
     "mps:longitude":13.762451,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Ober\u00f6sterreich",
     "qs:a1r":"0",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681677,
         102191581,
@@ -44,7 +48,9 @@
     "wof:concordances":{
         "gn:id":2767250,
         "gp:id":28995795,
-        "qs:id":3,
+        "qs_pg:id":3
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":905236
     },
     "wof:country":"AT",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":101833143,
-    "wof:lastmodified":1497302244,
+    "wof:lastmodified":1566599054,
     "wof:name":"Roith",
     "wof:parent_id":1108835129,
     "wof:placetype":"locality",

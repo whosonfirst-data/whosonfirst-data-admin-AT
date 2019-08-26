@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6581508.546519,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.412275,47.255797,11.412275,47.255797",
     "geom:latitude":47.255797,
     "geom:longitude":11.412275,
     "gn:id":"",
     "iso:country":"AT",
+    "lbl:bbox":"11.407275,47.250797,11.417275,47.260797",
     "lbl:latitude":47.255797,
     "lbl:longitude":11.412275,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.244009,
     "mps:longitude":11.426111,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:deu_x_preferred":[
-        "Ambras"
-    ],
-    "name:unk_x_variant":[
         "Ambras"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681661,
         102191581,
         1108837687,
         85632785,
         101748061,
-        102049723
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":550425,
-        "qs:id":1059128,
         "qs_pg:id":1059128
     },
     "wof:country":"AT",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932095,
+    "wof:lastmodified":1566597463,
     "wof:name":"Ambras",
     "wof:parent_id":101748061,
     "wof:placetype":"neighbourhood",

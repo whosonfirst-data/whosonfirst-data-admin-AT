@@ -16,14 +16,17 @@
     "geom:bbox":"9.67598776322,47.0522088998,9.76967655621,47.1230391886",
     "geom:latitude":47.086652,
     "geom:longitude":9.722932,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":47.08328,
     "lbl:longitude":9.722931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Handelsmerk"
     ],
@@ -201,7 +204,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675621,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":1108837909,
-    "wof:lastmodified":1564313587,
+    "wof:lastmodified":1566598137,
     "wof:name":"Brand",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

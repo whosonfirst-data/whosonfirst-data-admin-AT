@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13302544.077302,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.083743,47.768629,13.083743,47.768629",
     "geom:latitude":47.768629,
     "geom:longitude":13.083743,
     "iso:country":"AT",
+    "lbl:bbox":"13.078743,47.763629,13.088743,47.773629",
     "lbl:latitude":47.768629,
     "lbl:longitude":13.083743,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.765175,
     "mps:longitude":13.08599,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Glasenbach"
-    ],
-    "name:unk_x_variant":[
         "Glasenbach"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681681,
         102191581,
         1108837129,
         85632785,
         101754163,
-        102049799
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2778514,
         "gp:id":547521,
-        "qs:id":303406,
         "qs_pg:id":303406
     },
     "wof:country":"AT",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932070,
+    "wof:lastmodified":1566597462,
     "wof:name":"Glasenbach",
     "wof:parent_id":101754163,
     "wof:placetype":"neighbourhood",

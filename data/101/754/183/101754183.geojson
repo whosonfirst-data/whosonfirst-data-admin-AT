@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.091828,
     "lbl:longitude":16.256807,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.091828,
     "mps:longitude":16.256807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Hintabr\u00fch"
     ],
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":625,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
     "wof:concordances":{
         "gn:id":2776358,
         "gp:id":542123,
-        "qs:id":1076457,
         "qs_pg:id":1076457,
         "wd:id":"Q664735",
         "wk:page":"Hinterbr\u00fchl"
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101754183,
-    "wof:lastmodified":1563245633,
+    "wof:lastmodified":1566599017,
     "wof:name":"Hinterbr\u00fchl",
     "wof:parent_id":1108836619,
     "wof:placetype":"locality",

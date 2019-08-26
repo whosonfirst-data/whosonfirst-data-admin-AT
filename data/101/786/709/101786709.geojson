@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.969215,
     "lbl:longitude":13.100892,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.969215,
     "mps:longitude":13.100892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mattsee"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":181,
     "wof:belongsto":[
         85681681,
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":2771811,
         "gp:id":547698,
-        "qs:id":1079014,
         "qs_pg:id":1079014,
         "wd:id":"Q877052",
         "wk:page":"Mattsee"
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101786709,
-    "wof:lastmodified":1563246075,
+    "wof:lastmodified":1566599142,
     "wof:name":"Mattsee",
     "wof:parent_id":1108837159,
     "wof:placetype":"locality",

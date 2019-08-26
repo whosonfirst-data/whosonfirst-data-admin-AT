@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.962584,
     "lbl:longitude":14.770688,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.962584,
     "mps:longitude":14.770688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bar_x_preferred":[
         "Waidhofen an der Ybbs"
     ],
@@ -136,9 +139,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0439\u0434\u0445\u043e\u0444\u0435\u043d-\u0430\u043d-\u0434\u0435\u0440-\u0406\u0431\u0441"
     ],
-    "name:unk_x_variant":[
-        "Stadt Waidhofen an der Ybbs"
-    ],
     "name:uzb_x_preferred":[
         "Waidhofen an der Ybbs"
     ],
@@ -171,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681671,
@@ -185,7 +185,6 @@
         "fct:id":"0323d426-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2762077,
         "gp:id":544237,
-        "qs:id":968141,
         "qs_pg:id":968141,
         "wd:id":"Q427385",
         "wk:page":"Waidhofen an der Ybbs"
@@ -206,7 +205,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245786,
+    "wof:lastmodified":1566599061,
     "wof:name":"Waidhofen an der Ybbs",
     "wof:parent_id":1108835029,
     "wof:placetype":"locality",

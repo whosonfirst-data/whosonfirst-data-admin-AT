@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.361322,
     "lbl:longitude":12.802907,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.361322,
     "mps:longitude":12.802907,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Moashofn"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u0441\u0433\u043e\u0444\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maierhof"
     ],
     "name:uzb_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85681681,
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":2772070,
         "gp:id":547692,
-        "qs:id":1016756,
         "qs_pg:id":475810,
         "wd:id":"Q700432",
         "wk:page":"Maishofen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1016756
     },
     "wof:country":"AT",
     "wof:geomhash":"98b8a7462418b852484b23fd26e20790",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101787925,
-    "wof:lastmodified":1563246122,
+    "wof:lastmodified":1566599155,
     "wof:name":"Maishofen",
     "wof:parent_id":1108837217,
     "wof:placetype":"locality",

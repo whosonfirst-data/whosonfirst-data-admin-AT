@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.220467,
     "lbl:longitude":16.213112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.220467,
     "mps:longitude":16.213112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oberdorf im Burgenland"
     ],
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0435\u0440\u0434\u043e\u0440\u0444-\u0456\u043c-\u0411\u0443\u0440\u0433\u0435\u043d\u043b\u0430\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oberdorf"
     ],
     "name:uzb_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         85681651,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":2770269,
         "gp:id":12673480,
-        "qs:id":1292969,
+        "qs_pg:id":1292969,
         "wd:id":"Q661009",
         "wk:page":"Oberdorf im Burgenland"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101787887,
-    "wof:lastmodified":1563246109,
+    "wof:lastmodified":1566599152,
     "wof:name":"Oberdorf im Burgenland",
     "wof:parent_id":1108838401,
     "wof:placetype":"locality",

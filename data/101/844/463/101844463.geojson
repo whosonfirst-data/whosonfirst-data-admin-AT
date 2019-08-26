@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.077772,
     "lbl:longitude":10.458447,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.077772,
     "mps:longitude":10.458447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "See"
     ],
@@ -82,9 +85,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435"
     ],
-    "name:unk_x_variant":[
-        "Messnerhaus"
-    ],
     "name:vol_x_preferred":[
         "See"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         85681661,
@@ -126,7 +126,6 @@
         "fct:id":"0326de0a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2765331,
         "gp:id":551217,
-        "qs:id":1220721,
         "qs_pg:id":1220721,
         "wd:id":"Q694226",
         "wk:page":"See, Tyrol"
@@ -147,7 +146,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245698,
+    "wof:lastmodified":1566599035,
     "wof:name":"See",
     "wof:parent_id":1108837329,
     "wof:placetype":"locality",

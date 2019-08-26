@@ -10,12 +10,16 @@
     "geom:latitude":48.184053,
     "geom:longitude":15.996344,
     "iso:country":"AT",
+    "lbl:bbox":"15.976344,48.164053,16.016344,48.204053",
     "lbl:latitude":48.184053,
     "lbl:longitude":15.996344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.184053,
     "mps:longitude":15.996344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "H\u00fctten"
     ],
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         85681671,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2775366,
         "gp:id":542216,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"AT",
     "wof:geomhash":"41fbaa4ce84e7e63cf195319f1cc57c9",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101874043,
-    "wof:lastmodified":1544751602,
+    "wof:lastmodified":1566599025,
     "wof:name":"Hutten",
     "wof:parent_id":1108836179,
     "wof:placetype":"locality",

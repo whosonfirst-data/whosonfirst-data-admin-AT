@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":47.940687,
     "lbl:longitude":14.352834,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Ternberg"
     ],
@@ -85,7 +88,7 @@
         "\u7279\u6069\u8d1d\u683c"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108836127,
-    "wof:lastmodified":1564314378,
+    "wof:lastmodified":1566598596,
     "wof:name":"Ternberg",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",

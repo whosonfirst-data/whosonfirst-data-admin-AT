@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.253223,
     "lbl:longitude":16.356865,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.256798,
     "mps:longitude":16.356127,
     "mz:hierarchy_label":1,
@@ -50,9 +51,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0439\u043b\u0438\u0433\u0435\u043d\u0448\u0442\u0430\u0434\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Heiligenstadt"
     ],
     "name:zho_x_preferred":[
         "\u6d77\u5229\u80af\u65bd\u5854\u7279"
@@ -100,7 +98,6 @@
     "wof:concordances":{
         "gn:id":3333500,
         "gp:id":551752,
-        "qs:id":303856,
         "qs_pg:id":303856,
         "wd:id":"Q379531",
         "wk:page":"Heiligenstadt, Vienna"
@@ -122,7 +119,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237685,
+    "wof:lastmodified":1566597478,
     "wof:name":"Heiligenstadt",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

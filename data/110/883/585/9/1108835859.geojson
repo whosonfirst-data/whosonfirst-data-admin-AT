@@ -16,15 +16,17 @@
     "geom:bbox":"15.9678183725,48.6226716759,16.0802946607,48.6812669945",
     "geom:latitude":48.654159,
     "geom:longitude":16.021288,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1127,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
     "gn:population":1127,
     "iso:country":"AT",
     "lbl:latitude":48.656865,
     "lbl:longitude":16.025951,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Guntersdorf"
     ],
@@ -100,7 +102,7 @@
     "qs_pg:qs_id":1048850,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":1108835859,
-    "wof:lastmodified":1564314571,
+    "wof:lastmodified":1566598722,
     "wof:name":"Guntersdorf",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",

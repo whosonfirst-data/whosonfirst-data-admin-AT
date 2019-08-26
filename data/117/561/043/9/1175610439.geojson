@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.141266,
     "lbl:longitude":13.738244,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.141266,
     "mps:longitude":13.738244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Pforch"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681681,
@@ -116,10 +119,12 @@
     "wof:concordances":{
         "gn:id":2771917,
         "gp:id":547696,
-        "qs:id":8,
-        "qs_pg:id":265224,
+        "qs_pg:id":8,
         "wd:id":"Q261959",
         "wk:page":"Mariapfarr"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":265224
     },
     "wof:country":"AT",
     "wof:geomhash":"8232270cdda5b8b4c701ea1bccac2d06",
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1175610439,
-    "wof:lastmodified":1563245272,
+    "wof:lastmodified":1566598800,
     "wof:name":"Mariapfarr",
     "wof:parent_id":1108837049,
     "wof:placetype":"locality",

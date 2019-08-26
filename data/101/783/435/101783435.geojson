@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.401464,
     "lbl:longitude":16.691377,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.401464,
     "mps:longitude":16.691377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Matzen"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         85681671,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":2771801,
         "gp:id":542767,
-        "qs:id":272134,
         "qs_pg:id":272134,
         "wd:id":"Q15251931",
         "wk:page":"Matzen"
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101783435,
-    "wof:lastmodified":1561827468,
+    "wof:lastmodified":1566599110,
     "wof:name":"Matzen",
     "wof:parent_id":1108835329,
     "wof:placetype":"locality",

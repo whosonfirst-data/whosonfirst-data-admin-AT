@@ -10,8 +10,10 @@
     "geom:latitude":48.19984,
     "geom:longitude":16.325436,
     "iso:country":"AT",
+    "lbl:bbox":"16.320436216,48.194840438,16.330436216,48.204840438",
     "lbl:latitude":48.19984,
     "lbl:longitude":16.325436,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -28,7 +30,7 @@
         "Neu-F\u00fcnfhaus"
     ],
     "src:geom":"mz",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108938229,
-    "wof:lastmodified":1561827409,
+    "wof:lastmodified":1566598127,
     "wof:name":"Neu-Fuenfhaus",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

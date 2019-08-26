@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.577264,
     "lbl:longitude":14.460655,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.577264,
     "mps:longitude":14.460655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0434\u043c\u043e\u043d\u0442"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         85681687,
@@ -130,10 +133,12 @@
     "wof:concordances":{
         "gn:id":2782979,
         "gp:id":548021,
-        "qs:id":1092803,
         "qs_pg:id":1079023,
         "wd:id":"Q359324",
         "wk:page":"Admont"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1092803
     },
     "wof:country":"AT",
     "wof:geomhash":"67a2bc0399ff1096aab9f883d232a7c0",
@@ -148,7 +153,7 @@
         }
     ],
     "wof:id":101787971,
-    "wof:lastmodified":1563246120,
+    "wof:lastmodified":1566599155,
     "wof:name":"Admont",
     "wof:parent_id":1108838983,
     "wof:placetype":"locality",

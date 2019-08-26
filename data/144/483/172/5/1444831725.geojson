@@ -10,8 +10,10 @@
     "geom:latitude":47.040688,
     "geom:longitude":15.483103,
     "iso:country":"AT",
+    "lbl:bbox":"15.478103007,47.0356882993,15.488103007,47.0456882993",
     "lbl:latitude":47.040688,
     "lbl:longitude":15.483103,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101754133,
         102049709,
+        85681687,
         1175610467
     ],
     "wof:breaches":[],
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1444831725,
-    "wof:lastmodified":1566340939,
+    "wof:lastmodified":1566597998,
     "wof:name":"Messendorf",
     "wof:parent_id":1175610467,
     "wof:placetype":"neighbourhood",

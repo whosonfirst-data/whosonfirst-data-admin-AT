@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.942888,
     "lbl:longitude":15.330426,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.942888,
     "mps:longitude":15.330426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lannach"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85681687,
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2772961,
         "gp:id":12675167,
-        "qs:id":1292642,
+        "qs_pg:id":1292642,
         "wd:id":"Q696259",
         "wk:page":"Lannach"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101788969,
-    "wof:lastmodified":1563246066,
+    "wof:lastmodified":1566599138,
     "wof:name":"Lannach",
     "wof:parent_id":1108839293,
     "wof:placetype":"locality",

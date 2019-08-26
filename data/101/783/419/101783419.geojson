@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.343587,
     "lbl:longitude":16.764367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.343587,
     "mps:longitude":16.764367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Weikendorf"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85681671,
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2761723,
         "gp:id":12674208,
-        "qs:id":909117,
+        "qs_pg:id":909117,
         "wd:id":"Q686346",
         "wk:page":"Weikendorf"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101783419,
-    "wof:lastmodified":1563245951,
+    "wof:lastmodified":1566599108,
     "wof:name":"Weikendorf",
     "wof:parent_id":1108835857,
     "wof:placetype":"locality",

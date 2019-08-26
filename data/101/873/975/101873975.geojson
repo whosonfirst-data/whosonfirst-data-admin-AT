@@ -10,13 +10,17 @@
     "geom:latitude":46.813794,
     "geom:longitude":15.255018,
     "iso:country":"AT",
+    "lbl:bbox":"15.235018,46.793794,15.275018,46.833794",
     "lbl:latitude":46.813794,
     "lbl:longitude":15.255018,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.813794,
     "mps:longitude":15.255018,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Freidorf"
     ],
     "qs:a0":"\u00d6sterreich",
@@ -36,7 +40,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681687,
         102191581,
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":2779296,
         "gp:id":548399,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"AT",
     "wof:geomhash":"53663639995cc87b19b62fdaad5b669f",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101873975,
-    "wof:lastmodified":1544751572,
+    "wof:lastmodified":1566599027,
     "wof:name":"Freidorf an der La\u00dfnitz",
     "wof:parent_id":1108839297,
     "wof:placetype":"locality",

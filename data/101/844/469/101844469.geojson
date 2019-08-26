@@ -12,10 +12,14 @@
     "iso:country":"AT",
     "lbl:latitude":47.012107,
     "lbl:longitude":15.212066,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.012107,
     "mps:longitude":15.212066,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Krottendorf"
     ],
     "qs:a0":"\u00d6sterreich",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681687,
         102191581,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":2773359,
         "gp:id":548967,
-        "qs:id":182520,
         "qs_pg:id":182520
     },
     "wof:country":"AT",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101844469,
-    "wof:lastmodified":1497296837,
+    "wof:lastmodified":1566599042,
     "wof:name":"Krottendorf bei Ligist",
     "wof:parent_id":1108838825,
     "wof:placetype":"locality",

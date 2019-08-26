@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":47.26185,
     "lbl:longitude":16.271512,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.26263,
     "mps:longitude":16.273151,
     "mz:hierarchy_label":1,
@@ -402,9 +403,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"3,965",
     "statoids:area_mi":"1,531",
     "statoids:as_of_date":"2011-10-31",
@@ -452,7 +453,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1565807191,
+    "wof:lastmodified":1566597420,
     "wof:name":"Burgenland",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

@@ -13,6 +13,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.283758,
     "lbl:longitude":16.372393,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.284562,
     "mps:longitude":16.372588,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
-        "Schwarzlackenausiedlung"
-    ],
-    "name:unk_x_variant":[
         "Schwarzlackenausiedlung"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":543795,
-        "qs:id":226856,
         "qs_pg:id":226856
     },
     "wof:country":"AT",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566247496,
+    "wof:lastmodified":1566597454,
     "wof:name":"Schwarzlacken Ausiedlung",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

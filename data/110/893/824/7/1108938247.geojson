@@ -10,8 +10,10 @@
     "geom:latitude":48.220355,
     "geom:longitude":16.364461,
     "iso:country":"AT",
+    "lbl:bbox":"16.3594605887,48.2153553431,16.3694605887,48.2253553431",
     "lbl:latitude":48.220355,
     "lbl:longitude":16.364461,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -52,7 +54,7 @@
         "Rossau"
     ],
     "src:geom":"mz",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1108938247,
-    "wof:lastmodified":1564313569,
+    "wof:lastmodified":1566598126,
     "wof:name":"Rossau",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

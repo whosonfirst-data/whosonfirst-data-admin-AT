@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.858794,
     "lbl:longitude":14.669165,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.858794,
     "mps:longitude":14.669165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Weyer"
     ],
@@ -205,9 +208,6 @@
     "name:swe_x_preferred":[
         "Weyer"
     ],
-    "name:unk_x_variant":[
-        "Weyer Markt"
-    ],
     "name:uzb_x_preferred":[
         "Weyer"
     ],
@@ -255,7 +255,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         85681677,
@@ -269,9 +269,11 @@
         "fct:id":"031c1592-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2761418,
         "gp:id":28995626,
-        "qs:id":402386,
         "qs_pg:id":55667,
         "wd:id":"Q695259"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":402386
     },
     "wof:country":"AT",
     "wof:geomhash":"7f69bfde2a1cf8f70daa06f67f20e961",
@@ -289,7 +291,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246078,
+    "wof:lastmodified":1566599144,
     "wof:name":"Weyer",
     "wof:parent_id":1108836133,
     "wof:placetype":"locality",

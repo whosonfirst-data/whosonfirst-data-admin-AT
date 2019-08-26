@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.407141,
     "lbl:longitude":15.889032,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.407141,
     "mps:longitude":15.889032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vorau"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85681687,
@@ -133,10 +136,12 @@
     "wof:concordances":{
         "gn:id":2762299,
         "gp:id":550230,
-        "qs:id":27169,
-        "qs_pg:id":1059113,
+        "qs_pg:id":27169,
         "wd:id":"Q669945",
         "wk:page":"Vorau"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059113
     },
     "wof:country":"AT",
     "wof:geomhash":"71ce2f350d2d5e1120f9087e48fa02c5",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101787909,
-    "wof:lastmodified":1563246101,
+    "wof:lastmodified":1566599150,
     "wof:name":"Vorau",
     "wof:parent_id":1108839085,
     "wof:placetype":"locality",

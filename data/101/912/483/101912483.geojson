@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.704703,
     "lbl:longitude":14.730967,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.704703,
     "mps:longitude":14.730967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Griffen"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":408,
     "wof:belongsto":[
         85681655,
@@ -142,10 +145,12 @@
     "wof:concordances":{
         "gn:id":2777954,
         "gp:id":539547,
-        "qs:id":231596,
-        "qs_pg:id":1041607,
+        "qs_pg:id":231596,
         "wd:id":"Q696964",
         "wk:page":"Griffen, Austria"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1041607
     },
     "wof:country":"AT",
     "wof:geomhash":"b68458957db4a8292a3577dc45f80db7",
@@ -160,7 +165,7 @@
         }
     ],
     "wof:id":101912483,
-    "wof:lastmodified":1563245843,
+    "wof:lastmodified":1566599078,
     "wof:name":"Griffen",
     "wof:parent_id":1108838121,
     "wof:placetype":"locality",

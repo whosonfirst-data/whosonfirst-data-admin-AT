@@ -9,14 +9,17 @@
     "geom:bbox":"14.3763691121,46.6020370173,14.4195345722,46.6122429283",
     "geom:latitude":46.607635,
     "geom:longitude":14.400048,
-    "geonames:id":"2768064,3324597",
+    "gn:id":"2768064,3324597",
     "iso:country":"AT",
     "lbl:latitude":46.607804,
     "lbl:longitude":14.391569,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.607804,
     "mps:longitude":14.391569,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ady_x_preferred":[
         "\u041e\u0449\u0445\u044b"
     ],
@@ -527,7 +530,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681655,
         102191581,
@@ -539,7 +542,7 @@
     "wof:concordances":{
         "gn:id":3324597,
         "gp:id":20097011,
-        "qs:id":1149973
+        "qs_pg:id":1149973
     },
     "wof:country":"AT",
     "wof:geomhash":"a6c4763d319efefaeb4048227ad0eed0",
@@ -554,7 +557,7 @@
         }
     ],
     "wof:id":101754119,
-    "wof:lastmodified":1564315099,
+    "wof:lastmodified":1566599013,
     "wof:name":"Rain",
     "wof:parent_id":1108838227,
     "wof:placetype":"locality",

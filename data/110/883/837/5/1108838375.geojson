@@ -16,22 +16,24 @@
     "geom:bbox":"14.7161530161,46.4994809372,14.8251969216,46.6064897891",
     "geom:latitude":46.547921,
     "geom:longitude":14.768765,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2123,
-    "gn:population":2161,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":2123,
     "iso:country":"AT",
     "lbl:latitude":46.545057,
     "lbl:longitude":14.767955,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Feistritz ob Bleiburg"
     ],
     "name:slv_x_preferred":[
         "Bistrica nad Pliberkom"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Feistritz ober Bleiburg"
     ],
     "qs_pg:aaroncc":"AT",
@@ -55,7 +57,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12673590,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1108838375,
-    "wof:lastmodified":1536699513,
+    "wof:lastmodified":1566598664,
     "wof:name":"Feistritz Ob Bleiburg",
     "wof:parent_id":102049685,
     "wof:placetype":"localadmin",

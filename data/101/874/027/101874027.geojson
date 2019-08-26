@@ -10,12 +10,16 @@
     "geom:latitude":48.089481,
     "geom:longitude":14.420113,
     "iso:country":"AT",
+    "lbl:bbox":"14.400113,48.069481,14.440113,48.109481",
     "lbl:latitude":48.089481,
     "lbl:longitude":14.420113,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.089481,
     "mps:longitude":14.420113,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Ober\u00f6sterreich",
     "qs:a1r":"0",
@@ -33,7 +37,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681677,
         102191581,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2780970,
         "gp:id":544866,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"AT",
     "wof:geomhash":"bab36dd28e25a117ad8528d9f0b8b033",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101874027,
-    "wof:lastmodified":1544751595,
+    "wof:lastmodified":1566599025,
     "wof:name":"Dietachdorf",
     "wof:parent_id":1108836097,
     "wof:placetype":"locality",

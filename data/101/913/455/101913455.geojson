@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":1758858.173104,
+    "geom:area_square_m":1758858.173106,
     "geom:bbox":"14.7346015848,47.9796995781,14.7528920616,48.0112322134",
     "geom:latitude":47.994925,
     "geom:longitude":14.742548,
     "iso:country":"AT",
     "lbl:latitude":48.003971,
     "lbl:longitude":14.740262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.003971,
     "mps:longitude":14.740262,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2781611,
         "gp:id":541249,
-        "qs:id":357567
+        "qs_pg:id":357567
     },
     "wof:country":"AT",
     "wof:geomhash":"6837a184932f6b2cfe81f556d5fdae92",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101913455,
-    "wof:lastmodified":1496613390,
+    "wof:lastmodified":1566599124,
     "wof:name":"B\u00f6hlerwerk",
     "wof:parent_id":1108836699,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":68,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"13.50172,46.60006,13.54172,46.64006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -37,7 +41,7 @@
         "gn:id":2782097
     },
     "wof:country":"AT",
-    "wof:geomhash":"997daa229111ab8b8706df6f45921f5e",
+    "wof:geomhash":"883db8651c1f8044c0f4acc9bf574480",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209628231,
-    "wof:lastmodified":1536281280,
+    "wof:lastmodified":1566597846,
     "wof:name":"Bach",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.521720000000002,
+    13.52172,
     46.62006,
-    13.521720000000002,
+    13.52172,
     46.62006
 ],
   "geometry": {"coordinates":[13.52172,46.62006],"type":"Point"}

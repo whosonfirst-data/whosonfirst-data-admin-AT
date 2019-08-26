@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.467213,
     "lbl:longitude":15.329531,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.467213,
     "mps:longitude":15.329531,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30d6\u30eb\u30c3\u30af\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30e0\u30fc\u30a2\u90e1"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":221,
     "wof:belongsto":[
         85681687,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":2781046,
         "gp:id":548211,
-        "qs:id":315906,
+        "qs_pg:id":315906,
         "wd:id":"Q660351"
     },
     "wof:country":"AT",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101834345,
-    "wof:lastmodified":1563245832,
+    "wof:lastmodified":1566599074,
     "wof:name":"Deuchendorf",
     "wof:parent_id":1108839319,
     "wof:placetype":"locality",

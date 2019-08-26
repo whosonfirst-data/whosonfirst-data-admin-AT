@@ -14,6 +14,8 @@
     "iso:country":"AT",
     "lbl:latitude":47.272308,
     "lbl:longitude":11.407851,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":47.272308,
     "mps:longitude":11.407851,
     "mz:hierarchy_label":1,
@@ -488,7 +490,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3188,
     "wof:belongsto":[
@@ -505,7 +507,6 @@
         "gn:id":2775220,
         "gp:id":550763,
         "nyt:id":"N21126484242539583751",
-        "qs:id":274233,
         "qs_pg:id":274233,
         "wd:id":"Q1735",
         "wk:page":"Innsbruck"
@@ -523,7 +524,7 @@
         }
     ],
     "wof:id":101748061,
-    "wof:lastmodified":1563245930,
+    "wof:lastmodified":1566599103,
     "wof:name":"Innsbruck",
     "wof:parent_id":1108837687,
     "wof:placetype":"locality",

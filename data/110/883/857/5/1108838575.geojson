@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":47.905807,
     "lbl:longitude":16.973235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "M\u00f6nchhof"
     ],
@@ -82,7 +85,7 @@
         "\u95e8\u5e0c\u970d\u592b"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108838575,
-    "wof:lastmodified":1564313890,
+    "wof:lastmodified":1566598316,
     "wof:name":"M\u00f6nchhof",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

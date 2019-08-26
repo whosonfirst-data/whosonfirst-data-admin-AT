@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.300902,
     "lbl:longitude":15.625769,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.301973,
     "mps:longitude":15.622968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u064a\u062a\u0633"
     ],
@@ -131,9 +134,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"1071",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Weiz",
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":102049765,
-    "wof:lastmodified":1563243002,
+    "wof:lastmodified":1566597148,
     "wof:name":"Weiz",
     "wof:parent_id":85681687,
     "wof:placetype":"county",

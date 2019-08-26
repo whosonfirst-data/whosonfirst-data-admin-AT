@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.21138,
     "lbl:longitude":16.163346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.21138,
     "mps:longitude":16.163346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Litzelsdorf"
     ],
@@ -151,7 +154,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":220,
     "wof:belongsto":[
         85681651,
@@ -164,7 +167,7 @@
     "wof:concordances":{
         "gn:id":2772380,
         "gp:id":20094529,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q369644",
         "wk:page":"Litzelsdorf"
     },
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":101787897,
-    "wof:lastmodified":1563246137,
+    "wof:lastmodified":1566599159,
     "wof:name":"Litzelsdorf",
     "wof:parent_id":1108838435,
     "wof:placetype":"locality",

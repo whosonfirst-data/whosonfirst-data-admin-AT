@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.262888,
     "lbl:longitude":10.758464,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.262888,
     "mps:longitude":10.758464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tarrenz"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         85681661,
@@ -113,7 +116,6 @@
         "fct:id":"0326e468-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2763901,
         "gp:id":551276,
-        "qs:id":471153,
         "qs_pg:id":471153,
         "wd:id":"Q692617"
     },
@@ -133,7 +135,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246155,
+    "wof:lastmodified":1566599165,
     "wof:name":"Tarrenz",
     "wof:parent_id":1108837453,
     "wof:placetype":"locality",

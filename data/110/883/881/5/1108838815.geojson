@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":47.151872,
     "lbl:longitude":15.15192,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Geistthal-S\u00f6dingberg"
     ],
@@ -46,7 +49,7 @@
         "Geistthal-S\u00f6dingberg"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108838815,
-    "wof:lastmodified":1564313850,
+    "wof:lastmodified":1566598295,
     "wof:name":"Geistthal-S\u00f6dingberg",
     "wof:parent_id":102049717,
     "wof:placetype":"localadmin",

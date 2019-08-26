@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.542355,
     "lbl:longitude":15.240214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.542355,
     "mps:longitude":15.240214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Aflenz Kurort"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0444\u043b\u0435\u043d\u0446-\u041a\u0443\u0440\u043e\u0440\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aflenz"
     ],
     "name:uzb_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":296,
     "wof:belongsto":[
         85681687,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":2782969,
         "gp:id":548024,
-        "qs:id":9,
-        "qs_pg:id":963837,
+        "qs_pg:id":9,
         "wd:id":"Q383351",
         "wk:page":"Aflenz Kurort"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":963837
     },
     "wof:country":"AT",
     "wof:geomhash":"7d8d94e2e262955f44baeeb93e09a750",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101787995,
-    "wof:lastmodified":1563246123,
+    "wof:lastmodified":1566599155,
     "wof:name":"Aflenz Kurort",
     "wof:parent_id":1108839327,
     "wof:placetype":"locality",

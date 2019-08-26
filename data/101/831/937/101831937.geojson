@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.214018,
     "lbl:longitude":14.279996,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.214018,
     "mps:longitude":14.279996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0622\u0646\u0632\u0641\u0644\u062f\u0646"
     ],
@@ -169,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":136,
     "wof:belongsto":[
@@ -183,10 +186,12 @@
     "wof:concordances":{
         "gn:id":3323063,
         "gp:id":544664,
-        "qs:id":472149,
         "qs_pg:id":95347,
         "wd:id":"Q257130",
         "wk:page":"Ansfelden"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":472149
     },
     "wof:country":"AT",
     "wof:geomhash":"29bc99195203ef20888b580ef65e8032",
@@ -201,7 +206,7 @@
         }
     ],
     "wof:id":101831937,
-    "wof:lastmodified":1563246043,
+    "wof:lastmodified":1566599132,
     "wof:name":"Ansfelden",
     "wof:parent_id":1108835519,
     "wof:placetype":"locality",

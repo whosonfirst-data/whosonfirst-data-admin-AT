@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8305297.361782,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.452043,47.078442,15.452043,47.078442",
     "geom:latitude":47.078442,
     "geom:longitude":15.452043,
     "iso:country":"AT",
+    "lbl:bbox":"15.447043,47.073442,15.457043,47.083442",
     "lbl:latitude":47.078442,
     "lbl:longitude":15.452043,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.086977,
     "mps:longitude":15.452134,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:deu_x_preferred":[
-        "Kroisbach"
-    ],
-    "name:unk_x_variant":[
         "Kroisbach"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2773405,
         "gp:id":548958,
-        "qs:id":240988,
         "qs_pg:id":240988
     },
     "wof:country":"AT",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932078,
+    "wof:lastmodified":1566597466,
     "wof:name":"Kroisbach",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

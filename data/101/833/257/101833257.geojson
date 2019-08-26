@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.195859,
     "lbl:longitude":15.90068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.195859,
     "mps:longitude":15.90068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Neulengbach"
     ],
@@ -261,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         85681671,
@@ -274,10 +277,12 @@
     "wof:concordances":{
         "gn:id":2779881,
         "gp:id":542942,
-        "qs:id":37558,
-        "qs_pg:id":210466,
+        "qs_pg:id":37558,
         "wd:id":"Q700307",
         "wk:page":"Neulengbach"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":210466
     },
     "wof:country":"AT",
     "wof:geomhash":"5b93730aeb1299d03c2e1d7f9a68688d",
@@ -292,7 +297,7 @@
         }
     ],
     "wof:id":101833257,
-    "wof:lastmodified":1563245747,
+    "wof:lastmodified":1566599051,
     "wof:name":"Neulengbach",
     "wof:parent_id":1108834967,
     "wof:placetype":"locality",

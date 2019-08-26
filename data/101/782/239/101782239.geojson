@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.584617,
     "lbl:longitude":16.642345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.584617,
     "mps:longitude":16.642345,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Wilfersdorf"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681671,
@@ -118,9 +121,11 @@
     "wof:concordances":{
         "gn:id":2761195,
         "gp:id":544396,
-        "qs:id":535750,
-        "qs_pg:id":1317644,
+        "qs_pg:id":535750,
         "wd:id":"Q665824"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1317644
     },
     "wof:country":"AT",
     "wof:geomhash":"501a330c29019f9a48ce64f9b4081689",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101782239,
-    "wof:lastmodified":1563245923,
+    "wof:lastmodified":1566599102,
     "wof:name":"Wilfersdorf",
     "wof:parent_id":1108835475,
     "wof:placetype":"locality",

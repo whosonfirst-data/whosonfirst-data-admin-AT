@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":48.152911,
     "lbl:longitude":13.982183,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.152361,
     "mps:longitude":13.981648,
     "mz:hierarchy_label":1,
@@ -387,9 +388,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"11,978",
     "statoids:area_mi":"4,625",
     "statoids:as_of_date":"2011-10-31",
@@ -436,11 +437,10 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1565652202,
+    "wof:lastmodified":1566597438,
     "wof:name":"Ober\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1416102,
     "wof:population_rank":12,

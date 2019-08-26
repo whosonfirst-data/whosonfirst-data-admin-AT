@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.735981,
     "lbl:longitude":16.393717,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.735981,
     "mps:longitude":16.393717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Mattasburg"
     ],
@@ -117,11 +120,8 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0442\u0435\u0440\u0441\u0431\u0443\u0440\u0433"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Matrstof"
-    ],
-    "name:unk_x_variant":[
-        "Nagymarton"
     ],
     "name:uzb_x_preferred":[
         "Mattersburg"
@@ -155,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681651,
@@ -169,9 +169,11 @@
         "fct:id":"03214116-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2771817,
         "gp:id":538937,
-        "qs:id":953690,
-        "qs_pg:id":1327119,
+        "qs_pg:id":953690,
         "wd:id":"Q250832"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327119
     },
     "wof:country":"AT",
     "wof:geomhash":"8f924bccfff90db79591d65e13381df5",
@@ -189,7 +191,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245766,
+    "wof:lastmodified":1566599056,
     "wof:name":"Mattersburg",
     "wof:parent_id":1108838419,
     "wof:placetype":"locality",

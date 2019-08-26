@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.017065,
     "lbl:longitude":16.788702,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.017065,
     "mps:longitude":16.788702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bruckneudorf"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":318,
     "wof:belongsto":[
         85681651,
@@ -122,10 +125,12 @@
     "wof:concordances":{
         "gn:id":2781361,
         "gp:id":538765,
-        "qs:id":238899,
-        "qs_pg:id":1078958,
+        "qs_pg:id":238899,
         "wd:id":"Q660740",
         "wk:page":"Bruckneudorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078958
     },
     "wof:country":"AT",
     "wof:geomhash":"74183550e101f357ad87e549e92b3fd8",
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":101831929,
-    "wof:lastmodified":1561827474,
+    "wof:lastmodified":1566599132,
     "wof:name":"Bruckneudorf",
     "wof:parent_id":1108838463,
     "wof:placetype":"locality",

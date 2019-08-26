@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.510145,
     "lbl:longitude":14.27014,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.51027,
     "mps:longitude":14.270018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bos_x_preferred":[
         "Klagenfurt-Land"
     ],
@@ -140,9 +143,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"766",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Klagenfurt",
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":102049681,
-    "wof:lastmodified":1563243009,
+    "wof:lastmodified":1566597154,
     "wof:name":"Klagenfurt Land",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5439846.78144,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.396798,47.255249,11.396798,47.255249",
     "geom:latitude":47.255249,
     "geom:longitude":11.396798,
     "iso:country":"AT",
+    "lbl:bbox":"11.391798,47.250249,11.401798,47.260249",
     "lbl:latitude":47.255249,
     "lbl:longitude":11.396798,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.250338,
     "mps:longitude":11.391925,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:deu_x_preferred":[
-        "Wilten"
-    ],
-    "name:unk_x_variant":[
         "Wilten"
     ],
     "qs:gn_fcode":"PPLX",
@@ -58,20 +57,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681661,
         102191581,
         1108837687,
         85632785,
         101748061,
-        102049723
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2761164,
         "gp:id":551410,
-        "qs:id":1220761,
         "qs_pg:id":1220761
     },
     "wof:country":"AT",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932100,
+    "wof:lastmodified":1566597478,
     "wof:name":"Wilten",
     "wof:parent_id":101748061,
     "wof:placetype":"neighbourhood",

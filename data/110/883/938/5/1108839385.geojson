@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":47.219144,
     "lbl:longitude":15.721314,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Puch"
     ],
@@ -58,7 +61,7 @@
         "Puch"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108839385,
-    "wof:lastmodified":1564313598,
+    "wof:lastmodified":1566598142,
     "wof:name":"Puch",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

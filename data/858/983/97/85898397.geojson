@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.30181,
     "lbl:longitude":16.410709,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.303887,
     "mps:longitude":16.427179,
     "mz:hierarchy_label":1,
@@ -27,9 +28,8 @@
     "name:deu_x_preferred":[
         "Stammersdorf"
     ],
-    "name:unk_x_variant":[
-        "Stamersdorf",
-        "Stammersdorf"
+    "name:und_x_variant":[
+        "Stamersdorf"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
@@ -73,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2764676,
         "gp:id":543896,
-        "qs:id":1080429,
         "qs_pg:id":1080429
     },
     "wof:country":"AT",
@@ -93,7 +92,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237684,
+    "wof:lastmodified":1566597457,
     "wof:name":"Stammersdorf",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

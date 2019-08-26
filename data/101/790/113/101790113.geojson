@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.58909,
     "lbl:longitude":14.797238,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.58909,
     "mps:longitude":14.797238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bleiburg"
     ],
@@ -98,7 +101,7 @@
     "name:ukr_x_variant":[
         "\u0411\u043b\u0430\u0439\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blelburg"
     ],
     "name:uzb_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":918,
     "wof:belongsto":[
@@ -147,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2781703,
         "gp:id":539233,
-        "qs:id":1037276,
         "qs_pg:id":1037276,
         "wd:id":"Q871356",
         "wk:page":"Bleiburg"
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":101790113,
-    "wof:lastmodified":1563245603,
+    "wof:lastmodified":1566599006,
     "wof:name":"Bleiburg",
     "wof:parent_id":1108838365,
     "wof:placetype":"locality",

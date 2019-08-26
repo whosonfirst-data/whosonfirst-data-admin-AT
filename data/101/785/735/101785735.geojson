@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.028799,
     "lbl:longitude":14.708179,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.028799,
     "mps:longitude":14.708179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Biberbach"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         85681671,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2781804,
         "gp:id":541223,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q598186"
     },
     "wof:country":"AT",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101785735,
-    "wof:lastmodified":1563245888,
+    "wof:lastmodified":1566599092,
     "wof:name":"Biberbach",
     "wof:parent_id":1108836633,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.213001,
     "lbl:longitude":11.21577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.213001,
     "mps:longitude":11.21577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sellrain"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         85681661,
@@ -110,7 +113,6 @@
         "fct:id":"0327f380-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3319573,
         "gp:id":20097450,
-        "qs:id":290517,
         "qs_pg:id":290517,
         "wd:id":"Q694284"
     },
@@ -130,7 +132,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246153,
+    "wof:lastmodified":1566599164,
     "wof:name":"Sellrain",
     "wof:parent_id":1108837675,
     "wof:placetype":"locality",

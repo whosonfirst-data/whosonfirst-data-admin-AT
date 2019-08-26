@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.182233,
     "lbl:longitude":16.584919,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.182233,
     "mps:longitude":16.584919,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Oberhausen"
     ],
@@ -234,7 +237,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -246,7 +249,6 @@
     "wof:concordances":{
         "gn:id":2770061,
         "gp:id":543067,
-        "qs:id":1161171,
         "qs_pg:id":1161171
     },
     "wof:country":"AT",
@@ -262,7 +264,7 @@
         }
     ],
     "wof:id":101784625,
-    "wof:lastmodified":1564315140,
+    "wof:lastmodified":1566599117,
     "wof:name":"Oberhausen",
     "wof:parent_id":1108836641,
     "wof:placetype":"locality",

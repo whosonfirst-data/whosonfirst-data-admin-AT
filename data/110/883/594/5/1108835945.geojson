@@ -16,15 +16,17 @@
     "geom:bbox":"13.9561038595,48.5348006966,14.0365544429,48.6211313754",
     "geom:latitude":48.57999,
     "geom:longitude":14.000099,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2663,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
     "gn:population":2663,
     "iso:country":"AT",
     "lbl:latitude":48.595072,
     "lbl:longitude":13.997374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Berg bei Rohrbach"
     ],
@@ -88,7 +90,7 @@
     "qs_pg:qs_id":743330,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1108835945,
-    "wof:lastmodified":1564313606,
+    "wof:lastmodified":1566598148,
     "wof:name":"Berg bei Rohrbach",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

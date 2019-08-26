@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.852669,
     "lbl:longitude":16.625289,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.852669,
     "mps:longitude":16.625289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sch\u00fctzen am Gebirge"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u044e\u0442\u0446\u0435\u043d-\u0430\u043c-\u0413\u0435\u0431\u0456\u0440\u0433\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gschiess"
     ],
     "name:uzb_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         85681651,
@@ -119,10 +122,12 @@
     "wof:concordances":{
         "gn:id":2765558,
         "gp:id":539050,
-        "qs:id":1101730,
         "qs_pg:id":977124,
         "wd:id":"Q662532",
         "wk:page":"Sch\u00fctzen am Gebirge"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101730
     },
     "wof:country":"AT",
     "wof:geomhash":"e03bbc40a70d20633133e40401670f46",
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":101844573,
-    "wof:lastmodified":1563245710,
+    "wof:lastmodified":1566599039,
     "wof:name":"Sch\u00fctzen am Gebirge",
     "wof:parent_id":1108838729,
     "wof:placetype":"locality",

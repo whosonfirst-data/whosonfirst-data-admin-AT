@@ -10,8 +10,10 @@
     "geom:latitude":47.017949,
     "geom:longitude":15.471591,
     "iso:country":"AT",
+    "lbl:bbox":"15.4665912798,47.0129493388,15.4765912798,47.0229493388",
     "lbl:latitude":47.017949,
     "lbl:longitude":15.471591,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444831813,
-    "wof:lastmodified":1566340949,
+    "wof:lastmodified":1566597999,
     "wof:name":"Thondorf",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

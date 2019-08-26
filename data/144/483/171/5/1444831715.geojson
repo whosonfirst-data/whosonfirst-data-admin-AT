@@ -10,8 +10,10 @@
     "geom:latitude":47.022998,
     "geom:longitude":15.459206,
     "iso:country":"AT",
+    "lbl:bbox":"15.4542060284,47.0179975221,15.4642060284,47.0279975221",
     "lbl:latitude":47.022998,
     "lbl:longitude":15.459206,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444831715,
-    "wof:lastmodified":1566340938,
+    "wof:lastmodified":1566598004,
     "wof:name":"Murfeld",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

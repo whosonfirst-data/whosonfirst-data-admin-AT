@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.937698,
     "lbl:longitude":16.013084,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.937698,
     "mps:longitude":16.013084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Fehring"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":185,
     "wof:belongsto":[
         85681687,
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":2779767,
         "gp:id":548345,
-        "qs:id":1060418,
         "qs_pg:id":1060418,
         "wd:id":"Q665198",
         "wk:page":"Fehring"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101788985,
-    "wof:lastmodified":1563246064,
+    "wof:lastmodified":1566599137,
     "wof:name":"Fehring",
     "wof:parent_id":1108839261,
     "wof:placetype":"locality",

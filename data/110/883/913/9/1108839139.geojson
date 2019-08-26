@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":47.142297,
     "lbl:longitude":15.476233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Weinitzen"
     ],
@@ -82,7 +85,7 @@
         "\u9b4f\u5c3c\u5c91"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108839139,
-    "wof:lastmodified":1564314124,
+    "wof:lastmodified":1566598447,
     "wof:name":"Weinitzen",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

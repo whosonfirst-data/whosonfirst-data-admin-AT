@@ -10,8 +10,10 @@
     "geom:latitude":48.092716,
     "geom:longitude":13.868179,
     "iso:country":"AT",
+    "lbl:bbox":"13.863179,48.087716,13.873179,48.097716",
     "lbl:latitude":48.092716,
     "lbl:longitude":13.868179,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.093855,
     "mps:longitude":13.863036,
     "mz:hierarchy_label":0,
@@ -323,9 +325,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0441\u043e\u043a"
     ],
-    "name:unk_x_variant":[
-        "Sand"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u062a"
     ],
@@ -371,7 +370,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108836559,
@@ -384,7 +383,6 @@
     "wof:concordances":{
         "gn:id":2766793,
         "gp:id":546618,
-        "qs:id":267599,
         "qs_pg:id":267599
     },
     "wof:country":"AT",
@@ -404,7 +402,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312383,
+    "wof:lastmodified":1566597460,
     "wof:name":"Sand",
     "wof:parent_id":101833211,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,10 @@
     "geom:latitude":47.122894,
     "geom:longitude":15.439816,
     "iso:country":"AT",
+    "lbl:bbox":"15.434816,47.117894,15.444816,47.127894",
     "lbl:latitude":47.122894,
     "lbl:longitude":15.439816,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.135213,
     "mps:longitude":15.42214,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
         "Neustift"
     ],
     "name:swe_x_preferred":[
-        "Neustift"
-    ],
-    "name:unk_x_variant":[
         "Neustift"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":43,
     "wof:belongsto":[
         102191581,
@@ -88,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2770663,
         "gp:id":549290,
-        "qs:id":281864,
         "qs_pg:id":281864
     },
     "wof:country":"AT",
@@ -108,7 +106,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312387,
+    "wof:lastmodified":1566597463,
     "wof:name":"Neustift",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

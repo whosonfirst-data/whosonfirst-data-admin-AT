@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.487998,
     "lbl:longitude":14.993818,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.487998,
     "mps:longitude":14.993818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vordernberg"
     ],
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Vordernberg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vordernberg-Markt"
     ],
     "name:uzb_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85681687,
@@ -109,10 +112,12 @@
     "wof:concordances":{
         "gn:id":3324818,
         "gp:id":550234,
-        "qs:id":1,
-        "qs_pg:id":211264,
+        "qs_pg:id":1,
         "wd:id":"Q876380",
         "wk:page":"Vordernberg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":211264
     },
     "wof:country":"AT",
     "wof:geomhash":"0ed687b0e61dbeb08a5c58b4f342c558",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":101844547,
-    "wof:lastmodified":1563245725,
+    "wof:lastmodified":1566599043,
     "wof:name":"Vordernberg",
     "wof:parent_id":1108838987,
     "wof:placetype":"locality",

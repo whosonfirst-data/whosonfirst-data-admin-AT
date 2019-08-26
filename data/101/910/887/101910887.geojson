@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.929446,
     "lbl:longitude":15.489278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.929446,
     "mps:longitude":15.489278,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u044e\u0440\u043d\u0438\u0446"
     ],
@@ -64,7 +67,7 @@
     "name:spa_x_preferred":[
         "T\u00fcrnitz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ternitz"
     ],
     "name:uzb_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         85681671,
@@ -112,9 +115,11 @@
     "wof:concordances":{
         "gn:id":2763235,
         "gp:id":544088,
-        "qs:id":1016743,
         "qs_pg:id":977164,
         "wd:id":"Q676220"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1016743
     },
     "wof:country":"AT",
     "wof:geomhash":"a88d810d607aeefd5471f7dd51df9c4a",
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":101910887,
-    "wof:lastmodified":1563246182,
+    "wof:lastmodified":1566599173,
     "wof:name":"T\u00fcrnitz",
     "wof:parent_id":1108835855,
     "wof:placetype":"locality",

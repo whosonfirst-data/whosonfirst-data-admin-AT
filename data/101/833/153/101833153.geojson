@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.906522,
     "lbl:longitude":14.118793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.906522,
     "mps:longitude":14.118793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Kirchdorf an da Grems"
     ],
@@ -93,9 +96,6 @@
     "name:swe_x_preferred":[
         "Kirchdorf an der Krems"
     ],
-    "name:unk_x_variant":[
-        "Kirchdorf"
-    ],
     "name:uzb_x_preferred":[
         "Kirchdorf an der Krems"
     ],
@@ -128,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681677,
         102191581,
@@ -141,7 +141,6 @@
         "fct:id":"03247bc4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2774390,
         "gp:id":545618,
-        "qs:id":1014194,
         "qs_pg:id":1014194,
         "wd:id":"Q688620",
         "wk:page":"Kirchdorf an der Krems"
@@ -162,7 +161,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245758,
+    "wof:lastmodified":1566599054,
     "wof:name":"Kirchdorf an der Krems",
     "wof:parent_id":1108835251,
     "wof:placetype":"locality",

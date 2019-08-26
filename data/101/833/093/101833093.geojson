@@ -13,6 +13,8 @@
     "iso:country":"AT",
     "lbl:latitude":47.846682,
     "lbl:longitude":16.522199,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.846682,
     "mps:longitude":16.522199,
     "mz:hierarchy_label":1,
@@ -240,7 +242,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0439\u0437\u0435\u043d\u0448\u0442\u0430\u0434\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stadt Eisenstadt"
     ],
     "name:urd_x_preferred":[
@@ -373,7 +375,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681651,
@@ -386,9 +388,11 @@
     "wof:concordances":{
         "gn:id":2780190,
         "gp:id":538800,
-        "qs:id":1200326,
         "qs_pg:id":1037799,
         "wd:id":"Q126321"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1200326
     },
     "wof:country":"AT",
     "wof:geomhash":"b4faa904f6f83408dfb7785a9721b0cb",
@@ -403,7 +407,7 @@
         }
     ],
     "wof:id":101833093,
-    "wof:lastmodified":1563245780,
+    "wof:lastmodified":1566599059,
     "wof:name":"Eisenstadt",
     "wof:parent_id":1108838617,
     "wof:placetype":"locality",

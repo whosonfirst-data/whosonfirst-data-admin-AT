@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.33591,
     "lbl:longitude":9.642715,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.33591,
     "mps:longitude":9.642715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:als_x_preferred":[
         "G\u00f6tzis"
     ],
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":111,
     "wof:belongsto":[
@@ -151,10 +154,12 @@
         "gn:id":2778218,
         "gp:id":551536,
         "loc:id":"n94020056",
-        "qs:id":75914,
-        "qs_pg:id":774378,
+        "qs_pg:id":75914,
         "wd:id":"Q698573",
         "wk:page":"G\u00f6tzis"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":774378
     },
     "wof:country":"AT",
     "wof:geomhash":"7bc301e93dffc6ea5344b2dca5c104b3",
@@ -169,7 +174,7 @@
         }
     ],
     "wof:id":101913367,
-    "wof:lastmodified":1563246020,
+    "wof:lastmodified":1566599125,
     "wof:name":"G\u00f6tzis",
     "wof:parent_id":1108837955,
     "wof:placetype":"locality",

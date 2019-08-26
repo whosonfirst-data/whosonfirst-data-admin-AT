@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.037946,
     "lbl:longitude":14.652679,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.037946,
     "mps:longitude":14.652679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Seitenstetten"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Seitenstetten"
     ],
-    "name:unk_x_variant":[
-        "Seitenstetten"
-    ],
     "name:uzb_x_preferred":[
         "Seitenstetten"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":150,
     "wof:belongsto":[
@@ -138,7 +138,6 @@
     "wof:concordances":{
         "gn:id":2765196,
         "gp:id":543817,
-        "qs:id":475735,
         "qs_pg:id":475735,
         "wd:id":"Q640190",
         "wk:page":"Seitenstetten"
@@ -156,7 +155,7 @@
         }
     ],
     "wof:id":101844593,
-    "wof:lastmodified":1563245691,
+    "wof:lastmodified":1566599033,
     "wof:name":"Seitenstetten Markt",
     "wof:parent_id":1108835457,
     "wof:placetype":"locality",

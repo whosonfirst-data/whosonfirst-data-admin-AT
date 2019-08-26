@@ -10,8 +10,10 @@
     "geom:latitude":48.208879,
     "geom:longitude":16.343232,
     "iso:country":"AT",
+    "lbl:bbox":"16.3382317877,48.2038786859,16.3482317877,48.2138786859",
     "lbl:latitude":48.208879,
     "lbl:longitude":16.343232,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,7 +24,7 @@
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
     "src:geom":"mz",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108938241,
-    "wof:lastmodified":1534803977,
+    "wof:lastmodified":1566598126,
     "wof:name":"Altlerchenfeld",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.819625,
     "lbl:longitude":13.215387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.819625,
     "mps:longitude":13.215387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hof bei Salzburg"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0444-\u0431\u0430\u0439-\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Hof"
-    ],
     "name:uzb_x_preferred":[
         "Hof"
     ],
@@ -106,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":230,
     "wof:belongsto":[
         85681681,
@@ -119,10 +119,12 @@
     "wof:concordances":{
         "gn:id":2775848,
         "gp:id":547593,
-        "qs:id":344922,
-        "qs_pg:id":977173,
+        "qs_pg:id":344922,
         "wd:id":"Q568871",
         "wk:page":"Hof bei Salzburg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977173
     },
     "wof:country":"AT",
     "wof:geomhash":"0957a0c9647f266fa1b3058851e6be97",
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101786777,
-    "wof:lastmodified":1563246086,
+    "wof:lastmodified":1566599146,
     "wof:name":"Hof bei Salzburg",
     "wof:parent_id":1108837151,
     "wof:placetype":"locality",

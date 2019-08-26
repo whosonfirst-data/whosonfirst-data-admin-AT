@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.943341,
     "lbl:longitude":16.100046,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.943341,
     "mps:longitude":16.100046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u043d\u0434\u043e\u0440\u0444"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -126,9 +129,11 @@
     "wof:concordances":{
         "gn:id":2781838,
         "gp:id":541214,
-        "qs:id":1037816,
-        "qs_pg:id":1264050,
+        "qs_pg:id":1037816,
         "wd:id":"Q666615"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1264050
     },
     "wof:country":"AT",
     "wof:geomhash":"7b87e38c67e769f43a364f5951ba6a03",
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":101833183,
-    "wof:lastmodified":1563245783,
+    "wof:lastmodified":1566599061,
     "wof:name":"Berndorf",
     "wof:parent_id":1108835315,
     "wof:placetype":"locality",

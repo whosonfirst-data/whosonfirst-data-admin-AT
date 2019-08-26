@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.247106,
     "lbl:longitude":16.151286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.247106,
     "mps:longitude":16.151286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kemeten"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85681651,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":2774541,
         "gp:id":538873,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q608855",
         "wk:page":"Kemeten"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101787883,
-    "wof:lastmodified":1563246131,
+    "wof:lastmodified":1566599158,
     "wof:name":"Kemeten",
     "wof:parent_id":1108838777,
     "wof:placetype":"locality",

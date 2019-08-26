@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.858523,
     "lbl:longitude":13.34692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.858523,
     "mps:longitude":13.34692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "M\u00fchldorf"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":262,
     "wof:belongsto":[
         85681655,
@@ -106,9 +109,11 @@
     "wof:concordances":{
         "gn:id":2771095,
         "gp:id":540018,
-        "qs:id":1095644,
         "qs_pg:id":268910,
         "wd:id":"Q692993"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1095644
     },
     "wof:country":"AT",
     "wof:geomhash":"c8436d005475764e8bf11a0cfdb252d1",
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":101910901,
-    "wof:lastmodified":1563246181,
+    "wof:lastmodified":1566599173,
     "wof:name":"M\u00fchldorf",
     "wof:parent_id":1108838283,
     "wof:placetype":"locality",

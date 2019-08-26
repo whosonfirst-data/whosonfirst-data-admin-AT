@@ -12,9 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.905686,
     "lbl:longitude":14.23098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.905686,
     "mps:longitude":14.23098,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Ober\u00f6sterreich",
     "qs:a1r":"0",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681677,
         102191581,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":2772631,
         "gp:id":545768,
-        "qs:id":987467,
         "qs_pg:id":987467
     },
     "wof:country":"AT",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101786813,
-    "wof:lastmodified":1497297282,
+    "wof:lastmodified":1566599148,
     "wof:name":"Leonstein",
     "wof:parent_id":1108835245,
     "wof:placetype":"locality",

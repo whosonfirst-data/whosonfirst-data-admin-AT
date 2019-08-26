@@ -10,12 +10,16 @@
     "geom:latitude":47.741938,
     "geom:longitude":15.312553,
     "iso:country":"AT",
+    "lbl:bbox":"15.292553,47.721938,15.332553,47.761938",
     "lbl:latitude":47.741938,
     "lbl:longitude":15.312553,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.741938,
     "mps:longitude":15.312553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gu\u00dfwerk"
     ],
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Gu\u00dfwerk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gusswerk"
     ],
     "name:uzb_x_preferred":[
@@ -93,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         85681687,
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":2777213,
         "gp:id":548614,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q690897",
         "wk:page":"Gu\u00dfwerk"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":101858897,
-    "wof:lastmodified":1563245732,
+    "wof:lastmodified":1566599046,
     "wof:name":"Gu\u00dfwerk",
     "wof:parent_id":1108839309,
     "wof:placetype":"locality",

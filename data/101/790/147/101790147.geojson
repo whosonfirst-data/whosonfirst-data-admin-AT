@@ -12,9 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.781237,
     "lbl:longitude":13.655065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.781237,
     "mps:longitude":13.655065,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*K\u00e4rnten",
     "qs:a1r":"0",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681655,
         102191581,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":2780886,
         "gp:id":539291,
-        "qs:id":905746,
         "qs_pg:id":905746
     },
     "wof:country":"AT",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101790147,
-    "wof:lastmodified":1497302281,
+    "wof:lastmodified":1566599007,
     "wof:name":"D\u00f6briach",
     "wof:parent_id":1108838289,
     "wof:placetype":"locality",

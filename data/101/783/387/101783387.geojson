@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.471182,
     "lbl:longitude":15.734168,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.471182,
     "mps:longitude":15.734168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Stra\u00df im Stra\u00dfertale"
     ],
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Stra\u00df im Stra\u00dfertale"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Strass im Strassertale"
     ],
     "name:uzb_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         85681671,
@@ -118,9 +121,11 @@
     "wof:concordances":{
         "gn:id":2605910,
         "gp:id":697683,
-        "qs:id":1312894,
         "qs_pg:id":292104,
         "wd:id":"Q675024"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1312894
     },
     "wof:country":"AT",
     "wof:geomhash":"337924cb6b389e9f35c22fb79e72069e",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101783387,
-    "wof:lastmodified":1563245957,
+    "wof:lastmodified":1566599110,
     "wof:name":"Stra\u00df im Stra\u00dfertale",
     "wof:parent_id":1108836705,
     "wof:placetype":"locality",

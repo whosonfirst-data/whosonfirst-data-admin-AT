@@ -10,8 +10,10 @@
     "geom:latitude":48.247758,
     "geom:longitude":14.383749,
     "iso:country":"AT",
+    "lbl:bbox":"14.378749,48.242758,14.388749,48.252758",
     "lbl:latitude":48.247758,
     "lbl:longitude":14.383749,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.256145,
     "mps:longitude":14.378563,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0448"
-    ],
-    "name:unk_x_variant":[
-        "Posch"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108834701,
@@ -76,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2768495,
         "gp:id":546419,
-        "qs:id":1264377,
         "qs_pg:id":1264377
     },
     "wof:country":"AT",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312385,
+    "wof:lastmodified":1566597462,
     "wof:name":"Posch",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

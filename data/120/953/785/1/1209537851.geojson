@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.54667,47.14667,15.58667,47.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632785
@@ -36,7 +40,7 @@
         "gn:id":2775119
     },
     "wof:country":"AT",
-    "wof:geomhash":"324536ff3fc61974c46244eb89defae6",
+    "wof:geomhash":"5f33104aac5bf67f7ecdd181c8055999",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209537851,
-    "wof:lastmodified":1536284081,
+    "wof:lastmodified":1566597836,
     "wof:name":"Jassing",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.566670000000002,
+    15.56667,
     47.16667,
-    15.566670000000002,
+    15.56667,
     47.16667
 ],
   "geometry": {"coordinates":[15.56667,47.16667],"type":"Point"}

@@ -13,6 +13,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.212154,
     "lbl:longitude":16.370993,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.21415,
     "mps:longitude":16.373192,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
-        "Stephansdom"
-    ],
-    "name:unk_x_variant":[
         "Stephansdom"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":551794,
-        "qs:id":583107,
         "qs_pg:id":583107
     },
     "wof:country":"AT",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566247497,
+    "wof:lastmodified":1566597473,
     "wof:name":"Stephansdom",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

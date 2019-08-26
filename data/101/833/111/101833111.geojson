@@ -12,9 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.896831,
     "lbl:longitude":13.114541,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.896831,
     "mps:longitude":13.114541,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Salzburg",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681681,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2761987,
         "gp:id":547973,
-        "qs:id":315829
+        "qs_pg:id":315829
     },
     "wof:country":"AT",
     "wof:geomhash":"2d6564c15aa49f5f1e4ab2535649500f",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101833111,
-    "wof:lastmodified":1496614834,
+    "wof:lastmodified":1566599054,
     "wof:name":"Waldprechting",
     "wof:parent_id":1108837191,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.487066,
     "lbl:longitude":10.718213,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.487066,
     "mps:longitude":10.718213,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0439\u0442\u0435"
     ],
@@ -107,9 +110,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0439\u0442\u0442\u0435"
     ],
-    "name:unk_x_variant":[
-        "Reutte in Tirol"
-    ],
     "name:uzb_x_preferred":[
         "Reutte"
     ],
@@ -139,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681661,
@@ -153,7 +153,6 @@
         "fct:id":"0326d496-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2767511,
         "gp:id":551124,
-        "qs:id":900913,
         "qs_pg:id":900913,
         "wd:id":"Q487513",
         "wk:page":"Reutte"
@@ -174,7 +173,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245829,
+    "wof:lastmodified":1566599073,
     "wof:name":"Reutte",
     "wof:parent_id":1108837767,
     "wof:placetype":"locality",

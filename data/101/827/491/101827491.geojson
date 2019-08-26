@@ -9,14 +9,17 @@
     "geom:bbox":"10.1753359728,47.3495495637,10.2077267282,47.372913045",
     "geom:latitude":47.360741,
     "geom:longitude":10.18919,
-    "geonames:id":"2767414,2767415",
+    "gn:id":"2767414,2767415",
     "iso:country":"AT",
     "lbl:latitude":47.358089,
     "lbl:longitude":10.186767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.358089,
     "mps:longitude":10.186767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Riezlern"
     ],
@@ -38,7 +41,7 @@
     "name:swe_x_preferred":[
         "Riezlern"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirche"
     ],
     "name:uzb_x_preferred":[
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         85681649,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":2767415,
         "gp:id":551657,
-        "qs:id":1211128,
         "qs_pg:id":1211128,
         "wd:id":"Q486583"
     },
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101827491,
-    "wof:lastmodified":1563245648,
+    "wof:lastmodified":1566599021,
     "wof:name":"Riezlern",
     "wof:parent_id":1108838011,
     "wof:placetype":"locality",

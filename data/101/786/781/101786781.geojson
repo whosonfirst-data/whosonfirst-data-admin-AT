@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.937104,
     "lbl:longitude":13.075498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.937104,
     "mps:longitude":13.075498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Obadrum"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681681,
         102191581,
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gn:id":2769648,
         "gp:id":12674684,
-        "qs:id":904956,
+        "qs_pg:id":904956,
         "wd:id":"Q701171",
         "wk:page":"Obertrum"
     },
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101786781,
-    "wof:lastmodified":1563246096,
+    "wof:lastmodified":1566599149,
     "wof:name":"Obertrum am See",
     "wof:parent_id":1108837169,
     "wof:placetype":"locality",

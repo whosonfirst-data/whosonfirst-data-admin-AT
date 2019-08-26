@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11641468.653872,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.095634,47.382364,15.095634,47.382364",
     "geom:latitude":47.382364,
     "geom:longitude":15.095634,
     "iso:country":"AT",
+    "lbl:bbox":"15.090634,47.377364,15.100634,47.387364",
     "lbl:latitude":47.382364,
     "lbl:longitude":15.095634,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.388901,
     "mps:longitude":15.099975,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Nennersdorf"
-    ],
-    "name:unk_x_variant":[
         "Nennersdorf"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839009,
         85632785,
         101834299,
-        102049769
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2770887,
         "gp:id":549253,
-        "qs:id":1082909,
         "qs_pg:id":1082909
     },
     "wof:country":"AT",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932083,
+    "wof:lastmodified":1566597466,
     "wof:name":"Nennersdorf",
     "wof:parent_id":101834299,
     "wof:placetype":"neighbourhood",

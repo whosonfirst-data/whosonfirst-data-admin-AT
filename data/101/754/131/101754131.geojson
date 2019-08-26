@@ -9,14 +9,17 @@
     "geom:bbox":"15.3792590087,46.9782181347,15.4018129377,47.0070249051",
     "geom:latitude":46.994751,
     "geom:longitude":15.391329,
-    "geonames:id":"2768781,2768782",
+    "gn:id":"2768781,2768782",
     "iso:country":"AT",
     "lbl:latitude":46.999387,
     "lbl:longitude":15.388512,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.999387,
     "mps:longitude":15.388512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pirka"
     ],
@@ -83,7 +86,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         85681687,
@@ -95,7 +98,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":549518,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q689616"
     },
     "wof:country":"AT",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101754131,
-    "wof:lastmodified":1563245623,
+    "wof:lastmodified":1566599013,
     "wof:name":"Pirka",
     "wof:parent_id":1108839157,
     "wof:placetype":"locality",

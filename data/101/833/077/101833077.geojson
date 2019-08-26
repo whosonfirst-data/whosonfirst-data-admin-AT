@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.69204,
     "lbl:longitude":15.866448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.69204,
     "mps:longitude":15.866448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Payerbach"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681671,
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":2764855,
         "gp:id":543230,
-        "qs:id":241571,
-        "qs_pg:id":1156263,
+        "qs_pg:id":241571,
         "wd:id":"Q676675",
         "wk:page":"Payerbach"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1156263
     },
     "wof:country":"AT",
     "wof:geomhash":"85c8327efe6d0ad35ac47dff417070bf",
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":101833077,
-    "wof:lastmodified":1563245742,
+    "wof:lastmodified":1566599049,
     "wof:name":"Payerbach",
     "wof:parent_id":1108836841,
     "wof:placetype":"locality",

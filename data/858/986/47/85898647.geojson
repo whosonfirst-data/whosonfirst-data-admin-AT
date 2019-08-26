@@ -13,6 +13,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.240483,
     "lbl:longitude":16.37599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.230161,
     "mps:longitude":16.375584,
     "mz:hierarchy_label":1,
@@ -110,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0456\u0491\u0456\u0442\u0442\u0435\u043d\u0430\u0443"
     ],
-    "name:unk_x_variant":[
-        "Brigittenau"
-    ],
     "name:zho_x_preferred":[
         "\u5e03\u91cc\u5409\u7279\u7459"
     ],
@@ -157,7 +155,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":551737,
-        "qs:id":897839,
         "qs_pg:id":897839,
         "wd:id":"Q265655"
     },
@@ -178,7 +175,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566247496,
+    "wof:lastmodified":1566597478,
     "wof:name":"Brigittenau",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.982415,
     "lbl:longitude":17.008325,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.982415,
     "mps:longitude":17.008325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zurndorf"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         85681651,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2760449,
         "gp:id":12673527,
-        "qs:id":535530,
+        "qs_pg:id":535530,
         "wd:id":"Q230459",
         "wk:page":"Zurndorf"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101785769,
-    "wof:lastmodified":1563245886,
+    "wof:lastmodified":1566599092,
     "wof:name":"Zurndorf",
     "wof:parent_id":1108838713,
     "wof:placetype":"locality",

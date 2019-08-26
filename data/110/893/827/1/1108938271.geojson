@@ -10,8 +10,10 @@
     "geom:latitude":48.229028,
     "geom:longitude":16.331273,
     "iso:country":"AT",
+    "lbl:bbox":"16.3262727058,48.2240278539,16.3362727058,48.2340278539",
     "lbl:latitude":48.229028,
     "lbl:longitude":16.331273,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,7 +24,7 @@
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
     "src:geom":"mz",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108938271,
-    "wof:lastmodified":1534803978,
+    "wof:lastmodified":1566598124,
     "wof:name":"Weinhaus",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

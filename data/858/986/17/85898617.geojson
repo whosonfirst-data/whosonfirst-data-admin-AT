@@ -10,8 +10,10 @@
     "geom:latitude":47.431719,
     "geom:longitude":9.749833,
     "iso:country":"AT",
+    "lbl:bbox":"9.744833,47.426719,9.754833,47.436719",
     "lbl:latitude":47.431719,
     "lbl:longitude":9.749833,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.434714,
     "mps:longitude":9.75646,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Arborcoryli"
     ],
     "name:nld_x_preferred":[
-        "Haselstauden"
-    ],
-    "name:unk_x_variant":[
         "Haselstauden"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -85,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2776741,
         "gp:id":551549,
-        "qs:id":982930,
         "qs_pg:id":982930,
         "wd:id":"Q877145",
         "wk:page":"Haselstauden"
@@ -107,7 +105,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563243495,
+    "wof:lastmodified":1566597475,
     "wof:name":"Haselstauden",
     "wof:parent_id":101827493,
     "wof:placetype":"neighbourhood",

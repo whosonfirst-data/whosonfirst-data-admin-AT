@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.109272,
     "lbl:longitude":16.462757,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.109272,
     "mps:longitude":16.462757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zw\u00f6lfaxing"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":72,
     "wof:belongsto":[
         85681671,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":2760388,
         "gp:id":544567,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q245210",
         "wk:page":"Zw\u00f6lfaxing"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101754211,
-    "wof:lastmodified":1563245608,
+    "wof:lastmodified":1566599009,
     "wof:name":"Zw\u00f6lfaxing",
     "wof:parent_id":1108835353,
     "wof:placetype":"locality",

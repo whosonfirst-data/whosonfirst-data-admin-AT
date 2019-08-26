@@ -10,8 +10,10 @@
     "geom:latitude":47.076047,
     "geom:longitude":15.494756,
     "iso:country":"AT",
+    "lbl:bbox":"15.489756,47.071047,15.499756,47.081047",
     "lbl:latitude":47.076047,
     "lbl:longitude":15.494756,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.069507,
     "mps:longitude":15.502285,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:nor_x_preferred":[
         "Kirkestift"
     ],
-    "name:unk_x_variant":[
-        "Stifting"
-    ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":7871499,
@@ -83,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1895,
     "wof:belongsto":[
         102191581,
@@ -97,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2764316,
         "gp:id":550008,
-        "qs:id":1062921,
         "qs_pg:id":1062921,
         "wd:id":"Q355437"
     },
@@ -118,7 +116,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563243472,
+    "wof:lastmodified":1566597465,
     "wof:name":"Stifting",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

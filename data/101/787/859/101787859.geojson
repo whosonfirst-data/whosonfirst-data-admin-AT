@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.398902,
     "lbl:longitude":10.92211,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.398902,
     "mps:longitude":10.92211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ehrwald"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         85681661,
@@ -143,7 +146,6 @@
         "fct:id":"03269ab2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3319581,
         "gp:id":550544,
-        "qs:id":893559,
         "qs_pg:id":893559,
         "wd:id":"Q667088",
         "wk:page":"Ehrwald"
@@ -164,7 +166,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246112,
+    "wof:lastmodified":1566599153,
     "wof:name":"Ehrwald",
     "wof:parent_id":1108837813,
     "wof:placetype":"locality",

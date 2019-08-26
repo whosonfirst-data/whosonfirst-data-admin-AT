@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.708997,
     "lbl:longitude":13.089507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.708997,
     "mps:longitude":13.089507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puch bei Hallein"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0445-\u0431\u0430\u0439-\u0413\u0430\u043b\u043b\u0430\u0439\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puch"
     ],
     "name:uzb_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":107,
     "wof:belongsto":[
         85681681,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":2768282,
         "gp:id":547793,
-        "qs:id":248705,
-        "qs_pg:id":1079018,
+        "qs_pg:id":248705,
         "wd:id":"Q700662",
         "wk:page":"Puch bei Hallein"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079018
     },
     "wof:country":"AT",
     "wof:geomhash":"452bcc72881f9c1de6fa9f49e88cae23",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101834321,
-    "wof:lastmodified":1563245834,
+    "wof:lastmodified":1566599075,
     "wof:name":"Puch bei Hallein",
     "wof:parent_id":1108837099,
     "wof:placetype":"locality",

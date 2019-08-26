@@ -10,12 +10,16 @@
     "geom:latitude":48.377493,
     "geom:longitude":16.824975,
     "iso:country":"AT",
+    "lbl:bbox":"16.804975,48.357493,16.844975,48.397493",
     "lbl:latitude":48.377493,
     "lbl:longitude":16.824975,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.377493,
     "mps:longitude":16.824975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Angern an der March"
     ],
@@ -73,7 +77,7 @@
     "name:swe_x_preferred":[
         "Angern an der March"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Angern"
     ],
     "name:uzb_x_preferred":[
@@ -108,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         85681671,
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":2782511,
         "gp:id":12673748,
-        "qs:id":1195576,
+        "qs_pg:id":1195576,
         "wd:id":"Q538297",
         "wk:page":"Angern an der March"
     },
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":101858917,
-    "wof:lastmodified":1563245733,
+    "wof:lastmodified":1566599046,
     "wof:name":"Angern an der March",
     "wof:parent_id":1108834917,
     "wof:placetype":"locality",

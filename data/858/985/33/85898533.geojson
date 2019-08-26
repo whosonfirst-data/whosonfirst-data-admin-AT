@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6009951.914756,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.094429,47.361814,15.094429,47.361814",
     "geom:latitude":47.361814,
     "geom:longitude":15.094429,
     "iso:country":"AT",
+    "lbl:bbox":"15.089429,47.356814,15.099429,47.366814",
     "lbl:latitude":47.361814,
     "lbl:longitude":15.094429,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.356406,
     "mps:longitude":15.091815,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Goss"
     ],
     "name:deu_x_preferred":[
-        "G\u00f6\u00df"
-    ],
-    "name:unk_x_variant":[
         "G\u00f6\u00df"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -62,14 +61,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839009,
         85632785,
         101834299,
-        102049769
+        102049769,
+        85681687
     ],
     "wof:breaches":[
         85898553
@@ -94,7 +93,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932076,
+    "wof:lastmodified":1566597464,
     "wof:name":"G\u00f6\u00df",
     "wof:parent_id":101834299,
     "wof:placetype":"neighbourhood",

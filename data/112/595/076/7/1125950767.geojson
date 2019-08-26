@@ -9,14 +9,18 @@
     "geom:bbox":"15.76694,46.98583,15.76694,46.98583",
     "geom:latitude":46.98583,
     "geom:longitude":15.76694,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"15.74694,46.96583,15.78694,47.00583",
     "lbl:latitude":46.98583,
     "lbl:longitude":15.76694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Kirchberg an der Raab"
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Kirchberg an der Raab"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirchberg"
     ],
     "name:uzb_x_preferred":[
@@ -105,7 +109,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":548857,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"Steiermark",
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1125950767,
-    "wof:lastmodified":1563246309,
+    "wof:lastmodified":1566599259,
     "wof:name":"Kirchberg an der Raab",
     "wof:parent_id":1108839245,
     "wof:placetype":"locality",

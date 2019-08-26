@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.214136,
     "lbl:longitude":16.51919,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.201194,
     "mps:longitude":16.526007,
     "mz:hierarchy_label":1,
@@ -60,9 +61,6 @@
     "name:rus_x_preferred":[
         "\u042d\u0441\u043b\u0438\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "Essling"
-    ],
     "name:zho_x_preferred":[
         "\u57c3\u65af\u6797"
     ],
@@ -109,7 +107,6 @@
     "wof:concordances":{
         "gn:id":2779912,
         "gp:id":541550,
-        "qs:id":1082873,
         "qs_pg:id":1082873,
         "wd:id":"Q80340",
         "wk:page":"Essling"
@@ -131,7 +128,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237684,
+    "wof:lastmodified":1566597468,
     "wof:name":"Essling",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.963622,
     "lbl:longitude":14.791762,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.963622,
     "mps:longitude":14.791762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bad Sankt Leonhard im Lavanttal"
     ],
@@ -84,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0434-\u0417\u0430\u043d\u043a\u0442-\u041b\u0435\u043e\u043d\u0433\u0430\u0440\u0434-\u0456\u043c-\u041b\u0430\u0432\u0430\u043d\u0442\u0442\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt Leonhard"
     ],
     "name:uzb_x_preferred":[
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -136,7 +139,6 @@
     "wof:concordances":{
         "gn:id":2782049,
         "gp:id":539203,
-        "qs:id":1037817,
         "qs_pg:id":1037817,
         "wd:id":"Q660781",
         "wk:page":"Bad Sankt Leonhard im Lavanttal"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101788971,
-    "wof:lastmodified":1563246063,
+    "wof:lastmodified":1566599137,
     "wof:name":"Bad Sankt Leonhard im Lavanttal",
     "wof:parent_id":1108838393,
     "wof:placetype":"locality",

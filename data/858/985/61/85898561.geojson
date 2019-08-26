@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10886523.880612,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.034272,47.396842,15.034272,47.396842",
     "geom:latitude":47.396842,
     "geom:longitude":15.034272,
     "iso:country":"AT",
+    "lbl:bbox":"15.029272,47.391842,15.039272,47.401842",
     "lbl:latitude":47.396842,
     "lbl:longitude":15.034272,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.398503,
     "mps:longitude":15.035564,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Oberer Tollinggraben"
-    ],
-    "name:unk_x_variant":[
         "Oberer Tollinggraben"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108838995,
         85632785,
         101834297,
-        102049769
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2770189,
         "gp:id":549342,
-        "qs:id":982882,
         "qs_pg:id":982882
     },
     "wof:country":"AT",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932085,
+    "wof:lastmodified":1566597463,
     "wof:name":"Oberer Tollinggraben",
     "wof:parent_id":101834297,
     "wof:placetype":"neighbourhood",

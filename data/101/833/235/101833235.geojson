@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":2889245.316062,
+    "geom:area_square_m":2889245.316059,
     "geom:bbox":"15.164811862,48.1877003777,15.2101290331,48.2159810375",
     "geom:latitude":48.204948,
     "geom:longitude":15.190377,
     "iso:country":"AT",
     "lbl:latitude":48.209751,
     "lbl:longitude":15.197586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.209751,
     "mps:longitude":15.197586,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Brunn"
     ],
     "qs:a0":"\u00d6sterreich",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -47,7 +51,9 @@
     "wof:concordances":{
         "gn:id":2779981,
         "gp:id":541540,
-        "qs:id":2,
+        "qs_pg:id":2
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":475711
     },
     "wof:country":"AT",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":101833235,
-    "wof:lastmodified":1497296036,
+    "wof:lastmodified":1566599051,
     "wof:name":"Brunn an der Erlauf",
     "wof:parent_id":1108836173,
     "wof:placetype":"locality",

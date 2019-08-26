@@ -10,8 +10,10 @@
     "geom:latitude":47.410477,
     "geom:longitude":9.736761,
     "iso:country":"AT",
+    "lbl:bbox":"9.731761,47.405477,9.741761,47.415477",
     "lbl:latitude":47.410477,
     "lbl:longitude":9.736761,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.400119,
     "mps:longitude":9.729196,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "M\u00fchlebach"
     ],
     "name:swe_x_preferred":[
-        "M\u00fchlebach"
-    ],
-    "name:unk_x_variant":[
         "M\u00fchlebach"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -71,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -102,7 +101,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312406,
+    "wof:lastmodified":1566597477,
     "wof:name":"M\u00fchlebach",
     "wof:parent_id":101827471,
     "wof:placetype":"neighbourhood",

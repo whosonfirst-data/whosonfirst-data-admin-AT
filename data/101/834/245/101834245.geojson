@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.196511,
     "lbl:longitude":14.753642,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.196511,
     "mps:longitude":14.753642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zeltweg"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":582,
     "wof:belongsto":[
@@ -147,10 +150,12 @@
     "wof:concordances":{
         "gn:id":2760610,
         "gp:id":550388,
-        "qs:id":190131,
-        "qs_pg:id":333282,
+        "qs_pg:id":190131,
         "wd:id":"Q189268",
         "wk:page":"Zeltweg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":333282
     },
     "wof:country":"AT",
     "wof:geomhash":"25e5dc218e09d499caf84bb8e5249076",
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":101834245,
-    "wof:lastmodified":1563245798,
+    "wof:lastmodified":1566599065,
     "wof:name":"Zeltweg",
     "wof:parent_id":1108839423,
     "wof:placetype":"locality",

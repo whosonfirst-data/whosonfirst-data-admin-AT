@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.208968,
     "lbl:longitude":15.628799,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.208968,
     "mps:longitude":15.628799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "St. P\u00f6lten"
     ],
@@ -252,7 +255,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u043b\u044c\u0442\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt P\u00f6lton"
     ],
     "name:urd_x_preferred":[
@@ -299,7 +302,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681671,
@@ -312,7 +315,6 @@
     "wof:concordances":{
         "gn:id":2766429,
         "gp:id":543662,
-        "qs:id":1053831,
         "qs_pg:id":1053831,
         "wd:id":"Q82500"
     },
@@ -329,7 +331,7 @@
         }
     ],
     "wof:id":101784541,
-    "wof:lastmodified":1563245999,
+    "wof:lastmodified":1566599120,
     "wof:name":"Sankt P\u00f6lten",
     "wof:parent_id":1108836803,
     "wof:placetype":"locality",

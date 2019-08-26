@@ -10,12 +10,16 @@
     "geom:latitude":47.864918,
     "geom:longitude":16.318724,
     "iso:country":"AT",
+    "lbl:bbox":"16.298724,47.844918,16.338724,47.884918",
     "lbl:latitude":47.864918,
     "lbl:longitude":16.318724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.864918,
     "mps:longitude":16.318724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Eggendorf"
     ],
@@ -108,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         85681671,
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":2780356,
         "gp:id":20094980,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q674201"
     },
     "wof:country":"AT",
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":101874019,
-    "wof:lastmodified":1563245663,
+    "wof:lastmodified":1566599025,
     "wof:name":"Eggendorf",
     "wof:parent_id":1108836615,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.935824,
     "lbl:longitude":16.222341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.935824,
     "mps:longitude":16.222341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leobersdorf"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":183,
     "wof:belongsto":[
         85681671,
@@ -112,10 +115,12 @@
     "wof:concordances":{
         "gn:id":2772309,
         "gp:id":542621,
-        "qs:id":1310817,
         "qs_pg:id":1156255,
         "wd:id":"Q695339",
         "wk:page":"Leobersdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1310817
     },
     "wof:country":"AT",
     "wof:geomhash":"947fa123aa58349e8214e50cc0074ffc",
@@ -130,7 +135,7 @@
         }
     ],
     "wof:id":101833205,
-    "wof:lastmodified":1563245752,
+    "wof:lastmodified":1566599053,
     "wof:name":"Leobersdorf",
     "wof:parent_id":1108835733,
     "wof:placetype":"locality",

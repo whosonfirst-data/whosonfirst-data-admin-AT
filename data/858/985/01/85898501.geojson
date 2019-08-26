@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":47.806531,
     "lbl:longitude":13.090187,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.805956,
     "mps:longitude":13.093849,
     "mz:hierarchy_label":1,
@@ -68,9 +69,6 @@
     "name:swe_x_preferred":[
         "Neuhaus"
     ],
-    "name:unk_x_variant":[
-        "Neuhaus"
-    ],
     "name:vol_x_preferred":[
         "Neuhaus"
     ],
@@ -100,7 +98,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":171,
     "wof:belongsto":[
         102191581,
@@ -113,7 +111,7 @@
     "wof:concordances":{
         "gn:id":2770776,
         "gp:id":547734,
-        "qs:id":440850
+        "qs_pg:id":440850
     },
     "wof:country":"AT",
     "wof:geomhash":"16c7d0f2bdf9266357e3bcda7265c44d",
@@ -132,7 +130,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312392,
+    "wof:lastmodified":1566597466,
     "wof:name":"Neuhaus",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

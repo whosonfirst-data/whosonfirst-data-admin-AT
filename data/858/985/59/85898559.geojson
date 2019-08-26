@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3160003.371377,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.420187,47.114572,15.420187,47.114572",
     "geom:latitude":47.114572,
     "geom:longitude":15.420187,
     "iso:country":"AT",
+    "lbl:bbox":"15.415187,47.109572,15.425187,47.119572",
     "lbl:latitude":47.114572,
     "lbl:longitude":15.420187,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.11651,
     "mps:longitude":15.411348,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:swe_x_preferred":[
         "Anselm H\u00fcttenbrenner"
     ],
-    "name:unk_x_variant":[
-        "Ober Andritz"
-    ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_id":0,
     "qs:gn_local":7871499,
@@ -82,14 +81,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +111,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932084,
+    "wof:lastmodified":1566597463,
     "wof:name":"Ober Andritz",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

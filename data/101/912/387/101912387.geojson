@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.273405,
     "lbl:longitude":14.784186,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.273405,
     "mps:longitude":14.784186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0417\u0435\u043a\u0430\u0443"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         85681687,
@@ -118,9 +121,11 @@
     "wof:concordances":{
         "gn:id":2765335,
         "gp:id":549915,
-        "qs:id":1101859,
         "qs_pg:id":470665,
         "wd:id":"Q659818"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101859
     },
     "wof:country":"AT",
     "wof:geomhash":"ff8523fe5047c1a7cda9cd89624d80da",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101912387,
-    "wof:lastmodified":1563245861,
+    "wof:lastmodified":1566599084,
     "wof:name":"Seckau",
     "wof:parent_id":1108839417,
     "wof:placetype":"locality",

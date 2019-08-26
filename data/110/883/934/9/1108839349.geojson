@@ -16,15 +16,17 @@
     "geom:bbox":"14.9893448817,47.0237654416,15.121446466,47.1555102264",
     "geom:latitude":47.095039,
     "geom:longitude":15.054938,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":10447,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
     "gn:population":10447,
     "iso:country":"AT",
     "lbl:latitude":47.127655,
     "lbl:longitude":15.026565,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0451\u0444\u043b\u0430\u0445"
     ],
@@ -121,7 +123,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675139,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":1108839349,
-    "wof:lastmodified":1564314272,
+    "wof:lastmodified":1566598533,
     "wof:name":"K\u00f6flach",
     "wof:parent_id":102049717,
     "wof:placetype":"localadmin",

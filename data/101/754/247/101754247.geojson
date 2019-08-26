@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.305627,
     "lbl:longitude":16.353289,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.305627,
     "mps:longitude":16.353289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Langenzersdorf"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -117,10 +120,12 @@
     "wof:concordances":{
         "gn:id":2772984,
         "gp:id":542579,
-        "qs:id":1316307,
         "qs_pg:id":245387,
         "wd:id":"Q675616",
         "wk:page":"Langenzersdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1316307
     },
     "wof:country":"AT",
     "wof:geomhash":"11e05ad4a74773cd7a688ae0d4950ab5",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101754247,
-    "wof:lastmodified":1563245627,
+    "wof:lastmodified":1566599015,
     "wof:name":"Langenzersdorf",
     "wof:parent_id":1108835373,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.864253,
     "lbl:longitude":16.174843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.864253,
     "mps:longitude":16.174843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "W\u00f6llersdorf-Steinabr\u00fcckl"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":2760877,
         "gp:id":544473,
-        "qs:id":378317,
         "qs_pg:id":378317,
         "wd:id":"Q673495"
     },
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101833129,
-    "wof:lastmodified":1563245755,
+    "wof:lastmodified":1566599054,
     "wof:name":"W\u00f6llersdorf",
     "wof:parent_id":1108834835,
     "wof:placetype":"locality",

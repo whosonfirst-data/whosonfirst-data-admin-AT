@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.546745,
     "lbl:longitude":13.902871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.546745,
     "mps:longitude":13.902871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sarleinsbach"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85681677,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2766334,
         "gp:id":546678,
-        "qs:id":1012028,
+        "qs_pg:id":1012028,
         "wd:id":"Q509758",
         "wk:page":"Sarleinsbach"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101783411,
-    "wof:lastmodified":1563245952,
+    "wof:lastmodified":1566599109,
     "wof:name":"Sarleinsbach",
     "wof:parent_id":1108836013,
     "wof:placetype":"locality",

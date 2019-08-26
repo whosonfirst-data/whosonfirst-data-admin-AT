@@ -25,8 +25,12 @@
     "gn:population":103,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.45527,48.15753,15.49527,48.19753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -37,7 +41,7 @@
         "gn:id":2776984
     },
     "wof:country":"AT",
-    "wof:geomhash":"746a639aa0ae9db51b644951b8ac95ff",
+    "wof:geomhash":"de7f115d0b1b20650fe552e6df18c9ba",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209426373,
-    "wof:lastmodified":1536287370,
+    "wof:lastmodified":1566597958,
     "wof:name":"Haindorf",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.475270000000002,
+    15.47527,
     48.17753,
-    15.475270000000002,
+    15.47527,
     48.17753
 ],
   "geometry": {"coordinates":[15.47527,48.17753],"type":"Point"}

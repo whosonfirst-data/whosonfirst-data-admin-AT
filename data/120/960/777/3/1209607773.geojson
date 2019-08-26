@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.64667,46.78,15.68667,46.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632785
@@ -36,7 +40,7 @@
         "gn:id":2607912
     },
     "wof:country":"AT",
-    "wof:geomhash":"2dfacd34b131247fdb8afc5f1563ef91",
+    "wof:geomhash":"71ca588fdf08fbbab13c2205c64b2ed9",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209607773,
-    "wof:lastmodified":1536281951,
+    "wof:lastmodified":1566597928,
     "wof:name":"Hartfeld",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.666670000000002,
+    15.66667,
     46.8,
-    15.666670000000002,
+    15.66667,
     46.8
 ],
   "geometry": {"coordinates":[15.66667,46.8],"type":"Point"}

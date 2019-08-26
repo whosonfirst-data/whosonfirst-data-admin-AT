@@ -10,12 +10,16 @@
     "geom:latitude":47.490491,
     "geom:longitude":11.894102,
     "iso:country":"AT",
+    "lbl:bbox":"11.874102,47.470491,11.914102,47.510491",
     "lbl:latitude":47.490491,
     "lbl:longitude":11.894102,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.490491,
     "mps:longitude":11.894102,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Brandnberg"
     ],
@@ -103,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":123,
     "wof:belongsto":[
         85681661,
@@ -117,7 +121,6 @@
         "fct:id":"032694ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2781567,
         "gp:id":550498,
-        "qs:id":408917,
         "qs_pg:id":408917,
         "wd:id":"Q256906"
     },
@@ -137,7 +140,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246049,
+    "wof:lastmodified":1566599133,
     "wof:name":"Brandenberg",
     "wof:parent_id":1108837389,
     "wof:placetype":"locality",

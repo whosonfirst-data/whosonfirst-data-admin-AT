@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000477,
-    "geom:area_square_m":4005090.302438,
+    "geom:area_square_m":4005090.302437,
     "geom:bbox":"14.721881706,47.1729435183,14.744630625,47.210986551",
     "geom:latitude":47.192296,
     "geom:longitude":14.733483,
     "iso:country":"AT",
     "lbl:latitude":47.1878,
     "lbl:longitude":14.735553,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.1878,
     "mps:longitude":14.735553,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Steiermark",
     "qs:a1r":"0",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681687,
         102191581,
@@ -43,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2779789,
         "gp:id":539184,
-        "qs:id":1165796
+        "qs_pg:id":1165796
     },
     "wof:country":"AT",
     "wof:geomhash":"c6c652104832a7a30091b6ba374a23cd",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101834251,
-    "wof:lastmodified":1530142072,
+    "wof:lastmodified":1566599067,
     "wof:name":"Farrach",
     "wof:parent_id":1108839423,
     "wof:placetype":"locality",

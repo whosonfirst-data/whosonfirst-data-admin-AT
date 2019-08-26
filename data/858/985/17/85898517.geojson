@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10947430.17378,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.978088,47.771069,12.978088,47.771069",
     "geom:latitude":47.771069,
     "geom:longitude":12.978088,
     "iso:country":"AT",
+    "lbl:bbox":"12.973088,47.766069,12.983088,47.776069",
     "lbl:latitude":47.771069,
     "lbl:longitude":12.978088,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.766401,
     "mps:longitude":12.978471,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     ],
     "name:eng_x_variant":[
         "Schweizersiedlung"
-    ],
-    "name:unk_x_variant":[
-        "Schwelzer-Siedlung"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837189,
@@ -76,7 +75,6 @@
     "wof:concordances":{
         "gn:id":3322808,
         "gp:id":547870,
-        "qs:id":475807,
         "qs_pg:id":475807
     },
     "wof:country":"AT",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932073,
+    "wof:lastmodified":1566597465,
     "wof:name":"Schwelzer-Siedlung",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

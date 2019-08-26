@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.075213,
     "lbl:longitude":15.125545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.075213,
     "mps:longitude":15.125545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "B\u00e4rnbach"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":279,
     "wof:belongsto":[
         85681687,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":2781992,
         "gp:id":548130,
-        "qs:id":7,
-        "qs_pg:id":1317657,
+        "qs_pg:id":7,
         "wd:id":"Q672629",
         "wk:page":"B\u00e4rnbach"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1317657
     },
     "wof:country":"AT",
     "wof:geomhash":"28a8cab3655407cc98e9e0c23801f618",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101834191,
-    "wof:lastmodified":1563245814,
+    "wof:lastmodified":1566599070,
     "wof:name":"B\u00e4rnbach",
     "wof:parent_id":1108839347,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.975168,
     "lbl:longitude":13.60675,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.975168,
     "mps:longitude":13.60675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Seewalchen am Attersee"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":28,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":2765231,
         "gp:id":546788,
-        "qs:id":1037790,
         "qs_pg:id":1037790,
         "wd:id":"Q876227"
     },
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101833163,
-    "wof:lastmodified":1563245762,
+    "wof:lastmodified":1566599055,
     "wof:name":"Seewalchen am Attersee",
     "wof:parent_id":1108836447,
     "wof:placetype":"locality",

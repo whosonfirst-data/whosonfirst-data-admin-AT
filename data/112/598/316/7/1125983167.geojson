@@ -9,14 +9,18 @@
     "geom:bbox":"15.41579,48.22676,15.41579,48.22676",
     "geom:latitude":48.22676,
     "geom:longitude":15.41579,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"15.39579,48.20676,15.43579,48.24676",
     "lbl:latitude":48.22676,
     "lbl:longitude":15.41579,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Mauer bei Melk"
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Mauer bei Melk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mauer"
     ],
     "name:uzb_x_preferred":[
@@ -62,7 +66,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":542777,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"Nieder\u00f6sterreich",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1125983167,
-    "wof:lastmodified":1563246546,
+    "wof:lastmodified":1566599463,
     "wof:name":"Mauer bei Melk",
     "wof:parent_id":1108835417,
     "wof:placetype":"locality",

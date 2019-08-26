@@ -5,16 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000463,
-    "geom:area_square_m":3846255.612353,
+    "geom:area_square_m":3846255.612352,
     "geom:bbox":"13.0234376599,47.7533299538,13.0584916551,47.7744060685",
     "geom:latitude":47.765033,
     "geom:longitude":13.04108,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":47.767506,
     "lbl:longitude":13.043254,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.763519,
     "mps:longitude":13.041081,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:deu_x_preferred":[
-        "Eichethofsiedlung"
-    ],
-    "name:unk_x_variant":[
         "Eichethofsiedlung"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -78,7 +76,7 @@
     "qs_pg:woe_id":547462,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837079,
@@ -90,7 +88,6 @@
     "wof:concordances":{
         "gn:id":3322825,
         "gp:id":547462,
-        "qs:id":1165866,
         "qs_pg:id":1165866
     },
     "wof:country":"AT",
@@ -110,7 +107,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1534379115,
+    "wof:lastmodified":1566597462,
     "wof:name":"Eichethofsiedlung",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

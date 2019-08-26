@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":47.793962,
     "lbl:longitude":13.020446,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.792861,
     "mps:longitude":13.018844,
     "mz:hierarchy_label":1,
@@ -36,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837079,
@@ -49,7 +50,6 @@
     "wof:concordances":{
         "gn:id":2771750,
         "gp:id":547703,
-        "qs:id":1156289,
         "qs_pg:id":1156289,
         "wd:id":"Q278337"
     },
@@ -70,7 +70,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1561827376,
+    "wof:lastmodified":1566597461,
     "wof:name":"Maxglan",
     "wof:parent_id":101748065,
     "wof:placetype":"neighbourhood",

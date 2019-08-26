@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.837887,
     "lbl:longitude":13.80532,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.836948,
     "mps:longitude":13.805635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Gmundn"
     ],
@@ -200,9 +203,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"1433",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Gmunden",
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":102049807,
-    "wof:lastmodified":1563243071,
+    "wof:lastmodified":1566597214,
     "wof:name":"Gmunden",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

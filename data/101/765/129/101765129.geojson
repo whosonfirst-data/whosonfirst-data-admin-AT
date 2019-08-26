@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.460402,
     "lbl:longitude":9.957955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.460402,
     "mps:longitude":9.957955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Hittisau"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         85681649,
@@ -114,7 +117,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":551557,
-        "qs:id":421982,
         "qs_pg:id":421982,
         "wd:id":"Q701026"
     },
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":101765129,
-    "wof:lastmodified":1563245637,
+    "wof:lastmodified":1566599018,
     "wof:name":"Hittisau",
     "wof:parent_id":1108837959,
     "wof:placetype":"locality",

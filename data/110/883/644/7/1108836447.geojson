@@ -16,15 +16,17 @@
     "geom:bbox":"13.5931646093,47.9509598379,13.6482188954,47.9879212135",
     "geom:latitude":47.968449,
     "geom:longitude":13.620925,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":5044,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
     "gn:population":5044,
     "iso:country":"AT",
     "lbl:latitude":47.96826,
     "lbl:longitude":13.618652,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lenzing"
     ],
@@ -100,7 +102,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674660,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":1108836447,
-    "wof:lastmodified":1564313761,
+    "wof:lastmodified":1566598239,
     "wof:name":"Lenzing",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

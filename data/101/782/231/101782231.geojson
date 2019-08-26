@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.695762,
     "lbl:longitude":15.32486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.695762,
     "mps:longitude":15.32486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Oinsteig"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         85681671,
@@ -117,7 +120,7 @@
         "gn:id":2782800,
         "gp:id":12673700,
         "loc:id":"n95040633",
-        "qs:id":1002016,
+        "qs_pg:id":1002016,
         "wd:id":"Q661747",
         "wk:page":"Allentsteig"
     },
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101782231,
-    "wof:lastmodified":1563245921,
+    "wof:lastmodified":1566599101,
     "wof:name":"Allentsteig",
     "wof:parent_id":1108835411,
     "wof:placetype":"locality",

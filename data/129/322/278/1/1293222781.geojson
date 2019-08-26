@@ -26,8 +26,12 @@
     "gn:population":25,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"14.21333,47.51333,14.25333,47.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Unterberg"
     ],
@@ -41,8 +45,7 @@
         "Unterberg"
     ],
     "name:und_x_variant":[
-        "Glatzend\u00f6rfl",
-        "Unterberg"
+        "Glatzend\u00f6rfl"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1293222781,
-    "wof:lastmodified":1564312559,
+    "wof:lastmodified":1566597554,
     "wof:name":"Unterberg",
     "wof:parent_id":1108838941,
     "wof:placetype":"locality",

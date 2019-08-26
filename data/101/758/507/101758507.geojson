@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.746548,
     "lbl:longitude":13.087656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.746548,
     "mps:longitude":13.087656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "\u00d6sbethen"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"suburbs point-very-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":184,
     "wof:belongsto":[
         85681681,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":2780113,
         "gp:id":12674739,
-        "qs:id":1122848,
+        "qs_pg:id":1122848,
         "wd:id":"Q252161",
         "wk:page":"Elsbethen"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101758507,
-    "wof:lastmodified":1563246031,
+    "wof:lastmodified":1566599129,
     "wof:name":"Elsbethen",
     "wof:parent_id":1108837129,
     "wof:placetype":"locality",

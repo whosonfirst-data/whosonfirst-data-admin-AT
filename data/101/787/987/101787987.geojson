@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.501723,
     "lbl:longitude":15.439385,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.501723,
     "mps:longitude":15.439385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kindberg"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":53,
     "wof:belongsto":[
@@ -117,10 +120,12 @@
     "wof:concordances":{
         "gn:id":2761134,
         "gp:id":548848,
-        "qs:id":246048,
-        "qs_pg:id":1165884,
+        "qs_pg:id":246048,
         "wd:id":"Q695227",
         "wk:page":"Kindberg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1165884
     },
     "wof:country":"AT",
     "wof:geomhash":"c3abd83e401e77d8c8c29c3c9ddf08f9",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101787987,
-    "wof:lastmodified":1563246139,
+    "wof:lastmodified":1566599160,
     "wof:name":"Kindberg",
     "wof:parent_id":1108838881,
     "wof:placetype":"locality",

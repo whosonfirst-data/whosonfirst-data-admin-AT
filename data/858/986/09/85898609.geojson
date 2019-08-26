@@ -10,8 +10,10 @@
     "geom:latitude":47.266676,
     "geom:longitude":11.404885,
     "iso:country":"AT",
+    "lbl:bbox":"11.399885,47.261676,11.409885,47.271676",
     "lbl:latitude":47.266676,
     "lbl:longitude":11.404885,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.266183,
     "mps:longitude":11.410921,
     "mz:hierarchy_label":0,
@@ -54,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837687,
@@ -85,7 +87,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1561827377,
+    "wof:lastmodified":1566597476,
     "wof:name":"Pradl",
     "wof:parent_id":101748061,
     "wof:placetype":"neighbourhood",

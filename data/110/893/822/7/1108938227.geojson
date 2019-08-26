@@ -10,8 +10,10 @@
     "geom:latitude":48.196637,
     "geom:longitude":16.315594,
     "iso:country":"AT",
+    "lbl:bbox":"16.3105942921,48.1916366256,16.3205942921,48.2016366256",
     "lbl:latitude":48.196637,
     "lbl:longitude":16.315594,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,7 +24,7 @@
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
     "src:geom":"mz",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108938227,
-    "wof:lastmodified":1534803977,
+    "wof:lastmodified":1566598127,
     "wof:name":"Neu-Penzing",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

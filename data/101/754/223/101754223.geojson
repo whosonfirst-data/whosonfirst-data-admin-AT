@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.228613,
     "lbl:longitude":16.151309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.228613,
     "mps:longitude":16.151309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gablitz"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":72,
     "wof:belongsto":[
         85681671,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":2779061,
         "gp:id":541680,
-        "qs:id":1101764,
         "qs_pg:id":1076420,
         "wd:id":"Q665086",
         "wk:page":"Gablitz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101764
     },
     "wof:country":"AT",
     "wof:geomhash":"3c2d51d48802186a3595a71ceafdac67",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101754223,
-    "wof:lastmodified":1563245626,
+    "wof:lastmodified":1566599015,
     "wof:name":"Gablitz",
     "wof:parent_id":1108836775,
     "wof:placetype":"locality",

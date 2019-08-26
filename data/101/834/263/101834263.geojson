@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.320182,
     "lbl:longitude":13.154016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.320182,
     "mps:longitude":13.154016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Schwoschzach im Pongau"
     ],
@@ -89,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0432\u0430\u0440\u0446\u0430\u0445-\u0456\u043c-\u041f\u043e\u043d\u0433\u0430\u0443"
     ],
-    "name:unk_x_variant":[
-        "Schwarzach"
-    ],
     "name:uzb_x_preferred":[
         "Schwarzach im Pongau"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":331,
     "wof:belongsto":[
         85681681,
@@ -135,7 +135,6 @@
         "fct:id":"03256ebc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2765495,
         "gp:id":547867,
-        "qs:id":1135906,
         "qs_pg:id":1135906,
         "wd:id":"Q253179",
         "wk:page":"Schwarzach im Pongau"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245828,
+    "wof:lastmodified":1566599073,
     "wof:name":"Schwarzach im Pongau",
     "wof:parent_id":1108837033,
     "wof:placetype":"locality",

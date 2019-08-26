@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.78956,
     "lbl:longitude":15.910655,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.78956,
     "mps:longitude":15.910655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puchberg am Schneeberg"
     ],
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Puchberg am Schneeberg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puchberg"
     ],
     "name:uzb_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":343,
     "wof:belongsto":[
         85681671,
@@ -127,7 +130,6 @@
     "wof:concordances":{
         "gn:id":2768279,
         "gp:id":543381,
-        "qs:id":1076648,
         "qs_pg:id":1076648,
         "wd:id":"Q666478"
     },
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101786763,
-    "wof:lastmodified":1563246071,
+    "wof:lastmodified":1566599140,
     "wof:name":"Puchberg am Schneeberg",
     "wof:parent_id":1108836241,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.51132,
     "lbl:longitude":16.03645,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.51132,
     "mps:longitude":16.03645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "M\u00f6nichkirchen"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":152,
     "wof:belongsto":[
         85681671,
@@ -109,10 +112,12 @@
     "wof:concordances":{
         "gn:id":2771273,
         "gp:id":542862,
-        "qs:id":902491,
-        "qs_pg:id":1327173,
+        "qs_pg:id":902491,
         "wd:id":"Q676748",
         "wk:page":"M\u00f6nichkirchen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327173
     },
     "wof:country":"AT",
     "wof:geomhash":"cccdb8040a2c61b4577c2e105b8af27a",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":101912437,
-    "wof:lastmodified":1563245846,
+    "wof:lastmodified":1566599079,
     "wof:name":"M\u00f6nichkirchen",
     "wof:parent_id":1108836605,
     "wof:placetype":"locality",

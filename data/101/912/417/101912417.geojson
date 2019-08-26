@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.302058,
     "lbl:longitude":15.577298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.302058,
     "mps:longitude":15.577298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sankt Kathrein am Offenegg"
     ],
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Sankt Kathrein am Offenegg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt Kathrein"
     ],
     "name:uzb_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         85681687,
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2766625,
         "gp:id":549780,
-        "qs:id":996409,
         "qs_pg:id":996409,
         "wd:id":"Q641624",
         "wk:page":"Sankt Kathrein am Offenegg"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101912417,
-    "wof:lastmodified":1563245856,
+    "wof:lastmodified":1566599083,
     "wof:name":"St. Kathrein am Offenegg",
     "wof:parent_id":1108838905,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":47.036124,
     "geom:longitude":15.491929,
     "iso:country":"AT",
+    "lbl:bbox":"15.4869291379,47.031123574,15.4969291379,47.041123574",
     "lbl:latitude":47.036124,
     "lbl:longitude":15.491929,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101754133,
         102049709,
+        85681687,
         1175610467
     ],
     "wof:breaches":[],
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1444831835,
-    "wof:lastmodified":1566340950,
+    "wof:lastmodified":1566598003,
     "wof:name":"Tiefental",
     "wof:parent_id":1175610467,
     "wof:placetype":"neighbourhood",

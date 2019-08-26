@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.104906,
     "lbl:longitude":15.711113,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.104906,
     "mps:longitude":15.711113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Qlaysdorf"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -132,10 +135,12 @@
     "wof:concordances":{
         "gn:id":2780215,
         "gp:id":548485,
-        "qs:id":1107809,
         "qs_pg:id":211259,
         "wd:id":"Q643600",
         "wk:page":"Gleisdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1107809
     },
     "wof:country":"AT",
     "wof:geomhash":"1a01a7c2a85efbabb09bef8b9c73245a",
@@ -150,7 +155,7 @@
         }
     ],
     "wof:id":101789137,
-    "wof:lastmodified":1563246165,
+    "wof:lastmodified":1566599168,
     "wof:name":"Gleisdorf",
     "wof:parent_id":1108838867,
     "wof:placetype":"locality",

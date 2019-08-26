@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
-    "geom:area_square_m":1136639.970629,
+    "geom:area_square_m":1136639.970628,
     "geom:bbox":"16.4848096389,48.3928373081,16.5015373421,48.4122002917",
     "geom:latitude":48.400811,
     "geom:longitude":16.492935,
     "iso:country":"AT",
     "lbl:latitude":48.400535,
     "lbl:longitude":16.491668,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.400535,
     "mps:longitude":16.491668,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
     "qs:a1r":"0",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":2763170,
         "gp:id":544097,
-        "qs:id":314686,
         "qs_pg:id":314686
     },
     "wof:country":"AT",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101783445,
-    "wof:lastmodified":1497300997,
+    "wof:lastmodified":1566599109,
     "wof:name":"Ulrichskirchen",
     "wof:parent_id":1108836975,
     "wof:placetype":"locality",

@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":48.20673,
     "lbl:longitude":15.634333,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.206709,
     "mps:longitude":15.634329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "St. P\u00f6lten"
     ],
@@ -284,9 +287,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"108",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Sankt P\u00f6lten",
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":102049849,
-    "wof:lastmodified":1563243064,
+    "wof:lastmodified":1566597208,
     "wof:name":"Sankt P\u00f6lten",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

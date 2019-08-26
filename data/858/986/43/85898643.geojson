@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.200755,
     "lbl:longitude":16.226163,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.190976,
     "mps:longitude":16.236253,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
-        "Auhof"
-    ],
-    "name:unk_x_variant":[
         "Auhof"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -71,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2782172,
         "gp:id":551735,
-        "qs:id":228791,
         "qs_pg:id":228791
     },
     "wof:country":"AT",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237691,
+    "wof:lastmodified":1566597476,
     "wof:name":"Auhof",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

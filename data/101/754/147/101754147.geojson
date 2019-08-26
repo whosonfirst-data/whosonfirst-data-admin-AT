@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.964204,
     "lbl:longitude":15.400534,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.964204,
     "mps:longitude":15.400534,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Unterpremst\u00e4tten"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Unterpremst\u00e4tten"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Premst\u00e4tten"
     ],
     "name:uzb_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         85681687,
@@ -103,10 +106,12 @@
     "wof:concordances":{
         "gn:id":2762714,
         "gp:id":550184,
-        "qs:id":902501,
-        "qs_pg:id":1079034,
+        "qs_pg:id":902501,
         "wd:id":"Q690041",
         "wk:page":"Unterpremst\u00e4tten"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079034
     },
     "wof:country":"AT",
     "wof:geomhash":"612e53cde0cea293702fbe6ce26230aa",
@@ -121,7 +126,7 @@
         }
     ],
     "wof:id":101754147,
-    "wof:lastmodified":1563245635,
+    "wof:lastmodified":1566599018,
     "wof:name":"Unterpremst\u00e4tten",
     "wof:parent_id":1108839145,
     "wof:placetype":"locality",

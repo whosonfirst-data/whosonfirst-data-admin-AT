@@ -16,15 +16,17 @@
     "geom:bbox":"15.7142332522,47.6422092013,15.8693119702,47.7711810056",
     "geom:latitude":47.707663,
     "geom:longitude":15.78523,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
-    "gn:population":2565,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":47.712688,
     "lbl:longitude":15.790489,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Reichenau an der Rax"
     ],
@@ -79,7 +81,7 @@
     "name:swe_x_preferred":[
         "Reichenau an der Rax"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reichenau"
     ],
     "name:uzb_x_preferred":[
@@ -118,7 +120,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12673901,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":1108834923,
-    "wof:lastmodified":1564314519,
+    "wof:lastmodified":1566598687,
     "wof:name":"Reichenau an der Rax",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

@@ -10,8 +10,10 @@
     "geom:latitude":47.094254,
     "geom:longitude":15.51887,
     "iso:country":"AT",
+    "lbl:bbox":"15.5138696132,47.0892542235,15.5238696132,47.0992542235",
     "lbl:latitude":47.094254,
     "lbl:longitude":15.51887,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444831997,
-    "wof:lastmodified":1566340969,
+    "wof:lastmodified":1566598000,
     "wof:name":"Auf der Ries",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

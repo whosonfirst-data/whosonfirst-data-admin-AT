@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.70033,
     "lbl:longitude":13.703057,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.700163,
     "mps:longitude":13.703646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0424\u0456\u043b\u0430\u0445"
     ],
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"1009",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Villach",
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":102049683,
-    "wof:lastmodified":1563243070,
+    "wof:lastmodified":1566597213,
     "wof:name":"Villach Land",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

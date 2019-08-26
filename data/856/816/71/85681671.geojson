@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":48.305564,
     "lbl:longitude":15.636522,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.296852,
     "mps:longitude":15.656609,
     "mz:hierarchy_label":1,
@@ -290,7 +291,7 @@
         "Nieder\u00f6sterreich"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bcb\u0baf\u0bb0\u0bcd  \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe"
+        "\u0bb2\u0bcb\u0baf\u0bb0\u0bcd \u0b86\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c4b\u0c2f\u0c30\u0c4d \u0c06\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c3f\u0c2f\u0c3e"
@@ -315,9 +316,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f \u0410\u0432\u0441\u0442\u0440\u0456\u044f"
-    ],
-    "name:unk_x_variant":[
-        "Lower Austria"
     ],
     "name:urd_x_preferred":[
         "\u0632\u06cc\u0631\u06cc\u06ba \u0622\u0633\u0679\u0631\u06cc\u0627"
@@ -412,9 +410,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"19,172",
     "statoids:area_mi":"7,402",
     "statoids:as_of_date":"2011-10-31",
@@ -461,11 +459,10 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1565652206,
+    "wof:lastmodified":1566597444,
     "wof:name":"Nieder\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1617444,
     "wof:population_rank":12,

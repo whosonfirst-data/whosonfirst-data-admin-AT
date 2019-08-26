@@ -10,12 +10,16 @@
     "geom:latitude":47.949814,
     "geom:longitude":13.197793,
     "iso:country":"AT",
+    "lbl:bbox":"13.177793,47.929814,13.217793,47.969814",
     "lbl:latitude":47.949814,
     "lbl:longitude":13.197793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.949814,
     "mps:longitude":13.197793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "K\u00f6stendorf"
     ],
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0441\u0442\u0435\u043d\u0434\u043e\u0440\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross K\u00f6stendorf"
     ],
     "name:uzb_x_preferred":[
@@ -99,7 +103,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         85681681,
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2773680,
         "gp:id":547645,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q701179",
         "wk:page":"K\u00f6stendorf"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":101874017,
-    "wof:lastmodified":1563245663,
+    "wof:lastmodified":1566599025,
     "wof:name":"K\u00f6stendorf",
     "wof:parent_id":1108837153,
     "wof:placetype":"locality",

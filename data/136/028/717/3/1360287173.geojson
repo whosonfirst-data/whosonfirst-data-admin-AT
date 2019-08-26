@@ -26,8 +26,12 @@
     "gn:population":664,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"14.79667,48.14667,14.83667,48.18667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ardagger Markt"
     ],
@@ -85,10 +89,6 @@
     "name:swe_x_preferred":[
         "Ardagger Markt"
     ],
-    "name:und_x_variant":[
-        "Ardagger",
-        "Ardagger Markt"
-    ],
     "name:uzb_x_preferred":[
         "Ardagger"
     ],
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1360287173,
-    "wof:lastmodified":1564315075,
+    "wof:lastmodified":1566598993,
     "wof:name":"Ardagger Markt",
     "wof:parent_id":1108836795,
     "wof:placetype":"locality",

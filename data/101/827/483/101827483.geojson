@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.488334,
     "lbl:longitude":9.694218,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.488334,
     "mps:longitude":9.694218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u0440\u0434"
     ],
@@ -125,7 +128,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":131,
     "wof:belongsto":[
@@ -139,7 +142,7 @@
     "wof:concordances":{
         "gn:id":2776874,
         "gp:id":12675649,
-        "qs:id":529322,
+        "qs_pg:id":529322,
         "wd:id":"Q699612"
     },
     "wof:country":"AT",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101827483,
-    "wof:lastmodified":1563245643,
+    "wof:lastmodified":1566599020,
     "wof:name":"Hard",
     "wof:parent_id":1108837957,
     "wof:placetype":"locality",

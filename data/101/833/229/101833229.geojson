@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000396,
-    "geom:area_square_m":3274125.112074,
+    "geom:area_square_m":3274125.112073,
     "geom:bbox":"14.7931343762,48.0682979551,14.8536164959,48.1122431195",
     "geom:latitude":48.087835,
     "geom:longitude":14.820923,
     "iso:country":"AT",
     "lbl:latitude":48.10722,
     "lbl:longitude":14.843541,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.10722,
     "mps:longitude":14.843541,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":541823,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"AT",
     "wof:geomhash":"b0b17e218ebbe968d8f3e10f2e3c4f0a",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101833229,
-    "wof:lastmodified":1496607331,
+    "wof:lastmodified":1566599048,
     "wof:name":"Neufurth",
     "wof:parent_id":1108834895,
     "wof:placetype":"locality",

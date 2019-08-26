@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":48.348722,
     "lbl:longitude":14.141587,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Walding"
     ],
@@ -82,7 +85,7 @@
         "\u74e6\u5c14\u4e01"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108836415,
-    "wof:lastmodified":1564314393,
+    "wof:lastmodified":1566598603,
     "wof:name":"Walding",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",

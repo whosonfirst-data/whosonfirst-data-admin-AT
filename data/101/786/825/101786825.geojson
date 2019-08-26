@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.761179,
     "lbl:longitude":16.801444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.761179,
     "mps:longitude":16.801444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "\u00dcmitz"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":375,
     "wof:belongsto":[
         85681651,
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2775327,
         "gp:id":538859,
-        "qs:id":226846,
         "qs_pg:id":226846,
         "wd:id":"Q663981",
         "wk:page":"Illmitz"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101786825,
-    "wof:lastmodified":1563246093,
+    "wof:lastmodified":1566599148,
     "wof:name":"Illmitz",
     "wof:parent_id":1108838513,
     "wof:placetype":"locality",

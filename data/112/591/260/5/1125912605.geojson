@@ -9,14 +9,18 @@
     "geom:bbox":"13.60667,46.5775,13.60667,46.5775",
     "geom:latitude":46.5775,
     "geom:longitude":13.60667,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"13.58667,46.5575,13.62667,46.5975",
     "lbl:latitude":46.5775,
     "lbl:longitude":13.60667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Feistritz an der Gail"
@@ -81,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0439\u0448\u0442\u0440\u0456\u0446-\u0430\u043d-\u0434\u0435\u0440-\u0490\u0430\u0439\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Feistritz"
     ],
     "name:uzb_x_preferred":[
@@ -123,7 +127,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":539405,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"K\u00e4rnten",
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1125912605,
-    "wof:lastmodified":1563246512,
+    "wof:lastmodified":1566599450,
     "wof:name":"Feistritz an der Gail",
     "wof:parent_id":1108838329,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.54667,47.09667,15.58667,47.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632785
@@ -36,7 +40,7 @@
         "gn:id":2770038
     },
     "wof:country":"AT",
-    "wof:geomhash":"76a2352d7194ac80959eb93e40f2938c",
+    "wof:geomhash":"6b9952a399a56df9969c5c69880606d4",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209103547,
-    "wof:lastmodified":1536297653,
+    "wof:lastmodified":1566597967,
     "wof:name":"Oberhoefling",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.566670000000002,
+    15.56667,
     47.11667,
-    15.566670000000002,
+    15.56667,
     47.11667
 ],
   "geometry": {"coordinates":[15.56667,47.11667],"type":"Point"}

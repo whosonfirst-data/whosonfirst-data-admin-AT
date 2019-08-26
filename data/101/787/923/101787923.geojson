@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.325104,
     "lbl:longitude":12.792883,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.325104,
     "mps:longitude":12.792883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0633\u064a\u0644 \u0623\u0645 \u0632\u064a\u0647"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043b\u043b\u044c-\u0430\u043c-\u0417\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zell in the Pinzgau"
     ],
     "name:uzb_x_preferred":[
@@ -163,7 +166,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681681,
@@ -177,7 +180,6 @@
         "fct:id":"03257efc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2760634,
         "gp:id":548011,
-        "qs:id":1333333,
         "qs_pg:id":1333333,
         "wd:id":"Q187572",
         "wk:page":"Zell am See"
@@ -198,7 +200,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246119,
+    "wof:lastmodified":1566599154,
     "wof:name":"Zell am See",
     "wof:parent_id":1108837255,
     "wof:placetype":"locality",

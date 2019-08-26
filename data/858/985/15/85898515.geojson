@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":1957462.935683,
+    "geom:area_square_m":1957462.935682,
     "geom:bbox":"13.0457664472,47.8039313466,13.0627441406,47.8223758774",
     "geom:latitude":47.813301,
     "geom:longitude":13.05462,
     "iso:country":"AT",
     "lbl:latitude":47.809422,
     "lbl:longitude":13.052937,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.814124,
     "mps:longitude":13.056154,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:deu_x_preferred":[
-        "Schallmoos"
-    ],
-    "name:unk_x_variant":[
         "Schallmoos"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837079,
@@ -70,7 +68,6 @@
     "wof:concordances":{
         "gn:id":3323083,
         "gp:id":547847,
-        "qs:id":1037891,
         "qs_pg:id":1037891
     },
     "wof:country":"AT",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1497312729,
+    "wof:lastmodified":1566597467,
     "wof:name":"Schallmoos",
     "wof:parent_id":101748065,
     "wof:placetype":"neighbourhood",

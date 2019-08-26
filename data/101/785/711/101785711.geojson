@@ -9,16 +9,19 @@
     "geom:bbox":"16.2961796813,47.9468467967,16.3150801425,47.9632068835",
     "geom:latitude":47.9555,
     "geom:longitude":16.304087,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":47.955579,
     "lbl:longitude":16.303442,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.955579,
     "mps:longitude":16.303442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tattendorf"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":24,
     "wof:belongsto":[
         85681671,
@@ -126,14 +129,13 @@
     "wof:concordances":{
         "gn:id":2763846,
         "gp:id":543996,
-        "qs:id":373472,
-        "qs_pg:id":887680,
+        "qs_pg:id":373472,
         "wd:id":"Q876253",
         "wk:page":"Tattendorf"
     },
     "wof:concordances_alt":{
         "gn:id":2763888,
-        "qs_pg:id":373472
+        "qs_pg:id":887680
     },
     "wof:country":"AT",
     "wof:geomhash":"51a0338ba1148e4c499bcae48df18e08",
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101785711,
-    "wof:lastmodified":1563245907,
+    "wof:lastmodified":1566599097,
     "wof:name":"Tattendorf",
     "wof:parent_id":1108836937,
     "wof:placetype":"locality",

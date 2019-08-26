@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.697751,
     "lbl:longitude":16.010349,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.697751,
     "mps:longitude":16.010349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wimpassing im Schwarzatale"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85681671,
@@ -115,9 +118,11 @@
     "wof:concordances":{
         "gn:id":2761085,
         "gp:id":544411,
-        "qs:id":1187722,
         "qs_pg:id":40687,
         "wd:id":"Q604829"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1187722
     },
     "wof:country":"AT",
     "wof:geomhash":"64ae3050d8671b08d23395ebaaa8f1c3",
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":101833089,
-    "wof:lastmodified":1563245764,
+    "wof:lastmodified":1566599056,
     "wof:name":"Wimpassing im Schwarzatale",
     "wof:parent_id":1108835287,
     "wof:placetype":"locality",

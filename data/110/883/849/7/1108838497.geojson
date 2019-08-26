@@ -16,15 +16,17 @@
     "geom:bbox":"16.2204801684,47.2290301693,16.3022600612,47.2946838229",
     "geom:latitude":47.258907,
     "geom:longitude":16.2645,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":1444,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":47.253468,
     "lbl:longitude":16.254948,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rotenturm an der Pinka"
     ],
@@ -64,7 +66,7 @@
     "name:swe_x_preferred":[
         "Rotenturm an der Pinka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rothenthurm"
     ],
     "name:war_x_preferred":[
@@ -91,7 +93,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12673412,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1108838497,
-    "wof:lastmodified":1564314365,
+    "wof:lastmodified":1566598589,
     "wof:name":"Rotenturm an der Pinka",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

@@ -9,14 +9,18 @@
     "geom:bbox":"13.31667,47.28333,13.31667,47.28333",
     "geom:latitude":47.28333,
     "geom:longitude":13.31667,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"13.29667,47.26333,13.33667,47.30333",
     "lbl:latitude":47.28333,
     "lbl:longitude":13.31667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Viehhofen"
@@ -63,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0433\u0433\u043e\u0444\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nieder Viehhof"
     ],
     "name:uzb_x_preferred":[
@@ -99,7 +103,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":547953,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"Salzburg",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1125880865,
-    "wof:lastmodified":1564315360,
+    "wof:lastmodified":1566599327,
     "wof:name":"Viehhofen",
     "wof:parent_id":1108837019,
     "wof:placetype":"locality",

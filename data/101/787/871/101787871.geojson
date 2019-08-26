@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.378197,
     "lbl:longitude":13.12575,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.378197,
     "mps:longitude":13.12575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Mijbouch am Houchkinig"
     ],
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u044e\u043b\u044c\u0431\u0430\u0445-\u0430\u043c-\u0413\u043e\u0445\u043a\u0435\u043d\u0456\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00fchlbach"
     ],
     "name:uzb_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":208,
     "wof:belongsto":[
         85681681,
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":2771129,
         "gp:id":547726,
-        "qs:id":1060409,
         "qs_pg:id":1060409,
         "wd:id":"Q255417",
         "wk:page":"M\u00fchlbach am Hochk\u00f6nig"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101787871,
-    "wof:lastmodified":1563246131,
+    "wof:lastmodified":1566599158,
     "wof:name":"M\u00fchlbach am Hochk\u00f6nig",
     "wof:parent_id":1108837021,
     "wof:placetype":"locality",

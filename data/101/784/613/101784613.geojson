@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.352552,
     "lbl:longitude":14.421085,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.352552,
     "mps:longitude":14.421085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Goineikircha"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":504,
     "wof:belongsto":[
@@ -123,10 +126,12 @@
     "wof:concordances":{
         "gn:id":2770741,
         "gp:id":545130,
-        "qs:id":190109,
-        "qs_pg:id":271663,
+        "qs_pg:id":190109,
         "wd:id":"Q671233",
         "wk:page":"Gallneukirchen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":271663
     },
     "wof:country":"AT",
     "wof:geomhash":"4740599d25f8a50950870f81868c5c98",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101784613,
-    "wof:lastmodified":1563245984,
+    "wof:lastmodified":1566599117,
     "wof:name":"Gallneukirchen",
     "wof:parent_id":1108836149,
     "wof:placetype":"locality",

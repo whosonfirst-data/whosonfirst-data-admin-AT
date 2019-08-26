@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.977253,
     "lbl:longitude":16.311397,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.977253,
     "mps:longitude":16.311397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oberwaltersdorf"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":24,
     "wof:belongsto":[
         85681671,
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":2769798,
         "gp:id":543155,
-        "qs:id":1195627,
         "qs_pg:id":1156260,
         "wd:id":"Q666775",
         "wk:page":"Oberwaltersdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1195627
     },
     "wof:country":"AT",
     "wof:geomhash":"d80e354ed35b0e2476e8d9b9ac92612b",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101785697,
-    "wof:lastmodified":1563245897,
+    "wof:lastmodified":1566599095,
     "wof:name":"Oberwaltersdorf",
     "wof:parent_id":1108836353,
     "wof:placetype":"locality",

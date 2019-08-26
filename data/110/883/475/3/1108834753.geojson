@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":48.101259,
     "lbl:longitude":13.147928,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mattighofen"
     ],
@@ -85,7 +88,7 @@
         "\u99ac\u8482\u5e0c\u970d\u82ac"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108834753,
-    "wof:lastmodified":1564314341,
+    "wof:lastmodified":1566598576,
     "wof:name":"Mattighofen",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

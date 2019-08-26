@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.808747,
     "lbl:longitude":12.987046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.808747,
     "mps:longitude":12.987046,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0633-\u0632\u064a\u062a\u0633\u0646\u0647\u0627\u064a\u0645"
     ],
@@ -112,7 +115,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044c\u0441-\u0417\u0456\u0446\u0435\u043d\u0433\u0430\u0439\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stezenheim"
     ],
     "name:uzb_x_preferred":[
@@ -142,7 +145,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":377,
     "wof:belongsto":[
         85681681,
@@ -155,7 +158,7 @@
     "wof:concordances":{
         "gn:id":2765077,
         "gp:id":28995711,
-        "qs:id":887063,
+        "qs_pg:id":887063,
         "wd:id":"Q871414"
     },
     "wof:country":"AT",
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101754159,
-    "wof:lastmodified":1563245604,
+    "wof:lastmodified":1566599007,
     "wof:name":"Siezenheim",
     "wof:parent_id":1108837189,
     "wof:placetype":"locality",

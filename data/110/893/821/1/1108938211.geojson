@@ -10,8 +10,10 @@
     "geom:latitude":48.204067,
     "geom:longitude":16.374166,
     "iso:country":"AT",
+    "lbl:bbox":"16.369166479,48.1990672194,16.379166479,48.2090672194",
     "lbl:latitude":48.204067,
     "lbl:longitude":16.374166,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -25,7 +27,7 @@
         "K\u00e4rntner ViertelL"
     ],
     "src:geom":"mz",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -51,7 +53,7 @@
         }
     ],
     "wof:id":1108938211,
-    "wof:lastmodified":1534803977,
+    "wof:lastmodified":1566598124,
     "wof:name":"Kaerntner Viertel",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":47.864086,
     "lbl:longitude":15.848246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gutenstein"
     ],
@@ -43,7 +46,7 @@
         "Gutenstein"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108835375,
-    "wof:lastmodified":1564314148,
+    "wof:lastmodified":1566598460,
     "wof:name":"Gutenstein",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

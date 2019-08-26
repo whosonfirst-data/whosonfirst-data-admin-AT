@@ -10,12 +10,16 @@
     "geom:latitude":47.843289,
     "geom:longitude":13.785123,
     "iso:country":"AT",
+    "lbl:bbox":"13.765123,47.823289,13.805123,47.863289",
     "lbl:latitude":47.843289,
     "lbl:longitude":13.785123,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.843289,
     "mps:longitude":13.785123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Traunkircha"
     ],
@@ -103,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         85681677,
@@ -117,7 +121,6 @@
         "gn:id":2763414,
         "gp:id":546971,
         "loc:id":"n82042455",
-        "qs:id":222231,
         "qs_pg:id":222231,
         "wd:id":"Q259710",
         "wk:page":"Traunkirchen"
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101853465,
-    "wof:lastmodified":1563246050,
+    "wof:lastmodified":1566599134,
     "wof:name":"Traunkirchen",
     "wof:parent_id":1108835159,
     "wof:placetype":"locality",

@@ -16,15 +16,17 @@
     "geom:bbox":"15.7813306751,47.6181010865,15.8500262781,47.6573386448",
     "geom:latitude":47.642463,
     "geom:longitude":15.82255,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":642,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
     "gn:population":642,
     "iso:country":"AT",
     "lbl:latitude":47.644905,
     "lbl:longitude":15.831634,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Ode Semmering"
     ],
@@ -91,7 +93,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u043c\u043c\u0435\u0440\u0456\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Semmering-Kurort"
     ],
     "name:zho_x_preferred":[
@@ -118,7 +120,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674216,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":1108835823,
-    "wof:lastmodified":1564314553,
+    "wof:lastmodified":1566598708,
     "wof:name":"Semmering",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

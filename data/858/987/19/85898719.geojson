@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.212336,
     "lbl:longitude":16.309374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.213693,
     "mps:longitude":16.320222,
     "mz:hierarchy_label":1,
@@ -121,9 +122,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0442\u0430\u043a\u0440\u0456\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "Ottakring"
-    ],
     "name:zho_x_preferred":[
         "\u5965\u5854\u514b\u7075"
     ],
@@ -170,7 +168,6 @@
     "wof:concordances":{
         "gn:id":2769359,
         "gp:id":551778,
-        "qs:id":894733,
         "qs_pg:id":894733,
         "wd:id":"Q265945"
     },
@@ -191,7 +188,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237685,
+    "wof:lastmodified":1566597471,
     "wof:name":"Ottakring",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

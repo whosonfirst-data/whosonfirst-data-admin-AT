@@ -11,12 +11,16 @@
     "geom:longitude":15.33935,
     "gn:population":6806,
     "iso:country":"AT",
+    "lbl:bbox":"15.31935,47.124578,15.35935,47.164578",
     "lbl:latitude":47.144578,
     "lbl:longitude":15.33935,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.144578,
     "mps:longitude":15.33935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gratkorn"
     ],
@@ -113,7 +117,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":33,
     "wof:belongsto":[
@@ -127,10 +131,12 @@
     "wof:concordances":{
         "gn:id":2778085,
         "gp:id":548533,
-        "qs:id":1101853,
         "qs_pg:id":1077220,
         "wd:id":"Q522963",
         "wk:page":"Gratkorn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101853
     },
     "wof:country":"AT",
     "wof:geomhash":"9be443e5f67875704b3bdb7076305e65",
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":101858891,
-    "wof:lastmodified":1563245731,
+    "wof:lastmodified":1566599046,
     "wof:name":"Gratkorn",
     "wof:parent_id":1108839199,
     "wof:placetype":"locality",

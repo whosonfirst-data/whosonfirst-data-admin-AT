@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":47.568442,
     "lbl:longitude":15.259071,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aflenz Kurort"
     ],
@@ -58,7 +61,7 @@
         "Aflenz"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108839327,
-    "wof:lastmodified":1564314179,
+    "wof:lastmodified":1566598477,
     "wof:name":"Aflenz",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

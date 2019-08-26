@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.16787,
     "lbl:longitude":16.436559,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.172232,
     "mps:longitude":16.421334,
     "mz:hierarchy_label":1,
@@ -95,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043c\u043b\u0456\u043d\u043d\u044f"
     ],
-    "name:unk_x_variant":[
-        "Simmering"
-    ],
     "name:yue_x_preferred":[
         "\u71c9\u716e"
     ],
@@ -147,7 +145,6 @@
     "wof:concordances":{
         "gn:id":2765028,
         "gp:id":543848,
-        "qs:id":490031,
         "qs_pg:id":490031,
         "wd:id":"Q240164"
     },
@@ -168,7 +165,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237684,
+    "wof:lastmodified":1566597456,
     "wof:name":"Simmering",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

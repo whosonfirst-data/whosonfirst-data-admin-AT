@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.43295,
     "lbl:longitude":14.296763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.43295,
     "mps:longitude":14.296763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hellmons\u00f6dt"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         85681677,
@@ -112,10 +115,12 @@
     "wof:concordances":{
         "gn:id":2776531,
         "gp:id":545393,
-        "qs:id":190856,
-        "qs_pg:id":1060405,
+        "qs_pg:id":190856,
         "wd:id":"Q693541",
         "wk:page":"Hellmons\u00f6dt"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060405
     },
     "wof:country":"AT",
     "wof:geomhash":"4b9ae52fda4336c25fc4cfe9635971c8",
@@ -130,7 +135,7 @@
         }
     ],
     "wof:id":101783365,
-    "wof:lastmodified":1563245933,
+    "wof:lastmodified":1566599104,
     "wof:name":"Hellmons\u00f6dt",
     "wof:parent_id":1108836159,
     "wof:placetype":"locality",

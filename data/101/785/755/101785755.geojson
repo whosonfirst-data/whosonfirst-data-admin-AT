@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.995442,
     "lbl:longitude":16.860829,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.995442,
     "mps:longitude":16.860829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Parndorf"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":40,
     "wof:belongsto":[
@@ -126,10 +129,12 @@
     "wof:concordances":{
         "gn:id":2769264,
         "gp:id":538993,
-        "qs:id":1191977,
         "qs_pg:id":1156220,
         "wd:id":"Q660886",
         "wk:page":"Parndorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1191977
     },
     "wof:country":"AT",
     "wof:geomhash":"b8a6504808ecc3ba62197d65fc2b0764",
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":101785755,
-    "wof:lastmodified":1563245863,
+    "wof:lastmodified":1566599085,
     "wof:name":"Parndorf",
     "wof:parent_id":1108838627,
     "wof:placetype":"locality",

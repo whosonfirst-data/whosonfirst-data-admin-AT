@@ -9,14 +9,18 @@
     "geom:bbox":"10.61667,47.11667,10.61667,47.11667",
     "geom:latitude":47.11667,
     "geom:longitude":10.61667,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"10.59667,47.09667,10.63667,47.13667",
     "lbl:latitude":47.11667,
     "lbl:longitude":10.61667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Fliess"
@@ -87,9 +91,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u043b\u0456\u0441"
     ],
-    "name:unk_x_variant":[
-        "Fliess"
-    ],
     "name:uzb_x_preferred":[
         "Flie\u00df"
     ],
@@ -123,7 +124,7 @@
     "qs_pg:woe_adm0":23424853,
     "qs_pg:woe_id":29335599,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424853,
     "woe:name_adm0":"Italia",
     "woe:name_adm1":"Lombardia",
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1125906421,
-    "wof:lastmodified":1563246478,
+    "wof:lastmodified":1566599415,
     "wof:name":"Fiesso",
     "wof:parent_id":1108837289,
     "wof:placetype":"locality",

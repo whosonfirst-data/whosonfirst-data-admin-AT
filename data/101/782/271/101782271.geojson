@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.771438,
     "lbl:longitude":15.026194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.771438,
     "mps:longitude":15.026194,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hoheneich"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         85681671,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":2775743,
         "gp:id":22527395,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q677279",
         "wk:page":"Hoheneich"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101782271,
-    "wof:lastmodified":1563245919,
+    "wof:lastmodified":1566599100,
     "wof:name":"Hoheneich",
     "wof:parent_id":1108835365,
     "wof:placetype":"locality",

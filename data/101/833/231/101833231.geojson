@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.042422,
     "lbl:longitude":16.284465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.042422,
     "mps:longitude":16.284465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gumpoldskirchen"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":523,
     "wof:belongsto":[
         85681671,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":2777279,
         "gp:id":541955,
-        "qs:id":75577,
-        "qs_pg:id":478834,
+        "qs_pg:id":75577,
         "wd:id":"Q337827",
         "wk:page":"Gumpoldskirchen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":478834
     },
     "wof:country":"AT",
     "wof:geomhash":"999d77d0b0f3c18627dd253cf0302dd3",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101833231,
-    "wof:lastmodified":1563245773,
+    "wof:lastmodified":1566599058,
     "wof:name":"Gumpoldskirchen",
     "wof:parent_id":1108836199,
     "wof:placetype":"locality",

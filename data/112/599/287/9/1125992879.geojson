@@ -9,14 +9,18 @@
     "geom:bbox":"15.33721,48.2414,15.33721,48.2414",
     "geom:latitude":48.2414,
     "geom:longitude":15.33721,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"15.31721,48.2214,15.35721,48.2614",
     "lbl:latitude":48.2414,
     "lbl:longitude":15.33721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Emmersdorf an der Donau"
@@ -72,7 +76,7 @@
     "name:swe_x_preferred":[
         "Emmersdorf an der Donau"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Emmersdorf"
     ],
     "name:uzb_x_preferred":[
@@ -111,7 +115,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":541510,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"Nieder\u00f6sterreich",
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1125992879,
-    "wof:lastmodified":1563246465,
+    "wof:lastmodified":1566599410,
     "wof:name":"Emmersdorf an der Donau",
     "wof:parent_id":1108836935,
     "wof:placetype":"locality",

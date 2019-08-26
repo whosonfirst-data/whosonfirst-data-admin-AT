@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.803412,
     "lbl:longitude":16.223252,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.802878,
     "mps:longitude":16.222391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Wiener Neustadt"
     ],
@@ -242,9 +245,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"61",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Wiener Neustadt",
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":102049795,
-    "wof:lastmodified":1563243054,
+    "wof:lastmodified":1566597199,
     "wof:name":"Wiener Neustadt",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

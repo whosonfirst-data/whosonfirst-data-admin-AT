@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.049114,
     "lbl:longitude":15.741807,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.049114,
     "mps:longitude":15.741807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Hainf\u00f6id"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         85681671,
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":2768048,
         "gp:id":542014,
-        "qs:id":1335203,
         "qs_pg:id":1335203,
         "wd:id":"Q671275"
     },
@@ -141,7 +143,7 @@
         }
     ],
     "wof:id":101844589,
-    "wof:lastmodified":1563245709,
+    "wof:lastmodified":1566599038,
     "wof:name":"Hainfeld",
     "wof:parent_id":1108836661,
     "wof:placetype":"locality",

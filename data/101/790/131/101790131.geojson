@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.760716,
     "lbl:longitude":15.204927,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.760716,
     "mps:longitude":15.204927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Schwanberg"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":290,
     "wof:belongsto":[
         85681687,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2765515,
         "gp:id":12675302,
-        "qs:id":1187784,
+        "qs_pg:id":1187784,
         "wd:id":"Q691274"
     },
     "wof:country":"AT",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101790131,
-    "wof:lastmodified":1563245594,
+    "wof:lastmodified":1566599004,
     "wof:name":"Schwanberg",
     "wof:parent_id":1108839277,
     "wof:placetype":"locality",

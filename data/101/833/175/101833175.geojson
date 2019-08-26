@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.045014,
     "lbl:longitude":14.30842,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.045014,
     "mps:longitude":14.30842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sierning"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
         "fct:id":"0324fd74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2765080,
         "gp:id":546804,
-        "qs:id":1142174,
         "qs_pg:id":1142174,
         "wd:id":"Q166009",
         "wk:page":"Sierning"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245757,
+    "wof:lastmodified":1566599054,
     "wof:name":"Sierning",
     "wof:parent_id":1108836125,
     "wof:placetype":"locality",

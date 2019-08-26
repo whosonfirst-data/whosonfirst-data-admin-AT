@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.989605,
     "lbl:longitude":15.514064,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.989605,
     "mps:longitude":15.514064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Hausmannst\u00e4tten"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681687,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2776632,
         "gp:id":548677,
-        "qs:id":1077232,
         "qs_pg:id":1077232,
         "wd:id":"Q695447",
         "wk:page":"Hausmannst\u00e4tten"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101754129,
-    "wof:lastmodified":1563245616,
+    "wof:lastmodified":1566599012,
     "wof:name":"Hausmannst\u00e4tten",
     "wof:parent_id":1108839189,
     "wof:placetype":"locality",

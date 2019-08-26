@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.943687,
     "lbl:longitude":16.260804,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.943687,
     "mps:longitude":16.260804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "G\u00fcnselsdorf"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         85681671,
@@ -112,10 +115,12 @@
     "wof:concordances":{
         "gn:id":2777261,
         "gp:id":541959,
-        "qs:id":8,
-        "qs_pg:id":496719,
+        "qs_pg:id":8,
         "wd:id":"Q700294",
         "wk:page":"G\u00fcnselsdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":496719
     },
     "wof:country":"AT",
     "wof:geomhash":"e4663390b86cacf2438a15ca7e3aba45",
@@ -130,7 +135,7 @@
         }
     ],
     "wof:id":101785695,
-    "wof:lastmodified":1563245878,
+    "wof:lastmodified":1566599090,
     "wof:name":"G\u00fcnselsdorf",
     "wof:parent_id":1108836689,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.48907,
     "lbl:longitude":14.589058,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.48907,
     "mps:longitude":14.589058,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bad Eisenkappel"
     ],
@@ -35,7 +38,7 @@
     "name:swe_x_preferred":[
         "Bad Eisenkappel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eisenkappel"
     ],
     "qs:a0":"\u00d6sterreich",
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":400,
     "wof:belongsto":[
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2780196,
         "gp:id":539364,
-        "qs:id":48872,
         "qs_pg:id":48872,
         "wd:id":"Q14954747",
         "wk:page":"Bad Eisenkappel"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101844439,
-    "wof:lastmodified":1563245698,
+    "wof:lastmodified":1566599035,
     "wof:name":"Bad Eisenkappel",
     "wof:parent_id":1108838373,
     "wof:placetype":"locality",

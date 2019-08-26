@@ -9,14 +9,17 @@
     "geom:bbox":"15.9425342662,47.8827483657,15.9855041751,47.8969453848",
     "geom:latitude":47.892095,
     "geom:longitude":15.961984,
-    "geonames:id":"2770680,2770689",
+    "gn:id":"2770680,2770689",
     "iso:country":"AT",
     "lbl:latitude":47.892221,
     "lbl:longitude":15.961658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.892221,
     "mps:longitude":15.961658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Neusiedl"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         85681671,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":2770689,
         "gp:id":542959,
-        "qs:id":926871
+        "qs_pg:id":926871
     },
     "wof:country":"AT",
     "wof:geomhash":"c08aa66539310119598797051da7eab7",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101833117,
-    "wof:lastmodified":1564315117,
+    "wof:lastmodified":1566599054,
     "wof:name":"Neusiedl",
     "wof:parent_id":1108835845,
     "wof:placetype":"locality",

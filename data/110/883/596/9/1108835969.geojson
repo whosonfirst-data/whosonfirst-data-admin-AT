@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":48.594465,
     "lbl:longitude":14.059438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lichtenau im M\u00fchlkreis"
     ],
@@ -76,7 +79,7 @@
         "\u7c73\u5c14\u5730\u533a\u5229\u5e0c\u7279\u7459"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108835969,
-    "wof:lastmodified":1564314241,
+    "wof:lastmodified":1566598516,
     "wof:name":"Lichtenau im M\u00fchlkreis",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

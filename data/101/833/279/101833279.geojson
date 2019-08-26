@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.363297,
     "lbl:longitude":16.539177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.363297,
     "mps:longitude":16.539177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pillichsdorf"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681671,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":2763185,
         "gp:id":543299,
-        "qs:id":1180383,
         "qs_pg:id":987464,
         "wd:id":"Q665501",
         "wk:page":"Pillichsdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1180383
     },
     "wof:country":"AT",
     "wof:geomhash":"aee97fb29fe9edb3dc2d6cbe008c1f88",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101833279,
-    "wof:lastmodified":1563245768,
+    "wof:lastmodified":1566599056,
     "wof:name":"Pillichsdorf",
     "wof:parent_id":1108836701,
     "wof:placetype":"locality",

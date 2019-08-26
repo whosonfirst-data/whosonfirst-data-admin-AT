@@ -16,15 +16,17 @@
     "geom:bbox":"15.9152171344,47.6128190596,15.9704010018,47.6367844812",
     "geom:latitude":47.625177,
     "geom:longitude":15.942411,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":580,
-    "gn:population":605,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":580,
     "iso:country":"AT",
     "lbl:latitude":47.627556,
     "lbl:longitude":15.940108,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Otterthal"
     ],
@@ -76,7 +78,7 @@
     "name:swe_x_preferred":[
         "Otterthal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ottertal"
     ],
     "name:uzb_x_preferred":[
@@ -115,7 +117,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674189,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1108834961,
-    "wof:lastmodified":1564313992,
+    "wof:lastmodified":1566598370,
     "wof:name":"Otterthal",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.449167,
     "lbl:longitude":9.76411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.449167,
     "mps:longitude":9.76411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Schwarzach"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":62,
     "wof:belongsto":[
         85681649,
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gn:id":2765499,
         "gp:id":551678,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q701709"
     },
     "wof:country":"AT",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101827493,
-    "wof:lastmodified":1563245654,
+    "wof:lastmodified":1566599022,
     "wof:name":"Schwarzach",
     "wof:parent_id":1108838049,
     "wof:placetype":"locality",

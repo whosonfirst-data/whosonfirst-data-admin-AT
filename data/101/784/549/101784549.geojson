@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.321305,
     "lbl:longitude":13.333669,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.321305,
     "mps:longitude":13.333669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Obernberg am Inn"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         85681677,
@@ -116,7 +119,6 @@
         "fct:id":"0324b6c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2769900,
         "gp:id":546180,
-        "qs:id":228751,
         "qs_pg:id":228751,
         "wd:id":"Q668249",
         "wk:page":"Obernberg am Inn"
@@ -137,7 +139,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245994,
+    "wof:lastmodified":1566599120,
     "wof:name":"Obernberg am Inn",
     "wof:parent_id":1108835665,
     "wof:placetype":"locality",

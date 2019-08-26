@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.367917,
     "lbl:longitude":9.9307,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.367917,
     "mps:longitude":9.9307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Bizau"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         85681649,
@@ -115,10 +118,12 @@
     "wof:concordances":{
         "gn:id":2781730,
         "gp:id":551467,
-        "qs:id":904967,
-        "qs_pg:id":1060429,
+        "qs_pg:id":904967,
         "wd:id":"Q301444",
         "wk:page":"Bizau"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060429
     },
     "wof:country":"AT",
     "wof:geomhash":"2edc8b7fe0a641917b530cc22969c678",
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":101911757,
-    "wof:lastmodified":1563246057,
+    "wof:lastmodified":1566599136,
     "wof:name":"Bizau",
     "wof:parent_id":1108837901,
     "wof:placetype":"locality",

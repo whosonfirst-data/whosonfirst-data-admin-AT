@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.906809,
     "lbl:longitude":16.545345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.906809,
     "mps:longitude":16.545345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stotzing"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0442\u043e\u0442\u0446\u0438\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stoczing"
     ],
     "name:uzb_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         85681651,
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2764225,
         "gp:id":539070,
-        "qs:id":1186828,
         "qs_pg:id":1186828,
         "wd:id":"Q592578",
         "wk:page":"Stotzing"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101911553,
-    "wof:lastmodified":1563246057,
+    "wof:lastmodified":1566599136,
     "wof:name":"Stotzing",
     "wof:parent_id":1108838465,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":48.332974,
     "geom:longitude":14.316725,
     "iso:country":"AT",
+    "lbl:bbox":"14.311725,48.327974,14.321725,48.337974",
     "lbl:latitude":48.332974,
     "lbl:longitude":14.316725,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.337494,
     "mps:longitude":14.318462,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:swe_x_preferred":[
         "Furth"
     ],
-    "name:unk_x_variant":[
-        "Furth"
-    ],
     "name:zho_x_preferred":[
         "\u5bcc\u5c14\u7279"
     ],
@@ -91,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108834701,
@@ -104,7 +103,6 @@
     "wof:concordances":{
         "gn:id":2779095,
         "gp:id":545121,
-        "qs:id":1117136,
         "qs_pg:id":1117136
     },
     "wof:country":"AT",
@@ -124,7 +122,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312381,
+    "wof:lastmodified":1566597460,
     "wof:name":"Furth",
     "wof:parent_id":101748071,
     "wof:placetype":"neighbourhood",

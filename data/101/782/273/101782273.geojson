@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.698564,
     "lbl:longitude":14.892035,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.698564,
     "mps:longitude":14.892035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u0439\u0442\u0440\u0430"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.700833,
     "wd:longitude":14.895556,
     "wd:wordcount":487,
@@ -130,7 +133,7 @@
     "wof:concordances":{
         "gn:id":2761538,
         "gp:id":12674049,
-        "qs:id":75576,
+        "qs_pg:id":75576,
         "wd:id":"Q661548",
         "wk:page":"Weitra"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101782273,
-    "wof:lastmodified":1563245910,
+    "wof:lastmodified":1566599098,
     "wof:name":"Weitra",
     "wof:parent_id":1108836327,
     "wof:placetype":"locality",

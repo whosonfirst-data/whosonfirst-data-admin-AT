@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.175836,
     "lbl:longitude":16.283296,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.171925,
     "mps:longitude":16.279854,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:eng_x_preferred":[
         "Lains"
-    ],
-    "name:unk_x_variant":[
-        "Lainz"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
@@ -76,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2773124,
         "gp:id":551763,
-        "qs:id":901638,
         "qs_pg:id":901638
     },
     "wof:country":"AT",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237685,
+    "wof:lastmodified":1566597474,
     "wof:name":"Lainz",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

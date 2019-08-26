@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.790767,
     "lbl:longitude":15.067004,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.790767,
     "mps:longitude":15.067004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Schrems"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gn:id":2765602,
         "gp:id":12673937,
-        "qs:id":535772,
+        "qs_pg:id":535772,
         "wd:id":"Q661484",
         "wk:page":"Schrems"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101782275,
-    "wof:lastmodified":1563245913,
+    "wof:lastmodified":1566599099,
     "wof:name":"Schrems",
     "wof:parent_id":1108836821,
     "wof:placetype":"locality",

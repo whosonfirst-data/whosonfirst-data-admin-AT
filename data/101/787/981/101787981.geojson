@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.392709,
     "lbl:longitude":13.684094,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.392709,
     "mps:longitude":13.684094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Schlaming"
     ],
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":321,
     "wof:belongsto":[
@@ -165,10 +168,12 @@
     "wof:concordances":{
         "gn:id":2765516,
         "gp:id":549863,
-        "qs:id":988803,
         "qs_pg:id":894715,
         "wd:id":"Q254221",
         "wk:page":"Schladming"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":988803
     },
     "wof:country":"AT",
     "wof:geomhash":"017c0bf9c3925cb38f3566a0e0b3315d",
@@ -183,7 +188,7 @@
         }
     ],
     "wof:id":101787981,
-    "wof:lastmodified":1563246143,
+    "wof:lastmodified":1566599162,
     "wof:name":"Schladming",
     "wof:parent_id":1108838897,
     "wof:placetype":"locality",

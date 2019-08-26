@@ -9,14 +9,18 @@
     "geom:bbox":"15.46931,48.3979,15.46931,48.3979",
     "geom:latitude":48.3979,
     "geom:longitude":15.46931,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"15.44931,48.3779,15.48931,48.4179",
     "lbl:latitude":48.3979,
     "lbl:longitude":15.46931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Wei\u00dfenkirchen in der Wachau"
@@ -78,7 +82,7 @@
     "name:swe_x_preferred":[
         "Wei\u00dfenkirchen in der Wachau"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weissenkirchen"
     ],
     "name:uzb_x_preferred":[
@@ -120,7 +124,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":544333,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"Nieder\u00f6sterreich",
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1125807149,
-    "wof:lastmodified":1563246445,
+    "wof:lastmodified":1566599368,
     "wof:name":"Wei\u00dfenkirchen in der Wachau",
     "wof:parent_id":1108836805,
     "wof:placetype":"locality",

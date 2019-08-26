@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.586343,
     "lbl:longitude":16.546871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.586343,
     "mps:longitude":16.546871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Horitschon"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         85681651,
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2775525,
         "gp:id":538857,
-        "qs:id":265212,
         "qs_pg:id":265212,
         "wd:id":"Q579177"
     },
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101833059,
-    "wof:lastmodified":1563245775,
+    "wof:lastmodified":1566599058,
     "wof:name":"Horitschon",
     "wof:parent_id":1108838523,
     "wof:placetype":"locality",

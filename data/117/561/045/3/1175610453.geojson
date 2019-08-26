@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.477247,
     "lbl:longitude":16.58864,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.477247,
     "mps:longitude":16.58864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gaweinstal"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681671,
@@ -116,10 +119,12 @@
     "wof:concordances":{
         "gn:id":2778772,
         "gp:id":541709,
-        "qs:id":9,
-        "qs_pg:id":977141,
+        "qs_pg:id":9,
         "wd:id":"Q666556",
         "wk:page":"Gaweinstal"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977141
     },
     "wof:country":"AT",
     "wof:geomhash":"00f542adf00a1c27bc494f85c3149a02",
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1175610453,
-    "wof:lastmodified":1563245267,
+    "wof:lastmodified":1566598799,
     "wof:name":"Gaweinstal",
     "wof:parent_id":1108836961,
     "wof:placetype":"locality",

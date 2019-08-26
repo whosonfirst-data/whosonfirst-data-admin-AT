@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.738987,
     "lbl:longitude":13.038682,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.738987,
     "mps:longitude":13.038682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Gr\u00e4dig"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -138,10 +141,12 @@
     "wof:concordances":{
         "gn:id":2767328,
         "gp:id":547535,
-        "qs:id":1008568,
         "qs_pg:id":475770,
         "wd:id":"Q257324",
         "wk:page":"Gr\u00f6dig"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1008568
     },
     "wof:country":"AT",
     "wof:geomhash":"8f6149781cd19a83c8a5591eec6295ac",
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":101786765,
-    "wof:lastmodified":1563246075,
+    "wof:lastmodified":1566599142,
     "wof:name":"Gr\u00f6dig",
     "wof:parent_id":1108837139,
     "wof:placetype":"locality",

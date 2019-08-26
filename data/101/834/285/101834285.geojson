@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.425381,
     "lbl:longitude":12.833251,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.425381,
     "mps:longitude":12.833251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bar_x_preferred":[
         "Soifejn am Stoanern Meer"
     ],
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043b\u044c\u0444\u0435\u043b\u044c\u0434\u0435\u043d-\u0430\u043c-\u0428\u0442\u0430\u0439\u043d\u0435\u0440\u043d\u0435\u043d-\u041c\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salfelden"
     ],
     "name:urd_x_preferred":[
@@ -160,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681681,
@@ -174,7 +177,6 @@
         "fct:id":"032569b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2766922,
         "gp:id":547824,
-        "qs:id":234213,
         "qs_pg:id":234213,
         "wd:id":"Q183228",
         "wk:page":"Saalfelden"
@@ -195,7 +197,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245821,
+    "wof:lastmodified":1566599072,
     "wof:name":"Saalfelden am Steinernen Meer",
     "wof:parent_id":1108837235,
     "wof:placetype":"locality",

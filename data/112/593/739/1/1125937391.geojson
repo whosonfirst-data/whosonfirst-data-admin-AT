@@ -9,14 +9,18 @@
     "geom:bbox":"14.48639,46.83861,14.48639,46.83861",
     "geom:latitude":46.83861,
     "geom:longitude":14.48639,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"14.46639,46.81861,14.50639,46.85861",
     "lbl:latitude":46.83861,
     "lbl:longitude":14.48639,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cym_x_preferred":[
         "Kappel am Krappfeld"
@@ -66,9 +70,6 @@
     "name:swe_x_preferred":[
         "Kappel am Krappfeld"
     ],
-    "name:unk_x_variant":[
-        "Kappel am Krappfeld"
-    ],
     "name:uzb_x_preferred":[
         "Kappel am Krappfeld"
     ],
@@ -105,7 +106,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":539693,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"K\u00e4rnten",
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1125937391,
-    "wof:lastmodified":1563246274,
+    "wof:lastmodified":1566599237,
     "wof:name":"Kappel",
     "wof:parent_id":1108838221,
     "wof:placetype":"locality",

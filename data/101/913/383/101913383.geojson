@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.071694,
     "lbl:longitude":15.514364,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.071694,
     "mps:longitude":15.514364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Graz"
     ],
@@ -389,7 +392,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681687,
@@ -402,7 +405,7 @@
     "wof:concordances":{
         "gn:id":2778067,
         "gp:id":28996295,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q13298"
     },
     "wof:country":"AT",
@@ -418,7 +421,7 @@
         }
     ],
     "wof:id":101913383,
-    "wof:lastmodified":1563246014,
+    "wof:lastmodified":1566599124,
     "wof:name":"Graz",
     "wof:parent_id":1108839193,
     "wof:placetype":"locality",

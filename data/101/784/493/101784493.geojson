@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.119647,
     "lbl:longitude":16.203789,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.119647,
     "mps:longitude":16.203789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kaltenleutgeben"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":210,
     "wof:belongsto":[
         85681671,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":2774851,
         "gp:id":542291,
-        "qs:id":1101812,
         "qs_pg:id":1078978,
         "wd:id":"Q665008",
         "wk:page":"Kaltenleutgeben"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101812
     },
     "wof:country":"AT",
     "wof:geomhash":"83585ee4ec9ee1ab8def535645144ba6",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101784493,
-    "wof:lastmodified":1563245990,
+    "wof:lastmodified":1566599119,
     "wof:name":"Kaltenleutgeben",
     "wof:parent_id":1108835409,
     "wof:placetype":"locality",

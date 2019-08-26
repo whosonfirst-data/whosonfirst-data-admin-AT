@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"13.78917,48.53611,13.82917,48.57611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632785
@@ -36,7 +40,7 @@
         "gn:id":3319422
     },
     "wof:country":"AT",
-    "wof:geomhash":"1fbdcfd2505124995c1dd281609a0dfd",
+    "wof:geomhash":"7803bcba94fc4217eee30fb31aca55cd",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209129945,
-    "wof:lastmodified":1536296835,
+    "wof:lastmodified":1566597878,
     "wof:name":"Pichlhaeuseln",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.809170000000002,
+    13.80917,
     48.55611,
-    13.809170000000002,
+    13.80917,
     48.55611
 ],
   "geometry": {"coordinates":[13.80917,48.55611],"type":"Point"}

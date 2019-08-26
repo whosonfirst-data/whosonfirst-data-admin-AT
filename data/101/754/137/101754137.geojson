@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":2409392.525518,
+    "geom:area_square_m":2409392.525519,
     "geom:bbox":"15.5189320932,46.9888535912,15.5565233834,47.0159344936",
     "geom:latitude":47.003048,
     "geom:longitude":15.535406,
     "iso:country":"AT",
     "lbl:latitude":47.009412,
     "lbl:longitude":15.543522,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.009412,
     "mps:longitude":15.543522,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Steiermark",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681687,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2762113,
         "gp:id":550246,
-        "qs:id":1220497
+        "qs_pg:id":1220497
     },
     "wof:country":"AT",
     "wof:geomhash":"e56dcea31303307088b72f06428e7d2c",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101754137,
-    "wof:lastmodified":1496619737,
+    "wof:lastmodified":1566599014,
     "wof:name":"Wagersbach",
     "wof:parent_id":1108839143,
     "wof:placetype":"locality",

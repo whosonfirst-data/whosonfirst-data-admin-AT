@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4568512.079848,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.288661,48.35782,14.288661,48.35782",
     "geom:latitude":48.35782,
     "geom:longitude":14.288661,
     "iso:country":"AT",
+    "lbl:bbox":"14.283661,48.35282,14.293661,48.36282",
     "lbl:latitude":48.35782,
     "lbl:longitude":14.288661,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.381794,
     "mps:longitude":14.257507,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Grundberg"
     ],
     "name:deu_x_preferred":[
-        "Gr\u00fcndberg"
-    ],
-    "name:unk_x_variant":[
         "Gr\u00fcndberg"
     ],
     "qs:gn_fcode":"PPLX",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108834701,
@@ -74,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2777431,
         "gp:id":545249,
-        "qs:id":1156280,
         "qs_pg:id":1156280
     },
     "wof:country":"AT",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932058,
+    "wof:lastmodified":1566597462,
     "wof:name":"Gr\u00fcndberg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

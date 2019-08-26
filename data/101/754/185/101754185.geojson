@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.078141,
     "lbl:longitude":16.321676,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.078141,
     "mps:longitude":16.321676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Wiener Neudorf"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":376,
     "wof:belongsto":[
@@ -120,10 +123,12 @@
     "wof:concordances":{
         "gn:id":2761348,
         "gp:id":544373,
-        "qs:id":1107692,
         "qs_pg:id":243052,
         "wd:id":"Q666602",
         "wk:page":"Wiener Neudorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1107692
     },
     "wof:country":"AT",
     "wof:geomhash":"6f6b87abd96109d085a4868325797b19",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101754185,
-    "wof:lastmodified":1563245636,
+    "wof:lastmodified":1566599018,
     "wof:name":"Wiener Neudorf",
     "wof:parent_id":1108834869,
     "wof:placetype":"locality",

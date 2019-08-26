@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.964818,
     "lbl:longitude":16.271215,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.964818,
     "mps:longitude":16.271215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0646\u0643\u0648\u062a\u0627\u0631\u062f"
     ],
@@ -108,9 +111,6 @@
     "name:tur_x_preferred":[
         "Szentgotth\u00e1rd"
     ],
-    "name:unk_x_variant":[
-        "Farkasfa"
-    ],
     "name:vie_x_preferred":[
         "Szentgotth\u00e1rd"
     ],
@@ -132,7 +132,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -148,7 +148,7 @@
         "gn:id":3044669,
         "gp:id":22528210,
         "loc:id":"n82249979",
-        "qs:id":907229,
+        "qs_pg:id":907229,
         "wd:id":"Q604516",
         "wk:page":"Szentgotth\u00e1rd"
     },
@@ -168,7 +168,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563246027,
+    "wof:lastmodified":1566599127,
     "wof:name":"Szentgotth\u00e1rd",
     "wof:parent_id":1108838739,
     "wof:placetype":"locality",

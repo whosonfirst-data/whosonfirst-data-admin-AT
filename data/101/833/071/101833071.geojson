@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.719403,
     "lbl:longitude":16.417496,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.719403,
     "mps:longitude":16.417496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marz"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         85681651,
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gn:id":2771847,
         "gp:id":12673501,
-        "qs:id":1101744,
+        "qs_pg:id":1101744,
         "wd:id":"Q686983",
         "wk:page":"Marz, Austria"
     },
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101833071,
-    "wof:lastmodified":1563245744,
+    "wof:lastmodified":1566599050,
     "wof:name":"Marz",
     "wof:parent_id":1108838519,
     "wof:placetype":"locality",

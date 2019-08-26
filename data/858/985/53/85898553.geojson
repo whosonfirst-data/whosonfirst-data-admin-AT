@@ -10,8 +10,10 @@
     "geom:latitude":47.367422,
     "geom:longitude":15.105286,
     "iso:country":"AT",
+    "lbl:bbox":"15.100286,47.362422,15.110286,47.372422",
     "lbl:latitude":47.367422,
     "lbl:longitude":15.105286,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.36175,
     "mps:longitude":15.114777,
     "mz:hierarchy_label":0,
@@ -96,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u044e\u043b\u044c\u0442\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "M\u00fchltal"
-    ],
     "name:uzb_x_preferred":[
         "M\u00fchltal"
     ],
@@ -141,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108839009,
@@ -153,7 +152,6 @@
     "wof:concordances":{
         "gn:id":2771060,
         "gp:id":549234,
-        "qs:id":468162,
         "qs_pg:id":468162
     },
     "wof:country":"AT",
@@ -173,7 +171,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312391,
+    "wof:lastmodified":1566597466,
     "wof:name":"M\u00fchltal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

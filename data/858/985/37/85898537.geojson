@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2612731.391658,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.152893,47.396488,15.152893,47.396488",
     "geom:latitude":47.396488,
     "geom:longitude":15.152893,
     "iso:country":"AT",
+    "lbl:bbox":"15.147893,47.391488,15.157893,47.401488",
     "lbl:latitude":47.396488,
     "lbl:longitude":15.152893,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.39649,
     "mps:longitude":15.152893,
     "mz:hierarchy_label":0,
@@ -53,9 +55,6 @@
     "name:swe_x_preferred":[
         "Judendorf-Strassengel"
     ],
-    "name:unk_x_variant":[
-        "Judendorf"
-    ],
     "name:uzb_x_preferred":[
         "Judendorf-Stra\u00dfengel"
     ],
@@ -88,14 +87,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839005,
         85632785,
         101834293,
-        102049769
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +117,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932077,
+    "wof:lastmodified":1566597466,
     "wof:name":"Judendorf",
     "wof:parent_id":101834293,
     "wof:placetype":"neighbourhood",

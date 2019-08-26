@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13005320.056396,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.306358,48.374105,14.306358,48.374105",
     "geom:latitude":48.374105,
     "geom:longitude":14.306358,
     "iso:country":"AT",
+    "lbl:bbox":"14.301358,48.369105,14.311358,48.379105",
     "lbl:latitude":48.374105,
     "lbl:longitude":14.306358,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.372595,
     "mps:longitude":14.317663,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:deu_x_preferred":[
-        "Maderleiten"
-    ],
-    "name:unk_x_variant":[
         "Maderleiten"
     ],
     "qs:gn_fcode":"PPLX",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108836139,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2772149,
         "gp:id":545830,
-        "qs:id":901635,
         "qs_pg:id":901635
     },
     "wof:country":"AT",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932061,
+    "wof:lastmodified":1566597459,
     "wof:name":"Maderleiten",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

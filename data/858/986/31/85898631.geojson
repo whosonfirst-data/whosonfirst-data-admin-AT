@@ -10,8 +10,10 @@
     "geom:latitude":47.236136,
     "geom:longitude":9.594455,
     "iso:country":"AT",
+    "lbl:bbox":"9.589455,47.231136,9.599455,47.241136",
     "lbl:latitude":47.236136,
     "lbl:longitude":9.594455,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.234489,
     "mps:longitude":9.593909,
     "mz:hierarchy_label":0,
@@ -65,9 +67,6 @@
     "name:ukr_x_preferred":[
         "Tisis"
     ],
-    "name:unk_x_variant":[
-        "Tisis"
-    ],
     "name:war_x_preferred":[
         "Tisis"
     ],
@@ -101,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":221,
     "wof:belongsto":[
         102191581,
@@ -115,7 +114,6 @@
     "wof:concordances":{
         "gn:id":2763577,
         "gp:id":551701,
-        "qs:id":133776,
         "qs_pg:id":133776,
         "wd:id":"Q7809601"
     },
@@ -136,7 +134,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563243497,
+    "wof:lastmodified":1566597476,
     "wof:name":"Tisis",
     "wof:parent_id":101827453,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.306845,
     "lbl:longitude":16.008371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.306845,
     "mps:longitude":16.008371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Langenrohr"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":202,
     "wof:belongsto":[
         85681671,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2773007,
         "gp:id":12673768,
-        "qs:id":399721,
+        "qs_pg:id":399721,
         "wd:id":"Q674396",
         "wk:page":"Langenrohr"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101783359,
-    "wof:lastmodified":1563245948,
+    "wof:lastmodified":1566599107,
     "wof:name":"Langenrohr",
     "wof:parent_id":1108835893,
     "wof:placetype":"locality",

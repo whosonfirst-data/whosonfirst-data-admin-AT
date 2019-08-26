@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.91333,46.98,15.95333,47.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632785
@@ -36,7 +40,7 @@
         "gn:id":2607973
     },
     "wof:country":"AT",
-    "wof:geomhash":"2cb31f34d4a36097cc0ed2aabcdbc229",
+    "wof:geomhash":"35e17d70f263c8788b55157537b06b80",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209098729,
-    "wof:lastmodified":1536297802,
+    "wof:lastmodified":1566597826,
     "wof:name":"Katzengraben",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.933329999999998,
+    15.93333,
     47.0,
-    15.933329999999998,
+    15.93333,
     47.0
 ],
   "geometry": {"coordinates":[15.93333,47.0],"type":"Point"}

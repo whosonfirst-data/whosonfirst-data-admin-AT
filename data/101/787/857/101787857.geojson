@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.218029,
     "lbl:longitude":15.403272,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.218029,
     "mps:longitude":15.403272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Semriach"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681687,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":2765168,
         "gp:id":12674917,
-        "qs:id":247852,
+        "qs_pg:id":247852,
         "wd:id":"Q687706",
         "wk:page":"Semriach"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101787857,
-    "wof:lastmodified":1563246113,
+    "wof:lastmodified":1566599153,
     "wof:name":"Semriach",
     "wof:parent_id":1108839155,
     "wof:placetype":"locality",

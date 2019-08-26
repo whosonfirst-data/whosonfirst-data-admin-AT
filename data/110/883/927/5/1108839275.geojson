@@ -16,14 +16,17 @@
     "geom:bbox":"15.1153772907,46.8371674979,15.3752577253,46.9375681423",
     "geom:latitude":46.892166,
     "geom:longitude":15.25939,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":46.88274,
     "lbl:longitude":15.279167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Stainz"
     ],
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675254,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1108839275,
-    "wof:lastmodified":1564314588,
+    "wof:lastmodified":1566598730,
     "wof:name":"Stainz",
     "wof:parent_id":102049691,
     "wof:placetype":"localadmin",

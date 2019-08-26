@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.399015,
     "lbl:longitude":11.940842,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.399015,
     "mps:longitude":11.940842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "\u00c5ipb\u00e5ch"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.398611,
     "wd:longitude":11.943889,
@@ -147,7 +150,6 @@
         "fct:id":"03268cc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3323982,
         "gp:id":550420,
-        "qs:id":472305,
         "qs_pg:id":472305,
         "wd:id":"Q671394",
         "wk:page":"Alpbach"
@@ -168,7 +170,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246106,
+    "wof:lastmodified":1566599151,
     "wof:name":"Alpbach",
     "wof:parent_id":1108837383,
     "wof:placetype":"locality",

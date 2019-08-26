@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.173608,
     "lbl:longitude":16.375297,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.178546,
     "mps:longitude":16.371694,
     "mz:hierarchy_label":1,
@@ -118,9 +119,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0432\u043e\u0440\u0456\u0442\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Favoriten"
-    ],
     "name:zho_x_preferred":[
         "\u6cd5\u6c83\u91cc\u6ed5"
     ],
@@ -167,7 +165,6 @@
     "wof:concordances":{
         "gn:id":8063098,
         "gp:id":551741,
-        "qs:id":1062288,
         "qs_pg:id":1062288,
         "wd:id":"Q697548"
     },
@@ -188,7 +185,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237685,
+    "wof:lastmodified":1566597476,
     "wof:name":"Favoriten",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

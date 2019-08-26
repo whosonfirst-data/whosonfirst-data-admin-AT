@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.71653,
     "lbl:longitude":15.909328,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.71653,
     "mps:longitude":15.909328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Schrattenthal"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         85681671,
@@ -115,10 +118,12 @@
     "wof:concordances":{
         "gn:id":2765614,
         "gp:id":543769,
-        "qs:id":190838,
-        "qs_pg:id":977159,
+        "qs_pg:id":190838,
         "wd:id":"Q666958",
         "wk:page":"Schrattenthal"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977159
     },
     "wof:country":"AT",
     "wof:geomhash":"ddedc4f4c7469b9670a019e7eb996c8d",
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":101912361,
-    "wof:lastmodified":1563245849,
+    "wof:lastmodified":1566599081,
     "wof:name":"Schrattenthal",
     "wof:parent_id":1108835747,
     "wof:placetype":"locality",

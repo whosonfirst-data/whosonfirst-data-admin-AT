@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.202264,
     "lbl:longitude":14.282155,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.202264,
     "mps:longitude":14.282155,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0435\u0440\u0432\u044c\u043e\u043b\u0446 \u0429\u0430\u0442"
     ],
@@ -67,9 +70,6 @@
     "name:swe_x_preferred":[
         "Oberw\u00f6lz Stadt"
     ],
-    "name:unk_x_variant":[
-        "Oberw\u00f6lz"
-    ],
     "name:uzb_x_preferred":[
         "Oberw\u00f6lz Stadt"
     ],
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         85681687,
@@ -115,10 +115,12 @@
     "wof:concordances":{
         "gn:id":2769580,
         "gp:id":549425,
-        "qs:id":1059560,
         "qs_pg:id":977192,
         "wd:id":"Q685862",
         "wk:page":"Oberw\u00f6lz Stadt"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059560
     },
     "wof:country":"AT",
     "wof:geomhash":"e320d588e5cf94355bf8a85f58a0d2ed",
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101789069,
-    "wof:lastmodified":1563246176,
+    "wof:lastmodified":1566599172,
     "wof:name":"Oberw\u00f6lz Stadt",
     "wof:parent_id":1108838785,
     "wof:placetype":"locality",

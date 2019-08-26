@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.271964,
     "lbl:longitude":11.240069,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.271964,
     "mps:longitude":11.240069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Zirl"
     ],
@@ -191,7 +194,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":110,
     "wof:belongsto":[
@@ -206,7 +209,6 @@
         "fct:id":"0326f520-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2760523,
         "gp:id":551436,
-        "qs:id":216714,
         "qs_pg:id":216714,
         "wd:id":"Q206000"
     },
@@ -226,7 +228,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245798,
+    "wof:lastmodified":1566599065,
     "wof:name":"Zirl",
     "wof:parent_id":1108837355,
     "wof:placetype":"locality",

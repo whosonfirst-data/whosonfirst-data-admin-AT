@@ -10,8 +10,10 @@
     "geom:latitude":47.055199,
     "geom:longitude":15.472555,
     "iso:country":"AT",
+    "lbl:bbox":"15.4675551779,47.0501989299,15.4775551779,47.0601989299",
     "lbl:latitude":47.055199,
     "lbl:longitude":15.472555,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,12 +35,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":1444831621,
-    "wof:lastmodified":1566340928,
+    "wof:lastmodified":1566597999,
     "wof:name":"Sankt Peter",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

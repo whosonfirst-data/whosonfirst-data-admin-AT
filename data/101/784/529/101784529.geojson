@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.219065,
     "lbl:longitude":14.412134,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.219065,
     "mps:longitude":14.412134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Asten"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":15,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":2782302,
         "gp:id":544701,
-        "qs:id":1037818,
         "qs_pg:id":1037818,
         "wd:id":"Q679166"
     },
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":101784529,
-    "wof:lastmodified":1563245976,
+    "wof:lastmodified":1566599116,
     "wof:name":"Asten",
     "wof:parent_id":1108835521,
     "wof:placetype":"locality",

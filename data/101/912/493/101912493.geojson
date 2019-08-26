@@ -12,9 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.010915,
     "lbl:longitude":10.599052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.010915,
     "mps:longitude":10.599052,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Tirol",
     "qs:a1r":"8",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681661,
         102191581,
@@ -43,7 +47,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28996088,
-        "qs:id":134074,
         "qs_pg:id":134074
     },
     "wof:country":"AT",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101912493,
-    "wof:lastmodified":1497292061,
+    "wof:lastmodified":1566599083,
     "wof:name":"Tschupbach",
     "wof:parent_id":1108837331,
     "wof:placetype":"locality",

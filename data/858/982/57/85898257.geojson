@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15742677.221983,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.340354,46.606268,14.340354,46.606268",
     "geom:latitude":46.606268,
     "geom:longitude":14.340354,
     "gn:id":"",
     "iso:country":"AT",
+    "lbl:bbox":"14.335354,46.601268,14.345354,46.611268",
     "lbl:latitude":46.606268,
     "lbl:longitude":14.340354,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.604865,
     "mps:longitude":14.354931,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Skt Peter",
         "Skt. Peter",
         "St Peter"
-    ],
-    "name:unk_x_variant":[
-        "St. Peter"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPL",
@@ -65,19 +64,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681655,
         102191581,
         1108838143,
         85632785,
         101748059,
-        102049679
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":540490,
-        "qs:id":1078973,
         "qs_pg:id":1078973
     },
     "wof:country":"AT",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932043,
+    "wof:lastmodified":1566597467,
     "wof:name":"St. Peter",
     "wof:parent_id":101748059,
     "wof:placetype":"neighbourhood",

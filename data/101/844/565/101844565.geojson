@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.748727,
     "lbl:longitude":13.065394,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.748727,
     "mps:longitude":13.065394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Anif"
     ],
@@ -134,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":510,
     "wof:belongsto":[
@@ -148,10 +151,12 @@
     "wof:concordances":{
         "gn:id":2605767,
         "gp:id":547397,
-        "qs:id":248686,
-        "qs_pg:id":1165860,
+        "qs_pg:id":248686,
         "wd:id":"Q252446",
         "wk:page":"Anif"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1165860
     },
     "wof:country":"AT",
     "wof:geomhash":"c7ebb7a85fae1666ad6f58a8a6691930",
@@ -166,7 +171,7 @@
         }
     ],
     "wof:id":101844565,
-    "wof:lastmodified":1563245714,
+    "wof:lastmodified":1566599040,
     "wof:name":"Anif",
     "wof:parent_id":1108837111,
     "wof:placetype":"locality",

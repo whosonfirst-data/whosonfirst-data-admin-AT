@@ -16,15 +16,17 @@
     "geom:bbox":"15.6006711257,47.6989955453,15.8106098772,47.8670041385",
     "geom:latitude":47.787928,
     "geom:longitude":15.69973,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":663,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":47.785676,
     "lbl:longitude":15.697726,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Schwarzau im Gebirge"
     ],
@@ -73,7 +75,7 @@
     "name:swe_x_preferred":[
         "Schwarzau im Gebirge"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schwarzau"
     ],
     "name:uzb_x_preferred":[
@@ -115,7 +117,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674168,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1108835873,
-    "wof:lastmodified":1564314138,
+    "wof:lastmodified":1566598454,
     "wof:name":"Schwarzau im Gebirge",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

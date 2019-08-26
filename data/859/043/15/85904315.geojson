@@ -14,6 +14,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.196522,
     "lbl:longitude":16.281043,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.206104,
     "mps:longitude":16.280252,
     "mz:hierarchy_label":1,
@@ -80,9 +81,6 @@
     "name:swe_x_preferred":[
         "Baumgarten"
     ],
-    "name:unk_x_variant":[
-        "Baumgarten"
-    ],
     "name:vol_x_preferred":[
         "Baumgarten"
     ],
@@ -129,7 +127,6 @@
     "wof:concordances":{
         "gn:id":2599232,
         "gp:id":20094662,
-        "qs:id":1085840,
         "qs_pg:id":1085840
     },
     "wof:country":"AT",
@@ -149,7 +146,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237695,
+    "wof:lastmodified":1566597411,
     "wof:name":"Baumgarten",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

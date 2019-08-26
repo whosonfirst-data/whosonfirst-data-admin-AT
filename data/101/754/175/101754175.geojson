@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.084838,
     "lbl:longitude":16.349965,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.084838,
     "mps:longitude":16.349965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u0434\u0435\u0440\u043c\u0430\u043d\u043d\u0441\u0434\u043e\u0440\u0444"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":209,
     "wof:belongsto":[
         85681671,
@@ -124,9 +127,11 @@
     "wof:concordances":{
         "gn:id":2780904,
         "gp:id":541225,
-        "qs:id":1101780,
         "qs_pg:id":136376,
         "wd:id":"Q669629"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101780
     },
     "wof:country":"AT",
     "wof:geomhash":"4cecfdbc01365af40d8315685c1dfb46",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101754175,
-    "wof:lastmodified":1563245618,
+    "wof:lastmodified":1566599013,
     "wof:name":"Biedermannsdorf",
     "wof:parent_id":1108836249,
     "wof:placetype":"locality",

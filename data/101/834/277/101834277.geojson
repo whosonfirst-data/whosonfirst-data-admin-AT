@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.353343,
     "lbl:longitude":16.132761,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.353343,
     "mps:longitude":16.132761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Riedlingsdorf"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         85681651,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2767458,
         "gp:id":539017,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q650587",
         "wk:page":"Riedlingsdorf"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101834277,
-    "wof:lastmodified":1563245817,
+    "wof:lastmodified":1566599071,
     "wof:name":"Riedlingsdorf",
     "wof:parent_id":1108838593,
     "wof:placetype":"locality",

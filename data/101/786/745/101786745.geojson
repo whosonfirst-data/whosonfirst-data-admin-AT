@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.647912,
     "lbl:longitude":16.379772,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.647912,
     "mps:longitude":16.379772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sieggraben"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         85681651,
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":2765092,
         "gp:id":539054,
-        "qs:id":326634,
         "qs_pg:id":326634,
         "wd:id":"Q635805",
         "wk:page":"Sieggraben"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101786745,
-    "wof:lastmodified":1563246100,
+    "wof:lastmodified":1566599150,
     "wof:name":"Sieggraben",
     "wof:parent_id":1108838555,
     "wof:placetype":"locality",

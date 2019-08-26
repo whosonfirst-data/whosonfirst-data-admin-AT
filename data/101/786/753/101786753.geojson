@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.738465,
     "lbl:longitude":16.335924,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.738465,
     "mps:longitude":16.335924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wiesen"
     ],
@@ -261,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":61,
     "wof:belongsto":[
         85681651,
@@ -274,9 +277,11 @@
     "wof:concordances":{
         "gn:id":2761304,
         "gp:id":539117,
-        "qs:id":1310807,
         "qs_pg:id":1115892,
         "wd:id":"Q670547"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1310807
     },
     "wof:country":"AT",
     "wof:geomhash":"169443de057fa1f329338acbaeffe18c",
@@ -291,7 +296,7 @@
         }
     ],
     "wof:id":101786753,
-    "wof:lastmodified":1563246074,
+    "wof:lastmodified":1566599142,
     "wof:name":"Wiesen",
     "wof:parent_id":1108838635,
     "wof:placetype":"locality",

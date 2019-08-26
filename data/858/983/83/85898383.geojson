@@ -5,16 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19546988.636549,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.381806,48.109631,16.381806,48.109631",
     "geom:latitude":48.109631,
     "geom:longitude":16.381806,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"16.376806,48.104631,16.386806,48.114631",
     "lbl:latitude":48.109631,
     "lbl:longitude":16.381806,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.110656,
     "mps:longitude":16.389167,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Rustenfeld"
-    ],
-    "name:unk_x_variant":[
         "Rustenfeld"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108835875,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3322675,
         "gp:id":543612,
-        "qs:id":475733,
         "qs_pg:id":475733
     },
     "wof:country":"AT",
@@ -113,7 +111,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1534379223,
+    "wof:lastmodified":1566597457,
     "wof:name":"Rustenfeld",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

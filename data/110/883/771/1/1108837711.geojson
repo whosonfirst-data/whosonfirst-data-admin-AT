@@ -16,12 +16,15 @@
     "geom:bbox":"11.3838108781,47.323982904,11.7083141473,47.517949058",
     "geom:latitude":47.410432,
     "geom:longitude":11.54022,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AT",
     "lbl:latitude":47.420383,
     "lbl:longitude":11.5267,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Vomp"
     ],
@@ -112,7 +115,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675347,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1108837711,
-    "wof:lastmodified":1564314053,
+    "wof:lastmodified":1566598408,
     "wof:name":"Vomp",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",

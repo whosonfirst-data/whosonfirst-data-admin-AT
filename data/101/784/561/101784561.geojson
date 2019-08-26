@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.203066,
     "lbl:longitude":15.399599,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.203066,
     "mps:longitude":15.399599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Loosdorf"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":981,
     "wof:belongsto":[
@@ -129,10 +132,12 @@
     "wof:concordances":{
         "gn:id":2772265,
         "gp:id":542681,
-        "qs:id":905483,
-        "qs_pg:id":1082881,
+        "qs_pg:id":905483,
         "wd:id":"Q669680",
         "wk:page":"Loosdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1082881
     },
     "wof:country":"AT",
     "wof:geomhash":"55998cf86fdf7b4a49f0b28dc9a0c164",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":101784561,
-    "wof:lastmodified":1563245965,
+    "wof:lastmodified":1566599112,
     "wof:name":"Loosdorf",
     "wof:parent_id":1108835017,
     "wof:placetype":"locality",

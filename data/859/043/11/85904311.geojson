@@ -10,8 +10,10 @@
     "geom:latitude":47.272087,
     "geom:longitude":11.427991,
     "iso:country":"AT",
+    "lbl:bbox":"11.422991,47.267087,11.432991,47.277087",
     "lbl:latitude":47.272087,
     "lbl:longitude":11.427991,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.271273,
     "mps:longitude":11.430056,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Au"
     ],
     "name:hun_x_preferred":[
-        "Au"
-    ],
-    "name:unk_x_variant":[
         "Au"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -67,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837687,
@@ -97,7 +96,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312366,
+    "wof:lastmodified":1566597409,
     "wof:name":"Au",
     "wof:parent_id":101748061,
     "wof:placetype":"neighbourhood",

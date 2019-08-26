@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.388293,
     "lbl:longitude":16.739359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.388293,
     "mps:longitude":16.739359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Prottes"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         85681671,
@@ -111,7 +114,7 @@
     "wof:concordances":{
         "gn:id":8030180,
         "gp:id":543376,
-        "qs:id":926889,
+        "qs_pg:id":926889,
         "wd:id":"Q678115",
         "wk:page":"Prottes"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101783427,
-    "wof:lastmodified":1563245953,
+    "wof:lastmodified":1566599109,
     "wof:name":"Prottes",
     "wof:parent_id":1108834831,
     "wof:placetype":"locality",

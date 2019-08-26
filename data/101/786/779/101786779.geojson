@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.948341,
     "lbl:longitude":13.222957,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.948341,
     "mps:longitude":13.222957,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Neimorkt am Woiersee"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0439\u043c\u0430\u0440\u043a\u0442-\u0430\u043c-\u0412\u0430\u043b\u043b\u0435\u0440\u0437\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neumarkt"
     ],
     "name:uzb_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         85681681,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":2770727,
         "gp:id":547737,
-        "qs:id":248651,
-        "qs_pg:id":1060413,
+        "qs_pg:id":248651,
         "wd:id":"Q260687",
         "wk:page":"Neumarkt am Wallersee"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060413
     },
     "wof:country":"AT",
     "wof:geomhash":"953fed5c2a0f29133c82951a78a49a7b",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101786779,
-    "wof:lastmodified":1563246086,
+    "wof:lastmodified":1566599146,
     "wof:name":"Neumarkt am Wallersee",
     "wof:parent_id":1108837163,
     "wof:placetype":"locality",

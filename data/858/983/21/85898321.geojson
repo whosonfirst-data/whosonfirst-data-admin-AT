@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.274412,
     "lbl:longitude":16.352612,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.294006,
     "mps:longitude":16.346461,
     "mz:hierarchy_label":1,
@@ -44,9 +45,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0435\u043d\u0431\u0435\u0440\u0433\u0435\u0440\u0434\u043e\u0440\u0444"
-    ],
-    "name:unk_x_variant":[
-        "Kahlenbergerdorf"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
@@ -89,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2774982,
         "gp:id":542272,
-        "qs:id":901219,
+        "qs_pg:id":901219,
         "wd:id":"Q1721184",
         "wk:page":"Kahlenbergerdorf"
     },
@@ -110,7 +108,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237690,
+    "wof:lastmodified":1566597455,
     "wof:name":"Kahlenbergerdorf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
