@@ -25,8 +25,12 @@
     "gn:population":49,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.54667,48.21333,15.58667,48.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -37,7 +41,7 @@
         "gn:id":2768252
     },
     "wof:country":"AT",
-    "wof:geomhash":"5d92df2c981b2fd180cb49a5f6e9080a",
+    "wof:geomhash":"963eee335bfd7f409a95a3f78121c124",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209426311,
-    "wof:lastmodified":1536287372,
+    "wof:lastmodified":1566597958,
     "wof:name":"Pultendorf",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.566670000000002,
+    15.56667,
     48.23333,
-    15.566670000000002,
+    15.56667,
     48.23333
 ],
   "geometry": {"coordinates":[15.56667,48.23333],"type":"Point"}

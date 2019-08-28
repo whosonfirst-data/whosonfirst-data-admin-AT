@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.729088,
     "lbl:longitude":15.62487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.729088,
     "mps:longitude":15.62487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vogau"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85681687,
@@ -97,9 +100,11 @@
     "wof:concordances":{
         "gn:id":7872420,
         "gp:id":20097927,
-        "qs:id":7,
-        "qs_pg:id":205266,
+        "qs_pg:id":7,
         "wd:id":"Q688180"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":205266
     },
     "wof:country":"AT",
     "wof:geomhash":"491686f4c5ed371b810b86879cfeaa7e",
@@ -114,7 +119,7 @@
         }
     ],
     "wof:id":101844451,
-    "wof:lastmodified":1563245722,
+    "wof:lastmodified":1566599042,
     "wof:name":"Vogau",
     "wof:parent_id":1108839025,
     "wof:placetype":"locality",

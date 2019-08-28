@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"14.66333,48.08,14.70333,48.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632785
@@ -36,7 +40,7 @@
         "gn:id":2772184
     },
     "wof:country":"AT",
-    "wof:geomhash":"9069835b8b9aa37ff342df740873b1de",
+    "wof:geomhash":"73a0df7d062958e6c3bdaf5c55a73026",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209113579,
-    "wof:lastmodified":1536297326,
+    "wof:lastmodified":1566597946,
     "wof:name":"Lunzenthal",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.683329999999998,
+    14.68333,
     48.1,
-    14.683329999999998,
+    14.68333,
     48.1
 ],
   "geometry": {"coordinates":[14.68333,48.1],"type":"Point"}

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3066383.591028,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.067116,47.35872,15.067116,47.35872",
     "geom:latitude":47.35872,
     "geom:longitude":15.067116,
     "iso:country":"AT",
+    "lbl:bbox":"15.062116,47.35372,15.072116,47.36372",
     "lbl:latitude":47.35872,
     "lbl:longitude":15.067116,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.357262,
     "mps:longitude":15.067503,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Leitendorf"
-    ],
-    "name:unk_x_variant":[
         "Leitendorf"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839009,
         85632785,
         101834299,
-        102049769
+        102049769,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2772719,
         "gp:id":549054,
-        "qs:id":1317671,
         "qs_pg:id":1317671
     },
     "wof:country":"AT",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932079,
+    "wof:lastmodified":1566597465,
     "wof:name":"Leitendorf",
     "wof:parent_id":101834299,
     "wof:placetype":"neighbourhood",

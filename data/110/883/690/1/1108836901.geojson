@@ -16,15 +16,17 @@
     "geom:bbox":"16.8368477416,48.5157795553,16.9539607512,48.569494769",
     "geom:latitude":48.539068,
     "geom:longitude":16.900656,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":1128,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":48.539048,
     "lbl:longitude":16.911318,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dr\u00f6sing"
     ],
@@ -73,7 +75,7 @@
     "name:swe_x_preferred":[
         "Dr\u00f6sing"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Droesing"
     ],
     "name:uzb_x_preferred":[
@@ -112,7 +114,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12673912,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":1108836901,
-    "wof:lastmodified":1564314447,
+    "wof:lastmodified":1566598639,
     "wof:name":"Dr\u00f6sing",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

@@ -16,12 +16,15 @@
     "geom:bbox":"12.7109923391,47.4705133573,12.8855147202,47.5680206817",
     "geom:latitude":47.513096,
     "geom:longitude":12.789729,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AT",
     "lbl:latitude":47.507149,
     "lbl:longitude":12.776528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Weissbach bei Lofer"
     ],
@@ -100,7 +103,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674747,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1108837253,
-    "wof:lastmodified":1564314002,
+    "wof:lastmodified":1566598377,
     "wof:name":"Wei\u00dfbach bei Lofer",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

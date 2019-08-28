@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.415318,
     "lbl:longitude":9.850545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.415318,
     "mps:longitude":9.850545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Schwarzenberg"
     ],
@@ -121,7 +124,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681649,
         102191581,
@@ -133,7 +136,7 @@
     "wof:concordances":{
         "gn:id":2765481,
         "gp:id":551679,
-        "qs:id":1220800,
+        "qs_pg:id":1220800,
         "wd:id":"Q695371"
     },
     "wof:country":"AT",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101765137,
-    "wof:lastmodified":1563245639,
+    "wof:lastmodified":1566599019,
     "wof:name":"Schwarzenberg",
     "wof:parent_id":1108838051,
     "wof:placetype":"locality",

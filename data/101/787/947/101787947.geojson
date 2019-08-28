@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.427819,
     "lbl:longitude":15.004809,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.427819,
     "mps:longitude":15.004809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062a\u0631\u0648\u0641\u0627\u06cc\u0627\u06a9"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":38,
     "wof:belongsto":[
@@ -123,9 +126,11 @@
     "wof:concordances":{
         "gn:id":2763475,
         "gp:id":550105,
-        "qs:id":279124,
-        "qs_pg:id":1343646,
+        "qs_pg:id":279124,
         "wd:id":"Q675834"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1343646
     },
     "wof:country":"AT",
     "wof:geomhash":"ca87280d89826212f873be32646dc963",
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":101787947,
-    "wof:lastmodified":1563246119,
+    "wof:lastmodified":1566599155,
     "wof:name":"Trofaiach",
     "wof:parent_id":1108838989,
     "wof:placetype":"locality",

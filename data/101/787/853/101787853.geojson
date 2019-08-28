@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.272605,
     "lbl:longitude":15.323339,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.272605,
     "mps:longitude":15.323339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Frohnleiten"
     ],
@@ -92,7 +95,7 @@
     "name:swe_x_preferred":[
         "Frohnleiten"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rotleiten"
     ],
     "name:uzb_x_preferred":[
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":26,
     "wof:belongsto":[
@@ -141,10 +144,12 @@
     "wof:concordances":{
         "gn:id":2767073,
         "gp:id":548412,
-        "qs:id":475674,
-        "qs_pg:id":475814,
+        "qs_pg:id":475674,
         "wd:id":"Q661519",
         "wk:page":"Frohnleiten"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":475814
     },
     "wof:country":"AT",
     "wof:geomhash":"94658a6de9c83654b3f12907f0a1094c",
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":101787853,
-    "wof:lastmodified":1563246134,
+    "wof:lastmodified":1566599158,
     "wof:name":"Frohnleiten",
     "wof:parent_id":1108839203,
     "wof:placetype":"locality",

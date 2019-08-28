@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.523114,
     "lbl:longitude":15.489464,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.523114,
     "mps:longitude":15.489464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wartberg im M\u00fcrztal"
     ],
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Wartberg im M\u00fcrztal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wartberg"
     ],
     "name:uzb_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85681687,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":2761880,
         "gp:id":550268,
-        "qs:id":1154679,
         "qs_pg:id":1154679,
         "wd:id":"Q688274"
     },
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101834333,
-    "wof:lastmodified":1563245816,
+    "wof:lastmodified":1566599070,
     "wof:name":"Wartberg im M\u00fcrztal",
     "wof:parent_id":1108838861,
     "wof:placetype":"locality",

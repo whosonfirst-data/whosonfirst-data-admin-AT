@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.024461,
     "lbl:longitude":15.053767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.024461,
     "mps:longitude":15.053767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Edelschrott"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         85681687,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":2780452,
         "gp:id":12674983,
-        "qs:id":987750,
+        "qs_pg:id":987750,
         "wd:id":"Q689715",
         "wk:page":"Edelschrott"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101789011,
-    "wof:lastmodified":1563246168,
+    "wof:lastmodified":1566599169,
     "wof:name":"Edelschrott",
     "wof:parent_id":1108838813,
     "wof:placetype":"locality",

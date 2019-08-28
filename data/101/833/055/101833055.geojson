@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.523592,
     "lbl:longitude":12.419841,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.523592,
     "mps:longitude":12.419841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442 \u0419\u043e\u0445\u0430\u043d \u0438\u043d \u0422\u0438\u0440\u043e\u043b"
     ],
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0419\u043e\u0433\u0430\u043d\u043d-\u0456\u043d-\u0422\u0456\u0440\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt Johann"
     ],
     "name:uzb_x_preferred":[
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2202,
     "wof:belongsto":[
         85681661,
@@ -155,9 +158,11 @@
     "wof:concordances":{
         "gn:id":7873640,
         "gp:id":551164,
-        "qs:id":1107810,
-        "qs_pg:id":1211127,
+        "qs_pg:id":1107810,
         "wd:id":"Q699599"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1211127
     },
     "wof:country":"AT",
     "wof:geomhash":"20c08998bd3af00bef0cc38db5430458",
@@ -172,7 +177,7 @@
         }
     ],
     "wof:id":101833055,
-    "wof:lastmodified":1563245750,
+    "wof:lastmodified":1566599052,
     "wof:name":"Sankt Johann in Tirol",
     "wof:parent_id":1108837373,
     "wof:placetype":"locality",

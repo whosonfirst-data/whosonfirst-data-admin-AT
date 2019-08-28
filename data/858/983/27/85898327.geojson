@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":32922219.810648,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.594282,48.406148,15.594282,48.406148",
     "geom:latitude":48.406148,
     "geom:longitude":15.594282,
     "iso:country":"AT",
+    "lbl:bbox":"15.589282,48.401148,15.599282,48.411148",
     "lbl:latitude":48.406148,
     "lbl:longitude":15.594282,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.407468,
     "mps:longitude":15.594547,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:deu_x_preferred":[
-        "Kremsthal"
-    ],
-    "name:unk_x_variant":[
         "Kremsthal"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681671,
         102191581,
         1108836665,
         85632785,
         101833261,
-        102049873
+        102049873,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2773536,
         "gp:id":542517,
-        "qs:id":1200386,
         "qs_pg:id":1200386
     },
     "wof:country":"AT",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932050,
+    "wof:lastmodified":1566597454,
     "wof:name":"Kremsthal",
     "wof:parent_id":101833261,
     "wof:placetype":"neighbourhood",

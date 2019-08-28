@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.556657,
     "lbl:longitude":13.930165,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.556657,
     "mps:longitude":13.930165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bad Mitterndorf"
     ],
@@ -85,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0434-\u041c\u0456\u0442\u0442\u0435\u0440\u043d\u0434\u043e\u0440\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mitterndorf"
     ],
     "name:uzb_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":199,
     "wof:belongsto":[
         85681687,
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":2771419,
         "gp:id":548120,
-        "qs:id":3,
-        "qs_pg:id":1165882,
+        "qs_pg:id":3,
         "wd:id":"Q672441",
         "wk:page":"Bad Mitterndorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1165882
     },
     "wof:country":"AT",
     "wof:geomhash":"a31beda57afa54e8bdb2996937492cbf",
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":101787977,
-    "wof:lastmodified":1563246116,
+    "wof:lastmodified":1566599154,
     "wof:name":"Bad Mitterndorf",
     "wof:parent_id":1108838931,
     "wof:placetype":"locality",

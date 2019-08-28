@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":46.72532,
     "lbl:longitude":15.222016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Wies"
     ],
@@ -76,7 +79,7 @@
         "Wies"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108839271,
-    "wof:lastmodified":1564314587,
+    "wof:lastmodified":1566598730,
     "wof:name":"Wies",
     "wof:parent_id":102049691,
     "wof:placetype":"localadmin",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.659278,
     "lbl:longitude":12.391375,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.659278,
     "mps:longitude":12.391375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Kessn"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":306,
     "wof:belongsto":[
         85681661,
@@ -136,10 +139,12 @@
     "wof:concordances":{
         "gn:id":2773683,
         "gp:id":550823,
-        "qs:id":1310829,
         "qs_pg:id":1082914,
         "wd:id":"Q665534",
         "wk:page":"K\u00f6ssen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1310829
     },
     "wof:country":"AT",
     "wof:geomhash":"b527a16974bc4a449b1ca7c7efe34d13",
@@ -154,7 +159,7 @@
         }
     ],
     "wof:id":101787929,
-    "wof:lastmodified":1563246138,
+    "wof:lastmodified":1566599160,
     "wof:name":"K\u00f6ssen",
     "wof:parent_id":1108837365,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.853972,
     "lbl:longitude":16.838996,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.853972,
     "mps:longitude":16.838996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Poudistoaf"
     ],
@@ -88,9 +91,6 @@
     "name:ukr_x_variant":[
         "\u041f\u043e\u0434\u0435\u0440\u0441\u0434\u043e\u0440\u0444-\u0430\u043c-\u0417\u0435\u0454"
     ],
-    "name:unk_x_variant":[
-        "Podersdorf"
-    ],
     "name:uzb_x_preferred":[
         "Podersdorf am See"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":385,
     "wof:belongsto":[
         85681651,
@@ -137,7 +137,6 @@
         "fct:id":"03214b66-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2768622,
         "gp:id":539000,
-        "qs:id":1078965,
         "qs_pg:id":1078965,
         "wd:id":"Q661040",
         "wk:page":"Podersdorf am See"
@@ -158,7 +157,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245889,
+    "wof:lastmodified":1566599093,
     "wof:name":"Podersdorf am See",
     "wof:parent_id":1108838607,
     "wof:placetype":"locality",

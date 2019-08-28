@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6251782.956549,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.363732,47.270331,11.363732,47.270331",
     "geom:latitude":47.270331,
     "geom:longitude":11.363732,
     "gn:latitude":47.50333,
     "gn:longitude":10.73083,
     "iso:country":"AT",
+    "lbl:bbox":"11.358732,47.265331,11.368732,47.275331",
     "lbl:latitude":47.270331,
     "lbl:longitude":11.363732,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.299131,
     "mps:longitude":11.34617,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:deu_x_preferred":[
-        "Sadrach Siedlung"
-    ],
-    "name:unk_x_variant":[
         "Sadrach Siedlung"
     ],
     "qs:gn_fcode":"PPLX",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681661,
         102191581,
         1108837687,
         85632785,
         101748061,
-        102049723
+        102049723,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3333922,
         "gp:id":20097186,
-        "qs:id":499016,
         "qs_pg:id":499016
     },
     "wof:country":"AT",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531936207,
+    "wof:lastmodified":1566597408,
     "wof:name":"Sadrach Siedlung",
     "wof:parent_id":101748061,
     "wof:placetype":"neighbourhood",

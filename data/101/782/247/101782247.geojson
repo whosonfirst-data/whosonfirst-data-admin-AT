@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.533661,
     "lbl:longitude":16.489468,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.533661,
     "mps:longitude":16.489468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ladendorf"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         85681671,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":2762083,
         "gp:id":542556,
-        "qs:id":220866,
-        "qs_pg:id":887679,
+        "qs_pg:id":220866,
         "wd:id":"Q665905",
         "wk:page":"Ladendorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":887679
     },
     "wof:country":"AT",
     "wof:geomhash":"c873cbfbd284a8c49f52b7ae78dda379",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101782247,
-    "wof:lastmodified":1563245918,
+    "wof:lastmodified":1566599100,
     "wof:name":"Ladendorf",
     "wof:parent_id":1108836797,
     "wof:placetype":"locality",

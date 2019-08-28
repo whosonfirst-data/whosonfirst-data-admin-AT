@@ -16,12 +16,15 @@
     "geom:bbox":"11.2240095776,47.1351867495,11.2936981139,47.2448671898",
     "geom:latitude":47.181949,
     "geom:longitude":11.255868,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AT",
     "lbl:latitude":47.169102,
     "lbl:longitude":11.262194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grinzens"
     ],
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675376,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1108837599,
-    "wof:lastmodified":1564314287,
+    "wof:lastmodified":1566598542,
     "wof:name":"Grinzens",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

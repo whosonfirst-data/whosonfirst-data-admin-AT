@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.504513,
     "lbl:longitude":12.193689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.504513,
     "mps:longitude":12.193689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "S\u00f6ll"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":484,
     "wof:belongsto":[
         85681661,
@@ -129,7 +132,6 @@
         "fct:id":"0326dff4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2764953,
         "gp:id":551233,
-        "qs:id":1082915,
         "qs_pg:id":1082915,
         "wd:id":"Q255913"
     },
@@ -149,7 +151,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246123,
+    "wof:lastmodified":1566599156,
     "wof:name":"S\u00f6ll",
     "wof:parent_id":1108837267,
     "wof:placetype":"locality",

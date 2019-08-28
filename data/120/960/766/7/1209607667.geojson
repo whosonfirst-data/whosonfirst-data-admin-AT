@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.54667,47.16333,15.58667,47.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632785
@@ -36,7 +40,7 @@
         "gn:id":3335224
     },
     "wof:country":"AT",
-    "wof:geomhash":"13c3f3a49552ef7b689c90e1f5a0fcdf",
+    "wof:geomhash":"e7b36f7290f61acbd1e485a46a697860",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209607667,
-    "wof:lastmodified":1536281954,
+    "wof:lastmodified":1566597928,
     "wof:name":"Gstauda",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.566670000000002,
+    15.56667,
     47.18333,
-    15.566670000000002,
+    15.56667,
     47.18333
 ],
   "geometry": {"coordinates":[15.56667,47.18333],"type":"Point"}

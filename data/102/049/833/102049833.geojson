@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":48.137358,
     "lbl:longitude":13.140589,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.137434,
     "mps:longitude":13.140538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Braunau am Inn"
     ],
@@ -245,9 +248,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"1040",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Braunau am Inn",
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":102049833,
-    "wof:lastmodified":1563243030,
+    "wof:lastmodified":1566597178,
     "wof:name":"Braunau am Inn",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

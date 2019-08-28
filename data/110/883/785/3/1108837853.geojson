@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":47.375293,
     "lbl:longitude":11.792257,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buch bei Jenbach"
     ],
@@ -88,7 +91,7 @@
         "\u5ef6\u5df4\u8d6b\u9644\u8fd1\u5e03\u8d6b"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108837853,
-    "wof:lastmodified":1564314049,
+    "wof:lastmodified":1566598405,
     "wof:name":"Buch in Tirol",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.334451,
     "lbl:longitude":14.176018,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.334451,
     "mps:longitude":14.176018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ottensheim"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":393,
     "wof:belongsto":[
         85681677,
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":2769342,
         "gp:id":546304,
-        "qs:id":1327248,
         "qs_pg:id":1327248,
         "wd:id":"Q683160",
         "wk:page":"Ottensheim"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101784615,
-    "wof:lastmodified":1563245988,
+    "wof:lastmodified":1566599118,
     "wof:name":"Ottensheim",
     "wof:parent_id":1108836395,
     "wof:placetype":"locality",

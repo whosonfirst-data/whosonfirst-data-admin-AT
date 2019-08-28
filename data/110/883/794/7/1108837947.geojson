@@ -16,15 +16,17 @@
     "geom:bbox":"9.55716849601,47.4615845812,9.60724875066,47.5154575849",
     "geom:latitude":47.488211,
     "geom:longitude":9.581854,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1557,
-    "gn:population":1819,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":1557,
     "iso:country":"AT",
     "lbl:latitude":47.493977,
     "lbl:longitude":9.577319,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Gai\u00dfau"
     ],
@@ -76,7 +78,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0439\u0441\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gaissau"
     ],
     "name:uzb_x_preferred":[
@@ -109,7 +111,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675644,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":1108837947,
-    "wof:lastmodified":1564314184,
+    "wof:lastmodified":1566598480,
     "wof:name":"Gai\u00dfau",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

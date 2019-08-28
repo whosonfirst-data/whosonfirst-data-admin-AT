@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.757037,
     "lbl:longitude":15.95442,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.757037,
     "mps:longitude":15.95442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Retz"
     ],
@@ -95,7 +98,7 @@
     "name:swe_x_preferred":[
         "Retz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00f6tz"
     ],
     "name:uzb_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1112,
     "wof:belongsto":[
@@ -144,10 +147,12 @@
     "wof:concordances":{
         "gn:id":2607044,
         "gp:id":543523,
-        "qs:id":947851,
-        "qs_pg:id":1082886,
+        "qs_pg:id":947851,
         "wd:id":"Q140180",
         "wk:page":"Retz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1082886
     },
     "wof:country":"AT",
     "wof:geomhash":"7f2cb413c983a5d41981672801af59db",
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":101782255,
-    "wof:lastmodified":1563245925,
+    "wof:lastmodified":1566599102,
     "wof:name":"Retz",
     "wof:parent_id":1108836817,
     "wof:placetype":"locality",

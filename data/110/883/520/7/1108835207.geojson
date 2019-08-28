@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":48.36216,
     "lbl:longitude":13.762561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Beiaboch"
     ],
@@ -85,7 +88,7 @@
         "\u6ce2\u4f0a\u5c14\u5df4\u8d6b"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108835207,
-    "wof:lastmodified":1564314079,
+    "wof:lastmodified":1566598422,
     "wof:name":"Peuerbach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

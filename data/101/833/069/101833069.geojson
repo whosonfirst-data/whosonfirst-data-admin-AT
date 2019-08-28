@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.710572,
     "lbl:longitude":16.42598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.710572,
     "mps:longitude":16.42598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rohrbach bei Mattersburg"
     ],
@@ -79,7 +82,7 @@
     "name:ukr_x_variant":[
         "\u0420\u043e\u0440\u0431\u0430\u0445-\u0431\u0430\u0439-\u041c\u0430\u0442\u0442\u0435\u0440\u0441\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rohrbach"
     ],
     "name:uzb_x_preferred":[
@@ -112,7 +115,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         85681651,
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gn:id":2767283,
         "gp:id":12673467,
-        "qs:id":1019112,
+        "qs_pg:id":1019112,
         "wd:id":"Q670828",
         "wk:page":"Rohrbach bei Mattersburg"
     },
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101833069,
-    "wof:lastmodified":1563245778,
+    "wof:lastmodified":1566599059,
     "wof:name":"Rohrbach bei Mattersburg",
     "wof:parent_id":1108838481,
     "wof:placetype":"locality",

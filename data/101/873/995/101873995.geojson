@@ -10,12 +10,16 @@
     "geom:latitude":47.296604,
     "geom:longitude":11.651979,
     "iso:country":"AT",
+    "lbl:bbox":"11.631979,47.276604,11.671979,47.316604",
     "lbl:latitude":47.296604,
     "lbl:longitude":11.651979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.296604,
     "mps:longitude":11.651979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Weer"
     ],
@@ -262,7 +266,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":181,
     "wof:belongsto":[
         85681661,
@@ -276,7 +280,6 @@
         "fct:id":"0326f002-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2761796,
         "gp:id":551391,
-        "qs:id":34304,
         "qs_pg:id":34304,
         "wd:id":"Q595207"
     },
@@ -296,7 +299,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245667,
+    "wof:lastmodified":1566599027,
     "wof:name":"Weer",
     "wof:parent_id":1108837713,
     "wof:placetype":"locality",

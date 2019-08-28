@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.330066,
     "lbl:longitude":9.601538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.330066,
     "mps:longitude":9.601538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Koblach"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85681649,
@@ -128,9 +131,11 @@
     "wof:concordances":{
         "gn:id":2773863,
         "gp:id":551587,
-        "qs:id":1016771,
-        "qs_pg:id":1060426,
+        "qs_pg:id":1016771,
         "wd:id":"Q540301"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060426
     },
     "wof:country":"AT",
     "wof:geomhash":"e981d9565984b63504d73034953dda3e",
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":101827455,
-    "wof:lastmodified":1563245646,
+    "wof:lastmodified":1566599020,
     "wof:name":"Koblach",
     "wof:parent_id":1108837977,
     "wof:placetype":"locality",

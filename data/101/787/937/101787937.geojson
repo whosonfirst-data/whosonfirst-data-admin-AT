@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.213522,
     "lbl:longitude":15.630499,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.213522,
     "mps:longitude":15.630499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u064a\u062a\u0633"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681687,
@@ -145,7 +148,6 @@
         "gn:id":2761531,
         "gp:id":550297,
         "loc:id":"n85152596",
-        "qs:id":968166,
         "qs_pg:id":968166,
         "wd:id":"Q875641",
         "wk:page":"Weiz"
@@ -166,7 +168,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246105,
+    "wof:lastmodified":1566599151,
     "wof:name":"Weiz",
     "wof:parent_id":1108838919,
     "wof:placetype":"locality",

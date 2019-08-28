@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.853588,
     "lbl:longitude":16.550663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.853588,
     "mps:longitude":16.550663,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sankt Georgen am Leithagebirge"
     ],
@@ -28,7 +31,7 @@
     "name:nld_x_preferred":[
         "Sankt Georgen am Leithagebirge"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt Georgen"
     ],
     "name:uzb_x_preferred":[
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681651,
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":2766708,
         "gp:id":539032,
-        "qs:id":977123,
+        "qs_pg:id":977123,
         "wd:id":"Q636880"
     },
     "wof:country":"AT",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101833097,
-    "wof:lastmodified":1563245751,
+    "wof:lastmodified":1566599053,
     "wof:name":"Sankt Georgen am Leithagebirge",
     "wof:parent_id":1108838617,
     "wof:placetype":"locality",

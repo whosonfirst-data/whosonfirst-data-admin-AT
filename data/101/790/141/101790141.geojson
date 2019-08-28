@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.766821,
     "lbl:longitude":14.361483,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.766821,
     "mps:longitude":14.361483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0632\u0646\u06a9\u062a \u0641\u0627\u06cc\u062a \u0622\u0646 \u062f\u0631 \u0642\u0644\u0627\u0646"
     ],
@@ -134,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0424\u0430\u0439\u0442-\u0430\u043d-\u0434\u0435\u0440-\u0490\u043b\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt Veit"
     ],
     "name:uzb_x_preferred":[
@@ -173,7 +176,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681655,
@@ -186,10 +189,12 @@
     "wof:concordances":{
         "gn:id":7872774,
         "gp:id":540520,
-        "qs:id":1037791,
-        "qs_pg:id":1211060,
+        "qs_pg:id":1037791,
         "wd:id":"Q494604",
         "wk:page":"Sankt Veit an der Glan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1211060
     },
     "wof:country":"AT",
     "wof:geomhash":"09c7f364afa1b91535e6071827cced9d",
@@ -204,7 +209,7 @@
         }
     ],
     "wof:id":101790141,
-    "wof:lastmodified":1563245601,
+    "wof:lastmodified":1566599006,
     "wof:name":"Sankt Veit an der Glan",
     "wof:parent_id":1108838239,
     "wof:placetype":"locality",

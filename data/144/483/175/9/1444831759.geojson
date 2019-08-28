@@ -10,8 +10,10 @@
     "geom:latitude":47.118491,
     "geom:longitude":15.436647,
     "iso:country":"AT",
+    "lbl:bbox":"15.4316472439,47.1134912315,15.4416472439,47.1234912315",
     "lbl:latitude":47.118491,
     "lbl:longitude":15.436647,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444831759,
-    "wof:lastmodified":1566340943,
+    "wof:lastmodified":1566597999,
     "wof:name":"Neustift",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

@@ -10,12 +10,16 @@
     "geom:latitude":48.319758,
     "geom:longitude":15.604128,
     "iso:country":"AT",
+    "lbl:bbox":"15.584128,48.299758,15.624128,48.339758",
     "lbl:latitude":48.319758,
     "lbl:longitude":15.604128,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.319758,
     "mps:longitude":15.604128,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
     "qs:a1r":"0",
@@ -34,7 +38,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":2769588,
         "gp:id":543160,
-        "qs:id":182420,
         "qs_pg:id":182420
     },
     "wof:country":"AT",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101858911,
-    "wof:lastmodified":1544744646,
+    "wof:lastmodified":1566599046,
     "wof:name":"Oberw\u00f6lbling",
     "wof:parent_id":1108836609,
     "wof:placetype":"locality",

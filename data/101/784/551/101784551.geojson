@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.210362,
     "lbl:longitude":13.485138,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.210362,
     "mps:longitude":13.485138,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0631\u06cc\u062f \u0627\u06cc\u0645 \u0627\u06cc\u0646\u06a9\u0631\u0627\u06cc\u0633"
     ],
@@ -151,9 +154,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0434-\u0456\u043c-\u0406\u043d\u043d\u043a\u0440\u0430\u0439\u0441"
     ],
-    "name:unk_x_variant":[
-        "Reid"
-    ],
     "name:uzb_x_preferred":[
         "Ried im Innkreis"
     ],
@@ -186,7 +186,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681677,
@@ -200,7 +200,6 @@
         "fct:id":"0324ddb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2767471,
         "gp:id":546536,
-        "qs:id":976218,
         "qs_pg:id":976218,
         "wd:id":"Q267791",
         "wk:page":"Ried im Innkreis"
@@ -221,7 +220,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245960,
+    "wof:lastmodified":1566599111,
     "wof:name":"Ried im Innkreis",
     "wof:parent_id":1108835679,
     "wof:placetype":"locality",

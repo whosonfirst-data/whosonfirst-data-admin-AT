@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.484814,
     "lbl:longitude":13.972897,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.484814,
     "mps:longitude":13.972897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Altenfelden"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681677,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2782691,
         "gp:id":544629,
-        "qs:id":502433,
         "qs_pg:id":502433,
         "wd:id":"Q437073"
     },
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101783413,
-    "wof:lastmodified":1563245939,
+    "wof:lastmodified":1566599105,
     "wof:name":"Altenfelden",
     "wof:parent_id":1108835713,
     "wof:placetype":"locality",

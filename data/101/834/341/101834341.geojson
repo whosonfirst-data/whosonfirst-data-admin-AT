@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.472933,
     "lbl:longitude":15.369477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.472933,
     "mps:longitude":15.369477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sankt Marein im M\u00fcrztal"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u041c\u0430\u0440\u0430\u0439\u043d-\u0456\u043c-\u041c\u044e\u0440\u0446\u0442\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt Marein im M\u00fcrztale"
     ],
     "name:uzb_x_preferred":[
@@ -119,7 +122,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681687,
@@ -132,7 +135,7 @@
     "wof:concordances":{
         "gn:id":2766562,
         "gp:id":12675300,
-        "qs:id":1101911,
+        "qs_pg:id":1101911,
         "wd:id":"Q876396"
     },
     "wof:country":"AT",
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101834341,
-    "wof:lastmodified":1563245810,
+    "wof:lastmodified":1566599068,
     "wof:name":"Sankt Marein im M\u00fcrztal",
     "wof:parent_id":1108839311,
     "wof:placetype":"locality",

@@ -16,15 +16,17 @@
     "geom:bbox":"13.6199595658,47.0987282801,13.7174076758,47.165212197",
     "geom:latitude":47.135606,
     "geom:longitude":13.672216,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1771,
-    "gn:population":1659,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":1771,
     "iso:country":"AT",
     "lbl:latitude":47.141762,
     "lbl:longitude":13.676151,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mauterndorf"
     ],
@@ -76,7 +78,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0443\u0442\u0435\u0440\u043d\u0434\u043e\u0440\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mautterndorf"
     ],
     "name:uzb_x_preferred":[
@@ -112,7 +114,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674708,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":1108837051,
-    "wof:lastmodified":1564314150,
+    "wof:lastmodified":1566598461,
     "wof:name":"Mauterndorf",
     "wof:parent_id":102049721,
     "wof:placetype":"localadmin",

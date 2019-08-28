@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14965551.851847,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.469209,48.129618,16.469209,48.129618",
     "geom:latitude":48.129618,
     "geom:longitude":16.469209,
     "iso:country":"AT",
+    "lbl:bbox":"16.464209,48.124618,16.474209,48.134618",
     "lbl:latitude":48.129618,
     "lbl:longitude":16.469209,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.118332,
     "mps:longitude":16.455719,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:deu_x_preferred":[
         "Rannersdorf"
     ],
-    "name:unk_x_variant":[
-        "Wien-Rannersdorf",
-        "Rannersdorf"
+    "name:und_x_variant":[
+        "Wien-Rannersdorf"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPL",
@@ -60,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681671,
         102191581,
         1108836277,
         85632785,
         101754203,
-        102049843
+        102049843,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2767966,
         "gp:id":543444,
-        "qs:id":1080428,
         "qs_pg:id":1080428
     },
     "wof:country":"AT",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932052,
+    "wof:lastmodified":1566597457,
     "wof:name":"Rannersdorf",
     "wof:parent_id":101754203,
     "wof:placetype":"neighbourhood",

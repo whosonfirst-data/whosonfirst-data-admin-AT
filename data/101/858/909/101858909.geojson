@@ -11,12 +11,16 @@
     "geom:longitude":15.219364,
     "gn:population":963,
     "iso:country":"AT",
+    "lbl:bbox":"15.199364,48.205308,15.239364,48.245308",
     "lbl:latitude":48.225308,
     "lbl:longitude":15.219364,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":48.225308,
     "mps:longitude":15.219364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Klein-P\u00f6chlarn"
     ],
@@ -107,7 +111,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
@@ -121,10 +125,12 @@
     "wof:concordances":{
         "gn:id":2774062,
         "gp:id":542420,
-        "qs:id":37633,
-        "qs_pg:id":977146,
+        "qs_pg:id":37633,
         "wd:id":"Q675036",
         "wk:page":"Klein-P\u00f6chlarn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977146
     },
     "wof:country":"AT",
     "wof:geomhash":"985a6374c469a4d6cb262fac2f744e4a",
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":101858909,
-    "wof:lastmodified":1563245727,
+    "wof:lastmodified":1566599044,
     "wof:name":"Klein-P\u00f6chlarn",
     "wof:parent_id":1108836851,
     "wof:placetype":"locality",

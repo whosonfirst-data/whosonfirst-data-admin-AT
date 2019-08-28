@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.447405,
     "lbl:longitude":15.559487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.447405,
     "mps:longitude":15.559487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Senftenberg"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":831,
     "wof:belongsto":[
         85681671,
@@ -121,9 +124,11 @@
     "wof:concordances":{
         "gn:id":2765161,
         "gp:id":543823,
-        "qs:id":6,
-        "qs_pg:id":216696,
+        "qs_pg:id":6,
         "wd:id":"Q700286"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":216696
     },
     "wof:country":"AT",
     "wof:geomhash":"9bfcb1fd805e6b48c081586ae23bcd23",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101783383,
-    "wof:lastmodified":1563245945,
+    "wof:lastmodified":1566599107,
     "wof:name":"Senftenberg",
     "wof:parent_id":1108835443,
     "wof:placetype":"locality",

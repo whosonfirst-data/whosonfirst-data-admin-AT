@@ -11,12 +11,16 @@
     "geom:longitude":13.629837,
     "gn:population":5044,
     "iso:country":"AT",
+    "lbl:bbox":"13.609837,47.954543,13.649837,47.994543",
     "lbl:latitude":47.974543,
     "lbl:longitude":13.629837,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.974543,
     "mps:longitude":13.629837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Lenzing"
     ],
@@ -254,7 +258,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":382,
     "wof:belongsto":[
@@ -268,10 +272,12 @@
     "wof:concordances":{
         "gn:id":2772654,
         "gp:id":545764,
-        "qs:id":1037798,
         "qs_pg:id":34243,
         "wd:id":"Q670019",
         "wk:page":"Lenzing"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037798
     },
     "wof:country":"AT",
     "wof:geomhash":"abaa16c9cf70b1766feddc296825659f",
@@ -286,7 +292,7 @@
         }
     ],
     "wof:id":101874025,
-    "wof:lastmodified":1563245659,
+    "wof:lastmodified":1566599024,
     "wof:name":"Lenzing",
     "wof:parent_id":1108836447,
     "wof:placetype":"locality",

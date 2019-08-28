@@ -25,8 +25,12 @@
     "gn:population":82,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"14.64667,46.63,14.68667,46.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -37,7 +41,7 @@
         "gn:id":2761831
     },
     "wof:country":"AT",
-    "wof:geomhash":"61e5b9257cbc0d469945a0a5a7b3d4a7",
+    "wof:geomhash":"5dbdfec1024cf58c5a6cbb0dbfd21430",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209217639,
-    "wof:lastmodified":1536294076,
+    "wof:lastmodified":1566597960,
     "wof:name":"Watzelsdorf",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.666670000000002,
+    14.66667,
     46.65,
-    14.666670000000002,
+    14.66667,
     46.65
 ],
   "geometry": {"coordinates":[14.66667,46.65],"type":"Point"}

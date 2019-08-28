@@ -10,8 +10,10 @@
     "geom:latitude":47.116528,
     "geom:longitude":15.409926,
     "iso:country":"AT",
+    "lbl:bbox":"15.4049256562,47.1115284261,15.4149256562,47.1215284261",
     "lbl:latitude":47.116528,
     "lbl:longitude":15.409926,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,12 +35,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":1444831747,
-    "wof:lastmodified":1566340940,
+    "wof:lastmodified":1566597998,
     "wof:name":"Sankt Veit",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

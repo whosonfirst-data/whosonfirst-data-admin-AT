@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.753568,
     "lbl:longitude":16.540062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.753568,
     "mps:longitude":16.540062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Klingenbach"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         85681651,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":2773938,
         "gp:id":12673452,
-        "qs:id":395817,
+        "qs_pg:id":395817,
         "wd:id":"Q662564",
         "wk:page":"Klingenbach"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101786797,
-    "wof:lastmodified":1563246070,
+    "wof:lastmodified":1566599140,
     "wof:name":"Klingenbach",
     "wof:parent_id":1108838771,
     "wof:placetype":"locality",

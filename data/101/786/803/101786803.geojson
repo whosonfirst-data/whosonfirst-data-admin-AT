@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.798566,
     "lbl:longitude":16.501949,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.798566,
     "mps:longitude":16.501949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wulkaprodersdorf"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         85681651,
@@ -122,10 +125,12 @@
     "wof:concordances":{
         "gn:id":2760825,
         "gp:id":539129,
-        "qs:id":1024367,
         "qs_pg:id":977125,
         "wd:id":"Q663259",
         "wk:page":"Wulkaprodersdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1024367
     },
     "wof:country":"AT",
     "wof:geomhash":"61a0425fe4b3795d5c3b8443c1e345ea",
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":101786803,
-    "wof:lastmodified":1563246080,
+    "wof:lastmodified":1566599144,
     "wof:name":"Wulkaprodersdorf",
     "wof:parent_id":1108838605,
     "wof:placetype":"locality",

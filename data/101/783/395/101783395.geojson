@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.392787,
     "lbl:longitude":16.111235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.392787,
     "mps:longitude":16.111235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hausleiten"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         85681671,
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gn:id":2776641,
         "gp:id":12674007,
-        "qs:id":987677,
+        "qs_pg:id":987677,
         "wd:id":"Q691586",
         "wk:page":"Hausleiten"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101783395,
-    "wof:lastmodified":1563245947,
+    "wof:lastmodified":1566599107,
     "wof:name":"Hausleiten",
     "wof:parent_id":1108836367,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":47.837771,
     "geom:longitude":13.02194,
     "iso:country":"AT",
+    "lbl:bbox":"13.016939502,47.8327711598,13.026939502,47.8427711598",
     "lbl:latitude":47.837771,
     "lbl:longitude":13.02194,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681681,
         102191581,
         1108837115,
         85632785,
         101754151,
-        102049799
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444832407,
-    "wof:lastmodified":1566341018,
+    "wof:lastmodified":1566598001,
     "wof:name":"Itzling Nord",
     "wof:parent_id":101754151,
     "wof:placetype":"neighbourhood",

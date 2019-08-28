@@ -9,14 +9,17 @@
     "geom:bbox":"12.4066558119,47.3695446955,12.4403215229,47.4126937115",
     "geom:latitude":47.390274,
     "geom:longitude":12.423032,
-    "geonames:id":"2775068,2775069",
+    "gn:id":"2775068,2775069",
     "iso:country":"AT",
     "lbl:latitude":47.397424,
     "lbl:longitude":12.426093,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.397424,
     "mps:longitude":12.426093,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jochberg"
     ],
@@ -243,7 +246,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":15,
     "wof:belongsto":[
         85681661,
@@ -271,7 +274,7 @@
         }
     ],
     "wof:id":101844539,
-    "wof:lastmodified":1563245711,
+    "wof:lastmodified":1566599039,
     "wof:name":"Jochberg",
     "wof:parent_id":1108837347,
     "wof:placetype":"locality",

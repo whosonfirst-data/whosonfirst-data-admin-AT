@@ -16,15 +16,17 @@
     "geom:bbox":"9.66331041077,47.2386543269,9.71877495331,47.2657707319",
     "geom:latitude":47.251752,
     "geom:longitude":9.688408,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":597,
-    "gn:population":631,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":597,
     "iso:country":"AT",
     "lbl:latitude":47.254281,
     "lbl:longitude":9.678747,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "\u00dcbersaxen"
     ],
@@ -73,7 +75,7 @@
     "name:ukr_x_preferred":[
         "\u042e\u0431\u0435\u0440\u0437\u0430\u043a\u0441\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uebersaxen"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +117,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675682,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1108838081,
-    "wof:lastmodified":1564314491,
+    "wof:lastmodified":1566598667,
     "wof:name":"\u00dcbersaxen",
     "wof:parent_id":102049725,
     "wof:placetype":"localadmin",

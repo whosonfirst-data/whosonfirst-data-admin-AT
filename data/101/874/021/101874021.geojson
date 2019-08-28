@@ -10,12 +10,16 @@
     "geom:latitude":47.920213,
     "geom:longitude":13.960342,
     "iso:country":"AT",
+    "lbl:bbox":"13.940342,47.900213,13.980342,47.940213",
     "lbl:latitude":47.920213,
     "lbl:longitude":13.960342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.920213,
     "mps:longitude":13.960342,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Ober\u00f6sterreich",
     "qs:a1r":"0",
@@ -33,7 +37,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681677,
         102191581,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2762404,
         "gp:id":547134,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"AT",
     "wof:geomhash":"22f7978be56ab7fbddd87152f3e4e716",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101874021,
-    "wof:lastmodified":1544751592,
+    "wof:lastmodified":1566599026,
     "wof:name":"Viechtwang",
     "wof:parent_id":1108835161,
     "wof:placetype":"locality",

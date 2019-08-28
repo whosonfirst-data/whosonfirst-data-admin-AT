@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.072554,
     "lbl:longitude":14.431201,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.072554,
     "mps:longitude":14.431201,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Neumarkt in Steiermark"
     ],
@@ -68,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0439\u043c\u0430\u0440\u043a\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neumarkt"
     ],
     "name:uzb_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":24,
     "wof:belongsto":[
         85681687,
@@ -116,7 +119,6 @@
     "wof:concordances":{
         "gn:id":2770720,
         "gp:id":549284,
-        "qs:id":977190,
         "qs_pg:id":977190,
         "wd:id":"Q688865",
         "wk:page":"Neumarkt in Steiermark"
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101789063,
-    "wof:lastmodified":1563246159,
+    "wof:lastmodified":1566599166,
     "wof:name":"Neumarkt in Steiermark",
     "wof:parent_id":1108838811,
     "wof:placetype":"locality",

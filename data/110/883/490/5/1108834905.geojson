@@ -16,15 +16,18 @@
     "geom:bbox":"15.9609072418,47.5614063252,16.0394424811,47.5907972369",
     "geom:latitude":47.577944,
     "geom:longitude":15.999396,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":47.576691,
     "lbl:longitude":15.989605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Sankt-Corona"
     ],
     "qs_pg:aaroncc":"AT",
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674234,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108834905,
-    "wof:lastmodified":1536699401,
+    "wof:lastmodified":1566598327,
     "wof:name":"St. Corona am Wechsel",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

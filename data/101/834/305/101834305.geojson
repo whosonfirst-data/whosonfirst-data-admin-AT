@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.427029,
     "lbl:longitude":11.880021,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.427029,
     "mps:longitude":11.880021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Reith im \u00c5ipb\u00e5cht\u00e5i"
     ],
@@ -97,9 +100,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u0442-\u0456\u043c-\u0410\u043b\u044c\u043f\u0431\u0430\u0445\u0442\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Reith bei Brixlegg"
-    ],
     "name:uzb_x_preferred":[
         "Reith im Alpbachtal"
     ],
@@ -130,7 +130,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         85681661,
@@ -144,7 +144,7 @@
         "fct:id":"0326d392-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2767607,
         "gp:id":551116,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q523993",
         "wk:page":"Reith im Alpbachtal"
     },
@@ -164,7 +164,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245817,
+    "wof:lastmodified":1566599071,
     "wof:name":"Reith im Alpbachtal",
     "wof:parent_id":1108837391,
     "wof:placetype":"locality",

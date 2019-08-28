@@ -14,10 +14,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.331768,
     "lbl:longitude":11.191556,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.331768,
     "mps:longitude":11.191556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Seefeld in Tirol"
     ],
@@ -202,9 +205,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0444\u0435\u043b\u044c\u0434-\u0456\u043d-\u0422\u0456\u0440\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Seefeld"
-    ],
     "name:uzb_x_preferred":[
         "Seefeld in Tirol"
     ],
@@ -240,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1891,
     "wof:belongsto":[
@@ -255,7 +255,6 @@
         "fct:id":"0326de78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2765278,
         "gp:id":551219,
-        "qs:id":900788,
         "qs_pg:id":900788,
         "wd:id":"Q660035",
         "wk:page":"Seefeld in Tirol"
@@ -276,7 +275,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246149,
+    "wof:lastmodified":1566599163,
     "wof:name":"Seefeld in Tirol",
     "wof:parent_id":1108837643,
     "wof:placetype":"locality",

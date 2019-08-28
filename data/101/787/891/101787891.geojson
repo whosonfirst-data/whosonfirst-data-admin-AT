@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.304514,
     "lbl:longitude":16.438852,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.304514,
     "mps:longitude":16.438852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Rechnitz"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":509,
     "wof:belongsto":[
         85681651,
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":2767815,
         "gp:id":539013,
-        "qs:id":1076263,
         "qs_pg:id":1076263,
         "wd:id":"Q255604",
         "wk:page":"Rechnitz"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101787891,
-    "wof:lastmodified":1563246133,
+    "wof:lastmodified":1566599158,
     "wof:name":"Rechnitz",
     "wof:parent_id":1108838571,
     "wof:placetype":"locality",

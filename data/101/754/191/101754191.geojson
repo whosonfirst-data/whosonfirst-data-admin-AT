@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.12555,
     "lbl:longitude":16.324588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.12555,
     "mps:longitude":16.324588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "V\u00f6sendorf"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         85681671,
@@ -133,10 +136,12 @@
     "wof:concordances":{
         "gn:id":2762390,
         "gp:id":544220,
-        "qs:id":37830,
-        "qs_pg:id":247431,
+        "qs_pg:id":37830,
         "wd:id":"Q661694",
         "wk:page":"V\u00f6sendorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":247431
     },
     "wof:country":"AT",
     "wof:geomhash":"59cc71f955a24c5b0215049e7273254a",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101754191,
-    "wof:lastmodified":1563245622,
+    "wof:lastmodified":1566599013,
     "wof:name":"V\u00f6sendorf",
     "wof:parent_id":1108836777,
     "wof:placetype":"locality",

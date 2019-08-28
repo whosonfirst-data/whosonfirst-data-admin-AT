@@ -9,14 +9,18 @@
     "geom:bbox":"16.35109,47.63547,16.35109,47.63547",
     "geom:latitude":47.63547,
     "geom:longitude":16.35109,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"16.33109,47.61547,16.37109,47.65547",
     "lbl:latitude":47.63547,
     "lbl:longitude":16.35109,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Schwarzenbach"
@@ -81,7 +85,7 @@
     "name:swe_x_preferred":[
         "Schwarzenbach"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schwarzenbach Markt"
     ],
     "name:uzb_x_preferred":[
@@ -120,7 +124,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":543786,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"Nieder\u00f6sterreich",
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1125837903,
-    "wof:lastmodified":1563246649,
+    "wof:lastmodified":1566599518,
     "wof:name":"Schwarzenbach",
     "wof:parent_id":1108836273,
     "wof:placetype":"locality",

@@ -19,10 +19,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.964236,
     "lbl:longitude":14.831423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1108838393,
-    "wof:lastmodified":1536698251,
+    "wof:lastmodified":1566598681,
     "wof:name":"Bad Sankt Leonhard Im Lavanttal",
     "wof:parent_id":102049693,
     "wof:placetype":"localadmin",

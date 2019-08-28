@@ -10,8 +10,10 @@
     "geom:latitude":48.225578,
     "geom:longitude":16.356164,
     "iso:country":"AT",
+    "lbl:bbox":"16.351163618,48.2205780861,16.361163618,48.2305780861",
     "lbl:latitude":48.225578,
     "lbl:longitude":16.356164,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -34,7 +36,7 @@
         "\u30c8\u30a5\u30ea\u30fc\u30b0\u30eb\u30f3\u30c8"
     ],
     "src:geom":"mz",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":1108938253,
-    "wof:lastmodified":1563244485,
+    "wof:lastmodified":1566598126,
     "wof:name":"Thurygrund",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

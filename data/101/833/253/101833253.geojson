@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.179829,
     "lbl:longitude":16.062935,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.179829,
     "mps:longitude":16.062935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pressbaum"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":72,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":2768348,
         "gp:id":543365,
-        "qs:id":977155,
         "qs_pg:id":977155,
         "wd:id":"Q666577",
         "wk:page":"Pressbaum"
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101833253,
-    "wof:lastmodified":1563245774,
+    "wof:lastmodified":1566599058,
     "wof:name":"Pressbaum",
     "wof:parent_id":1108836179,
     "wof:placetype":"locality",

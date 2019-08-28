@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.058388,
     "lbl:longitude":16.072768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.058388,
     "mps:longitude":16.072768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alland"
     ],
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Alland"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alland im Gebirge"
     ],
     "name:uzb_x_preferred":[
@@ -103,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":622,
     "wof:belongsto":[
         85681671,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":2782802,
         "gp:id":20095770,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q665137",
         "wk:page":"Alland"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101779753,
-    "wof:lastmodified":1563246003,
+    "wof:lastmodified":1566599122,
     "wof:name":"Alland",
     "wof:parent_id":1108836967,
     "wof:placetype":"locality",

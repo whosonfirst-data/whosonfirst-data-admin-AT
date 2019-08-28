@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.370197,
     "lbl:longitude":13.570116,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.370197,
     "mps:longitude":13.570116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Andorf"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":210,
     "wof:belongsto":[
         85681677,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":2782542,
         "gp:id":544654,
-        "qs:id":1076782,
+        "qs_pg:id":1076782,
         "wd:id":"Q492434",
         "wk:page":"Andorf"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101784603,
-    "wof:lastmodified":1563245973,
+    "wof:lastmodified":1566599114,
     "wof:name":"Andorf",
     "wof:parent_id":1108836025,
     "wof:placetype":"locality",

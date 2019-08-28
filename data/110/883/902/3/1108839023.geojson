@@ -16,12 +16,15 @@
     "geom:bbox":"15.4791468756,46.7877648943,15.5496219987,46.8323430058",
     "geom:latitude":46.81294,
     "geom:longitude":15.511422,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AT",
     "lbl:latitude":46.811531,
     "lbl:longitude":15.500241,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tillmitsch"
     ],
@@ -97,7 +100,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674833,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108839023,
-    "wof:lastmodified":1564314260,
+    "wof:lastmodified":1566598527,
     "wof:name":"Tillmitsch",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

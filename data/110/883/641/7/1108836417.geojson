@@ -16,15 +16,17 @@
     "geom:bbox":"14.2227957854,48.4347509666,14.2972936668,48.4946781164",
     "geom:latitude":48.467712,
     "geom:longitude":14.262502,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1756,
-    "gn:population":1772,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":1756,
     "iso:country":"AT",
     "lbl:latitude":48.46862,
     "lbl:longitude":14.261938,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zwettl an der Rodl"
     ],
@@ -61,7 +63,7 @@
     "name:swe_x_preferred":[
         "Zwettl an der Rodl"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zwettl"
     ],
     "name:uzb_x_preferred":[
@@ -97,7 +99,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674623,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1108836417,
-    "wof:lastmodified":1564314391,
+    "wof:lastmodified":1566598602,
     "wof:name":"Zwettl an der Rodl",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",

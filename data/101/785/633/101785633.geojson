@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.88005,
     "lbl:longitude":16.442352,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.88005,
     "mps:longitude":16.442352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Hornstua"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         85681651,
@@ -119,9 +122,11 @@
     "wof:concordances":{
         "gn:id":2775616,
         "gp:id":538858,
-        "qs:id":989349,
-        "qs_pg:id":1319718,
+        "qs_pg:id":989349,
         "wd:id":"Q662512"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1319718
     },
     "wof:country":"AT",
     "wof:geomhash":"58472c827651a646c1934991983b8a42",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101785633,
-    "wof:lastmodified":1563245873,
+    "wof:lastmodified":1566599088,
     "wof:name":"Hornstein",
     "wof:parent_id":1108838581,
     "wof:placetype":"locality",

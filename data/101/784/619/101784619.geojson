@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.350601,
     "lbl:longitude":14.15673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.350601,
     "mps:longitude":14.15673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Walding"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         85681677,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2761999,
         "gp:id":12674627,
-        "qs:id":987724,
+        "qs_pg:id":987724,
         "wd:id":"Q677293",
         "wk:page":"Walding"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101784619,
-    "wof:lastmodified":1563245969,
+    "wof:lastmodified":1566599114,
     "wof:name":"Walding",
     "wof:parent_id":1108836415,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.199103,
     "lbl:longitude":15.339206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.199103,
     "mps:longitude":15.339206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Peggau"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681687,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2769171,
         "gp:id":549464,
-        "qs:id":977198,
         "qs_pg:id":977198,
         "wd:id":"Q368619",
         "wk:page":"Peggau"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101787855,
-    "wof:lastmodified":1563246135,
+    "wof:lastmodified":1566599159,
     "wof:name":"Peggau",
     "wof:parent_id":1108839211,
     "wof:placetype":"locality",

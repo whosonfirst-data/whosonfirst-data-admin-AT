@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.246766,
     "lbl:longitude":16.311108,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.253966,
     "mps:longitude":16.302211,
     "mz:hierarchy_label":1,
@@ -32,10 +33,6 @@
     ],
     "name:eng_x_preferred":[
         "Neustift"
-    ],
-    "name:unk_x_variant":[
-        "Neustift",
-        "Neustift am Walde"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
@@ -80,7 +77,6 @@
     "wof:concordances":{
         "gn:id":2770661,
         "gp:id":542971,
-        "qs:id":210467,
         "qs_pg:id":210467,
         "wd:id":"Q1981716",
         "wk:page":"Neustift am Walde"
@@ -102,7 +98,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237684,
+    "wof:lastmodified":1566597454,
     "wof:name":"Neustift am Walde",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

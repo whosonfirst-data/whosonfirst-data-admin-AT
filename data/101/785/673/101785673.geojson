@@ -9,14 +9,17 @@
     "geom:bbox":"13.3179927462,47.8376699895,13.3613340933,47.8672048162",
     "geom:latitude":47.853724,
     "geom:longitude":13.340256,
-    "geonames:id":"2763614,2771277",
+    "gn:id":"2763614,2771277",
     "iso:country":"AT",
     "lbl:latitude":47.855814,
     "lbl:longitude":13.345345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.855814,
     "mps:longitude":13.345345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u043e\u043d\u0434\u0437\u044d\u0435"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":14,
     "wof:belongsto":[
         85681677,
@@ -143,7 +146,6 @@
     "wof:concordances":{
         "gn:id":2771277,
         "gp:id":545939,
-        "qs:id":1076911,
         "qs_pg:id":1076911,
         "wd:id":"Q665230"
     },
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101785673,
-    "wof:lastmodified":1563245870,
+    "wof:lastmodified":1566599087,
     "wof:name":"Mondsee",
     "wof:parent_id":1108836451,
     "wof:placetype":"locality",

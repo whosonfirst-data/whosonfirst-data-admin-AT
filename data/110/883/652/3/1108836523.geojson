@@ -16,15 +16,17 @@
     "geom:bbox":"13.4350059663,47.9578491198,13.5311029162,48.03420172",
     "geom:latitude":47.991248,
     "geom:longitude":13.488138,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":4746,
-    "gn:population":4890,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":4746,
     "iso:country":"AT",
     "lbl:latitude":47.988642,
     "lbl:longitude":13.4914,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u00f6cklamarkt"
     ],
@@ -67,7 +69,7 @@
     "name:swe_x_preferred":[
         "V\u00f6cklamarkt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00f6cklamarkt-am Haushamerfeld"
     ],
     "name:uzb_x_preferred":[
@@ -104,7 +106,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674405,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":1108836523,
-    "wof:lastmodified":1564314438,
+    "wof:lastmodified":1566598632,
     "wof:name":"V\u00f6cklamarkt",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

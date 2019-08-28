@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":48.876044,
     "lbl:longitude":15.330894,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.875744,
     "mps:longitude":15.330694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bos_x_preferred":[
         "Waidhofen an der Thaya"
     ],
@@ -137,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"669",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Waidhofen an der Thaya",
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":102049903,
-    "wof:lastmodified":1563243042,
+    "wof:lastmodified":1566597187,
     "wof:name":"Waidhofen an der Thaya",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

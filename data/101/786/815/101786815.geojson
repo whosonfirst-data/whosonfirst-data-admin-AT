@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.933722,
     "lbl:longitude":13.491583,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.933722,
     "mps:longitude":13.491583,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Sankt Georgen im Attergau"
     ],
@@ -80,7 +83,7 @@
     "name:szl_x_preferred":[
         "St. Georgen im Attergau"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt Georgen"
     ],
     "name:uzb_x_preferred":[
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":29,
     "wof:belongsto":[
@@ -129,9 +132,11 @@
     "wof:concordances":{
         "gn:id":2766692,
         "gp:id":546632,
-        "qs:id":141409,
-        "qs_pg:id":1058793,
+        "qs_pg:id":141409,
         "wd:id":"Q680468"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1058793
     },
     "wof:country":"AT",
     "wof:geomhash":"974c22578fa130705bfabdc908ed504f",
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":101786815,
-    "wof:lastmodified":1563246092,
+    "wof:lastmodified":1566599147,
     "wof:name":"Sankt Georgen im Attergau",
     "wof:parent_id":1108836493,
     "wof:placetype":"locality",

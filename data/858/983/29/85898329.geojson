@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":30735999.939105,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.233701,48.00425,16.233701,48.00425",
     "geom:latitude":48.00425,
     "geom:longitude":16.233701,
     "iso:country":"AT",
+    "lbl:bbox":"16.228701,47.99925,16.238701,48.00925",
     "lbl:latitude":48.00425,
     "lbl:longitude":16.233701,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.004262,
     "mps:longitude":16.246541,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:deu_x_preferred":[
-        "Leesdorf"
-    ],
-    "name:unk_x_variant":[
         "Leesdorf"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681671,
         102191581,
         1108835321,
         85632785,
         101833181,
-        102049829
+        102049829,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2774268,
         "gp:id":542601,
-        "qs:id":1138185,
         "qs_pg:id":1138185
     },
     "wof:country":"AT",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932051,
+    "wof:lastmodified":1566597454,
     "wof:name":"Leesdorf",
     "wof:parent_id":101833181,
     "wof:placetype":"neighbourhood",

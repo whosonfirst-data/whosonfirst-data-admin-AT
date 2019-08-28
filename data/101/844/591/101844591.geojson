@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.860848,
     "lbl:longitude":15.030127,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.860848,
     "mps:longitude":15.030127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lunz am See"
     ],
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Lunz am See"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lunz"
     ],
     "name:uzb_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         85681671,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":2772186,
         "gp:id":542697,
-        "qs:id":37553,
-        "qs_pg:id":226854,
+        "qs_pg:id":37553,
         "wd:id":"Q670391",
         "wk:page":"Lunz am See"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":226854
     },
     "wof:country":"AT",
     "wof:geomhash":"5234cc64b5a97939f623ad5ed072b7c8",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101844591,
-    "wof:lastmodified":1563245715,
+    "wof:lastmodified":1566599040,
     "wof:name":"Lunz am See",
     "wof:parent_id":1108835319,
     "wof:placetype":"locality",

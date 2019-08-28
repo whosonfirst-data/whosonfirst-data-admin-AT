@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.689396,
     "lbl:longitude":15.988127,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.689396,
     "mps:longitude":15.988127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0411\u0430\u0434-\u0420\u0430\u0434\u043a\u0435\u0440\u0441\u0431\u0443\u0440\u0433"
     ],
@@ -109,9 +112,6 @@
     "name:swe_x_preferred":[
         "Bad Radkersburg"
     ],
-    "name:unk_x_variant":[
-        "Obrajna"
-    ],
     "name:uzb_x_preferred":[
         "Bad Radkersburg"
     ],
@@ -147,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681687,
         102191581,
@@ -160,10 +160,12 @@
         "fct:id":"03258c30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2768119,
         "gp:id":548121,
-        "qs:id":1019859,
-        "qs_pg:id":1327265,
+        "qs_pg:id":1019859,
         "wd:id":"Q698465",
         "wk:page":"Bad Radkersburg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327265
     },
     "wof:country":"AT",
     "wof:geomhash":"a9165562bd82265a475d5ecfb9fc6b5d",
@@ -181,7 +183,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245790,
+    "wof:lastmodified":1566599062,
     "wof:name":"Bad Radkersburg",
     "wof:parent_id":1108839337,
     "wof:placetype":"locality",

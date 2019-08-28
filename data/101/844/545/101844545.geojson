@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.306933,
     "lbl:longitude":14.9381,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.306933,
     "mps:longitude":14.9381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kraubath an der Mur"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Kraubath an der Mur"
     ],
-    "name:unk_x_variant":[
-        "Kraubath"
-    ],
     "name:uzb_x_preferred":[
         "Kraubath an der Mur"
     ],
@@ -100,7 +100,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         85681687,
@@ -114,7 +114,7 @@
         "fct:id":"0325e6ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2773577,
         "gp:id":548944,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q688747"
     },
     "wof:country":"AT",
@@ -133,7 +133,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245708,
+    "wof:lastmodified":1566599038,
     "wof:name":"Kraubath an der Mur",
     "wof:parent_id":1108839011,
     "wof:placetype":"locality",

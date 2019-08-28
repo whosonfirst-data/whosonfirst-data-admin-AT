@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.995869,
     "lbl:longitude":16.344848,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.995869,
     "mps:longitude":16.344848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Trumau"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":702,
     "wof:belongsto":[
         85681671,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2763308,
         "gp:id":544083,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q871491"
     },
     "wof:country":"AT",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101785715,
-    "wof:lastmodified":1563245882,
+    "wof:lastmodified":1566599090,
     "wof:name":"Trumau",
     "wof:parent_id":1108835403,
     "wof:placetype":"locality",

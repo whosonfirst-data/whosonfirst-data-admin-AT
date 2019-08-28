@@ -10,8 +10,10 @@
     "geom:latitude":47.797765,
     "geom:longitude":13.029205,
     "iso:country":"AT",
+    "lbl:bbox":"13.02420503,47.7927648194,13.03420503,47.8027648194",
     "lbl:latitude":47.797765,
     "lbl:longitude":13.029205,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681681,
         102191581,
         1108837189,
         85632785,
         1175610443,
-        102049799
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444827781,
-    "wof:lastmodified":1566336636,
+    "wof:lastmodified":1566597990,
     "wof:name":"Aeussere Riedenburg",
     "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",

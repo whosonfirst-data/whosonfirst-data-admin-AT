@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.507029,
     "lbl:longitude":14.501262,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.507029,
     "mps:longitude":14.501262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0440\u0430\u0439\u0449\u0430\u0442"
     ],
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681677,
@@ -156,7 +159,6 @@
         "fct:id":"03244528-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2779275,
         "gp:id":545095,
-        "qs:id":1332997,
         "qs_pg:id":1332997,
         "wd:id":"Q143140",
         "wk:page":"Freistadt"
@@ -177,7 +179,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245958,
+    "wof:lastmodified":1566599110,
     "wof:name":"Freistadt",
     "wof:parent_id":1108835061,
     "wof:placetype":"locality",

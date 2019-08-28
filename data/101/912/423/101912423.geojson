@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.641314,
     "lbl:longitude":13.766,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.641314,
     "mps:longitude":13.766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Oid Aussee"
     ],
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2678,
     "wof:belongsto":[
         85681687,
@@ -146,7 +149,6 @@
         "gn:id":2782724,
         "gp:id":548052,
         "loc:id":"n78088201",
-        "qs:id":1079024,
         "qs_pg:id":1079024,
         "wd:id":"Q262951",
         "wk:page":"Altaussee"
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":101912423,
-    "wof:lastmodified":1563245844,
+    "wof:lastmodified":1566599078,
     "wof:name":"Altaussee",
     "wof:parent_id":1108838971,
     "wof:placetype":"locality",

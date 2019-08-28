@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.234031,
     "lbl:longitude":16.44622,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.232906,
     "mps:longitude":16.453165,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
-        "Neukagran"
-    ],
-    "name:unk_x_variant":[
         "Neukagran"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -72,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3322743,
         "gp:id":542936,
-        "qs:id":210456,
         "qs_pg:id":210456
     },
     "wof:country":"AT",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237684,
+    "wof:lastmodified":1566597455,
     "wof:name":"Neukagran",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

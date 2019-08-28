@@ -10,8 +10,10 @@
     "geom:latitude":47.081972,
     "geom:longitude":15.467548,
     "iso:country":"AT",
+    "lbl:bbox":"15.462548,47.076972,15.472548,47.086972",
     "lbl:latitude":47.081972,
     "lbl:longitude":15.467548,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.082279,
     "mps:longitude":15.472115,
     "mz:hierarchy_label":0,
@@ -65,9 +67,6 @@
     "name:swe_x_preferred":[
         "Rettenbach"
     ],
-    "name:unk_x_variant":[
-        "Rettenbach"
-    ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":7871499,
@@ -98,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108839329,
@@ -111,7 +110,6 @@
     "wof:concordances":{
         "gn:id":2767539,
         "gp:id":549669,
-        "qs:id":1165885,
         "qs_pg:id":1165885
     },
     "wof:country":"AT",
@@ -131,7 +129,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312388,
+    "wof:lastmodified":1566597464,
     "wof:name":"Rettenbach",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

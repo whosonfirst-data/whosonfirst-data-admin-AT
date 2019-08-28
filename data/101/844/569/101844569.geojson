@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.796782,
     "lbl:longitude":13.302143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.796782,
     "mps:longitude":13.302143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fuschl am See"
     ],
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0448\u043b\u044c-\u0430\u043c-\u0417\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fuschl"
     ],
     "name:uzb_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":238,
     "wof:belongsto":[
         85681681,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":2779084,
         "gp:id":12674738,
-        "qs:id":1112491,
+        "qs_pg:id":1112491,
         "wd:id":"Q683825",
         "wk:page":"Fuschl am See"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101844569,
-    "wof:lastmodified":1563245690,
+    "wof:lastmodified":1566599032,
     "wof:name":"Fuschl am See",
     "wof:parent_id":1108837135,
     "wof:placetype":"locality",

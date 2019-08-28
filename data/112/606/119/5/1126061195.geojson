@@ -9,14 +9,17 @@
     "geom:bbox":"14.33333,48.33333,14.33333,48.33333",
     "geom:latitude":48.33333,
     "geom:longitude":14.33333,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"14.32833,48.32833,14.33833,48.33833",
     "lbl:latitude":48.33333,
     "lbl:longitude":14.33333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Katzbach"
@@ -25,9 +28,6 @@
         "\u05db\u05e6\u05d1\u05d0\u05da"
     ],
     "name:ron_x_preferred":[
-        "Katzbach"
-    ],
-    "name:unk_x_variant":[
         "Katzbach"
     ],
     "qs_pg:aaroncc":"AT",
@@ -51,7 +51,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":545580,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"Ober\u00f6sterreich",
@@ -67,7 +67,6 @@
     "wof:concordances":{
         "gn:id":2774616,
         "gp:id":545580,
-        "qs:id":1156279,
         "qs_pg:id":1156279
     },
     "wof:country":"AT",
@@ -85,7 +84,7 @@
         }
     ],
     "wof:id":1126061195,
-    "wof:lastmodified":1564315468,
+    "wof:lastmodified":1566599465,
     "wof:name":"Katzbach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

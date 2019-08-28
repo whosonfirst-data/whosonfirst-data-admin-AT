@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8539638.179154,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.260269,48.300223,14.260269,48.300223",
     "geom:latitude":48.300223,
     "geom:longitude":14.260269,
     "iso:country":"AT",
+    "lbl:bbox":"14.255269,48.295223,14.265269,48.305223",
     "lbl:latitude":48.300223,
     "lbl:longitude":14.260269,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.29132,
     "mps:longitude":14.24147,
     "mz:hierarchy_label":0,
@@ -31,10 +33,6 @@
         "Skt Margarethen",
         "Skt. Margarethen",
         "St Margarethen"
-    ],
-    "name:unk_x_variant":[
-        "Sankt Margarethen",
-        "St. Margarethen"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
@@ -64,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108835543,
@@ -76,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2766554,
         "gp:id":546644,
-        "qs:id":1082894
+        "qs_pg:id":1082894
     },
     "wof:country":"AT",
     "wof:geomhash":"4036ba4b9c5892e7ec4afc3016eb8a23",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932065,
+    "wof:lastmodified":1566597459,
     "wof:name":"St. Margarethen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

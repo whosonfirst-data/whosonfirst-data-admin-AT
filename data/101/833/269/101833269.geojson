@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000893,
-    "geom:area_square_m":7344717.454932,
+    "geom:area_square_m":7344717.454933,
     "geom:bbox":"16.0827432205,48.3106279438,16.1723122374,48.3422115257",
     "geom:latitude":48.328822,
     "geom:longitude":16.122653,
     "iso:country":"AT",
     "lbl:latitude":48.327579,
     "lbl:longitude":16.115846,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.327579,
     "mps:longitude":16.115846,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2773011,
         "gp:id":542575,
-        "qs:id":1009237
+        "qs_pg:id":1009237
     },
     "wof:country":"AT",
     "wof:geomhash":"d27e23da9a80a73e1701c857ec06bbf4",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101833269,
-    "wof:lastmodified":1496613865,
+    "wof:lastmodified":1566599053,
     "wof:name":"Langenlebarn-Oberaigen",
     "wof:parent_id":1108836869,
     "wof:placetype":"locality",

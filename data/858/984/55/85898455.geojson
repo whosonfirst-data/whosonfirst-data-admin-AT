@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10017630.90173,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.233155,48.311422,14.233155,48.311422",
     "geom:latitude":48.311422,
     "geom:longitude":14.233155,
     "gn:id":"",
     "iso:country":"AT",
+    "lbl:bbox":"14.228155,48.306422,14.238155,48.316422",
     "lbl:latitude":48.311422,
     "lbl:longitude":14.233155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.310601,
     "mps:longitude":14.223235,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Urfahrwand"
     ],
     "name:deu_x_preferred":[
-        "Urfahrw\u00e4nd"
-    ],
-    "name:unk_x_variant":[
         "Urfahrw\u00e4nd"
     ],
     "qs:gn_id":0,
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681677,
         102191581,
         1108836397,
         85632785,
         101754239,
-        102049881
+        102049881,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":547117,
-        "qs:id":331460,
         "qs_pg:id":331460
     },
     "wof:country":"AT",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932068,
+    "wof:lastmodified":1566597461,
     "wof:name":"Urfahrw\u00e4nd",
     "wof:parent_id":101754239,
     "wof:placetype":"neighbourhood",

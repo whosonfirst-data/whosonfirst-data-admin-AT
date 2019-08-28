@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.017304,
     "lbl:longitude":15.504792,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.017304,
     "mps:longitude":15.504792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grambach"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681687,
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2778130,
         "gp:id":12674904,
-        "qs:id":395852,
+        "qs_pg:id":395852,
         "wd:id":"Q876341",
         "wk:page":"Grambach"
     },
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101758505,
-    "wof:lastmodified":1563246028,
+    "wof:lastmodified":1566599128,
     "wof:name":"Grambach",
     "wof:parent_id":1108839169,
     "wof:placetype":"locality",

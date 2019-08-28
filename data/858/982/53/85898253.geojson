@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4871202.764275,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.314447,46.623801,14.314447,46.623801",
     "geom:latitude":46.623801,
     "geom:longitude":14.314447,
     "iso:country":"AT",
+    "lbl:bbox":"14.309447,46.618801,14.319447,46.628801",
     "lbl:latitude":46.623801,
     "lbl:longitude":14.314447,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.629936,
     "mps:longitude":14.327026,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:deu_x_preferred":[
-        "Obergoritschitzen"
-    ],
-    "name:unk_x_variant":[
         "Obergoritschitzen"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -58,20 +57,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681655,
         102191581,
         1108838143,
         85632785,
         101748059,
-        102049679
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2770120,
         "gp:id":540092,
-        "qs:id":1080419,
         "qs_pg:id":1080419
     },
     "wof:country":"AT",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932042,
+    "wof:lastmodified":1566597469,
     "wof:name":"Obergoritschitzen",
     "wof:parent_id":101748059,
     "wof:placetype":"neighbourhood",

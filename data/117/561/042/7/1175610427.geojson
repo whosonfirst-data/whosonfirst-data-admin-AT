@@ -14,10 +14,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.031903,
     "lbl:longitude":14.395241,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.031903,
     "mps:longitude":14.395241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Garsten"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
         "fct:id":"03244992-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2778843,
         "gp:id":545133,
-        "qs:id":678821,
         "qs_pg:id":678821,
         "wd:id":"Q683068",
         "wk:page":"Garsten"
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":1175610427,
-    "wof:lastmodified":1563245263,
+    "wof:lastmodified":1566598798,
     "wof:name":"Garsten",
     "wof:parent_id":1108836103,
     "wof:placetype":"locality",

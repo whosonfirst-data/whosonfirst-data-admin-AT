@@ -9,14 +9,17 @@
     "geom:bbox":"15.1380268037,48.2035198038,15.1819622375,48.229082161",
     "geom:latitude":48.216144,
     "geom:longitude":15.159654,
-    "geonames:id":"2773323,2773324",
+    "gn:id":"2773323,2773324",
     "iso:country":"AT",
     "lbl:latitude":48.212011,
     "lbl:longitude":15.161817,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.212011,
     "mps:longitude":15.161817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Krumpasbam"
     ],
@@ -68,7 +71,7 @@
     "name:swe_x_preferred":[
         "Krummnussbaum"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krummussbaum"
     ],
     "name:uzb_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681671,
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gn:id":2773323,
         "gp:id":542537,
-        "qs:id":314186,
+        "qs_pg:id":314186,
         "wd:id":"Q671938"
     },
     "wof:country":"AT",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101843311,
-    "wof:lastmodified":1563245686,
+    "wof:lastmodified":1566599031,
     "wof:name":"Krummnu\u00dfbaum",
     "wof:parent_id":1108834979,
     "wof:placetype":"locality",

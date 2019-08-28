@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.407621,
     "lbl:longitude":16.413331,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.407621,
     "mps:longitude":16.413331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lockenhaus"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":130,
     "wof:belongsto":[
         85681651,
@@ -127,7 +130,6 @@
     "wof:concordances":{
         "gn:id":6692403,
         "gp:id":538922,
-        "qs:id":1078959,
         "qs_pg:id":1078959,
         "wd:id":"Q580045",
         "wk:page":"Lockenhaus"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101912421,
-    "wof:lastmodified":1563245855,
+    "wof:lastmodified":1566599082,
     "wof:name":"Lochenhaus",
     "wof:parent_id":1108838623,
     "wof:placetype":"locality",

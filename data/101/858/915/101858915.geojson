@@ -10,12 +10,16 @@
     "geom:latitude":48.082822,
     "geom:longitude":15.585281,
     "iso:country":"AT",
+    "lbl:bbox":"15.565281,48.062822,15.605281,48.102822",
     "lbl:latitude":48.082822,
     "lbl:longitude":15.585281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.082822,
     "mps:longitude":15.585281,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
     "qs:a1r":"0",
@@ -33,7 +37,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2778411,
         "gp:id":541765,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"AT",
     "wof:geomhash":"be09712f702da28c867e2ecfe5903893",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101858915,
-    "wof:lastmodified":1544744647,
+    "wof:lastmodified":1566599045,
     "wof:name":"G\u00f6blasbruck",
     "wof:parent_id":1108835833,
     "wof:placetype":"locality",

@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.975424,
     "lbl:longitude":15.126547,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.976343,
     "mps:longitude":15.126809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Scheibbs"
     ],
@@ -131,9 +134,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"1024",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Scheibbs",
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":102049825,
-    "wof:lastmodified":1563243069,
+    "wof:lastmodified":1566597213,
     "wof:name":"Scheibbs",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

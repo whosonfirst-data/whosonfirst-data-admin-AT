@@ -9,14 +9,18 @@
     "geom:bbox":"13.0,47.36667,13.0,47.36667",
     "geom:latitude":47.36667,
     "geom:longitude":13.0,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"12.98,47.34667,13.02,47.38667",
     "lbl:latitude":47.36667,
     "lbl:longitude":13.0,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "Deantn"
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u043d\u0442\u0435\u043d-\u0430\u043c-\u0413\u043e\u0445\u043a\u0435\u043d\u0456\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dorf-Dienten am Hochk\u00f6nig"
     ],
     "name:uzb_x_preferred":[
@@ -111,7 +115,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":547445,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"Salzburg",
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1125907485,
-    "wof:lastmodified":1563246481,
+    "wof:lastmodified":1566599415,
     "wof:name":"Dorf Dienten",
     "wof:parent_id":1108837199,
     "wof:placetype":"locality",

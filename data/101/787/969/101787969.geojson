@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.44507,
     "lbl:longitude":13.901065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.44507,
     "mps:longitude":13.901065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gr\u00f6bming"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         85681687,
@@ -97,10 +100,12 @@
     "wof:concordances":{
         "gn:id":2777927,
         "gp:id":548552,
-        "qs:id":1192649,
         "qs_pg:id":343559,
         "wd:id":"Q700597",
         "wk:page":"Gr\u00f6bming"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1192649
     },
     "wof:country":"AT",
     "wof:geomhash":"6efa58724c09a349692c1a9bcf52133c",
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":101787969,
-    "wof:lastmodified":1563246126,
+    "wof:lastmodified":1566599156,
     "wof:name":"Gr\u00f6bming",
     "wof:parent_id":1108838957,
     "wof:placetype":"locality",

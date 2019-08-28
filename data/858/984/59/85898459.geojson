@@ -10,8 +10,10 @@
     "geom:latitude":48.288804,
     "geom:longitude":14.289307,
     "iso:country":"AT",
+    "lbl:bbox":"14.284307,48.283804,14.294307,48.293804",
     "lbl:latitude":48.288804,
     "lbl:longitude":14.289307,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.285111,
     "mps:longitude":14.296102,
     "mz:hierarchy_label":0,
@@ -89,9 +91,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0433\u0448\u0430\u0439\u0434"
     ],
-    "name:unk_x_variant":[
-        "Wegscheid"
-    ],
     "name:uzb_x_preferred":[
         "Wegscheid"
     ],
@@ -136,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108834701,
@@ -149,7 +148,6 @@
     "wof:concordances":{
         "gn:id":2761785,
         "gp:id":547217,
-        "qs:id":1301766,
         "qs_pg:id":1301766
     },
     "wof:country":"AT",
@@ -169,7 +167,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312379,
+    "wof:lastmodified":1566597458,
     "wof:name":"Wegscheid",
     "wof:parent_id":101748071,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.326575,
     "lbl:longitude":16.06037,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.326575,
     "mps:longitude":16.06037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bos_x_preferred":[
         "Tulln an der Donau"
     ],
@@ -163,7 +166,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":552,
     "wof:belongsto":[
@@ -177,7 +180,6 @@
     "wof:concordances":{
         "gn:id":2763266,
         "gp:id":544085,
-        "qs:id":243056,
         "qs_pg:id":243056,
         "wd:id":"Q489810"
     },
@@ -194,7 +196,7 @@
         }
     ],
     "wof:id":101833267,
-    "wof:lastmodified":1563245750,
+    "wof:lastmodified":1566599052,
     "wof:name":"Tulln an der Donau",
     "wof:parent_id":1108836869,
     "wof:placetype":"locality",

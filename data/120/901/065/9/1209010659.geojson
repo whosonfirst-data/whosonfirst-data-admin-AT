@@ -25,8 +25,12 @@
     "gn:population":152,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"13.49112,47.91406,13.53112,47.95406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -37,7 +41,7 @@
         "gn:id":2782807
     },
     "wof:country":"AT",
-    "wof:geomhash":"8ebf97621c1857b85778ce7875274d8b",
+    "wof:geomhash":"68c46718d0b45269d90f8fab836407da",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209010659,
-    "wof:lastmodified":1536300458,
+    "wof:lastmodified":1566597849,
     "wof:name":"Alkersdorf",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.511120000000002,
+    13.51112,
     47.93406,
-    13.511120000000002,
+    13.51112,
     47.93406
 ],
   "geometry": {"coordinates":[13.51112,47.93406],"type":"Point"}

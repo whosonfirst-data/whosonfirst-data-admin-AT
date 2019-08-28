@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.835717,
     "lbl:longitude":16.480941,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.835717,
     "mps:longitude":16.480941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gro\u00dfh\u00f6flein"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u0441\u0433\u0435\u0444\u043b\u0430\u0439\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grossh\u00f6flein"
     ],
     "name:uzb_x_preferred":[
@@ -106,7 +109,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         85681651,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2777673,
         "gp:id":538828,
-        "qs:id":926645,
+        "qs_pg:id":926645,
         "wd:id":"Q597691"
     },
     "wof:country":"AT",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101833149,
-    "wof:lastmodified":1563245787,
+    "wof:lastmodified":1566599061,
     "wof:name":"Gro\u00dfh\u00f6flein",
     "wof:parent_id":1108838633,
     "wof:placetype":"locality",

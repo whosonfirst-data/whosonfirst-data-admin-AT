@@ -10,8 +10,10 @@
     "geom:latitude":48.206756,
     "geom:longitude":16.366528,
     "iso:country":"AT",
+    "lbl:bbox":"16.3615275439,48.2017557549,16.3715275439,48.2117557549",
     "lbl:latitude":48.206756,
     "lbl:longitude":16.366528,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,7 +24,7 @@
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
     "src:geom":"mz",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108938219,
-    "wof:lastmodified":1534803977,
+    "wof:lastmodified":1566598124,
     "wof:name":"Widmerviertel",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

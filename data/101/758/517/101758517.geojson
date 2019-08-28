@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
-    "geom:area_square_m":2069832.463196,
+    "geom:area_square_m":2069832.463195,
     "geom:bbox":"14.31656191,48.3132102931,14.3503281554,48.3407838806",
     "geom:latitude":48.326723,
     "geom:longitude":14.334437,
     "iso:country":"AT",
     "lbl:latitude":48.328461,
     "lbl:longitude":14.334439,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.328461,
     "mps:longitude":14.334439,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Ober\u00f6sterreich",
     "qs:a1r":"0",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681677,
         102191581,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":2768664,
         "gp:id":546402,
-        "qs:id":390020,
         "qs_pg:id":390020
     },
     "wof:country":"AT",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101758517,
-    "wof:lastmodified":1497296165,
+    "wof:lastmodified":1566599128,
     "wof:name":"Plesching",
     "wof:parent_id":1108834701,
     "wof:placetype":"locality",

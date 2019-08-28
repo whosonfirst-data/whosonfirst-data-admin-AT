@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.280346,
     "lbl:longitude":16.494152,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.274152,
     "mps:longitude":16.516645,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
     ],
     "name:eng_x_variant":[
         "Suessenbruenn"
-    ],
-    "name:unk_x_variant":[
-        "S\u00fcssenbrunn"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
@@ -81,7 +79,7 @@
     "wof:concordances":{
         "gn:id":2763974,
         "gp:id":543988,
-        "qs:id":502409
+        "qs_pg:id":502409
     },
     "wof:country":"AT",
     "wof:geomhash":"1d79cf8fb7348f5fa8e42d0665190483",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237691,
+    "wof:lastmodified":1566597461,
     "wof:name":"Suessenbrunn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

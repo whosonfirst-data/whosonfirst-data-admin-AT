@@ -10,12 +10,16 @@
     "geom:latitude":47.143819,
     "geom:longitude":15.501677,
     "iso:country":"AT",
+    "lbl:bbox":"15.481677,47.123819,15.521677,47.163819",
     "lbl:latitude":47.143819,
     "lbl:longitude":15.501677,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.143819,
     "mps:longitude":15.501677,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Steiermark",
     "qs:a1r":"0",
@@ -33,7 +37,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681687,
         102191581,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3335137,
         "gp:id":20098027,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"AT",
     "wof:geomhash":"388b6fb85b7175ebafe6785a8cd69d90",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101858893,
-    "wof:lastmodified":1544744637,
+    "wof:lastmodified":1566599045,
     "wof:name":"Niedersch\u00f6ckl",
     "wof:parent_id":1108839139,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.533507,
     "lbl:longitude":9.74759,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.533507,
     "mps:longitude":9.74759,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Lochau"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":160,
     "wof:belongsto":[
@@ -133,10 +136,12 @@
         "gn:id":2772347,
         "gp:id":551603,
         "loc:id":"no99054007",
-        "qs:id":999436,
         "qs_pg:id":216709,
         "wd:id":"Q668055",
         "wk:page":"Lochau"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":999436
     },
     "wof:country":"AT",
     "wof:geomhash":"7829d8407a702ae03f3fa48e0fccef5f",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101827497,
-    "wof:lastmodified":1563245645,
+    "wof:lastmodified":1566599020,
     "wof:name":"Lochau",
     "wof:parent_id":1108837995,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.068867,
     "lbl:longitude":13.488372,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.068867,
     "mps:longitude":13.488372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Frankenburg am Hausruck"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":354,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":2779380,
         "gp:id":545075,
-        "qs:id":949775,
         "qs_pg:id":949775,
         "wd:id":"Q668720"
     },
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101785661,
-    "wof:lastmodified":1563245878,
+    "wof:lastmodified":1566599090,
     "wof:name":"Frankenburg am Hausruck",
     "wof:parent_id":1108836437,
     "wof:placetype":"locality",

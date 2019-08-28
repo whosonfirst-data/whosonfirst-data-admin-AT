@@ -10,8 +10,10 @@
     "geom:latitude":48.281719,
     "geom:longitude":16.448043,
     "iso:country":"AT",
+    "lbl:bbox":"16.443043,48.276719,16.453043,48.286719",
     "lbl:latitude":48.281719,
     "lbl:longitude":16.448043,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.302409,
     "mps:longitude":16.459676,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
-        "Nordrandsiedlung"
-    ],
-    "name:unk_x_variant":[
         "Nordrandsiedlung"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -73,7 +72,6 @@
     "wof:concordances":{
         "gn:id":3333530,
         "gp:id":543026,
-        "qs:id":1082882,
         "qs_pg:id":1082882
     },
     "wof:country":"AT",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237689,
+    "wof:lastmodified":1566597453,
     "wof:name":"Nordrandsiedlung",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

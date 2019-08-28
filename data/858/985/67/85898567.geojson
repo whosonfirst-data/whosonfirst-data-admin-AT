@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17498469.069738,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.371085,47.108742,15.371085,47.108742",
     "geom:latitude":47.108742,
     "geom:longitude":15.371085,
     "iso:country":"AT",
+    "lbl:bbox":"15.366085,47.103742,15.376085,47.113742",
     "lbl:latitude":47.108742,
     "lbl:longitude":15.371085,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.118991,
     "mps:longitude":15.370295,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:deu_x_preferred":[
-        "Raach"
-    ],
-    "name:unk_x_variant":[
         "Raach"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108839329,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2768176,
         "gp:id":549604,
-        "qs:id":1156300,
         "qs_pg:id":1156300
     },
     "wof:country":"AT",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932086,
+    "wof:lastmodified":1566597464,
     "wof:name":"Raach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

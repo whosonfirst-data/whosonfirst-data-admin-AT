@@ -16,12 +16,15 @@
     "geom:bbox":"9.75007675981,47.2000443935,9.80514927491,47.2409105438",
     "geom:latitude":47.222276,
     "geom:longitude":9.776678,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AT",
     "lbl:latitude":47.224214,
     "lbl:longitude":9.778558,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Th\u00fcringerberg"
     ],
@@ -100,7 +103,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675656,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1108838075,
-    "wof:lastmodified":1564314433,
+    "wof:lastmodified":1566598629,
     "wof:name":"Th\u00fcringerberg",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

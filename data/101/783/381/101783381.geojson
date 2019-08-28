@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.517268,
     "lbl:longitude":15.4917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.517268,
     "mps:longitude":15.4917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u0444\u0451\u043b\u044c"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         85681671,
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":2778599,
         "gp:id":12673721,
-        "qs:id":37559,
+        "qs_pg:id":37559,
         "wd:id":"Q871624",
         "wk:page":"Gf\u00f6hl"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101783381,
-    "wof:lastmodified":1563245959,
+    "wof:lastmodified":1566599111,
     "wof:name":"Gf\u00f6hl",
     "wof:parent_id":1108834933,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
-    "geom:area_square_m":2681947.372414,
+    "geom:area_square_m":2681947.372415,
     "geom:bbox":"15.1520887487,48.5955424203,15.1917787505,48.6137356512",
     "geom:latitude":48.604427,
     "geom:longitude":15.168451,
     "iso:country":"AT",
     "lbl:latitude":48.605548,
     "lbl:longitude":15.164843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.605548,
     "mps:longitude":15.164843,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":544560,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"AT",
     "wof:geomhash":"699835e52fb60257b706297640712c8c",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101782235,
-    "wof:lastmodified":1496613887,
+    "wof:lastmodified":1566599099,
     "wof:name":"Zwettl-Nieder\u00f6sterreich",
     "wof:parent_id":1108836883,
     "wof:placetype":"locality",

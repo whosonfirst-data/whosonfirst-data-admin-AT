@@ -10,8 +10,10 @@
     "geom:latitude":48.202072,
     "geom:longitude":16.342316,
     "iso:country":"AT",
+    "lbl:bbox":"16.3373162599,48.1970715462,16.3473162599,48.2070715462",
     "lbl:latitude":48.202072,
     "lbl:longitude":16.342316,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,7 +24,7 @@
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
     "src:geom":"mz",
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108838101,
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108938269,
-    "wof:lastmodified":1534803978,
+    "wof:lastmodified":1566598125,
     "wof:name":"Schottenfeld",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

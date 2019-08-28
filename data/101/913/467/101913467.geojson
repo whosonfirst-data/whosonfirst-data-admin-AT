@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.778532,
     "lbl:longitude":16.271108,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.778532,
     "mps:longitude":16.271108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Neud\u00f6rfl"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gn:id":2770803,
         "gp:id":542320,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q644301",
         "wk:page":"Neud\u00f6rfl"
     },
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101913467,
-    "wof:lastmodified":1563246025,
+    "wof:lastmodified":1566599126,
     "wof:name":"Neud\u00f6rfl",
     "wof:parent_id":1108835377,
     "wof:placetype":"locality",

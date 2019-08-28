@@ -13,6 +13,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.193742,
     "lbl:longitude":16.323547,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.199963,
     "mps:longitude":16.318324,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30c9\u30eb\u30d5\u30b9\u30cf\u30a4\u30e0"
-    ],
-    "name:unk_x_variant":[
-        "Rudolfsheim"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_id":0,
@@ -81,7 +79,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":551784,
-        "qs:id":1061709,
         "qs_pg:id":1061709,
         "wd:id":"Q2174345"
     },
@@ -102,7 +99,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566247496,
+    "wof:lastmodified":1566597472,
     "wof:name":"Rudolfsheim",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

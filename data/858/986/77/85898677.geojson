@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.183048,
     "lbl:longitude":16.303456,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.186526,
     "mps:longitude":16.30334,
     "mz:hierarchy_label":1,
@@ -127,9 +128,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0442\u0446\u0456\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "Hietzing"
-    ],
     "name:zho_x_preferred":[
         "\u5e2d\u6d25"
     ],
@@ -176,7 +174,6 @@
     "wof:concordances":{
         "gn:id":2776421,
         "gp:id":551754,
-        "qs:id":240985,
         "qs_pg:id":240985,
         "wd:id":"Q636910"
     },
@@ -197,7 +194,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237685,
+    "wof:lastmodified":1566597477,
     "wof:name":"Hietzing",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

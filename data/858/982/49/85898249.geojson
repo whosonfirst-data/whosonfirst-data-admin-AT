@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20384957.271743,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.273859,46.614751,14.273859,46.614751",
     "geom:latitude":46.614751,
     "geom:longitude":14.273859,
     "iso:country":"AT",
+    "lbl:bbox":"14.268859,46.609751,14.278859,46.619751",
     "lbl:latitude":46.614751,
     "lbl:longitude":14.273859,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.611346,
     "mps:longitude":14.271959,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0413\u0435\u043e\u0440\u0433\u0435\u043d-\u0430\u043c-\u041b\u0435\u043d\u0433\u0437\u0435\u0435"
     ],
-    "name:unk_x_variant":[
-        "G\u00f6sseling"
-    ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2774326,
@@ -92,20 +91,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681655,
         102191581,
         1108838143,
         85632785,
         101748059,
-        102049679
+        102049679,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2778276,
         "gp:id":539511,
-        "qs:id":490008,
         "qs_pg:id":490008
     },
     "wof:country":"AT",
@@ -125,7 +123,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932040,
+    "wof:lastmodified":1566597470,
     "wof:name":"G\u00f6sseling",
     "wof:parent_id":101748059,
     "wof:placetype":"neighbourhood",

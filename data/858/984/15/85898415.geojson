@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":247422.165131,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.27948,48.325214,14.27948,48.325214",
     "geom:latitude":48.325214,
     "geom:longitude":14.27948,
     "iso:country":"AT",
+    "lbl:bbox":"14.27448,48.320214,14.28448,48.330214",
     "lbl:latitude":48.325214,
     "lbl:longitude":14.27948,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.326126,
     "mps:longitude":14.279312,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Auer M\u00fchlbach#Zufl\u00fcsse"
     ],
     "name:deu_x_variant":[
-        "Bachl"
-    ],
-    "name:unk_x_variant":[
         "Bachl"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -61,14 +60,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681677,
         102191581,
         1108834701,
         85632785,
         101748071,
-        102049853
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932056,
+    "wof:lastmodified":1566597462,
     "wof:name":"Bachl",
     "wof:parent_id":101748071,
     "wof:placetype":"neighbourhood",

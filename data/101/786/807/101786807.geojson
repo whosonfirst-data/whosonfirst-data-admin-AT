@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.664788,
     "lbl:longitude":14.338698,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.664788,
     "mps:longitude":14.338698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Spital am Pyhrn"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Spital am Pyhrn"
     ],
-    "name:unk_x_variant":[
-        "Spital am Pyhrm"
-    ],
     "name:uzb_x_preferred":[
         "Spital am Pyhrn"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         85681677,
@@ -114,7 +114,6 @@
         "fct:id":"0324ff90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2764789,
         "gp:id":546830,
-        "qs:id":211256,
         "qs_pg:id":211256,
         "wd:id":"Q681330",
         "wk:page":"Spital am Pyhrn"
@@ -135,7 +134,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246093,
+    "wof:lastmodified":1566599148,
     "wof:name":"Spital am Pyhrn",
     "wof:parent_id":1108835503,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":967361.476808,
+    "geom:area_square_m":967361.476809,
     "geom:bbox":"13.6634267344,47.4045764303,13.6823143674,47.4239872188",
     "geom:latitude":47.415658,
     "geom:longitude":13.67555,
     "iso:country":"AT",
     "lbl:latitude":47.418248,
     "lbl:longitude":13.674906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.418248,
     "mps:longitude":13.674906,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Steiermark",
     "qs:a1r":"8",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681687,
         102191581,
@@ -43,7 +47,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20097018,
-        "qs:id":6175,
         "qs_pg:id":6175
     },
     "wof:country":"AT",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101910885,
-    "wof:lastmodified":1497297413,
+    "wof:lastmodified":1566599174,
     "wof:name":"Ramsau-Kulm",
     "wof:parent_id":1108838921,
     "wof:placetype":"locality",

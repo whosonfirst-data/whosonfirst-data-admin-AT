@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":46.862769,
     "lbl:longitude":14.577379,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Klein Sankt Paul"
     ],
@@ -85,7 +88,7 @@
         "\u5c0f\u5723\u4fdd\u7f57"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108838225,
-    "wof:lastmodified":1564314421,
+    "wof:lastmodified":1566598622,
     "wof:name":"Klein Sankt Paul",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",

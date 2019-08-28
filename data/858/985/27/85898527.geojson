@@ -10,8 +10,10 @@
     "geom:latitude":47.074096,
     "geom:longitude":15.404239,
     "iso:country":"AT",
+    "lbl:bbox":"15.399239,47.069096,15.409239,47.079096",
     "lbl:latitude":47.074096,
     "lbl:longitude":15.404239,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.076994,
     "mps:longitude":15.405523,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
         "Eggenberg"
     ],
     "name:nld_x_preferred":[
-        "Eggenberg"
-    ],
-    "name:unk_x_variant":[
         "Eggenberg"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108839329,
@@ -87,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2780361,
         "gp:id":548292,
-        "qs:id":1156295,
         "qs_pg:id":1156295,
         "wd:id":"Q1297479",
         "wk:page":"Eggenberg (Graz)"
@@ -109,7 +107,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563243470,
+    "wof:lastmodified":1566597464,
     "wof:name":"Eggenberg",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

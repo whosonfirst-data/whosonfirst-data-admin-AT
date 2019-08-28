@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.012696,
     "lbl:longitude":14.336091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.012696,
     "mps:longitude":14.336091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aschach an der Steyr"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Aschach an der Steyr"
     ],
-    "name:unk_x_variant":[
-        "Aschach"
-    ],
     "name:uzb_x_preferred":[
         "Aschach an der Steyr"
     ],
@@ -98,7 +98,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85681677,
@@ -112,7 +112,7 @@
         "fct:id":"032418a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2782370,
         "gp:id":544686,
-        "qs:id":1076785,
+        "qs_pg:id":1076785,
         "wd:id":"Q683202"
     },
     "wof:country":"AT",
@@ -131,7 +131,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245895,
+    "wof:lastmodified":1566599094,
     "wof:name":"Aschach an der Steyr",
     "wof:parent_id":1108836093,
     "wof:placetype":"locality",

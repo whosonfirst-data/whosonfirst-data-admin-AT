@@ -14,6 +14,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.169882,
     "lbl:longitude":16.482039,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.176967,
     "mps:longitude":16.487931,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
-        "Neualbern"
-    ],
-    "name:unk_x_variant":[
         "Neualbern"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":3322700,
         "gp:id":20096560,
-        "qs:id":349365,
         "qs_pg:id":349365
     },
     "wof:country":"AT",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237695,
+    "wof:lastmodified":1566597410,
     "wof:name":"Neualbern",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

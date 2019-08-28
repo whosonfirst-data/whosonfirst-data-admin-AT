@@ -14,10 +14,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.203751,
     "lbl:longitude":10.899124,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.203751,
     "mps:longitude":10.899124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Oetz"
     ],
@@ -90,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0446"
     ],
-    "name:unk_x_variant":[
-        "\u00d6tz"
-    ],
     "name:uzb_x_preferred":[
         "Oetz"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":220,
     "wof:belongsto":[
@@ -140,7 +140,6 @@
         "fct:id":"0326cb36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2769324,
         "gp:id":551038,
-        "qs:id":1231211,
         "qs_pg:id":1231211,
         "wd:id":"Q673624",
         "wk:page":"Oetz"
@@ -161,7 +160,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246150,
+    "wof:lastmodified":1566599163,
     "wof:name":"Oetz",
     "wof:parent_id":1108837435,
     "wof:placetype":"locality",

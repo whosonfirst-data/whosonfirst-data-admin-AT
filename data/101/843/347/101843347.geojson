@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.454076,
     "lbl:longitude":16.597366,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.454076,
     "mps:longitude":16.597366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bad Pirawarth"
     ],
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Bad Pirawarth"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Markt Pirawarth"
     ],
     "name:uzb_x_preferred":[
@@ -106,7 +109,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         85681671,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2771868,
         "gp:id":12673790,
-        "qs:id":287878,
+        "qs_pg:id":287878,
         "wd:id":"Q668639",
         "wk:page":"Bad Pirawarth"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101843347,
-    "wof:lastmodified":1563245682,
+    "wof:lastmodified":1566599030,
     "wof:name":"Bad Pirawarth",
     "wof:parent_id":1108834913,
     "wof:placetype":"locality",

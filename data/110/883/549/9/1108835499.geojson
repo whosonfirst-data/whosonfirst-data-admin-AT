@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":47.768854,
     "lbl:longitude":14.218312,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u041f\u0430\u043d\u043a\u0440\u0430\u0446\u0438\u043e"
     ],
@@ -118,7 +121,7 @@
         "\u5723\u6f58\u514b\u62c9\u9f50\u5965"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1108835499,
-    "wof:lastmodified":1564314547,
+    "wof:lastmodified":1566598705,
     "wof:name":"St. Pankraz",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

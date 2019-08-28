@@ -10,12 +10,16 @@
     "geom:latitude":48.193789,
     "geom:longitude":15.084744,
     "iso:country":"AT",
+    "lbl:bbox":"15.064744,48.173789,15.104744,48.213789",
     "lbl:latitude":48.193789,
     "lbl:longitude":15.084744,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.193789,
     "mps:longitude":15.084744,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Nieder\u00f6sterreich",
     "qs:a1r":"0",
@@ -34,7 +38,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -46,7 +50,6 @@
     "wof:concordances":{
         "gn:id":2769059,
         "gp:id":543261,
-        "qs:id":336813,
         "qs_pg:id":336813
     },
     "wof:country":"AT",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101874041,
-    "wof:lastmodified":1544751601,
+    "wof:lastmodified":1566599024,
     "wof:name":"Persenbeug",
     "wof:parent_id":1108836871,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.598367,
     "lbl:longitude":15.663013,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.598367,
     "mps:longitude":15.663013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0441-\u0430\u043c-\u041a\u0430\u043c\u043f"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440\u0441-\u0430\u043c-\u041a\u0430\u043c\u043f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gars"
     ],
     "name:uzb_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         85681671,
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":2778845,
         "gp:id":541703,
-        "qs:id":241655,
-        "qs_pg:id":977144,
+        "qs_pg:id":241655,
         "wd:id":"Q174400",
         "wk:page":"Gars am Kamp"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977144
     },
     "wof:country":"AT",
     "wof:geomhash":"9d9eccdf99a4eedee52cddc5eb18134f",
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":101782261,
-    "wof:lastmodified":1563245915,
+    "wof:lastmodified":1566599099,
     "wof:name":"Gars am Kamp",
     "wof:parent_id":1108835815,
     "wof:placetype":"locality",

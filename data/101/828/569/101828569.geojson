@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.341917,
     "lbl:longitude":10.166113,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.341917,
     "mps:longitude":10.166113,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hirschegg"
     ],
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0440\u0448\u0435\u0433\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirche"
     ],
     "name:uzb_x_preferred":[
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681649,
         102191581,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2776181,
         "gp:id":551556,
-        "qs:id":391456,
         "qs_pg:id":391456,
         "wd:id":"Q877194"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101828569,
-    "wof:lastmodified":1563245672,
+    "wof:lastmodified":1566599028,
     "wof:name":"Hirschegg",
     "wof:parent_id":1108838011,
     "wof:placetype":"locality",

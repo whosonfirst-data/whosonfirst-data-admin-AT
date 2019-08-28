@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.349526,
     "lbl:longitude":14.668916,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.349526,
     "mps:longitude":14.668916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bad Zell"
     ],
@@ -67,7 +70,7 @@
     "name:swe_x_preferred":[
         "Bad Zell"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zell bei Zellhof"
     ],
     "name:uzb_x_preferred":[
@@ -103,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         85681677,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":6951114,
         "gp:id":546544,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q682850",
         "wk:page":"Bad Zell"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101783373,
-    "wof:lastmodified":1563245956,
+    "wof:lastmodified":1566599110,
     "wof:name":"Bad Zell",
     "wof:parent_id":1108835119,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":937489.502294,
+    "geom:area_square_m":937489.502296,
     "geom:bbox":"10.8511593832,47.2337828802,10.8736816314,47.2427630267",
     "geom:latitude":47.237429,
     "geom:longitude":10.86186,
     "iso:country":"AT",
     "lbl:latitude":47.237819,
     "lbl:longitude":10.860921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.237819,
     "mps:longitude":10.860921,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Tirol",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681661,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3319527,
         "gp:id":551039,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"AT",
     "wof:geomhash":"422254e617583d64acbfa52dfb48a6d4",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101844487,
-    "wof:lastmodified":1496615426,
+    "wof:lastmodified":1566599041,
     "wof:name":"\u00d6tztal-Bahnhof",
     "wof:parent_id":1108837531,
     "wof:placetype":"locality",

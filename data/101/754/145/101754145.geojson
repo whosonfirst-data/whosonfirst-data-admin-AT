@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.01113,
     "lbl:longitude":15.398054,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.01113,
     "mps:longitude":15.398054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seiersberg"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681687,
@@ -101,10 +104,12 @@
     "wof:concordances":{
         "gn:id":2764467,
         "gp:id":549924,
-        "qs:id":496722,
         "qs_pg:id":237030,
         "wd:id":"Q688974",
         "wk:page":"Seiersberg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":496722
     },
     "wof:country":"AT",
     "wof:geomhash":"2b4664ccb653a4666a639d5871203f9c",
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101754145,
-    "wof:lastmodified":1563245615,
+    "wof:lastmodified":1566599011,
     "wof:name":"Seiersberg",
     "wof:parent_id":1108839157,
     "wof:placetype":"locality",

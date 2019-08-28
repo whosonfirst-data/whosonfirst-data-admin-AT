@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":47.795812,
     "lbl:longitude":13.088579,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.796936,
     "mps:longitude":13.111158,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "name:deu_x_preferred":[
-        "Abfalter"
-    ],
-    "name:unk_x_variant":[
         "Abfalter"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837079,
@@ -70,7 +68,6 @@
     "wof:concordances":{
         "gn:id":3322849,
         "gp:id":547382,
-        "qs:id":315759,
         "qs_pg:id":315759
     },
     "wof:country":"AT",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1497312069,
+    "wof:lastmodified":1566597458,
     "wof:name":"Abfalter",
     "wof:parent_id":101748065,
     "wof:placetype":"neighbourhood",

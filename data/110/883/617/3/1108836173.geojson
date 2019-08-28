@@ -16,15 +16,17 @@
     "geom:bbox":"15.1830015348,48.1698971407,15.2696989118,48.222924952",
     "geom:latitude":48.202205,
     "geom:longitude":15.229036,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":3983,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":48.200486,
     "lbl:longitude":15.226062,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Bechlarn"
     ],
@@ -88,7 +90,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u044c\u043e\u0445\u043b\u0430\u0440\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross P\u00f6chlarn"
     ],
     "name:uzb_x_preferred":[
@@ -127,7 +129,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674037,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -158,7 +160,7 @@
         }
     ],
     "wof:id":1108836173,
-    "wof:lastmodified":1564313778,
+    "wof:lastmodified":1566598250,
     "wof:name":"P\u00f6chlarn",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.225129,
     "lbl:longitude":14.609136,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.225129,
     "mps:longitude":14.609136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Naarn im Machlande"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Naarn im Machlande"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naarn im Machland"
     ],
     "name:uzb_x_preferred":[
@@ -85,7 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681677,
         102191581,
@@ -97,7 +100,7 @@
     "wof:concordances":{
         "gn:id":2770967,
         "gp:id":545978,
-        "qs:id":322545,
+        "qs_pg:id":322545,
         "wd:id":"Q668650",
         "wk:page":"Naarn im Machlande"
     },
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101784589,
-    "wof:lastmodified":1561827470,
+    "wof:lastmodified":1566599116,
     "wof:name":"Naarn",
     "wof:parent_id":1108835597,
     "wof:placetype":"locality",

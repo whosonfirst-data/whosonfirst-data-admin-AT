@@ -10,8 +10,10 @@
     "geom:latitude":47.771398,
     "geom:longitude":13.05507,
     "iso:country":"AT",
+    "lbl:bbox":"13.0500701644,47.766397725,13.0600701644,47.776397725",
     "lbl:latitude":47.771398,
     "lbl:longitude":13.05507,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681681,
         102191581,
         1108837189,
         85632785,
         1175610443,
-        102049799
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444832251,
-    "wof:lastmodified":1566341000,
+    "wof:lastmodified":1566598001,
     "wof:name":"Morzg",
     "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",

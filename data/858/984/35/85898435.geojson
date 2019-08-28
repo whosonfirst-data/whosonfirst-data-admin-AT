@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16840378.961892,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.281786,48.263978,14.281786,48.263978",
     "geom:latitude":48.263978,
     "geom:longitude":14.281786,
     "iso:country":"AT",
+    "lbl:bbox":"14.276786,48.258978,14.286786,48.268978",
     "lbl:latitude":48.263978,
     "lbl:longitude":14.281786,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.265624,
     "mps:longitude":14.2638,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:deu_x_preferred":[
-        "Oed"
-    ],
-    "name:unk_x_variant":[
         "Oed"
     ],
     "qs:gn_fcode":"PPLX",
@@ -58,20 +57,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681677,
         102191581,
         1108834701,
         85632785,
         101748071,
-        102049853
+        102049853,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2769501,
         "gp:id":546274,
-        "qs:id":1079007,
         "qs_pg:id":1079007
     },
     "wof:country":"AT",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932062,
+    "wof:lastmodified":1566597459,
     "wof:name":"Oed",
     "wof:parent_id":101748071,
     "wof:placetype":"neighbourhood",

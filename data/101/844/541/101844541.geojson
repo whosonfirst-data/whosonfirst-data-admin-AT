@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.468481,
     "lbl:longitude":12.62934,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.468481,
     "mps:longitude":12.62934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0445\u0444\u0456\u043b\u044c\u0446\u044d\u043d"
     ],
@@ -124,7 +127,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":107,
     "wof:belongsto":[
         85681661,
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gn:id":2776069,
         "gp:id":12675440,
-        "qs:id":891319,
+        "qs_pg:id":891319,
         "wd:id":"Q511701",
         "wk:page":"Hochfilzen"
     },
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101844541,
-    "wof:lastmodified":1563245725,
+    "wof:lastmodified":1566599043,
     "wof:name":"Hochfilzen",
     "wof:parent_id":1108837339,
     "wof:placetype":"locality",

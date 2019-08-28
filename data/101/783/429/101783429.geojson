@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.317821,
     "lbl:longitude":16.666036,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.317821,
     "mps:longitude":16.666036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Strasshof aun da Noadbauh"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Strasshof an der Nordbahn"
     ],
-    "name:unk_x_variant":[
-        "Strasshof"
-    ],
     "name:uzb_x_preferred":[
         "Strasshof an der Nordbahn"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":197,
     "wof:belongsto":[
@@ -139,10 +139,12 @@
         "fct:id":"0323ab5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2764176,
         "gp:id":543958,
-        "qs:id":1257342,
         "qs_pg:id":1156270,
         "wd:id":"Q667057",
         "wk:page":"Strasshof an der Nordbahn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1257342
     },
     "wof:country":"AT",
     "wof:geomhash":"e87f15702c86d54ea3bf946a1c39673b",
@@ -160,7 +162,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245953,
+    "wof:lastmodified":1566599109,
     "wof:name":"Strasshof an der Nordbahn",
     "wof:parent_id":1108835281,
     "wof:placetype":"locality",

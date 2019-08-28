@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.209307,
     "lbl:longitude":10.761077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.209307,
     "mps:longitude":10.761077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arzl im Pitztal"
     ],
@@ -89,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0446\u043b\u044c-\u0456\u043c-\u041f\u0456\u0442\u0446\u0442\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Arzl"
-    ],
     "name:uzb_x_preferred":[
         "Arzl im Pitztal"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85681661,
@@ -139,7 +139,6 @@
         "fct:id":"03268e5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2782382,
         "gp:id":550438,
-        "qs:id":1156308,
         "qs_pg:id":1156308,
         "wd:id":"Q681920",
         "wk:page":"Arzl im Pitztal"
@@ -160,7 +159,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246158,
+    "wof:lastmodified":1566599166,
     "wof:name":"Arzl im Pitztal",
     "wof:parent_id":1108837529,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.310732,
     "lbl:longitude":14.234014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.310732,
     "mps:longitude":14.234014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puchenau"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         85681677,
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gn:id":2768275,
         "gp:id":546444,
-        "qs:id":927041,
+        "qs_pg:id":927041,
         "wd:id":"Q695254",
         "wk:page":"Puchenau"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101754239,
-    "wof:lastmodified":1563245629,
+    "wof:lastmodified":1566599016,
     "wof:name":"Puchenau",
     "wof:parent_id":1108836397,
     "wof:placetype":"locality",

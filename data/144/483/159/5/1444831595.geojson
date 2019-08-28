@@ -10,8 +10,10 @@
     "geom:latitude":47.067739,
     "geom:longitude":15.472041,
     "iso:country":"AT",
+    "lbl:bbox":"15.4670406497,47.0627391664,15.4770406497,47.0727391664",
     "lbl:latitude":47.067739,
     "lbl:longitude":15.472041,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444831595,
-    "wof:lastmodified":1566340924,
+    "wof:lastmodified":1566597995,
     "wof:name":"Waltendorf",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

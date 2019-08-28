@@ -16,15 +16,17 @@
     "geom:bbox":"14.0266987358,48.5022835507,14.0810981456,48.5508832842",
     "geom:latitude":48.527358,
     "geom:longitude":14.051765,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":549,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
     "gn:population":549,
     "iso:country":"AT",
     "lbl:latitude":48.528617,
     "lbl:longitude":14.055879,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Auberg"
     ],
@@ -88,7 +90,7 @@
     "qs_pg:qs_id":108855,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1108835943,
-    "wof:lastmodified":1564313605,
+    "wof:lastmodified":1566598148,
     "wof:name":"Auberg",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

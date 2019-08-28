@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.443071,
     "lbl:longitude":12.767351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.443071,
     "mps:longitude":12.767351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Loigom"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":83,
     "wof:belongsto":[
         85681681,
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":2772641,
         "gp:id":547672,
-        "qs:id":37978,
-        "qs_pg:id":1079013,
+        "qs_pg:id":37978,
         "wd:id":"Q203841",
         "wk:page":"Leogang"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079013
     },
     "wof:country":"AT",
     "wof:geomhash":"54a7339fa22b95c80c090d948b9cbd56",
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":101912407,
-    "wof:lastmodified":1563245847,
+    "wof:lastmodified":1566599079,
     "wof:name":"Leogang",
     "wof:parent_id":1108837211,
     "wof:placetype":"locality",

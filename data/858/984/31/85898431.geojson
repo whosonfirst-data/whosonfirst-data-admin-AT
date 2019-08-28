@@ -10,8 +10,10 @@
     "geom:latitude":48.226854,
     "geom:longitude":14.48463,
     "iso:country":"AT",
+    "lbl:bbox":"14.47963,48.221854,14.48963,48.231854",
     "lbl:latitude":48.226854,
     "lbl:longitude":14.48463,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.221999,
     "mps:longitude":14.4772,
     "mz:hierarchy_label":0,
@@ -77,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0440\u0445"
     ],
-    "name:unk_x_variant":[
-        "Lorch"
-    ],
     "name:vol_x_preferred":[
         "Lorch"
     ],
@@ -111,7 +110,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":89,
     "wof:belongsto":[
         102191581,
@@ -124,7 +123,6 @@
     "wof:concordances":{
         "gn:id":2772262,
         "gp:id":545816,
-        "qs:id":1271015,
         "qs_pg:id":1271015
     },
     "wof:country":"AT",
@@ -144,7 +142,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312384,
+    "wof:lastmodified":1566597460,
     "wof:name":"Lorch",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

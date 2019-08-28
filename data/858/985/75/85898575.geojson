@@ -10,8 +10,10 @@
     "geom:latitude":47.006031,
     "geom:longitude":15.439658,
     "iso:country":"AT",
+    "lbl:bbox":"15.434658,47.001031,15.444658,47.011031",
     "lbl:latitude":47.006031,
     "lbl:longitude":15.439658,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.999667,
     "mps:longitude":15.437175,
     "mz:hierarchy_label":0,
@@ -74,9 +76,6 @@
     "name:tur_x_preferred":[
         "Rudersdorf"
     ],
-    "name:unk_x_variant":[
-        "Rudersdorf"
-    ],
     "name:uzb_x_preferred":[
         "Rudersdorf"
     ],
@@ -122,7 +121,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108839207,
@@ -134,7 +133,6 @@
     "wof:concordances":{
         "gn:id":2766999,
         "gp:id":549727,
-        "qs:id":240989,
         "qs_pg:id":240989
     },
     "wof:country":"AT",
@@ -154,7 +152,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312390,
+    "wof:lastmodified":1566597465,
     "wof:name":"Rudersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":18,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"14.54667,46.68,14.58667,46.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -37,7 +41,7 @@
         "gn:id":2763794
     },
     "wof:country":"AT",
-    "wof:geomhash":"d888379ab6fa003d4d839d3e7a23b34e",
+    "wof:geomhash":"35f1eb76144cb324326ec4f641d59b3f",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209528649,
-    "wof:lastmodified":1536284353,
+    "wof:lastmodified":1566597864,
     "wof:name":"Terpetzen",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.566670000000002,
+    14.56667,
     46.7,
-    14.566670000000002,
+    14.56667,
     46.7
 ],
   "geometry": {"coordinates":[14.56667,46.7],"type":"Point"}

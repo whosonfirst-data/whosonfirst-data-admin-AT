@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.875831,
     "lbl:longitude":15.902188,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.875831,
     "mps:longitude":15.902188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bad Gleichenberg"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u0434 \u0413\u043b\u0430\u0439\u0445\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gleichenberg"
     ],
     "name:uzb_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681687,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":2782056,
         "gp:id":548119,
-        "qs:id":1120135,
         "qs_pg:id":470651,
         "wd:id":"Q693550",
         "wk:page":"Bad Gleichenberg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1120135
     },
     "wof:country":"AT",
     "wof:geomhash":"078cb7a926512e68e1f36b1a4693875c",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101788981,
-    "wof:lastmodified":1563246069,
+    "wof:lastmodified":1566599140,
     "wof:name":"Bad Gleichenberg",
     "wof:parent_id":1108839269,
     "wof:placetype":"locality",

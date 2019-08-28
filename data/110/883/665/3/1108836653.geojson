@@ -16,15 +16,17 @@
     "geom:bbox":"15.0379831228,47.9546981399,15.125907605,48.0312505741",
     "geom:latitude":47.992591,
     "geom:longitude":15.080199,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1027,
-    "gn:population":1010,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":1027,
     "iso:country":"AT",
     "lbl:latitude":47.991829,
     "lbl:longitude":15.07721,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Reinsberg"
     ],
@@ -64,7 +66,7 @@
     "name:swe_x_preferred":[
         "Reinsberg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reinsperg"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +99,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674204,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1108836653,
-    "wof:lastmodified":1564314500,
+    "wof:lastmodified":1566598673,
     "wof:name":"Reinsberg",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",

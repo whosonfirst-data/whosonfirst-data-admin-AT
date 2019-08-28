@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":48.052314,
     "lbl:longitude":14.421093,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.050716,
     "mps:longitude":14.417342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0634\u062a\u0627\u064a\u0631"
     ],
@@ -218,9 +221,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"27",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Steyr",
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":102049813,
-    "wof:lastmodified":1563243066,
+    "wof:lastmodified":1566597211,
     "wof:name":"Steyr",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

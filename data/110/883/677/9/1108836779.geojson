@@ -16,14 +16,17 @@
     "geom:bbox":"16.3650712364,48.5080705944,16.4369539831,48.5779852561",
     "geom:latitude":48.548118,
     "geom:longitude":16.406509,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":48.553889,
     "lbl:longitude":16.407758,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Niederleis"
     ],
@@ -108,7 +111,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674030,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1108836779,
-    "wof:lastmodified":1564314417,
+    "wof:lastmodified":1566598619,
     "wof:name":"Niederleis",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

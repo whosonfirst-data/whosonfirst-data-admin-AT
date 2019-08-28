@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.158498,
     "lbl:longitude":16.29051,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.158498,
     "mps:longitude":16.29051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "G\u00fcttenbach"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         85681651,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2777185,
         "gp:id":12673435,
-        "qs:id":1180287,
+        "qs_pg:id":1180287,
         "wd:id":"Q661097",
         "wk:page":"G\u00fcttenbach"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101787839,
-    "wof:lastmodified":1563246134,
+    "wof:lastmodified":1566599159,
     "wof:name":"G\u00fcttenbach",
     "wof:parent_id":1108838753,
     "wof:placetype":"locality",

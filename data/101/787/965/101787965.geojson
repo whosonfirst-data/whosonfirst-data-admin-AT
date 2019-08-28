@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.545629,
     "lbl:longitude":12.141041,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.545629,
     "mps:longitude":12.141041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Schwoich"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
         85681661,
@@ -114,7 +117,7 @@
         "fct:id":"0326ddd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2765342,
         "gp:id":551215,
-        "qs:id":252208,
+        "qs_pg:id":252208,
         "wd:id":"Q262601"
     },
     "wof:country":"AT",
@@ -133,7 +136,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246104,
+    "wof:lastmodified":1566599151,
     "wof:name":"Schwoich",
     "wof:parent_id":1108837265,
     "wof:placetype":"locality",

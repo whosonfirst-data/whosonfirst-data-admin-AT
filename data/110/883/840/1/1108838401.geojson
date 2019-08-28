@@ -16,15 +16,17 @@
     "geom:bbox":"16.184891749,47.212811744,16.2539322555,47.2403246077",
     "geom:latitude":47.225701,
     "geom:longitude":16.217468,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1059,
-    "gn:population":987,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":1059,
     "iso:country":"AT",
     "lbl:latitude":47.227032,
     "lbl:longitude":16.217992,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Oberdorf im Burgenland"
     ],
@@ -82,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0435\u0440\u0434\u043e\u0440\u0444-\u0456\u043c-\u0411\u0443\u0440\u0433\u0435\u043d\u043b\u0430\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oberdorf"
     ],
     "name:uzb_x_preferred":[
@@ -118,7 +120,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12673480,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":1108838401,
-    "wof:lastmodified":1564314383,
+    "wof:lastmodified":1566598598,
     "wof:name":"Oberdorf im Burgenland",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

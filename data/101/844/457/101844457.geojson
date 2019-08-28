@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.74765,
     "lbl:longitude":12.423023,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.74765,
     "mps:longitude":12.423023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sillian"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":152,
     "wof:belongsto":[
         85681661,
@@ -122,7 +125,6 @@
         "fct:id":"0326dedc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2765044,
         "gp:id":551224,
-        "qs:id":899603,
         "qs_pg:id":899603,
         "wd:id":"Q687344",
         "wk:page":"Sillian"
@@ -143,7 +145,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245723,
+    "wof:lastmodified":1566599042,
     "wof:name":"Sillian",
     "wof:parent_id":1108837785,
     "wof:placetype":"locality",

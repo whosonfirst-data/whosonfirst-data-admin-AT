@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.96421,
     "lbl:longitude":16.404125,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.96421,
     "mps:longitude":16.404125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0628\u0631\u0626\u06cc\u062e \u062f\u0648\u0631\u0641"
     ],
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":24,
     "wof:belongsto":[
@@ -136,10 +139,12 @@
     "wof:concordances":{
         "gn:id":2767751,
         "gp:id":541442,
-        "qs:id":1192404,
-        "qs_pg:id":1263072,
+        "qs_pg:id":1192404,
         "wd:id":"Q646396",
         "wk:page":"Ebreichsdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1263072
     },
     "wof:country":"AT",
     "wof:geomhash":"31c809e3312012d6cd2035c5d313f653",
@@ -154,7 +159,7 @@
         }
     ],
     "wof:id":101833185,
-    "wof:lastmodified":1563245788,
+    "wof:lastmodified":1566599062,
     "wof:name":"Ebreichsdorf",
     "wof:parent_id":1108835383,
     "wof:placetype":"locality",

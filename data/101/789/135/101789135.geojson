@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.281856,
     "lbl:longitude":12.48711,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.281856,
     "mps:longitude":12.48711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Mittas\u00fc"
     ],
@@ -98,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0442\u0442\u0435\u0440\u0437\u0456\u043b\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Mittersil"
-    ],
     "name:uzb_x_preferred":[
         "Mittersill"
     ],
@@ -129,7 +129,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1046,
     "wof:belongsto":[
@@ -143,7 +143,7 @@
     "wof:concordances":{
         "gn:id":2771385,
         "gp:id":12674699,
-        "qs:id":1192599,
+        "qs_pg:id":1192599,
         "wd:id":"Q257244",
         "wk:page":"Mittersill"
     },
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":101789135,
-    "wof:lastmodified":1563246145,
+    "wof:lastmodified":1566599162,
     "wof:name":"Mittersill",
     "wof:parent_id":1108837221,
     "wof:placetype":"locality",

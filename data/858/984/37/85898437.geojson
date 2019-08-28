@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4477045.52678,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.379366,48.207753,14.379366,48.207753",
     "geom:latitude":48.207753,
     "geom:longitude":14.379366,
     "iso:country":"AT",
+    "lbl:bbox":"14.374366,48.202753,14.384366,48.212753",
     "lbl:latitude":48.207753,
     "lbl:longitude":14.379366,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.207287,
     "mps:longitude":14.378357,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Pichling"
-    ],
-    "name:unk_x_variant":[
         "Pichling"
     ],
     "qs:gn_fcode":"PPLX",
@@ -57,20 +56,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681677,
         102191581,
         1108835545,
         85632785,
         101784539,
-        102049847
+        102049847,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2768856,
         "gp:id":546380,
-        "qs:id":271664,
         "qs_pg:id":271664
     },
     "wof:country":"AT",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932063,
+    "wof:lastmodified":1566597461,
     "wof:name":"Pichling",
     "wof:parent_id":101784539,
     "wof:placetype":"neighbourhood",

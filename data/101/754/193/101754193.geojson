@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.063365,
     "lbl:longitude":16.35964,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.063365,
     "mps:longitude":16.35964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u043a\u0441\u0435\u043d\u0431\u0443\u0440\u0433"
     ],
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":418,
     "wof:belongsto":[
         85681671,
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":2772810,
         "gp:id":542600,
-        "qs:id":1078989,
         "qs_pg:id":1078989,
         "wd:id":"Q699437",
         "wk:page":"Laxenburg"
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":101754193,
-    "wof:lastmodified":1563245605,
+    "wof:lastmodified":1566599008,
     "wof:name":"Laxenburg",
     "wof:parent_id":1108836739,
     "wof:placetype":"locality",

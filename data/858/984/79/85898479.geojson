@@ -10,8 +10,10 @@
     "geom:latitude":47.827862,
     "geom:longitude":13.09733,
     "iso:country":"AT",
+    "lbl:bbox":"13.09233,47.822862,13.10233,47.832862",
     "lbl:latitude":47.827862,
     "lbl:longitude":13.09733,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.832891,
     "mps:longitude":13.116086,
     "mz:hierarchy_label":0,
@@ -641,9 +643,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0443\u0431\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Gruber"
-    ],
     "name:vec_x_preferred":[
         "Gruber"
     ],
@@ -718,7 +717,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":532,
     "wof:belongsto":[
         102191581,
@@ -749,7 +748,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563243465,
+    "wof:lastmodified":1566597462,
     "wof:name":"Gruber",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

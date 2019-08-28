@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.046583,
     "lbl:longitude":17.034656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.046583,
     "mps:longitude":17.034656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pama"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":112,
     "wof:belongsto":[
         85681651,
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2769259,
         "gp:id":12673488,
-        "qs:id":535455,
+        "qs_pg:id":535455,
         "wd:id":"Q635272"
     },
     "wof:country":"AT",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101784505,
-    "wof:lastmodified":1563245963,
+    "wof:lastmodified":1566599112,
     "wof:name":"Pama",
     "wof:parent_id":1108838405,
     "wof:placetype":"locality",

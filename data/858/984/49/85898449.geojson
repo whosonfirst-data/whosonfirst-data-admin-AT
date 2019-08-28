@@ -10,8 +10,10 @@
     "geom:latitude":48.308712,
     "geom:longitude":14.293997,
     "iso:country":"AT",
+    "lbl:bbox":"14.288997,48.303712,14.298997,48.313712",
     "lbl:latitude":48.308712,
     "lbl:longitude":14.293997,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.310038,
     "mps:longitude":14.306119,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:swe_x_preferred":[
         "Steeg"
     ],
-    "name:unk_x_variant":[
-        "Steeg"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_nam_loc":"Linz, Linz Stadt, Ober\u00f6sterreich, AT",
@@ -83,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191581,
@@ -97,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2764604,
         "gp:id":546852,
-        "qs:id":490045,
         "qs_pg:id":490045
     },
     "wof:country":"AT",
@@ -117,7 +115,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312386,
+    "wof:lastmodified":1566597463,
     "wof:name":"Steeg",
     "wof:parent_id":101748071,
     "wof:placetype":"neighbourhood",

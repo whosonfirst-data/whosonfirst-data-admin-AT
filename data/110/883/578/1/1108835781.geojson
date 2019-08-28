@@ -16,15 +16,17 @@
     "geom:bbox":"16.5564475068,48.0252947011,16.6917823072,48.0977399076",
     "geom:latitude":48.064116,
     "geom:longitude":16.61564,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":3095,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":48.050999,
     "lbl:longitude":16.597942,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Enzersdorf an der Fischa"
     ],
@@ -67,7 +69,7 @@
     "name:swe_x_preferred":[
         "Enzersdorf an der Fischa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Enzersdorf"
     ],
     "name:uzb_x_preferred":[
@@ -103,7 +105,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674112,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":1108835781,
-    "wof:lastmodified":1564314574,
+    "wof:lastmodified":1566598724,
     "wof:name":"Enzersdorf an der Fischa",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

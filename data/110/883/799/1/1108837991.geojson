@@ -16,15 +16,17 @@
     "geom:bbox":"10.0321261897,47.1480332758,10.2137553701,47.2516643454",
     "geom:latitude":47.20304,
     "geom:longitude":10.143079,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1865,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
     "gn:population":1865,
     "iso:country":"AT",
     "lbl:latitude":47.207482,
     "lbl:longitude":10.152003,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Lech"
     ],
@@ -103,7 +105,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675663,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":1108837991,
-    "wof:lastmodified":1564313609,
+    "wof:lastmodified":1566598151,
     "wof:name":"Lech",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

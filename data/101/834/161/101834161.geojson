@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.871338,
     "lbl:longitude":14.472628,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.871338,
     "mps:longitude":14.472628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0442\u0445\u043e\u0444\u0435\u043d"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":373,
     "wof:belongsto":[
         85681655,
@@ -130,10 +133,12 @@
     "wof:concordances":{
         "gn:id":2782646,
         "gp:id":539169,
-        "qs:id":1101753,
         "qs_pg:id":240983,
         "wd:id":"Q441016",
         "wk:page":"Althofen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101753
     },
     "wof:country":"AT",
     "wof:geomhash":"e412dc5ac2f3970a9eb7ae146ac7124c",
@@ -148,7 +153,7 @@
         }
     ],
     "wof:id":101834161,
-    "wof:lastmodified":1563245791,
+    "wof:lastmodified":1566599063,
     "wof:name":"Althofen",
     "wof:parent_id":1108838201,
     "wof:placetype":"locality",

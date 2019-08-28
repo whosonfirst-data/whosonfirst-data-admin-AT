@@ -13,6 +13,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.164712,
     "lbl:longitude":16.347187,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.163813,
     "mps:longitude":16.350485,
     "mz:hierarchy_label":1,
@@ -67,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Wiener"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Wiener"
     ],
@@ -114,7 +112,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20098060,
-        "qs:id":1062480,
         "qs_pg:id":1062480
     },
     "wof:country":"AT",
@@ -134,7 +131,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566247538,
+    "wof:lastmodified":1566597410,
     "wof:name":"Wiener",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

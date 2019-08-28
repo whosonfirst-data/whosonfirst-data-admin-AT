@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.095473,
     "lbl:longitude":14.803078,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.095473,
     "mps:longitude":14.803078,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Mauer bei Amstetten"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681671,
         102191581,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2771783,
         "gp:id":542776,
-        "qs:id":1156642,
         "qs_pg:id":1156642,
         "wd:id":"Q877469"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101833223,
-    "wof:lastmodified":1563245768,
+    "wof:lastmodified":1566599057,
     "wof:name":"Mauer bei Amstetten",
     "wof:parent_id":1108834895,
     "wof:placetype":"locality",

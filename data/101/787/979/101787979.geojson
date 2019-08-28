@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.525384,
     "lbl:longitude":14.359362,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.525384,
     "mps:longitude":14.359362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rottenmann"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":137,
     "wof:belongsto":[
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gn:id":2767034,
         "gp:id":12674897,
-        "qs:id":203646,
+        "qs_pg:id":203646,
         "wd:id":"Q675678",
         "wk:page":"Rottenmann"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101787979,
-    "wof:lastmodified":1563246117,
+    "wof:lastmodified":1566599154,
     "wof:name":"Rottenmann",
     "wof:parent_id":1108838903,
     "wof:placetype":"locality",

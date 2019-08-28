@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.163398,
     "lbl:longitude":15.967303,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.163398,
     "mps:longitude":15.967303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Maria-Anzbach"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         85681671,
@@ -127,9 +130,11 @@
     "wof:concordances":{
         "gn:id":2771949,
         "gp:id":542742,
-        "qs:id":535790,
-        "qs_pg:id":977148,
+        "qs_pg:id":535790,
         "wd:id":"Q675263"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977148
     },
     "wof:country":"AT",
     "wof:geomhash":"358982b0a194c9e85b92e004a60e0ebf",
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":101833259,
-    "wof:lastmodified":1563245747,
+    "wof:lastmodified":1566599051,
     "wof:name":"Maria-Anzbach",
     "wof:parent_id":1108836809,
     "wof:placetype":"locality",

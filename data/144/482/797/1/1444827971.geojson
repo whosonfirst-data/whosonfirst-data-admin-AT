@@ -10,8 +10,10 @@
     "geom:latitude":47.810678,
     "geom:longitude":13.020322,
     "iso:country":"AT",
+    "lbl:bbox":"13.0153215492,47.8056783262,13.0253215492,47.8156783262",
     "lbl:latitude":47.810678,
     "lbl:longitude":13.020321,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,12 +35,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681681,
         102191581,
         1108837189,
         85632785,
         1175610443,
-        102049799
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":1444827971,
-    "wof:lastmodified":1566336661,
+    "wof:lastmodified":1566597986,
     "wof:name":"Annahof Siedlung",
     "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",

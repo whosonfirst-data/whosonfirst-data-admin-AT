@@ -10,8 +10,10 @@
     "geom:latitude":48.1331,
     "geom:longitude":16.246801,
     "iso:country":"AT",
+    "lbl:bbox":"16.241801,48.1281,16.251801,48.1381",
     "lbl:latitude":48.1331,
     "lbl:longitude":16.246801,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.114976,
     "mps:longitude":16.25845,
     "mz:hierarchy_label":0,
@@ -249,9 +251,6 @@
     "name:tur_x_preferred":[
         "Rodaun"
     ],
-    "name:unk_x_variant":[
-        "Rodaun"
-    ],
     "name:vec_x_preferred":[
         "Rodaun"
     ],
@@ -319,7 +318,6 @@
     "wof:concordances":{
         "gn:id":2767332,
         "gp:id":543548,
-        "qs:id":887675,
         "qs_pg:id":887675,
         "wd:id":"Q2160909"
     },
@@ -340,7 +338,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237689,
+    "wof:lastmodified":1566597455,
     "wof:name":"Rodaun",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

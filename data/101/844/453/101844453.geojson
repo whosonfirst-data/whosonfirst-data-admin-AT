@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.853265,
     "lbl:longitude":15.533053,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.853265,
     "mps:longitude":15.533053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wildon"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":181,
     "wof:belongsto":[
         85681687,
@@ -116,7 +119,6 @@
         "fct:id":"03268216-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2761208,
         "gp:id":550334,
-        "qs:id":303624,
         "qs_pg:id":303624,
         "wd:id":"Q674516",
         "wk:page":"Wildon"
@@ -137,7 +139,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245702,
+    "wof:lastmodified":1566599036,
     "wof:name":"Wildon",
     "wof:parent_id":1108839047,
     "wof:placetype":"locality",

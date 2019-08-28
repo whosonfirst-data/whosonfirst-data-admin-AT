@@ -10,12 +10,16 @@
     "geom:latitude":47.150666,
     "geom:longitude":10.514008,
     "iso:country":"AT",
+    "lbl:bbox":"10.494008,47.130666,10.534008,47.170666",
     "lbl:latitude":47.150666,
     "lbl:longitude":10.514008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.150666,
     "mps:longitude":10.514008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grins"
     ],
@@ -76,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0456\u043d\u0441"
     ],
-    "name:unk_x_variant":[
-        "Innerdorf"
-    ],
     "name:uzb_x_preferred":[
         "Grins"
     ],
@@ -111,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         85681661,
@@ -125,7 +126,7 @@
         "fct:id":"0326a480-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2777939,
         "gp:id":550640,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q684996",
         "wk:page":"Grins"
     },
@@ -145,7 +146,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245665,
+    "wof:lastmodified":1566599026,
     "wof:name":"Grins",
     "wof:parent_id":1108837295,
     "wof:placetype":"locality",

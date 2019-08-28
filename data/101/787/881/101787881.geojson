@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.404839,
     "lbl:longitude":16.259741,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.404839,
     "mps:longitude":16.259741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u043d\u0449\u0430\u0439\u043d"
     ],
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":752,
     "wof:belongsto":[
         85681651,
@@ -152,9 +155,11 @@
     "wof:concordances":{
         "gn:id":2781918,
         "gp:id":538760,
-        "qs:id":1310806,
         "qs_pg:id":899867,
         "wd:id":"Q661024"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1310806
     },
     "wof:country":"AT",
     "wof:geomhash":"8c3f6a8c9268268a2aecd22c0302149b",
@@ -169,7 +174,7 @@
         }
     ],
     "wof:id":101787881,
-    "wof:lastmodified":1563246110,
+    "wof:lastmodified":1566599152,
     "wof:name":"Bernstein",
     "wof:parent_id":1108838653,
     "wof:placetype":"locality",

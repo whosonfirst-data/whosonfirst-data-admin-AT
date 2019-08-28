@@ -10,8 +10,10 @@
     "geom:latitude":47.401508,
     "geom:longitude":9.755903,
     "iso:country":"AT",
+    "lbl:bbox":"9.750903,47.396508,9.760903,47.406508",
     "lbl:latitude":47.401508,
     "lbl:longitude":9.755903,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.395121,
     "mps:longitude":9.762321,
     "mz:hierarchy_label":0,
@@ -74,9 +76,6 @@
     "name:swe_x_preferred":[
         "Oberdorf"
     ],
-    "name:unk_x_variant":[
-        "Oberdorf"
-    ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":7872673,
@@ -107,7 +106,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":125,
     "wof:belongsto":[
         102191581,
@@ -120,7 +119,6 @@
     "wof:concordances":{
         "gn:id":2770272,
         "gp:id":551633,
-        "qs:id":216711,
         "qs_pg:id":216711
     },
     "wof:country":"AT",
@@ -140,7 +138,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564312407,
+    "wof:lastmodified":1566597478,
     "wof:name":"Oberdorf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

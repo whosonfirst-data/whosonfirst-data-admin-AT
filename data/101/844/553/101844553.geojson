@@ -12,9 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.555189,
     "lbl:longitude":12.112255,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.555189,
     "mps:longitude":12.112255,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Tirol",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681661,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2762822,
         "gp:id":551327,
-        "qs:id":1220737
+        "qs_pg:id":1220737
     },
     "wof:country":"AT",
     "wof:geomhash":"cfa2f04536fb2a5b71a917cb9a69f7ec",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101844553,
-    "wof:lastmodified":1496615236,
+    "wof:lastmodified":1566599040,
     "wof:name":"Unterlangkampfen",
     "wof:parent_id":1108837405,
     "wof:placetype":"locality",

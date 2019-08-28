@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.792127,
     "lbl:longitude":15.53949,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.792127,
     "mps:longitude":15.53949,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kaindorf"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         85681687,
@@ -111,7 +114,7 @@
         "fct:id":"0325d9ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2774967,
         "gp:id":548808,
-        "qs:id":56895,
+        "qs_pg:id":56895,
         "wd:id":"Q688721"
     },
     "wof:country":"AT",
@@ -130,7 +133,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245794,
+    "wof:lastmodified":1566599064,
     "wof:name":"Kaindorf",
     "wof:parent_id":1108839045,
     "wof:placetype":"locality",

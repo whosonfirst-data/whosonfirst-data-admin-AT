@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.258839,
     "lbl:longitude":15.565518,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.258839,
     "mps:longitude":15.565518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Karlstetten"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":276,
     "wof:belongsto":[
         85681671,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":2774703,
         "gp:id":12673887,
-        "qs:id":1015539,
+        "qs_pg:id":1015539,
         "wd:id":"Q675454",
         "wk:page":"Karlstetten"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101784601,
-    "wof:lastmodified":1563245992,
+    "wof:lastmodified":1566599119,
     "wof:name":"Karlstetten",
     "wof:parent_id":1108836811,
     "wof:placetype":"locality",

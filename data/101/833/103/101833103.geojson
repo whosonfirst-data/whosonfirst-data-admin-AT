@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.983898,
     "lbl:longitude":12.916088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.983898,
     "mps:longitude":12.916088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "B\u00fcrmoos"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":261,
     "wof:belongsto":[
         85681681,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":2781162,
         "gp:id":547440,
-        "qs:id":927084,
+        "qs_pg:id":927084,
         "wd:id":"Q701183",
         "wk:page":"B\u00fcrmoos"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101833103,
-    "wof:lastmodified":1563245734,
+    "wof:lastmodified":1566599047,
     "wof:name":"B\u00fcrmoos",
     "wof:parent_id":1108837119,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.503282,
     "lbl:longitude":16.506479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.503282,
     "mps:longitude":16.506479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Owapuindorf"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681651,
         102191581,
@@ -133,10 +136,12 @@
         "fct:id":"03214864-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2769812,
         "gp:id":538981,
-        "qs:id":22589,
-        "qs_pg:id":977121,
+        "qs_pg:id":22589,
         "wd:id":"Q252982",
         "wk:page":"Oberpullendorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977121
     },
     "wof:country":"AT",
     "wof:geomhash":"2b62f1ecf9ea16c74c56811cc87d488c",
@@ -154,7 +159,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245811,
+    "wof:lastmodified":1566599069,
     "wof:name":"Oberpullendorf",
     "wof:parent_id":1108838597,
     "wof:placetype":"locality",

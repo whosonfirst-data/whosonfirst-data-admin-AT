@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.145055,
     "lbl:longitude":16.098136,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.145055,
     "mps:longitude":16.098136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burgau"
     ],
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0433\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burg"
     ],
     "name:uzb_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1011,
     "wof:belongsto":[
         85681687,
@@ -115,9 +118,11 @@
     "wof:concordances":{
         "gn:id":2781200,
         "gp:id":548198,
-        "qs:id":1192645,
         "qs_pg:id":1071550,
         "wd:id":"Q690957"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1192645
     },
     "wof:country":"AT",
     "wof:geomhash":"ac3d0691368055eb9787fd8d7b807802",
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":101789013,
-    "wof:lastmodified":1563246152,
+    "wof:lastmodified":1566599164,
     "wof:name":"Burgau",
     "wof:parent_id":1108839229,
     "wof:placetype":"locality",

@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.863081,
     "lbl:longitude":14.853612,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.862083,
     "mps:longitude":14.853615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bos_x_preferred":[
         "Wolfsberg"
     ],
@@ -182,9 +185,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-31",
+    "src:population_date":"2011-10-31",
     "statoids:area_km":"974",
     "statoids:as_of_date":"2011-10-31",
     "statoids:capital":"Wolfsberg",
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":102049693,
-    "wof:lastmodified":1563243025,
+    "wof:lastmodified":1566597174,
     "wof:name":"Wolfsberg",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

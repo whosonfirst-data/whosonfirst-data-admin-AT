@@ -16,15 +16,17 @@
     "geom:bbox":"15.8914707627,47.6288627822,15.9718209843,47.6613030724",
     "geom:latitude":47.642769,
     "geom:longitude":15.933346,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":298,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":47.643765,
     "lbl:longitude":15.930125,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Raach am Hochgebirge"
     ],
@@ -73,7 +75,7 @@
     "name:swe_x_preferred":[
         "Raach am Hochgebirge"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Raach"
     ],
     "name:uzb_x_preferred":[
@@ -112,7 +114,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674128,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -143,7 +145,7 @@
         }
     ],
     "wof:id":1108835393,
-    "wof:lastmodified":1564314156,
+    "wof:lastmodified":1566598467,
     "wof:name":"Raach am Hochgebirge",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

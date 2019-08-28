@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.180076,
     "lbl:longitude":15.489086,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.180076,
     "mps:longitude":15.489086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sankt Radegund bei Graz"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Sankt Radegund bei Graz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Radegund bei Graz"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         85681687,
@@ -100,10 +103,12 @@
     "wof:concordances":{
         "gn:id":2766420,
         "gp:id":549821,
-        "qs:id":989356,
-        "qs_pg:id":1327308,
+        "qs_pg:id":989356,
         "wd:id":"Q200916",
         "wk:page":"Sankt Radegund bei Graz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327308
     },
     "wof:country":"AT",
     "wof:geomhash":"da0474f82dbf336e3314a28eb563daed",
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101912389,
-    "wof:lastmodified":1563245860,
+    "wof:lastmodified":1566599084,
     "wof:name":"St. Radegund bei Graz",
     "wof:parent_id":1108839161,
     "wof:placetype":"locality",

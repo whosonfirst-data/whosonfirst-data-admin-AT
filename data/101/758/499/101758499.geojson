@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.607669,
     "lbl:longitude":14.360703,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.607669,
     "mps:longitude":14.360703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ebenthal"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":2780544,
         "gp:id":539337,
-        "qs:id":678282,
         "qs_pg:id":678282,
         "wd:id":"Q284179",
         "wk:page":"Ebenthal"
@@ -141,7 +143,7 @@
         }
     ],
     "wof:id":101758499,
-    "wof:lastmodified":1563246029,
+    "wof:lastmodified":1566599128,
     "wof:name":"Ebenthal",
     "wof:parent_id":1108838227,
     "wof:placetype":"locality",

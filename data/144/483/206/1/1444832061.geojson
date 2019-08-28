@@ -10,8 +10,10 @@
     "geom:latitude":47.090878,
     "geom:longitude":15.460659,
     "iso:country":"AT",
+    "lbl:bbox":"15.4556587828,47.0858782614,15.4656587828,47.0958782614",
     "lbl:latitude":47.090878,
     "lbl:longitude":15.460659,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444832061,
-    "wof:lastmodified":1566340975,
+    "wof:lastmodified":1566598003,
     "wof:name":"Kroisbach",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6907376.914565,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.349712,46.679942,14.349712,46.679942",
     "geom:latitude":46.679942,
     "geom:longitude":14.349712,
     "gn:id":"",
     "iso:country":"AT",
+    "lbl:bbox":"14.344712,46.674942,14.354712,46.684942",
     "lbl:latitude":46.679942,
     "lbl:longitude":14.349712,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.678921,
     "mps:longitude":14.35134,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
     "name:swe_x_preferred":[
         "Sankt Georgen"
     ],
-    "name:unk_x_variant":[
-        "St.-Georgen"
-    ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_id":0,
     "qs:gn_local":2774326,
@@ -86,20 +85,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":277,
     "wof:belongsto":[
-        85681655,
         102191581,
         1108838181,
         85632785,
         101844431,
-        102049681
+        102049681,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":540525,
-        "qs:id":1076318,
         "qs_pg:id":1076318
     },
     "wof:country":"AT",
@@ -119,7 +117,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932045,
+    "wof:lastmodified":1566597469,
     "wof:name":"St.-Georgen",
     "wof:parent_id":101844431,
     "wof:placetype":"neighbourhood",

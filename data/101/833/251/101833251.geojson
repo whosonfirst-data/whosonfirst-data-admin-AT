@@ -12,9 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.265358,
     "lbl:longitude":14.43736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.265358,
     "mps:longitude":14.43736,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Ober\u00f6sterreich",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681677,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2783047,
         "gp:id":544570,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"AT",
     "wof:geomhash":"fb3ce5cddb7af0aacacc11259034dc7c",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101833251,
-    "wof:lastmodified":1496609592,
+    "wof:lastmodified":1566599052,
     "wof:name":"Abwinden",
     "wof:parent_id":1108835587,
     "wof:placetype":"locality",

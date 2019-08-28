@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.719454,
     "lbl:longitude":16.187941,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.719454,
     "mps:longitude":16.187941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pitten"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         85681671,
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":2768746,
         "gp:id":543307,
-        "qs:id":977153,
         "qs_pg:id":977153,
         "wd:id":"Q686394",
         "wk:page":"Pitten"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101833079,
-    "wof:lastmodified":1563245741,
+    "wof:lastmodified":1566599049,
     "wof:name":"Pitten",
     "wof:parent_id":1108836899,
     "wof:placetype":"locality",

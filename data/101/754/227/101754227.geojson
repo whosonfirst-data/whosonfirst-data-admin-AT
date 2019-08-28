@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.297133,
     "lbl:longitude":16.333802,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.297133,
     "mps:longitude":16.333802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Klosterneuburg"
     ],
@@ -190,7 +193,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.304167,
     "wd:longitude":16.316667,
@@ -206,10 +209,12 @@
     "wof:concordances":{
         "gn:id":2773913,
         "gp:id":542462,
-        "qs:id":75555,
-        "qs_pg:id":1078980,
+        "qs_pg:id":75555,
         "wd:id":"Q487522",
         "wk:page":"Klosterneuburg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078980
     },
     "wof:country":"AT",
     "wof:geomhash":"38303997fff263f579c252a521c851ff",
@@ -224,7 +229,7 @@
         }
     ],
     "wof:id":101754227,
-    "wof:lastmodified":1563245609,
+    "wof:lastmodified":1566599009,
     "wof:name":"Klosterneuburg",
     "wof:parent_id":1108834829,
     "wof:placetype":"locality",

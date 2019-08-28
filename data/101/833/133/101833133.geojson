@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.804484,
     "lbl:longitude":13.774884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.804484,
     "mps:longitude":13.774884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Emsee"
     ],
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":519,
     "wof:belongsto":[
@@ -153,7 +156,6 @@
     "wof:concordances":{
         "gn:id":2780547,
         "gp:id":544924,
-        "qs:id":243076,
         "qs_pg:id":243076,
         "wd:id":"Q699616",
         "wk:page":"Ebensee"
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":101833133,
-    "wof:lastmodified":1563245738,
+    "wof:lastmodified":1566599048,
     "wof:name":"Ebensee",
     "wof:parent_id":1108835129,
     "wof:placetype":"locality",

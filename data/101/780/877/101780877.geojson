@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.94518,
     "lbl:longitude":15.044263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.94518,
     "mps:longitude":15.044263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Litschau"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         85681671,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":2772385,
         "gp:id":12674009,
-        "qs:id":190826,
+        "qs_pg:id":190826,
         "wd:id":"Q669693",
         "wk:page":"Litschau"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101780877,
-    "wof:lastmodified":1563246145,
+    "wof:lastmodified":1566599162,
     "wof:name":"Litschau",
     "wof:parent_id":1108836269,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":47.792618,
     "geom:longitude":12.98895,
     "iso:country":"AT",
+    "lbl:bbox":"12.98395,47.787618,12.99395,47.797618",
     "lbl:latitude":47.792618,
     "lbl:longitude":12.98895,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.793124,
     "mps:longitude":12.984206,
     "mz:hierarchy_label":0,
@@ -54,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837189,
@@ -85,7 +87,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1561827376,
+    "wof:lastmodified":1566597460,
     "wof:name":"Himmelreich",
     "wof:parent_id":101754161,
     "wof:placetype":"neighbourhood",

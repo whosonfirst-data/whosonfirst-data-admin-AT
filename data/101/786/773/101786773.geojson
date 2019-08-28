@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.861333,
     "lbl:longitude":13.127793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.861333,
     "mps:longitude":13.127793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Eingdorf"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         85681681,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2779883,
         "gp:id":12674741,
-        "qs:id":1187754,
+        "qs_pg:id":1187754,
         "wd:id":"Q257523",
         "wk:page":"Eugendorf"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101786773,
-    "wof:lastmodified":1563246098,
+    "wof:lastmodified":1566599149,
     "wof:name":"Eugendorf",
     "wof:parent_id":1108837131,
     "wof:placetype":"locality",

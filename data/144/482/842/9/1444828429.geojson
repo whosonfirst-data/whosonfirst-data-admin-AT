@@ -10,8 +10,10 @@
     "geom:latitude":47.793902,
     "geom:longitude":12.990338,
     "iso:country":"AT",
+    "lbl:bbox":"12.9853380136,47.7889016735,12.9953380136,47.7989016735",
     "lbl:latitude":47.793902,
     "lbl:longitude":12.990338,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681681,
         102191581,
         1108837189,
         85632785,
         101754161,
-        102049799
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444828429,
-    "wof:lastmodified":1566336714,
+    "wof:lastmodified":1566597987,
     "wof:name":"Pointing",
     "wof:parent_id":101754161,
     "wof:placetype":"neighbourhood",

@@ -16,15 +16,17 @@
     "geom:bbox":"16.6342635356,47.7353347169,16.7244949824,47.7885192551",
     "geom:latitude":47.761463,
     "geom:longitude":16.684923,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":2351,
-    "gn:population":2251,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":2351,
     "iso:country":"AT",
     "lbl:latitude":47.763205,
     "lbl:longitude":16.685789,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u00f6rbisch am See"
     ],
@@ -79,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0431\u0456\u0448-\u0430\u043c-\u0417\u0435\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00f6rbisch"
     ],
     "name:uzb_x_preferred":[
@@ -115,7 +117,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12673471,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1108838533,
-    "wof:lastmodified":1564314478,
+    "wof:lastmodified":1566598657,
     "wof:name":"M\u00f6rbisch am See",
     "wof:parent_id":102049811,
     "wof:placetype":"localadmin",

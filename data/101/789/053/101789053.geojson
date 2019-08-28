@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.220542,
     "lbl:longitude":10.825142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.220542,
     "mps:longitude":10.825142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Roppen"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":58,
     "wof:belongsto":[
         85681661,
@@ -119,7 +122,6 @@
         "fct:id":"0326d630-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2767227,
         "gp:id":551145,
-        "qs:id":1329352,
         "qs_pg:id":1329352,
         "wd:id":"Q696137"
     },
@@ -139,7 +141,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563246156,
+    "wof:lastmodified":1566599165,
     "wof:name":"Roppen",
     "wof:parent_id":1108837439,
     "wof:placetype":"locality",

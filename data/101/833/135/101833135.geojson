@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.924806,
     "lbl:longitude":13.794213,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.924806,
     "mps:longitude":13.794213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bar_x_preferred":[
         "Gmundn"
     ],
@@ -170,9 +173,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043c\u0443\u043d\u0434\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Gmunden an der Traun"
-    ],
     "name:uzb_x_preferred":[
         "Gmunden"
     ],
@@ -211,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681677,
@@ -225,7 +225,6 @@
         "fct:id":"03244dd4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2778436,
         "gp:id":545176,
-        "qs:id":968153,
         "qs_pg:id":968153,
         "wd:id":"Q430449",
         "wk:page":"Gmunden"
@@ -246,7 +245,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245734,
+    "wof:lastmodified":1566599047,
     "wof:name":"Gmunden",
     "wof:parent_id":1108835131,
     "wof:placetype":"locality",

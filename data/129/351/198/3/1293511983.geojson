@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"9.79667,47.56306,9.83667,47.60306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buchans"
     ],
@@ -41,8 +45,7 @@
         "Buchans"
     ],
     "name:und_x_variant":[
-        "Buchhanns",
-        "Buchans"
+        "Buchhanns"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1293511983,
-    "wof:lastmodified":1564312615,
+    "wof:lastmodified":1566597582,
     "wof:name":"Buchans",
     "wof:parent_id":1108838013,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.248066,
     "lbl:longitude":16.325149,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.245237,
     "mps:longitude":16.323544,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
-        "Untersievering"
-    ],
-    "name:unk_x_variant":[
         "Untersievering"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -72,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2762645,
         "gp:id":544173,
-        "qs:id":963819,
         "qs_pg:id":963819
     },
     "wof:country":"AT",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566237685,
+    "wof:lastmodified":1566597460,
     "wof:name":"Untersievering",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",

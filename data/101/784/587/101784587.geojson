@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.270704,
     "lbl:longitude":14.581203,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.270704,
     "mps:longitude":14.581203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Schwertberg"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85681677,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2765347,
         "gp:id":546779,
-        "qs:id":216724,
+        "qs_pg:id":216724,
         "wd:id":"Q675709",
         "wk:page":"Schwertberg"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101784587,
-    "wof:lastmodified":1563245978,
+    "wof:lastmodified":1566599116,
     "wof:name":"Schwertberg",
     "wof:parent_id":1108835619,
     "wof:placetype":"locality",

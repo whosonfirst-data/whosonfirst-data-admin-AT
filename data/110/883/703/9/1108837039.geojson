@@ -16,15 +16,17 @@
     "geom:bbox":"13.257323656,47.2843036122,13.3652357875,47.3848873329",
     "geom:latitude":47.333517,
     "geom:longitude":13.31373,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":3013,
-    "gn:population":3081,
+    "gn:country":"AT",
+    "gn:fcode":"ADM3",
+    "gn:population":3013,
     "iso:country":"AT",
     "lbl:latitude":47.333968,
     "lbl:longitude":13.312921,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Wougroa"
     ],
@@ -76,7 +78,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0433\u0440\u0430\u0439\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wagrin"
     ],
     "name:uzb_x_preferred":[
@@ -115,7 +117,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12674770,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1108837039,
-    "wof:lastmodified":1564314232,
+    "wof:lastmodified":1566598508,
     "wof:name":"Wagrain",
     "wof:parent_id":102049753,
     "wof:placetype":"localadmin",

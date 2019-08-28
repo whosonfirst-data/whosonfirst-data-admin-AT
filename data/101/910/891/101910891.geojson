@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.806395,
     "lbl:longitude":14.55832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.806395,
     "mps:longitude":14.55832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eberstein"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":214,
     "wof:belongsto":[
         85681655,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":2780512,
         "gp:id":539342,
-        "qs:id":399667,
-        "qs_pg:id":977129,
+        "qs_pg:id":399667,
         "wd:id":"Q662203",
         "wk:page":"Eberstein, Austria"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977129
     },
     "wof:country":"AT",
     "wof:geomhash":"7de49237e7b118b589a7dd03410f9229",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101910891,
-    "wof:lastmodified":1563246186,
+    "wof:lastmodified":1566599174,
     "wof:name":"Eberstein",
     "wof:parent_id":1108838209,
     "wof:placetype":"locality",

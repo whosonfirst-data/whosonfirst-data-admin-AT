@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.779884,
     "lbl:longitude":16.537871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.779884,
     "mps:longitude":16.537871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Siegendorf"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":162,
     "wof:belongsto":[
         85681651,
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gn:id":2765102,
         "gp:id":539053,
-        "qs:id":993157,
+        "qs_pg:id":993157,
         "wd:id":"Q663474"
     },
     "wof:country":"AT",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101786799,
-    "wof:lastmodified":1563246071,
+    "wof:lastmodified":1566599141,
     "wof:name":"Siegendorf",
     "wof:parent_id":1108838705,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":641,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.25482,46.86186,15.29482,46.90186",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -37,7 +41,7 @@
         "gn:id":2778104
     },
     "wof:country":"AT",
-    "wof:geomhash":"dca8e8ccd3577e12c17d4225ae607429",
+    "wof:geomhash":"912f73fa2c79b37c4312d601d84e4428",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209212621,
-    "wof:lastmodified":1536294239,
+    "wof:lastmodified":1566597965,
     "wof:name":"Graschuh",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -57,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.274820000000002,
+    15.27482,
     46.88186,
-    15.274820000000002,
+    15.27482,
     46.88186
 ],
   "geometry": {"coordinates":[15.27482,46.88186],"type":"Point"}

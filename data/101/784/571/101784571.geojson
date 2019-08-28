@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.208517,
     "lbl:longitude":13.813154,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.208517,
     "mps:longitude":13.813154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Gallspach"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681677,
@@ -133,7 +136,6 @@
     "wof:concordances":{
         "gn:id":2778963,
         "gp:id":545131,
-        "qs:id":987465,
         "qs_pg:id":987465,
         "wd:id":"Q696712",
         "wk:page":"Gallspach"
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":101784571,
-    "wof:lastmodified":1563245995,
+    "wof:lastmodified":1566599120,
     "wof:name":"Gallspach",
     "wof:parent_id":1108835175,
     "wof:placetype":"locality",

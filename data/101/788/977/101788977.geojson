@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.905681,
     "lbl:longitude":13.535393,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.905681,
     "mps:longitude":13.535393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u043c\u044e\u043d\u0434"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681655,
@@ -128,7 +131,6 @@
     "wof:concordances":{
         "gn:id":2778441,
         "gp:id":539479,
-        "qs:id":976181,
         "qs_pg:id":976181,
         "wd:id":"Q660580",
         "wk:page":"Gm\u00fcnd, Carinthia"
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101788977,
-    "wof:lastmodified":1563246062,
+    "wof:lastmodified":1566599137,
     "wof:name":"Gm\u00fcnd",
     "wof:parent_id":1108838263,
     "wof:placetype":"locality",

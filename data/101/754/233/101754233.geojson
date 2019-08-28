@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.331452,
     "lbl:longitude":16.212932,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.331452,
     "mps:longitude":16.212932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0410\u043d\u0434\u0440\u044d-\u0412\u0451\u0440\u0434\u044d\u0440\u043d"
     ],
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681671,
@@ -152,7 +155,6 @@
     "wof:concordances":{
         "gn:id":2760855,
         "gp:id":544478,
-        "qs:id":943940,
         "qs_pg:id":943940,
         "wd:id":"Q672587"
     },
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":101754233,
-    "wof:lastmodified":1563245613,
+    "wof:lastmodified":1566599011,
     "wof:name":"W\u00f6rdern",
     "wof:parent_id":1108835345,
     "wof:placetype":"locality",

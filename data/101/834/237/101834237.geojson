@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.959078,
     "lbl:longitude":15.482499,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.959078,
     "mps:longitude":15.482499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kalsdorf bei Graz"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         85681687,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2774894,
         "gp:id":12675113,
-        "qs:id":343862,
+        "qs_pg:id":343862,
         "wd:id":"Q700550",
         "wk:page":"Kalsdorf bei Graz"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101834237,
-    "wof:lastmodified":1563245827,
+    "wof:lastmodified":1566599073,
     "wof:name":"Kalsdorf bei Graz",
     "wof:parent_id":1108839183,
     "wof:placetype":"locality",

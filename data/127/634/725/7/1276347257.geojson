@@ -26,8 +26,12 @@
     "gn:population":6,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.28,48.29667,15.32,48.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Neusiedl"
     ],
@@ -47,8 +51,7 @@
         "Neusiedl"
     ],
     "name:und_x_variant":[
-        "Neusiedl am Feldstein",
-        "Neusiedl"
+        "Neusiedl am Feldstein"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1276347257,
-    "wof:lastmodified":1564312887,
+    "wof:lastmodified":1566597722,
     "wof:name":"Neusiedl",
     "wof:parent_id":1108834903,
     "wof:placetype":"locality",

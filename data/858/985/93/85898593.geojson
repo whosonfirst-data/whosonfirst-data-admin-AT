@@ -11,8 +11,10 @@
     "geom:longitude":15.38938,
     "gn:population":14314,
     "iso:country":"AT",
+    "lbl:bbox":"15.38438,47.044407,15.39438,47.054407",
     "lbl:latitude":47.049407,
     "lbl:longitude":15.38938,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.052939,
     "mps:longitude":15.377664,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:swe_x_preferred":[
         "Wetzelsdorf"
     ],
-    "name:unk_x_variant":[
-        "Wetzelsdorf"
-    ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":7871499,
@@ -81,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":222,
     "wof:belongsto":[
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2761436,
         "gp:id":550310,
-        "qs:id":228786,
         "qs_pg:id":228786,
         "wd:id":"Q730125",
         "wk:page":"Wetzelsdorf"
@@ -118,7 +116,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563243470,
+    "wof:lastmodified":1566597464,
     "wof:name":"Wetzelsdorf",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

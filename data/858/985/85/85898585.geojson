@@ -10,8 +10,10 @@
     "geom:latitude":47.028294,
     "geom:longitude":15.401154,
     "iso:country":"AT",
+    "lbl:bbox":"15.396154,47.023294,15.406154,47.033294",
     "lbl:latitude":47.028294,
     "lbl:longitude":15.401154,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.014494,
     "mps:longitude":15.379885,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
     ],
     "name:nld_x_preferred":[
         "Stra\u00dfgang"
-    ],
-    "name:unk_x_variant":[
-        "Strassgang"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPL",
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":370,
     "wof:belongsto":[
         102191581,
@@ -87,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2764178,
         "gp:id":550023,
-        "qs:id":901181,
         "qs_pg:id":901181,
         "wd:id":"Q179891",
         "wk:page":"Stra\u00dfgang"
@@ -109,7 +107,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563243476,
+    "wof:lastmodified":1566597467,
     "wof:name":"Strassgang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

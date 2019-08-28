@@ -9,15 +9,18 @@
     "geom:bbox":"14.115028895,47.8658013893,14.1494326123,47.8956242325",
     "geom:latitude":47.879683,
     "geom:longitude":14.131191,
-    "geonames:id":"2771619,2771620",
+    "gn:id":"2771619,2771620",
     "gn:population":5902,
     "iso:country":"AT",
     "lbl:latitude":47.880195,
     "lbl:longitude":14.132868,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.880195,
     "mps:longitude":14.132868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Micheldorf"
     ],
@@ -126,7 +129,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -140,7 +143,7 @@
     "wof:concordances":{
         "gn:id":2771619,
         "gp:id":545891,
-        "qs:id":1037796,
+        "qs_pg:id":1037796,
         "wd:id":"Q661415"
     },
     "wof:country":"AT",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101833157,
-    "wof:lastmodified":1563245735,
+    "wof:lastmodified":1566599047,
     "wof:name":"Micheldorf",
     "wof:parent_id":1108835259,
     "wof:placetype":"locality",

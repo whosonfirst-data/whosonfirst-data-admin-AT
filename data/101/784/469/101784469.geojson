@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.247784,
     "lbl:longitude":13.234391,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.247784,
     "mps:longitude":13.234391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Altheim"
     ],
@@ -254,7 +257,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":2782649,
         "gp:id":12674301,
-        "qs:id":946585,
+        "qs_pg:id":946585,
         "wd:id":"Q440718",
         "wk:page":"Altheim, Austria"
     },
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":101784469,
-    "wof:lastmodified":1563245991,
+    "wof:lastmodified":1566599119,
     "wof:name":"Altheim",
     "wof:parent_id":1108834707,
     "wof:placetype":"locality",

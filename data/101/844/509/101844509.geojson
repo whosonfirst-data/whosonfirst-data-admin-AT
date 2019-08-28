@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.476059,
     "lbl:longitude":13.189494,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.476059,
     "mps:longitude":13.189494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Werfm"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":413,
     "wof:belongsto":[
@@ -123,10 +126,12 @@
     "wof:concordances":{
         "gn:id":2761478,
         "gp:id":547990,
-        "qs:id":904957,
-        "qs_pg:id":1082907,
+        "qs_pg:id":904957,
         "wd:id":"Q255361",
         "wk:page":"Werfen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1082907
     },
     "wof:country":"AT",
     "wof:geomhash":"db6931d1aca6eacffd0a4fe6b3615414",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101844509,
-    "wof:lastmodified":1563245714,
+    "wof:lastmodified":1566599040,
     "wof:name":"Werfen",
     "wof:parent_id":1108837041,
     "wof:placetype":"locality",

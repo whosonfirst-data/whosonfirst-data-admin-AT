@@ -12,9 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.408312,
     "lbl:longitude":12.916931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.408312,
     "mps:longitude":12.916931,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Salzburg",
     "qs:a1r":"1",
@@ -32,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681681,
         102191581,
@@ -43,7 +47,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28996061,
-        "qs:id":1071219,
         "qs_pg:id":1071219
     },
     "wof:country":"AT",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101912405,
-    "wof:lastmodified":1497303666,
+    "wof:lastmodified":1566599083,
     "wof:name":"Krallerwinkl",
     "wof:parent_id":1108837219,
     "wof:placetype":"locality",

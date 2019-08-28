@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.233778,
     "lbl:longitude":13.825804,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.233778,
     "mps:longitude":13.825804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Griaskircha"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681677,
@@ -141,7 +144,6 @@
         "fct:id":"032450a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2777972,
         "gp:id":545213,
-        "qs:id":343162,
         "qs_pg:id":343162,
         "wd:id":"Q256996",
         "wk:page":"Grieskirchen"
@@ -162,7 +164,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245960,
+    "wof:lastmodified":1566599111,
     "wof:name":"Grieskirchen",
     "wof:parent_id":1108835183,
     "wof:placetype":"locality",

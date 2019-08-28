@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.590134,
     "lbl:longitude":16.464169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.590134,
     "mps:longitude":16.464169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Lacknboch"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":288,
     "wof:belongsto":[
         85681651,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":2773184,
         "gp:id":12673458,
-        "qs:id":1016735,
+        "qs_pg:id":1016735,
         "wd:id":"Q663242",
         "wk:page":"Lackenbach"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101786723,
-    "wof:lastmodified":1563246085,
+    "wof:lastmodified":1566599145,
     "wof:name":"Lackenbach",
     "wof:parent_id":1108838525,
     "wof:placetype":"locality",

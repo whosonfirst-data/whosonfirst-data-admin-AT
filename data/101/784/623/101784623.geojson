@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.146759,
     "lbl:longitude":16.703169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.146759,
     "mps:longitude":16.703169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Orth an der Donau"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Orth an der Donau"
     ],
-    "name:unk_x_variant":[
-        "Orth"
-    ],
     "name:uzb_x_preferred":[
         "Orth an der Donau"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.144444,
     "wd:longitude":16.701389,
     "wd:wordcount":122,
@@ -130,7 +130,6 @@
         "fct:id":"032332a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2769409,
         "gp:id":543196,
-        "qs:id":895755,
         "qs_pg:id":895755,
         "wd:id":"Q871563",
         "wk:page":"Orth an der Donau"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245987,
+    "wof:lastmodified":1566599118,
     "wof:name":"Orth an der Donau",
     "wof:parent_id":1108835453,
     "wof:placetype":"locality",

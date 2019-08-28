@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.696472,
     "lbl:longitude":16.680962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.696472,
     "mps:longitude":16.680962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Herrnbaumgarten"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681671,
@@ -115,10 +118,12 @@
     "wof:concordances":{
         "gn:id":2774257,
         "gp:id":542100,
-        "qs:id":7,
-        "qs_pg:id":23077,
+        "qs_pg:id":7,
         "wd:id":"Q666332",
         "wk:page":"Herrnbaumgarten"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":23077
     },
     "wof:country":"AT",
     "wof:geomhash":"ec04022b7f145b5f201860d84def6767",
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":101782237,
-    "wof:lastmodified":1563245923,
+    "wof:lastmodified":1566599102,
     "wof:name":"Herrnbaumgarten",
     "wof:parent_id":1108835905,
     "wof:placetype":"locality",

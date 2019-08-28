@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1580343.662955,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.040012,47.838189,13.040012,47.838189",
     "geom:latitude":47.838189,
     "geom:longitude":13.040012,
     "iso:country":"AT",
+    "lbl:bbox":"13.035012,47.833189,13.045012,47.843189",
     "lbl:latitude":47.838189,
     "lbl:longitude":13.040012,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.841088,
     "mps:longitude":13.043293,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Hagenau"
-    ],
-    "name:unk_x_variant":[
         "Hagenau"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837115,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2777072,
         "gp:id":547555,
-        "qs:id":196805,
         "qs_pg:id":196805
     },
     "wof:country":"AT",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932071,
+    "wof:lastmodified":1566597460,
     "wof:name":"Hagenau",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

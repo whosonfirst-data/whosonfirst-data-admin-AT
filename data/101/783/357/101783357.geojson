@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.301136,
     "lbl:longitude":16.155285,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.301136,
     "mps:longitude":16.155285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "K\u00f6nigstetten"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681671,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":2776569,
         "gp:id":542487,
-        "qs:id":922578,
         "qs_pg:id":23080,
         "wd:id":"Q691498",
         "wk:page":"K\u00f6nigstetten"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":922578
     },
     "wof:country":"AT",
     "wof:geomhash":"4351c215602c2f0f2823f08fb740b5be",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101783357,
-    "wof:lastmodified":1563245948,
+    "wof:lastmodified":1566599108,
     "wof:name":"K\u00f6nigstetten",
     "wof:parent_id":1108836305,
     "wof:placetype":"locality",

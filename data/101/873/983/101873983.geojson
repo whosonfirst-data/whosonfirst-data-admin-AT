@@ -11,12 +11,16 @@
     "geom:longitude":9.799378,
     "gn:population":3100,
     "iso:country":"AT",
+    "lbl:bbox":"9.779378,47.124077,9.819378,47.164077",
     "lbl:latitude":47.144077,
     "lbl:longitude":9.799378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.144077,
     "mps:longitude":9.799378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "B\u00fcrs"
     ],
@@ -106,7 +110,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":25,
     "wof:belongsto":[
@@ -120,7 +124,7 @@
     "wof:concordances":{
         "gn:id":2781161,
         "gp:id":12675630,
-        "qs:id":343849,
+        "qs_pg:id":343849,
         "wd:id":"Q700948",
         "wk:page":"B\u00fcrs"
     },
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":101873983,
-    "wof:lastmodified":1563245666,
+    "wof:lastmodified":1566599026,
     "wof:name":"B\u00fcrs",
     "wof:parent_id":1108837913,
     "wof:placetype":"locality",

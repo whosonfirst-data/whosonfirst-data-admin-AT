@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.231949,
     "lbl:longitude":14.505785,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.231949,
     "mps:longitude":14.505785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ennsdorf"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
         85681677,
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2780043,
         "gp:id":12674126,
-        "qs:id":1187745,
+        "qs_pg:id":1187745,
         "wd:id":"Q697066",
         "wk:page":"Ennsdorf"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101833219,
-    "wof:lastmodified":1563245743,
+    "wof:lastmodified":1566599049,
     "wof:name":"Ennsdorf",
     "wof:parent_id":1108835527,
     "wof:placetype":"locality",

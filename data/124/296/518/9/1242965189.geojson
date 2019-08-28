@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"10.69667,47.14667,10.73667,47.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sonnenberg"
     ],
@@ -83,8 +87,7 @@
         "\u0417\u043e\u043d\u043d\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
     "name:und_x_variant":[
-        "Berg",
-        "Sonnenberg"
+        "Berg"
     ],
     "name:uzb_x_preferred":[
         "Sonnenberg"
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1242965189,
-    "wof:lastmodified":1564315785,
+    "wof:lastmodified":1566599639,
     "wof:name":"Sonnenberg",
     "wof:parent_id":1108837457,
     "wof:placetype":"locality",

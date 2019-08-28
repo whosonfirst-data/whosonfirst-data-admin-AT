@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4623249.572724,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.414716,47.022383,15.414716,47.022383",
     "geom:latitude":47.022383,
     "geom:longitude":15.414716,
     "iso:country":"AT",
+    "lbl:bbox":"15.409716,47.017383,15.419716,47.027383",
     "lbl:latitude":47.022383,
     "lbl:longitude":15.414716,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.01937,
     "mps:longitude":15.400228,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Skt Martin",
         "Skt. Martin",
         "St Martin"
-    ],
-    "name:unk_x_variant":[
-        "St. Martin"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_id":0,
@@ -64,14 +63,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +93,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932089,
+    "wof:lastmodified":1566597466,
     "wof:name":"St. Martin",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

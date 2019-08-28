@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.352841,
     "lbl:longitude":15.695635,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.352841,
     "mps:longitude":15.695635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Birkfeld"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         85681687,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2781748,
         "gp:id":548149,
-        "qs:id":977182,
         "qs_pg:id":977182,
         "wd:id":"Q542740"
     },
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101787935,
-    "wof:lastmodified":1563246125,
+    "wof:lastmodified":1566599156,
     "wof:name":"Birkfeld",
     "wof:parent_id":1108838855,
     "wof:placetype":"locality",

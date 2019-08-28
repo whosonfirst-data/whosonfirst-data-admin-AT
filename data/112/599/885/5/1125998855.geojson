@@ -9,19 +9,23 @@
     "geom:bbox":"12.78389,46.70472,12.78389,46.70472",
     "geom:latitude":46.70472,
     "geom:longitude":12.78389,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"12.76389,46.68472,12.80389,46.72472",
     "lbl:latitude":46.70472,
     "lbl:longitude":12.78389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "St. Lorenzen i. Lesachtal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt Lorenzen im Lesach"
     ],
     "qs_pg:aaroncc":"AT",
@@ -45,7 +49,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":540441,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"K\u00e4rnten",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1125998855,
-    "wof:lastmodified":1509405982,
+    "wof:lastmodified":1566599412,
     "wof:name":"St. Lorenzen im Lesachtal",
     "wof:parent_id":1108838161,
     "wof:placetype":"locality",

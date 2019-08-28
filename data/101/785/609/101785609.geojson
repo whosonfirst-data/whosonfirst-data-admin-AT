@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.99599,
     "lbl:longitude":13.062752,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.99599,
     "mps:longitude":13.062752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Berndorf bei Salzburg"
     ],
@@ -67,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0431\u0430\u0439-\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Berndorf"
-    ],
     "name:uzb_x_preferred":[
         "Berndorf bei Salzburg"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         85681681,
@@ -112,10 +112,12 @@
     "wof:concordances":{
         "gn:id":2781836,
         "gp:id":547423,
-        "qs:id":1078381,
         "qs_pg:id":987471,
         "wd:id":"Q163984",
         "wk:page":"Berndorf bei Salzburg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078381
     },
     "wof:country":"AT",
     "wof:geomhash":"0f7b8e4aedc43c5faf8ce04fec527e15",
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101785609,
-    "wof:lastmodified":1563245903,
+    "wof:lastmodified":1566599096,
     "wof:name":"Berndorf bei Salzburg",
     "wof:parent_id":1108837117,
     "wof:placetype":"locality",

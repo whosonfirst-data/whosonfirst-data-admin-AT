@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.289438,
     "lbl:longitude":14.11816,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.289438,
     "mps:longitude":14.11816,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Schloss Hartheim"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681677,
         102191581,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":2776792,
         "gp:id":545348,
-        "qs:id":926993,
+        "qs_pg:id":926993,
         "wd:id":"Q697086",
         "wk:page":"Schloss Hartheim"
     },
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101833243,
-    "wof:lastmodified":1563245745,
+    "wof:lastmodified":1566599050,
     "wof:name":"Hartheim",
     "wof:parent_id":1108834811,
     "wof:placetype":"locality",

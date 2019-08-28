@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.048772,
     "lbl:longitude":16.311623,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.048772,
     "mps:longitude":16.311623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guntramsdorf"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681671,
@@ -115,10 +118,12 @@
     "wof:concordances":{
         "gn:id":2601384,
         "gp:id":541963,
-        "qs:id":1101802,
         "qs_pg:id":240979,
         "wd:id":"Q661877",
         "wk:page":"Guntramsdorf"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101802
     },
     "wof:country":"AT",
     "wof:geomhash":"83fe6192f6c3c36e40e66d95dc8e5597",
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":101754173,
-    "wof:lastmodified":1563245615,
+    "wof:lastmodified":1566599011,
     "wof:name":"Guntramsdorf",
     "wof:parent_id":1108836951,
     "wof:placetype":"locality",

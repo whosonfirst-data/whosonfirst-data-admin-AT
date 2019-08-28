@@ -11,12 +11,16 @@
     "geom:longitude":9.80577,
     "gn:population":4628,
     "iso:country":"AT",
+    "lbl:bbox":"9.78577,47.159181,9.82577,47.199181",
     "lbl:latitude":47.179181,
     "lbl:longitude":9.80577,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.179181,
     "mps:longitude":9.80577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "N\u00fcziders"
     ],
@@ -107,7 +111,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -122,10 +126,12 @@
         "gn:id":2770391,
         "gp:id":551629,
         "loc:id":"nr98033843",
-        "qs:id":38539,
-        "qs_pg:id":1060431,
+        "qs_pg:id":38539,
         "wd:id":"Q700907",
         "wk:page":"N\u00fcziders"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060431
     },
     "wof:country":"AT",
     "wof:geomhash":"f190dad7f1e434cff6fa5d187bce9861",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":101853439,
-    "wof:lastmodified":1563246047,
+    "wof:lastmodified":1566599133,
     "wof:name":"N\u00fcziders",
     "wof:parent_id":1108838017,
     "wof:placetype":"locality",

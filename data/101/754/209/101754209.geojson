@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.100449,
     "lbl:longitude":16.420342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.100449,
     "mps:longitude":16.420342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maria-Lanzendorf"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         85681671,
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2771921,
         "gp:id":542749,
-        "qs:id":1080422,
         "qs_pg:id":1080422,
         "wd:id":"Q675952",
         "wk:page":"Maria Lanzendorf"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101754209,
-    "wof:lastmodified":1563245629,
+    "wof:lastmodified":1566599016,
     "wof:name":"Maria-Lanzendorf",
     "wof:parent_id":1108835473,
     "wof:placetype":"locality",

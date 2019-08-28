@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.645765,
     "lbl:longitude":16.795104,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.645765,
     "mps:longitude":16.795104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Altlichtenwarth"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681671,
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":2782633,
         "gp:id":541097,
-        "qs:id":265216,
         "qs_pg:id":265216,
         "wd:id":"Q442483",
         "wk:page":"Altlichtenwarth"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101910863,
-    "wof:lastmodified":1563246187,
+    "wof:lastmodified":1566599174,
     "wof:name":"Altlichtenwarth",
     "wof:parent_id":1108836889,
     "wof:placetype":"locality",

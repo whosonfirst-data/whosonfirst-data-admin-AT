@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.051631,
     "lbl:longitude":15.124374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.051631,
     "mps:longitude":15.124374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rosental an der Kainach"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Rosental an der Kainach"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rosenthal"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         85681687,
@@ -100,9 +103,11 @@
     "wof:concordances":{
         "gn:id":2767182,
         "gp:id":20097165,
-        "qs:id":8,
-        "qs_pg:id":205263,
+        "qs_pg:id":8,
         "wd:id":"Q701373"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":205263
     },
     "wof:country":"AT",
     "wof:geomhash":"e21eb83c1ac258bf5e599e592bad9bde",
@@ -117,7 +122,7 @@
         }
     ],
     "wof:id":101834193,
-    "wof:lastmodified":1563245794,
+    "wof:lastmodified":1566599064,
     "wof:name":"Rosental an der Kainach",
     "wof:parent_id":1108839353,
     "wof:placetype":"locality",

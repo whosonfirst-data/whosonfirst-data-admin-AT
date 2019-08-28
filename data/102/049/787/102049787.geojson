@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.888964,
     "lbl:longitude":15.888018,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.605507,
     "mps:longitude":16.260284,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Viner-Noy\u015ftadt"
     ],
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":258,
     "wof:belongsto":[
         102191581,
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":102049787,
-    "wof:lastmodified":1563243093,
+    "wof:lastmodified":1566597236,
     "wof:name":"Wiener Neustadt-Land",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

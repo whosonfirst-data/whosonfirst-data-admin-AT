@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.226029,
     "lbl:longitude":9.670911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.226029,
     "mps:longitude":9.670911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Satteins"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         85681649,
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":2766322,
         "gp:id":551668,
-        "qs:id":996415,
         "qs_pg:id":996415,
         "wd:id":"Q876996",
         "wk:page":"Satteins"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101841967,
-    "wof:lastmodified":1563246040,
+    "wof:lastmodified":1566599131,
     "wof:name":"Satteins",
     "wof:parent_id":1108838033,
     "wof:placetype":"locality",

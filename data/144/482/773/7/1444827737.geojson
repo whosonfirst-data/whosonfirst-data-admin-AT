@@ -10,8 +10,10 @@
     "geom:latitude":47.772659,
     "geom:longitude":13.040249,
     "iso:country":"AT",
+    "lbl:bbox":"13.0352485841,47.7676588512,13.0452485841,47.7776588512",
     "lbl:latitude":47.772659,
     "lbl:longitude":13.040249,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,12 +32,12 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85681681,
         102191581,
         1108837189,
         85632785,
         1175610443,
-        102049799
+        102049799,
+        85681681
     ],
     "wof:breaches":[],
     "wof:country":"AT",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444827737,
-    "wof:lastmodified":1566336628,
+    "wof:lastmodified":1566597994,
     "wof:name":"Kirchsiedlung Gneis",
     "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",

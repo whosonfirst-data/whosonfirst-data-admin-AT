@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":1661816.496414,
+    "geom:area_square_m":1661816.496413,
     "geom:bbox":"13.8419936206,48.0730972511,13.8623639523,48.0966434829",
     "geom:latitude":48.080709,
     "geom:longitude":13.854661,
     "iso:country":"AT",
     "lbl:latitude":48.079614,
     "lbl:longitude":13.854736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.079614,
     "mps:longitude":13.854736,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Ober\u00f6sterreich",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681677,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2764728,
         "gp:id":546837,
-        "qs:id":56471
+        "qs_pg:id":56471
     },
     "wof:country":"AT",
     "wof:geomhash":"5d8af9e0cfc21bc79abedb9d4bbe5384",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101833213,
-    "wof:lastmodified":1496613081,
+    "wof:lastmodified":1566599058,
     "wof:name":"Stadl-Hausruck",
     "wof:parent_id":1108836579,
     "wof:placetype":"locality",

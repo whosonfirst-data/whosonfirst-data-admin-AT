@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.401133,
     "lbl:longitude":15.981067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.401133,
     "mps:longitude":15.981067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Absdorf"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         85681671,
@@ -121,9 +124,11 @@
     "wof:concordances":{
         "gn:id":2783054,
         "gp:id":541031,
-        "qs:id":5,
-        "qs_pg:id":1263075,
+        "qs_pg:id":5,
         "wd:id":"Q332195"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1263075
     },
     "wof:country":"AT",
     "wof:geomhash":"da82482e076aee9e009bd28f99a778f1",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101783355,
-    "wof:lastmodified":1563245935,
+    "wof:lastmodified":1566599104,
     "wof:name":"Absdorf",
     "wof:parent_id":1108835913,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
-    "geom:area_square_m":2713157.998496,
+    "geom:area_square_m":2713157.998495,
     "geom:bbox":"13.685848117,46.5473204803,13.7192459156,46.5661573311",
     "geom:latitude":46.554486,
     "geom:longitude":13.700979,
     "iso:country":"AT",
     "lbl:latitude":46.554933,
     "lbl:longitude":13.700979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.554933,
     "mps:longitude":13.700979,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*K\u00e4rnten",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681655,
         102191581,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2779033,
         "gp:id":539183,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"AT",
     "wof:geomhash":"ccdab4c652992b247068dafd01a8ebf7",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101790107,
-    "wof:lastmodified":1496617378,
+    "wof:lastmodified":1566599005,
     "wof:name":"Gailitz",
     "wof:parent_id":1108838323,
     "wof:placetype":"locality",

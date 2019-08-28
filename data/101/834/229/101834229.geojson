@@ -9,14 +9,17 @@
     "geom:bbox":"14.7543945607,47.2108731523,14.8104462346,47.229211209",
     "geom:latitude":47.220054,
     "geom:longitude":14.782952,
-    "geonames:id":"2771834,3324794",
+    "gn:id":"2771834,3324794",
     "iso:country":"AT",
     "lbl:latitude":47.215652,
     "lbl:longitude":14.791869,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.215652,
     "mps:longitude":14.791869,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00d6sterreich",
     "qs:a1":"*Steiermark",
     "qs:a1r":"0",
@@ -33,7 +36,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681687,
         102191581,
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3324794,
         "gp:id":549144,
-        "qs:id":1220374
+        "qs_pg:id":1220374
     },
     "wof:country":"AT",
     "wof:geomhash":"48da4be1273d5c628455089f058c9129",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101834229,
-    "wof:lastmodified":1530142071,
+    "wof:lastmodified":1566599064,
     "wof:name":"Ma\u00dfweg",
     "wof:parent_id":1108839419,
     "wof:placetype":"locality",

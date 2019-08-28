@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.527963,
     "lbl:longitude":15.931414,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.527963,
     "mps:longitude":15.931414,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ziersdorf"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         85681671,
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2760575,
         "gp:id":12673891,
-        "qs:id":911052,
+        "qs_pg:id":911052,
         "wd:id":"Q199201"
     },
     "wof:country":"AT",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101782257,
-    "wof:lastmodified":1563245914,
+    "wof:lastmodified":1566599099,
     "wof:name":"Ziersdorf",
     "wof:parent_id":1108836771,
     "wof:placetype":"locality",

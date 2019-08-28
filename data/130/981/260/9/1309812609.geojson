@@ -26,8 +26,12 @@
     "gn:population":129,
     "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"14.57944,46.54167,14.61944,46.58167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Proboj"
     ],
@@ -44,8 +48,7 @@
         "\u041f\u0440\u043e\u0431\u043e\u0458"
     ],
     "name:und_x_variant":[
-        "Probein",
-        "Proboj"
+        "Probein"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1309812609,
-    "wof:lastmodified":1564315250,
+    "wof:lastmodified":1566599225,
     "wof:name":"Proboj",
     "wof:parent_id":1108838389,
     "wof:placetype":"locality",

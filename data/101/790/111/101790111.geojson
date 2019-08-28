@@ -13,10 +13,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.614658,
     "lbl:longitude":14.037505,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.614658,
     "mps:longitude":14.037505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0435\u043b\u0434\u0435\u043d \u0430\u043c \u0412\u044c\u043e\u0440\u0442\u0435\u0440 \u0417\u0435\u0435"
     ],
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":333,
     "wof:belongsto":[
@@ -139,10 +142,12 @@
     "wof:concordances":{
         "gn:id":2762453,
         "gp:id":540851,
-        "qs:id":1332316,
         "qs_pg:id":1243781,
         "wd:id":"Q660687",
         "wk:page":"Velden am W\u00f6rther See"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1332316
     },
     "wof:country":"AT",
     "wof:geomhash":"c8af7c5e5035d9a88d54a41c43a7ce72",
@@ -157,7 +162,7 @@
         }
     ],
     "wof:id":101790111,
-    "wof:lastmodified":1563245592,
+    "wof:lastmodified":1566599003,
     "wof:name":"Velden am W\u00f6rthersee",
     "wof:parent_id":1108838359,
     "wof:placetype":"locality",

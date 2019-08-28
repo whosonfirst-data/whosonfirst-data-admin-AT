@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":39166601.335526,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.847584,46.615166,13.847584,46.615166",
     "geom:latitude":46.615166,
     "geom:longitude":13.847584,
     "iso:country":"AT",
+    "lbl:bbox":"13.842584,46.610166,13.852584,46.620166",
     "lbl:latitude":46.615166,
     "lbl:longitude":13.847584,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.621158,
     "mps:longitude":13.852977,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Volkendorf"
     ],
     "name:deu_x_preferred":[
-        "V\u00f6lkendorf"
-    ],
-    "name:unk_x_variant":[
         "V\u00f6lkendorf"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -63,20 +62,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681655,
         102191581,
         1108838145,
         85632785,
         101748057,
-        102049673
+        102049673,
+        85681655
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2762316,
         "gp:id":540861,
-        "qs:id":440836,
         "qs_pg:id":440836
     },
     "wof:country":"AT",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932047,
+    "wof:lastmodified":1566597468,
     "wof:name":"V\u00f6lkendorf",
     "wof:parent_id":101748057,
     "wof:placetype":"neighbourhood",

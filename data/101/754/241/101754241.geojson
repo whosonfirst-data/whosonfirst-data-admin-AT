@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.332257,
     "lbl:longitude":16.368114,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.332257,
     "mps:longitude":16.368114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Bisamberg"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         85681671,
@@ -128,10 +131,12 @@
     "wof:concordances":{
         "gn:id":2781742,
         "gp:id":541228,
-        "qs:id":1101784,
         "qs_pg:id":343465,
         "wd:id":"Q662813",
         "wk:page":"Bisamberg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101784
     },
     "wof:country":"AT",
     "wof:geomhash":"4efc16547ba651f93e6bd2f19dcd84fe",
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":101754241,
-    "wof:lastmodified":1563245625,
+    "wof:lastmodified":1566599014,
     "wof:name":"Bisamberg",
     "wof:parent_id":1108836939,
     "wof:placetype":"locality",

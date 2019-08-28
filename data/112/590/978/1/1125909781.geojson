@@ -9,14 +9,18 @@
     "geom:bbox":"13.73028,46.68583,13.73028,46.68583",
     "geom:latitude":46.68583,
     "geom:longitude":13.73028,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"AT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"13.71028,46.66583,13.75028,46.70583",
     "lbl:latitude":46.68583,
     "lbl:longitude":13.73028,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0627\u06cc\u0633\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646"
@@ -75,7 +79,7 @@
     "name:swe_x_preferred":[
         "Wei\u00dfenstein"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weissenstern"
     ],
     "name:uzb_x_preferred":[
@@ -114,7 +118,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":540908,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"K\u00e4rnten",
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1125909781,
-    "wof:lastmodified":1563246480,
+    "wof:lastmodified":1566599415,
     "wof:name":"Wei\u00dfenstein",
     "wof:parent_id":1108838361,
     "wof:placetype":"locality",

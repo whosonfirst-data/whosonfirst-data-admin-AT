@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.990674,
     "lbl:longitude":12.956811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.990674,
     "mps:longitude":12.956811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Lampehausen"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         85681681,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":2773077,
         "gp:id":547660,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q255149",
         "wk:page":"Lamprechtshausen"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101833105,
-    "wof:lastmodified":1563245737,
+    "wof:lastmodified":1566599048,
     "wof:name":"Lamprechtshausen",
     "wof:parent_id":1108837157,
     "wof:placetype":"locality",

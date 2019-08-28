@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.702899,
     "lbl:longitude":16.148536,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.702899,
     "mps:longitude":16.148536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Breitenau"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         85681671,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2781487,
         "gp:id":12673842,
-        "qs:id":1112480,
+        "qs_pg:id":1112480,
         "wd:id":"Q141428"
     },
     "wof:country":"AT",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101833075,
-    "wof:lastmodified":1563245770,
+    "wof:lastmodified":1566599057,
     "wof:name":"Breitenau",
     "wof:parent_id":1108835827,
     "wof:placetype":"locality",

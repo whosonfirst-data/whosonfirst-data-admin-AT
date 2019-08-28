@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.915599,
     "lbl:longitude":16.517978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.915599,
     "mps:longitude":16.517978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Loretto"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":247,
     "wof:belongsto":[
         85681651,
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2772255,
         "gp:id":538925,
-        "qs:id":1076244,
         "qs_pg:id":1076244,
         "wd:id":"Q201148"
     },
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101910873,
-    "wof:lastmodified":1563246182,
+    "wof:lastmodified":1566599173,
     "wof:name":"Loretto",
     "wof:parent_id":1108838413,
     "wof:placetype":"locality",

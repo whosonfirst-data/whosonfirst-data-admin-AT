@@ -11,12 +11,16 @@
     "geom:longitude":9.836687,
     "gn:population":13904,
     "iso:country":"AT",
+    "lbl:bbox":"9.816687,47.146015,9.856687,47.186015",
     "lbl:latitude":47.166015,
     "lbl:longitude":9.836687,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.166015,
     "mps:longitude":9.836687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:als_x_preferred":[
         "Bludenz"
     ],
@@ -179,7 +183,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681649,
@@ -194,10 +198,12 @@
         "gn:id":2781680,
         "gp:id":551469,
         "loc:id":"n97003421",
-        "qs:id":972663,
-        "qs_pg:id":1060427,
+        "qs_pg:id":972663,
         "wd:id":"Q494504",
         "wk:page":"Bludenz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060427
     },
     "wof:country":"AT",
     "wof:geomhash":"5ad09703e5f5d407ae0d1858c21f4721",
@@ -215,7 +221,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245671,
+    "wof:lastmodified":1566599027,
     "wof:name":"Bludenz",
     "wof:parent_id":1108837905,
     "wof:placetype":"locality",

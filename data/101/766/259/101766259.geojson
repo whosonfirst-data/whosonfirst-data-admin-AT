@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.349637,
     "lbl:longitude":9.883236,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.349637,
     "mps:longitude":9.883236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Mellau"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":47.351111,
     "wd:longitude":9.881944,
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":8411026,
         "gp:id":20096409,
-        "qs:id":1163830,
         "qs_pg:id":1163830,
         "wd:id":"Q693939",
         "wk:page":"Mellau"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101766259,
-    "wof:lastmodified":1563246037,
+    "wof:lastmodified":1566599130,
     "wof:name":"Mellau",
     "wof:parent_id":1108838009,
     "wof:placetype":"locality",

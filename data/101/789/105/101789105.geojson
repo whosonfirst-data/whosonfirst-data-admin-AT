@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.966296,
     "lbl:longitude":15.349646,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.966296,
     "mps:longitude":15.349646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Lieboch"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         85681687,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2772514,
         "gp:id":549083,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q509098",
         "wk:page":"Lieboch"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101789105,
-    "wof:lastmodified":1563246146,
+    "wof:lastmodified":1566599162,
     "wof:name":"Lieboch",
     "wof:parent_id":1108839175,
     "wof:placetype":"locality",

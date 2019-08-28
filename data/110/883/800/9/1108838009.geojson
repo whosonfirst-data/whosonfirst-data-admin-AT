@@ -16,12 +16,15 @@
     "geom:bbox":"9.81083346465,47.3024508932,9.93212536608,47.3704025786",
     "geom:latitude":47.333612,
     "geom:longitude":9.865411,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"AT",
     "lbl:latitude":47.338065,
     "lbl:longitude":9.864497,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Mellau"
     ],
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12675672,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1108838009,
-    "wof:lastmodified":1564314424,
+    "wof:lastmodified":1566598623,
     "wof:name":"Mellau",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

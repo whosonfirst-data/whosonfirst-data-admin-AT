@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13709613.574461,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.948303,47.779634,12.948303,47.779634",
     "geom:latitude":47.779634,
     "geom:longitude":12.948303,
     "gn:latitude":47.79222,
     "gn:longitude":12.98,
     "iso:country":"AT",
+    "lbl:bbox":"12.943303,47.774634,12.953303,47.784634",
     "lbl:latitude":47.779634,
     "lbl:longitude":12.948303,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.771924,
     "mps:longitude":12.950862,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Walserfeld"
-    ],
-    "name:unk_x_variant":[
         "Walserfeld"
     ],
     "qs:gn_fcode":"PPL",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837189,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3322815,
         "gp:id":20097987,
-        "qs:id":989390,
         "qs_pg:id":989390
     },
     "wof:country":"AT",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531936208,
+    "wof:lastmodified":1566597409,
     "wof:name":"Walserfeld",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

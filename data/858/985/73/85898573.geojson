@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1647274.098306,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.467174,47.057484,15.467174,47.057484",
     "geom:latitude":47.057484,
     "geom:longitude":15.467174,
     "iso:country":"AT",
+    "lbl:bbox":"15.462174,47.052484,15.472174,47.062484",
     "lbl:latitude":47.057484,
     "lbl:longitude":15.467174,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.05797,
     "mps:longitude":15.465693,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:deu_x_preferred":[
-        "Ruckerlberg"
-    ],
-    "name:unk_x_variant":[
         "Ruckerlberg"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681687,
         102191581,
         1108839329,
         85632785,
         101748063,
-        102049709
+        102049709,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2767009,
         "gp:id":549726,
-        "qs:id":1165886,
         "qs_pg:id":1165886
     },
     "wof:country":"AT",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932088,
+    "wof:lastmodified":1566597464,
     "wof:name":"Ruckerlberg",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":46.893722,
     "lbl:longitude":15.268731,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.893722,
     "mps:longitude":15.268731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Stainz"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85681687,
@@ -116,10 +119,12 @@
     "wof:concordances":{
         "gn:id":2764706,
         "gp:id":549971,
-        "qs:id":223824,
-        "qs_pg:id":1079032,
+        "qs_pg:id":223824,
         "wd:id":"Q685128",
         "wk:page":"Stainz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079032
     },
     "wof:country":"AT",
     "wof:geomhash":"6ff7dd12d6a64294658546506e8c4c48",
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":101788967,
-    "wof:lastmodified":1563246065,
+    "wof:lastmodified":1566599138,
     "wof:name":"Stainz",
     "wof:parent_id":1108839275,
     "wof:placetype":"locality",

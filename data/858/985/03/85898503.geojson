@@ -12,6 +12,7 @@
     "iso:country":"AT",
     "lbl:latitude":47.793643,
     "lbl:longitude":13.056997,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.791222,
     "mps:longitude":13.05954,
     "mz:hierarchy_label":1,
@@ -36,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108837079,
@@ -49,7 +50,6 @@
     "wof:concordances":{
         "gn:id":3322848,
         "gp:id":547744,
-        "qs:id":1082906,
         "qs_pg:id":1082906,
         "wd:id":"Q256941"
     },
@@ -70,7 +70,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1561827376,
+    "wof:lastmodified":1566597463,
     "wof:name":"Nonntal",
     "wof:parent_id":101748065,
     "wof:placetype":"neighbourhood",

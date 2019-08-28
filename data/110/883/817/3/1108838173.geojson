@@ -16,15 +16,17 @@
     "geom:bbox":"14.1676427504,46.5424813197,14.2881963742,46.5846502801",
     "geom:latitude":46.563945,
     "geom:longitude":14.227883,
-    "gn:gn_country":"AT",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":2954,
+    "gn:country":"AT",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"AT",
     "lbl:latitude":46.561497,
     "lbl:longitude":14.239947,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "K\u00f6ttmannsdorf"
     ],
@@ -76,7 +78,7 @@
     "name:swe_x_preferred":[
         "K\u00f6ttmannsdorf"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koettmannsdorf"
     ],
     "name:uzb_x_preferred":[
@@ -115,7 +117,7 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":12673540,
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":1108838173,
-    "wof:lastmodified":1564313821,
+    "wof:lastmodified":1566598275,
     "wof:name":"K\u00f6ttmannsdorf",
     "wof:parent_id":102049681,
     "wof:placetype":"localadmin",

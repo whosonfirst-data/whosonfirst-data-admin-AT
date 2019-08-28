@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":47.068949,
     "lbl:longitude":14.694851,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.068949,
     "mps:longitude":14.694851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Obdach"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         85681687,
@@ -106,9 +109,11 @@
     "wof:concordances":{
         "gn:id":2770389,
         "gp:id":549317,
-        "qs:id":373497,
-        "qs_pg:id":1020025,
+        "qs_pg:id":373497,
         "wd:id":"Q696095"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1020025
     },
     "wof:country":"AT",
     "wof:geomhash":"1a4c282b444cf30ef5c7b072160c319d",
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":101789107,
-    "wof:lastmodified":1563246163,
+    "wof:lastmodified":1566599168,
     "wof:name":"Obdach",
     "wof:parent_id":1108838939,
     "wof:placetype":"locality",

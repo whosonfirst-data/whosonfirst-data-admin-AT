@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1855498.516255,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.295959,46.666401,14.295959,46.666401",
     "geom:latitude":46.666401,
     "geom:longitude":14.295959,
     "iso:country":"AT",
+    "lbl:bbox":"14.290959,46.661401,14.300959,46.671401",
     "lbl:latitude":46.666401,
     "lbl:longitude":14.295959,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.667998,
     "mps:longitude":14.298211,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Tessendorf"
-    ],
-    "name:unk_x_variant":[
         "Tessendorf"
     ],
     "qs:gn_adm0_cc":"AT",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108838181,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2763790,
         "gp:id":540702,
-        "qs:id":988386,
         "qs_pg:id":988386
     },
     "wof:country":"AT",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531932045,
+    "wof:lastmodified":1566597468,
     "wof:name":"Tessendorf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

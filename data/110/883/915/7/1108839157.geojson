@@ -19,8 +19,11 @@
     "iso:country":"AT",
     "lbl:latitude":47.003694,
     "lbl:longitude":15.384654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Seiersberg-Pirka"
     ],
@@ -49,7 +52,7 @@
         "\u0417\u0430\u0458\u0435\u0440\u0441\u0431\u0435\u0440\u0433-\u041f\u0438\u0440\u043a\u0430"
     ],
     "src:geom":"austriaod",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108839157,
-    "wof:lastmodified":1564314020,
+    "wof:lastmodified":1566598390,
     "wof:name":"Seiersberg-Pirka",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

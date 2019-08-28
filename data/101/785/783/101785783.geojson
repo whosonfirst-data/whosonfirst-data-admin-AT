@@ -12,10 +12,13 @@
     "iso:country":"AT",
     "lbl:latitude":48.025437,
     "lbl:longitude":15.426837,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.025437,
     "mps:longitude":15.426837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kirchberg an der Pielach"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Kirchberg an der Pielach"
     ],
-    "name:unk_x_variant":[
-        "Kirchberg"
-    ],
     "name:uzb_x_preferred":[
         "Kirchberg an der Pielach"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         85681671,
@@ -128,7 +128,6 @@
         "fct:id":"0322afc4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2774404,
         "gp:id":542354,
-        "qs:id":1003971,
         "qs_pg:id":1003971,
         "wd:id":"Q616833",
         "wk:page":"Kirchberg an der Pielach"
@@ -149,7 +148,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1563245883,
+    "wof:lastmodified":1566599091,
     "wof:name":"Kirchberg an der Pielach",
     "wof:parent_id":1108835003,
     "wof:placetype":"locality",
