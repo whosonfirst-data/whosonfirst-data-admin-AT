@@ -1112,6 +1112,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1168,6 +1169,10 @@
     },
     "wof:country":"AT",
     "wof:country_alpha3":"AUT",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"cf2a484097d4609038081f78b4b09645",
     "wof:hierarchy":[
         {
@@ -1185,7 +1190,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1566597452,
+    "wof:lastmodified":1582381779,
     "wof:name":"Austria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
