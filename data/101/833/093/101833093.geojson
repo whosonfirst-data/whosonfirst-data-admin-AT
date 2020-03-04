@@ -373,6 +373,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -395,6 +396,10 @@
         "qs_pg:id":1200326
     },
     "wof:country":"AT",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b4faa904f6f83408dfb7785a9721b0cb",
     "wof:hierarchy":[
         {
@@ -407,7 +412,7 @@
         }
     ],
     "wof:id":101833093,
-    "wof:lastmodified":1566599059,
+    "wof:lastmodified":1582381848,
     "wof:name":"Eisenstadt",
     "wof:parent_id":1108838617,
     "wof:placetype":"locality",
