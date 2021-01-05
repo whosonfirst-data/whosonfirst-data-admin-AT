@@ -58,8 +58,11 @@
     "name:ell_x_preferred":[
         "\u03a6\u03bf\u03cd\u03ba\u03b9\u03bd\u03b3\u03ba"
     ],
-    "name:eng_x_preferred":[
+    "name:eng_x_historical":[
         "Fucking"
+    ],
+    "name:eng_x_preferred":[
+        "Fugging"
     ],
     "name:epo_x_preferred":[
         "Fucking"
@@ -217,11 +220,11 @@
     "woe:name_adm1":"Ober\u00f6sterreich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85681677,
         102191581,
-        1108834801,
         85632785,
-        102049833
+        102049833,
+        1108834801,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -244,8 +247,8 @@
         }
     ],
     "wof:id":1125929885,
-    "wof:lastmodified":1566599257,
-    "wof:name":"Fucking",
+    "wof:lastmodified":1609867470,
+    "wof:name":"Fugging",
     "wof:parent_id":1108834801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-at",
