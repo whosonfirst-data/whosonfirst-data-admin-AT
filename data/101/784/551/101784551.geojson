@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000893,
     "geom:area_square_m":7358576.740802,
-    "geom:bbox":"13.4558900171,48.1860453599,13.507999531,48.2224646768",
+    "geom:bbox":"13.4558900171231,48.1860453598981,13.5079995309876,48.222464676821",
     "geom:latitude":48.205325,
     "geom:longitude":13.485138,
     "gn:population":11511,
@@ -51,11 +51,11 @@
         "Ried im Innkreis"
     ],
     "name:eng_x_preferred":[
-        "Reid"
+        "Ried im Innkreis"
     ],
     "name:eng_x_variant":[
         "Ried",
-        "Ried im Innkreis"
+        "Reid"
     ],
     "name:est_x_preferred":[
         "Ried im Innkreis"
@@ -189,11 +189,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85681677,
         102191581,
-        1108835679,
         85632785,
-        102049851
+        102049851,
+        1108835679,
+        85681677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -223,7 +223,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1582381855,
+    "wof:lastmodified":1614365572,
     "wof:name":"Ried im Innkreis",
     "wof:parent_id":1108835679,
     "wof:placetype":"locality",
