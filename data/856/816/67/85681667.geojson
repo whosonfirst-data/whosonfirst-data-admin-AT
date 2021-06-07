@@ -10,14 +10,24 @@
     "geom:latitude":48.208443,
     "geom:longitude":16.377844,
     "iso:country":"AT",
+    "label:deu_x_preferred_longname":[
+        "Wien"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "l\u00e4nder"
+    ],
+    "label:deu_x_preferred_shortcode":[
+        "WI"
+    ],
     "label:eng_x_preferred_longname":[
-        "Wien State"
+        "Vienna"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "WI"
+    "label:eng_x_variant_longname":[
+        "State of Vienna",
+        "Vienna State"
     ],
     "lbl:latitude":48.202846,
     "lbl:longitude":16.381603,
@@ -170,10 +180,10 @@
         "\u0392\u03b9\u03ad\u03bd\u03bd\u03b7"
     ],
     "name:eng_x_preferred":[
-        "Wien"
+        "Vienna"
     ],
     "name:eng_x_variant":[
-        "Vienna"
+        "Wien"
     ],
     "name:epo_x_preferred":[
         "Vieno"
@@ -771,7 +781,8 @@
         "hasc:id":"AT.WI",
         "iso:id":"AT-9",
         "unlc:id":"AT-9",
-        "wd:id":"Q1741"
+        "wd:id":"Q1741",
+        "wk:page":"Vienna"
     },
     "wof:coterminous":[
         101748073,
@@ -799,7 +810,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1607996894,
+    "wof:lastmodified":1623097156,
     "wof:name":"Wien",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

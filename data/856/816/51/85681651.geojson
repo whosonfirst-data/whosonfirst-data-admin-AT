@@ -13,14 +13,23 @@
     "geom:latitude":47.543481,
     "geom:longitude":16.522756,
     "iso:country":"AT",
+    "label:deu_x_preferred_longname":[
+        "Burgenland"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "l\u00e4nder"
+    ],
+    "label:deu_x_preferred_shortcode":[
+        "BU"
+    ],
     "label:eng_x_preferred_longname":[
         "Burgenland State"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "BU"
+    "label:eng_x_variant_longname":[
+        "State of Burgenland"
     ],
     "lbl:latitude":47.26185,
     "lbl:longitude":16.271512,
@@ -433,7 +442,8 @@
         "hasc:id":"AT.BU",
         "iso:id":"AT-1",
         "unlc:id":"AT-1",
-        "wd:id":"Q43210"
+        "wd:id":"Q43210",
+        "wk:page":"Burgenland"
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -457,7 +467,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1583882640,
+    "wof:lastmodified":1623097095,
     "wof:name":"Burgenland",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
