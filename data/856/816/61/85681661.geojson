@@ -10,14 +10,23 @@
     "geom:latitude":47.194665,
     "geom:longitude":11.50173,
     "iso:country":"AT",
+    "label:deu_x_preferred_longname":[
+        "Tirol"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "l\u00e4nder"
+    ],
+    "label:deu_x_preferred_shortcode":[
+        "TR"
+    ],
     "label:eng_x_preferred_longname":[
-        "Tirol State"
+        "Tyrol State"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "TR"
+    "label:eng_x_variant_longname":[
+        "State of Tyrol"
     ],
     "lbl:latitude":47.123291,
     "lbl:longitude":10.876187,
@@ -83,10 +92,10 @@
         "\u03a4\u03b9\u03c1\u03cc\u03bb\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Tirol"
+        "Tyrol"
     ],
     "name:eng_x_variant":[
-        "Tyrol"
+        "Tirol"
     ],
     "name:epo_x_preferred":[
         "Tirolo"
@@ -420,7 +429,8 @@
         "hasc:id":"AT.TR",
         "iso:id":"AT-7",
         "unlc:id":"AT-7",
-        "wd:id":"Q42880"
+        "wd:id":"Q42880",
+        "wk:page":"Tyrol_(state)"
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -444,7 +454,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1583882650,
+    "wof:lastmodified":1623097125,
     "wof:name":"Tirol",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

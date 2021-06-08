@@ -10,14 +10,23 @@
     "geom:latitude":48.137095,
     "geom:longitude":13.965282,
     "iso:country":"AT",
+    "label:deu_x_preferred_longname":[
+        "Ober\u00f6sterreich"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "l\u00e4nder"
+    ],
+    "label:deu_x_preferred_shortcode":[
+        "OO"
+    ],
     "label:eng_x_preferred_longname":[
-        "Ober\u00f6sterreich State"
+        "Upper Austria State"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "OO"
+    "label:eng_x_variant_longname":[
+        "State of Upper Austria"
     ],
     "lbl:latitude":48.152911,
     "lbl:longitude":13.982183,
@@ -417,7 +426,8 @@
         "hasc:id":"AT.OO",
         "iso:id":"AT-4",
         "unlc:id":"AT-4",
-        "wd:id":"Q41967"
+        "wd:id":"Q41967",
+        "wk:page":"Upper_Austria"
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -441,7 +451,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1617130365,
+    "wof:lastmodified":1623097110,
     "wof:name":"Ober\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

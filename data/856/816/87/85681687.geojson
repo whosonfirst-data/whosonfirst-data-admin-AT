@@ -10,14 +10,23 @@
     "geom:latitude":47.2691,
     "geom:longitude":15.011878,
     "iso:country":"AT",
+    "label:deu_x_preferred_longname":[
+        "Steiermark"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "l\u00e4nder"
+    ],
+    "label:deu_x_preferred_shortcode":[
+        "ST"
+    ],
     "label:eng_x_preferred_longname":[
-        "Steiermark State"
+        "Styria State"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "ST"
+    "label:eng_x_variant_longname":[
+        "State of Styria"
     ],
     "lbl:latitude":47.216225,
     "lbl:longitude":15.427609,
@@ -74,10 +83,10 @@
         "\u03a3\u03c4\u03c5\u03c1\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
-        "Steiermark"
+        "Styria"
     ],
     "name:eng_x_variant":[
-        "Styria"
+        "Steiermark"
     ],
     "name:epo_x_preferred":[
         "Stirio"
@@ -92,7 +101,7 @@
         "\u0627\u0634\u062a\u0627\u06cc\u0631\u0645\u0627\u0631\u06a9"
     ],
     "name:fil_x_preferred":[
-        "Steiermark Wappen.svg|55px"
+        "Steiermark Wappen"
     ],
     "name:fra_x_preferred":[
         "Styrie"
@@ -329,7 +338,9 @@
         "gp:id":2344713,
         "hasc:id":"AT.ST",
         "iso:id":"AT-6",
-        "unlc:id":"AT-6"
+        "unlc:id":"AT-6",
+        "wd:id":"Q41358",
+        "wk:page":"Styria"
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -353,7 +364,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1583882648,
+    "wof:lastmodified":1623097120,
     "wof:name":"Steiermark",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

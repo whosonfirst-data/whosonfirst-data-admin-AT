@@ -10,14 +10,23 @@
     "geom:latitude":48.272132,
     "geom:longitude":15.751646,
     "iso:country":"AT",
+    "label:deu_x_preferred_longname":[
+        "Nieder\u00f6sterreich"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "l\u00e4nder"
+    ],
+    "label:deu_x_preferred_shortcode":[
+        "NO"
+    ],
     "label:eng_x_preferred_longname":[
-        "Nieder\u00f6sterreich State"
+        "Lower Austria State"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "NO"
+    "label:eng_x_variant_longname":[
+        "State of Lower Austria"
     ],
     "lbl:latitude":48.305564,
     "lbl:longitude":15.636522,
@@ -439,7 +448,8 @@
         "hasc:id":"AT.NO",
         "iso:id":"AT-3",
         "unlc:id":"AT-3",
-        "wd:id":"Q42497"
+        "wd:id":"Q42497",
+        "wk:page":"Lower_Austria"
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -463,7 +473,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1583882643,
+    "wof:lastmodified":1623097105,
     "wof:name":"Nieder\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

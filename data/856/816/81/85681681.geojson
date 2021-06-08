@@ -10,14 +10,23 @@
     "geom:latitude":47.38854,
     "geom:longitude":13.084288,
     "iso:country":"AT",
+    "label:deu_x_preferred_longname":[
+        "Salzburg"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "l\u00e4nder"
+    ],
+    "label:deu_x_preferred_shortcode":[
+        "SZ"
+    ],
     "label:eng_x_preferred_longname":[
         "Salzburg State"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "SZ"
+    "label:eng_x_variant_longname":[
+        "State of Salzburg"
     ],
     "lbl:latitude":47.347177,
     "lbl:longitude":13.243764,
@@ -415,7 +424,8 @@
         "hasc:id":"AT.SZ",
         "iso:id":"AT-5",
         "unlc:id":"AT-5",
-        "wd:id":"Q43325"
+        "wd:id":"Q43325",
+        "wk:page":"Salzburg_(state)"
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -439,7 +449,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1583882647,
+    "wof:lastmodified":1623097114,
     "wof:name":"Salzburg",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

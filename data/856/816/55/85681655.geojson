@@ -10,14 +10,23 @@
     "geom:latitude":46.773915,
     "geom:longitude":13.917563,
     "iso:country":"AT",
+    "label:deu_x_preferred_longname":[
+        "K\u00e4rnten"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "l\u00e4nder"
+    ],
+    "label:deu_x_preferred_shortcode":[
+        "KA"
+    ],
     "label:eng_x_preferred_longname":[
-        "K\u00e4rnten State"
+        "Carinthia State"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "KA"
+    "label:eng_x_variant_longname":[
+        "State of Carinthia"
     ],
     "lbl:latitude":46.751447,
     "lbl:longitude":14.180591,
@@ -429,7 +438,8 @@
         "hasc:id":"AT.KA",
         "iso:id":"AT-2",
         "unlc:id":"AT-2",
-        "wd:id":"Q37985"
+        "wd:id":"Q37985",
+        "wk:page":"Carinthia"
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -453,7 +463,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1583882641,
+    "wof:lastmodified":1623097100,
     "wof:name":"K\u00e4rnten",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

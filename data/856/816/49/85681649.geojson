@@ -10,14 +10,23 @@
     "geom:latitude":47.2385,
     "geom:longitude":9.896785,
     "iso:country":"AT",
+    "label:deu_x_preferred_longname":[
+        "Vorarlberg"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "l\u00e4nder"
+    ],
+    "label:deu_x_preferred_shortcode":[
+        "VO"
+    ],
     "label:eng_x_preferred_longname":[
         "Vorarlberg State"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
     ],
-    "label:eng_x_preferred_shortcode":[
-        "VO"
+    "label:eng_x_variant_longname":[
+        "State of Vorarlberg"
     ],
     "lbl:latitude":47.254268,
     "lbl:longitude":9.891515,
@@ -439,7 +448,8 @@
         "hasc:id":"AT.VO",
         "iso:id":"AT-8",
         "unlc:id":"AT-8",
-        "wd:id":"Q38981"
+        "wd:id":"Q38981",
+        "wk:page":"Vorarlberg"
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -463,7 +473,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1583882652,
+    "wof:lastmodified":1623097159,
     "wof:name":"Vorarlberg",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
