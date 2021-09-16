@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.7876916667,47.2922305556,12.7876916667,47.2922305556",
+    "geom:bbox":"12.787692,47.292231,12.787692,47.292231",
     "geom:latitude":47.292231,
     "geom:longitude":12.787692,
     "iso:country":"AT",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Zell am See Airport"
+    ],
+    "name:eng_x_variant":[
+        "LOWZ"
     ],
     "name:epo_x_preferred":[
         "Flughaveno Zell am See"
@@ -68,7 +71,7 @@
         "wd:id":"Q689419"
     },
     "wof:country":"AT",
-    "wof:geomhash":"f54c04f1e6ec61e42cb51683d7113175",
+    "wof:geomhash":"c179449b0d07512160662c03e3738d93",
     "wof:hierarchy":[
         {
             "campus_id":102556277,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102556277,
-    "wof:lastmodified":1566597136,
+    "wof:lastmodified":1631755602,
     "wof:name":"Flugplatz Zell Am See",
     "wof:parent_id":101912403,
     "wof:placetype":"campus",
@@ -91,10 +94,10 @@
     ]
 },
   "bbox": [
-    12.787691666667,
-    47.292230555556,
-    12.787691666667,
-    47.292230555556
+    12.787692,
+    47.292231,
+    12.787692,
+    47.292231
 ],
-  "geometry": {"coordinates":[12.787691666667,47.292230555556],"type":"Point"}
+  "geometry": {"coordinates":[12.787692,47.292231],"type":"Point"}
 }
