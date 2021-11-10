@@ -39,6 +39,9 @@
     "name:bar_x_preferred":[
         "Neistod"
     ],
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09c7\u09a8\u09be\u09b0 \u09a8\u09bf\u0989\u09b8\u09cd\u09a4\u09be\u09a6"
+    ],
     "name:bos_x_preferred":[
         "Be\u010dko Novo Mjesto"
     ],
@@ -86,6 +89,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05e0\u05e8 \u05e0\u05d5\u05d9\u05e9\u05d8\u05d0\u05d3\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0907\u0928\u0930 \u0928\u094d\u092f\u0942\u0938\u094d\u091f\u0948\u0921"
     ],
     "name:hrv_x_preferred":[
         "Be\u010dko Novo Mjesto"
@@ -218,8 +224,8 @@
     "wof:belongsto":[
         102191581,
         85632785,
-        102049795,
-        85681671
+        85681671,
+        102049795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -243,7 +249,7 @@
         }
     ],
     "wof:id":1108834997,
-    "wof:lastmodified":1607996936,
+    "wof:lastmodified":1636505047,
     "wof:name":"Wiener Neustadt",
     "wof:parent_id":102049795,
     "wof:placetype":"localadmin",

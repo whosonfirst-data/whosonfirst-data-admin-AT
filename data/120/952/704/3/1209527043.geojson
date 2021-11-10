@@ -52,6 +52,9 @@
     "name:fra_x_preferred":[
         "Steinbach"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d9\u05d9\u05d1\u05d0\u05da"
+    ],
     "name:hun_x_preferred":[
         "Steinbach"
     ],
@@ -73,6 +76,9 @@
     "name:rus_x_preferred":[
         "\u0428\u0442\u0430\u0439\u043d\u0431\u0430\u0445"
     ],
+    "name:spa_x_preferred":[
+        "Steinbach"
+    ],
     "name:swe_x_preferred":[
         "Steinbach"
     ],
@@ -89,7 +95,7 @@
         "gn:id":2764539
     },
     "wof:country":"AT",
-    "wof:geomhash":"21e7a48bd15190c18fe06065a9842cd8",
+    "wof:geomhash":"8ec6c270db077052c17d1f9eb50be459",
     "wof:hierarchy":[
         {
             "country_id":85632785,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1209527043,
-    "wof:lastmodified":1566597863,
+    "wof:lastmodified":1636505046,
     "wof:name":"Steinbach",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
@@ -110,9 +116,9 @@
 },
   "bbox": [
     16.19539,
-    48.24697000000001,
+    48.24697,
     16.19539,
-    48.24697000000001
+    48.24697
 ],
-  "geometry": {"coordinates":[16.19539,48.24697000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.19539,48.24697],"type":"Point"}
 }
