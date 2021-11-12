@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
     "geom:area_square_m":3099281.416999,
-    "geom:bbox":"14.9735980312,48.7555997035,14.9996277697,48.7874116949",
+    "geom:bbox":"14.97359803122549,48.75559970353316,14.99962776968812,48.7874116949057",
     "geom:latitude":48.770426,
     "geom:longitude":14.985464,
     "gn:population":5811,
@@ -41,10 +41,10 @@
         "Gm\u00fcnd"
     ],
     "name:eng_x_preferred":[
-        "Cmunt"
+        "Gm\u00fcnd"
     ],
     "name:eng_x_variant":[
-        "Gm\u00fcnd"
+        "Cmunt"
     ],
     "name:epo_x_preferred":[
         "Gm\u00fcnd"
@@ -139,11 +139,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85681671,
         102191581,
-        1108835467,
         85632785,
-        102049905
+        102049905,
+        1108835467,
+        85681671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -169,7 +169,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566599132,
+    "wof:lastmodified":1627930493,
     "wof:name":"Gm\u00fcnd",
     "wof:parent_id":1108835467,
     "wof:placetype":"locality",
