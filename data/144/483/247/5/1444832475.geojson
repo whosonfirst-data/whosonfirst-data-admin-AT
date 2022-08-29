@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.0636246273,47.7854135575,13.0636246273,47.7854135575",
+    "geom:bbox":"13.06362462731737,47.78541355747895,13.06362462731737,47.78541355747895",
     "geom:latitude":47.785414,
     "geom:longitude":13.063625,
     "iso:country":"AT",
@@ -24,19 +24,25 @@
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
+        "Herrnau"
+    ],
+    "name:deu_x_variant":[
         "Herrgau"
     ],
     "name:eng_x_preferred":[
+        "Herrnau"
+    ],
+    "name:eng_x_variant":[
         "Herrgau"
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        1108837189,
         85632785,
-        1175610443,
         102049799,
+        1108837189,
+        1175610443,
         85681681
     ],
     "wof:breaches":[],
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":1444832475,
-    "wof:lastmodified":1566598001,
-    "wof:name":"Herrgau",
+    "wof:lastmodified":1661552898,
+    "wof:name":"Herrnau",
     "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
