@@ -29,15 +29,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hochkogel"
+    ],
+    "name:eng_x_variant":[
+        "Hochkugel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85681651,
         102191581,
-        1108838739,
         85632785,
-        102049715
+        102049715,
+        1108838739,
+        85681651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1310719619,
-    "wof:lastmodified":1566598824,
-    "wof:name":"Hochkugel",
+    "wof:lastmodified":1662753924,
+    "wof:name":"Hochkogel",
     "wof:parent_id":1108838739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-at",
