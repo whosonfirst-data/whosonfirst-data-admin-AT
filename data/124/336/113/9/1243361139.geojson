@@ -29,15 +29,24 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "L\u00e4rchberg"
+    ],
+    "name:eng_x_preferred":[
+        "Larchberg"
+    ],
+    "name:eng_x_variant":[
+        "Lassrchberg"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85681687,
         102191581,
-        1108838821,
         85632785,
-        102049733
+        102049733,
+        1108838821,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +65,8 @@
         }
     ],
     "wof:id":1243361139,
-    "wof:lastmodified":1566599539,
-    "wof:name":"Lassrchberg",
+    "wof:lastmodified":1673462343,
+    "wof:name":"L\u00e4rchberg",
     "wof:parent_id":1108838821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-at",
