@@ -11,8 +11,20 @@
     "austriaod:objectid":584,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41338",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarleinsbach",
+    "eurostat:nuts_2021_id":"41338",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"41338",
+    "eurostat:population":2272,
+    "eurostat:population_year":2020,
     "geom:area":0.004492,
-    "geom:area_square_m":36757956.735145,
+    "geom:area_square_m":36757956.735144,
     "geom:bbox":"13.8452548342,48.5229103444,13.9717046137,48.5988081471",
     "geom:latitude":48.561024,
     "geom:longitude":13.906841,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41338",
+        "eurostat:nuts_2021_id":"41338"
+    },
     "wof:country":"AT",
     "wof:created":1490046810,
-    "wof:geomhash":"3c2ece385c351e1d29b88192046b1f71",
+    "wof:geomhash":"f23de560dfa6360be28b5b372363e5e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108836013,
-    "wof:lastmodified":1566598660,
+    "wof:lastmodified":1684351549,
     "wof:name":"Sarleinsbach",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",
+    "wof:population":2272,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

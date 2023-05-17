@@ -11,8 +11,20 @@
     "austriaod:objectid":1193,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alpbach",
+    "eurostat:nuts_2021_id":"70501",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT335",
+    "eurostat:nuts_2021_level_lau":"70501",
+    "eurostat:population":2533,
+    "eurostat:population_year":2020,
     "geom:area":0.006953,
-    "geom:area_square_m":58231404.716086,
+    "geom:area_square_m":58231404.71609,
     "geom:bbox":"11.9122194832,47.3214052099,12.0269176811,47.4174907257",
     "geom:latitude":47.367545,
     "geom:longitude":11.966732,
@@ -101,6 +113,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -108,10 +122,13 @@
         102049771
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70501",
+        "eurostat:nuts_2021_id":"70501"
+    },
     "wof:country":"AT",
     "wof:created":1490046995,
-    "wof:geomhash":"4c7a94d8e5602334c17eeda930ec8e58",
+    "wof:geomhash":"f7f8a6d04b4fa1c3c10575c07628995e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":1108837383,
-    "wof:lastmodified":1566598208,
+    "wof:lastmodified":1684351590,
     "wof:name":"Alpbach",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",
+    "wof:population":2533,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

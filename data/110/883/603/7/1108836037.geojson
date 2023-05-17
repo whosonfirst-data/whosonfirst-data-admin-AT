@@ -11,8 +11,20 @@
     "austriaod:objectid":595,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Engelhartszell",
+    "eurostat:nuts_2021_id":"41407",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41407",
+    "eurostat:population":922,
+    "eurostat:population_year":2020,
     "geom:area":0.002299,
-    "geom:area_square_m":18835423.452412,
+    "geom:area_square_m":18835423.452415,
     "geom:bbox":"13.6660561115,48.463131187,13.7897323415,48.5305006592",
     "geom:latitude":48.49775,
     "geom:longitude":13.709638,
@@ -56,6 +68,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -63,10 +77,13 @@
         102049877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41407",
+        "eurostat:nuts_2021_id":"41407"
+    },
     "wof:country":"AT",
     "wof:created":1490046814,
-    "wof:geomhash":"eb6995a7bcae3f88e5c7c98c60d4c33a",
+    "wof:geomhash":"e31a8333327cfbe70cb4c032606ef071",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +94,12 @@
         }
     ],
     "wof:id":1108836037,
-    "wof:lastmodified":1566598343,
+    "wof:lastmodified":1684351550,
     "wof:name":"Engelhartszell an der Donau",
     "wof:parent_id":102049877,
     "wof:placetype":"localadmin",
+    "wof:population":922,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

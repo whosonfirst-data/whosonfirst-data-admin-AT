@@ -11,8 +11,20 @@
     "austriaod:objectid":1817,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61445",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stadl-Predlitz",
+    "eurostat:nuts_2021_id":"61445",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"61445",
+    "eurostat:population":1679,
+    "eurostat:population_year":2020,
     "geom:area":0.03033,
-    "geom:area_square_m":255680159.984109,
+    "geom:area_square_m":255680159.984068,
     "geom:bbox":"13.7834629843,46.9092763581,14.0791439774,47.1365671722",
     "geom:latitude":47.019281,
     "geom:longitude":13.93649,
@@ -44,6 +56,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -51,10 +65,13 @@
         102049733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61445",
+        "eurostat:nuts_2021_id":"61445"
+    },
     "wof:country":"AT",
     "wof:created":1490047168,
-    "wof:geomhash":"98ca6c031ae91de3d665c50386c87cb2",
+    "wof:geomhash":"8fbb23abd6408710654ac8762a8b40bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +82,12 @@
         }
     ],
     "wof:id":1108838787,
-    "wof:lastmodified":1566598597,
+    "wof:lastmodified":1684351627,
     "wof:name":"Stadl-Predlitz",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",
+    "wof:population":1679,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

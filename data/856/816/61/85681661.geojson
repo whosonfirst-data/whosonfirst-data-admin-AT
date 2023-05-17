@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Tirol",
+    "eurostat:name_local":"Tirol",
+    "eurostat:nuts_2021_id":"AT33",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:population":764102,
+    "eurostat:population_year":2022,
     "geom:area":1.501321,
-    "geom:area_square_m":12614402060.967058,
+    "geom:area_square_m":12614401994.877184,
     "geom:bbox":"10.097827,46.651366,12.965998,47.743038",
     "geom:latitude":47.194665,
     "geom:longitude":11.50173,
@@ -401,8 +411,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"12,650",
     "statoids:area_mi":"4,884",
     "statoids:as_of_date":"2011-10-31",
@@ -423,6 +433,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11581,
+        "eurostat:nuts_2021_id":"AT33",
         "fips:code":"AU07",
         "gn:id":2763586,
         "gp:id":2344714,
@@ -436,7 +447,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bbc37a1f2df5a217d79040c2b4795d11",
+    "wof:geomhash":"b1600219c2e638cb4b65c0ab2640f6eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -454,12 +465,12 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1623097125,
+    "wof:lastmodified":1684351386,
     "wof:name":"Tirol",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
     "wof:placetype_local":"state",
-    "wof:population":712077,
+    "wof:population":764102,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:shortcode":"TR",

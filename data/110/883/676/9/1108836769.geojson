@@ -11,8 +11,20 @@
     "austriaod:objectid":920,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seefeld-Kadolz",
+    "eurostat:nuts_2021_id":"31042",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT125",
+    "eurostat:nuts_2021_level_lau":"31042",
+    "eurostat:population":945,
+    "eurostat:population_year":2020,
     "geom:area":0.002671,
-    "geom:area_square_m":21786745.973761,
+    "geom:area_square_m":21786745.973764,
     "geom:bbox":"16.1490830687,48.6987969716,16.2281417796,48.7487884383",
     "geom:latitude":48.723678,
     "geom:longitude":16.190676,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31042",
+        "eurostat:nuts_2021_id":"31042"
+    },
     "wof:country":"AT",
     "wof:created":1490046910,
-    "wof:geomhash":"002f9669e207fa32fea0f6de46eda13a",
+    "wof:geomhash":"675c73201201e6e48d585d0042cf4ef7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836769,
-    "wof:lastmodified":1566598559,
+    "wof:lastmodified":1684351572,
     "wof:name":"Seefeld - Kadolz",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",
+    "wof:population":945,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

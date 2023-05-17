@@ -11,8 +11,20 @@
     "austriaod:objectid":2029,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Edelsbach bei Feldbach",
+    "eurostat:nuts_2021_id":"62311",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62311",
+    "eurostat:population":1350,
+    "eurostat:population_year":2020,
     "geom:area":0.001908,
-    "geom:area_square_m":16094384.554241,
+    "geom:area_square_m":16094384.554247,
     "geom:bbox":"15.7984220941,46.968127761,15.8540118225,47.0318776183",
     "geom:latitude":46.997099,
     "geom:longitude":15.829501,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62311",
+        "eurostat:nuts_2021_id":"62311"
+    },
     "wof:country":"AT",
     "wof:created":1490047229,
-    "wof:geomhash":"3753941cd1ab460eef255e4f2c1aa8b6",
+    "wof:geomhash":"7e80ded5d90cbc074cb30f1717bec4e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839265,
-    "wof:lastmodified":1566598751,
+    "wof:lastmodified":1684351642,
     "wof:name":"Edelsbach",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",
+    "wof:population":1350,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

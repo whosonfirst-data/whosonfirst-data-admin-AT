@@ -11,8 +11,20 @@
     "austriaod:objectid":1822,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61444",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scheifling",
+    "eurostat:nuts_2021_id":"61444",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"61444",
+    "eurostat:population":2138,
+    "eurostat:population_year":2020,
     "geom:area":0.006792,
-    "geom:area_square_m":57124051.180939,
+    "geom:area_square_m":57124051.180936,
     "geom:bbox":"14.3587382645,47.1087047618,14.5466295829,47.1868271407",
     "geom:latitude":47.145201,
     "geom:longitude":14.451737,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         102049733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61444",
+        "eurostat:nuts_2021_id":"61444"
+    },
     "wof:country":"AT",
     "wof:created":1490047169,
-    "wof:geomhash":"f26e2ab12aea14b18d1efde5e9492d52",
+    "wof:geomhash":"0fb8b2fc8f6602d3b5aa1a005cb74c7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108838797,
-    "wof:lastmodified":1566598549,
+    "wof:lastmodified":1684351628,
     "wof:name":"Scheifling",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",
+    "wof:population":2138,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":973,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eisgarn",
+    "eurostat:nuts_2021_id":"30906",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT124",
+    "eurostat:nuts_2021_level_lau":"30906",
+    "eurostat:population":680,
+    "eurostat:population_year":2020,
     "geom:area":0.002763,
-    "geom:area_square_m":22449165.032453,
+    "geom:area_square_m":22449165.032452,
     "geom:bbox":"15.0538840376,48.8913123972,15.1603048878,48.9488777968",
     "geom:latitude":48.918523,
     "geom:longitude":15.103494,
@@ -112,7 +124,8 @@
     "qs_pg:woe_id":12673945,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -121,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AT_30906",
+        "eurostat:nuts_2021_id":"30906",
         "gn:id":7872874,
         "gp:id":12673945,
         "qs_pg:id":108738
@@ -131,7 +146,7 @@
     },
     "wof:country":"AT",
     "wof:created":1490046926,
-    "wof:geomhash":"a916c0241a619a4664f9e53ba7e944e2",
+    "wof:geomhash":"dda5be600a94beb9491c559604909de6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +157,7 @@
         }
     ],
     "wof:id":1108836887,
-    "wof:lastmodified":1566598235,
+    "wof:lastmodified":1684351575,
     "wof:name":"Eisgarn",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",

@@ -11,8 +11,20 @@
     "austriaod:objectid":2020,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62382",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirchberg an der Raab",
+    "eurostat:nuts_2021_id":"62382",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62382",
+    "eurostat:population":4567,
+    "eurostat:population_year":2020,
     "geom:area":0.005194,
-    "geom:area_square_m":43812301.77602,
+    "geom:area_square_m":43812301.776011,
     "geom:bbox":"15.6793466088,46.9552676985,15.8199317823,47.0249282086",
     "geom:latitude":46.985452,
     "geom:longitude":15.752925,
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         1108892553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62382",
+        "eurostat:nuts_2021_id":"62382"
+    },
     "wof:country":"AT",
     "wof:created":1490047225,
-    "wof:geomhash":"418cb6eb240a1acfa06eb96bdd23986e",
+    "wof:geomhash":"7a66ae58022e21662dbf59472ea3e9bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108839245,
-    "wof:lastmodified":1566598403,
+    "wof:lastmodified":1684351642,
     "wof:name":"Kirchberg",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",
+    "wof:population":4567,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

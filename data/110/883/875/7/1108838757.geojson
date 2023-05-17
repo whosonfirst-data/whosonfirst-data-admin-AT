@@ -11,8 +11,20 @@
     "austriaod:objectid":1804,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_10404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gerersdorf-Sulz",
+    "eurostat:nuts_2021_id":"10404",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT11",
+    "eurostat:nuts_2021_level_3":"AT113",
+    "eurostat:nuts_2021_level_lau":"10404",
+    "eurostat:population":992,
+    "eurostat:population_year":2020,
     "geom:area":0.002562,
-    "geom:area_square_m":21571342.733111,
+    "geom:area_square_m":21571342.733103,
     "geom:bbox":"16.2205486475,47.0423199477,16.2849927438,47.1044559754",
     "geom:latitude":47.075262,
     "geom:longitude":16.249015,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049729
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_10404",
+        "eurostat:nuts_2021_id":"10404"
+    },
     "wof:country":"AT",
     "wof:created":1490047165,
-    "wof:geomhash":"75956aef6316eef01407cee9ab467877",
+    "wof:geomhash":"703fae2618b95871211e493e561c7f67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108838757,
-    "wof:lastmodified":1566598296,
+    "wof:lastmodified":1684351626,
     "wof:name":"Gerersdorf-Sulz",
     "wof:parent_id":102049729,
     "wof:placetype":"localadmin",
+    "wof:population":992,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

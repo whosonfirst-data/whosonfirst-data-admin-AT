@@ -11,8 +11,20 @@
     "austriaod:objectid":1014,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30859",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Velm-G\u00f6tzendorf",
+    "eurostat:nuts_2021_id":"30859",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT126",
+    "eurostat:nuts_2021_level_lau":"30859",
+    "eurostat:population":773,
+    "eurostat:population_year":2020,
     "geom:area":0.002157,
-    "geom:area_square_m":17684364.162442,
+    "geom:area_square_m":17684364.16244,
     "geom:bbox":"16.7599813148,48.4438573223,16.811569357,48.5087441985",
     "geom:latitude":48.471667,
     "geom:longitude":16.788017,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30859",
+        "eurostat:nuts_2021_id":"30859"
+    },
     "wof:country":"AT",
     "wof:created":1490046938,
-    "wof:geomhash":"b5fe4fe5829c797cf85e556b570da12b",
+    "wof:geomhash":"dfa36427637ec11e4ee033b011feb8be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836979,
-    "wof:lastmodified":1566598640,
+    "wof:lastmodified":1684351577,
     "wof:name":"Velm - G\u00f6tzendorf",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",
+    "wof:population":773,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

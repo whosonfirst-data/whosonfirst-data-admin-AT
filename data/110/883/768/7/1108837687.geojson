@@ -11,8 +11,20 @@
     "austriaod:objectid":1328,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Innsbruck",
+    "eurostat:nuts_2021_id":"70101",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT332",
+    "eurostat:nuts_2021_level_lau":"70101",
+    "eurostat:population":131961,
+    "eurostat:population_year":2020,
     "geom:area":0.012471,
-    "geom:area_square_m":104597417.474444,
+    "geom:area_square_m":104597417.474457,
     "geom:bbox":"11.301649,47.210776,11.45596,47.36012",
     "geom:latitude":47.288891,
     "geom:longitude":11.380552,
@@ -350,14 +362,18 @@
     "qs_pg:woe_id":12675340,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
-        102049723,
-        85681661
+        85681661,
+        102049723
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AT_70101",
+        "eurostat:nuts_2021_id":"70101",
         "gp:id":12675340,
         "qs_pg:id":207373
     },
@@ -366,7 +382,7 @@
     ],
     "wof:country":"AT",
     "wof:created":1490047032,
-    "wof:geomhash":"981f31656c54f5d1142258c95e0401e1",
+    "wof:geomhash":"6beefd5625cbf134e86fdfc42eee7aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -377,10 +393,12 @@
         }
     ],
     "wof:id":1108837687,
-    "wof:lastmodified":1607997079,
+    "wof:lastmodified":1684351597,
     "wof:name":"Innsbruck",
     "wof:parent_id":102049723,
     "wof:placetype":"localadmin",
+    "wof:population":131961,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

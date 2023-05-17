@@ -11,8 +11,20 @@
     "austriaod:objectid":903,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30718",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Petronell-Carnuntum",
+    "eurostat:nuts_2021_id":"30718",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT127",
+    "eurostat:nuts_2021_level_lau":"30718",
+    "eurostat:population":1263,
+    "eurostat:population_year":2020,
     "geom:area":0.003065,
-    "geom:area_square_m":25306674.75664,
+    "geom:area_square_m":25306674.756638,
     "geom:bbox":"16.8209956332,48.0732767613,16.9031966346,48.1484697195",
     "geom:latitude":48.113177,
     "geom:longitude":16.861004,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30718",
+        "eurostat:nuts_2021_id":"30718"
+    },
     "wof:country":"AT",
     "wof:created":1490046906,
-    "wof:geomhash":"f29155a9a94c8f80631e12ad93cb7b33",
+    "wof:geomhash":"c6fa0101d9cc15e9f984dd99497546ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836731,
-    "wof:lastmodified":1566598285,
+    "wof:lastmodified":1684351571,
     "wof:name":"Petronell - Carnuntum",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",
+    "wof:population":1263,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

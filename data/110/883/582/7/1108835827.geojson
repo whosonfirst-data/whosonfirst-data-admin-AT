@@ -11,8 +11,20 @@
     "austriaod:objectid":502,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31837",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seebenstein",
+    "eurostat:nuts_2021_id":"31837",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"31837",
+    "eurostat:population":1438,
+    "eurostat:population_year":2020,
     "geom:area":0.001098,
-    "geom:area_square_m":9135356.372437,
+    "geom:area_square_m":9135356.372435,
     "geom:bbox":"16.118010039,47.6810014032,16.1830850315,47.7103274749",
     "geom:latitude":47.695969,
     "geom:longitude":16.148435,
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31837",
+        "eurostat:nuts_2021_id":"31837"
+    },
     "wof:country":"AT",
     "wof:created":1490046785,
-    "wof:geomhash":"c043715761f801a43ce25bf8324c17b2",
+    "wof:geomhash":"c43d3f6f125a1aae2113e79d843d203e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108835827,
-    "wof:lastmodified":1566598708,
+    "wof:lastmodified":1684351543,
     "wof:name":"Seebenstein",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",
+    "wof:population":1438,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Ober\u00f6sterreich",
+    "eurostat:name_local":"Ober\u00f6sterreich",
+    "eurostat:nuts_2021_id":"AT31",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:population":1505140,
+    "eurostat:population_year":2022,
     "geom:area":1.448171,
-    "geom:area_square_m":11950054075.637589,
+    "geom:area_square_m":11950053890.070566,
     "geom:bbox":"12.749241,47.461112,14.99217,48.772567",
     "geom:latitude":48.137095,
     "geom:longitude":13.965282,
@@ -401,8 +411,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"11,978",
     "statoids:area_mi":"4,625",
     "statoids:as_of_date":"2011-10-31",
@@ -423,6 +433,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11573,
+        "eurostat:nuts_2021_id":"AT31",
         "fips:code":"AU04",
         "gn:id":2769848,
         "gp:id":2344711,
@@ -436,7 +447,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a2d1e7073b46bf04a24c951fd0f1c2f",
+    "wof:geomhash":"36669813247a2ea2b092fd43a6808e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -454,12 +465,12 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1677266203,
+    "wof:lastmodified":1684351391,
     "wof:name":"Ober\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
     "wof:placetype_local":"state",
-    "wof:population":1416102,
+    "wof:population":1505140,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:shortcode":"OO",

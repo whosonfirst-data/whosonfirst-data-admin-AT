@@ -11,6 +11,18 @@
     "austriaod:objectid":1180,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70368",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wildermieming",
+    "eurostat:nuts_2021_id":"70368",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT332",
+    "eurostat:nuts_2021_level_lau":"70368",
+    "eurostat:population":972,
+    "eurostat:population_year":2020,
     "geom:area":0.003713,
     "geom:area_square_m":31102191.006926,
     "geom:bbox":"10.9896885523,47.3044850923,11.0553746361,47.3970871829",
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70368",
+        "eurostat:nuts_2021_id":"70368"
+    },
     "wof:country":"AT",
     "wof:created":1490046991,
-    "wof:geomhash":"5b3e6a499f09ee128922cda8522de83d",
+    "wof:geomhash":"77e5401ebf14f579851e9f549eabf813",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108837353,
-    "wof:lastmodified":1566598505,
+    "wof:lastmodified":1684351589,
     "wof:name":"Wildermieming",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",
+    "wof:population":972,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

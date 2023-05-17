@@ -11,8 +11,20 @@
     "austriaod:objectid":1881,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61259",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Liezen",
+    "eurostat:nuts_2021_id":"61259",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT222",
+    "eurostat:nuts_2021_level_lau":"61259",
+    "eurostat:population":8266,
+    "eurostat:population_year":2020,
     "geom:area":0.010977,
-    "geom:area_square_m":91535841.007859,
+    "geom:area_square_m":91535841.007862,
     "geom:bbox":"14.1446879364,47.5430587918,14.3329544252,47.6525381032",
     "geom:latitude":47.59343,
     "geom:longitude":14.2355,
@@ -98,6 +110,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -105,10 +119,13 @@
         102049777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61259",
+        "eurostat:nuts_2021_id":"61259"
+    },
     "wof:country":"AT",
     "wof:created":1490047187,
-    "wof:geomhash":"1ef41060e9cab0bf0119e4b27451ff0e",
+    "wof:geomhash":"301201203991005656a9e4d9a1521425",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":1108838933,
-    "wof:lastmodified":1566598351,
+    "wof:lastmodified":1684351632,
     "wof:name":"Liezen",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",
+    "wof:population":8266,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

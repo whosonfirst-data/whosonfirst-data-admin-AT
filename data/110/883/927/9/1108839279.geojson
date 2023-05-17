@@ -11,8 +11,20 @@
     "austriaod:objectid":2035,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60348",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Stefan ob Stainz",
+    "eurostat:nuts_2021_id":"60348",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"60348",
+    "eurostat:population":3579,
+    "eurostat:population_year":2020,
     "geom:area":0.00582,
-    "geom:area_square_m":49134362.63186,
+    "geom:area_square_m":49134362.631864,
     "geom:bbox":"15.1187455954,46.9097270417,15.2963283247,46.969250233",
     "geom:latitude":46.941871,
     "geom:longitude":15.21725,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049691
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60348",
+        "eurostat:nuts_2021_id":"60348"
+    },
     "wof:country":"AT",
     "wof:created":1490047235,
-    "wof:geomhash":"12e0d8b535c8478fed9ec70b383b3721",
+    "wof:geomhash":"fb79897e6f2135c68b84984b4cd8822a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839279,
-    "wof:lastmodified":1566598729,
+    "wof:lastmodified":1684351643,
     "wof:name":"St. Stefan",
     "wof:parent_id":102049691,
     "wof:placetype":"localadmin",
+    "wof:population":3579,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":38,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40435",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Georgen am Fillmannsbach",
+    "eurostat:nuts_2021_id":"40435",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40435",
+    "eurostat:population":421,
+    "eurostat:population_year":2020,
     "geom:area":0.000869,
-    "geom:area_square_m":7175983.349111,
+    "geom:area_square_m":7175983.34911,
     "geom:bbox":"12.9949168625,48.0973016347,13.052470454,48.1412824148",
     "geom:latitude":48.119411,
     "geom:longitude":13.025095,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40435",
+        "eurostat:nuts_2021_id":"40435"
+    },
     "wof:country":"AT",
     "wof:created":1490046646,
-    "wof:geomhash":"69a752d87a80a2fbe9606092cb40ea56",
+    "wof:geomhash":"7570cf66742c005bdd14c01e0e312306",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108834783,
-    "wof:lastmodified":1566598227,
+    "wof:lastmodified":1684351510,
     "wof:name":"St. Georgen am Fillmannsbach",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",
+    "wof:population":421,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

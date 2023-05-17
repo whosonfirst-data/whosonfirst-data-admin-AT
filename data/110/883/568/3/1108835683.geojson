@@ -11,8 +11,20 @@
     "austriaod:objectid":438,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41227",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Marienkirchen am Hausruck",
+    "eurostat:nuts_2021_id":"41227",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41227",
+    "eurostat:population":877,
+    "eurostat:population_year":2020,
     "geom:area":0.001323,
-    "geom:area_square_m":10908662.749609,
+    "geom:area_square_m":10908662.749604,
     "geom:bbox":"13.5457061564,48.1693820501,13.6136128097,48.2011700406",
     "geom:latitude":48.18532,
     "geom:longitude":13.580922,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41227",
+        "eurostat:nuts_2021_id":"41227"
+    },
     "wof:country":"AT",
     "wof:created":1490046769,
-    "wof:geomhash":"dbbd109e8d4d6cc92cc8ca25863d3a18",
+    "wof:geomhash":"4deb338949c48d38bcc5821b80a0f1ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835683,
-    "wof:lastmodified":1566598195,
+    "wof:lastmodified":1684351539,
     "wof:name":"St. Marienkirchen am Hausruck",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",
+    "wof:population":877,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

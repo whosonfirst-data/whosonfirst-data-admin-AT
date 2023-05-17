@@ -11,8 +11,20 @@
     "austriaod:objectid":608,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41420",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Roman",
+    "eurostat:nuts_2021_id":"41420",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41420",
+    "eurostat:population":1728,
+    "eurostat:population_year":2020,
     "geom:area":0.003867,
-    "geom:area_square_m":31690168.354975,
+    "geom:area_square_m":31690168.354971,
     "geom:bbox":"13.576545894,48.4442563886,13.682189013,48.5226716853",
     "geom:latitude":48.487522,
     "geom:longitude":13.626499,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41420",
+        "eurostat:nuts_2021_id":"41420"
+    },
     "wof:country":"AT",
     "wof:created":1490046817,
-    "wof:geomhash":"2f08f7e5c673c1eaeab43cb1a75235d6",
+    "wof:geomhash":"48abc061fc9498c6ef365b4a694e22cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836067,
-    "wof:lastmodified":1566598654,
+    "wof:lastmodified":1684351551,
     "wof:name":"St. Roman",
     "wof:parent_id":102049877,
     "wof:placetype":"localadmin",
+    "wof:population":1728,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

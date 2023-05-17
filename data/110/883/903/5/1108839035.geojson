@@ -11,6 +11,18 @@
     "austriaod:objectid":1926,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Johann im Saggautal",
+    "eurostat:nuts_2021_id":"61032",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"61032",
+    "eurostat:population":1998,
+    "eurostat:population_year":2020,
     "geom:area":0.003181,
     "geom:area_square_m":26966070.250618,
     "geom:bbox":"15.3382859164,46.6832222893,15.436288613,46.7406734361",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61032",
+        "eurostat:nuts_2021_id":"61032"
+    },
     "wof:country":"AT",
     "wof:created":1490047199,
-    "wof:geomhash":"48b9f2ee3fef4eafda314b60d2937d0f",
+    "wof:geomhash":"ba50233dfe35581c39896ca378234247",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839035,
-    "wof:lastmodified":1566598491,
+    "wof:lastmodified":1684351635,
     "wof:name":"St. Johann",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",
+    "wof:population":1998,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

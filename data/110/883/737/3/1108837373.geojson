@@ -11,8 +11,20 @@
     "austriaod:objectid":1189,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70416",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Johann in Tirol",
+    "eurostat:nuts_2021_id":"70416",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT335",
+    "eurostat:nuts_2021_level_lau":"70416",
+    "eurostat:population":9547,
+    "eurostat:population_year":2020,
     "geom:area":0.007058,
-    "geom:area_square_m":58947952.689335,
+    "geom:area_square_m":58947952.68934,
     "geom:bbox":"12.3560314758,47.4642374127,12.5298604437,47.5588977962",
     "geom:latitude":47.511543,
     "geom:longitude":12.444883,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049763
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70416",
+        "eurostat:nuts_2021_id":"70416"
+    },
     "wof:country":"AT",
     "wof:created":1490046994,
-    "wof:geomhash":"f86ce70d3b5596f015cf4725afeeedc9",
+    "wof:geomhash":"42448b871dab697fe61dc701a58722c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108837373,
-    "wof:lastmodified":1566598171,
+    "wof:lastmodified":1684351590,
     "wof:name":"Sankt Johann in Tirol",
     "wof:parent_id":102049763,
     "wof:placetype":"localadmin",
+    "wof:population":9547,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,6 +11,18 @@
     "austriaod:objectid":40,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40437",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Pantaleon",
+    "eurostat:nuts_2021_id":"40437",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40437",
+    "eurostat:population":3162,
+    "eurostat:population_year":2020,
     "geom:area":0.00221,
     "geom:area_square_m":18278978.378258,
     "geom:bbox":"12.8339933141,47.9909109691,12.9380724261,48.0425364804",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40437",
+        "eurostat:nuts_2021_id":"40437"
+    },
     "wof:country":"AT",
     "wof:created":1490046646,
-    "wof:geomhash":"7ae3bf65d60c48894eb68c3bbd7e7599",
+    "wof:geomhash":"797d9d2cf8796e32d9234cc3c3ff85c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108834789,
-    "wof:lastmodified":1566598226,
+    "wof:lastmodified":1684351510,
     "wof:name":"St. Pantaleon",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",
+    "wof:population":3162,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

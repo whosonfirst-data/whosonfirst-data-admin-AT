@@ -11,8 +11,20 @@
     "austriaod:objectid":2054,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bruck an der Mur",
+    "eurostat:nuts_2021_id":"62139",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62139",
+    "eurostat:population":15787,
+    "eurostat:population_year":2020,
     "geom:area":0.010163,
-    "geom:area_square_m":85066247.477108,
+    "geom:area_square_m":85066247.477098,
     "geom:bbox":"15.1506343716,47.3367861208,15.3603860458,47.4429564545",
     "geom:latitude":47.398892,
     "geom:longitude":15.249062,
@@ -59,6 +71,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -66,10 +80,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62139",
+        "eurostat:nuts_2021_id":"62139"
+    },
     "wof:country":"AT",
     "wof:created":1490047241,
-    "wof:geomhash":"f6613a430f01ceacb234d9eca6e5b96d",
+    "wof:geomhash":"de7d114f3b2bc7244cd34aed0be47584",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +97,12 @@
         }
     ],
     "wof:id":1108839323,
-    "wof:lastmodified":1566598478,
+    "wof:lastmodified":1684351645,
     "wof:name":"Bruck",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":15787,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

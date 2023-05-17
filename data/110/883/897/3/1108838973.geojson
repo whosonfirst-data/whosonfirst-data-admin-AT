@@ -11,8 +11,20 @@
     "austriaod:objectid":1899,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Georgen an der Stiefing",
+    "eurostat:nuts_2021_id":"61055",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"61055",
+    "eurostat:population":1551,
+    "eurostat:population_year":2020,
     "geom:area":0.002211,
-    "geom:area_square_m":18685753.583188,
+    "geom:area_square_m":18685753.583193,
     "geom:bbox":"15.5415539449,46.8581370261,15.6343691224,46.9019681479",
     "geom:latitude":46.880361,
     "geom:longitude":15.581897,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61055",
+        "eurostat:nuts_2021_id":"61055"
+    },
     "wof:country":"AT",
     "wof:created":1490047191,
-    "wof:geomhash":"fc738a22dbbf41a31321822258df97e9",
+    "wof:geomhash":"595fbf76a035efec85c80af844c91c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838973,
-    "wof:lastmodified":1566598704,
+    "wof:lastmodified":1684351633,
     "wof:name":"St. Georgen",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",
+    "wof:population":1551,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

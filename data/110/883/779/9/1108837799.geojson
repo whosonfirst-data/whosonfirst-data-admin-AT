@@ -11,8 +11,20 @@
     "austriaod:objectid":1378,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bach",
+    "eurostat:nuts_2021_id":"70801",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT331",
+    "eurostat:nuts_2021_level_lau":"70801",
+    "eurostat:population":623,
+    "eurostat:population_year":2020,
     "geom:area":0.006759,
-    "geom:area_square_m":56742019.657907,
+    "geom:area_square_m":56742019.657913,
     "geom:bbox":"10.3342834079,47.1965386872,10.4947294539,47.291527054",
     "geom:latitude":47.242838,
     "geom:longitude":10.38991,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70801",
+        "eurostat:nuts_2021_id":"70801"
+    },
     "wof:country":"AT",
     "wof:created":1490047044,
-    "wof:geomhash":"fe54fcc1f1d84a212951e4187e81aa9d",
+    "wof:geomhash":"8819329ec142a6a82c69e04a94686ca5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108837799,
-    "wof:lastmodified":1566598445,
+    "wof:lastmodified":1684351599,
     "wof:name":"Bach",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",
+    "wof:population":623,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

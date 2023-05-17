@@ -11,8 +11,20 @@
     "austriaod:objectid":1200,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70512",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kramsach",
+    "eurostat:nuts_2021_id":"70512",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT335",
+    "eurostat:nuts_2021_level_lau":"70512",
+    "eurostat:population":4985,
+    "eurostat:population_year":2020,
     "geom:area":0.003205,
-    "geom:area_square_m":26797086.138714,
+    "geom:area_square_m":26797086.138716,
     "geom:bbox":"11.8270236469,47.4254193402,11.9309511905,47.4851247014",
     "geom:latitude":47.458905,
     "geom:longitude":11.870288,
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049771
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70512",
+        "eurostat:nuts_2021_id":"70512"
+    },
     "wof:country":"AT",
     "wof:created":1490046996,
-    "wof:geomhash":"17a4e0e351618ad5dd4f496a210b8b20",
+    "wof:geomhash":"f44e78b1a3964800f52ef8129317ce10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108837399,
-    "wof:lastmodified":1566598161,
+    "wof:lastmodified":1684351590,
     "wof:name":"Kramsach",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",
+    "wof:population":4985,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,6 +11,18 @@
     "austriaod:objectid":259,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30856",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strasshof an der Nordbahn",
+    "eurostat:nuts_2021_id":"30856",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT126",
+    "eurostat:nuts_2021_level_lau":"30856",
+    "eurostat:population":10767,
+    "eurostat:population_year":2020,
     "geom:area":0.001417,
     "geom:area_square_m":11655719.565454,
     "geom:bbox":"16.6029644368,48.2954932992,16.683638599,48.3381191148",
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30856",
+        "eurostat:nuts_2021_id":"30856"
+    },
     "wof:country":"AT",
     "wof:created":1490046718,
-    "wof:geomhash":"435052684ee01b3ea2566c2d5718e1db",
+    "wof:geomhash":"1e370a56e5ee6d18c94d7a43844a0b62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835281,
-    "wof:lastmodified":1566598379,
+    "wof:lastmodified":1684351527,
     "wof:name":"Strasshof an der Nordbahn",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",
+    "wof:population":10767,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":390,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grein",
+    "eurostat:nuts_2021_id":"41105",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"41105",
+    "eurostat:population":2910,
+    "eurostat:population_year":2020,
     "geom:area":0.002231,
-    "geom:area_square_m":18375328.429909,
+    "geom:area_square_m":18375328.429904,
     "geom:bbox":"14.8134580467,48.1937350609,14.8886449472,48.2559253255",
     "geom:latitude":48.230642,
     "geom:longitude":14.848257,
@@ -50,6 +62,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -57,10 +71,13 @@
         102049865
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41105",
+        "eurostat:nuts_2021_id":"41105"
+    },
     "wof:country":"AT",
     "wof:created":1490046754,
-    "wof:geomhash":"d594721c1eb1507cfecb23ebcabed951",
+    "wof:geomhash":"068ac14f7892524ebd47cd6d48944024",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +88,12 @@
         }
     ],
     "wof:id":1108835575,
-    "wof:lastmodified":1566598191,
+    "wof:lastmodified":1684351536,
     "wof:name":"Grein",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",
+    "wof:population":2910,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

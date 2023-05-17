@@ -11,8 +11,20 @@
     "austriaod:objectid":2027,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62378",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fehring",
+    "eurostat:nuts_2021_id":"62378",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62378",
+    "eurostat:population":7176,
+    "eurostat:population_year":2020,
     "geom:area":0.010312,
-    "geom:area_square_m":87042734.542093,
+    "geom:area_square_m":87042734.542071,
     "geom:bbox":"15.937887772,46.8927785918,16.0963320362,47.0251101377",
     "geom:latitude":46.951718,
     "geom:longitude":16.011333,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         1108892553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62378",
+        "eurostat:nuts_2021_id":"62378"
+    },
     "wof:country":"AT",
     "wof:created":1490047228,
-    "wof:geomhash":"a076e7fed41eb76bca3a40f9778bf9ee",
+    "wof:geomhash":"3c0ba88d4b1c63596dd839e544c30d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108839261,
-    "wof:lastmodified":1566598750,
+    "wof:lastmodified":1684351642,
     "wof:name":"Fehring",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",
+    "wof:population":7176,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

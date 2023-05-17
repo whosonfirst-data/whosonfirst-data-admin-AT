@@ -11,8 +11,20 @@
     "austriaod:objectid":2064,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62343",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mettersdorf am Sa\u00dfbach",
+    "eurostat:nuts_2021_id":"62343",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62343",
+    "eurostat:population":1282,
+    "eurostat:population_year":2020,
     "geom:area":0.002687,
-    "geom:area_square_m":22736385.989292,
+    "geom:area_square_m":22736385.989287,
     "geom:bbox":"15.6770439003,46.781451128,15.7418379569,46.8534205684",
     "geom:latitude":46.812564,
     "geom:longitude":15.706736,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62343",
+        "eurostat:nuts_2021_id":"62343"
+    },
     "wof:country":"AT",
     "wof:created":1490047245,
-    "wof:geomhash":"d556aa3f760aae7d355bff1df593d5d9",
+    "wof:geomhash":"35ed181db272e42dad250c15788efea1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839345,
-    "wof:lastmodified":1566598535,
+    "wof:lastmodified":1684351646,
     "wof:name":"Mettersdorf",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",
+    "wof:population":1282,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

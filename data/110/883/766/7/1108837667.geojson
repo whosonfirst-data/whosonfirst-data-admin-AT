@@ -11,8 +11,20 @@
     "austriaod:objectid":1319,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70347",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Sigmund im Sellrain",
+    "eurostat:nuts_2021_id":"70347",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT332",
+    "eurostat:nuts_2021_level_lau":"70347",
+    "eurostat:population":175,
+    "eurostat:population_year":2020,
     "geom:area":0.012134,
-    "geom:area_square_m":102045546.016398,
+    "geom:area_square_m":102045546.01639,
     "geom:bbox":"11.0385676783,47.065416565,11.1708726891,47.2251277835",
     "geom:latitude":47.147111,
     "geom:longitude":11.103172,
@@ -77,6 +89,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -84,10 +98,13 @@
         102049735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70347",
+        "eurostat:nuts_2021_id":"70347"
+    },
     "wof:country":"AT",
     "wof:created":1490047029,
-    "wof:geomhash":"c206eb62bcf61d8a28ce580257af1ff0",
+    "wof:geomhash":"d7c88fa21b5a8325ad55c540accb98dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +115,12 @@
         }
     ],
     "wof:id":1108837667,
-    "wof:lastmodified":1566598540,
+    "wof:lastmodified":1684351596,
     "wof:name":"Sankt Sigmund im Sellrain",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",
+    "wof:population":175,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

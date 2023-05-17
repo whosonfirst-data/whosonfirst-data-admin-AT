@@ -11,8 +11,20 @@
     "austriaod:objectid":823,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fischlham",
+    "eurostat:nuts_2021_id":"41807",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT312",
+    "eurostat:nuts_2021_level_lau":"41807",
+    "eurostat:population":1358,
+    "eurostat:population_year":2020,
     "geom:area":0.00189,
-    "geom:area_square_m":15606086.607247,
+    "geom:area_square_m":15606086.607248,
     "geom:bbox":"13.9101432624,48.0703968824,14.0042646419,48.1162986657",
     "geom:latitude":48.093,
     "geom:longitude":13.953086,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049831
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41807",
+        "eurostat:nuts_2021_id":"41807"
+    },
     "wof:country":"AT",
     "wof:created":1490046885,
-    "wof:geomhash":"a20848b85646f3617136f86f104f1ed7",
+    "wof:geomhash":"924213c6e517e811b60750c113f0f569",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108836551,
-    "wof:lastmodified":1566598627,
+    "wof:lastmodified":1684351566,
     "wof:name":"Fischlham",
     "wof:parent_id":102049831,
     "wof:placetype":"localadmin",
+    "wof:population":1358,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

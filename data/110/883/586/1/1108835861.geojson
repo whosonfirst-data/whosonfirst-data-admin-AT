@@ -11,8 +11,20 @@
     "austriaod:objectid":517,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sitzenberg-Reidling",
+    "eurostat:nuts_2021_id":"32132",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT126",
+    "eurostat:nuts_2021_level_lau":"32132",
+    "eurostat:population":2240,
+    "eurostat:population_year":2020,
     "geom:area":0.002686,
-    "geom:area_square_m":22085787.287063,
+    "geom:area_square_m":22085787.287059,
     "geom:bbox":"15.7601714163,48.2853389563,15.8574800984,48.3361836848",
     "geom:latitude":48.315334,
     "geom:longitude":15.815012,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32132",
+        "eurostat:nuts_2021_id":"32132"
+    },
     "wof:country":"AT",
     "wof:created":1490046790,
-    "wof:geomhash":"e14e93f5865d77806e9b92032a1fd270",
+    "wof:geomhash":"feaedce9cfa291ccf2fc983246399189",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835861,
-    "wof:lastmodified":1566598394,
+    "wof:lastmodified":1684351544,
     "wof:name":"Sitzenberg - Reidling",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",
+    "wof:population":2240,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

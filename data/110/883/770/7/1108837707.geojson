@@ -11,8 +11,20 @@
     "austriaod:objectid":1337,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70934",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tux",
+    "eurostat:nuts_2021_id":"70934",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT335",
+    "eurostat:nuts_2021_level_lau":"70934",
+    "eurostat:population":1959,
+    "eurostat:population_year":2020,
     "geom:area":0.013178,
-    "geom:area_square_m":110842640.215515,
+    "geom:area_square_m":110842640.215522,
     "geom:bbox":"11.6326983645,47.0528894291,11.7816305755,47.2050241025",
     "geom:latitude":47.139182,
     "geom:longitude":11.702075,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70934",
+        "eurostat:nuts_2021_id":"70934"
+    },
     "wof:country":"AT",
     "wof:created":1490047034,
-    "wof:geomhash":"5768b6e4188812c8bada78a7f11a633b",
+    "wof:geomhash":"6aa8715f5b0333eb6ef84e0405142b59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108837707,
-    "wof:lastmodified":1566598442,
+    "wof:lastmodified":1684351597,
     "wof:name":"Tux",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",
+    "wof:population":1959,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

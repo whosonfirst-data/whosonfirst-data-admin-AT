@@ -11,8 +11,20 @@
     "austriaod:objectid":1158,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70611",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kaunertal",
+    "eurostat:nuts_2021_id":"70611",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT334",
+    "eurostat:nuts_2021_level_lau":"70611",
+    "eurostat:population":599,
+    "eurostat:population_year":2020,
     "geom:area":0.022864,
-    "geom:area_square_m":193011779.277155,
+    "geom:area_square_m":193011779.277126,
     "geom:bbox":"10.6615492542,46.8225132338,10.8216060144,47.0718521277",
     "geom:latitude":46.945575,
     "geom:longitude":10.742077,
@@ -80,6 +92,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -87,10 +101,13 @@
         102049707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70611",
+        "eurostat:nuts_2021_id":"70611"
+    },
     "wof:country":"AT",
     "wof:created":1490046986,
-    "wof:geomhash":"f8f0eaa19a29974735107908760bf988",
+    "wof:geomhash":"41b8a52d7075485a17c0c5a9819c0aae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":1108837303,
-    "wof:lastmodified":1566598166,
+    "wof:lastmodified":1684351588,
     "wof:name":"Kaunertal",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",
+    "wof:population":599,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

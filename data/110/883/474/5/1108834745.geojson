@@ -11,8 +11,20 @@
     "austriaod:objectid":21,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40418",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lengau",
+    "eurostat:nuts_2021_id":"40418",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40418",
+    "eurostat:population":4819,
+    "eurostat:population_year":2020,
     "geom:area":0.00702,
-    "geom:area_square_m":58050159.644974,
+    "geom:area_square_m":58050159.644969,
     "geom:bbox":"13.1914893749,47.9813135796,13.3301178967,48.0698464418",
     "geom:latitude":48.027388,
     "geom:longitude":13.256645,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40418",
+        "eurostat:nuts_2021_id":"40418"
+    },
     "wof:country":"AT",
     "wof:created":1490046641,
-    "wof:geomhash":"e5ef06e07eddeba04294d7c19bfcff88",
+    "wof:geomhash":"5ea34f45713ab1b725c48a155781ced0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108834745,
-    "wof:lastmodified":1566598607,
+    "wof:lastmodified":1684351509,
     "wof:name":"Lengau",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",
+    "wof:population":4819,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

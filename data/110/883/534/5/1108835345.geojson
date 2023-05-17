@@ -11,8 +11,20 @@
     "austriaod:objectid":287,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Andr\u00e4-W\u00f6rdern",
+    "eurostat:nuts_2021_id":"32142",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT126",
+    "eurostat:nuts_2021_level_lau":"32142",
+    "eurostat:population":7836,
+    "eurostat:population_year":2020,
     "geom:area":0.00477,
-    "geom:area_square_m":39217561.090549,
+    "geom:area_square_m":39217561.090544,
     "geom:bbox":"16.1655077985,48.2678138851,16.2704597846,48.366941146",
     "geom:latitude":48.324849,
     "geom:longitude":16.215404,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32142",
+        "eurostat:nuts_2021_id":"32142"
+    },
     "wof:country":"AT",
     "wof:created":1490046725,
-    "wof:geomhash":"81f15455769849626bb972af469fa5e8",
+    "wof:geomhash":"dc07ef1236480c7135adc311f897caad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835345,
-    "wof:lastmodified":1566598165,
+    "wof:lastmodified":1684351529,
     "wof:name":"St. Andr\u00e4 - W\u00f6rdern",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",
+    "wof:population":7836,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

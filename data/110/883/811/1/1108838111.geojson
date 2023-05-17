@@ -11,8 +11,20 @@
     "austriaod:objectid":1517,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20918",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Paul im Lavanttal",
+    "eurostat:nuts_2021_id":"20918",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT213",
+    "eurostat:nuts_2021_level_lau":"20918",
+    "eurostat:population":3273,
+    "eurostat:population_year":2020,
     "geom:area":0.005584,
-    "geom:area_square_m":47357762.462317,
+    "geom:area_square_m":47357762.462313,
     "geom:bbox":"14.7705634159,46.666997607,14.9270963737,46.7369186836",
     "geom:latitude":46.698691,
     "geom:longitude":14.846949,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049693
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20918",
+        "eurostat:nuts_2021_id":"20918"
+    },
     "wof:country":"AT",
     "wof:created":1490047084,
-    "wof:geomhash":"1668e052877b29dc878fe57d91bd249a",
+    "wof:geomhash":"157827e6f11389773e4c25427f3e496a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838111,
-    "wof:lastmodified":1566598242,
+    "wof:lastmodified":1684351607,
     "wof:name":"Sankt Paul Im Lavanttal",
     "wof:parent_id":102049693,
     "wof:placetype":"localadmin",
+    "wof:population":3273,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

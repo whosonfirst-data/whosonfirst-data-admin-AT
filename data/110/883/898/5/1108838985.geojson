@@ -11,8 +11,20 @@
     "austriaod:objectid":1904,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wald am Schoberpa\u00df",
+    "eurostat:nuts_2021_id":"61119",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"61119",
+    "eurostat:population":543,
+    "eurostat:population_year":2020,
     "geom:area":0.010768,
-    "geom:area_square_m":90078143.471772,
+    "geom:area_square_m":90078143.471778,
     "geom:bbox":"14.6011948896,47.3633369944,14.7316110909,47.4983725229",
     "geom:latitude":47.429783,
     "geom:longitude":14.663842,
@@ -98,6 +110,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -105,10 +119,13 @@
         102049769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61119",
+        "eurostat:nuts_2021_id":"61119"
+    },
     "wof:country":"AT",
     "wof:created":1490047193,
-    "wof:geomhash":"0bc89e3e230562c0e9161dc319995d36",
+    "wof:geomhash":"eec7db79743240e8cb2d91043bca3db8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":1108838985,
-    "wof:lastmodified":1566598656,
+    "wof:lastmodified":1684351634,
     "wof:name":"Wald",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",
+    "wof:population":543,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

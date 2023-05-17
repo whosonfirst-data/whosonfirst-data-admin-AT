@@ -11,8 +11,20 @@
     "austriaod:objectid":1219,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Leonhard im Pitztal",
+    "eurostat:nuts_2021_id":"70217",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT334",
+    "eurostat:nuts_2021_level_lau":"70217",
+    "eurostat:population":1384,
+    "eurostat:population_year":2020,
     "geom:area":0.026441,
-    "geom:area_square_m":222991523.725895,
+    "geom:area_square_m":222991523.725888,
     "geom:bbox":"10.7578865984,46.8812047431,10.9251976214,47.1324501013",
     "geom:latitude":46.99681,
     "geom:longitude":10.844247,
@@ -80,6 +92,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -87,10 +101,13 @@
         102049727
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70217",
+        "eurostat:nuts_2021_id":"70217"
+    },
     "wof:country":"AT",
     "wof:created":1490047001,
-    "wof:geomhash":"5af98a702b0cf55b689e9e36d9d30f65",
+    "wof:geomhash":"9816cbf283fe11a1c1c86d54e5f5ef59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":1108837441,
-    "wof:lastmodified":1566598711,
+    "wof:lastmodified":1684351591,
     "wof:name":"Sankt Leonhard im Pitztal",
     "wof:parent_id":102049727,
     "wof:placetype":"localadmin",
+    "wof:population":1384,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

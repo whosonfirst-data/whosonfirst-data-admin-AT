@@ -7,8 +7,18 @@
     ],
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Burgenland",
+    "eurostat:name_local":"Burgenland",
+    "eurostat:nuts_2021_id":"AT11",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT11",
+    "eurostat:population":297583,
+    "eurostat:population_year":2022,
     "geom:area":0.473651,
-    "geom:area_square_m":3953448266.063647,
+    "geom:area_square_m":3953448274.849728,
     "geom:bbox":"15.996236,46.830633,17.160767,48.118682",
     "geom:latitude":47.543481,
     "geom:longitude":16.522756,
@@ -413,8 +423,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"3,965",
     "statoids:area_mi":"1,531",
     "statoids:as_of_date":"2011-10-31",
@@ -436,6 +446,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11578,
+        "eurostat:nuts_2021_id":"AT11",
         "fips:code":"AU01",
         "gn:id":2781194,
         "gp:id":2344708,
@@ -449,7 +460,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"748f18764b8b279c61a8b614faa92db7",
+    "wof:geomhash":"88abaecf436e8be1b9496b6ebb03b7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -467,12 +478,12 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1623097095,
+    "wof:lastmodified":1684351383,
     "wof:name":"Burgenland",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
     "wof:placetype_local":"state",
-    "wof:population":286029,
+    "wof:population":297583,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:shortcode":"BU",

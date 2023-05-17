@@ -11,8 +11,20 @@
     "austriaod:objectid":2091,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00f6ls-Oberkurzheim",
+    "eurostat:nuts_2021_id":"62043",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"62043",
+    "eurostat:population":2961,
+    "eurostat:population_year":2020,
     "geom:area":0.007433,
-    "geom:area_square_m":62410314.832343,
+    "geom:area_square_m":62410314.832342,
     "geom:bbox":"14.4996368134,47.1755382116,14.6408367982,47.2785487775",
     "geom:latitude":47.233617,
     "geom:longitude":14.573625,
@@ -53,6 +65,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -60,10 +74,13 @@
         1108892555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62043",
+        "eurostat:nuts_2021_id":"62043"
+    },
     "wof:country":"AT",
     "wof:created":1490047253,
-    "wof:geomhash":"a0dec015fa0ee079f0e2d8c05ab20308",
+    "wof:geomhash":"663e892f2485339ae214a4b2069b8f3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,10 +91,12 @@
         }
     ],
     "wof:id":1108839405,
-    "wof:lastmodified":1566598420,
+    "wof:lastmodified":1684351648,
     "wof:name":"P\u00f6ls-Oberkurzheim",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",
+    "wof:population":2961,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

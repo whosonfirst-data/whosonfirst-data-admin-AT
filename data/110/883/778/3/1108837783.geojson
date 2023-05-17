@@ -11,8 +11,20 @@
     "austriaod:objectid":1371,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70727",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schlaiten",
+    "eurostat:nuts_2021_id":"70727",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT333",
+    "eurostat:nuts_2021_level_lau":"70727",
+    "eurostat:population":458,
+    "eurostat:population_year":2020,
     "geom:area":0.004319,
-    "geom:area_square_m":36513041.600478,
+    "geom:area_square_m":36513041.600479,
     "geom:bbox":"12.5353029842,46.8404887879,12.6759898423,46.9025198682",
     "geom:latitude":46.868587,
     "geom:longitude":12.607322,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         102049703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70727",
+        "eurostat:nuts_2021_id":"70727"
+    },
     "wof:country":"AT",
     "wof:created":1490047043,
-    "wof:geomhash":"3dee092dcfd64997b51dfbd85cb736e8",
+    "wof:geomhash":"44b150aff63d09bc916795f20bbeee3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108837783,
-    "wof:lastmodified":1566598395,
+    "wof:lastmodified":1684351599,
     "wof:name":"Schlaiten",
     "wof:parent_id":102049703,
     "wof:placetype":"localadmin",
+    "wof:population":458,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

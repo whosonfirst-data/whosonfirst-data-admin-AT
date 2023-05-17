@@ -11,8 +11,20 @@
     "austriaod:objectid":750,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Enzersfeld im Weinviertel",
+    "eurostat:nuts_2021_id":"31202",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT126",
+    "eurostat:nuts_2021_level_lau":"31202",
+    "eurostat:population":1748,
+    "eurostat:population_year":2020,
     "geom:area":0.001196,
-    "geom:area_square_m":9829834.815198,
+    "geom:area_square_m":9829834.815199,
     "geom:bbox":"16.3907028194,48.338825844,16.443933846,48.3808162996",
     "geom:latitude":48.358042,
     "geom:longitude":16.41995,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31202",
+        "eurostat:nuts_2021_id":"31202"
+    },
     "wof:country":"AT",
     "wof:created":1490046865,
-    "wof:geomhash":"6b4346e65fd88c9818d106fb15e92bbb",
+    "wof:geomhash":"8d3f6e7a868370fbdee6cb8b75891954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836385,
-    "wof:lastmodified":1566598695,
+    "wof:lastmodified":1684351561,
     "wof:name":"Enzersfeld im Weinviertel",
     "wof:parent_id":102049887,
     "wof:placetype":"localadmin",
+    "wof:population":1748,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

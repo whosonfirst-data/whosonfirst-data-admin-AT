@@ -11,6 +11,18 @@
     "austriaod:objectid":2002,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60662",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fernitz-Mellach",
+    "eurostat:nuts_2021_id":"60662",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60662",
+    "eurostat:population":4870,
+    "eurostat:population_year":2020,
     "geom:area":0.002425,
     "geom:area_square_m":20468981.969317,
     "geom:bbox":"15.4824407045,46.9039291032,15.5465532312,46.9870462168",
@@ -56,6 +68,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -63,10 +77,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60662",
+        "eurostat:nuts_2021_id":"60662"
+    },
     "wof:country":"AT",
     "wof:created":1490047221,
-    "wof:geomhash":"3f7562beef9e2c44b56552db4db40175",
+    "wof:geomhash":"e5e84f06bcb8cff5ddb04c3a06c4a243",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +94,12 @@
         }
     ],
     "wof:id":1108839205,
-    "wof:lastmodified":1566598725,
+    "wof:lastmodified":1684351640,
     "wof:name":"Fernitz-Mellach",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":4870,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

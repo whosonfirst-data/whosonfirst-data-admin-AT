@@ -11,6 +11,18 @@
     "austriaod:objectid":666,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32333",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Walpersbach",
+    "eurostat:nuts_2021_id":"32333",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"32333",
+    "eurostat:population":1144,
+    "eurostat:population_year":2020,
     "geom:area":0.001978,
     "geom:area_square_m":16459501.688243,
     "geom:bbox":"16.2224836639,47.6802189919,16.2794321476,47.738155147",
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32333",
+        "eurostat:nuts_2021_id":"32333"
+    },
     "wof:country":"AT",
     "wof:created":1490046834,
-    "wof:geomhash":"8e948a8af35f82e4e9144a01188acc74",
+    "wof:geomhash":"2740a6ceb99c517ec99173f00963a5fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108836197,
-    "wof:lastmodified":1566598258,
+    "wof:lastmodified":1684351556,
     "wof:name":"Walpersbach",
     "wof:parent_id":102049787,
     "wof:placetype":"localadmin",
+    "wof:population":1144,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

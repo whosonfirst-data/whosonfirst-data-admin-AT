@@ -11,8 +11,20 @@
     "austriaod:objectid":1723,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_10712",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00f6nchhof",
+    "eurostat:nuts_2021_id":"10712",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT11",
+    "eurostat:nuts_2021_level_3":"AT112",
+    "eurostat:nuts_2021_level_lau":"10712",
+    "eurostat:population":2238,
+    "eurostat:population_year":2020,
     "geom:area":0.004036,
-    "geom:area_square_m":33463801.782424,
+    "geom:area_square_m":33463801.782421,
     "geom:bbox":"16.9013624473,47.8571998676,17.0348498805,47.9378585376",
     "geom:latitude":47.897348,
     "geom:longitude":16.968697,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049841
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_10712",
+        "eurostat:nuts_2021_id":"10712"
+    },
     "wof:country":"AT",
     "wof:created":1490047142,
-    "wof:geomhash":"b7c00f3def5a4e4deee62475bf41fc08",
+    "wof:geomhash":"c4ce94000e41b1ba05580ac0318af847",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108838575,
-    "wof:lastmodified":1566598316,
+    "wof:lastmodified":1684351622,
     "wof:name":"M\u00f6nchhof",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",
+    "wof:population":2238,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

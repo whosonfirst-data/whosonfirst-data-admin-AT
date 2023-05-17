@@ -11,6 +11,18 @@
     "austriaod:objectid":203,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40716",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Konrad",
+    "eurostat:nuts_2021_id":"40716",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT315",
+    "eurostat:nuts_2021_level_lau":"40716",
+    "eurostat:population":1144,
+    "eurostat:population_year":2020,
     "geom:area":0.00232,
     "geom:area_square_m":19230964.285406,
     "geom:bbox":"13.8507072033,47.8745159818,13.9260453231,47.9324473472",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40716",
+        "eurostat:nuts_2021_id":"40716"
+    },
     "wof:country":"AT",
     "wof:created":1490046694,
-    "wof:geomhash":"f7915a63a5d0823bc7f763214ee155e3",
+    "wof:geomhash":"d665fcccf35c2f0aabd3c6cbd543c4e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835155,
-    "wof:lastmodified":1566598792,
+    "wof:lastmodified":1684351523,
     "wof:name":"St. Konrad",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",
+    "wof:population":1144,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

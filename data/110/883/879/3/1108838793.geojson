@@ -11,8 +11,20 @@
     "austriaod:objectid":1820,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61443",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Lambrecht",
+    "eurostat:nuts_2021_id":"61443",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"61443",
+    "eurostat:population":1787,
+    "eurostat:population_year":2020,
     "geom:area":0.008318,
-    "geom:area_square_m":70049159.082094,
+    "geom:area_square_m":70049159.082084,
     "geom:bbox":"14.2363165676,47.0257322723,14.3594405806,47.1271326949",
     "geom:latitude":47.075286,
     "geom:longitude":14.292977,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61443",
+        "eurostat:nuts_2021_id":"61443"
+    },
     "wof:country":"AT",
     "wof:created":1490047169,
-    "wof:geomhash":"dc9621dbe11dfab0564b751359fbc850",
+    "wof:geomhash":"838c11ee3dacc2ffadebfa1ed74eca7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838793,
-    "wof:lastmodified":1566598550,
+    "wof:lastmodified":1684351627,
     "wof:name":"St. Lambrecht",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",
+    "wof:population":1787,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

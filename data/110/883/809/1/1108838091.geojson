@@ -11,6 +11,18 @@
     "austriaod:objectid":1508,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_80240",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wolfurt",
+    "eurostat:nuts_2021_id":"80240",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:nuts_2021_level_3":"AT342",
+    "eurostat:nuts_2021_level_lau":"80240",
+    "eurostat:population":8579,
+    "eurostat:population_year":2020,
     "geom:area":0.001193,
     "geom:area_square_m":9975228.372702,
     "geom:bbox":"9.71224283971,47.4437538591,9.79107835801,47.4854564742",
@@ -95,6 +107,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -102,10 +116,13 @@
         102049751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_80240",
+        "eurostat:nuts_2021_id":"80240"
+    },
     "wof:country":"AT",
     "wof:created":1490047082,
-    "wof:geomhash":"ba9b11493834b29d1f6e315bb3aef071",
+    "wof:geomhash":"f704ffd9e285fd32053705ef1c7fb7a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":1108838091,
-    "wof:lastmodified":1566598643,
+    "wof:lastmodified":1684351606,
     "wof:name":"Wolfurt",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",
+    "wof:population":8579,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

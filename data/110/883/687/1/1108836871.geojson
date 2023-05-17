@@ -11,8 +11,20 @@
     "austriaod:objectid":966,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31511",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hofamt Priel",
+    "eurostat:nuts_2021_id":"31511",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT121",
+    "eurostat:nuts_2021_level_lau":"31511",
+    "eurostat:population":1699,
+    "eurostat:population_year":2020,
     "geom:area":0.004799,
-    "geom:area_square_m":39538556.624008,
+    "geom:area_square_m":39538556.624011,
     "geom:bbox":"14.9795243081,48.1893158378,15.1102712213,48.258060336",
     "geom:latitude":48.2198,
     "geom:longitude":15.062206,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31511",
+        "eurostat:nuts_2021_id":"31511"
+    },
     "wof:country":"AT",
     "wof:created":1490046923,
-    "wof:geomhash":"c3a481d1c3c58975d13cc992a48d941a",
+    "wof:geomhash":"1348c7c4c3414324bce1e8654a24e62e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108836871,
-    "wof:lastmodified":1566598286,
+    "wof:lastmodified":1684351575,
     "wof:name":"Hofamt Priel",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",
+    "wof:population":1699,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

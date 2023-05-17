@@ -11,8 +11,20 @@
     "austriaod:objectid":419,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gurten",
+    "eurostat:nuts_2021_id":"41208",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41208",
+    "eurostat:population":1196,
+    "eurostat:population_year":2020,
     "geom:area":0.001965,
-    "geom:area_square_m":16176332.02932,
+    "geom:area_square_m":16176332.029318,
     "geom:bbox":"13.317910884,48.2227355129,13.3922986583,48.2686835706",
     "geom:latitude":48.246589,
     "geom:longitude":13.352095,
@@ -47,6 +59,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -54,10 +68,13 @@
         102049851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41208",
+        "eurostat:nuts_2021_id":"41208"
+    },
     "wof:country":"AT",
     "wof:created":1490046763,
-    "wof:geomhash":"e9c3bfca8594f74596b30517097022bc",
+    "wof:geomhash":"a6f0c9541a000e8659a827851e395164",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +85,12 @@
         }
     ],
     "wof:id":1108835641,
-    "wof:lastmodified":1566598488,
+    "wof:lastmodified":1684351538,
     "wof:name":"Gurten",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",
+    "wof:population":1196,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

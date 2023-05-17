@@ -11,8 +11,20 @@
     "austriaod:objectid":1988,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60666",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nestelbach bei Graz",
+    "eurostat:nuts_2021_id":"60666",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60666",
+    "eurostat:population":2640,
+    "eurostat:population_year":2020,
     "geom:area":0.00324,
-    "geom:area_square_m":27293142.592234,
+    "geom:area_square_m":27293142.592247,
     "geom:bbox":"15.5874428365,47.0099211677,15.6882969464,47.0911015852",
     "geom:latitude":47.051763,
     "geom:longitude":15.630949,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60666",
+        "eurostat:nuts_2021_id":"60666"
+    },
     "wof:country":"AT",
     "wof:created":1490047217,
-    "wof:geomhash":"1c289e0aaf222ba5b5debcbc6737df01",
+    "wof:geomhash":"26eb90af754c85ad1ad2ecd94244175a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839173,
-    "wof:lastmodified":1566598765,
+    "wof:lastmodified":1684351639,
     "wof:name":"Nestelbach",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":2640,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

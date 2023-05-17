@@ -11,8 +11,20 @@
     "austriaod:objectid":30,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40427",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neukirchen an der Enknach",
+    "eurostat:nuts_2021_id":"40427",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40427",
+    "eurostat:population":2296,
+    "eurostat:population_year":2020,
     "geom:area":0.004016,
-    "geom:area_square_m":33102639.709039,
+    "geom:area_square_m":33102639.709047,
     "geom:bbox":"12.9622452845,48.1373154398,13.0788484673,48.2357262049",
     "geom:latitude":48.188793,
     "geom:longitude":13.029133,
@@ -77,6 +89,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -84,10 +98,13 @@
         102049833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40427",
+        "eurostat:nuts_2021_id":"40427"
+    },
     "wof:country":"AT",
     "wof:created":1490046644,
-    "wof:geomhash":"df52e2f1e8ca70c480bd23499ecac4e6",
+    "wof:geomhash":"d3512fc6e00878d508af4399b8fd4756",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +115,12 @@
         }
     ],
     "wof:id":1108834765,
-    "wof:lastmodified":1566598241,
+    "wof:lastmodified":1684351509,
     "wof:name":"Neukirchen an der Enknach",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",
+    "wof:population":2296,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":635,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41517",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ternberg",
+    "eurostat:nuts_2021_id":"41517",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT314",
+    "eurostat:nuts_2021_level_lau":"41517",
+    "eurostat:population":3389,
+    "eurostat:population_year":2020,
     "geom:area":0.007476,
-    "geom:area_square_m":61928998.408409,
+    "geom:area_square_m":61928998.408404,
     "geom:bbox":"14.2921467239,47.8827218347,14.4167458467,47.9882926502",
     "geom:latitude":47.93673,
     "geom:longitude":14.353774,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         102049819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41517",
+        "eurostat:nuts_2021_id":"41517"
+    },
     "wof:country":"AT",
     "wof:created":1490046825,
-    "wof:geomhash":"2bb4630b57fee0325cfeef67c8448bfd",
+    "wof:geomhash":"6151705bfa910955a83b4b7b20a720ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108836127,
-    "wof:lastmodified":1566598596,
+    "wof:lastmodified":1684351553,
     "wof:name":"Ternberg",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",
+    "wof:population":3389,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

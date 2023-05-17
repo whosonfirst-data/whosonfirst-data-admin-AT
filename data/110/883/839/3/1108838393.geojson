@@ -11,8 +11,20 @@
     "austriaod:objectid":1642,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad St. Leonhard im Lavanttal",
+    "eurostat:nuts_2021_id":"20901",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT213",
+    "eurostat:nuts_2021_level_lau":"20901",
+    "eurostat:population":4328,
+    "eurostat:population_year":2020,
     "geom:area":0.013225,
-    "geom:area_square_m":111599211.902721,
+    "geom:area_square_m":111599211.902726,
     "geom:bbox":"14.6843463818,46.9122418647,14.9021686608,47.032938535",
     "geom:latitude":46.965738,
     "geom:longitude":14.813334,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049693
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20901",
+        "eurostat:nuts_2021_id":"20901"
+    },
     "wof:country":"AT",
     "wof:created":1490047121,
-    "wof:geomhash":"60201b702f9bbe3fd100cbbd13fc30b6",
+    "wof:geomhash":"8366f92f7e289b0c4c9f9a11e3db90a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838393,
-    "wof:lastmodified":1566598681,
+    "wof:lastmodified":1684351617,
     "wof:name":"Bad Sankt Leonhard Im Lavanttal",
     "wof:parent_id":102049693,
     "wof:placetype":"localadmin",
+    "wof:population":4328,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

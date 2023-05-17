@@ -11,6 +11,18 @@
     "austriaod:objectid":125,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31517",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krummnu\u00dfbaum",
+    "eurostat:nuts_2021_id":"31517",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT121",
+    "eurostat:nuts_2021_level_lau":"31517",
+    "eurostat:population":1534,
+    "eurostat:population_year":2020,
     "geom:area":0.001215,
     "geom:area_square_m":10011766.644206,
     "geom:bbox":"15.1105429307,48.1864584012,15.1883325098,48.2161301399",
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         102049855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31517",
+        "eurostat:nuts_2021_id":"31517"
+    },
     "wof:country":"AT",
     "wof:created":1490046670,
-    "wof:geomhash":"bf9e36b5a22c3a0a7ef7d98fa9470124",
+    "wof:geomhash":"6f1e0b972724b4ef7e6069c6defaee62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108834979,
-    "wof:lastmodified":1566598323,
+    "wof:lastmodified":1684351516,
     "wof:name":"Krummnu\u00dfbaum",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",
+    "wof:population":1534,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -11,8 +11,20 @@
     "austriaod:objectid":480,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30710",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hainburg a.d.Donau",
+    "eurostat:nuts_2021_id":"30710",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT127",
+    "eurostat:nuts_2021_level_lau":"30710",
+    "eurostat:population":6837,
+    "eurostat:population_year":2020,
     "geom:area":0.003025,
-    "geom:area_square_m":24958365.120179,
+    "geom:area_square_m":24958365.120173,
     "geom:bbox":"16.9004661717,48.1212241549,16.9996714813,48.1766111516",
     "geom:latitude":48.149872,
     "geom:longitude":16.951048,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30710",
+        "eurostat:nuts_2021_id":"30710"
+    },
     "wof:country":"AT",
     "wof:created":1490046780,
-    "wof:geomhash":"ed9a606600d8ae36439c0c2e9f8ecfac",
+    "wof:geomhash":"4de590bf40fa5bf8924a70faf8d5976c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835779,
-    "wof:lastmodified":1566598774,
+    "wof:lastmodified":1684351542,
     "wof:name":"Hainburg a. d. Donau",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",
+    "wof:population":6837,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

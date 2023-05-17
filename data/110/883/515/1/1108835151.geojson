@@ -11,8 +11,20 @@
     "austriaod:objectid":201,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40714",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinsdorf",
+    "eurostat:nuts_2021_id":"40714",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT315",
+    "eurostat:nuts_2021_level_lau":"40714",
+    "eurostat:population":4029,
+    "eurostat:population_year":2020,
     "geom:area":0.001504,
-    "geom:area_square_m":12457979.088513,
+    "geom:area_square_m":12457979.088508,
     "geom:bbox":"13.7075336929,47.9130181903,13.7858383826,47.9588180396",
     "geom:latitude":47.931734,
     "geom:longitude":13.746185,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40714",
+        "eurostat:nuts_2021_id":"40714"
+    },
     "wof:country":"AT",
     "wof:created":1490046694,
-    "wof:geomhash":"22bf3f3f737392748477c162513901bc",
+    "wof:geomhash":"3e7d8b2e4851b08fc262f02b8d611b8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835151,
-    "wof:lastmodified":1566598792,
+    "wof:lastmodified":1684351523,
     "wof:name":"Pinsdorf",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",
+    "wof:population":4029,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

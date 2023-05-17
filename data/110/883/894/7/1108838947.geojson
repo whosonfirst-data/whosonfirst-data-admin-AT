@@ -11,8 +11,20 @@
     "austriaod:objectid":1887,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61266",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00f6lk",
+    "eurostat:nuts_2021_id":"61266",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT222",
+    "eurostat:nuts_2021_level_lau":"61266",
+    "eurostat:population":1498,
+    "eurostat:population_year":2020,
     "geom:area":0.034322,
-    "geom:area_square_m":287657814.49919,
+    "geom:area_square_m":287657814.499197,
     "geom:bbox":"13.821330836,47.2487014382,14.1409316928,47.447374593",
     "geom:latitude":47.328604,
     "geom:longitude":13.975141,
@@ -44,6 +56,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -51,10 +65,13 @@
         102049777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61266",
+        "eurostat:nuts_2021_id":"61266"
+    },
     "wof:country":"AT",
     "wof:created":1490047189,
-    "wof:geomhash":"b21d4202637b0e3e85a360180df018bf",
+    "wof:geomhash":"a0403f5f7310c025acabcb9c0345d427",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +82,12 @@
         }
     ],
     "wof:id":1108838947,
-    "wof:lastmodified":1566598347,
+    "wof:lastmodified":1684351633,
     "wof:name":"S\u00f6lk",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",
+    "wof:population":1498,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

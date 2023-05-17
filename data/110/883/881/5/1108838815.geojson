@@ -11,8 +11,20 @@
     "austriaod:objectid":1830,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61628",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Geistthal-S\u00f6dingberg",
+    "eurostat:nuts_2021_id":"61628",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"61628",
+    "eurostat:population":1496,
+    "eurostat:population_year":2020,
     "geom:area":0.006241,
-    "geom:area_square_m":52490577.627423,
+    "geom:area_square_m":52490577.627419,
     "geom:bbox":"15.1114937855,47.0650633832,15.2191668146,47.2111136644",
     "geom:latitude":47.144021,
     "geom:longitude":15.160023,
@@ -50,6 +62,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -57,10 +71,13 @@
         102049717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61628",
+        "eurostat:nuts_2021_id":"61628"
+    },
     "wof:country":"AT",
     "wof:created":1490047171,
-    "wof:geomhash":"2842f8170d48aee5bda4e6dcdb3df5af",
+    "wof:geomhash":"37bdc5ca3e27ccbe4b742520acaee45b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +88,12 @@
         }
     ],
     "wof:id":1108838815,
-    "wof:lastmodified":1566598295,
+    "wof:lastmodified":1684351628,
     "wof:name":"Geistthal-S\u00f6dingberg",
     "wof:parent_id":102049717,
     "wof:placetype":"localadmin",
+    "wof:population":1496,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

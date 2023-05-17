@@ -11,8 +11,20 @@
     "austriaod:objectid":196,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40709",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hallstatt",
+    "eurostat:nuts_2021_id":"40709",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT315",
+    "eurostat:nuts_2021_level_lau":"40709",
+    "eurostat:population":754,
+    "eurostat:population_year":2020,
     "geom:area":0.007138,
-    "geom:area_square_m":59591820.273101,
+    "geom:area_square_m":59591820.27311,
     "geom:bbox":"13.551572658,47.4749910802,13.6721326619,47.5937362331",
     "geom:latitude":47.536749,
     "geom:longitude":13.622022,
@@ -182,6 +194,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -189,10 +203,13 @@
         102049807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40709",
+        "eurostat:nuts_2021_id":"40709"
+    },
     "wof:country":"AT",
     "wof:created":1490046692,
-    "wof:geomhash":"42e8d5f06d01cdcee60c393825abfc9e",
+    "wof:geomhash":"cba4da195ab26f59d4014ceac87e7030",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +220,12 @@
         }
     ],
     "wof:id":1108835139,
-    "wof:lastmodified":1566598740,
+    "wof:lastmodified":1684351522,
     "wof:name":"Hallstatt",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",
+    "wof:population":754,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

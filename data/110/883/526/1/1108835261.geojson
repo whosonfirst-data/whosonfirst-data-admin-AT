@@ -11,8 +11,20 @@
     "austriaod:objectid":250,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40909",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molln",
+    "eurostat:nuts_2021_id":"40909",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT314",
+    "eurostat:nuts_2021_level_lau":"40909",
+    "eurostat:population":3621,
+    "eurostat:population_year":2020,
     "geom:area":0.023004,
-    "geom:area_square_m":190896346.03623,
+    "geom:area_square_m":190896346.03625,
     "geom:bbox":"14.1553344046,47.7822950496,14.4153414825,47.9226640515",
     "geom:latitude":47.846929,
     "geom:longitude":14.29301,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40909",
+        "eurostat:nuts_2021_id":"40909"
+    },
     "wof:country":"AT",
     "wof:created":1490046716,
-    "wof:geomhash":"c2f18f614ea5068b242f2c56105cc93b",
+    "wof:geomhash":"40518f8ae576ec5b42b24add2fd9569f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835261,
-    "wof:lastmodified":1566598384,
+    "wof:lastmodified":1684351526,
     "wof:name":"Molln",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",
+    "wof:population":3621,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":2102,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62268",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grafendorf bei Hartberg",
+    "eurostat:nuts_2021_id":"62268",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62268",
+    "eurostat:population":3161,
+    "eurostat:population_year":2020,
     "geom:area":0.005444,
-    "geom:area_square_m":45609273.947597,
+    "geom:area_square_m":45609273.947593,
     "geom:bbox":"15.8871161821,47.3049922543,16.0233869206,47.3811633252",
     "geom:latitude":47.346929,
     "geom:longitude":15.958874,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62268",
+        "eurostat:nuts_2021_id":"62268"
+    },
     "wof:country":"AT",
     "wof:created":1490047256,
-    "wof:geomhash":"4a6d9e7428c8fc4935e867e370cb5e45",
+    "wof:geomhash":"8d0f496b704976ff982aa6145636d312",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839431,
-    "wof:lastmodified":1566598785,
+    "wof:lastmodified":1684351648,
     "wof:name":"Grafendorf",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",
+    "wof:population":3161,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

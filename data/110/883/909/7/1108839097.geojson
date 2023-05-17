@@ -11,8 +11,20 @@
     "austriaod:objectid":1954,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62244",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Johann in der Haide",
+    "eurostat:nuts_2021_id":"62244",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62244",
+    "eurostat:population":2194,
+    "eurostat:population_year":2020,
     "geom:area":0.002803,
-    "geom:area_square_m":23512511.372896,
+    "geom:area_square_m":23512511.372894,
     "geom:bbox":"15.9943318171,47.2459438775,16.076391293,47.313828144",
     "geom:latitude":47.28161,
     "geom:longitude":16.034597,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62244",
+        "eurostat:nuts_2021_id":"62244"
+    },
     "wof:country":"AT",
     "wof:created":1490047206,
-    "wof:geomhash":"9f80c357936eaf421e3b796a971a3aed",
+    "wof:geomhash":"e7da145146bc4beed69c8e7109e86e85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839097,
-    "wof:lastmodified":1566598128,
+    "wof:lastmodified":1684351637,
     "wof:name":"St. Johann",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",
+    "wof:population":2194,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

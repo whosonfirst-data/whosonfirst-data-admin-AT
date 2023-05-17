@@ -11,8 +11,20 @@
     "austriaod:objectid":2052,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pernegg an der Mur",
+    "eurostat:nuts_2021_id":"62125",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62125",
+    "eurostat:population":2364,
+    "eurostat:population_year":2020,
     "geom:area":0.010247,
-    "geom:area_square_m":85829607.506707,
+    "geom:area_square_m":85829607.506692,
     "geom:bbox":"15.2416791333,47.3077640693,15.4234487337,47.4101348337",
     "geom:latitude":47.357398,
     "geom:longitude":15.343623,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62125",
+        "eurostat:nuts_2021_id":"62125"
+    },
     "wof:country":"AT",
     "wof:created":1490047241,
-    "wof:geomhash":"f0b1a9a1e5622e2e109ebfd6afb05d82",
+    "wof:geomhash":"f78f345667fdb82247ab0b1a6cde85e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108839317,
-    "wof:lastmodified":1566598139,
+    "wof:lastmodified":1684351645,
     "wof:name":"Pernegg",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":2364,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1059,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_50201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abtenau",
+    "eurostat:nuts_2021_id":"50201",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT32",
+    "eurostat:nuts_2021_level_3":"AT323",
+    "eurostat:nuts_2021_level_lau":"50201",
+    "eurostat:population":5886,
+    "eurostat:population_year":2020,
     "geom:area":0.022386,
-    "geom:area_square_m":186686316.281552,
+    "geom:area_square_m":186686316.281542,
     "geom:bbox":"13.2721559009,47.5098720216,13.4847662619,47.6790872931",
     "geom:latitude":47.590612,
     "geom:longitude":13.368164,
@@ -95,6 +107,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -102,10 +116,13 @@
         102049773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_50201",
+        "eurostat:nuts_2021_id":"50201"
+    },
     "wof:country":"AT",
     "wof:created":1490046952,
-    "wof:geomhash":"1e3607d7959cb8c62612311d6c9c33a1",
+    "wof:geomhash":"c26f41468863ed49a26d63da38b63fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":1108837081,
-    "wof:lastmodified":1566598168,
+    "wof:lastmodified":1684351582,
     "wof:name":"Abtenau",
     "wof:parent_id":102049773,
     "wof:placetype":"localadmin",
+    "wof:population":5886,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

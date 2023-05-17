@@ -11,6 +11,18 @@
     "austriaod:objectid":1981,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60669",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seiersberg-Pirka",
+    "eurostat:nuts_2021_id":"60669",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60669",
+    "eurostat:population":11408,
+    "eurostat:population_year":2020,
     "geom:area":0.002054,
     "geom:area_square_m":17322658.555419,
     "geom:bbox":"15.355686644,46.9857259468,15.441407112,47.0238240899",
@@ -53,6 +65,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -60,10 +74,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60669",
+        "eurostat:nuts_2021_id":"60669"
+    },
     "wof:country":"AT",
     "wof:created":1490047215,
-    "wof:geomhash":"eca163f5a4cae1e43f6595152056b4dc",
+    "wof:geomhash":"f840ceaf9805136f5d49f9977be71d18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,10 +91,12 @@
         }
     ],
     "wof:id":1108839157,
-    "wof:lastmodified":1566598390,
+    "wof:lastmodified":1684351639,
     "wof:name":"Seiersberg-Pirka",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":11408,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

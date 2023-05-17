@@ -11,8 +11,20 @@
     "austriaod:objectid":1925,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Nikolai im Sausal",
+    "eurostat:nuts_2021_id":"61033",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"61033",
+    "eurostat:population":2281,
+    "eurostat:population_year":2020,
     "geom:area":0.003085,
-    "geom:area_square_m":26104551.055841,
+    "geom:area_square_m":26104551.055838,
     "geom:bbox":"15.4020474959,46.7925825185,15.4850855149,46.854132044",
     "geom:latitude":46.823904,
     "geom:longitude":15.448629,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61033",
+        "eurostat:nuts_2021_id":"61033"
+    },
     "wof:country":"AT",
     "wof:created":1490047199,
-    "wof:geomhash":"84ab4d7cab190e3315edfc200a208514",
+    "wof:geomhash":"9e72976f814806aaf122caf2bc0ced36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839031,
-    "wof:lastmodified":1566598491,
+    "wof:lastmodified":1684351635,
     "wof:name":"St. Nikolai",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",
+    "wof:population":2281,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

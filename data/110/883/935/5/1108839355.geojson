@@ -11,6 +11,18 @@
     "austriaod:objectid":2069,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61633",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00f6ding-Sankt Johann",
+    "eurostat:nuts_2021_id":"61633",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"61633",
+    "eurostat:population":4105,
+    "eurostat:population_year":2020,
     "geom:area":0.002293,
     "geom:area_square_m":19332171.797948,
     "geom:bbox":"15.2200365237,46.9824313681,15.3122461069,47.0297339233",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61633",
+        "eurostat:nuts_2021_id":"61633"
+    },
     "wof:country":"AT",
     "wof:created":1490047247,
-    "wof:geomhash":"788f586e919792d7707ebb5641088a34",
+    "wof:geomhash":"40fac98336d09b2617918c08630a41fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839355,
-    "wof:lastmodified":1566598486,
+    "wof:lastmodified":1684351646,
     "wof:name":"S\u00f6ding-St. Johann",
     "wof:parent_id":102049717,
     "wof:placetype":"localadmin",
+    "wof:population":4105,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

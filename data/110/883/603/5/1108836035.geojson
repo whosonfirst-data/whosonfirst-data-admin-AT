@@ -11,8 +11,20 @@
     "austriaod:objectid":594,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eggerding",
+    "eurostat:nuts_2021_id":"41406",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41406",
+    "eurostat:population":1337,
+    "eurostat:population_year":2020,
     "geom:area":0.002708,
-    "geom:area_square_m":22253523.761389,
+    "geom:area_square_m":22253523.761385,
     "geom:bbox":"13.4210387315,48.3285701821,13.5340514383,48.3840341259",
     "geom:latitude":48.354491,
     "geom:longitude":13.483105,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41406",
+        "eurostat:nuts_2021_id":"41406"
+    },
     "wof:country":"AT",
     "wof:created":1490046813,
-    "wof:geomhash":"92c6684514fa1bf226dcdf8ca29b39a7",
+    "wof:geomhash":"e975ab0be27b8881bbc30f5cebc62541",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108836035,
-    "wof:lastmodified":1566598344,
+    "wof:lastmodified":1684351550,
     "wof:name":"Eggerding",
     "wof:parent_id":102049877,
     "wof:placetype":"localadmin",
+    "wof:population":1337,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1605,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20639",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wei\u00dfensee",
+    "eurostat:nuts_2021_id":"20639",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT212",
+    "eurostat:nuts_2021_level_lau":"20639",
+    "eurostat:population":761,
+    "eurostat:population_year":2020,
     "geom:area":0.009192,
-    "geom:area_square_m":77942398.63899,
+    "geom:area_square_m":77942398.638993,
     "geom:bbox":"13.2286452514,46.6551179187,13.4416087129,46.7379461642",
     "geom:latitude":46.703922,
     "geom:longitude":13.349872,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049701
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20639",
+        "eurostat:nuts_2021_id":"20639"
+    },
     "wof:country":"AT",
     "wof:created":1490047112,
-    "wof:geomhash":"edff438f93ae034153972fe6b747c1a6",
+    "wof:geomhash":"de69d775367d19ffc65a248f1d75eff7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838309,
-    "wof:lastmodified":1566598670,
+    "wof:lastmodified":1684351615,
     "wof:name":"Weissensee",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",
+    "wof:population":761,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

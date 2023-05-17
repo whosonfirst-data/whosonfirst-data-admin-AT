@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Wien",
+    "eurostat:name_local":"Wien",
+    "eurostat:nuts_2021_id":"AT13",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT13",
+    "eurostat:population":1931593,
+    "eurostat:population_year":2022,
     "geom:area":0.050199,
-    "geom:area_square_m":413660996.487677,
+    "geom:area_square_m":413660996.487747,
     "geom:bbox":"16.18183,48.117903,16.577514,48.322667",
     "geom:latitude":48.208443,
     "geom:longitude":16.377844,
@@ -753,8 +763,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"415",
     "statoids:area_mi":"160",
     "statoids:as_of_date":"2011-10-31",
@@ -775,6 +785,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11587,
+        "eurostat:nuts_2021_id":"AT13",
         "fips:code":"AU09",
         "gn:id":2761367,
         "gp:id":2344716,
@@ -792,7 +803,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"210cf515571d300d24f78bb56bd0defd",
+    "wof:geomhash":"193c5d0666c2c97848097f295673a722",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -810,7 +821,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1623097156,
+    "wof:lastmodified":1684351388,
     "wof:name":"Wien",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
@@ -818,7 +829,7 @@
         "county"
     ],
     "wof:placetype_local":"state",
-    "wof:population":1724381,
+    "wof:population":1931593,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:shortcode":"WI",

@@ -11,8 +11,20 @@
     "austriaod:objectid":1997,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60617",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hart bei Graz",
+    "eurostat:nuts_2021_id":"60617",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60617",
+    "eurostat:population":5242,
+    "eurostat:population_year":2020,
     "geom:area":0.001311,
-    "geom:area_square_m":11041149.175367,
+    "geom:area_square_m":11041149.175369,
     "geom:bbox":"15.4970494382,47.0381460285,15.555383873,47.0788531306",
     "geom:latitude":47.05943,
     "geom:longitude":15.523476,
@@ -80,6 +92,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -87,10 +101,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60617",
+        "eurostat:nuts_2021_id":"60617"
+    },
     "wof:country":"AT",
     "wof:created":1490047219,
-    "wof:geomhash":"0f80c4853857cdc6cdef68247980355c",
+    "wof:geomhash":"498dd0243e939e7d4a21a1b9077d66d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":1108839193,
-    "wof:lastmodified":1566598754,
+    "wof:lastmodified":1684351640,
     "wof:name":"Hart",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":5242,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

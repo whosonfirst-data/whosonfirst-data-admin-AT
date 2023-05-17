@@ -11,8 +11,20 @@
     "austriaod:objectid":979,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30810",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dr\u00f6sing",
+    "eurostat:nuts_2021_id":"30810",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT125",
+    "eurostat:nuts_2021_level_lau":"30810",
+    "eurostat:population":1128,
+    "eurostat:population_year":2020,
     "geom:area":0.003585,
-    "geom:area_square_m":29348188.453768,
+    "geom:area_square_m":29348188.453765,
     "geom:bbox":"16.8368477416,48.5157795553,16.9539607512,48.569494769",
     "geom:latitude":48.539068,
     "geom:longitude":16.900656,
@@ -115,7 +127,8 @@
     "qs_pg:woe_id":12673912,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -124,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AT_30810",
+        "eurostat:nuts_2021_id":"30810",
         "gn:id":2780665,
         "gp:id":12673912,
         "qs_pg:id":1195605
@@ -134,7 +149,7 @@
     },
     "wof:country":"AT",
     "wof:created":1490046927,
-    "wof:geomhash":"082b72957ed86d0d25cf2a85b4ffe9be",
+    "wof:geomhash":"6c5153673214c3a0943ac5a5802a5acf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +160,7 @@
         }
     ],
     "wof:id":1108836901,
-    "wof:lastmodified":1566598639,
+    "wof:lastmodified":1684351575,
     "wof:name":"Dr\u00f6sing",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

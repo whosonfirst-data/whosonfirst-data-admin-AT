@@ -11,8 +11,20 @@
     "austriaod:objectid":1982,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60642",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Radegund bei Graz",
+    "eurostat:nuts_2021_id":"60642",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60642",
+    "eurostat:population":2144,
+    "eurostat:population_year":2020,
     "geom:area":0.00256,
-    "geom:area_square_m":21516492.870973,
+    "geom:area_square_m":21516492.870981,
     "geom:bbox":"15.4417376883,47.1494806584,15.520190295,47.2100094801",
     "geom:latitude":47.179364,
     "geom:longitude":15.481487,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60642",
+        "eurostat:nuts_2021_id":"60642"
+    },
     "wof:country":"AT",
     "wof:created":1490047216,
-    "wof:geomhash":"15265f4ec83fa75a482e7324587f83a7",
+    "wof:geomhash":"b6a849a516b380df3b3ca90fef6780c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839161,
-    "wof:lastmodified":1566598715,
+    "wof:lastmodified":1684351639,
     "wof:name":"St. Radegund",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":2144,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

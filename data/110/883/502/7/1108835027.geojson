@@ -11,8 +11,20 @@
     "austriaod:objectid":146,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zeiselmauer-Wolfpassing",
+    "eurostat:nuts_2021_id":"32140",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT126",
+    "eurostat:nuts_2021_level_lau":"32140",
+    "eurostat:population":2299,
+    "eurostat:population_year":2020,
     "geom:area":0.001544,
-    "geom:area_square_m":12693151.799791,
+    "geom:area_square_m":12693151.799785,
     "geom:bbox":"16.1460549796,48.2927876038,16.2092962029,48.3581670993",
     "geom:latitude":48.324729,
     "geom:longitude":16.178998,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32140",
+        "eurostat:nuts_2021_id":"32140"
+    },
     "wof:country":"AT",
     "wof:created":1490046676,
-    "wof:geomhash":"a5e5ba564d81d2fe66dc106638068eba",
+    "wof:geomhash":"7638dd9d7186baf76a0e8e9d203ce4af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835027,
-    "wof:lastmodified":1566598167,
+    "wof:lastmodified":1684351517,
     "wof:name":"Zeiselmauer - Wolfpassing",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",
+    "wof:population":2299,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

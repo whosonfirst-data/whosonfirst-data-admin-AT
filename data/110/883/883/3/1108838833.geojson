@@ -11,8 +11,20 @@
     "austriaod:objectid":1838,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61437",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krakau",
+    "eurostat:nuts_2021_id":"61437",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"61437",
+    "eurostat:population":1390,
+    "eurostat:population_year":2020,
     "geom:area":0.014686,
-    "geom:area_square_m":123346174.214403,
+    "geom:area_square_m":123346174.214425,
     "geom:bbox":"13.8500031026,47.1619175004,14.0676076785,47.2711098719",
     "geom:latitude":47.215035,
     "geom:longitude":13.963199,
@@ -47,6 +59,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -54,10 +68,13 @@
         102049733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61437",
+        "eurostat:nuts_2021_id":"61437"
+    },
     "wof:country":"AT",
     "wof:created":1490047174,
-    "wof:geomhash":"01a8d321340b00b0de1fd995d91b2852",
+    "wof:geomhash":"0c1418e31468c4f342af4b8af0d0dc71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +85,12 @@
         }
     ],
     "wof:id":1108838833,
-    "wof:lastmodified":1566598556,
+    "wof:lastmodified":1684351629,
     "wof:name":"Krakau",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",
+    "wof:population":1390,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

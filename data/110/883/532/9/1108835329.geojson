@@ -11,8 +11,20 @@
     "austriaod:objectid":280,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30838",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Matzen-Raggendorf",
+    "eurostat:nuts_2021_id":"30838",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT126",
+    "eurostat:nuts_2021_level_lau":"30838",
+    "eurostat:population":2788,
+    "eurostat:population_year":2020,
     "geom:area":0.004346,
-    "geom:area_square_m":35665674.163822,
+    "geom:area_square_m":35665674.163821,
     "geom:bbox":"16.6064942737,48.3760681218,16.7525144698,48.4745542731",
     "geom:latitude":48.414314,
     "geom:longitude":16.681351,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30838",
+        "eurostat:nuts_2021_id":"30838"
+    },
     "wof:country":"AT",
     "wof:created":1490046724,
-    "wof:geomhash":"fa12198b65464c891a57b3ff47e6e0d0",
+    "wof:geomhash":"c11563d49088f522cd2d2828c63b7a27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835329,
-    "wof:lastmodified":1566598215,
+    "wof:lastmodified":1684351528,
     "wof:name":"Matzen - Raggendorf",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",
+    "wof:population":2788,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

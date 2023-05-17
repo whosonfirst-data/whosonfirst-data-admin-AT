@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"\u00d6sterreich",
+    "eurostat:name_local":"\u00d6sterreich",
+    "eurostat:nuts_2021_id":"AT",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:population":8978929,
+    "eurostat:population_year":2022,
     "geom:area":10.033457,
-    "geom:area_square_m":83674200347.191071,
+    "geom:area_square_m":83674200347.190628,
     "geom:bbox":"9.529959,46.372299,17.160703,49.020336",
     "geom:latitude":47.586911,
     "geom:longitude":14.141446,
@@ -1230,7 +1238,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"43",
     "statoids:ds":"A",
     "statoids:fifa":"AUT",
@@ -1260,6 +1269,7 @@
     "wof:concordances":{
         "dbp:id":"Austria",
         "digitalenvoy:country_code":40,
+        "eurostat:nuts_2021_id":"AT",
         "fb:id":"m.0bmjldk",
         "fifa:id":"AUT",
         "fips:code":"AU",
@@ -1289,7 +1299,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"af56c4ad6abd1f1d18511f3f5cfaf53c",
+    "wof:geomhash":"d3e8c77a997932ca77b9b91f17c02973",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1306,11 +1316,11 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1617827723,
+    "wof:lastmodified":1684351312,
     "wof:name":"Austria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":8572895,
+    "wof:population":8978929,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:shortcode":"AT",

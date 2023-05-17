@@ -11,6 +11,18 @@
     "austriaod:objectid":683,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30852",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sch\u00f6nkirchen-Reyersdorf",
+    "eurostat:nuts_2021_id":"30852",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT126",
+    "eurostat:nuts_2021_level_lau":"30852",
+    "eurostat:population":1987,
+    "eurostat:population_year":2020,
     "geom:area":0.002173,
     "geom:area_square_m":17850200.941924,
     "geom:bbox":"16.6575719003,48.3253106155,16.7232871777,48.3884173033",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30852",
+        "eurostat:nuts_2021_id":"30852"
+    },
     "wof:country":"AT",
     "wof:created":1490046838,
-    "wof:geomhash":"65690b0b35e7bb0a7faffa20fc3a3b76",
+    "wof:geomhash":"c0b69b8cf43d838fa0d3de8c96fbdd91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836235,
-    "wof:lastmodified":1566598589,
+    "wof:lastmodified":1684351557,
     "wof:name":"Sch\u00f6nkirchen - Reyersdorf",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",
+    "wof:population":1987,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":634,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41516",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sierning",
+    "eurostat:nuts_2021_id":"41516",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT314",
+    "eurostat:nuts_2021_level_lau":"41516",
+    "eurostat:population":9375,
+    "eurostat:population_year":2020,
     "geom:area":0.00462,
-    "geom:area_square_m":38190292.700017,
+    "geom:area_square_m":38190292.700018,
     "geom:bbox":"14.2280635571,48.0054264591,14.3864452883,48.0906539826",
     "geom:latitude":48.051505,
     "geom:longitude":14.310059,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         102049819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41516",
+        "eurostat:nuts_2021_id":"41516"
+    },
     "wof:country":"AT",
     "wof:created":1490046825,
-    "wof:geomhash":"e738fc5a858c68020d2bf27b9d4d8965",
+    "wof:geomhash":"4034093509660c059cf0ddeb66ef0f81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108836125,
-    "wof:lastmodified":1566598596,
+    "wof:lastmodified":1684351553,
     "wof:name":"Sierning",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",
+    "wof:population":9375,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

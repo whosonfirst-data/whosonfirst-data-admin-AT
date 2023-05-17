@@ -11,8 +11,20 @@
     "austriaod:objectid":799,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41735",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Lorenz",
+    "eurostat:nuts_2021_id":"41735",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT315",
+    "eurostat:nuts_2021_level_lau":"41735",
+    "eurostat:population":2519,
+    "eurostat:population_year":2020,
     "geom:area":0.002832,
-    "geom:area_square_m":23508583.554971,
+    "geom:area_square_m":23508583.554977,
     "geom:bbox":"13.284003914,47.7942229225,13.3980809113,47.8637591282",
     "geom:latitude":47.830233,
     "geom:longitude":13.328888,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41735",
+        "eurostat:nuts_2021_id":"41735"
+    },
     "wof:country":"AT",
     "wof:created":1490046878,
-    "wof:geomhash":"b5a1bca2e0c227cf6f5a3af8dbe7c732",
+    "wof:geomhash":"9a6fd511a11ed53907ee33a98c854d5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836497,
-    "wof:lastmodified":1566598564,
+    "wof:lastmodified":1684351564,
     "wof:name":"St. Lorenz",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",
+    "wof:population":2519,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

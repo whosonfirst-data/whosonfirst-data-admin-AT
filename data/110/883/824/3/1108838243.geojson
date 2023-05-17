@@ -11,8 +11,20 @@
     "austriaod:objectid":1575,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20530",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stra\u00dfburg",
+    "eurostat:nuts_2021_id":"20530",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT213",
+    "eurostat:nuts_2021_level_lau":"20530",
+    "eurostat:population":2011,
+    "eurostat:population_year":2020,
     "geom:area":0.011511,
-    "geom:area_square_m":97236541.282652,
+    "geom:area_square_m":97236541.282665,
     "geom:bbox":"14.2310257664,46.8677038762,14.4526154177,46.9543775479",
     "geom:latitude":46.911299,
     "geom:longitude":14.334185,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20530",
+        "eurostat:nuts_2021_id":"20530"
+    },
     "wof:country":"AT",
     "wof:created":1490047100,
-    "wof:geomhash":"cfd495861aed39da0df9239c3acb975a",
+    "wof:geomhash":"d220d626d502811d839d4757f2f94874",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838243,
-    "wof:lastmodified":1566598570,
+    "wof:lastmodified":1684351613,
     "wof:name":"Strassburg",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",
+    "wof:population":2011,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

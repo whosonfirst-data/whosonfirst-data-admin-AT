@@ -11,8 +11,20 @@
     "austriaod:objectid":69,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31412",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Veit an der G\u00f6lsen",
+    "eurostat:nuts_2021_id":"31412",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"31412",
+    "eurostat:population":3906,
+    "eurostat:population_year":2020,
     "geom:area":0.009435,
-    "geom:area_square_m":78009000.463902,
+    "geom:area_square_m":78009000.46388,
     "geom:bbox":"15.6006484955,47.9654309756,15.7322650627,48.0901079243",
     "geom:latitude":48.035865,
     "geom:longitude":15.668492,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049823
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31412",
+        "eurostat:nuts_2021_id":"31412"
+    },
     "wof:country":"AT",
     "wof:created":1490046654,
-    "wof:geomhash":"68a2abb46460a174971a59564f554df7",
+    "wof:geomhash":"bdba1062af8c03af90a5d729c7180f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108834853,
-    "wof:lastmodified":1566598232,
+    "wof:lastmodified":1684351512,
     "wof:name":"St. Veit an der G\u00f6lsen",
     "wof:parent_id":102049823,
     "wof:placetype":"localadmin",
+    "wof:population":3906,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":328,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31525",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00fcnichreith-Laimbach",
+    "eurostat:nuts_2021_id":"31525",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT121",
+    "eurostat:nuts_2021_level_lau":"31525",
+    "eurostat:population":1637,
+    "eurostat:population_year":2020,
     "geom:area":0.004706,
-    "geom:area_square_m":38721906.361686,
+    "geom:area_square_m":38721906.361697,
     "geom:bbox":"15.0733555978,48.2412267449,15.1786776577,48.3512310415",
     "geom:latitude":48.286707,
     "geom:longitude":15.118152,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31525",
+        "eurostat:nuts_2021_id":"31525"
+    },
     "wof:country":"AT",
     "wof:created":1490046737,
-    "wof:geomhash":"ece77c1bf43087f84a31ef4696b6e106",
+    "wof:geomhash":"81537fe6ee7bf90ad2cd872920f4e666",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835437,
-    "wof:lastmodified":1566598407,
+    "wof:lastmodified":1684351531,
     "wof:name":"M\u00fcnichreith - Laimbach",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",
+    "wof:population":1637,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

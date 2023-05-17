@@ -11,8 +11,20 @@
     "austriaod:objectid":2082,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61740",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puch bei Weiz",
+    "eurostat:nuts_2021_id":"61740",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"61740",
+    "eurostat:population":2042,
+    "eurostat:population_year":2020,
     "geom:area":0.002942,
-    "geom:area_square_m":24709108.020964,
+    "geom:area_square_m":24709108.020963,
     "geom:bbox":"15.6900786312,47.1914348852,15.7720916626,47.2453941275",
     "geom:latitude":47.220343,
     "geom:longitude":15.726199,
@@ -62,6 +74,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -69,10 +83,13 @@
         102049765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61740",
+        "eurostat:nuts_2021_id":"61740"
+    },
     "wof:country":"AT",
     "wof:created":1490047251,
-    "wof:geomhash":"8cbf41e6ed37240242ff391b18e44e48",
+    "wof:geomhash":"2b430a370a6c2ed5bbaa94873b22f784",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +100,12 @@
         }
     ],
     "wof:id":1108839385,
-    "wof:lastmodified":1566598142,
+    "wof:lastmodified":1684351647,
     "wof:name":"Puch",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",
+    "wof:population":2042,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

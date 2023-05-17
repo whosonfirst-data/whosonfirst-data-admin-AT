@@ -11,8 +11,20 @@
     "austriaod:objectid":2095,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Peter ob Judenburg",
+    "eurostat:nuts_2021_id":"62032",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"62032",
+    "eurostat:population":1078,
+    "eurostat:population_year":2020,
     "geom:area":0.005968,
-    "geom:area_square_m":50174564.632826,
+    "geom:area_square_m":50174564.632824,
     "geom:bbox":"14.511892626,47.1136994678,14.6318832899,47.2093350083",
     "geom:latitude":47.159771,
     "geom:longitude":14.570904,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62032",
+        "eurostat:nuts_2021_id":"62032"
+    },
     "wof:country":"AT",
     "wof:created":1490047254,
-    "wof:geomhash":"e8532dc530cf061ccc95dbd86636402e",
+    "wof:geomhash":"ef585d973b5d036658a932e59844cf46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839415,
-    "wof:lastmodified":1566598388,
+    "wof:lastmodified":1684351648,
     "wof:name":"St. Peter ob Judenburg",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",
+    "wof:population":1078,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

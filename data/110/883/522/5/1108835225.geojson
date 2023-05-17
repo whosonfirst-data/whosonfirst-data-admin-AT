@@ -11,8 +11,20 @@
     "austriaod:objectid":234,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40827",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schl\u00fc\u00dflberg",
+    "eurostat:nuts_2021_id":"40827",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40827",
+    "eurostat:population":3050,
+    "eurostat:population_year":2020,
     "geom:area":0.002401,
-    "geom:area_square_m":19781543.157917,
+    "geom:area_square_m":19781543.157918,
     "geom:bbox":"13.8182793179,48.2046782384,13.9099221063,48.2494760033",
     "geom:latitude":48.223899,
     "geom:longitude":13.867809,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40827",
+        "eurostat:nuts_2021_id":"40827"
+    },
     "wof:country":"AT",
     "wof:created":1490046703,
-    "wof:geomhash":"5c4f94d332e9e56d91c08090f78096fe",
+    "wof:geomhash":"3fd5748978a921abcc2507972c1d8287",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108835225,
-    "wof:lastmodified":1566598748,
+    "wof:lastmodified":1684351525,
     "wof:name":"Schl\u00fc\u00dflberg",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":3050,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

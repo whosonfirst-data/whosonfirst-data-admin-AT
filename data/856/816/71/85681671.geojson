@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Nieder\u00f6sterreich",
+    "eurostat:name_local":"Nieder\u00f6sterreich",
+    "eurostat:nuts_2021_id":"AT12",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:population":1698796,
+    "eurostat:population_year":2022,
     "geom:area":2.325519,
-    "geom:area_square_m":19139116509.297039,
+    "geom:area_square_m":19139116323.7598,
     "geom:bbox":"14.452636,47.422186,17.068835,49.020525",
     "geom:latitude":48.272132,
     "geom:longitude":15.751646,
@@ -420,8 +430,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"19,172",
     "statoids:area_mi":"7,402",
     "statoids:as_of_date":"2011-10-31",
@@ -442,6 +452,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11585,
+        "eurostat:nuts_2021_id":"AT12",
         "fips:code":"AU03",
         "gn:id":2770542,
         "gp:id":2344710,
@@ -455,7 +466,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8fe0aeb078e1ff4702067e961813edf",
+    "wof:geomhash":"84b536639afc1d8dc87c601ba2935b27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -473,12 +484,12 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1623097105,
+    "wof:lastmodified":1684351389,
     "wof:name":"Nieder\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
     "wof:placetype_local":"state",
-    "wof:population":1617444,
+    "wof:population":1698796,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:shortcode":"NO",

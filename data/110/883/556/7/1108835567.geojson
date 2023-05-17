@@ -11,8 +11,20 @@
     "austriaod:objectid":386,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Allerheiligen im M\u00fchlkreis",
+    "eurostat:nuts_2021_id":"41101",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"41101",
+    "eurostat:population":1267,
+    "eurostat:population_year":2020,
     "geom:area":0.002455,
-    "geom:area_square_m":20191209.654127,
+    "geom:area_square_m":20191209.654123,
     "geom:bbox":"14.6109166029,48.2618020437,14.6780094714,48.3394295368",
     "geom:latitude":48.302203,
     "geom:longitude":14.640639,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049865
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41101",
+        "eurostat:nuts_2021_id":"41101"
+    },
     "wof:country":"AT",
     "wof:created":1490046752,
-    "wof:geomhash":"22d5cb7d7168c6fa789480636dd99de9",
+    "wof:geomhash":"a5740e5425f169bfc4f84f74e4c5c862",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108835567,
-    "wof:lastmodified":1566598135,
+    "wof:lastmodified":1684351535,
     "wof:name":"Allerheiligen im M\u00fchlkreis",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",
+    "wof:population":1267,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

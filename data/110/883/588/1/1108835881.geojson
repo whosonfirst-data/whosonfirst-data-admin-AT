@@ -11,8 +11,20 @@
     "austriaod:objectid":526,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Artstetten-P\u00f6bring",
+    "eurostat:nuts_2021_id":"31502",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT121",
+    "eurostat:nuts_2021_level_lau":"31502",
+    "eurostat:population":1218,
+    "eurostat:population_year":2020,
     "geom:area":0.00332,
-    "geom:area_square_m":27332950.51623,
+    "geom:area_square_m":27332950.516226,
     "geom:bbox":"15.1538721585,48.2294368566,15.2737506954,48.2854137786",
     "geom:latitude":48.255742,
     "geom:longitude":15.210751,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31502",
+        "eurostat:nuts_2021_id":"31502"
+    },
     "wof:country":"AT",
     "wof:created":1490046793,
-    "wof:geomhash":"6f8fce661342c7b3666a581bde41c8e6",
+    "wof:geomhash":"9e54927089280f556ed535a7d1187a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835881,
-    "wof:lastmodified":1566598401,
+    "wof:lastmodified":1684351545,
     "wof:name":"Artstetten - P\u00f6bring",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",
+    "wof:population":1218,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":609,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41421",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Willibald",
+    "eurostat:nuts_2021_id":"41421",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41421",
+    "eurostat:population":1103,
+    "eurostat:population_year":2020,
     "geom:area":0.001762,
-    "geom:area_square_m":14475406.455834,
+    "geom:area_square_m":14475406.455839,
     "geom:bbox":"13.6647306282,48.331528005,13.7289472288,48.3861144959",
     "geom:latitude":48.360584,
     "geom:longitude":13.700588,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41421",
+        "eurostat:nuts_2021_id":"41421"
+    },
     "wof:country":"AT",
     "wof:created":1490046817,
-    "wof:geomhash":"69fa3550f593f8f8927e04cb6ff79f7f",
+    "wof:geomhash":"8be96538f56ceb172c7094b2cfb3893c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836069,
-    "wof:lastmodified":1566598654,
+    "wof:lastmodified":1684351551,
     "wof:name":"St. Willibald",
     "wof:parent_id":102049877,
     "wof:placetype":"localadmin",
+    "wof:population":1103,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

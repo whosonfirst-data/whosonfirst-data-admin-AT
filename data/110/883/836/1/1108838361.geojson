@@ -11,8 +11,20 @@
     "austriaod:objectid":1628,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20726",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wei\u00dfenstein",
+    "eurostat:nuts_2021_id":"20726",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT211",
+    "eurostat:nuts_2021_level_lau":"20726",
+    "eurostat:population":2919,
+    "eurostat:population_year":2020,
     "geom:area":0.005782,
-    "geom:area_square_m":49066731.259105,
+    "geom:area_square_m":49066731.259107,
     "geom:bbox":"13.6629010998,46.6326711724,13.8086850921,46.7151414496",
     "geom:latitude":46.666284,
     "geom:longitude":13.742326,
@@ -47,6 +59,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -54,10 +68,13 @@
         102049683
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20726",
+        "eurostat:nuts_2021_id":"20726"
+    },
     "wof:country":"AT",
     "wof:created":1490047118,
-    "wof:geomhash":"082a1adcc96f9a5356aeae4734016ab5",
+    "wof:geomhash":"6ae497bdb339a0e31fbe4bfcd2aeb090",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +85,12 @@
         }
     ],
     "wof:id":1108838361,
-    "wof:lastmodified":1566598639,
+    "wof:lastmodified":1684351616,
     "wof:name":"Weissenstein",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",
+    "wof:population":2919,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

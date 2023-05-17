@@ -11,8 +11,20 @@
     "austriaod:objectid":1867,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61264",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Gallen",
+    "eurostat:nuts_2021_id":"61264",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT222",
+    "eurostat:nuts_2021_level_lau":"61264",
+    "eurostat:population":1798,
+    "eurostat:population_year":2020,
     "geom:area":0.015556,
-    "geom:area_square_m":129517051.800758,
+    "geom:area_square_m":129517051.800761,
     "geom:bbox":"14.4442332737,47.6141955812,14.7000139083,47.7307025699",
     "geom:latitude":47.674597,
     "geom:longitude":14.586321,
@@ -242,6 +254,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -249,10 +263,13 @@
         102049777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61264",
+        "eurostat:nuts_2021_id":"61264"
+    },
     "wof:country":"AT",
     "wof:created":1490047182,
-    "wof:geomhash":"6520d6fdd07053fe6656eebbbb8a6e73",
+    "wof:geomhash":"6b4d3f7208e9097e3e9b8bf4b7613c78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -263,10 +280,12 @@
         }
     ],
     "wof:id":1108838901,
-    "wof:lastmodified":1566598697,
+    "wof:lastmodified":1684351631,
     "wof:name":"St. Gallen",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",
+    "wof:population":1798,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

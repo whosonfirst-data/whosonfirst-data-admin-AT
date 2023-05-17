@@ -11,8 +11,20 @@
     "austriaod:objectid":2042,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60346",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gro\u00df Sankt Florian",
+    "eurostat:nuts_2021_id":"60346",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"60346",
+    "eurostat:population":4130,
+    "eurostat:population_year":2020,
     "geom:area":0.005753,
-    "geom:area_square_m":48677726.774205,
+    "geom:area_square_m":48677726.774216,
     "geom:bbox":"15.2660283221,46.77209034,15.3792414975,46.8617103861",
     "geom:latitude":46.816902,
     "geom:longitude":15.320508,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049691
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60346",
+        "eurostat:nuts_2021_id":"60346"
+    },
     "wof:country":"AT",
     "wof:created":1490047238,
-    "wof:geomhash":"9fd41d2d028a1492534e861e27477097",
+    "wof:geomhash":"70c2b026599afeafe0b76d90114d45b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839295,
-    "wof:lastmodified":1566598721,
+    "wof:lastmodified":1684351644,
     "wof:name":"St. Florian",
     "wof:parent_id":102049691,
     "wof:placetype":"localadmin",
+    "wof:population":4130,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

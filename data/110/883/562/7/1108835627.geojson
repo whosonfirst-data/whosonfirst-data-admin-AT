@@ -11,8 +11,20 @@
     "austriaod:objectid":413,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Antiesenhofen",
+    "eurostat:nuts_2021_id":"41202",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41202",
+    "eurostat:population":1083,
+    "eurostat:population_year":2020,
     "geom:area":0.001044,
-    "geom:area_square_m":8581803.463865,
+    "geom:area_square_m":8581803.463864,
     "geom:bbox":"13.3740553825,48.3338421747,13.4259168168,48.3721605247",
     "geom:latitude":48.351294,
     "geom:longitude":13.400949,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41202",
+        "eurostat:nuts_2021_id":"41202"
+    },
     "wof:country":"AT",
     "wof:created":1490046761,
-    "wof:geomhash":"617035370214a1a2cce6a153eebf643c",
+    "wof:geomhash":"87dde42d843f1a6858f3c8e293df8d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835627,
-    "wof:lastmodified":1566598518,
+    "wof:lastmodified":1684351538,
     "wof:name":"Antiesenhofen",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",
+    "wof:population":1083,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

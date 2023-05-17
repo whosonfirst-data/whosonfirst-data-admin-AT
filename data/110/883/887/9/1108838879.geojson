@@ -11,8 +11,20 @@
     "austriaod:objectid":1857,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61762",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ilztal",
+    "eurostat:nuts_2021_id":"61762",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"61762",
+    "eurostat:population":2180,
+    "eurostat:population_year":2020,
     "geom:area":0.002668,
-    "geom:area_square_m":22433614.578997,
+    "geom:area_square_m":22433614.579006,
     "geom:bbox":"15.7120632681,47.1216732932,15.8047418778,47.1986318822",
     "geom:latitude":47.15648,
     "geom:longitude":15.758918,
@@ -80,6 +92,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -87,10 +101,13 @@
         102049765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61762",
+        "eurostat:nuts_2021_id":"61762"
+    },
     "wof:country":"AT",
     "wof:created":1490047179,
-    "wof:geomhash":"99b25d860a51ee5a40fa3c3d40776f69",
+    "wof:geomhash":"b719a18ef11e424a72bf53db0f2bb46f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":1108838879,
-    "wof:lastmodified":1566598256,
+    "wof:lastmodified":1684351631,
     "wof:name":"Ilztal",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",
+    "wof:population":2180,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

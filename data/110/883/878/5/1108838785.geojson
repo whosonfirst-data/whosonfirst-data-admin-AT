@@ -11,8 +11,20 @@
     "austriaod:objectid":1816,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61440",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberw\u00f6lz",
+    "eurostat:nuts_2021_id":"61440",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"61440",
+    "eurostat:population":2934,
+    "eurostat:population_year":2020,
     "geom:area":0.024986,
-    "geom:area_square_m":209748848.386921,
+    "geom:area_square_m":209748848.386914,
     "geom:bbox":"14.1123131774,47.1610067175,14.3934770204,47.3294896647",
     "geom:latitude":47.242242,
     "geom:longitude":14.273313,
@@ -47,6 +59,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -54,10 +68,13 @@
         102049733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61440",
+        "eurostat:nuts_2021_id":"61440"
+    },
     "wof:country":"AT",
     "wof:created":1490047168,
-    "wof:geomhash":"db9943e2fb3e103df944e41ab102757f",
+    "wof:geomhash":"a5f404f2f545ed8129923dd182a41284",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +85,12 @@
         }
     ],
     "wof:id":1108838785,
-    "wof:lastmodified":1566598597,
+    "wof:lastmodified":1684351627,
     "wof:name":"Oberw\u00f6lz",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",
+    "wof:population":2934,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":2057,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Graz",
+    "eurostat:nuts_2021_id":"60101",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60101",
+    "eurostat:population":291072,
+    "eurostat:population_year":2020,
     "geom:area":0.015108,
-    "geom:area_square_m":127224143.286396,
+    "geom:area_square_m":127224143.286389,
     "geom:bbox":"15.349714,47.011887,15.5342,47.134501",
     "geom:latitude":47.075128,
     "geom:longitude":15.439349,
@@ -353,14 +365,18 @@
     "qs_pg:woe_id":12674996,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
-        102049709,
-        85681687
+        85681687,
+        102049709
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AT_60101",
+        "eurostat:nuts_2021_id":"60101",
         "gp:id":12674996,
         "qs_pg:id":241185
     },
@@ -369,7 +385,7 @@
     ],
     "wof:country":"AT",
     "wof:created":1490047243,
-    "wof:geomhash":"23e3ec617f8455529256baa293a364d0",
+    "wof:geomhash":"dfb7988afd0d2dd830c1eade84d8054f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -380,10 +396,12 @@
         }
     ],
     "wof:id":1108839329,
-    "wof:lastmodified":1607997043,
+    "wof:lastmodified":1684351645,
     "wof:name":"Graz",
     "wof:parent_id":102049709,
     "wof:placetype":"localadmin",
+    "wof:population":291072,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

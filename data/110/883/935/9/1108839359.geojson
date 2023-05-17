@@ -11,8 +11,20 @@
     "austriaod:objectid":2070,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61621",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Martin am W\u00f6llmi\u00dfberg",
+    "eurostat:nuts_2021_id":"61621",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"61621",
+    "eurostat:population":818,
+    "eurostat:population_year":2020,
     "geom:area":0.003048,
-    "geom:area_square_m":25705744.268807,
+    "geom:area_square_m":25705740.196624,
     "geom:bbox":"15.084486,46.956038,15.164008,47.0332",
     "geom:latitude":47.001421,
     "geom:longitude":15.119285,
@@ -29,6 +41,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -36,10 +50,13 @@
         102049717
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61621",
+        "eurostat:nuts_2021_id":"61621"
+    },
     "wof:country":"AT",
     "wof:created":1490047248,
-    "wof:geomhash":"18228981e306068347330f1a06650301",
+    "wof:geomhash":"0b1453af0828b15cf6a01eee78703654",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
         }
     ],
     "wof:id":1108839359,
-    "wof:lastmodified":1636505048,
+    "wof:lastmodified":1684351646,
     "wof:name":"St. Martin",
     "wof:parent_id":102049717,
     "wof:placetype":"localadmin",
+    "wof:population":818,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

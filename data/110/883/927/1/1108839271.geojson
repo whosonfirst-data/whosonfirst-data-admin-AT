@@ -11,8 +11,20 @@
     "austriaod:objectid":2031,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60351",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wies",
+    "eurostat:nuts_2021_id":"60351",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"60351",
+    "eurostat:population":4319,
+    "eurostat:population_year":2020,
     "geom:area":0.009017,
-    "geom:area_square_m":76414875.067662,
+    "geom:area_square_m":76414875.067654,
     "geom:bbox":"14.9966719481,46.6970240838,15.2989802827,46.7823869832",
     "geom:latitude":46.734217,
     "geom:longitude":15.161406,
@@ -80,6 +92,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -87,10 +101,13 @@
         102049691
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60351",
+        "eurostat:nuts_2021_id":"60351"
+    },
     "wof:country":"AT",
     "wof:created":1490047234,
-    "wof:geomhash":"8272cf6219057c4e03235fec50f1725a",
+    "wof:geomhash":"e4a3d0b7b54027a35507688c6a980160",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":1108839271,
-    "wof:lastmodified":1566598730,
+    "wof:lastmodified":1684351643,
     "wof:name":"Wies",
     "wof:parent_id":102049691,
     "wof:placetype":"localadmin",
+    "wof:population":4319,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

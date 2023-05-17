@@ -11,6 +11,18 @@
     "austriaod:objectid":1428,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_80208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buch",
+    "eurostat:nuts_2021_id":"80208",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:nuts_2021_level_3":"AT342",
+    "eurostat:nuts_2021_level_lau":"80208",
+    "eurostat:population":608,
+    "eurostat:population_year":2020,
     "geom:area":0.000733,
     "geom:area_square_m":6124613.85795,
     "geom:bbox":"9.78839925844,47.4701792851,9.8372364865,47.4957446024",
@@ -98,6 +110,8 @@
     "qs_pg:woe_id":20074655,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -106,12 +120,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AT_80208",
+        "eurostat:nuts_2021_id":"80208",
         "gp:id":20074655,
         "qs_pg:id":397219
     },
     "wof:country":"AT",
     "wof:created":1490047058,
-    "wof:geomhash":"5c655cf05eeee480b86e551288ba3c5d",
+    "wof:geomhash":"0479fc65d83b69e5d825aab9dc824d60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":1108837911,
-    "wof:lastmodified":1566598189,
+    "wof:lastmodified":1684351602,
     "wof:name":"Buch",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",
+    "wof:population":608,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

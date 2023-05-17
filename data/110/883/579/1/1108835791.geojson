@@ -11,8 +11,20 @@
     "austriaod:objectid":486,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Breitenfurt bei Wien",
+    "eurostat:nuts_2021_id":"31703",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT127",
+    "eurostat:nuts_2021_level_lau":"31703",
+    "eurostat:population":5894,
+    "eurostat:population_year":2020,
     "geom:area":0.003272,
-    "geom:area_square_m":27002540.633645,
+    "geom:area_square_m":27002540.633643,
     "geom:bbox":"16.07913745,48.1171266547,16.2386972165,48.155505829",
     "geom:latitude":48.135393,
     "geom:longitude":16.162428,
@@ -95,6 +107,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -102,10 +116,13 @@
         102049837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31703",
+        "eurostat:nuts_2021_id":"31703"
+    },
     "wof:country":"AT",
     "wof:created":1490046781,
-    "wof:geomhash":"b067b4fa5343d57db01a14fecf8c5a7f",
+    "wof:geomhash":"c695561555bd381ad2aa5719fa134e9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":1108835791,
-    "wof:lastmodified":1566598756,
+    "wof:lastmodified":1684351542,
     "wof:name":"Breitenfurt bei Wien",
     "wof:parent_id":102049837,
     "wof:placetype":"localadmin",
+    "wof:population":5894,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

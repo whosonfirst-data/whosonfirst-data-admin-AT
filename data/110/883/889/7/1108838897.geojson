@@ -11,8 +11,20 @@
     "austriaod:objectid":1865,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61265",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schladming",
+    "eurostat:nuts_2021_id":"61265",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT222",
+    "eurostat:nuts_2021_level_lau":"61265",
+    "eurostat:population":6600,
+    "eurostat:population_year":2020,
     "geom:area":0.025141,
-    "geom:area_square_m":210679626.369021,
+    "geom:area_square_m":210679626.36902,
     "geom:bbox":"13.5641979944,47.259501832,13.840358762,47.4184119629",
     "geom:latitude":47.335096,
     "geom:longitude":13.690759,
@@ -122,6 +134,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -129,10 +143,13 @@
         102049777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61265",
+        "eurostat:nuts_2021_id":"61265"
+    },
     "wof:country":"AT",
     "wof:created":1490047181,
-    "wof:geomhash":"74d4867ef3f33c962fbf415c5e0cc694",
+    "wof:geomhash":"9cdfc9115697c5fb8cc157cfa6cfc64f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +160,12 @@
         }
     ],
     "wof:id":1108838897,
-    "wof:lastmodified":1566598251,
+    "wof:lastmodified":1684351631,
     "wof:name":"Schladming",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",
+    "wof:population":6600,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1112,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_50604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fusch an der Gro\u00dfglocknerstra\u00dfe",
+    "eurostat:nuts_2021_id":"50604",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT32",
+    "eurostat:nuts_2021_level_3":"AT322",
+    "eurostat:nuts_2021_level_lau":"50604",
+    "eurostat:population":714,
+    "eurostat:population_year":2020,
     "geom:area":0.018768,
-    "geom:area_square_m":157732538.05908,
+    "geom:area_square_m":157732538.05907,
     "geom:bbox":"12.7304249074,47.0924511642,12.907888141,47.2681577408",
     "geom:latitude":47.181012,
     "geom:longitude":12.813748,
@@ -74,6 +86,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -81,10 +95,13 @@
         102049761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_50604",
+        "eurostat:nuts_2021_id":"50604"
+    },
     "wof:country":"AT",
     "wof:created":1490046968,
-    "wof:geomhash":"b59327290eb6269ab114d24f4dd5daa0",
+    "wof:geomhash":"96f944e5b3939f5dac4b1e7e546119b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +112,12 @@
         }
     ],
     "wof:id":1108837201,
-    "wof:lastmodified":1566598789,
+    "wof:lastmodified":1684351585,
     "wof:name":"Fusch an der Gro\u00dfglocknerstra\u00dfe",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",
+    "wof:population":714,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

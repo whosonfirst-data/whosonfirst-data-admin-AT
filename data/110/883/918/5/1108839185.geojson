@@ -11,8 +11,20 @@
     "austriaod:objectid":1993,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60623",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kainbach bei Graz",
+    "eurostat:nuts_2021_id":"60623",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60623",
+    "eurostat:population":2802,
+    "eurostat:population_year":2020,
     "geom:area":0.002112,
-    "geom:area_square_m":17776351.329078,
+    "geom:area_square_m":17776351.329076,
     "geom:bbox":"15.5065259349,47.0731521323,15.5832434181,47.1244226071",
     "geom:latitude":47.095722,
     "geom:longitude":15.541719,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60623",
+        "eurostat:nuts_2021_id":"60623"
+    },
     "wof:country":"AT",
     "wof:created":1490047218,
-    "wof:geomhash":"835e7f33e0e3f59d9d7371c6e588c0c9",
+    "wof:geomhash":"210e0da777cf6dd1c32b7d1966f5b378",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839185,
-    "wof:lastmodified":1566598734,
+    "wof:lastmodified":1684351640,
     "wof:name":"Kainbach",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":2802,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

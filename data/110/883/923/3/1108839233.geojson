@@ -11,8 +11,20 @@
     "austriaod:objectid":2014,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Blumau",
+    "eurostat:nuts_2021_id":"62202",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62202",
+    "eurostat:population":1615,
+    "eurostat:population_year":2020,
     "geom:area":0.004431,
-    "geom:area_square_m":37283372.327721,
+    "geom:area_square_m":37283372.327723,
     "geom:bbox":"15.9695093761,47.0821634607,16.0959096437,47.149588265",
     "geom:latitude":47.113729,
     "geom:longitude":16.035486,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62202",
+        "eurostat:nuts_2021_id":"62202"
+    },
     "wof:country":"AT",
     "wof:created":1490047224,
-    "wof:geomhash":"7983881520ff9b1692d9ebdc21d1e55b",
+    "wof:geomhash":"d9acaa748cbdcee86a5135e73f2814af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839233,
-    "wof:lastmodified":1566598411,
+    "wof:lastmodified":1684351641,
     "wof:name":"Blumau",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",
+    "wof:population":1615,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":204,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40717",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Wolfgang im Salzkammergut",
+    "eurostat:nuts_2021_id":"40717",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT315",
+    "eurostat:nuts_2021_level_lau":"40717",
+    "eurostat:population":2802,
+    "eurostat:population_year":2020,
     "geom:area":0.006773,
-    "geom:area_square_m":56309593.105463,
+    "geom:area_square_m":56309593.105465,
     "geom:bbox":"13.4360912304,47.7134225087,13.577220999,47.7862562507",
     "geom:latitude":47.749299,
     "geom:longitude":13.505726,
@@ -77,6 +89,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -84,10 +98,13 @@
         102049807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40717",
+        "eurostat:nuts_2021_id":"40717"
+    },
     "wof:country":"AT",
     "wof:created":1490046694,
-    "wof:geomhash":"61d4da38d436f6c7ef08c0e96cbc0a79",
+    "wof:geomhash":"780d0ce3fc4e5b969b805e588305a0ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +115,12 @@
         }
     ],
     "wof:id":1108835157,
-    "wof:lastmodified":1566598791,
+    "wof:lastmodified":1684351523,
     "wof:name":"St. Wolfgang im Salzkammergut",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",
+    "wof:population":2802,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

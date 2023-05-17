@@ -11,8 +11,20 @@
     "austriaod:objectid":189,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Goisern am Hallst\u00e4ttersee",
+    "eurostat:nuts_2021_id":"40702",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT315",
+    "eurostat:nuts_2021_level_lau":"40702",
+    "eurostat:population":7560,
+    "eurostat:population_year":2020,
     "geom:area":0.013446,
-    "geom:area_square_m":112026543.068648,
+    "geom:area_square_m":112026543.068649,
     "geom:bbox":"13.4840938874,47.5668043815,13.707949468,47.6883036307",
     "geom:latitude":47.637964,
     "geom:longitude":13.60601,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         102049807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40702",
+        "eurostat:nuts_2021_id":"40702"
+    },
     "wof:country":"AT",
     "wof:created":1490046690,
-    "wof:geomhash":"4ab192d845cf88dcebe1f4c275fb520c",
+    "wof:geomhash":"14fe56e9c62d8975072618294da3e17a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108835123,
-    "wof:lastmodified":1566598787,
+    "wof:lastmodified":1684351522,
     "wof:name":"Bad Goisern am Hallst\u00e4ttersee",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",
+    "wof:population":7560,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

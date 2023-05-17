@@ -11,8 +11,20 @@
     "austriaod:objectid":1537,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20316",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Stefan im Gailtal",
+    "eurostat:nuts_2021_id":"20316",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT212",
+    "eurostat:nuts_2021_level_lau":"20316",
+    "eurostat:population":1579,
+    "eurostat:population_year":2020,
     "geom:area":0.007777,
-    "geom:area_square_m":66062702.426407,
+    "geom:area_square_m":66062702.426417,
     "geom:bbox":"13.4234850028,46.556509313,13.577490855,46.6683391286",
     "geom:latitude":46.608254,
     "geom:longitude":13.508592,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049675
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20316",
+        "eurostat:nuts_2021_id":"20316"
+    },
     "wof:country":"AT",
     "wof:created":1490047090,
-    "wof:geomhash":"6ae8c2200f566185883b53e3573b5cbb",
+    "wof:geomhash":"7660ed66fa6b93cb58511de253c67cdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838157,
-    "wof:lastmodified":1566598584,
+    "wof:lastmodified":1684351609,
     "wof:name":"Sankt Stefan Im Gailtal",
     "wof:parent_id":102049675,
     "wof:placetype":"localadmin",
+    "wof:population":1579,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

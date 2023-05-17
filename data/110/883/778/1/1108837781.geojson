@@ -11,8 +11,20 @@
     "austriaod:objectid":1370,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70726",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Veit in Defereggen",
+    "eurostat:nuts_2021_id":"70726",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT333",
+    "eurostat:nuts_2021_level_lau":"70726",
+    "eurostat:population":639,
+    "eurostat:population_year":2020,
     "geom:area":0.00726,
-    "geom:area_square_m":61322458.312353,
+    "geom:area_square_m":61322458.312354,
     "geom:bbox":"12.3208081103,46.8680281968,12.4920056845,46.950119345",
     "geom:latitude":46.912222,
     "geom:longitude":12.405507,
@@ -77,6 +89,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -84,10 +98,13 @@
         102049703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70726",
+        "eurostat:nuts_2021_id":"70726"
+    },
     "wof:country":"AT",
     "wof:created":1490047042,
-    "wof:geomhash":"b8cb3a530298b747ad266cccb8e5b465",
+    "wof:geomhash":"1611f088a1287b83245a26284a359dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +115,12 @@
         }
     ],
     "wof:id":1108837781,
-    "wof:lastmodified":1566598395,
+    "wof:lastmodified":1684351599,
     "wof:name":"Sankt Veit in Defereggen",
     "wof:parent_id":102049703,
     "wof:placetype":"localadmin",
+    "wof:population":639,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

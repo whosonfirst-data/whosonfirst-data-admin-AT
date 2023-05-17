@@ -11,8 +11,20 @@
     "austriaod:objectid":2048,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mariazell",
+    "eurostat:nuts_2021_id":"62142",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62142",
+    "eurostat:population":3669,
+    "eurostat:population_year":2020,
     "geom:area":0.049598,
-    "geom:area_square_m":412611917.192006,
+    "geom:area_square_m":412611917.192001,
     "geom:bbox":"15.0669652153,47.62294752,15.5066477391,47.8278931917",
     "geom:latitude":47.717414,
     "geom:longitude":15.269095,
@@ -122,6 +134,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -129,10 +143,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62142",
+        "eurostat:nuts_2021_id":"62142"
+    },
     "wof:country":"AT",
     "wof:created":1490047240,
-    "wof:geomhash":"bca5b9f67a2e539e5abdcd0a3e4814a1",
+    "wof:geomhash":"1539953f5c7baccc7fa6254693293f90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +160,12 @@
         }
     ],
     "wof:id":1108839309,
-    "wof:lastmodified":1566598193,
+    "wof:lastmodified":1684351644,
     "wof:name":"Mariazell",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":3669,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

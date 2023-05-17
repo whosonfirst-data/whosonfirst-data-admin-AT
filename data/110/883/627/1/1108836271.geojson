@@ -11,6 +11,18 @@
     "austriaod:objectid":699,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31319",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jaidhof",
+    "eurostat:nuts_2021_id":"31319",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT124",
+    "eurostat:nuts_2021_level_lau":"31319",
+    "eurostat:population":1212,
+    "eurostat:population_year":2020,
     "geom:area":0.005457,
     "geom:area_square_m":44669578.875663,
     "geom:bbox":"15.4121586338,48.5183602665,15.6150543393,48.5860234511",
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049885
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31319",
+        "eurostat:nuts_2021_id":"31319"
+    },
     "wof:country":"AT",
     "wof:created":1490046842,
-    "wof:geomhash":"8a28373891f9b22de9e387e4537c9be3",
+    "wof:geomhash":"4f805575ae94f44518b5bea283557aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108836271,
-    "wof:lastmodified":1566598293,
+    "wof:lastmodified":1684351558,
     "wof:name":"Jaidhof",
     "wof:parent_id":102049885,
     "wof:placetype":"localadmin",
+    "wof:population":1212,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":864,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31811",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grafenbach-St. Valentin",
+    "eurostat:nuts_2021_id":"31811",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"31811",
+    "eurostat:population":2211,
+    "eurostat:population_year":2020,
     "geom:area":0.001673,
-    "geom:area_square_m":13930073.901974,
+    "geom:area_square_m":13930073.901971,
     "geom:bbox":"15.9933141041,47.6505434912,16.0548778358,47.6981280689",
     "geom:latitude":47.676565,
     "geom:longitude":16.025268,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31811",
+        "eurostat:nuts_2021_id":"31811"
+    },
     "wof:country":"AT",
     "wof:created":1490046895,
-    "wof:geomhash":"3d46a582d9faf232ce1911efa2696315",
+    "wof:geomhash":"433e0eeda9c40dc4b10b9dcc3018e6af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836643,
-    "wof:lastmodified":1566598638,
+    "wof:lastmodified":1684351568,
     "wof:name":"Grafenbach - St. Valentin",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",
+    "wof:population":2211,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":174,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40614",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pregarten",
+    "eurostat:nuts_2021_id":"40614",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"40614",
+    "eurostat:population":5544,
+    "eurostat:population_year":2020,
     "geom:area":0.003372,
-    "geom:area_square_m":27702588.923182,
+    "geom:area_square_m":27702588.92318,
     "geom:bbox":"14.5159028425,48.3204325618,14.5831502947,48.4172219225",
     "geom:latitude":48.363622,
     "geom:longitude":14.551966,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         102049883
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40614",
+        "eurostat:nuts_2021_id":"40614"
+    },
     "wof:country":"AT",
     "wof:created":1490046685,
-    "wof:geomhash":"7d61f6669d95827d07ce7ad08016922a",
+    "wof:geomhash":"28e7e50d217c939b20cfa68b58c3eedd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108835089,
-    "wof:lastmodified":1566598456,
+    "wof:lastmodified":1684351520,
     "wof:name":"Pregarten",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",
+    "wof:population":5544,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

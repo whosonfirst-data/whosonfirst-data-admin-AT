@@ -11,8 +11,20 @@
     "austriaod:objectid":188,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altm\u00fcnster",
+    "eurostat:nuts_2021_id":"40701",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT315",
+    "eurostat:nuts_2021_level_lau":"40701",
+    "eurostat:population":9856,
+    "eurostat:population_year":2020,
     "geom:area":0.009477,
-    "geom:area_square_m":78595891.684794,
+    "geom:area_square_m":78595891.684778,
     "geom:bbox":"13.6060017394,47.8236843477,13.7960445559,47.9273969865",
     "geom:latitude":47.879009,
     "geom:longitude":13.709173,
@@ -98,6 +110,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -105,10 +119,13 @@
         102049807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40701",
+        "eurostat:nuts_2021_id":"40701"
+    },
     "wof:country":"AT",
     "wof:created":1490046690,
-    "wof:geomhash":"0804e6014864ebcb6b8945a4bdcfff5e",
+    "wof:geomhash":"87b62db1364d93b3f58c326e199e49b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":1108835121,
-    "wof:lastmodified":1566598787,
+    "wof:lastmodified":1684351522,
     "wof:name":"Altm\u00fcnster",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",
+    "wof:population":9856,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

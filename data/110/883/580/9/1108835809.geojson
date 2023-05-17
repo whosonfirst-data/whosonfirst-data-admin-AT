@@ -11,8 +11,20 @@
     "austriaod:objectid":494,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31831",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Egyden am Steinfeld",
+    "eurostat:nuts_2021_id":"31831",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"31831",
+    "eurostat:population":2065,
+    "eurostat:population_year":2020,
     "geom:area":0.003151,
-    "geom:area_square_m":26186143.644338,
+    "geom:area_square_m":26186143.64434,
     "geom:bbox":"16.0666862452,47.7515808708,16.1783800229,47.8048825739",
     "geom:latitude":47.778577,
     "geom:longitude":16.122099,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31831",
+        "eurostat:nuts_2021_id":"31831"
+    },
     "wof:country":"AT",
     "wof:created":1490046783,
-    "wof:geomhash":"16e1539f0a367de089f1ba2c2601d260",
+    "wof:geomhash":"fab8179f2afb5380439ba4588cef7b15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835809,
-    "wof:lastmodified":1566598451,
+    "wof:lastmodified":1684351543,
     "wof:name":"St. Egyden am Steinfeld",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",
+    "wof:population":2065,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

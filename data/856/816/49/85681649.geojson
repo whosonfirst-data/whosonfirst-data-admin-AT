@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Vorarlberg",
+    "eurostat:name_local":"Vorarlberg",
+    "eurostat:nuts_2021_id":"AT34",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:population":401674,
+    "eurostat:population_year":2022,
     "geom:area":0.307859,
-    "geom:area_square_m":2584563390.685054,
+    "geom:area_square_m":2584563620.906394,
     "geom:bbox":"9.530749,46.840862,10.237173,47.596101",
     "geom:latitude":47.2385,
     "geom:longitude":9.896785,
@@ -419,8 +429,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"2,601",
     "statoids:area_mi":"1,004",
     "statoids:as_of_date":"2011-10-31",
@@ -442,6 +452,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11577,
+        "eurostat:nuts_2021_id":"AT34",
         "fips:code":"AU08",
         "gn:id":2762300,
         "gp:id":2344715,
@@ -455,7 +466,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b82ee27345e30a28ece0764b663b5f66",
+    "wof:geomhash":"e16301d3fe3d24ab7862b4d66d94e2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -473,12 +484,12 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1623097159,
+    "wof:lastmodified":1684351382,
     "wof:name":"Vorarlberg",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
     "wof:placetype_local":"state",
-    "wof:population":371192,
+    "wof:population":401674,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:shortcode":"VO",

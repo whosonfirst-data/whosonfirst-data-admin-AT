@@ -11,8 +11,20 @@
     "austriaod:objectid":347,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32523",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sch\u00f6nbach",
+    "eurostat:nuts_2021_id":"32523",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT124",
+    "eurostat:nuts_2021_level_lau":"32523",
+    "eurostat:population":777,
+    "eurostat:population_year":2020,
     "geom:area":0.004231,
-    "geom:area_square_m":34697655.846403,
+    "geom:area_square_m":34697655.8464,
     "geom:bbox":"14.9946433717,48.4202998207,15.1237648368,48.4858322779",
     "geom:latitude":48.45826,
     "geom:longitude":15.049455,
@@ -68,6 +80,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -75,10 +89,13 @@
         102049895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32523",
+        "eurostat:nuts_2021_id":"32523"
+    },
     "wof:country":"AT",
     "wof:created":1490046742,
-    "wof:geomhash":"e4c490798751df8d89ff16edc53beec3",
+    "wof:geomhash":"9f51ba82103cf97ca224f67d2f58a094",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +106,12 @@
         }
     ],
     "wof:id":1108835479,
-    "wof:lastmodified":1566598726,
+    "wof:lastmodified":1684351533,
     "wof:name":"Sch\u00f6nbach",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",
+    "wof:population":777,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

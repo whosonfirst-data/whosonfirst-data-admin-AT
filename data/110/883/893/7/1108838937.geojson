@@ -11,8 +11,20 @@
     "austriaod:objectid":1883,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wei\u00dfkirchen in Steiermark",
+    "eurostat:nuts_2021_id":"62048",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"62048",
+    "eurostat:population":4776,
+    "eurostat:population_year":2020,
     "geom:area":0.017748,
-    "geom:area_square_m":149333495.110988,
+    "geom:area_square_m":149333495.110961,
     "geom:bbox":"14.6665964638,47.0549521698,14.9216922678,47.1863833544",
     "geom:latitude":47.118415,
     "geom:longitude":14.788853,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62048",
+        "eurostat:nuts_2021_id":"62048"
+    },
     "wof:country":"AT",
     "wof:created":1490047188,
-    "wof:geomhash":"379407ae784615ae6c3eefa218b11b08",
+    "wof:geomhash":"cda23dc85f20f42c8c6ce063b71164f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838937,
-    "wof:lastmodified":1566598351,
+    "wof:lastmodified":1684351632,
     "wof:name":"Wei\u00dfkirchen",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",
+    "wof:population":4776,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

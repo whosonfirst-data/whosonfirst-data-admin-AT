@@ -11,8 +11,20 @@
     "austriaod:objectid":1914,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mautern in Steiermark",
+    "eurostat:nuts_2021_id":"61109",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"61109",
+    "eurostat:population":1750,
+    "eurostat:population_year":2020,
     "geom:area":0.012971,
-    "geom:area_square_m":108570062.977793,
+    "geom:area_square_m":108570062.977787,
     "geom:bbox":"14.6792628112,47.3389933652,14.8938954489,47.4657657567",
     "geom:latitude":47.396037,
     "geom:longitude":14.800753,
@@ -35,6 +47,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -42,10 +56,13 @@
         102049769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61109",
+        "eurostat:nuts_2021_id":"61109"
+    },
     "wof:country":"AT",
     "wof:created":1490047196,
-    "wof:geomhash":"4c7ef15900aa09bb5b668b25c835a0ea",
+    "wof:geomhash":"692b78df5858e62d32b281e745aee592",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +73,12 @@
         }
     ],
     "wof:id":1108839007,
-    "wof:lastmodified":1566598156,
+    "wof:lastmodified":1684351634,
     "wof:name":"Mautern",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",
+    "wof:population":1750,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

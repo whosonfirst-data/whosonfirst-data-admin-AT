@@ -11,8 +11,20 @@
     "austriaod:objectid":606,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41418",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Florian am Inn",
+    "eurostat:nuts_2021_id":"41418",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41418",
+    "eurostat:population":3138,
+    "eurostat:population_year":2020,
     "geom:area":0.002937,
-    "geom:area_square_m":24095616.713905,
+    "geom:area_square_m":24095616.713897,
     "geom:bbox":"13.4342446177,48.3880230371,13.5060580128,48.4630176868",
     "geom:latitude":48.425192,
     "geom:longitude":13.472051,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049877
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41418",
+        "eurostat:nuts_2021_id":"41418"
+    },
     "wof:country":"AT",
     "wof:created":1490046817,
-    "wof:geomhash":"8adbca2dcd5102b3dec0a8c1a5ce3d4d",
+    "wof:geomhash":"3ac3a3023a43784eebc62482a2d90840",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836061,
-    "wof:lastmodified":1566598654,
+    "wof:lastmodified":1684351551,
     "wof:name":"St. Florian am Inn",
     "wof:parent_id":102049877,
     "wof:placetype":"localadmin",
+    "wof:population":3138,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

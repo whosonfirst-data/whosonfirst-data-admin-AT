@@ -11,8 +11,20 @@
     "austriaod:objectid":1992,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60624",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kalsdorf bei Graz",
+    "eurostat:nuts_2021_id":"60624",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60624",
+    "eurostat:population":7572,
+    "eurostat:population_year":2020,
     "geom:area":0.001793,
-    "geom:area_square_m":15129526.926134,
+    "geom:area_square_m":15129526.926136,
     "geom:bbox":"15.4308895572,46.93738537,15.504109194,46.9872115066",
     "geom:latitude":46.960944,
     "geom:longitude":15.471298,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60624",
+        "eurostat:nuts_2021_id":"60624"
+    },
     "wof:country":"AT",
     "wof:created":1490047218,
-    "wof:geomhash":"da0ed7ab415ad941c2ad7276d5920cd8",
+    "wof:geomhash":"2eea6559e0c30a39e1437dcda611d952",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839183,
-    "wof:lastmodified":1566598734,
+    "wof:lastmodified":1684351640,
     "wof:name":"Kalsdorf",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":7572,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

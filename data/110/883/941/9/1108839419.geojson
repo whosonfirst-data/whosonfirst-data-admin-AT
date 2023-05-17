@@ -11,8 +11,20 @@
     "austriaod:objectid":2097,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spielberg",
+    "eurostat:nuts_2021_id":"62047",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"62047",
+    "eurostat:population":5353,
+    "eurostat:population_year":2020,
     "geom:area":0.00353,
-    "geom:area_square_m":29644047.500939,
+    "geom:area_square_m":29644047.500945,
     "geom:bbox":"14.722815629,47.1826873135,14.8233053416,47.2526112459",
     "geom:latitude":47.217784,
     "geom:longitude":14.771768,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62047",
+        "eurostat:nuts_2021_id":"62047"
+    },
     "wof:country":"AT",
     "wof:created":1490047255,
-    "wof:geomhash":"fbc2253a9121efe38843b22604adc027",
+    "wof:geomhash":"767ff17fd05209fcd8d26dcf1a25fa36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839419,
-    "wof:lastmodified":1566598387,
+    "wof:lastmodified":1684351648,
     "wof:name":"Spielberg",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",
+    "wof:population":5353,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

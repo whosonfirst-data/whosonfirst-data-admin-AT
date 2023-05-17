@@ -11,8 +11,20 @@
     "austriaod:objectid":763,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41626",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Walding",
+    "eurostat:nuts_2021_id":"41626",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT312",
+    "eurostat:nuts_2021_level_lau":"41626",
+    "eurostat:population":4158,
+    "eurostat:population_year":2020,
     "geom:area":0.00186,
-    "geom:area_square_m":15283258.759647,
+    "geom:area_square_m":15283258.759643,
     "geom:bbox":"14.1072971139,48.3248526829,14.1794063511,48.3749721064",
     "geom:latitude":48.349027,
     "geom:longitude":14.141592,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049881
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41626",
+        "eurostat:nuts_2021_id":"41626"
+    },
     "wof:country":"AT",
     "wof:created":1490046868,
-    "wof:geomhash":"1694782d8f6c12f37f93ec6ca3718e0e",
+    "wof:geomhash":"3f308a527806d47d08cfe46ee247bbda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108836415,
-    "wof:lastmodified":1566598603,
+    "wof:lastmodified":1684351562,
     "wof:name":"Walding",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",
+    "wof:population":4158,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

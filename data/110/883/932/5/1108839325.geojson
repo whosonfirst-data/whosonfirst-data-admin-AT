@@ -11,8 +11,20 @@
     "austriaod:objectid":2055,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Breitenau am Hochlantsch",
+    "eurostat:nuts_2021_id":"62105",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62105",
+    "eurostat:population":1646,
+    "eurostat:population_year":2020,
     "geom:area":0.007439,
-    "geom:area_square_m":62274178.066189,
+    "geom:area_square_m":62274178.066191,
     "geom:bbox":"15.3898153104,47.3576860363,15.5372259553,47.4291027542",
     "geom:latitude":47.389431,
     "geom:longitude":15.463277,
@@ -56,6 +68,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -63,10 +77,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62105",
+        "eurostat:nuts_2021_id":"62105"
+    },
     "wof:country":"AT",
     "wof:created":1490047242,
-    "wof:geomhash":"aa74d3aa72b036d2ce7daec4241deffa",
+    "wof:geomhash":"0a88170a2402bf7d5dc6e299755486e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +94,12 @@
         }
     ],
     "wof:id":1108839325,
-    "wof:lastmodified":1566598478,
+    "wof:lastmodified":1684351645,
     "wof:name":"Breitenau",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":1646,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

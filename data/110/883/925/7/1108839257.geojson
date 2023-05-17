@@ -11,8 +11,20 @@
     "austriaod:objectid":2025,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62385",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pirching am Traubenberg",
+    "eurostat:nuts_2021_id":"62385",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62385",
+    "eurostat:population":2529,
+    "eurostat:population_year":2020,
     "geom:area":0.003733,
-    "geom:area_square_m":31504350.295885,
+    "geom:area_square_m":31504350.295887,
     "geom:bbox":"15.5871970096,46.8945312861,15.6507370931,47.0027379061",
     "geom:latitude":46.953624,
     "geom:longitude":15.618453,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62385",
+        "eurostat:nuts_2021_id":"62385"
+    },
     "wof:country":"AT",
     "wof:created":1490047227,
-    "wof:geomhash":"13c5bd9762574041e73133062ab461ab",
+    "wof:geomhash":"3c4359cc70b4f371ee92deb128a1d2de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839257,
-    "wof:lastmodified":1566598439,
+    "wof:lastmodified":1684351642,
     "wof:name":"Pirching",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",
+    "wof:population":2529,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

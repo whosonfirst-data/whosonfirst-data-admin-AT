@@ -11,8 +11,20 @@
     "austriaod:objectid":2016,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62389",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Stefan im Rosental",
+    "eurostat:nuts_2021_id":"62389",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62389",
+    "eurostat:population":3898,
+    "eurostat:population_year":2020,
     "geom:area":0.005104,
-    "geom:area_square_m":43113344.962514,
+    "geom:area_square_m":43113344.962496,
     "geom:bbox":"15.66468855,46.8608918798,15.7555796864,46.9683455565",
     "geom:latitude":46.912918,
     "geom:longitude":15.712611,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62389",
+        "eurostat:nuts_2021_id":"62389"
+    },
     "wof:country":"AT",
     "wof:created":1490047224,
-    "wof:geomhash":"f3e1f4e63e6343e11e60ed2f01063ba8",
+    "wof:geomhash":"0fda7857f8ce7d3cc6b3b34be60c4a29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839237,
-    "wof:lastmodified":1566598411,
+    "wof:lastmodified":1684351641,
     "wof:name":"St. Stefan",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",
+    "wof:population":3898,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

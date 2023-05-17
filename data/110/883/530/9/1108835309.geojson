@@ -11,8 +11,20 @@
     "austriaod:objectid":271,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amaliendorf-Aalfang",
+    "eurostat:nuts_2021_id":"30902",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT124",
+    "eurostat:nuts_2021_level_lau":"30902",
+    "eurostat:population":1108,
+    "eurostat:population_year":2020,
     "geom:area":0.000985,
-    "geom:area_square_m":8015095.786588,
+    "geom:area_square_m":8015095.786584,
     "geom:bbox":"15.0500212705,48.8246375157,15.0997594926,48.864051544",
     "geom:latitude":48.842559,
     "geom:longitude":15.076169,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049905
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30902",
+        "eurostat:nuts_2021_id":"30902"
+    },
     "wof:country":"AT",
     "wof:created":1490046721,
-    "wof:geomhash":"81877fe078791fb24e896bc9a8ce99ea",
+    "wof:geomhash":"ca56929b9ed05e4ffb7d9a57ca6fd7ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835309,
-    "wof:lastmodified":1566598464,
+    "wof:lastmodified":1684351527,
     "wof:name":"Amaliendorf - Aalfang",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",
+    "wof:population":1108,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

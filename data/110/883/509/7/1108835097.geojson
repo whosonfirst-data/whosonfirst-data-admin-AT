@@ -11,8 +11,20 @@
     "austriaod:objectid":177,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40617",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Leonhard bei Freistadt",
+    "eurostat:nuts_2021_id":"40617",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"40617",
+    "eurostat:population":1370,
+    "eurostat:population_year":2020,
     "geom:area":0.004257,
-    "geom:area_square_m":34917641.090895,
+    "geom:area_square_m":34917641.090892,
     "geom:bbox":"14.6369635226,48.4142722267,14.7347170115,48.4877648801",
     "geom:latitude":48.448575,
     "geom:longitude":14.681668,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049883
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40617",
+        "eurostat:nuts_2021_id":"40617"
+    },
     "wof:country":"AT",
     "wof:created":1490046686,
-    "wof:geomhash":"63e092d392d304f60ad8f0c84f38f78b",
+    "wof:geomhash":"ac9beb08a667b9f769e4dfa3da57cfe8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835097,
-    "wof:lastmodified":1566598511,
+    "wof:lastmodified":1684351521,
     "wof:name":"St. Leonhard bei Freistadt",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",
+    "wof:population":1370,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

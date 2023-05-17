@@ -11,8 +11,20 @@
     "austriaod:objectid":415,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eberschwang",
+    "eurostat:nuts_2021_id":"41204",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41204",
+    "eurostat:population":3470,
+    "eurostat:population_year":2020,
     "geom:area":0.004889,
-    "geom:area_square_m":40336173.4686,
+    "geom:area_square_m":40336173.468593,
     "geom:bbox":"13.5124335338,48.113937143,13.6133005737,48.1843768467",
     "geom:latitude":48.147689,
     "geom:longitude":13.561886,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41204",
+        "eurostat:nuts_2021_id":"41204"
+    },
     "wof:country":"AT",
     "wof:created":1490046762,
-    "wof:geomhash":"3357ae87f14ab5b32bed500d6f010584",
+    "wof:geomhash":"06c5d5ae59e59b1127ee516e4a8acacf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835633,
-    "wof:lastmodified":1566598494,
+    "wof:lastmodified":1684351538,
     "wof:name":"Eberschwang",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",
+    "wof:population":3470,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

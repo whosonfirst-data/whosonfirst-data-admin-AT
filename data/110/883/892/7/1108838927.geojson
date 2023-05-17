@@ -11,8 +11,20 @@
     "austriaod:objectid":1878,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61260",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Michaelerberg-Pruggern",
+    "eurostat:nuts_2021_id":"61260",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT222",
+    "eurostat:nuts_2021_level_lau":"61260",
+    "eurostat:population":1157,
+    "eurostat:population_year":2020,
     "geom:area":0.005679,
-    "geom:area_square_m":47545649.163235,
+    "geom:area_square_m":47545649.163231,
     "geom:bbox":"13.8302360551,47.3305148405,13.9295781623,47.4402057458",
     "geom:latitude":47.388298,
     "geom:longitude":13.880998,
@@ -47,6 +59,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -54,10 +68,13 @@
         102049777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61260",
+        "eurostat:nuts_2021_id":"61260"
+    },
     "wof:country":"AT",
     "wof:created":1490047186,
-    "wof:geomhash":"e1c2ccbf2f835e9d7716077211a7f4bb",
+    "wof:geomhash":"d06a596400646e312432c57df12aefad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +85,12 @@
         }
     ],
     "wof:id":1108838927,
-    "wof:lastmodified":1566598307,
+    "wof:lastmodified":1684351632,
     "wof:name":"Michaelerberg-Pruggern",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",
+    "wof:population":1157,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

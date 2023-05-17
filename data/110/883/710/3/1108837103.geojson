@@ -11,8 +11,20 @@
     "austriaod:objectid":1069,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_50211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Koloman",
+    "eurostat:nuts_2021_id":"50211",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT32",
+    "eurostat:nuts_2021_level_3":"AT323",
+    "eurostat:nuts_2021_level_lau":"50211",
+    "eurostat:population":1769,
+    "eurostat:population_year":2020,
     "geom:area":0.006709,
-    "geom:area_square_m":55883440.450883,
+    "geom:area_square_m":55883440.450894,
     "geom:bbox":"13.1621999922,47.6150530696,13.3113129337,47.6908593382",
     "geom:latitude":47.651092,
     "geom:longitude":13.240599,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049773
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_50211",
+        "eurostat:nuts_2021_id":"50211"
+    },
     "wof:country":"AT",
     "wof:created":1490046954,
-    "wof:geomhash":"47049a39dd7dea71b412d54389e6fb34",
+    "wof:geomhash":"ab8f95f9261a543bbeb531e19aad9f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108837103,
-    "wof:lastmodified":1566598749,
+    "wof:lastmodified":1684351582,
     "wof:name":"Sankt Koloman",
     "wof:parent_id":102049773,
     "wof:placetype":"localadmin",
+    "wof:population":1769,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

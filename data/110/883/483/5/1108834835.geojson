@@ -11,8 +11,20 @@
     "austriaod:objectid":61,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32337",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u00f6llersdorf-Steinabr\u00fcckl",
+    "eurostat:nuts_2021_id":"32337",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"32337",
+    "eurostat:population":4631,
+    "eurostat:population_year":2020,
     "geom:area":0.001746,
-    "geom:area_square_m":14483430.116618,
+    "geom:area_square_m":14483430.116619,
     "geom:bbox":"16.1342464319,47.8456840639,16.2234217111,47.8841877732",
     "geom:latitude":47.863855,
     "geom:longitude":16.178069,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32337",
+        "eurostat:nuts_2021_id":"32337"
+    },
     "wof:country":"AT",
     "wof:created":1490046652,
-    "wof:geomhash":"6b08a43f2bd26232b7ab958b2d104da1",
+    "wof:geomhash":"9f48323f309dfbb588c0d1b61a9384e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108834835,
-    "wof:lastmodified":1566598266,
+    "wof:lastmodified":1684351512,
     "wof:name":"W\u00f6llersdorf - Steinabr\u00fcckl",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",
+    "wof:population":4631,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

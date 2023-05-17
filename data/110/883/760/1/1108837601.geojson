@@ -11,8 +11,20 @@
     "austriaod:objectid":1290,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70317",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gschnitz",
+    "eurostat:nuts_2021_id":"70317",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT332",
+    "eurostat:nuts_2021_level_lau":"70317",
+    "eurostat:population":438,
+    "eurostat:population_year":2020,
     "geom:area":0.007006,
-    "geom:area_square_m":59063246.998506,
+    "geom:area_square_m":59063246.998502,
     "geom:bbox":"11.2420683947,46.973907526,11.3793373775,47.0672421253",
     "geom:latitude":47.017519,
     "geom:longitude":11.310795,
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70317",
+        "eurostat:nuts_2021_id":"70317"
+    },
     "wof:country":"AT",
     "wof:created":1490047022,
-    "wof:geomhash":"bdf80cbe12d9c5ab3b931549d76547a5",
+    "wof:geomhash":"391958e836c4ad0db9553162c9933cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108837601,
-    "wof:lastmodified":1566598483,
+    "wof:lastmodified":1684351595,
     "wof:name":"Gschnitz",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",
+    "wof:population":438,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

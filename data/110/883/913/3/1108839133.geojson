@@ -11,8 +11,20 @@
     "austriaod:objectid":1970,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60660",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobl-Zwaring",
+    "eurostat:nuts_2021_id":"60660",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60660",
+    "eurostat:population":3544,
+    "eurostat:population_year":2020,
     "geom:area":0.004481,
-    "geom:area_square_m":37842272.493978,
+    "geom:area_square_m":37842272.493972,
     "geom:bbox":"15.3381245201,46.8759583215,15.4501613592,46.9716378761",
     "geom:latitude":46.920028,
     "geom:longitude":15.394738,
@@ -56,6 +68,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -63,10 +77,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60660",
+        "eurostat:nuts_2021_id":"60660"
+    },
     "wof:country":"AT",
     "wof:created":1490047212,
-    "wof:geomhash":"039a1d21efcfd354f4e74646bcaf13e1",
+    "wof:geomhash":"020cf9839e8d410c2aa08353af7042a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +94,12 @@
         }
     ],
     "wof:id":1108839133,
-    "wof:lastmodified":1566598447,
+    "wof:lastmodified":1684351638,
     "wof:name":"Dobl-Zwaring",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":3544,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1559,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Deutsch-Griffen",
+    "eurostat:nuts_2021_id":"20503",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT213",
+    "eurostat:nuts_2021_level_lau":"20503",
+    "eurostat:population":897,
+    "eurostat:population_year":2020,
     "geom:area":0.008444,
-    "geom:area_square_m":71350706.997642,
+    "geom:area_square_m":71350706.997633,
     "geom:bbox":"13.9426263765,46.8316587168,14.1339985741,46.9633971122",
     "geom:latitude":46.893174,
     "geom:longitude":14.028663,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20503",
+        "eurostat:nuts_2021_id":"20503"
+    },
     "wof:country":"AT",
     "wof:created":1490047095,
-    "wof:geomhash":"005ad531c67c3d9af4197b60a9d7c1c4",
+    "wof:geomhash":"317eaf65e14ed5ffcb550019c82b6620",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838207,
-    "wof:lastmodified":1566598224,
+    "wof:lastmodified":1684351611,
     "wof:name":"Deutsch - Griffen",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",
+    "wof:population":897,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1953,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62245",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Lorenzen am Wechsel",
+    "eurostat:nuts_2021_id":"62245",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62245",
+    "eurostat:population":1454,
+    "eurostat:population_year":2020,
     "geom:area":0.005795,
-    "geom:area_square_m":48437926.421197,
+    "geom:area_square_m":48437926.421183,
     "geom:bbox":"15.9108511212,47.4043362522,15.9886323578,47.5300269229",
     "geom:latitude":47.465632,
     "geom:longitude":15.948163,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         1108892549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62245",
+        "eurostat:nuts_2021_id":"62245"
+    },
     "wof:country":"AT",
     "wof:created":1490047206,
-    "wof:geomhash":"3f0abd3b2c2a61c8e408eb1d8af2bcf3",
+    "wof:geomhash":"24cf5ff73de686ec6cd4ccf8c037de90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108839095,
-    "wof:lastmodified":1566598130,
+    "wof:lastmodified":1684351637,
     "wof:name":"St. Lorenzen",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",
+    "wof:population":1454,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

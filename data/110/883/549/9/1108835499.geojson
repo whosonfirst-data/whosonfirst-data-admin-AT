@@ -11,8 +11,20 @@
     "austriaod:objectid":356,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40916",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Pankraz",
+    "eurostat:nuts_2021_id":"40916",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT314",
+    "eurostat:nuts_2021_level_lau":"40916",
+    "eurostat:population":359,
+    "eurostat:population_year":2020,
     "geom:area":0.005661,
-    "geom:area_square_m":47050652.027002,
+    "geom:area_square_m":47050652.027004,
     "geom:bbox":"14.1602033891,47.7246684625,14.2887667379,47.804029122",
     "geom:latitude":47.769727,
     "geom:longitude":14.218298,
@@ -122,6 +134,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -129,10 +143,13 @@
         102049815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40916",
+        "eurostat:nuts_2021_id":"40916"
+    },
     "wof:country":"AT",
     "wof:created":1490046745,
-    "wof:geomhash":"3ac0f227bd0723d723239b09277008d8",
+    "wof:geomhash":"0bbbb2a052615854819fee25071791e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +160,12 @@
         }
     ],
     "wof:id":1108835499,
-    "wof:lastmodified":1566598705,
+    "wof:lastmodified":1684351533,
     "wof:name":"St. Pankraz",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",
+    "wof:population":359,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

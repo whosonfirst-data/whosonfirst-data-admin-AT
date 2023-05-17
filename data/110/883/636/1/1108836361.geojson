@@ -11,6 +11,18 @@
     "austriaod:objectid":739,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Enzesfeld-Lindabrunn",
+    "eurostat:nuts_2021_id":"30608",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"30608",
+    "eurostat:population":4224,
+    "eurostat:population_year":2020,
     "geom:area":0.001913,
     "geom:area_square_m":15855951.093923,
     "geom:bbox":"16.1329810484,47.8846419972,16.2053820659,47.9329278753",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049829
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30608",
+        "eurostat:nuts_2021_id":"30608"
+    },
     "wof:country":"AT",
     "wof:created":1490046861,
-    "wof:geomhash":"a207ffb6fad1bbeb02742bfc50ba6880",
+    "wof:geomhash":"bc79974da11013d33e3eca77d99fbdc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836361,
-    "wof:lastmodified":1566598699,
+    "wof:lastmodified":1684351560,
     "wof:name":"Enzesfeld - Lindabrunn",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",
+    "wof:population":4224,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

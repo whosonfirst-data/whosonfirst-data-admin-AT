@@ -11,8 +11,20 @@
     "austriaod:objectid":2003,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Feldkirchen bei Graz",
+    "eurostat:nuts_2021_id":"60608",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60608",
+    "eurostat:population":6703,
+    "eurostat:population_year":2020,
     "geom:area":0.00137,
-    "geom:area_square_m":11552444.647413,
+    "geom:area_square_m":11552444.647414,
     "geom:bbox":"15.4246752356,46.9752820277,15.4810753265,47.021508776",
     "geom:latitude":46.997081,
     "geom:longitude":15.451044,
@@ -68,6 +80,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -75,10 +89,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60608",
+        "eurostat:nuts_2021_id":"60608"
+    },
     "wof:country":"AT",
     "wof:created":1490047221,
-    "wof:geomhash":"69bb4cfa3ea390d093153044064b4f51",
+    "wof:geomhash":"72f123b329387ec3b25f577af9a189ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +106,12 @@
         }
     ],
     "wof:id":1108839207,
-    "wof:lastmodified":1566598724,
+    "wof:lastmodified":1684351640,
     "wof:name":"Feldkirchen",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":6703,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

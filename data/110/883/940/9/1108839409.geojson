@@ -11,8 +11,20 @@
     "austriaod:objectid":2093,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Georgen ob Judenburg",
+    "eurostat:nuts_2021_id":"62026",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"62026",
+    "eurostat:population":831,
+    "eurostat:population_year":2020,
     "geom:area":0.005266,
-    "geom:area_square_m":44242728.274833,
+    "geom:area_square_m":44242728.274839,
     "geom:bbox":"14.4434186113,47.157886612,14.5598170203,47.2347768011",
     "geom:latitude":47.198955,
     "geom:longitude":14.504404,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62026",
+        "eurostat:nuts_2021_id":"62026"
+    },
     "wof:country":"AT",
     "wof:created":1490047254,
-    "wof:geomhash":"990a78d8b95ef6ebf11ac37d76b68b29",
+    "wof:geomhash":"7491a095daa5b244466e04f6465a87f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839409,
-    "wof:lastmodified":1566598418,
+    "wof:lastmodified":1684351648,
     "wof:name":"St. Georgen ob Judenburg",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",
+    "wof:population":831,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

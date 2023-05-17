@@ -11,8 +11,20 @@
     "austriaod:objectid":187,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40627",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Zell",
+    "eurostat:nuts_2021_id":"40627",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"40627",
+    "eurostat:population":2883,
+    "eurostat:population_year":2020,
     "geom:area":0.005527,
-    "geom:area_square_m":45408458.826257,
+    "geom:area_square_m":45408458.826259,
     "geom:bbox":"14.6228348062,48.30918199,14.7207953413,48.4077645639",
     "geom:latitude":48.360981,
     "geom:longitude":14.672209,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049883
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40627",
+        "eurostat:nuts_2021_id":"40627"
+    },
     "wof:country":"AT",
     "wof:created":1490046690,
-    "wof:geomhash":"b7c3d7bda2ea83da31a681fe1756f155",
+    "wof:geomhash":"3b8d32550da4584b9c1b2ce736d71bae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835119,
-    "wof:lastmodified":1566598431,
+    "wof:lastmodified":1684351522,
     "wof:name":"Bad Zell",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",
+    "wof:population":2883,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1864,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61764",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pischelsdorf am Kulm",
+    "eurostat:nuts_2021_id":"61764",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"61764",
+    "eurostat:population":3679,
+    "eurostat:population_year":2020,
     "geom:area":0.003341,
-    "geom:area_square_m":28076936.663682,
+    "geom:area_square_m":28076936.663679,
     "geom:bbox":"15.7390869444,47.1545710046,15.8480450734,47.2184268814",
     "geom:latitude":47.18448,
     "geom:longitude":15.787535,
@@ -35,6 +47,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -42,10 +56,13 @@
         102049765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61764",
+        "eurostat:nuts_2021_id":"61764"
+    },
     "wof:country":"AT",
     "wof:created":1490047181,
-    "wof:geomhash":"6660b4f7b626560cad0091cefaebb9bf",
+    "wof:geomhash":"d05b64ae9913398aba42fe18b47e07ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +73,12 @@
         }
     ],
     "wof:id":1108838895,
-    "wof:lastmodified":1566598252,
+    "wof:lastmodified":1684351631,
     "wof:name":"Pischelsdorf",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",
+    "wof:population":3679,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

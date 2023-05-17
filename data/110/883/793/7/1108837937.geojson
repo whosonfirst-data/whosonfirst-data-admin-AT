@@ -11,8 +11,20 @@
     "austriaod:objectid":1439,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_80404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Feldkirch",
+    "eurostat:nuts_2021_id":"80404",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:nuts_2021_level_3":"AT342",
+    "eurostat:nuts_2021_level_lau":"80404",
+    "eurostat:population":34210,
+    "eurostat:population_year":2020,
     "geom:area":0.004082,
-    "geom:area_square_m":34257980.69886,
+    "geom:area_square_m":34257980.698865,
     "geom:bbox":"9.53074889951,47.2045705957,9.6322583547,47.3001914645",
     "geom:latitude":47.254678,
     "geom:longitude":9.580074,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049725
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_80404",
+        "eurostat:nuts_2021_id":"80404"
+    },
     "wof:country":"AT",
     "wof:created":1490047060,
-    "wof:geomhash":"e586d75f27304df2aa5fe802d9100efc",
+    "wof:geomhash":"cc9a286754ac51fc002e6290f7092058",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108837937,
-    "wof:lastmodified":1566598476,
+    "wof:lastmodified":1684351603,
     "wof:name":"Feldkirch",
     "wof:parent_id":102049725,
     "wof:placetype":"localadmin",
+    "wof:population":34210,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

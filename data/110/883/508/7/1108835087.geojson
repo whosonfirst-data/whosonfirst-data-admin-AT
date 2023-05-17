@@ -11,8 +11,20 @@
     "austriaod:objectid":173,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40613",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pierbach",
+    "eurostat:nuts_2021_id":"40613",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"40613",
+    "eurostat:population":1025,
+    "eurostat:population_year":2020,
     "geom:area":0.002759,
-    "geom:area_square_m":22664500.010202,
+    "geom:area_square_m":22664500.0102,
     "geom:bbox":"14.7116833006,48.3310935701,14.7842493176,48.4075266283",
     "geom:latitude":48.363774,
     "geom:longitude":14.753653,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049883
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40613",
+        "eurostat:nuts_2021_id":"40613"
+    },
     "wof:country":"AT",
     "wof:created":1490046685,
-    "wof:geomhash":"81dcf5f17a112bd91f2142b3c7a3ceb5",
+    "wof:geomhash":"af6ec67e1a36c0206d07de50b45b8108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835087,
-    "wof:lastmodified":1566598457,
+    "wof:lastmodified":1684351520,
     "wof:name":"Pierbach",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",
+    "wof:population":1025,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

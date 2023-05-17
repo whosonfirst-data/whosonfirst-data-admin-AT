@@ -11,8 +11,20 @@
     "austriaod:objectid":1843,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neuberg an der M\u00fcrz",
+    "eurostat:nuts_2021_id":"62144",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62144",
+    "eurostat:population":2380,
+    "eurostat:population_year":2020,
     "geom:area":0.032919,
-    "geom:area_square_m":274010768.264455,
+    "geom:area_square_m":274010768.264448,
     "geom:bbox":"15.3772739838,47.6132536814,15.7289714606,47.7678191331",
     "geom:latitude":47.688343,
     "geom:longitude":15.553973,
@@ -65,6 +77,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -72,10 +86,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62144",
+        "eurostat:nuts_2021_id":"62144"
+    },
     "wof:country":"AT",
     "wof:created":1490047175,
-    "wof:geomhash":"f5b19c9cc669ab0ebd11eba82996b5e9",
+    "wof:geomhash":"7c62eab57f7e23d8a8394cec144c62f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +103,12 @@
         }
     ],
     "wof:id":1108838845,
-    "wof:lastmodified":1566598551,
+    "wof:lastmodified":1684351629,
     "wof:name":"Neuberg",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":2380,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":24,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40421",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mattighofen",
+    "eurostat:nuts_2021_id":"40421",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40421",
+    "eurostat:population":6927,
+    "eurostat:population_year":2020,
     "geom:area":0.000622,
-    "geom:area_square_m":5137844.999125,
+    "geom:area_square_m":5137844.999128,
     "geom:bbox":"13.121744826,48.0871513467,13.1624557363,48.1171568507",
     "geom:latitude":48.101172,
     "geom:longitude":13.145932,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         102049833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40421",
+        "eurostat:nuts_2021_id":"40421"
+    },
     "wof:country":"AT",
     "wof:created":1490046642,
-    "wof:geomhash":"d34847cf640b97f8704b63ccaa965c30",
+    "wof:geomhash":"b4e3334a59a81f019440b20ab5d31923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108834753,
-    "wof:lastmodified":1566598576,
+    "wof:lastmodified":1684351509,
     "wof:name":"Mattighofen",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",
+    "wof:population":6927,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[
