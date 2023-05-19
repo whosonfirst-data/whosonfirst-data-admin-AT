@@ -11,8 +11,20 @@
     "austriaod:objectid":145,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Inzersdorf-Getzersdorf",
+    "eurostat:nuts_2021_id":"31913",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT123",
+    "eurostat:nuts_2021_level_lau":"31913",
+    "eurostat:population":1617,
+    "eurostat:population_year":2020,
     "geom:area":0.001649,
-    "geom:area_square_m":13560084.888622,
+    "geom:area_square_m":13560084.888621,
     "geom:bbox":"15.6495494355,48.3005525051,15.724482462,48.3338696794",
     "geom:latitude":48.316885,
     "geom:longitude":15.688497,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31913",
+        "eurostat:nuts_2021_id":"31913"
+    },
     "wof:country":"AT",
     "wof:created":1490046676,
-    "wof:geomhash":"850105379c7abc12a64397720024b302",
+    "wof:geomhash":"0e0b60db2b3ca76893466160a5e75b8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835025,
-    "wof:lastmodified":1566598167,
+    "wof:lastmodified":1684351517,
     "wof:name":"Inzersdorf - Getzersdorf",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",
+    "wof:population":1617,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

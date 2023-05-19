@@ -11,8 +11,20 @@
     "austriaod:objectid":1495,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_80120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Gallenkirch",
+    "eurostat:nuts_2021_id":"80120",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:nuts_2021_level_3":"AT341",
+    "eurostat:nuts_2021_level_lau":"80120",
+    "eurostat:population":2213,
+    "eurostat:population_year":2020,
     "geom:area":0.015142,
-    "geom:area_square_m":127728088.613728,
+    "geom:area_square_m":127728088.61375,
     "geom:bbox":"9.87075281759,46.912229864,10.0697951944,47.060688645",
     "geom:latitude":46.987044,
     "geom:longitude":9.953763,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049711
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_80120",
+        "eurostat:nuts_2021_id":"80120"
+    },
     "wof:country":"AT",
     "wof:created":1490047079,
-    "wof:geomhash":"b312a5a3bb3cf851c91b56c70c353051",
+    "wof:geomhash":"1b12f568eff70d0bcf6b9c0eaecbbeb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838063,
-    "wof:lastmodified":1566598676,
+    "wof:lastmodified":1684351606,
     "wof:name":"St. Gallenkirc",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",
+    "wof:population":2213,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

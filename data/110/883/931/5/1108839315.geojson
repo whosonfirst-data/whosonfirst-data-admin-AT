@@ -11,8 +11,20 @@
     "austriaod:objectid":2051,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trag\u00f6\u00df-Sankt Katharein",
+    "eurostat:nuts_2021_id":"62148",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62148",
+    "eurostat:population":1842,
+    "eurostat:population_year":2020,
     "geom:area":0.018392,
-    "geom:area_square_m":153570150.617261,
+    "geom:area_square_m":153570150.617268,
     "geom:bbox":"14.9314859982,47.4386544093,15.2094046622,47.6074128737",
     "geom:latitude":47.524297,
     "geom:longitude":15.071733,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62148",
+        "eurostat:nuts_2021_id":"62148"
+    },
     "wof:country":"AT",
     "wof:created":1490047241,
-    "wof:geomhash":"8ce3aa7972d438d5d96ba2f4203290c5",
+    "wof:geomhash":"a9c6bafdaa11336b05a170f8e7a6de16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839315,
-    "wof:lastmodified":1566598140,
+    "wof:lastmodified":1684351645,
     "wof:name":"Trag\u00f6\u00df-St. Katharein",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":1842,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

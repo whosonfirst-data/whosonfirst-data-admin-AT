@@ -11,8 +11,20 @@
     "austriaod:objectid":1849,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Barbara im M\u00fcrztal",
+    "eurostat:nuts_2021_id":"62145",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62145",
+    "eurostat:population":6589,
+    "eurostat:population_year":2020,
     "geom:area":0.01346,
-    "geom:area_square_m":112253835.970437,
+    "geom:area_square_m":112253835.970444,
     "geom:bbox":"15.3892376914,47.4922553963,15.548041136,47.6597851389",
     "geom:latitude":47.588504,
     "geom:longitude":15.476273,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62145",
+        "eurostat:nuts_2021_id":"62145"
+    },
     "wof:country":"AT",
     "wof:created":1490047177,
-    "wof:geomhash":"dab95fed654f6d865084650398f1b509",
+    "wof:geomhash":"915fb51b5630ff6c3edbb7e9060312a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838861,
-    "wof:lastmodified":1566598292,
+    "wof:lastmodified":1684351630,
     "wof:name":"St. Barbara",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":6589,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

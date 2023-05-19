@@ -11,8 +11,20 @@
     "austriaod:objectid":577,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41331",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Johann am Wimberg",
+    "eurostat:nuts_2021_id":"41331",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"41331",
+    "eurostat:population":998,
+    "eurostat:population_year":2020,
     "geom:area":0.002401,
-    "geom:area_square_m":19675791.287553,
+    "geom:area_square_m":19675791.287559,
     "geom:bbox":"14.0900176831,48.4652935076,14.1705190477,48.5300837055",
     "geom:latitude":48.494985,
     "geom:longitude":14.131511,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41331",
+        "eurostat:nuts_2021_id":"41331"
+    },
     "wof:country":"AT",
     "wof:created":1490046808,
-    "wof:geomhash":"7fe19b7e369e608894b03e723ef0b72c",
+    "wof:geomhash":"3bf34505766427b0cdb4b2ebf2a93f05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835997,
-    "wof:lastmodified":1566598484,
+    "wof:lastmodified":1684351548,
     "wof:name":"St. Johann am Wimberg",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",
+    "wof:population":998,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

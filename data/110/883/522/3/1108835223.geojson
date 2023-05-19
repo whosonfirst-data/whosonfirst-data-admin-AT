@@ -11,8 +11,20 @@
     "austriaod:objectid":233,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40826",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Thomas",
+    "eurostat:nuts_2021_id":"40826",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40826",
+    "eurostat:population":549,
+    "eurostat:population_year":2020,
     "geom:area":0.000736,
-    "geom:area_square_m":6057010.137613,
+    "geom:area_square_m":6057010.137612,
     "geom:bbox":"13.8510094798,48.2734525731,13.9101907389,48.297074348",
     "geom:latitude":48.285737,
     "geom:longitude":13.881202,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40826",
+        "eurostat:nuts_2021_id":"40826"
+    },
     "wof:country":"AT",
     "wof:created":1490046703,
-    "wof:geomhash":"572c77b027c767bbf869d81bd6258d72",
+    "wof:geomhash":"7b95926d87fbdbc1103df5f6ed0673c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835223,
-    "wof:lastmodified":1566598748,
+    "wof:lastmodified":1684351525,
     "wof:name":"St. Thomas",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":549,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

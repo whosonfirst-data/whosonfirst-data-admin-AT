@@ -11,8 +11,20 @@
     "austriaod:objectid":776,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41712",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Innerschwand am Mondsee",
+    "eurostat:nuts_2021_id":"41712",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT315",
+    "eurostat:nuts_2021_level_lau":"41712",
+    "eurostat:population":1173,
+    "eurostat:population_year":2020,
     "geom:area":0.002252,
-    "geom:area_square_m":18694004.483095,
+    "geom:area_square_m":18694004.483091,
     "geom:bbox":"13.3717850284,47.8050024037,13.4533742825,47.8576799926",
     "geom:latitude":47.834049,
     "geom:longitude":13.414641,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41712",
+        "eurostat:nuts_2021_id":"41712"
+    },
     "wof:country":"AT",
     "wof:created":1490046872,
-    "wof:geomhash":"b04ead428251db0c518cc93549096d38",
+    "wof:geomhash":"1f63dbad213a51eb288a82865d4661fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108836445,
-    "wof:lastmodified":1566598239,
+    "wof:lastmodified":1684351563,
     "wof:name":"Innerschwand am Mondsee",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",
+    "wof:population":1173,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1512,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_90001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wien",
+    "eurostat:nuts_2021_id":"90001",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT13",
+    "eurostat:nuts_2021_level_3":"AT130",
+    "eurostat:nuts_2021_level_lau":"90001",
+    "eurostat:population":1911191,
+    "eurostat:population_year":2020,
     "geom:area":0.050199,
-    "geom:area_square_m":413661400.294049,
+    "geom:area_square_m":413661400.294036,
     "geom:bbox":"16.18183,48.117903,16.577514,48.322667",
     "geom:latitude":48.208443,
     "geom:longitude":16.377844,
@@ -44,14 +56,18 @@
     "qs_pg:woe_id":12675684,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
-        102049859,
-        85681667
+        85681667,
+        102049859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AT_90001",
+        "eurostat:nuts_2021_id":"90001",
         "gp:id":12675684,
         "qs_pg:id":913332
     },
@@ -60,7 +76,7 @@
     ],
     "wof:country":"AT",
     "wof:created":1490047083,
-    "wof:geomhash":"200c6b33d79a684e36c6e7b3161e8873",
+    "wof:geomhash":"8b4a98fd21f56520256cef635f07737e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":1108838101,
-    "wof:lastmodified":1607996894,
+    "wof:lastmodified":1684351607,
     "wof:name":"Wien",
     "wof:parent_id":102049859,
     "wof:placetype":"localadmin",
+    "wof:population":1911191,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":2056,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aflenz",
+    "eurostat:nuts_2021_id":"62138",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62138",
+    "eurostat:population":2440,
+    "eurostat:population_year":2020,
     "geom:area":0.006586,
-    "geom:area_square_m":54947100.264671,
+    "geom:area_square_m":54947100.26467,
     "geom:bbox":"15.1945280892,47.5291875511,15.3329403227,47.6095101515",
     "geom:latitude":47.568994,
     "geom:longitude":15.260427,
@@ -62,6 +74,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -69,10 +83,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62138",
+        "eurostat:nuts_2021_id":"62138"
+    },
     "wof:country":"AT",
     "wof:created":1490047242,
-    "wof:geomhash":"5563a940f0a7e9088b3ccab47de2f6d5",
+    "wof:geomhash":"97058d25c29c98f26a6b133765a2ea0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +100,12 @@
         }
     ],
     "wof:id":1108839327,
-    "wof:lastmodified":1566598477,
+    "wof:lastmodified":1684351645,
     "wof:name":"Aflenz",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":2440,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

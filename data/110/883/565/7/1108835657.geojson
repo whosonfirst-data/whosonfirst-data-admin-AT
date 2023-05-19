@@ -11,8 +11,20 @@
     "austriaod:objectid":426,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mettmach",
+    "eurostat:nuts_2021_id":"41215",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41215",
+    "eurostat:population":2354,
+    "eurostat:population_year":2020,
     "geom:area":0.003577,
-    "geom:area_square_m":29508708.174406,
+    "geom:area_square_m":29508708.174407,
     "geom:bbox":"13.3232488435,48.102229554,13.4022089056,48.1993183913",
     "geom:latitude":48.15875,
     "geom:longitude":13.355043,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41215",
+        "eurostat:nuts_2021_id":"41215"
+    },
     "wof:country":"AT",
     "wof:created":1490046765,
-    "wof:geomhash":"c87f35e202ca45a4d044abc9ee52e3a4",
+    "wof:geomhash":"6958abfb10b1edceb5f2b549065d7b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108835657,
-    "wof:lastmodified":1566598524,
+    "wof:lastmodified":1684351539,
     "wof:name":"Mettmach",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",
+    "wof:population":2354,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

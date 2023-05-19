@@ -11,8 +11,20 @@
     "austriaod:objectid":1151,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flie\u00df",
+    "eurostat:nuts_2021_id":"70604",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT334",
+    "eurostat:nuts_2021_level_lau":"70604",
+    "eurostat:population":3084,
+    "eurostat:population_year":2020,
     "geom:area":0.005633,
-    "geom:area_square_m":47398298.194941,
+    "geom:area_square_m":47398298.194939,
     "geom:bbox":"10.5523586023,47.0874114498,10.7313299413,47.1559663524",
     "geom:latitude":47.122221,
     "geom:longitude":10.637837,
@@ -101,6 +113,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -108,10 +122,13 @@
         102049707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70604",
+        "eurostat:nuts_2021_id":"70604"
+    },
     "wof:country":"AT",
     "wof:created":1490046984,
-    "wof:geomhash":"a5b50bdf34101be9ce77504652bcfd5e",
+    "wof:geomhash":"05a1cd3b46c76a721a45d788328695b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":1108837289,
-    "wof:lastmodified":1566598746,
+    "wof:lastmodified":1684351587,
     "wof:name":"Flie\u00df",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",
+    "wof:population":3084,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

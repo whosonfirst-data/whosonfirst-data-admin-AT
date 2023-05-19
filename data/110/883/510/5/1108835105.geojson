@@ -11,8 +11,20 @@
     "austriaod:objectid":181,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40621",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Unterwei\u00dfenbach",
+    "eurostat:nuts_2021_id":"40621",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"40621",
+    "eurostat:population":2171,
+    "eurostat:population_year":2020,
     "geom:area":0.005926,
-    "geom:area_square_m":48606787.669873,
+    "geom:area_square_m":48606787.669861,
     "geom:bbox":"14.7262930508,48.3956545761,14.8687232303,48.5006174004",
     "geom:latitude":48.449073,
     "geom:longitude":14.803552,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049883
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40621",
+        "eurostat:nuts_2021_id":"40621"
+    },
     "wof:country":"AT",
     "wof:created":1490046687,
-    "wof:geomhash":"68c732ba18778d9996d58e5bffd597b5",
+    "wof:geomhash":"e9afd008623f93e66e2dc6bc7e83cbdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835105,
-    "wof:lastmodified":1566598374,
+    "wof:lastmodified":1684351521,
     "wof:name":"Unterwei\u00dfenbach",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",
+    "wof:population":2171,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":57,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31832",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scheiblingkirchen-Thernberg",
+    "eurostat:nuts_2021_id":"31832",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"31832",
+    "eurostat:population":1902,
+    "eurostat:population_year":2020,
     "geom:area":0.004528,
-    "geom:area_square_m":37711759.290491,
+    "geom:area_square_m":37711759.290487,
     "geom:bbox":"16.0986746666,47.618949664,16.2081957356,47.6951123577",
     "geom:latitude":47.661357,
     "geom:longitude":16.163046,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31832",
+        "eurostat:nuts_2021_id":"31832"
+    },
     "wof:country":"AT",
     "wof:created":1490046651,
-    "wof:geomhash":"26c4abae36fe3cb57883b4403e93b213",
+    "wof:geomhash":"586f01ab28b8cba9fa1fa4de8ae91a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108834827,
-    "wof:lastmodified":1566598237,
+    "wof:lastmodified":1684351511,
     "wof:name":"Scheiblingkirchen - Thernberg",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",
+    "wof:population":1902,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

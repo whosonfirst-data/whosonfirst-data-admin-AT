@@ -11,6 +11,18 @@
     "austriaod:objectid":1984,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60668",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Marein bei Graz",
+    "eurostat:nuts_2021_id":"60668",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60668",
+    "eurostat:population":3747,
+    "eurostat:population_year":2020,
     "geom:area":0.004938,
     "geom:area_square_m":41627771.530327,
     "geom:bbox":"15.6088120978,46.9777939011,15.7307347179,47.0584935242",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60668",
+        "eurostat:nuts_2021_id":"60668"
+    },
     "wof:country":"AT",
     "wof:created":1490047216,
-    "wof:geomhash":"3c32daa94cf63366630cc1b4dfe85e46",
+    "wof:geomhash":"802005e6ad90a6a5cf0d23a4c851eaa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839165,
-    "wof:lastmodified":1566598715,
+    "wof:lastmodified":1684351639,
     "wof:name":"St. Marein",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":3747,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

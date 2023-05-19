@@ -11,8 +11,20 @@
     "austriaod:objectid":987,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Furth an der Triesting",
+    "eurostat:nuts_2021_id":"30609",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"30609",
+    "eurostat:population":863,
+    "eurostat:population_year":2020,
     "geom:area":0.007732,
-    "geom:area_square_m":64005712.343844,
+    "geom:area_square_m":64005712.343841,
     "geom:bbox":"15.8661608854,47.926658114,16.0385506148,48.0022068248",
     "geom:latitude":47.971543,
     "geom:longitude":15.949974,
@@ -77,6 +89,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -84,10 +98,13 @@
         102049829
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30609",
+        "eurostat:nuts_2021_id":"30609"
+    },
     "wof:country":"AT",
     "wof:created":1490046928,
-    "wof:geomhash":"bf1e9db5a12baedf9813b2fa90b0ed12",
+    "wof:geomhash":"e23a3d5daabb854510f4ca8cf9137ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +115,12 @@
         }
     ],
     "wof:id":1108836919,
-    "wof:lastmodified":1566598671,
+    "wof:lastmodified":1684351576,
     "wof:name":"Furth an der Triesting",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",
+    "wof:population":863,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

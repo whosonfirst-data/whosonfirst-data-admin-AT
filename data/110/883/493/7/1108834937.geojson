@@ -11,8 +11,20 @@
     "austriaod:objectid":106,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rosenburg-Mold",
+    "eurostat:nuts_2021_id":"31121",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT124",
+    "eurostat:nuts_2021_level_lau":"31121",
+    "eurostat:population":850,
+    "eurostat:population_year":2020,
     "geom:area":0.003744,
-    "geom:area_square_m":30591688.284401,
+    "geom:area_square_m":30591688.284392,
     "geom:bbox":"15.6084911183,48.6026810284,15.7381901254,48.6680991033",
     "geom:latitude":48.632853,
     "geom:longitude":15.685001,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31121",
+        "eurostat:nuts_2021_id":"31121"
+    },
     "wof:country":"AT",
     "wof:created":1490046664,
-    "wof:geomhash":"e49a179be7b41f2148ba228c2850d855",
+    "wof:geomhash":"46b1ce28464f7638ef414f5daa6b1d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108834937,
-    "wof:lastmodified":1566598624,
+    "wof:lastmodified":1684351515,
     "wof:name":"Rosenburg - Mold",
     "wof:parent_id":102049901,
     "wof:placetype":"localadmin",
+    "wof:population":850,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

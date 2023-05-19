@@ -11,8 +11,20 @@
     "austriaod:objectid":251,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40910",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nu\u00dfbach",
+    "eurostat:nuts_2021_id":"40910",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT314",
+    "eurostat:nuts_2021_level_lau":"40910",
+    "eurostat:population":2305,
+    "eurostat:population_year":2020,
     "geom:area":0.003672,
-    "geom:area_square_m":30396353.923356,
+    "geom:area_square_m":30396353.923357,
     "geom:bbox":"14.1065961178,47.9392794587,14.2196717754,47.9979181312",
     "geom:latitude":47.970566,
     "geom:longitude":14.161493,
@@ -56,6 +68,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -63,10 +77,13 @@
         102049815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40910",
+        "eurostat:nuts_2021_id":"40910"
+    },
     "wof:country":"AT",
     "wof:created":1490046716,
-    "wof:geomhash":"f8224393aaa60217848332f88a241f1b",
+    "wof:geomhash":"d0338f5ea67edb4d02b5ea29f0a2fb7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +94,12 @@
         }
     ],
     "wof:id":1108835263,
-    "wof:lastmodified":1566598384,
+    "wof:lastmodified":1684351526,
     "wof:name":"Nu\u00dfbach",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",
+    "wof:population":2305,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

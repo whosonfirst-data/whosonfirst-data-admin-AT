@@ -11,8 +11,20 @@
     "austriaod:objectid":410,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Waldhausen im Strudengau",
+    "eurostat:nuts_2021_id":"41125",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"41125",
+    "eurostat:population":2853,
+    "eurostat:population_year":2020,
     "geom:area":0.005659,
-    "geom:area_square_m":46573369.066409,
+    "geom:area_square_m":46573369.066386,
     "geom:bbox":"14.8812228824,48.2191329202,14.9921698566,48.3254446643",
     "geom:latitude":48.276571,
     "geom:longitude":14.950773,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049865
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41125",
+        "eurostat:nuts_2021_id":"41125"
+    },
     "wof:country":"AT",
     "wof:created":1490046760,
-    "wof:geomhash":"f28ccefa46b12b063108109ec61cf7a3",
+    "wof:geomhash":"da73ef2864fc9326c872c33e9b35284b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835621,
-    "wof:lastmodified":1566598518,
+    "wof:lastmodified":1684351537,
     "wof:name":"Waldhausen im Strudengau",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",
+    "wof:population":2853,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

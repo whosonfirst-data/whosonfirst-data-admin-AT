@@ -11,8 +11,20 @@
     "austriaod:objectid":1610,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Afritz am See",
+    "eurostat:nuts_2021_id":"20701",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT211",
+    "eurostat:nuts_2021_level_lau":"20701",
+    "eurostat:population":1404,
+    "eurostat:population_year":2020,
     "geom:area":0.003303,
-    "geom:area_square_m":27993295.175195,
+    "geom:area_square_m":27993295.175191,
     "geom:bbox":"13.7282268407,46.7042678782,13.8248177541,46.7819746252",
     "geom:latitude":46.738855,
     "geom:longitude":13.779773,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049683
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20701",
+        "eurostat:nuts_2021_id":"20701"
+    },
     "wof:country":"AT",
     "wof:created":1490047113,
-    "wof:geomhash":"c126978ab83ba5a74f83eede8a10b8b5",
+    "wof:geomhash":"a2bb00b65717f4292f90f3fd37ff291c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838321,
-    "wof:lastmodified":1566598335,
+    "wof:lastmodified":1684351615,
     "wof:name":"Afritz",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",
+    "wof:population":1404,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

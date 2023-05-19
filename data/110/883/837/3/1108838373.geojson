@@ -11,8 +11,20 @@
     "austriaod:objectid":1633,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eisenkappel-Vellach",
+    "eurostat:nuts_2021_id":"20804",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT213",
+    "eurostat:nuts_2021_level_lau":"20804",
+    "eurostat:population":2272,
+    "eurostat:population_year":2020,
     "geom:area":0.023369,
-    "geom:area_square_m":199025979.940887,
+    "geom:area_square_m":199025979.940904,
     "geom:bbox":"14.4301423426,46.3723050732,14.7590927691,46.5399135825",
     "geom:latitude":46.468814,
     "geom:longitude":14.572546,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049685
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20804",
+        "eurostat:nuts_2021_id":"20804"
+    },
     "wof:country":"AT",
     "wof:created":1490047119,
-    "wof:geomhash":"69106aaeab83766d04fb27a5305b882f",
+    "wof:geomhash":"cb00433313fef2f963a98f0edda2d7b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838373,
-    "wof:lastmodified":1566598664,
+    "wof:lastmodified":1684351616,
     "wof:name":"Eisenkappel - Vellach",
     "wof:parent_id":102049685,
     "wof:placetype":"localadmin",
+    "wof:population":2272,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

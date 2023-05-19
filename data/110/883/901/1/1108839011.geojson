@@ -11,8 +11,20 @@
     "austriaod:objectid":1916,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kraubath an der Mur",
+    "eurostat:nuts_2021_id":"61107",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"61107",
+    "eurostat:population":1320,
+    "eurostat:population_year":2020,
     "geom:area":0.003271,
-    "geom:area_square_m":27418685.995558,
+    "geom:area_square_m":27418685.995552,
     "geom:bbox":"14.863783235,47.2819994015,14.9606304246,47.3555404097",
     "geom:latitude":47.319985,
     "geom:longitude":14.91623,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61107",
+        "eurostat:nuts_2021_id":"61107"
+    },
     "wof:country":"AT",
     "wof:created":1490047196,
-    "wof:geomhash":"87fbd6f6c2f558df1881cb8bd8915d0e",
+    "wof:geomhash":"bbb3195a969e810b0a9cb93618faa42a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839011,
-    "wof:lastmodified":1566598177,
+    "wof:lastmodified":1684351634,
     "wof:name":"Kraubath",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",
+    "wof:population":1320,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":455,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burgschleinitz-K\u00fchnring",
+    "eurostat:nuts_2021_id":"31103",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT124",
+    "eurostat:nuts_2021_level_lau":"31103",
+    "eurostat:population":1338,
+    "eurostat:population_year":2020,
     "geom:area":0.005105,
-    "geom:area_square_m":41737781.04063,
+    "geom:area_square_m":41737781.040629,
     "geom:bbox":"15.7208136376,48.5729257969,15.8406346402,48.6493005184",
     "geom:latitude":48.610044,
     "geom:longitude":15.776669,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049901
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31103",
+        "eurostat:nuts_2021_id":"31103"
+    },
     "wof:country":"AT",
     "wof:created":1490046773,
-    "wof:geomhash":"14196452c3ad136e692b462660fa74d2",
+    "wof:geomhash":"da7732e0419c191ab2395b7aa38a2b82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835723,
-    "wof:lastmodified":1566598393,
+    "wof:lastmodified":1684351540,
     "wof:name":"Burgschleinitz - K\u00fchnring",
     "wof:parent_id":102049901,
     "wof:placetype":"localadmin",
+    "wof:population":1338,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

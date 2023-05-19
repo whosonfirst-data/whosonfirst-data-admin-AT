@@ -11,8 +11,20 @@
     "austriaod:objectid":2094,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Marein-Feistritz",
+    "eurostat:nuts_2021_id":"62045",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"62045",
+    "eurostat:population":2036,
+    "eurostat:population_year":2020,
     "geom:area":0.008404,
-    "geom:area_square_m":70463493.296337,
+    "geom:area_square_m":70463493.29636,
     "geom:bbox":"14.7507424463,47.2470123097,14.9373163901,47.3686195374",
     "geom:latitude":47.309546,
     "geom:longitude":14.851103,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62045",
+        "eurostat:nuts_2021_id":"62045"
+    },
     "wof:country":"AT",
     "wof:created":1490047254,
-    "wof:geomhash":"8de0b617332e2829a31c2d2fdfac3739",
+    "wof:geomhash":"8c6c172aec052eb656fc977822c423b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839413,
-    "wof:lastmodified":1566598388,
+    "wof:lastmodified":1684351648,
     "wof:name":"St. Marein-Feistritz",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",
+    "wof:population":2036,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

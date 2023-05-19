@@ -11,8 +11,20 @@
     "austriaod:objectid":1894,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61257",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Irdning-Donnersbachtal",
+    "eurostat:nuts_2021_id":"61257",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT222",
+    "eurostat:nuts_2021_level_lau":"61257",
+    "eurostat:population":4122,
+    "eurostat:population_year":2020,
     "geom:area":0.023808,
-    "geom:area_square_m":199254486.609525,
+    "geom:area_square_m":199254486.60952,
     "geom:bbox":"14.0360847888,47.2957107613,14.234433155,47.5265813918",
     "geom:latitude":47.402819,
     "geom:longitude":14.138438,
@@ -53,6 +65,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -60,10 +74,13 @@
         102049777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61257",
+        "eurostat:nuts_2021_id":"61257"
+    },
     "wof:country":"AT",
     "wof:created":1490047190,
-    "wof:geomhash":"a6342ee666f381201ff598e4a85dc08f",
+    "wof:geomhash":"fd36572026f3ffa0df76dc4424d035ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,10 +91,12 @@
         }
     ],
     "wof:id":1108838963,
-    "wof:lastmodified":1566598646,
+    "wof:lastmodified":1684351633,
     "wof:name":"Irdning-Donnersbachtal",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",
+    "wof:population":4122,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

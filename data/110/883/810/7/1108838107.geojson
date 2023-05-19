@@ -11,8 +11,20 @@
     "austriaod:objectid":1515,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Andr\u00e4",
+    "eurostat:nuts_2021_id":"20913",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT213",
+    "eurostat:nuts_2021_level_lau":"20913",
+    "eurostat:population":9873,
+    "eurostat:population_year":2020,
     "geom:area":0.013382,
-    "geom:area_square_m":113350090.971292,
+    "geom:area_square_m":113350090.971297,
     "geom:bbox":"14.690456662,46.713550949,14.97533936,46.8098166128",
     "geom:latitude":46.764674,
     "geom:longitude":14.82353,
@@ -107,6 +119,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -114,10 +128,13 @@
         102049693
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20913",
+        "eurostat:nuts_2021_id":"20913"
+    },
     "wof:country":"AT",
     "wof:created":1490047084,
-    "wof:geomhash":"6e9396151dc444dd6b77f03b64b536a4",
+    "wof:geomhash":"877fcbdf2bd1e4692b80a29b0fa5c205",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":1108838107,
-    "wof:lastmodified":1566598266,
+    "wof:lastmodified":1684351607,
     "wof:name":"Sankt Andr\u00e4",
     "wof:parent_id":102049693,
     "wof:placetype":"localadmin",
+    "wof:population":9873,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

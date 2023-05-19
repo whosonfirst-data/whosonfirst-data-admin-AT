@@ -11,6 +11,18 @@
     "austriaod:objectid":1841,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spital am Semmering",
+    "eurostat:nuts_2021_id":"62131",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62131",
+    "eurostat:population":1435,
+    "eurostat:population_year":2020,
     "geom:area":0.008754,
     "geom:area_square_m":72980106.039537,
     "geom:bbox":"15.6967672194,47.562061179,15.8623431843,47.6465633548",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62131",
+        "eurostat:nuts_2021_id":"62131"
+    },
     "wof:country":"AT",
     "wof:created":1490047175,
-    "wof:geomhash":"cea7a3477300e2d529a71d6def717b3b",
+    "wof:geomhash":"47ad9413fbae6e2ada7dbc12866fc40d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838841,
-    "wof:lastmodified":1566598550,
+    "wof:lastmodified":1684351629,
     "wof:name":"Spita",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":1435,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

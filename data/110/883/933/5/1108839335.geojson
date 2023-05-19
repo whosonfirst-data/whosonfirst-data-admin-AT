@@ -11,8 +11,20 @@
     "austriaod:objectid":2060,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62388",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Peter am Ottersbach",
+    "eurostat:nuts_2021_id":"62388",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62388",
+    "eurostat:population":2956,
+    "eurostat:population_year":2020,
     "geom:area":0.005726,
-    "geom:area_square_m":48466607.598735,
+    "geom:area_square_m":48466607.598729,
     "geom:bbox":"15.7176334682,46.7508336764,15.8327989581,46.8401174359",
     "geom:latitude":46.798676,
     "geom:longitude":15.774298,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62388",
+        "eurostat:nuts_2021_id":"62388"
+    },
     "wof:country":"AT",
     "wof:created":1490047243,
-    "wof:geomhash":"750bb31687d50af1a379fb71e3105495",
+    "wof:geomhash":"9ffee1c270eaeff92ae511ef410c4eea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839335,
-    "wof:lastmodified":1566598542,
+    "wof:lastmodified":1684351646,
     "wof:name":"St. Peter",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",
+    "wof:population":2956,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

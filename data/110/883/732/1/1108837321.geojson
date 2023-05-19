@@ -11,8 +11,20 @@
     "austriaod:objectid":1166,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70621",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Anton am Arlberg",
+    "eurostat:nuts_2021_id":"70621",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT334",
+    "eurostat:nuts_2021_level_lau":"70621",
+    "eurostat:population":2372,
+    "eurostat:population_year":2020,
     "geom:area":0.019639,
-    "geom:area_square_m":165357185.29743,
+    "geom:area_square_m":165357185.297428,
     "geom:bbox":"10.1232441532,46.982150174,10.3245414951,47.1663366386",
     "geom:latitude":47.082339,
     "geom:longitude":10.221989,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70621",
+        "eurostat:nuts_2021_id":"70621"
+    },
     "wof:country":"AT",
     "wof:created":1490046988,
-    "wof:geomhash":"a3ee6d79cf330484fae747dff1bc3ce4",
+    "wof:geomhash":"0b699369ca7dff6ffbcacd05aa560091",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108837321,
-    "wof:lastmodified":1566598499,
+    "wof:lastmodified":1684351588,
     "wof:name":"Sankt Anton am Arlberg",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",
+    "wof:population":2372,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

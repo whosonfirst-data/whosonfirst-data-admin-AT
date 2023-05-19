@@ -11,8 +11,20 @@
     "austriaod:objectid":239,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40832",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wallern an der Trattnach",
+    "eurostat:nuts_2021_id":"40832",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40832",
+    "eurostat:population":3067,
+    "eurostat:population_year":2020,
     "geom:area":0.001763,
-    "geom:area_square_m":14525613.050159,
+    "geom:area_square_m":14525613.05016,
     "geom:bbox":"13.9162827115,48.2090557236,13.9999920192,48.250601436",
     "geom:latitude":48.229898,
     "geom:longitude":13.956374,
@@ -77,6 +89,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -84,10 +98,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40832",
+        "eurostat:nuts_2021_id":"40832"
+    },
     "wof:country":"AT",
     "wof:created":1490046712,
-    "wof:geomhash":"88eb51a2ae90ffe803f31ada411337e5",
+    "wof:geomhash":"e26595f8b7b0871b493eeea97218f48d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +115,12 @@
         }
     ],
     "wof:id":1108835237,
-    "wof:lastmodified":1566598780,
+    "wof:lastmodified":1684351525,
     "wof:name":"Wallern an der Trattnach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":3067,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1948,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62264",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Waltersdorf",
+    "eurostat:nuts_2021_id":"62264",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62264",
+    "eurostat:population":3834,
+    "eurostat:population_year":2020,
     "geom:area":0.006204,
-    "geom:area_square_m":52152942.939007,
+    "geom:area_square_m":52152942.939011,
     "geom:bbox":"15.949615945,47.1214022361,16.0593610138,47.2157592265",
     "geom:latitude":47.168048,
     "geom:longitude":16.008007,
@@ -47,6 +59,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -54,10 +68,13 @@
         1108892549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62264",
+        "eurostat:nuts_2021_id":"62264"
+    },
     "wof:country":"AT",
     "wof:created":1490047204,
-    "wof:geomhash":"348ac25f8bdbfab1d9885761327843a5",
+    "wof:geomhash":"4565d6d4d227d0a368dfcf712a872aed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +85,12 @@
         }
     ],
     "wof:id":1108839083,
-    "wof:lastmodified":1566598196,
+    "wof:lastmodified":1684351636,
     "wof:name":"Waltersdorf",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",
+    "wof:population":3834,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

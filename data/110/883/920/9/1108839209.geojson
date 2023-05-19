@@ -11,8 +11,20 @@
     "austriaod:objectid":2004,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60661",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eggersdorf bei Graz",
+    "eurostat:nuts_2021_id":"60661",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60661",
+    "eurostat:population":6808,
+    "eurostat:population_year":2020,
     "geom:area":0.005855,
-    "geom:area_square_m":49259899.245636,
+    "geom:area_square_m":49259899.245642,
     "geom:bbox":"15.5325167572,47.0842187972,15.658278806,47.168725367",
     "geom:latitude":47.12414,
     "geom:longitude":15.594797,
@@ -59,6 +71,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -66,10 +80,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60661",
+        "eurostat:nuts_2021_id":"60661"
+    },
     "wof:country":"AT",
     "wof:created":1490047221,
-    "wof:geomhash":"f61e0ca53e1a6cc19391f8ae6a29437c",
+    "wof:geomhash":"7d1bfb623b59bab7db4a709b8e8bd5cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +97,12 @@
         }
     ],
     "wof:id":1108839209,
-    "wof:lastmodified":1566598724,
+    "wof:lastmodified":1684351640,
     "wof:name":"Eggersdorf",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":6808,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

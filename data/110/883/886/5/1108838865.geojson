@@ -11,8 +11,20 @@
     "austriaod:objectid":1851,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61759",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gersdorf an der Feistritz",
+    "eurostat:nuts_2021_id":"61759",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"61759",
+    "eurostat:population":1699,
+    "eurostat:population_year":2020,
     "geom:area":0.003568,
-    "geom:area_square_m":30007202.576938,
+    "geom:area_square_m":30007202.576937,
     "geom:bbox":"15.774011518,47.0906468188,15.9050819379,47.1851731015",
     "geom:latitude":47.141562,
     "geom:longitude":15.848922,
@@ -50,6 +62,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -57,10 +71,13 @@
         102049765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61759",
+        "eurostat:nuts_2021_id":"61759"
+    },
     "wof:country":"AT",
     "wof:created":1490047178,
-    "wof:geomhash":"f5faff3a3257e03d329ddd7124d39c68",
+    "wof:geomhash":"298bdd045db9af28e39e7c853af71d84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +88,12 @@
         }
     ],
     "wof:id":1108838865,
-    "wof:lastmodified":1566598293,
+    "wof:lastmodified":1684351630,
     "wof:name":"Gersdorf",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",
+    "wof:population":1699,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

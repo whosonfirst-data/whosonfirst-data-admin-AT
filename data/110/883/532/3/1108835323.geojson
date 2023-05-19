@@ -11,8 +11,20 @@
     "austriaod:objectid":278,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30538",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wallsee-Sindelburg",
+    "eurostat:nuts_2021_id":"30538",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT121",
+    "eurostat:nuts_2021_level_lau":"30538",
+    "eurostat:population":2190,
+    "eurostat:population_year":2020,
     "geom:area":0.003139,
-    "geom:area_square_m":25893435.200918,
+    "geom:area_square_m":25893435.20092,
     "geom:bbox":"14.6856877085,48.1134299685,14.7681446549,48.1787866456",
     "geom:latitude":48.147605,
     "geom:longitude":14.723113,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049835
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30538",
+        "eurostat:nuts_2021_id":"30538"
+    },
     "wof:country":"AT",
     "wof:created":1490046723,
-    "wof:geomhash":"5cdb282d0f94cf7fc3cddca4cbd0d30c",
+    "wof:geomhash":"d2af765d572d7e9d7753375613685616",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835323,
-    "wof:lastmodified":1566598216,
+    "wof:lastmodified":1684351528,
     "wof:name":"Wallsee - Sindelburg",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",
+    "wof:population":2190,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

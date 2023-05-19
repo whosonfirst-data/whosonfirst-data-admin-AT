@@ -11,8 +11,20 @@
     "austriaod:objectid":1058,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_50101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salzburg",
+    "eurostat:nuts_2021_id":"50101",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT32",
+    "eurostat:nuts_2021_level_3":"AT323",
+    "eurostat:nuts_2021_level_lau":"50101",
+    "eurostat:population":155021,
+    "eurostat:population_year":2020,
     "geom:area":0.007885,
-    "geom:area_square_m":65491813.003549,
+    "geom:area_square_m":65491813.003539,
     "geom:bbox":"12.985622,47.751214,13.127278,47.854394",
     "geom:latitude":47.797528,
     "geom:longitude":13.046562,
@@ -386,14 +398,18 @@
     "qs_pg:woe_id":12674683,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
-        102049779,
-        85681681
+        85681681,
+        102049779
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AT_50101",
+        "eurostat:nuts_2021_id":"50101",
         "gp:id":12674683,
         "qs_pg:id":194995
     },
@@ -402,7 +418,7 @@
     ],
     "wof:country":"AT",
     "wof:created":1490046952,
-    "wof:geomhash":"7f8d3d66381d0440c06ae18a176b2990",
+    "wof:geomhash":"1cfaff0790f2bd83039099acc27b0fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -413,10 +429,12 @@
         }
     ],
     "wof:id":1108837079,
-    "wof:lastmodified":1607996861,
+    "wof:lastmodified":1684351581,
     "wof:name":"Salzburg",
     "wof:parent_id":102049779,
     "wof:placetype":"localadmin",
+    "wof:population":155021,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

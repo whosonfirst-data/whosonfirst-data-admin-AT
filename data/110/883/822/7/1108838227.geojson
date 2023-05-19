@@ -11,8 +11,20 @@
     "austriaod:objectid":1568,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ebenthal in K\u00e4rnten",
+    "eurostat:nuts_2021_id":"20402",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT211",
+    "eurostat:nuts_2021_level_lau":"20402",
+    "eurostat:population":8065,
+    "eurostat:population_year":2020,
     "geom:area":0.006458,
-    "geom:area_square_m":54883500.889489,
+    "geom:area_square_m":54883500.889475,
     "geom:bbox":"14.3198377083,46.5489068387,14.4703916505,46.6297743396",
     "geom:latitude":46.586997,
     "geom:longitude":14.399892,
@@ -59,6 +71,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -66,10 +80,13 @@
         102049681
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20402",
+        "eurostat:nuts_2021_id":"20402"
+    },
     "wof:country":"AT",
     "wof:created":1490047098,
-    "wof:geomhash":"5a4fdae349cb7b139068eeb102637232",
+    "wof:geomhash":"8da7e12de7c4d46b00fe5bd664d8a67f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +97,12 @@
         }
     ],
     "wof:id":1108838227,
-    "wof:lastmodified":1566598621,
+    "wof:lastmodified":1684351612,
     "wof:name":"Ebenthal",
     "wof:parent_id":102049681,
     "wof:placetype":"localadmin",
+    "wof:population":8065,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

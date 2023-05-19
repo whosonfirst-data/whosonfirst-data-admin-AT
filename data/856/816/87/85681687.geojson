@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Steiermark",
+    "eurostat:name_local":"Steiermark",
+    "eurostat:nuts_2021_id":"AT22",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:population":1252922,
+    "eurostat:population_year":2022,
     "geom:area":1.95092,
-    "geom:area_square_m":16368965258.099783,
+    "geom:area_square_m":16368965400.061626,
     "geom:bbox":"13.563344,46.611985,16.171769,47.827893",
     "geom:latitude":47.2691,
     "geom:longitude":15.011878,
@@ -311,8 +321,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"16,388",
     "statoids:area_mi":"6,327",
     "statoids:as_of_date":"2011-10-31",
@@ -333,6 +343,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11576,
+        "eurostat:nuts_2021_id":"AT22",
         "fips:code":"AU06",
         "gn:id":2764581,
         "gp:id":2344713,
@@ -346,7 +357,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32bf3be3d45f272be5137962aaff1b49",
+    "wof:geomhash":"db21438bec7f5a6712c8709e2b223fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -364,12 +375,12 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1623097120,
+    "wof:lastmodified":1684351394,
     "wof:name":"Steiermark",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
     "wof:placetype_local":"state",
-    "wof:population":1212415,
+    "wof:population":1252922,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:shortcode":"ST",

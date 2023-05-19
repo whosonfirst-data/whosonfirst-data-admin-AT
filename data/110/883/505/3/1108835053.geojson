@@ -11,8 +11,20 @@
     "austriaod:objectid":158,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40510",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Marienkirchen an der Polsenz",
+    "eurostat:nuts_2021_id":"40510",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT312",
+    "eurostat:nuts_2021_level_lau":"40510",
+    "eurostat:population":2314,
+    "eurostat:population_year":2020,
     "geom:area":0.002889,
-    "geom:area_square_m":23779138.77836,
+    "geom:area_square_m":23779138.778354,
     "geom:bbox":"13.8829777534,48.2428511796,13.9778869664,48.2892996493",
     "geom:latitude":48.267524,
     "geom:longitude":13.931996,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40510",
+        "eurostat:nuts_2021_id":"40510"
+    },
     "wof:country":"AT",
     "wof:created":1490046680,
-    "wof:geomhash":"7fb69f3d75e85550339fe0b370bd5512",
+    "wof:geomhash":"554f723edfb54824720e5d504aab661e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835053,
-    "wof:lastmodified":1566598170,
+    "wof:lastmodified":1684351518,
     "wof:name":"St. Marienkirchen an der Polsenz",
     "wof:parent_id":102049863,
     "wof:placetype":"localadmin",
+    "wof:population":2314,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

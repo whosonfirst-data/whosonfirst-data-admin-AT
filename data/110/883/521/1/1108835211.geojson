@@ -11,6 +11,18 @@
     "austriaod:objectid":228,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40821",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pollham",
+    "eurostat:nuts_2021_id":"40821",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40821",
+    "eurostat:population":970,
+    "eurostat:population_year":2020,
     "geom:area":0.00137,
     "geom:area_square_m":11277167.136234,
     "geom:bbox":"13.8273001601,48.2463967029,13.8953751863,48.2786213271",
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40821",
+        "eurostat:nuts_2021_id":"40821"
+    },
     "wof:country":"AT",
     "wof:created":1490046701,
-    "wof:geomhash":"8c317f1253ff2d380b7359d9459aaa59",
+    "wof:geomhash":"40feeefa196145244953e6c4cd67ae48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108835211,
-    "wof:lastmodified":1566598382,
+    "wof:lastmodified":1684351524,
     "wof:name":"Pollham",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":970,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

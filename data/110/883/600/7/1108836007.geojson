@@ -11,8 +11,20 @@
     "austriaod:objectid":582,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41336",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Ulrich im M\u00fchlkreis",
+    "eurostat:nuts_2021_id":"41336",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"41336",
+    "eurostat:population":644,
+    "eurostat:population_year":2020,
     "geom:area":0.00187,
-    "geom:area_square_m":15328107.711496,
+    "geom:area_square_m":15328107.711495,
     "geom:bbox":"14.0235043954,48.4579637294,14.1044012217,48.500580699",
     "geom:latitude":48.47967,
     "geom:longitude":14.06478,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41336",
+        "eurostat:nuts_2021_id":"41336"
+    },
     "wof:country":"AT",
     "wof:created":1490046809,
-    "wof:geomhash":"470e4d0fb1c3a12c0df271ebe08e1bfa",
+    "wof:geomhash":"9d5fb14fc03b2674680dd2fda9d7d3ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836007,
-    "wof:lastmodified":1566598687,
+    "wof:lastmodified":1684351549,
     "wof:name":"St. Ulrich im M\u00fchlkreis",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",
+    "wof:population":644,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

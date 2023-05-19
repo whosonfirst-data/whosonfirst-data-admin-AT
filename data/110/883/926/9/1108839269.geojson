@@ -11,8 +11,20 @@
     "austriaod:objectid":2030,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62375",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Gleichenberg",
+    "eurostat:nuts_2021_id":"62375",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62375",
+    "eurostat:population":5208,
+    "eurostat:population_year":2020,
     "geom:area":0.004577,
-    "geom:area_square_m":38687329.482307,
+    "geom:area_square_m":38687329.48231,
     "geom:bbox":"15.8639573278,46.8324034053,15.9497596458,46.9126169707",
     "geom:latitude":46.87295,
     "geom:longitude":15.905728,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62375",
+        "eurostat:nuts_2021_id":"62375"
+    },
     "wof:country":"AT",
     "wof:created":1490047229,
-    "wof:geomhash":"5ba2557ec4c5e5bb7877d93df3c0e483",
+    "wof:geomhash":"5931ecac179a87d2c673afe6a3ab7258",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839269,
-    "wof:lastmodified":1566598749,
+    "wof:lastmodified":1684351643,
     "wof:name":"Gleichenberg",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",
+    "wof:population":5208,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":677,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31338",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rossatz-Arnsdorf",
+    "eurostat:nuts_2021_id":"31338",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT124",
+    "eurostat:nuts_2021_level_lau":"31338",
+    "eurostat:population":1054,
+    "eurostat:population_year":2020,
     "geom:area":0.004761,
-    "geom:area_square_m":39111959.100276,
+    "geom:area_square_m":39111959.100278,
     "geom:bbox":"15.4071782993,48.3229043032,15.5320070125,48.4061808298",
     "geom:latitude":48.36477,
     "geom:longitude":15.467157,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049885
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31338",
+        "eurostat:nuts_2021_id":"31338"
+    },
     "wof:country":"AT",
     "wof:created":1490046836,
-    "wof:geomhash":"c858322015d50e6ed51e636b4a854e68",
+    "wof:geomhash":"ad491bf04fe677063cf8a702b8065148",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836221,
-    "wof:lastmodified":1566598557,
+    "wof:lastmodified":1684351557,
     "wof:name":"Rossatz - Arnsdorf",
     "wof:parent_id":102049885,
     "wof:placetype":"localadmin",
+    "wof:population":1054,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1351,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70815",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hinterhornbach",
+    "eurostat:nuts_2021_id":"70815",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT331",
+    "eurostat:nuts_2021_level_lau":"70815",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.006021,
-    "geom:area_square_m":50446871.199715,
+    "geom:area_square_m":50446871.199707,
     "geom:bbox":"10.3453510494,47.3115134641,10.4949371192,47.3846658015",
     "geom:latitude":47.34868,
     "geom:longitude":10.42158,
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049745
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70815",
+        "eurostat:nuts_2021_id":"70815"
+    },
     "wof:country":"AT",
     "wof:created":1490047038,
-    "wof:geomhash":"0b1dfd5c7d7e41f221b1ce83f24f934e",
+    "wof:geomhash":"e377da27d9962090c38b65adb27c2cb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108837739,
-    "wof:lastmodified":1566598753,
+    "wof:lastmodified":1684351598,
     "wof:name":"Hinterhornbach",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

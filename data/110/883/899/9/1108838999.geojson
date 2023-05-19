@@ -11,8 +11,20 @@
     "austriaod:objectid":1910,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Michael in Obersteiermark",
+    "eurostat:nuts_2021_id":"61113",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"61113",
+    "eurostat:population":3045,
+    "eurostat:population_year":2020,
     "geom:area":0.006669,
-    "geom:area_square_m":55911779.691608,
+    "geom:area_square_m":55911779.691613,
     "geom:bbox":"14.9672736478,47.2616844378,15.1471475001,47.3646933882",
     "geom:latitude":47.313037,
     "geom:longitude":15.057363,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61113",
+        "eurostat:nuts_2021_id":"61113"
+    },
     "wof:country":"AT",
     "wof:created":1490047195,
-    "wof:geomhash":"ce1e10dd0223f1a54c935f299f1ed50c",
+    "wof:geomhash":"8ba63814bfe2de389eb29c299d8cc50a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838999,
-    "wof:lastmodified":1566598690,
+    "wof:lastmodified":1684351634,
     "wof:name":"St. Michael",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",
+    "wof:population":3045,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

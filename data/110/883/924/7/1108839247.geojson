@@ -11,8 +11,20 @@
     "austriaod:objectid":2021,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62381",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirchbach-Zerlach",
+    "eurostat:nuts_2021_id":"62381",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62381",
+    "eurostat:population":3248,
+    "eurostat:population_year":2020,
     "geom:area":0.004629,
-    "geom:area_square_m":39079412.631758,
+    "geom:area_square_m":39079412.631742,
     "geom:bbox":"15.6216394009,46.8868937986,15.6984698377,46.9848561501",
     "geom:latitude":46.940062,
     "geom:longitude":15.66174,
@@ -47,6 +59,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -54,10 +68,13 @@
         1108892553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62381",
+        "eurostat:nuts_2021_id":"62381"
+    },
     "wof:country":"AT",
     "wof:created":1490047226,
-    "wof:geomhash":"7a300f296545661430fd0bedd6d67a57",
+    "wof:geomhash":"5f6c477d5c25a0b74ba7a78ea2ad1506",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +85,12 @@
         }
     ],
     "wof:id":1108839247,
-    "wof:lastmodified":1566598402,
+    "wof:lastmodified":1684351642,
     "wof:name":"Kirchbach",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",
+    "wof:population":3248,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

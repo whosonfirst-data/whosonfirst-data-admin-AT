@@ -11,8 +11,20 @@
     "austriaod:objectid":1839,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61446",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teufenbach-Katsch",
+    "eurostat:nuts_2021_id":"61446",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"61446",
+    "eurostat:population":1888,
+    "eurostat:population_year":2020,
     "geom:area":0.005015,
-    "geom:area_square_m":42186009.43908,
+    "geom:area_square_m":42186009.439079,
     "geom:bbox":"14.2379169987,47.1033640158,14.3856419458,47.1713130004",
     "geom:latitude":47.138125,
     "geom:longitude":14.304961,
@@ -44,6 +56,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -51,10 +65,13 @@
         102049733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61446",
+        "eurostat:nuts_2021_id":"61446"
+    },
     "wof:country":"AT",
     "wof:created":1490047174,
-    "wof:geomhash":"fcf07b20b2d5d9e28ec0cbdc89a12717",
+    "wof:geomhash":"8c0f3b0427d5e4025a0921bf3702ad2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +82,12 @@
         }
     ],
     "wof:id":1108838837,
-    "wof:lastmodified":1566598555,
+    "wof:lastmodified":1684351629,
     "wof:name":"Teufenbach-Katsch",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",
+    "wof:population":1888,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

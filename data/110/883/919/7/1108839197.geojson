@@ -11,8 +11,20 @@
     "austriaod:objectid":1998,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60664",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gratwein-Stra\u00dfengel",
+    "eurostat:nuts_2021_id":"60664",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60664",
+    "eurostat:population":12846,
+    "eurostat:population_year":2020,
     "geom:area":0.010286,
-    "geom:area_square_m":86518607.23774,
+    "geom:area_square_m":86518607.237728,
     "geom:bbox":"15.161053878,47.0912798742,15.3634528143,47.204488589",
     "geom:latitude":47.139968,
     "geom:longitude":15.256846,
@@ -56,6 +68,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -63,10 +77,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60664",
+        "eurostat:nuts_2021_id":"60664"
+    },
     "wof:country":"AT",
     "wof:created":1490047220,
-    "wof:geomhash":"34e6ec5f4b5a0589c07005c872670a77",
+    "wof:geomhash":"98c09aa2efd4b63d537b7ee6b84a8016",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +94,12 @@
         }
     ],
     "wof:id":1108839197,
-    "wof:lastmodified":1566598754,
+    "wof:lastmodified":1684351640,
     "wof:name":"Gratwein-Stra\u00dfengel",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":12846,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

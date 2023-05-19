@@ -11,8 +11,20 @@
     "austriaod:objectid":696,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Erlach",
+    "eurostat:nuts_2021_id":"32306",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"32306",
+    "eurostat:population":3149,
+    "eurostat:population_year":2020,
     "geom:area":0.001099,
-    "geom:area_square_m":9141539.560996,
+    "geom:area_square_m":9141539.560994,
     "geom:bbox":"16.1567344464,47.68201394,16.2318859338,47.7349538761",
     "geom:latitude":47.715243,
     "geom:longitude":16.209783,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32306",
+        "eurostat:nuts_2021_id":"32306"
+    },
     "wof:country":"AT",
     "wof:created":1490046841,
-    "wof:geomhash":"ce906d38ad53c73d973e231262112126",
+    "wof:geomhash":"ef53e60ed168bb29fc93a86d32f05dd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108836265,
-    "wof:lastmodified":1566598261,
+    "wof:lastmodified":1684351558,
     "wof:name":"Bad Erlach",
     "wof:parent_id":102049787,
     "wof:placetype":"localadmin",
+    "wof:population":3149,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

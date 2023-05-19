@@ -11,8 +11,20 @@
     "austriaod:objectid":354,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40914",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rosenau am Hengstpa\u00df",
+    "eurostat:nuts_2021_id":"40914",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT314",
+    "eurostat:nuts_2021_level_lau":"40914",
+    "eurostat:population":650,
+    "eurostat:population_year":2020,
     "geom:area":0.012939,
-    "geom:area_square_m":107597970.325554,
+    "geom:area_square_m":107597970.325528,
     "geom:bbox":"14.3201072427,47.6525582864,14.4916305008,47.8027407515",
     "geom:latitude":47.739475,
     "geom:longitude":14.418324,
@@ -77,6 +89,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -84,10 +98,13 @@
         102049815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40914",
+        "eurostat:nuts_2021_id":"40914"
+    },
     "wof:country":"AT",
     "wof:created":1490046744,
-    "wof:geomhash":"18593dc06f5c1b749af2f391457be862",
+    "wof:geomhash":"accc95bba77662ef2d35f02a6019f32f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +115,12 @@
         }
     ],
     "wof:id":1108835495,
-    "wof:lastmodified":1566598706,
+    "wof:lastmodified":1684351533,
     "wof:name":"Rosenau am Hengstpa\u00df",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",
+    "wof:population":650,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,6 +11,18 @@
     "austriaod:objectid":2008,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62273",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Loipersdorf",
+    "eurostat:nuts_2021_id":"62273",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62273",
+    "eurostat:population":1843,
+    "eurostat:population_year":2020,
     "geom:area":0.00296,
     "geom:area_square_m":24961980.376846,
     "geom:bbox":"16.0611116381,46.9653302972,16.1556161267,47.0373585048",
@@ -35,6 +47,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -42,10 +56,13 @@
         1108892549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62273",
+        "eurostat:nuts_2021_id":"62273"
+    },
     "wof:country":"AT",
     "wof:created":1490047222,
-    "wof:geomhash":"58165fb0fce5430a1cf70121055d9c1e",
+    "wof:geomhash":"d4088135fcee4d7ec83a00166db26024",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +73,12 @@
         }
     ],
     "wof:id":1108839219,
-    "wof:lastmodified":1566598757,
+    "wof:lastmodified":1684351641,
     "wof:name":"Loipersdorf",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",
+    "wof:population":1843,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

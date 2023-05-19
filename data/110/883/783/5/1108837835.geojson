@@ -11,8 +11,20 @@
     "austriaod:objectid":1394,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70923",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ried im Zillertal",
+    "eurostat:nuts_2021_id":"70923",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT335",
+    "eurostat:nuts_2021_level_lau":"70923",
+    "eurostat:population":1281,
+    "eurostat:population_year":2020,
     "geom:area":0.001127,
-    "geom:area_square_m":9454304.405838,
+    "geom:area_square_m":9454304.405837,
     "geom:bbox":"11.8022545019,47.2537213153,11.8761935079,47.3130095053",
     "geom:latitude":47.289943,
     "geom:longitude":11.833526,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         102049755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70923",
+        "eurostat:nuts_2021_id":"70923"
+    },
     "wof:country":"AT",
     "wof:created":1490047048,
-    "wof:geomhash":"bb3bc564860ab52f1c0eeea13ac13216",
+    "wof:geomhash":"18635a5f00a9f037f9ba7b8ad8bf9966",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108837835,
-    "wof:lastmodified":1566598436,
+    "wof:lastmodified":1684351600,
     "wof:name":"Ried im Zillertal",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",
+    "wof:population":1281,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

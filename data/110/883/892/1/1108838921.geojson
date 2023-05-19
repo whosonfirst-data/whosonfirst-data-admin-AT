@@ -11,8 +11,20 @@
     "austriaod:objectid":1876,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61236",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ramsau am Dachstein",
+    "eurostat:nuts_2021_id":"61236",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT222",
+    "eurostat:nuts_2021_level_lau":"61236",
+    "eurostat:population":2798,
+    "eurostat:population_year":2020,
     "geom:area":0.009027,
-    "geom:area_square_m":75502276.025266,
+    "geom:area_square_m":75502276.025256,
     "geom:bbox":"13.5633437487,47.3934169083,13.7646298201,47.4756035419",
     "geom:latitude":47.436465,
     "geom:longitude":13.656064,
@@ -59,6 +71,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -66,10 +80,13 @@
         102049777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61236",
+        "eurostat:nuts_2021_id":"61236"
+    },
     "wof:country":"AT",
     "wof:created":1490047185,
-    "wof:geomhash":"636f9e3430f67486aae7dd044e5bd653",
+    "wof:geomhash":"d7768f62dac8e5d9aa664e4f21eadee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +97,12 @@
         }
     ],
     "wof:id":1108838921,
-    "wof:lastmodified":1566598308,
+    "wof:lastmodified":1684351632,
     "wof:name":"Ramsau",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",
+    "wof:population":2798,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

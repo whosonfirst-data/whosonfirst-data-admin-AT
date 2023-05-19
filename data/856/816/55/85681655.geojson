@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"K\u00e4rnten",
+    "eurostat:name_local":"K\u00e4rnten",
+    "eurostat:nuts_2021_id":"AT21",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:population":564513,
+    "eurostat:population_year":2022,
     "geom:area":1.123948,
-    "geom:area_square_m":9518300911.491034,
+    "geom:area_square_m":9518300671.171015,
     "geom:bbox":"12.656829,46.372305,15.065151,47.131296",
     "geom:latitude":46.773915,
     "geom:longitude":13.917563,
@@ -410,8 +420,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"9,532",
     "statoids:area_mi":"3,680",
     "statoids:as_of_date":"2011-10-31",
@@ -432,6 +442,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11582,
+        "eurostat:nuts_2021_id":"AT21",
         "fips:code":"AU02",
         "gn:id":2774686,
         "gp:id":2344709,
@@ -445,7 +456,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"25b85bcda8e5ff896cc1cf34c2dbdf1b",
+    "wof:geomhash":"223d3545832b89071429679bcc1a037b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -463,12 +474,12 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1623097100,
+    "wof:lastmodified":1684351384,
     "wof:name":"K\u00e4rnten",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
     "wof:placetype_local":"state",
-    "wof:population":557671,
+    "wof:population":564513,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:shortcode":"KA",

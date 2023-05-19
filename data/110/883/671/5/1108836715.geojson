@@ -11,8 +11,20 @@
     "austriaod:objectid":896,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31909",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hofstetten-Gr\u00fcnau",
+    "eurostat:nuts_2021_id":"31909",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT123",
+    "eurostat:nuts_2021_level_lau":"31909",
+    "eurostat:population":2684,
+    "eurostat:population_year":2020,
     "geom:area":0.004349,
-    "geom:area_square_m":35926261.799312,
+    "geom:area_square_m":35926261.799314,
     "geom:bbox":"15.4366879478,48.0564147765,15.5588038066,48.1147342094",
     "geom:latitude":48.087063,
     "geom:longitude":15.50306,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31909",
+        "eurostat:nuts_2021_id":"31909"
+    },
     "wof:country":"AT",
     "wof:created":1490046903,
-    "wof:geomhash":"239efaf129e557b497fa0c305fba27ba",
+    "wof:geomhash":"195fd4c2e88d38b982e0c2e3a69ee84b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836715,
-    "wof:lastmodified":1566598567,
+    "wof:lastmodified":1684351570,
     "wof:name":"Hofstetten - Gr\u00fcnau",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",
+    "wof:population":2684,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

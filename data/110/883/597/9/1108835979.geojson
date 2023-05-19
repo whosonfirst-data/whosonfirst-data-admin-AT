@@ -11,8 +11,20 @@
     "austriaod:objectid":569,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41323",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niederwaldkirchen",
+    "eurostat:nuts_2021_id":"41323",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"41323",
+    "eurostat:population":1835,
+    "eurostat:population_year":2020,
     "geom:area":0.003436,
-    "geom:area_square_m":28184015.834936,
+    "geom:area_square_m":28184015.834941,
     "geom:bbox":"14.0274151091,48.4165081791,14.1453122656,48.4793718237",
     "geom:latitude":48.450391,
     "geom:longitude":14.085646,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41323",
+        "eurostat:nuts_2021_id":"41323"
+    },
     "wof:country":"AT",
     "wof:created":1490046806,
-    "wof:geomhash":"c86b1c108a35c028b7584b423eb7c42f",
+    "wof:geomhash":"f7b2f80f57460f0f6266a74a655f3059",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108835979,
-    "wof:lastmodified":1566598495,
+    "wof:lastmodified":1684351548,
     "wof:name":"Niederwaldkirchen",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",
+    "wof:population":1835,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":178,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40618",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Oswald bei Freistadt",
+    "eurostat:nuts_2021_id":"40618",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"40618",
+    "eurostat:population":2876,
+    "eurostat:population_year":2020,
     "geom:area":0.004988,
-    "geom:area_square_m":40869561.597112,
+    "geom:area_square_m":40869561.597106,
     "geom:bbox":"14.5598296477,48.4668407762,14.6782190111,48.5425497805",
     "geom:latitude":48.501235,
     "geom:longitude":14.615614,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049883
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40618",
+        "eurostat:nuts_2021_id":"40618"
+    },
     "wof:country":"AT",
     "wof:created":1490046686,
-    "wof:geomhash":"acba874c6cb50432562c0a9832dc15b7",
+    "wof:geomhash":"1e55652d5b730dcfacc12e37f5d701ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835099,
-    "wof:lastmodified":1566598510,
+    "wof:lastmodified":1684351521,
     "wof:name":"St. Oswald bei Freistadt",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",
+    "wof:population":2876,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

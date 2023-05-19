@@ -11,6 +11,18 @@
     "austriaod:objectid":510,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32331",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Waidmannsfeld",
+    "eurostat:nuts_2021_id":"32331",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"32331",
+    "eurostat:population":1499,
+    "eurostat:population_year":2020,
     "geom:area":0.002584,
     "geom:area_square_m":21429892.711247,
     "geom:bbox":"15.9031632903,47.8414125736,16.0001578523,47.8960029246",
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32331",
+        "eurostat:nuts_2021_id":"32331"
+    },
     "wof:country":"AT",
     "wof:created":1490046788,
-    "wof:geomhash":"046dd1ae366fe17a468f24add851470a",
+    "wof:geomhash":"41547a0077313a1ea10a9ffb01343a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835845,
-    "wof:lastmodified":1566598767,
+    "wof:lastmodified":1684351544,
     "wof:name":"Waidmannsfeld",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",
+    "wof:population":1499,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

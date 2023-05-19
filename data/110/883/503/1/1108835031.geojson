@@ -11,8 +11,20 @@
     "austriaod:objectid":148,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muckendorf-Wipfing",
+    "eurostat:nuts_2021_id":"32143",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT126",
+    "eurostat:nuts_2021_level_lau":"32143",
+    "eurostat:population":1663,
+    "eurostat:population_year":2020,
     "geom:area":0.000769,
-    "geom:area_square_m":6323380.51864,
+    "geom:area_square_m":6323380.518637,
     "geom:bbox":"16.1353507716,48.3125655446,16.1692111981,48.3533296436",
     "geom:latitude":48.330416,
     "geom:longitude":16.150628,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32143",
+        "eurostat:nuts_2021_id":"32143"
+    },
     "wof:country":"AT",
     "wof:created":1490046676,
-    "wof:geomhash":"b283816d76417abdc90ba0db004f6ee4",
+    "wof:geomhash":"d1dba97af67f0ce3f6185e6b45f308eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835031,
-    "wof:lastmodified":1566598206,
+    "wof:lastmodified":1684351518,
     "wof:name":"Muckendorf - Wipfing",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",
+    "wof:population":1663,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

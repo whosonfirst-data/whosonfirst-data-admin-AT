@@ -11,6 +11,18 @@
     "austriaod:objectid":53,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brunn am Gebirge",
+    "eurostat:nuts_2021_id":"31704",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT127",
+    "eurostat:nuts_2021_level_lau":"31704",
+    "eurostat:population":11975,
+    "eurostat:population_year":2020,
     "geom:area":0.000877,
     "geom:area_square_m":7242439.268195,
     "geom:bbox":"16.249199,48.099175,16.315246,48.125415",
@@ -133,15 +145,18 @@
     "qs_pg:woe_id":12673859,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
-        102049837,
-        85681671
+        85681671,
+        102049837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AT_31704",
+        "eurostat:nuts_2021_id":"31704",
         "gn:id":2781321,
         "gp:id":12673859,
         "qs_pg:id":1192410
@@ -155,7 +170,7 @@
     ],
     "wof:country":"AT",
     "wof:created":1490046650,
-    "wof:geomhash":"f95ac625eadb6b5806600d8b77c24689",
+    "wof:geomhash":"8cb0ba48a71a16c2d2c590e026b00470",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,11 +181,11 @@
         }
     ],
     "wof:id":1108834817,
-    "wof:lastmodified":1607997282,
+    "wof:lastmodified":1684351511,
     "wof:name":"Brunn am Gebirge",
     "wof:parent_id":102049837,
     "wof:placetype":"localadmin",
-    "wof:population":11694,
+    "wof:population":11975,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],

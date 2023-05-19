@@ -11,8 +11,20 @@
     "austriaod:objectid":237,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40830",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tollet",
+    "eurostat:nuts_2021_id":"40830",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40830",
+    "eurostat:population":921,
+    "eurostat:population_year":2020,
     "geom:area":0.001157,
-    "geom:area_square_m":9527323.94442,
+    "geom:area_square_m":9527323.944419,
     "geom:bbox":"13.7684964291,48.2383371414,13.8326316282,48.2668397889",
     "geom:latitude":48.253661,
     "geom:longitude":13.801987,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40830",
+        "eurostat:nuts_2021_id":"40830"
+    },
     "wof:country":"AT",
     "wof:created":1490046712,
-    "wof:geomhash":"a2c7b0c3f5c4b9eddaef256cbb59de3a",
+    "wof:geomhash":"82ed72cd051206ec350e7a6913abe1d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108835231,
-    "wof:lastmodified":1566598780,
+    "wof:lastmodified":1684351525,
     "wof:name":"Tollet",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":921,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

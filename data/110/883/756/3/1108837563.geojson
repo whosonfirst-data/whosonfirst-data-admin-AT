@@ -11,6 +11,18 @@
     "austriaod:objectid":1273,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70337",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberperfuss",
+    "eurostat:nuts_2021_id":"70337",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT332",
+    "eurostat:nuts_2021_level_lau":"70337",
+    "eurostat:population":3091,
+    "eurostat:population_year":2020,
     "geom:area":0.001814,
     "geom:area_square_m":15230310.642947,
     "geom:bbox":"11.1538138861,47.2209295437,11.2609286908,47.2548517643",
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70337",
+        "eurostat:nuts_2021_id":"70337"
+    },
     "wof:country":"AT",
     "wof:created":1490047016,
-    "wof:geomhash":"8fe9c0d12f8dfbd800c2f73ba5118adc",
+    "wof:geomhash":"4ecfd3c9548192421cc6e70d7f5ad8fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108837563,
-    "wof:lastmodified":1566598489,
+    "wof:lastmodified":1684351594,
     "wof:name":"Oberperfuss",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",
+    "wof:population":3091,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[],

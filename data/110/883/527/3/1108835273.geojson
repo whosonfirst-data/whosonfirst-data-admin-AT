@@ -11,8 +11,20 @@
     "austriaod:objectid":255,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30850",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ringelsdorf-Niederabsdorf",
+    "eurostat:nuts_2021_id":"30850",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT125",
+    "eurostat:nuts_2021_level_lau":"30850",
+    "eurostat:population":1231,
+    "eurostat:population_year":2020,
     "geom:area":0.003954,
-    "geom:area_square_m":32353306.525143,
+    "geom:area_square_m":32353306.525146,
     "geom:bbox":"16.8281191869,48.5450483236,16.9391920421,48.6034497315",
     "geom:latitude":48.573731,
     "geom:longitude":16.886409,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049891
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30850",
+        "eurostat:nuts_2021_id":"30850"
+    },
     "wof:country":"AT",
     "wof:created":1490046717,
-    "wof:geomhash":"27db2e19623d5fef683b769f7017bee3",
+    "wof:geomhash":"684cf0ea04b21be1eb1243c2f52de282",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835273,
-    "wof:lastmodified":1566598418,
+    "wof:lastmodified":1684351526,
     "wof:name":"Ringelsdorf - Niederabsdorf",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",
+    "wof:population":1231,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

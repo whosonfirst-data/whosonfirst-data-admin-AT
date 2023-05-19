@@ -11,8 +11,20 @@
     "austriaod:objectid":169,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lasberg",
+    "eurostat:nuts_2021_id":"40609",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"40609",
+    "eurostat:population":2836,
+    "eurostat:population_year":2020,
     "geom:area":0.005329,
-    "geom:area_square_m":43682913.688209,
+    "geom:area_square_m":43682913.688225,
     "geom:bbox":"14.5002796734,48.4372842928,14.6094640715,48.52986621",
     "geom:latitude":48.478688,
     "geom:longitude":14.551536,
@@ -80,6 +92,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -87,10 +101,13 @@
         102049883
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40609",
+        "eurostat:nuts_2021_id":"40609"
+    },
     "wof:country":"AT",
     "wof:created":1490046683,
-    "wof:geomhash":"2bf8dc59ac4820e0cdc047ea5d2914ca",
+    "wof:geomhash":"ad95e852dfbc70fc546a7c273227399e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":1108835079,
-    "wof:lastmodified":1566598503,
+    "wof:lastmodified":1684351519,
     "wof:name":"Lasberg",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",
+    "wof:population":2836,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

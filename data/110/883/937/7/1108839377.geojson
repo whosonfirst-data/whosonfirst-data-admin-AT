@@ -11,6 +11,18 @@
     "austriaod:objectid":2078,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61729",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mitterdorf an der Raab",
+    "eurostat:nuts_2021_id":"61729",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"61729",
+    "eurostat:population":2101,
+    "eurostat:population_year":2020,
     "geom:area":0.002496,
     "geom:area_square_m":20981873.792805,
     "geom:bbox":"15.5829534144,47.1421941702,15.6576813273,47.1997619095",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61729",
+        "eurostat:nuts_2021_id":"61729"
+    },
     "wof:country":"AT",
     "wof:created":1490047249,
-    "wof:geomhash":"905a2528a063b2acf2b5c853b54bd481",
+    "wof:geomhash":"e47958c02b689d4d8bee7810863560cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839377,
-    "wof:lastmodified":1566598201,
+    "wof:lastmodified":1684351647,
     "wof:name":"Mitterdorf",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",
+    "wof:population":2101,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

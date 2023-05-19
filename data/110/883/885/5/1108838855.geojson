@@ -11,8 +11,20 @@
     "austriaod:objectid":1846,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61757",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Birkfeld",
+    "eurostat:nuts_2021_id":"61757",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"61757",
+    "eurostat:population":4958,
+    "eurostat:population_year":2020,
     "geom:area":0.010696,
-    "geom:area_square_m":89596824.61348,
+    "geom:area_square_m":89596824.613479,
     "geom:bbox":"15.5858195164,47.2943646187,15.749504237,47.4217771002",
     "geom:latitude":47.354959,
     "geom:longitude":15.674698,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61757",
+        "eurostat:nuts_2021_id":"61757"
+    },
     "wof:country":"AT",
     "wof:created":1490047176,
-    "wof:geomhash":"6c4dbf6d223f5fa226d990d2afd9ddd8",
+    "wof:geomhash":"e2bcbcff3ca6deaa4d536d73b7ba1b07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108838855,
-    "wof:lastmodified":1566598592,
+    "wof:lastmodified":1684351630,
     "wof:name":"Birkfeld",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",
+    "wof:population":4958,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

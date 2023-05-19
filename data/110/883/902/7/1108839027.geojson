@@ -11,8 +11,20 @@
     "austriaod:objectid":1923,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Veit in der S\u00fcdsteiermark",
+    "eurostat:nuts_2021_id":"61060",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"61060",
+    "eurostat:population":4324,
+    "eurostat:population_year":2020,
     "geom:area":0.008088,
-    "geom:area_square_m":68499777.732001,
+    "geom:area_square_m":68499777.731982,
     "geom:bbox":"15.5911444972,46.7233197058,15.7508338502,46.8303002932",
     "geom:latitude":46.771421,
     "geom:longitude":15.669708,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61060",
+        "eurostat:nuts_2021_id":"61060"
+    },
     "wof:country":"AT",
     "wof:created":1490047198,
-    "wof:geomhash":"14c73f1e4f7873f4e04f1f66ec4930cb",
+    "wof:geomhash":"004dbf15ec1a25adff1aac417fef7ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839027,
-    "wof:lastmodified":1566598527,
+    "wof:lastmodified":1684351635,
     "wof:name":"St. Veit",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",
+    "wof:population":4324,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

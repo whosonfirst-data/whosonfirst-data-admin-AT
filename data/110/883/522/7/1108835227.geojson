@@ -11,8 +11,20 @@
     "austriaod:objectid":235,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40828",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steegen",
+    "eurostat:nuts_2021_id":"40828",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40828",
+    "eurostat:population":1064,
+    "eurostat:population_year":2020,
     "geom:area":0.001602,
-    "geom:area_square_m":13164934.835128,
+    "geom:area_square_m":13164934.835125,
     "geom:bbox":"13.71415265,48.3234295723,13.7701595189,48.3812497178",
     "geom:latitude":48.347312,
     "geom:longitude":13.737965,
@@ -71,6 +83,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -78,10 +92,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40828",
+        "eurostat:nuts_2021_id":"40828"
+    },
     "wof:country":"AT",
     "wof:created":1490046704,
-    "wof:geomhash":"75e904f540f3c89edee2b16a0661bd23",
+    "wof:geomhash":"0ae610703b2efbd8a40e0568455182bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +109,12 @@
         }
     ],
     "wof:id":1108835227,
-    "wof:lastmodified":1566598747,
+    "wof:lastmodified":1684351525,
     "wof:name":"Steegen",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":1064,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

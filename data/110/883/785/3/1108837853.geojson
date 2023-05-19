@@ -11,6 +11,18 @@
     "austriaod:objectid":1402,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buch in Tirol",
+    "eurostat:nuts_2021_id":"70905",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT335",
+    "eurostat:nuts_2021_level_lau":"70905",
+    "eurostat:population":2611,
+    "eurostat:population_year":2020,
     "geom:area":0.001135,
     "geom:area_square_m":9504386.922013,
     "geom:bbox":"11.7367742213,47.3585250818,11.8134001054,47.3914483886",
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70905",
+        "eurostat:nuts_2021_id":"70905"
+    },
     "wof:country":"AT",
     "wof:created":1490047050,
-    "wof:geomhash":"9c7d83a7e838212e28c21872e07c6c47",
+    "wof:geomhash":"636e5d936f8d047fad561b957b679e49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108837853,
-    "wof:lastmodified":1566598405,
+    "wof:lastmodified":1684351600,
     "wof:name":"Buch in Tirol",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",
+    "wof:population":2611,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

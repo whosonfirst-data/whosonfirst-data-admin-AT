@@ -11,8 +11,20 @@
     "austriaod:objectid":330,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00f6ttlesbrunn-Arbesthal",
+    "eurostat:nuts_2021_id":"30708",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT127",
+    "eurostat:nuts_2021_level_lau":"30708",
+    "eurostat:population":1447,
+    "eurostat:population_year":2020,
     "geom:area":0.003169,
-    "geom:area_square_m":26186886.048794,
+    "geom:area_square_m":26186886.048792,
     "geom:bbox":"16.6557548428,48.0321056924,16.7651196398,48.0911916184",
     "geom:latitude":48.063014,
     "geom:longitude":16.717218,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049845
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30708",
+        "eurostat:nuts_2021_id":"30708"
+    },
     "wof:country":"AT",
     "wof:created":1490046738,
-    "wof:geomhash":"95105f82b4c7d3e92002b384286a8f6b",
+    "wof:geomhash":"72258bb213902bb53dc8862444e1875c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835441,
-    "wof:lastmodified":1566598414,
+    "wof:lastmodified":1684351532,
     "wof:name":"G\u00f6ttlesbrunn - Arbesthal",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",
+    "wof:population":1447,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

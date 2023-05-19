@@ -11,8 +11,20 @@
     "austriaod:objectid":244,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hinterstoder",
+    "eurostat:nuts_2021_id":"40903",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT314",
+    "eurostat:nuts_2021_level_lau":"40903",
+    "eurostat:population":907,
+    "eurostat:population_year":2020,
     "geom:area":0.017873,
-    "geom:area_square_m":148776418.375206,
+    "geom:area_square_m":148776418.375207,
     "geom:bbox":"14.0105982182,47.6159048019,14.2125834465,47.7661299005",
     "geom:latitude":47.686308,
     "geom:longitude":14.121841,
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40903",
+        "eurostat:nuts_2021_id":"40903"
+    },
     "wof:country":"AT",
     "wof:created":1490046714,
-    "wof:geomhash":"457a503e198bb577d78e8568ec3d3d0f",
+    "wof:geomhash":"30b273c6373ee1d2c8b5995d52896102",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108835247,
-    "wof:lastmodified":1566598782,
+    "wof:lastmodified":1684351526,
     "wof:name":"Hinterstoder",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",
+    "wof:population":907,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,6 +11,18 @@
     "austriaod:objectid":1939,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gralla",
+    "eurostat:nuts_2021_id":"61012",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"61012",
+    "eurostat:population":2552,
+    "eurostat:population_year":2020,
     "geom:area":0.001431,
     "geom:area_square_m":12110519.445883,
     "geom:bbox":"15.5442062077,46.7987962068,15.5951483191,46.8401448375",
@@ -59,6 +71,8 @@
     "qs_pg:woe_id":12674841,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -67,12 +81,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AT_61012",
+        "eurostat:nuts_2021_id":"61012",
         "gp:id":12674841,
         "qs_pg:id":59445
     },
     "wof:country":"AT",
     "wof:created":1490047202,
-    "wof:geomhash":"879ad68c12be1bfac6366f15981a2cc1",
+    "wof:geomhash":"4c2c3c9e5b5c5c94cbe8a89736f7c567",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +99,12 @@
         }
     ],
     "wof:id":1108839063,
-    "wof:lastmodified":1566598188,
+    "wof:lastmodified":1684351636,
     "wof:name":"Gralla",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",
+    "wof:population":2552,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

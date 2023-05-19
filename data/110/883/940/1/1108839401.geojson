@@ -11,6 +11,18 @@
     "austriaod:objectid":2089,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Judenburg",
+    "eurostat:nuts_2021_id":"62040",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"62040",
+    "eurostat:population":9853,
+    "eurostat:population_year":2020,
     "geom:area":0.007566,
     "geom:area_square_m":63640586.087039,
     "geom:bbox":"14.5401002019,47.071755626,14.7128999926,47.2082759138",
@@ -149,6 +161,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -156,10 +170,13 @@
         1108892555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62040",
+        "eurostat:nuts_2021_id":"62040"
+    },
     "wof:country":"AT",
     "wof:created":1490047253,
-    "wof:geomhash":"99124c4f6719edae4fdd16d4a3a9a89b",
+    "wof:geomhash":"3c0521447c13a77d66094cfa196bfd7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +187,12 @@
         }
     ],
     "wof:id":1108839401,
-    "wof:lastmodified":1566598419,
+    "wof:lastmodified":1684351647,
     "wof:name":"Judenburg",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",
+    "wof:population":9853,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

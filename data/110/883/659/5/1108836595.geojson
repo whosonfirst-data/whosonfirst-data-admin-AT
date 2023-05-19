@@ -11,8 +11,20 @@
     "austriaod:objectid":843,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Judenau-Baumgarten",
+    "eurostat:nuts_2021_id":"32112",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT126",
+    "eurostat:nuts_2021_level_lau":"32112",
+    "eurostat:population":2288,
+    "eurostat:population_year":2020,
     "geom:area":0.001735,
-    "geom:area_square_m":14274462.304345,
+    "geom:area_square_m":14274462.304347,
     "geom:bbox":"15.9923791243,48.2573760403,16.0717428255,48.2974130577",
     "geom:latitude":48.281483,
     "geom:longitude":16.034343,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32112",
+        "eurostat:nuts_2021_id":"32112"
+    },
     "wof:country":"AT",
     "wof:created":1490046890,
-    "wof:geomhash":"1f0e48abfa9919e13b4968f9e62ef228",
+    "wof:geomhash":"b55bbf8c03ade9e8e5778f8d77e6a487",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836595,
-    "wof:lastmodified":1566598354,
+    "wof:lastmodified":1684351567,
     "wof:name":"Judenau - Baumgarten",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",
+    "wof:population":2288,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

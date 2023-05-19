@@ -11,6 +11,18 @@
     "austriaod:objectid":1484,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_80232",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schnepfau",
+    "eurostat:nuts_2021_id":"80232",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:nuts_2021_level_3":"AT341",
+    "eurostat:nuts_2021_level_lau":"80232",
+    "eurostat:population":453,
+    "eurostat:population_year":2020,
     "geom:area":0.001968,
     "geom:area_square_m":16484381.403878,
     "geom:bbox":"9.89530928966,47.3313673149,10.003629704,47.3612768045",
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_80232",
+        "eurostat:nuts_2021_id":"80232"
+    },
     "wof:country":"AT",
     "wof:created":1490047073,
-    "wof:geomhash":"6d67fb1ae016d9f382f7b268f17f2dce",
+    "wof:geomhash":"88794433fa0f027de467990927782126",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108838037,
-    "wof:lastmodified":1566598325,
+    "wof:lastmodified":1684351605,
     "wof:name":"Schnepfau",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",
+    "wof:population":453,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

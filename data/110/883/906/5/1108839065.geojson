@@ -11,8 +11,20 @@
     "austriaod:objectid":1940,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gleinst\u00e4tten",
+    "eurostat:nuts_2021_id":"61051",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"61051",
+    "eurostat:population":2774,
+    "eurostat:population_year":2020,
     "geom:area":0.002581,
-    "geom:area_square_m":21863115.606036,
+    "geom:area_square_m":21863115.606041,
     "geom:bbox":"15.3305330428,46.7316321599,15.4272286109,46.785313873",
     "geom:latitude":46.760163,
     "geom:longitude":15.377479,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61051",
+        "eurostat:nuts_2021_id":"61051"
+    },
     "wof:country":"AT",
     "wof:created":1490047203,
-    "wof:geomhash":"d0fc1bac36da9bfafdd4072df04d7511",
+    "wof:geomhash":"222fda1a21f9c79173bdb15fa7f69ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108839065,
-    "wof:lastmodified":1566598188,
+    "wof:lastmodified":1684351636,
     "wof:name":"Gleinst\u00e4tten",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",
+    "wof:population":2774,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

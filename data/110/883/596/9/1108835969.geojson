@@ -11,8 +11,20 @@
     "austriaod:objectid":565,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41319",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lichtenau im M\u00fchlkreis",
+    "eurostat:nuts_2021_id":"41319",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"41319",
+    "eurostat:population":484,
+    "eurostat:population_year":2020,
     "geom:area":0.001209,
-    "geom:area_square_m":9887412.806149,
+    "geom:area_square_m":9887412.80615,
     "geom:bbox":"14.019742381,48.5819383982,14.0982693006,48.6128564531",
     "geom:latitude":48.596534,
     "geom:longitude":14.056772,
@@ -80,6 +92,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -87,10 +101,13 @@
         102049889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41319",
+        "eurostat:nuts_2021_id":"41319"
+    },
     "wof:country":"AT",
     "wof:created":1490046805,
-    "wof:geomhash":"6747f6ee9ccb20d261738ab7d23e0e95",
+    "wof:geomhash":"fe74b61f6ba0b92d924cf6705020f133",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":1108835969,
-    "wof:lastmodified":1566598516,
+    "wof:lastmodified":1684351547,
     "wof:name":"Lichtenau im M\u00fchlkreis",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",
+    "wof:population":484,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

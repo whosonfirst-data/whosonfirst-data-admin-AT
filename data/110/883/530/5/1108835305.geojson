@@ -11,8 +11,20 @@
     "austriaod:objectid":270,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Georgen an der Leys",
+    "eurostat:nuts_2021_id":"32012",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT121",
+    "eurostat:nuts_2021_level_lau":"32012",
+    "eurostat:population":1330,
+    "eurostat:population_year":2020,
     "geom:area":0.002874,
-    "geom:area_square_m":23771444.996895,
+    "geom:area_square_m":23771444.996889,
     "geom:bbox":"15.1869574098,47.995451435,15.2762791977,48.0521985259",
     "geom:latitude":48.024056,
     "geom:longitude":15.235392,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32012",
+        "eurostat:nuts_2021_id":"32012"
+    },
     "wof:country":"AT",
     "wof:created":1490046721,
-    "wof:geomhash":"468694759d335bebf767ff7e8b156496",
+    "wof:geomhash":"1ec09e87156a6c4795a9e5310c5ee92a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835305,
-    "wof:lastmodified":1566598465,
+    "wof:lastmodified":1684351527,
     "wof:name":"St. Georgen an der Leys",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",
+    "wof:population":1330,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

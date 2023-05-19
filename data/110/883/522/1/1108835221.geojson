@@ -11,8 +11,20 @@
     "austriaod:objectid":232,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40825",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Georgen bei Grieskirchen",
+    "eurostat:nuts_2021_id":"40825",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40825",
+    "eurostat:population":1340,
+    "eurostat:population_year":2020,
     "geom:area":0.001382,
-    "geom:area_square_m":11386278.016438,
+    "geom:area_square_m":11386278.016439,
     "geom:bbox":"13.7520900769,48.1942104223,13.8135076787,48.2463556854",
     "geom:latitude":48.221761,
     "geom:longitude":13.780838,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40825",
+        "eurostat:nuts_2021_id":"40825"
+    },
     "wof:country":"AT",
     "wof:created":1490046703,
-    "wof:geomhash":"171dc27576b2e73057a1a710177373a6",
+    "wof:geomhash":"a7b17ab4b6f06ebda47331bc0168f7bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835221,
-    "wof:lastmodified":1566598748,
+    "wof:lastmodified":1684351525,
     "wof:name":"St. Georgen bei Grieskirchen",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":1340,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

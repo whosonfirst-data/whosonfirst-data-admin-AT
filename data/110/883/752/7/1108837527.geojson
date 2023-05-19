@@ -11,8 +11,20 @@
     "austriaod:objectid":1257,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70724",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Jakob in Defereggen",
+    "eurostat:nuts_2021_id":"70724",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT333",
+    "eurostat:nuts_2021_level_lau":"70724",
+    "eurostat:population":834,
+    "eurostat:population_year":2020,
     "geom:area":0.021983,
-    "geom:area_square_m":185581294.963638,
+    "geom:area_square_m":185581294.963599,
     "geom:bbox":"12.1211738481,46.8651936218,12.3750816153,47.027320557",
     "geom:latitude":46.941825,
     "geom:longitude":12.245712,
@@ -80,6 +92,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -87,10 +101,13 @@
         102049703
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70724",
+        "eurostat:nuts_2021_id":"70724"
+    },
     "wof:country":"AT",
     "wof:created":1490047011,
-    "wof:geomhash":"b5944fe9e221a2b8b7677453e7c53cd0",
+    "wof:geomhash":"823839ec6ff73b8e5bf3e64e1083c603",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":1108837527,
-    "wof:lastmodified":1566598146,
+    "wof:lastmodified":1684351593,
     "wof:name":"Sankt Jakob in Defereggen",
     "wof:parent_id":102049703,
     "wof:placetype":"localadmin",
+    "wof:population":834,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

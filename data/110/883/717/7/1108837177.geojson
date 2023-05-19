@@ -11,8 +11,20 @@
     "austriaod:objectid":1102,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_50331",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schleedorf",
+    "eurostat:nuts_2021_id":"50331",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT32",
+    "eurostat:nuts_2021_level_3":"AT323",
+    "eurostat:nuts_2021_level_lau":"50331",
+    "eurostat:population":1086,
+    "eurostat:population_year":2020,
     "geom:area":0.001255,
-    "geom:area_square_m":10393330.779204,
+    "geom:area_square_m":10393330.779205,
     "geom:bbox":"13.1166310935,47.9327010325,13.200166864,47.9759386036",
     "geom:latitude":47.956652,
     "geom:longitude":13.149805,
@@ -74,6 +86,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -81,10 +95,13 @@
         102049799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_50331",
+        "eurostat:nuts_2021_id":"50331"
+    },
     "wof:country":"AT",
     "wof:created":1490046965,
-    "wof:geomhash":"21df439a90576f83e91bd907b6df4cc7",
+    "wof:geomhash":"65e20b9b2e304ca725e0dd7c0d1f01c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +112,12 @@
         }
     ],
     "wof:id":1108837177,
-    "wof:lastmodified":1566598742,
+    "wof:lastmodified":1684351584,
     "wof:name":"Schleedorf",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",
+    "wof:population":1086,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

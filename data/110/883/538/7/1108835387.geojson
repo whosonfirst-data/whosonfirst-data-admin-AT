@@ -11,8 +11,20 @@
     "austriaod:objectid":306,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31550",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zelking-Matzleinsdorf",
+    "eurostat:nuts_2021_id":"31550",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT121",
+    "eurostat:nuts_2021_level_lau":"31550",
+    "eurostat:population":1220,
+    "eurostat:population_year":2020,
     "geom:area":0.002562,
-    "geom:area_square_m":21122446.817161,
+    "geom:area_square_m":21122446.817165,
     "geom:bbox":"15.2076065374,48.1511919515,15.3052882217,48.2255061454",
     "geom:latitude":48.186985,
     "geom:longitude":15.257933,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31550",
+        "eurostat:nuts_2021_id":"31550"
+    },
     "wof:country":"AT",
     "wof:created":1490046731,
-    "wof:geomhash":"f035c2add79bea07f0fcc091e7b35a16",
+    "wof:geomhash":"97e0aa804138b1f4f248c67e06bc7345",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835387,
-    "wof:lastmodified":1566598501,
+    "wof:lastmodified":1684351530,
     "wof:name":"Zelking - Matzleinsdorf",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",
+    "wof:population":1220,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

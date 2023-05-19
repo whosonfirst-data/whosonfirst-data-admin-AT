@@ -11,8 +11,20 @@
     "austriaod:objectid":1889,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Margarethen bei Knittelfeld",
+    "eurostat:nuts_2021_id":"62046",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"62046",
+    "eurostat:population":2687,
+    "eurostat:population_year":2020,
     "geom:area":0.017616,
-    "geom:area_square_m":147945660.663412,
+    "geom:area_square_m":147945660.663411,
     "geom:bbox":"14.8402875954,47.1543255149,15.0528317635,47.3002587349",
     "geom:latitude":47.21963,
     "geom:longitude":14.941891,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62046",
+        "eurostat:nuts_2021_id":"62046"
+    },
     "wof:country":"AT",
     "wof:created":1490047189,
-    "wof:geomhash":"56bfbf3717da79a731e7888401b3c2d8",
+    "wof:geomhash":"1f3007d5feca30bf2f1c0fa3a65a1a65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838951,
-    "wof:lastmodified":1566598310,
+    "wof:lastmodified":1684351633,
     "wof:name":"St. Margarethen",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",
+    "wof:population":2687,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

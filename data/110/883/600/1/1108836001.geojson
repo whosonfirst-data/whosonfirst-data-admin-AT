@@ -11,8 +11,20 @@
     "austriaod:objectid":579,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41333",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Oswald bei Haslach",
+    "eurostat:nuts_2021_id":"41333",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"41333",
+    "eurostat:population":492,
+    "eurostat:population_year":2020,
     "geom:area":0.000992,
-    "geom:area_square_m":8106806.770922,
+    "geom:area_square_m":8106806.770925,
     "geom:bbox":"13.9945807694,48.6018451693,14.0482752346,48.6398293056",
     "geom:latitude":48.621161,
     "geom:longitude":14.021599,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41333",
+        "eurostat:nuts_2021_id":"41333"
+    },
     "wof:country":"AT",
     "wof:created":1490046809,
-    "wof:geomhash":"015eb10fea9ca56f2b0490d594baff6d",
+    "wof:geomhash":"abdaf828caaf19f26fa5b8e5e390d212",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836001,
-    "wof:lastmodified":1566598688,
+    "wof:lastmodified":1684351548,
     "wof:name":"St. Oswald bei Haslach",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",
+    "wof:population":492,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

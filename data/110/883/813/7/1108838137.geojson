@@ -11,8 +11,20 @@
     "austriaod:objectid":1528,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_21008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Urban",
+    "eurostat:nuts_2021_id":"21008",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT212",
+    "eurostat:nuts_2021_level_lau":"21008",
+    "eurostat:population":1527,
+    "eurostat:population_year":2020,
     "geom:area":0.003209,
-    "geom:area_square_m":27181263.294569,
+    "geom:area_square_m":27181263.294564,
     "geom:bbox":"14.1282348122,46.7289469598,14.2093924096,46.7957592555",
     "geom:latitude":46.761647,
     "geom:longitude":14.165035,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049689
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_21008",
+        "eurostat:nuts_2021_id":"21008"
+    },
     "wof:country":"AT",
     "wof:created":1490047088,
-    "wof:geomhash":"2841af4e5b62c39172670828f389f4eb",
+    "wof:geomhash":"6ac0bd3e2d245178783d06204c13e2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108838137,
-    "wof:lastmodified":1566598609,
+    "wof:lastmodified":1684351608,
     "wof:name":"Sankt Urban",
     "wof:parent_id":102049689,
     "wof:placetype":"localadmin",
+    "wof:population":1527,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

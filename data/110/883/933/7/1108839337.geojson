@@ -11,6 +11,18 @@
     "austriaod:objectid":2061,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62376",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Radkersburg",
+    "eurostat:nuts_2021_id":"62376",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62376",
+    "eurostat:population":3178,
+    "eurostat:population_year":2020,
     "geom:area":0.00353,
     "geom:area_square_m":29937533.089623,
     "geom:bbox":"15.9442035257,46.6561372018,16.0425249479,46.7306063118",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892553
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62376",
+        "eurostat:nuts_2021_id":"62376"
+    },
     "wof:country":"AT",
     "wof:created":1490047244,
-    "wof:geomhash":"73c5408dbe9459a6501c4729f4af067d",
+    "wof:geomhash":"e1b0735b7248b801e11aed077cc8580b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839337,
-    "wof:lastmodified":1566598541,
+    "wof:lastmodified":1684351646,
     "wof:name":"Radkersburg",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",
+    "wof:population":3178,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

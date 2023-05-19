@@ -11,8 +11,20 @@
     "austriaod:objectid":1281,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ellb\u00f6gen",
+    "eurostat:nuts_2021_id":"70307",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT332",
+    "eurostat:nuts_2021_level_lau":"70307",
+    "eurostat:population":1129,
+    "eurostat:population_year":2020,
     "geom:area":0.004095,
-    "geom:area_square_m":34412285.639705,
+    "geom:area_square_m":34412285.639702,
     "geom:bbox":"11.4200102105,47.1609003951,11.5457103148,47.2135982547",
     "geom:latitude":47.18914,
     "geom:longitude":11.480272,
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70307",
+        "eurostat:nuts_2021_id":"70307"
+    },
     "wof:country":"AT",
     "wof:created":1490047020,
-    "wof:geomhash":"dcda29158d8f4584ad36d55ad28ee4a3",
+    "wof:geomhash":"dd4fbdf84afc21da7d9911a471f788ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108837581,
-    "wof:lastmodified":1566598479,
+    "wof:lastmodified":1684351595,
     "wof:name":"Ellb\u00f6gen",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",
+    "wof:population":1129,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

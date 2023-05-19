@@ -11,8 +11,20 @@
     "austriaod:objectid":648,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41610",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haibach im M\u00fchlkreis",
+    "eurostat:nuts_2021_id":"41610",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT313",
+    "eurostat:nuts_2021_level_lau":"41610",
+    "eurostat:population":921,
+    "eurostat:population_year":2020,
     "geom:area":0.001772,
-    "geom:area_square_m":14537462.562455,
+    "geom:area_square_m":14537462.562458,
     "geom:bbox":"14.3309862123,48.4130823205,14.3919142945,48.46022964",
     "geom:latitude":48.437262,
     "geom:longitude":14.362846,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049881
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41610",
+        "eurostat:nuts_2021_id":"41610"
+    },
     "wof:country":"AT",
     "wof:created":1490046829,
-    "wof:geomhash":"d836fcc07197435a6232e3f593a0e05a",
+    "wof:geomhash":"c3d56d0ca8287204e4d3658a3bc83046",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108836157,
-    "wof:lastmodified":1566598599,
+    "wof:lastmodified":1684351555,
     "wof:name":"Haibach im M\u00fchlkreis",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",
+    "wof:population":921,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

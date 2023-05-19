@@ -11,8 +11,20 @@
     "austriaod:objectid":766,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Attersee am Attersee",
+    "eurostat:nuts_2021_id":"41702",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT315",
+    "eurostat:nuts_2021_level_lau":"41702",
+    "eurostat:population":1604,
+    "eurostat:population_year":2020,
     "geom:area":0.00176,
-    "geom:area_square_m":14589525.626819,
+    "geom:area_square_m":14589525.626821,
     "geom:bbox":"13.4928431394,47.8871342737,13.5630409094,47.9281782983",
     "geom:latitude":47.907839,
     "geom:longitude":13.526616,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41702",
+        "eurostat:nuts_2021_id":"41702"
+    },
     "wof:country":"AT",
     "wof:created":1490046869,
-    "wof:geomhash":"a6d2ea5268351d3273b3dd8806ad7499",
+    "wof:geomhash":"00f6d43719c2811909d926e3a82ce8b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108836421,
-    "wof:lastmodified":1566598271,
+    "wof:lastmodified":1684351562,
     "wof:name":"Attersee am Attersee",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",
+    "wof:population":1604,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

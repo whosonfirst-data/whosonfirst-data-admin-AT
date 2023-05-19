@@ -11,8 +11,20 @@
     "austriaod:objectid":942,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Retz",
+    "eurostat:nuts_2021_id":"31037",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT125",
+    "eurostat:nuts_2021_level_lau":"31037",
+    "eurostat:population":4255,
+    "eurostat:population_year":2020,
     "geom:area":0.005506,
-    "geom:area_square_m":44890103.301466,
+    "geom:area_square_m":44890103.301467,
     "geom:bbox":"15.8791791523,48.7156951978,16.0334764991,48.7852990572",
     "geom:latitude":48.750306,
     "geom:longitude":15.960414,
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049899
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31037",
+        "eurostat:nuts_2021_id":"31037"
+    },
     "wof:country":"AT",
     "wof:created":1490046918,
-    "wof:geomhash":"29b43225c8a9ad9ccfcf9c5ff0601186",
+    "wof:geomhash":"8c875808e9c2dca6f1c08136b157f73b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108836817,
-    "wof:lastmodified":1566598223,
+    "wof:lastmodified":1684351573,
     "wof:name":"Retz",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",
+    "wof:population":4255,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

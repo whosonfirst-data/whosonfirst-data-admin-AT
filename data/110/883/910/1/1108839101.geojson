@@ -11,8 +11,20 @@
     "austriaod:objectid":1956,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62276",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rohr bei Hartberg",
+    "eurostat:nuts_2021_id":"62276",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62276",
+    "eurostat:population":1443,
+    "eurostat:population_year":2020,
     "geom:area":0.003298,
-    "geom:area_square_m":27691965.756674,
+    "geom:area_square_m":27691965.756681,
     "geom:bbox":"16.0251186841,47.1896274494,16.0935268916,47.2723193167",
     "geom:latitude":47.234193,
     "geom:longitude":16.062247,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         1108892549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62276",
+        "eurostat:nuts_2021_id":"62276"
+    },
     "wof:country":"AT",
     "wof:created":1490047207,
-    "wof:geomhash":"5e92f52496f6b8dbd4e91b26f513c7eb",
+    "wof:geomhash":"5b1d45927edd635f519ac2c485063e87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108839101,
-    "wof:lastmodified":1566598774,
+    "wof:lastmodified":1684351637,
     "wof:name":"Rohr",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",
+    "wof:population":1443,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

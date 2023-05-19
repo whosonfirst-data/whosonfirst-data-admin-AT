@@ -11,8 +11,20 @@
     "austriaod:objectid":1516,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20914",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Georgen im Lavanttal",
+    "eurostat:nuts_2021_id":"20914",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT213",
+    "eurostat:nuts_2021_level_lau":"20914",
+    "eurostat:population":1960,
+    "eurostat:population_year":2020,
     "geom:area":0.008518,
-    "geom:area_square_m":72184562.162762,
+    "geom:area_square_m":72184562.162766,
     "geom:bbox":"14.8629591164,46.6836480399,15.0445970781,46.7853742945",
     "geom:latitude":46.739893,
     "geom:longitude":14.959675,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049693
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20914",
+        "eurostat:nuts_2021_id":"20914"
+    },
     "wof:country":"AT",
     "wof:created":1490047084,
-    "wof:geomhash":"1a936492fafa1b356dc97906820955d7",
+    "wof:geomhash":"47846d6e81d79c42099c2daf9d089038",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838109,
-    "wof:lastmodified":1566598266,
+    "wof:lastmodified":1684351607,
     "wof:name":"Sankt Georgen Im Lavanttal",
     "wof:parent_id":102049693,
     "wof:placetype":"localadmin",
+    "wof:population":1960,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

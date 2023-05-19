@@ -11,8 +11,20 @@
     "austriaod:objectid":1531,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Klagenfurt am W\u00f6rthersee",
+    "eurostat:nuts_2021_id":"20101",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT211",
+    "eurostat:nuts_2021_level_lau":"20101",
+    "eurostat:population":101300,
+    "eurostat:population_year":2020,
     "geom:area":0.014109,
-    "geom:area_square_m":119780462.778695,
+    "geom:area_square_m":119780462.778702,
     "geom:bbox":"14.2102526244,46.5743843619,14.416264868,46.708707658",
     "geom:latitude":46.63888,
     "geom:longitude":14.295755,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049679
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20101",
+        "eurostat:nuts_2021_id":"20101"
+    },
     "wof:country":"AT",
     "wof:created":1490047088,
-    "wof:geomhash":"503cdd067334cf166d9095cbbbd82f11",
+    "wof:geomhash":"85c03561f0ff01d92392578886e538db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838143,
-    "wof:lastmodified":1566598604,
+    "wof:lastmodified":1684351609,
     "wof:name":"Klagenfurt Am W\u00f6rther See",
     "wof:parent_id":102049679,
     "wof:placetype":"localadmin",
+    "wof:population":101300,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

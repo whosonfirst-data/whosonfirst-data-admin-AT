@@ -11,8 +11,20 @@
     "austriaod:objectid":1574,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20527",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Veit an der Glan",
+    "eurostat:nuts_2021_id":"20527",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT213",
+    "eurostat:nuts_2021_level_lau":"20527",
+    "eurostat:population":12386,
+    "eurostat:population_year":2020,
     "geom:area":0.005973,
-    "geom:area_square_m":50616882.042269,
+    "geom:area_square_m":50616882.042275,
     "geom:bbox":"14.2731839475,46.6932558571,14.4269728431,46.7834355117",
     "geom:latitude":46.735585,
     "geom:longitude":14.35234,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049697
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20527",
+        "eurostat:nuts_2021_id":"20527"
+    },
     "wof:country":"AT",
     "wof:created":1490047099,
-    "wof:geomhash":"5cc0c4eed600d7103d0feb9c18a31810",
+    "wof:geomhash":"f47636edd20c22283a57406bbe52f499",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838239,
-    "wof:lastmodified":1566598562,
+    "wof:lastmodified":1684351612,
     "wof:name":"Sankt Veit An Der Glan",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",
+    "wof:population":12386,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

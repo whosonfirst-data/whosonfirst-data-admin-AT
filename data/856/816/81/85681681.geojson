@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Salzburg",
+    "eurostat:name_local":"Salzburg",
+    "eurostat:nuts_2021_id":"AT32",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT32",
+    "eurostat:population":562606,
+    "eurostat:population_year":2022,
     "geom:area":0.853044,
-    "geom:area_square_m":7141207990.073195,
+    "geom:area_square_m":7141208686.928256,
     "geom:bbox":"12.076097,46.943856,13.996124,48.041466",
     "geom:latitude":47.38854,
     "geom:longitude":13.084288,
@@ -395,8 +405,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"7,154",
     "statoids:area_mi":"2,762",
     "statoids:as_of_date":"2011-10-31",
@@ -418,6 +428,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11574,
+        "eurostat:nuts_2021_id":"AT32",
         "fips:code":"AU05",
         "gn:id":2766823,
         "gp:id":2344712,
@@ -431,7 +442,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"72b1e7b2121d2cfeda3c5db559a441bc",
+    "wof:geomhash":"e280d99fc7a5668bfcdfe308f5f1a6e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -449,12 +460,12 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1623097114,
+    "wof:lastmodified":1684351393,
     "wof:name":"Salzburg",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
     "wof:placetype_local":"state",
-    "wof:population":533247,
+    "wof:population":562606,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:shortcode":"SZ",

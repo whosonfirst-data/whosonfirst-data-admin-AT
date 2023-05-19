@@ -11,8 +11,20 @@
     "austriaod:objectid":437,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Georgen bei Obernberg am Inn",
+    "eurostat:nuts_2021_id":"41226",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"41226",
+    "eurostat:population":568,
+    "eurostat:population_year":2020,
     "geom:area":0.002222,
-    "geom:area_square_m":18279841.731353,
+    "geom:area_square_m":18279841.731352,
     "geom:bbox":"13.3010228467,48.2574820528,13.3696266879,48.3178674852",
     "geom:latitude":48.288606,
     "geom:longitude":13.33238,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41226",
+        "eurostat:nuts_2021_id":"41226"
+    },
     "wof:country":"AT",
     "wof:created":1490046768,
-    "wof:geomhash":"dbd72488c874d119639e72ae7834b8f7",
+    "wof:geomhash":"7822fece36b3236dca057fb623c08175",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835681,
-    "wof:lastmodified":1566598195,
+    "wof:lastmodified":1684351539,
     "wof:name":"St. Georgen bei Obernberg am Inn",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",
+    "wof:population":568,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

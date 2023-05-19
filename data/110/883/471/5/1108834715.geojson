@@ -11,6 +11,18 @@
     "austriaod:objectid":7,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Braunau am Inn",
+    "eurostat:nuts_2021_id":"40404",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40404",
+    "eurostat:population":17518,
+    "eurostat:population_year":2020,
     "geom:area":0.00301,
     "geom:area_square_m":24787931.368572,
     "geom:bbox":"12.9519780626,48.2002494105,13.0738416181,48.2693384185",
@@ -209,6 +221,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -216,10 +230,13 @@
         102049833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40404",
+        "eurostat:nuts_2021_id":"40404"
+    },
     "wof:country":"AT",
     "wof:created":1490046636,
-    "wof:geomhash":"1ee68df992bbc206831475eae1d8219b",
+    "wof:geomhash":"3b9e3668a0cccdcc8ef40ce50a69ec90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,10 +247,12 @@
         }
     ],
     "wof:id":1108834715,
-    "wof:lastmodified":1566598229,
+    "wof:lastmodified":1684351508,
     "wof:name":"Braunau am Inn",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",
+    "wof:population":17518,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

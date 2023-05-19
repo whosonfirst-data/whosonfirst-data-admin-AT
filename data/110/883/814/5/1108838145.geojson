@@ -11,8 +11,20 @@
     "austriaod:objectid":1532,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villach",
+    "eurostat:nuts_2021_id":"20201",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT211",
+    "eurostat:nuts_2021_level_lau":"20201",
+    "eurostat:population":62882,
+    "eurostat:population_year":2020,
     "geom:area":0.015848,
-    "geom:area_square_m":134619858.47475,
+    "geom:area_square_m":134619858.474747,
     "geom:bbox":"13.693708,46.558504,13.979226,46.668363",
     "geom:latitude":46.610829,
     "geom:longitude":13.83523,
@@ -209,20 +221,25 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
-        102049673,
-        85681655
+        85681655,
+        102049673
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20201",
+        "eurostat:nuts_2021_id":"20201"
+    },
     "wof:coterminous":[
         102049673
     ],
     "wof:country":"AT",
     "wof:created":1490047089,
-    "wof:geomhash":"5e45b5f33c05d6bffe32281aea89278b",
+    "wof:geomhash":"67c5be3be0cfcc9d6c2efbe5c88dca8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -233,10 +250,12 @@
         }
     ],
     "wof:id":1108838145,
-    "wof:lastmodified":1607997130,
+    "wof:lastmodified":1684351609,
     "wof:name":"Villach",
     "wof:parent_id":102049673,
     "wof:placetype":"localadmin",
+    "wof:population":62882,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

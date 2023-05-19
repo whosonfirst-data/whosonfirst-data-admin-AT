@@ -11,8 +11,20 @@
     "austriaod:objectid":1901,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aigen im Ennstal",
+    "eurostat:nuts_2021_id":"61203",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT222",
+    "eurostat:nuts_2021_level_lau":"61203",
+    "eurostat:population":2682,
+    "eurostat:population_year":2020,
     "geom:area":0.010309,
-    "geom:area_square_m":86140573.382322,
+    "geom:area_square_m":86140573.38232,
     "geom:bbox":"14.1048596463,47.4125916343,14.2583957114,47.5558152014",
     "geom:latitude":47.486527,
     "geom:longitude":14.187623,
@@ -41,6 +53,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -48,10 +62,13 @@
         102049777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61203",
+        "eurostat:nuts_2021_id":"61203"
+    },
     "wof:country":"AT",
     "wof:created":1490047192,
-    "wof:geomhash":"cdb91aa9c8c5fa262111c0fc42479be2",
+    "wof:geomhash":"b39a3ff32f3abe6d10285cc2b60700ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +79,12 @@
         }
     ],
     "wof:id":1108838977,
-    "wof:lastmodified":1566598703,
+    "wof:lastmodified":1684351633,
     "wof:name":"Aigen",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",
+    "wof:population":2682,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

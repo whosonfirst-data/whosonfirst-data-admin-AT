@@ -11,8 +11,20 @@
     "austriaod:objectid":1862,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61267",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stainach-P\u00fcrgg",
+    "eurostat:nuts_2021_id":"61267",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT222",
+    "eurostat:nuts_2021_level_lau":"61267",
+    "eurostat:population":2820,
+    "eurostat:population_year":2020,
     "geom:area":0.008725,
-    "geom:area_square_m":72802821.11281,
+    "geom:area_square_m":72802821.112817,
     "geom:bbox":"14.0144593173,47.5006982813,14.1335014403,47.6195921217",
     "geom:latitude":47.559182,
     "geom:longitude":14.074354,
@@ -47,6 +59,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -54,10 +68,13 @@
         102049777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61267",
+        "eurostat:nuts_2021_id":"61267"
+    },
     "wof:country":"AT",
     "wof:created":1490047180,
-    "wof:geomhash":"d7c87b5f3f74c70dbab6eb36c4294eac",
+    "wof:geomhash":"596f8618f069e2f8fa0d400692bc522e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +85,12 @@
         }
     ],
     "wof:id":1108838891,
-    "wof:lastmodified":1566598251,
+    "wof:lastmodified":1684351631,
     "wof:name":"Stainach-P\u00fcrgg",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",
+    "wof:population":2820,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

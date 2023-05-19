@@ -11,8 +11,20 @@
     "austriaod:objectid":301,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gutenstein",
+    "eurostat:nuts_2021_id":"32308",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"32308",
+    "eurostat:population":1275,
+    "eurostat:population_year":2020,
     "geom:area":0.01252,
-    "geom:area_square_m":103861529.118491,
+    "geom:area_square_m":103861529.11849,
     "geom:bbox":"15.7825164128,47.7843676673,15.9441034005,47.9248631891",
     "geom:latitude":47.862521,
     "geom:longitude":15.849453,
@@ -47,6 +59,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -54,10 +68,13 @@
         102049805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32308",
+        "eurostat:nuts_2021_id":"32308"
+    },
     "wof:country":"AT",
     "wof:created":1490046730,
-    "wof:geomhash":"9c7c2a91ddd43f0b408c1e37f7a13411",
+    "wof:geomhash":"7d349be667ac4db3f177d0325866ab8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +85,12 @@
         }
     ],
     "wof:id":1108835375,
-    "wof:lastmodified":1566598460,
+    "wof:lastmodified":1684351529,
     "wof:name":"Gutenstein",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",
+    "wof:population":1275,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

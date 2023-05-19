@@ -11,8 +11,20 @@
     "austriaod:objectid":1551,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20424",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00f6rtschach am W\u00f6rther See",
+    "eurostat:nuts_2021_id":"20424",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT211",
+    "eurostat:nuts_2021_level_lau":"20424",
+    "eurostat:population":2885,
+    "eurostat:population_year":2020,
     "geom:area":0.001485,
-    "geom:area_square_m":12611788.98201,
+    "geom:area_square_m":12611788.982008,
     "geom:bbox":"14.1146777542,46.6153605941,14.1904407699,46.6541427117",
     "geom:latitude":46.635924,
     "geom:longitude":14.153382,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049681
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20424",
+        "eurostat:nuts_2021_id":"20424"
+    },
     "wof:country":"AT",
     "wof:created":1490047093,
-    "wof:geomhash":"a0f9530376a0b5a175f4e88214175aba",
+    "wof:geomhash":"af313baeaa756f79436cb211764d484d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838189,
-    "wof:lastmodified":1566598217,
+    "wof:lastmodified":1684351610,
     "wof:name":"P\u00f6rtschach Am W\u00f6rther See",
     "wof:parent_id":102049681,
     "wof:placetype":"localadmin",
+    "wof:population":2885,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,6 +11,18 @@
     "austriaod:objectid":1436,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_80403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u00fcnserberg",
+    "eurostat:nuts_2021_id":"80403",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:nuts_2021_level_3":"AT342",
+    "eurostat:nuts_2021_level_lau":"80403",
+    "eurostat:population":143,
+    "eurostat:population_year":2020,
     "geom:area":0.000661,
     "geom:area_square_m":5547394.292556,
     "geom:bbox":"9.70659260509,47.2179505068,9.74934189699,47.2458395165",
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049725
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_80403",
+        "eurostat:nuts_2021_id":"80403"
+    },
     "wof:country":"AT",
     "wof:created":1490047060,
-    "wof:geomhash":"122cc5c20ad582c7ca2415f5d0d7ac70",
+    "wof:geomhash":"8fd889f7c06de62cdebbbfa267be0045",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108837929,
-    "wof:lastmodified":1566598537,
+    "wof:lastmodified":1684351602,
     "wof:name":"D\u00fcnserberg",
     "wof:parent_id":102049725,
     "wof:placetype":"localadmin",
+    "wof:population":143,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[],

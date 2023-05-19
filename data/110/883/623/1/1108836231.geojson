@@ -11,8 +11,20 @@
     "austriaod:objectid":681,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31540",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Martin-Karlsbach",
+    "eurostat:nuts_2021_id":"31540",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT121",
+    "eurostat:nuts_2021_level_lau":"31540",
+    "eurostat:population":1640,
+    "eurostat:population_year":2020,
     "geom:area":0.003006,
-    "geom:area_square_m":24794284.163609,
+    "geom:area_square_m":24794284.163604,
     "geom:bbox":"14.9575799439,48.1351628576,15.0628405053,48.1955038902",
     "geom:latitude":48.165887,
     "geom:longitude":15.013658,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049855
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31540",
+        "eurostat:nuts_2021_id":"31540"
+    },
     "wof:country":"AT",
     "wof:created":1490046837,
-    "wof:geomhash":"14d6047f998ea920a55d71da4a20e019",
+    "wof:geomhash":"b655def146166d5d4ff412569ee4b1f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836231,
-    "wof:lastmodified":1566598589,
+    "wof:lastmodified":1684351557,
     "wof:name":"St. Martin - Karlsbach",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",
+    "wof:population":1640,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

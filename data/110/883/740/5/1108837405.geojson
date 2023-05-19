@@ -11,8 +11,20 @@
     "austriaod:objectid":1203,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70515",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langkampfen",
+    "eurostat:nuts_2021_id":"70515",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT335",
+    "eurostat:nuts_2021_level_lau":"70515",
+    "eurostat:population":4179,
+    "eurostat:population_year":2020,
     "geom:area":0.003165,
-    "geom:area_square_m":26410998.391851,
+    "geom:area_square_m":26410998.391853,
     "geom:bbox":"12.0351206739,47.5176535559,12.151093815,47.5857027955",
     "geom:latitude":47.551104,
     "geom:longitude":12.09386,
@@ -95,6 +107,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -102,10 +116,13 @@
         102049771
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70515",
+        "eurostat:nuts_2021_id":"70515"
+    },
     "wof:country":"AT",
     "wof:created":1490046997,
-    "wof:geomhash":"934cef826bdde4c3654ae77796af8862",
+    "wof:geomhash":"2958b35094a9cdc73439189b763b7ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":1108837405,
-    "wof:lastmodified":1566598392,
+    "wof:lastmodified":1684351590,
     "wof:name":"Langkampfen",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",
+    "wof:population":4179,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1955,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Jakob im Walde",
+    "eurostat:nuts_2021_id":"62242",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62242",
+    "eurostat:population":1043,
+    "eurostat:population_year":2020,
     "geom:area":0.003618,
-    "geom:area_square_m":30233475.924779,
+    "geom:area_square_m":30233475.92478,
     "geom:bbox":"15.710370727,47.4541339814,15.817728079,47.509982206",
     "geom:latitude":47.47857,
     "geom:longitude":15.768444,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62242",
+        "eurostat:nuts_2021_id":"62242"
+    },
     "wof:country":"AT",
     "wof:created":1490047206,
-    "wof:geomhash":"e4e2b4d968985e79fc1e55075157caf7",
+    "wof:geomhash":"db435a9506714f500b63f2951a2efc05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839099,
-    "wof:lastmodified":1566598128,
+    "wof:lastmodified":1684351637,
     "wof:name":"St. Jakob",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",
+    "wof:population":1043,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

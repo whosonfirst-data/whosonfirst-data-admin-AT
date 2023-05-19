@@ -11,8 +11,20 @@
     "austriaod:objectid":2049,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62146",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Marein im M\u00fcrztal",
+    "eurostat:nuts_2021_id":"62146",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62146",
+    "eurostat:population":2766,
+    "eurostat:population_year":2020,
     "geom:area":0.003515,
-    "geom:area_square_m":29398562.914553,
+    "geom:area_square_m":29398562.914549,
     "geom:bbox":"15.3270940381,47.404619317,15.4160884666,47.4791320812",
     "geom:latitude":47.436795,
     "geom:longitude":15.371093,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62146",
+        "eurostat:nuts_2021_id":"62146"
+    },
     "wof:country":"AT",
     "wof:created":1490047240,
-    "wof:geomhash":"5c972769ac3a8608bf57b4315557c975",
+    "wof:geomhash":"9e85954b400430617ff1f39ef73b7eea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839311,
-    "wof:lastmodified":1566598139,
+    "wof:lastmodified":1684351644,
     "wof:name":"St. Marein",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":2766,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

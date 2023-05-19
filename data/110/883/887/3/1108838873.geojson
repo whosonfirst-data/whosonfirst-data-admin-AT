@@ -11,8 +11,20 @@
     "austriaod:objectid":1854,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61716",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Markt Hartmannsdorf",
+    "eurostat:nuts_2021_id":"61716",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"61716",
+    "eurostat:population":2946,
+    "eurostat:population_year":2020,
     "geom:area":0.00346,
-    "geom:area_square_m":29146009.047147,
+    "geom:area_square_m":29146009.047136,
     "geom:bbox":"15.7827434995,47.0205818872,15.8798754817,47.0817633632",
     "geom:latitude":47.054751,
     "geom:longitude":15.834751,
@@ -65,6 +77,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -72,10 +86,13 @@
         102049765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61716",
+        "eurostat:nuts_2021_id":"61716"
+    },
     "wof:country":"AT",
     "wof:created":1490047179,
-    "wof:geomhash":"557b7506295368f967c047ab31592897",
+    "wof:geomhash":"58c27d332fae17df9f9766bf957587c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +103,12 @@
         }
     ],
     "wof:id":1108838873,
-    "wof:lastmodified":1566598257,
+    "wof:lastmodified":1684351631,
     "wof:name":"Hartmannsdorf",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",
+    "wof:population":2946,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

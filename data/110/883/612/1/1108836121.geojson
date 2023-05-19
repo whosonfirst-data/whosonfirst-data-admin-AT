@@ -11,8 +11,20 @@
     "austriaod:objectid":632,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41514",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Ulrich bei Steyr",
+    "eurostat:nuts_2021_id":"41514",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT314",
+    "eurostat:nuts_2021_level_lau":"41514",
+    "eurostat:population":3043,
+    "eurostat:population_year":2020,
     "geom:area":0.004715,
-    "geom:area_square_m":39011671.859024,
+    "geom:area_square_m":39011671.859028,
     "geom:bbox":"14.4038065558,47.9543222631,14.5551649506,48.0451957205",
     "geom:latitude":47.997813,
     "geom:longitude":14.475691,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41514",
+        "eurostat:nuts_2021_id":"41514"
+    },
     "wof:country":"AT",
     "wof:created":1490046824,
-    "wof:geomhash":"50e9372b7d458f6b504baae8ffc4635b",
+    "wof:geomhash":"a7b0bf52656534855d50a64571aef7fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836121,
-    "wof:lastmodified":1566598596,
+    "wof:lastmodified":1684351553,
     "wof:name":"St. Ulrich bei Steyr",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",
+    "wof:population":3043,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

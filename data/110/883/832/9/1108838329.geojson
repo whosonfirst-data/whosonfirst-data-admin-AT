@@ -11,8 +11,20 @@
     "austriaod:objectid":1614,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_20707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Feistritz an der Gail",
+    "eurostat:nuts_2021_id":"20707",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT21",
+    "eurostat:nuts_2021_level_3":"AT211",
+    "eurostat:nuts_2021_level_lau":"20707",
+    "eurostat:population":619,
+    "eurostat:population_year":2020,
     "geom:area":0.002268,
-    "geom:area_square_m":19281727.972493,
+    "geom:area_square_m":19281727.972492,
     "geom:bbox":"13.504249466,46.5488145308,13.6506928599,46.5916278593",
     "geom:latitude":46.572132,
     "geom:longitude":13.566025,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049683
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_20707",
+        "eurostat:nuts_2021_id":"20707"
+    },
     "wof:country":"AT",
     "wof:created":1490047114,
-    "wof:geomhash":"05037a80f213e7771e6063b859a4a5c7",
+    "wof:geomhash":"7f33e8c24e59486358319a77ba89d6d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838329,
-    "wof:lastmodified":1566598334,
+    "wof:lastmodified":1684351615,
     "wof:name":"Feistritz A. D. Gail",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",
+    "wof:population":619,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

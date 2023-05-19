@@ -11,8 +11,20 @@
     "austriaod:objectid":214,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Geboltskirchen",
+    "eurostat:nuts_2021_id":"40807",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40807",
+    "eurostat:population":1445,
+    "eurostat:population_year":2020,
     "geom:area":0.002083,
-    "geom:area_square_m":17182635.980021,
+    "geom:area_square_m":17182635.980019,
     "geom:bbox":"13.6026022633,48.1258771158,13.6766571022,48.174686816",
     "geom:latitude":48.149391,
     "geom:longitude":13.640325,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40807",
+        "eurostat:nuts_2021_id":"40807"
+    },
     "wof:country":"AT",
     "wof:created":1490046697,
-    "wof:geomhash":"c144b2e61da2d93ebb55f563a2062c4c",
+    "wof:geomhash":"3e1abe3d590d777a8e1079a181808e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108835179,
-    "wof:lastmodified":1566598378,
+    "wof:lastmodified":1684351523,
     "wof:name":"Geboltskirchen",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":1445,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

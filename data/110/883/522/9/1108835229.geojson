@@ -11,8 +11,20 @@
     "austriaod:objectid":236,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40829",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Taufkirchen an der Trattnach",
+    "eurostat:nuts_2021_id":"40829",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40829",
+    "eurostat:population":1967,
+    "eurostat:population_year":2020,
     "geom:area":0.002982,
-    "geom:area_square_m":24554195.270389,
+    "geom:area_square_m":24554195.270393,
     "geom:bbox":"13.6869774948,48.225146575,13.7809698277,48.284983479",
     "geom:latitude":48.252445,
     "geom:longitude":13.736263,
@@ -74,6 +86,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -81,10 +95,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40829",
+        "eurostat:nuts_2021_id":"40829"
+    },
     "wof:country":"AT",
     "wof:created":1490046704,
-    "wof:geomhash":"e167c82f708f7a579cf1047f4f71d134",
+    "wof:geomhash":"82f51c128098b86ab4b3eb007f03476a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +112,12 @@
         }
     ],
     "wof:id":1108835229,
-    "wof:lastmodified":1566598747,
+    "wof:lastmodified":1684351525,
     "wof:name":"Taufkirchen an der Trattnach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":1967,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

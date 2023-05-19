@@ -11,8 +11,20 @@
     "austriaod:objectid":82,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hohe Wand",
+    "eurostat:nuts_2021_id":"32311",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"32311",
+    "eurostat:population":1402,
+    "eurostat:population_year":2020,
     "geom:area":0.002962,
-    "geom:area_square_m":24589039.826333,
+    "geom:area_square_m":24589039.82633,
     "geom:bbox":"16.0015555712,47.7998528946,16.0965412557,47.8513395084",
     "geom:latitude":47.825797,
     "geom:longitude":16.055017,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32311",
+        "eurostat:nuts_2021_id":"32311"
+    },
     "wof:country":"AT",
     "wof:created":1490046658,
-    "wof:geomhash":"a0f6294a2ec8871faa470256e99f3ecb",
+    "wof:geomhash":"1631ee320f0aae0389bc55ec8307aab3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108834883,
-    "wof:lastmodified":1566598568,
+    "wof:lastmodified":1684351513,
     "wof:name":"Hohe Wand",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",
+    "wof:population":1402,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1443,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_80213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fu\u00dfach",
+    "eurostat:nuts_2021_id":"80213",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:nuts_2021_level_3":"AT342",
+    "eurostat:nuts_2021_level_lau":"80213",
+    "eurostat:population":3911,
+    "eurostat:population_year":2020,
     "geom:area":0.001561,
-    "geom:area_square_m":13039772.923497,
+    "geom:area_square_m":13039772.923505,
     "geom:bbox":"9.61347414857,47.4557324351,9.68162743184,47.5241127788",
     "geom:latitude":47.492149,
     "geom:longitude":9.646478,
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_80213",
+        "eurostat:nuts_2021_id":"80213"
+    },
     "wof:country":"AT",
     "wof:created":1490047062,
-    "wof:geomhash":"474cb0942b679c11069df76b6db44dbe",
+    "wof:geomhash":"1cf8abe503abacce2b284bd15c259c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108837945,
-    "wof:lastmodified":1566598481,
+    "wof:lastmodified":1684351603,
     "wof:name":"Fu\u00dfach",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",
+    "wof:population":3911,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

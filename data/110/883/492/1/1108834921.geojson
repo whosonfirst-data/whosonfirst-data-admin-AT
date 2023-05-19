@@ -11,8 +11,20 @@
     "austriaod:objectid":99,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31817",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Natschbach-Loipersbach",
+    "eurostat:nuts_2021_id":"31817",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT122",
+    "eurostat:nuts_2021_level_lau":"31817",
+    "eurostat:population":1697,
+    "eurostat:population_year":2020,
     "geom:area":0.001278,
-    "geom:area_square_m":10632941.483543,
+    "geom:area_square_m":10632941.483542,
     "geom:bbox":"16.0774332765,47.6802385193,16.1457628281,47.7215211978",
     "geom:latitude":47.707238,
     "geom:longitude":16.112149,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31817",
+        "eurostat:nuts_2021_id":"31817"
+    },
     "wof:country":"AT",
     "wof:created":1490046662,
-    "wof:geomhash":"b2fb73a1267bde9c051ba13a7866f309",
+    "wof:geomhash":"264cb2e62fb4e524dddeff6cba078f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108834921,
-    "wof:lastmodified":1566598687,
+    "wof:lastmodified":1684351514,
     "wof:name":"Natschbach - Loipersbach",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",
+    "wof:population":1697,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

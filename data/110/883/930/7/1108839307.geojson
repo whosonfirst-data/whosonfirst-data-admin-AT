@@ -11,6 +11,18 @@
     "austriaod:objectid":2047,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Th\u00f6rl",
+    "eurostat:nuts_2021_id":"62147",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"62147",
+    "eurostat:population":2253,
+    "eurostat:population_year":2020,
     "geom:area":0.019906,
     "geom:area_square_m":166110361.594468,
     "geom:bbox":"15.0542993897,47.4817555363,15.3060657108,47.6352219822",
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         1108892551
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62147",
+        "eurostat:nuts_2021_id":"62147"
+    },
     "wof:country":"AT",
     "wof:created":1490047240,
-    "wof:geomhash":"6927a266f76254a4871b719ac2c0584d",
+    "wof:geomhash":"e3e194bdfb57171a2bdf7e689ed0f7fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108839307,
-    "wof:lastmodified":1566598193,
+    "wof:lastmodified":1684351644,
     "wof:name":"Th\u00f6rl",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",
+    "wof:population":2253,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":343,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31922",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Markersdorf-Haindorf",
+    "eurostat:nuts_2021_id":"31922",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT123",
+    "eurostat:nuts_2021_level_lau":"31922",
+    "eurostat:population":2090,
+    "eurostat:population_year":2020,
     "geom:area":0.002017,
-    "geom:area_square_m":16630771.462092,
+    "geom:area_square_m":16630771.462094,
     "geom:bbox":"15.4425922015,48.1579193018,15.5300407169,48.2071071314",
     "geom:latitude":48.18103,
     "geom:longitude":15.486403,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31922",
+        "eurostat:nuts_2021_id":"31922"
+    },
     "wof:country":"AT",
     "wof:created":1490046741,
-    "wof:geomhash":"6fca21f8065139e12b283715701f05ae",
+    "wof:geomhash":"a8df1ea9e86c7e3c0e4c992602d7b7ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835471,
-    "wof:lastmodified":1566598727,
+    "wof:lastmodified":1684351532,
     "wof:name":"Markersdorf - Haindorf",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",
+    "wof:population":2090,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

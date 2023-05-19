@@ -11,6 +11,18 @@
     "austriaod:objectid":1870,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61746",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Margarethen an der Raab",
+    "eurostat:nuts_2021_id":"61746",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"61746",
+    "eurostat:population":4110,
+    "eurostat:population_year":2020,
     "geom:area":0.005095,
     "geom:area_square_m":42927768.801594,
     "geom:bbox":"15.6754475083,47.0139645135,15.802992051,47.0825233963",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61746",
+        "eurostat:nuts_2021_id":"61746"
+    },
     "wof:country":"AT",
     "wof:created":1490047183,
-    "wof:geomhash":"187f3202723069650f2d857a0e3c5a9f",
+    "wof:geomhash":"bc02a98f4625217f5f1fac742cff4c33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838909,
-    "wof:lastmodified":1566598697,
+    "wof:lastmodified":1684351632,
     "wof:name":"St. Margarethen",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",
+    "wof:population":4110,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

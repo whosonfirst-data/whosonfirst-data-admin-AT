@@ -11,8 +11,20 @@
     "austriaod:objectid":640,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_41602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altenberg bei Linz",
+    "eurostat:nuts_2021_id":"41602",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT312",
+    "eurostat:nuts_2021_level_lau":"41602",
+    "eurostat:population":4672,
+    "eurostat:population_year":2020,
     "geom:area":0.004411,
-    "geom:area_square_m":36233192.230689,
+    "geom:area_square_m":36233192.230688,
     "geom:bbox":"14.2918913676,48.341647697,14.3953579425,48.4114416476",
     "geom:latitude":48.37661,
     "geom:longitude":14.338408,
@@ -92,6 +104,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -99,10 +113,13 @@
         102049881
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_41602",
+        "eurostat:nuts_2021_id":"41602"
+    },
     "wof:country":"AT",
     "wof:created":1490046827,
-    "wof:geomhash":"fe601707cab3533164ffc0a5d9a15aa5",
+    "wof:geomhash":"0faa8e6c9a9967b13715200e9edc5fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":1108836139,
-    "wof:lastmodified":1566598547,
+    "wof:lastmodified":1684351554,
     "wof:name":"Altenberg bei Linz",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",
+    "wof:population":4672,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

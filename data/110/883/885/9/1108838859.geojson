@@ -11,8 +11,20 @@
     "austriaod:objectid":1848,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61758",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fladnitz an der Teichalm",
+    "eurostat:nuts_2021_id":"61758",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"61758",
+    "eurostat:population":1790,
+    "eurostat:population_year":2020,
     "geom:area":0.007917,
-    "geom:area_square_m":66375359.982352,
+    "geom:area_square_m":66375359.982351,
     "geom:bbox":"15.3915480762,47.259316834,15.5087956843,47.3657716296",
     "geom:latitude":47.313114,
     "geom:longitude":15.45062,
@@ -41,6 +53,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -48,10 +62,13 @@
         102049765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61758",
+        "eurostat:nuts_2021_id":"61758"
+    },
     "wof:country":"AT",
     "wof:created":1490047176,
-    "wof:geomhash":"d75eaef99e56eb602bebe44462e445e0",
+    "wof:geomhash":"1d89bc6fcfd8b7ac8d0bd37aa74ebe49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +79,12 @@
         }
     ],
     "wof:id":1108838859,
-    "wof:lastmodified":1566598591,
+    "wof:lastmodified":1684351630,
     "wof:name":"Fladnitz",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",
+    "wof:population":1790,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1821,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61425",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Peter am Kammersberg",
+    "eurostat:nuts_2021_id":"61425",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT226",
+    "eurostat:nuts_2021_level_lau":"61425",
+    "eurostat:population":2045,
+    "eurostat:population_year":2020,
     "geom:area":0.01,
-    "geom:area_square_m":84007777.012002,
+    "geom:area_square_m":84007777.011997,
     "geom:bbox":"14.0984339305,47.1359770598,14.2645423987,47.2741012378",
     "geom:latitude":47.20201,
     "geom:longitude":14.181817,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61425",
+        "eurostat:nuts_2021_id":"61425"
+    },
     "wof:country":"AT",
     "wof:created":1490047169,
-    "wof:geomhash":"20e276e1c5838bfcc2fa25b3863f75d6",
+    "wof:geomhash":"52dab21a6f9504a74851354f348e291b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838795,
-    "wof:lastmodified":1566598550,
+    "wof:lastmodified":1684351628,
     "wof:name":"St. Peter",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",
+    "wof:population":2045,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

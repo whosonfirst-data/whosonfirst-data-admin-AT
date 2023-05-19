@@ -11,6 +11,18 @@
     "austriaod:objectid":1961,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62279",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Waldbach-M\u00f6nichwald",
+    "eurostat:nuts_2021_id":"62279",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62279",
+    "eurostat:population":1473,
+    "eurostat:population_year":2020,
     "geom:area":0.006445,
     "geom:area_square_m":53858066.318456,
     "geom:bbox":"15.8006337232,47.4379017806,15.9248949226,47.530427131",
@@ -44,6 +56,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -51,10 +65,13 @@
         1108892549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62279",
+        "eurostat:nuts_2021_id":"62279"
+    },
     "wof:country":"AT",
     "wof:created":1490047209,
-    "wof:geomhash":"faadad1524c79f6db246f6286c332888",
+    "wof:geomhash":"82cbce2e9b17827c76c76e4d31120785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +82,12 @@
         }
     ],
     "wof:id":1108839113,
-    "wof:lastmodified":1566598707,
+    "wof:lastmodified":1684351637,
     "wof:name":"Waldbach-M\u00f6nichwald",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",
+    "wof:population":1473,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -11,8 +11,20 @@
     "austriaod:objectid":914,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_31904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brand-Laaben",
+    "eurostat:nuts_2021_id":"31904",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT123",
+    "eurostat:nuts_2021_level_lau":"31904",
+    "eurostat:population":1236,
+    "eurostat:population_year":2020,
     "geom:area":0.004171,
-    "geom:area_square_m":34450162.857276,
+    "geom:area_square_m":34450162.857272,
     "geom:bbox":"15.8056378273,48.0620879828,15.920226866,48.1391678631",
     "geom:latitude":48.09558,
     "geom:longitude":15.864536,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_31904",
+        "eurostat:nuts_2021_id":"31904"
+    },
     "wof:country":"AT",
     "wof:created":1490046909,
-    "wof:geomhash":"29099e30e95babe96a3e0f289f961b2f",
+    "wof:geomhash":"7fe25d1b29d9188822e40fa0b6f32e87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836755,
-    "wof:lastmodified":1566598222,
+    "wof:lastmodified":1684351572,
     "wof:name":"Brand - Laaben",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",
+    "wof:population":1236,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

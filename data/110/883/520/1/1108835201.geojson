@@ -11,8 +11,20 @@
     "austriaod:objectid":223,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40816",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Natternbach",
+    "eurostat:nuts_2021_id":"40816",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40816",
+    "eurostat:population":2287,
+    "eurostat:population_year":2020,
     "geom:area":0.003762,
-    "geom:area_square_m":30882032.194217,
+    "geom:area_square_m":30882032.194225,
     "geom:bbox":"13.6851828298,48.3723958166,13.7741038872,48.4490124648",
     "geom:latitude":48.409966,
     "geom:longitude":13.728684,
@@ -83,6 +95,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -90,10 +104,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40816",
+        "eurostat:nuts_2021_id":"40816"
+    },
     "wof:country":"AT",
     "wof:created":1490046700,
-    "wof:geomhash":"96885a042758614e983bcdd3997ed0a4",
+    "wof:geomhash":"86073c7facc30c79310c0915655b6c1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108835201,
-    "wof:lastmodified":1566598423,
+    "wof:lastmodified":1684351524,
     "wof:name":"Natternbach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":2287,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

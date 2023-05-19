@@ -11,6 +11,18 @@
     "austriaod:objectid":1917,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_61106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kammern im Liesingtal",
+    "eurostat:nuts_2021_id":"61106",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT223",
+    "eurostat:nuts_2021_level_lau":"61106",
+    "eurostat:population":1588,
+    "eurostat:population_year":2020,
     "geom:area":0.006997,
     "geom:area_square_m":58571323.454951,
     "geom:bbox":"14.8557257882,47.3488324665,14.9980217435,47.4486960228",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049769
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_61106",
+        "eurostat:nuts_2021_id":"61106"
+    },
     "wof:country":"AT",
     "wof:created":1490047196,
-    "wof:geomhash":"807a7acf592ca967205da9ef759c1e3f",
+    "wof:geomhash":"db10323608a60b372f2db7f3275d368c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839013,
-    "wof:lastmodified":1566598177,
+    "wof:lastmodified":1684351634,
     "wof:name":"Kammern",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",
+    "wof:population":1588,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

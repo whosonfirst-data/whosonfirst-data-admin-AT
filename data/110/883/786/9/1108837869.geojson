@@ -11,8 +11,20 @@
     "austriaod:objectid":1409,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_70913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gerlosberg",
+    "eurostat:nuts_2021_id":"70913",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT33",
+    "eurostat:nuts_2021_level_3":"AT335",
+    "eurostat:nuts_2021_level_lau":"70913",
+    "eurostat:population":474,
+    "eurostat:population_year":2020,
     "geom:area":0.001932,
-    "geom:area_square_m":16226542.610287,
+    "geom:area_square_m":16226542.610289,
     "geom:bbox":"11.8875551659,47.2100311546,11.9873006189,47.253726545",
     "geom:latitude":47.228369,
     "geom:longitude":11.95244,
@@ -89,6 +101,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -96,10 +110,13 @@
         102049755
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_70913",
+        "eurostat:nuts_2021_id":"70913"
+    },
     "wof:country":"AT",
     "wof:created":1490047053,
-    "wof:geomhash":"9f4428dad4a1e58723c7ec9b48051cc8",
+    "wof:geomhash":"a6a8fbd1298c9cdb552f217eeff80670",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108837869,
-    "wof:lastmodified":1566598731,
+    "wof:lastmodified":1684351601,
     "wof:name":"Gerlosberg",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",
+    "wof:population":474,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

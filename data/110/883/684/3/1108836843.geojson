@@ -11,8 +11,20 @@
     "austriaod:objectid":953,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32528",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bad Traunstein",
+    "eurostat:nuts_2021_id":"32528",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT124",
+    "eurostat:nuts_2021_level_lau":"32528",
+    "eurostat:population":1005,
+    "eurostat:population_year":2020,
     "geom:area":0.00577,
-    "geom:area_square_m":47340525.142931,
+    "geom:area_square_m":47340525.142937,
     "geom:bbox":"15.0548042577,48.3966130132,15.1715008147,48.4713013464",
     "geom:latitude":48.433562,
     "geom:longitude":15.114456,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32528",
+        "eurostat:nuts_2021_id":"32528"
+    },
     "wof:country":"AT",
     "wof:created":1490046921,
-    "wof:geomhash":"f99ef59f330f751ce7ad1f3ba27721a6",
+    "wof:geomhash":"66a1ea24cfc1ee70509163b137857dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836843,
-    "wof:lastmodified":1566598614,
+    "wof:lastmodified":1684351574,
     "wof:name":"Bad Traunstein",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",
+    "wof:population":1005,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":746,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_30939",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Unserfrau-Altweitra",
+    "eurostat:nuts_2021_id":"30939",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT124",
+    "eurostat:nuts_2021_level_lau":"30939",
+    "eurostat:population":981,
+    "eurostat:population_year":2020,
     "geom:area":0.004916,
-    "geom:area_square_m":40092358.433391,
+    "geom:area_square_m":40092358.433392,
     "geom:bbox":"14.800499864,48.6979844254,14.9725043457,48.783848332",
     "geom:latitude":48.737523,
     "geom:longitude":14.87264,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049905
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_30939",
+        "eurostat:nuts_2021_id":"30939"
+    },
     "wof:country":"AT",
     "wof:created":1490046863,
-    "wof:geomhash":"a367e9e7e98505db8768e5064431b94f",
+    "wof:geomhash":"7cdd8b92d79457241b1582ea7c508653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836377,
-    "wof:lastmodified":1566598644,
+    "wof:lastmodified":1684351561,
     "wof:name":"Unserfrau - Altweitra",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",
+    "wof:population":981,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

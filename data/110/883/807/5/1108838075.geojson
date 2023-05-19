@@ -11,6 +11,18 @@
     "austriaod:objectid":1501,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_80127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Th\u00fcringerberg",
+    "eurostat:nuts_2021_id":"80127",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:nuts_2021_level_3":"AT341",
+    "eurostat:nuts_2021_level_lau":"80127",
+    "eurostat:population":719,
+    "eurostat:population_year":2020,
     "geom:area":0.001236,
     "geom:area_square_m":10377151.691277,
     "geom:bbox":"9.75007675981,47.2000443935,9.80514927491,47.2409105438",
@@ -104,6 +116,8 @@
     "qs_pg:woe_id":12675656,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -112,12 +126,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"AT_80127",
+        "eurostat:nuts_2021_id":"80127",
         "gp:id":12675656,
         "qs_pg:id":59588
     },
     "wof:country":"AT",
     "wof:created":1490047080,
-    "wof:geomhash":"13f5dbf3d65086c403b90a167e8bee30",
+    "wof:geomhash":"509ec0da0a287f5c3f10fa7edfba26d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":1108838075,
-    "wof:lastmodified":1566598629,
+    "wof:lastmodified":1684351606,
     "wof:name":"Th\u00fcringerberg",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",
+    "wof:population":719,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

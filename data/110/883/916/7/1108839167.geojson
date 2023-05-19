@@ -11,8 +11,20 @@
     "austriaod:objectid":1985,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60639",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Bartholom\u00e4",
+    "eurostat:nuts_2021_id":"60639",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT221",
+    "eurostat:nuts_2021_level_lau":"60639",
+    "eurostat:population":1442,
+    "eurostat:population_year":2020,
     "geom:area":0.001389,
-    "geom:area_square_m":11696629.003036,
+    "geom:area_square_m":11696629.003035,
     "geom:bbox":"15.2251075311,47.0347604508,15.2830331993,47.1001823406",
     "geom:latitude":47.074395,
     "geom:longitude":15.258253,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049741
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60639",
+        "eurostat:nuts_2021_id":"60639"
+    },
     "wof:country":"AT",
     "wof:created":1490047216,
-    "wof:geomhash":"4c485fc448abd621afb165ab4b997b33",
+    "wof:geomhash":"8feabd8e1181fc0b41e075ba1c6dfdb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839167,
-    "wof:lastmodified":1566598714,
+    "wof:lastmodified":1684351639,
     "wof:name":"St. Bartholom\u00e4",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",
+    "wof:population":1442,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1952,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_62205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buch-St. Magdalena",
+    "eurostat:nuts_2021_id":"62205",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT224",
+    "eurostat:nuts_2021_level_lau":"62205",
+    "eurostat:population":2145,
+    "eurostat:population_year":2020,
     "geom:area":0.003138,
-    "geom:area_square_m":26347921.311164,
+    "geom:area_square_m":26347921.311163,
     "geom:bbox":"15.9493032688,47.1967373415,16.0624900675,47.2548909292",
     "geom:latitude":47.226622,
     "geom:longitude":16.006772,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         1108892549
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_62205",
+        "eurostat:nuts_2021_id":"62205"
+    },
     "wof:country":"AT",
     "wof:created":1490047206,
-    "wof:geomhash":"0a25be3a938250c824d41f77dd13110e",
+    "wof:geomhash":"ace5a44efe257f155551c6dcff1f12f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108839093,
-    "wof:lastmodified":1566598130,
+    "wof:lastmodified":1684351637,
     "wof:name":"Buch-St. Magdalena",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",
+    "wof:population":2145,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

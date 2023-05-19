@@ -11,6 +11,18 @@
     "austriaod:objectid":1017,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32515",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kottes-Purk",
+    "eurostat:nuts_2021_id":"32515",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT124",
+    "eurostat:nuts_2021_level_lau":"32515",
+    "eurostat:population":1465,
+    "eurostat:population_year":2020,
     "geom:area":0.007111,
     "geom:area_square_m":58356522.250548,
     "geom:bbox":"15.2381290347,48.3731887746,15.3775119484,48.467600356",
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049895
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32515",
+        "eurostat:nuts_2021_id":"32515"
+    },
     "wof:country":"AT",
     "wof:created":1490046938,
-    "wof:geomhash":"7d970a7fa0b542c7b709fdeb51b2171b",
+    "wof:geomhash":"5614cbcc70776c73f6847ad651535a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108836987,
-    "wof:lastmodified":1566598675,
+    "wof:lastmodified":1684351577,
     "wof:name":"Kottes - Purk",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",
+    "wof:population":1465,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":1459,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_80222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langen bei Bregenz",
+    "eurostat:nuts_2021_id":"80222",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:nuts_2021_level_3":"AT342",
+    "eurostat:nuts_2021_level_lau":"80222",
+    "eurostat:population":1446,
+    "eurostat:population_year":2020,
     "geom:area":0.002611,
-    "geom:area_square_m":21804443.068755,
+    "geom:area_square_m":21804443.068762,
     "geom:bbox":"9.79335064403,47.489050974,9.87448994847,47.544819322",
     "geom:latitude":47.516516,
     "geom:longitude":9.833833,
@@ -80,6 +92,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -87,10 +101,13 @@
         102049751
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_80222",
+        "eurostat:nuts_2021_id":"80222"
+    },
     "wof:country":"AT",
     "wof:created":1490047066,
-    "wof:geomhash":"336569a3d674a38b6fd41cd9b4fa7af8",
+    "wof:geomhash":"2e145dd5a52a60aa8d2d846394a24d77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":1108837981,
-    "wof:lastmodified":1566598186,
+    "wof:lastmodified":1684351604,
     "wof:name":"Langen",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",
+    "wof:population":1446,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

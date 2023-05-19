@@ -11,8 +11,20 @@
     "austriaod:objectid":231,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40824",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sankt Agatha",
+    "eurostat:nuts_2021_id":"40824",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40824",
+    "eurostat:population":2131,
+    "eurostat:population_year":2020,
     "geom:area":0.003862,
-    "geom:area_square_m":31715795.36699,
+    "geom:area_square_m":31715795.366991,
     "geom:bbox":"13.8288272485,48.3494090701,13.9237086402,48.4259154924",
     "geom:latitude":48.388328,
     "geom:longitude":13.870675,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40824",
+        "eurostat:nuts_2021_id":"40824"
+    },
     "wof:country":"AT",
     "wof:created":1490046702,
-    "wof:geomhash":"886f9de0feb2a5fa72272abbd0ce1ebe",
+    "wof:geomhash":"857134067064f573e98b8eba530ae4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108835219,
-    "wof:lastmodified":1566598382,
+    "wof:lastmodified":1684351525,
     "wof:name":"St. Agatha",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":2131,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

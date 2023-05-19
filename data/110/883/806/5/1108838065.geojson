@@ -11,8 +11,20 @@
     "austriaod:objectid":1496,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_80121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Gerold",
+    "eurostat:nuts_2021_id":"80121",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT34",
+    "eurostat:nuts_2021_level_3":"AT341",
+    "eurostat:nuts_2021_level_lau":"80121",
+    "eurostat:population":400,
+    "eurostat:population_year":2020,
     "geom:area":0.001494,
-    "geom:area_square_m":12542413.686385,
+    "geom:area_square_m":12542413.686386,
     "geom:bbox":"9.781392178,47.2118553179,9.82951784726,47.2632982351",
     "geom:latitude":47.238708,
     "geom:longitude":9.807832,
@@ -26,6 +38,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -33,10 +47,13 @@
         102049711
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_80121",
+        "eurostat:nuts_2021_id":"80121"
+    },
     "wof:country":"AT",
     "wof:created":1490047079,
-    "wof:geomhash":"0f593544385826e9eccb47b841235705",
+    "wof:geomhash":"0865788ee8385cf2353311466626652d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,10 +64,12 @@
         }
     ],
     "wof:id":1108838065,
-    "wof:lastmodified":1566598677,
+    "wof:lastmodified":1684351606,
     "wof:name":"St. Gerold",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -11,8 +11,20 @@
     "austriaod:objectid":220,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_40813",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kematen am Innbach",
+    "eurostat:nuts_2021_id":"40813",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT3",
+    "eurostat:nuts_2021_level_2":"AT31",
+    "eurostat:nuts_2021_level_3":"AT311",
+    "eurostat:nuts_2021_level_lau":"40813",
+    "eurostat:population":1431,
+    "eurostat:population_year":2020,
     "geom:area":0.001532,
-    "geom:area_square_m":12631128.368536,
+    "geom:area_square_m":12631128.368533,
     "geom:bbox":"13.818278241,48.1615907416,13.8853892555,48.2060135715",
     "geom:latitude":48.181822,
     "geom:longitude":13.847708,
@@ -86,6 +98,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -93,10 +107,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_40813",
+        "eurostat:nuts_2021_id":"40813"
+    },
     "wof:country":"AT",
     "wof:created":1490046700,
-    "wof:geomhash":"5b00cc57bf730eff9802f513b5c61c8a",
+    "wof:geomhash":"2f6c6e35397defc2b555150ec143ce9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108835193,
-    "wof:lastmodified":1566598389,
+    "wof:lastmodified":1684351524,
     "wof:name":"Kematen am Innbach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",
+    "wof:population":1431,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

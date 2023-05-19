@@ -11,8 +11,20 @@
     "austriaod:objectid":478,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_32002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00f6stling an der Ybbs",
+    "eurostat:nuts_2021_id":"32002",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT1",
+    "eurostat:nuts_2021_level_2":"AT12",
+    "eurostat:nuts_2021_level_3":"AT121",
+    "eurostat:nuts_2021_level_lau":"32002",
+    "eurostat:population":2025,
+    "eurostat:population_year":2020,
     "geom:area":0.01725,
-    "geom:area_square_m":143347119.927759,
+    "geom:area_square_m":143347119.927761,
     "geom:bbox":"14.843978439,47.7089926381,15.0636985771,47.8483743362",
     "geom:latitude":47.775839,
     "geom:longitude":14.948881,
@@ -77,6 +89,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -84,10 +98,13 @@
         102049825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_32002",
+        "eurostat:nuts_2021_id":"32002"
+    },
     "wof:country":"AT",
     "wof:created":1490046779,
-    "wof:geomhash":"5b87d6cf92f1a558bbb7ce02e6400b60",
+    "wof:geomhash":"b2f294128612d9dab502729e01f3e3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +115,12 @@
         }
     ],
     "wof:id":1108835773,
-    "wof:lastmodified":1566598775,
+    "wof:lastmodified":1684351542,
     "wof:name":"G\u00f6stling an der Ybbs",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",
+    "wof:population":2025,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[

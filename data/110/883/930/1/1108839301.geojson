@@ -11,8 +11,20 @@
     "austriaod:objectid":2045,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"AT",
+    "eurostat:gisco_id":"AT_60344",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Deutschlandsberg",
+    "eurostat:nuts_2021_id":"60344",
+    "eurostat:nuts_2021_level_0":"AT",
+    "eurostat:nuts_2021_level_1":"AT2",
+    "eurostat:nuts_2021_level_2":"AT22",
+    "eurostat:nuts_2021_level_3":"AT225",
+    "eurostat:nuts_2021_level_lau":"60344",
+    "eurostat:population":11663,
+    "eurostat:population_year":2020,
     "geom:area":0.021137,
-    "geom:area_square_m":178719062.677057,
+    "geom:area_square_m":178719062.677048,
     "geom:bbox":"15.007920439,46.793092754,15.2664461912,46.9279226796",
     "geom:latitude":46.859205,
     "geom:longitude":15.133247,
@@ -113,6 +125,8 @@
     ],
     "src:geom":"austriaod",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85632785,
@@ -120,10 +134,13 @@
         102049691
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"AT_60344",
+        "eurostat:nuts_2021_id":"60344"
+    },
     "wof:country":"AT",
     "wof:created":1490047239,
-    "wof:geomhash":"a3ef0ef134fd3c0925644698c440179a",
+    "wof:geomhash":"9e8583e3a759f54c6b89b318cac65581",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":1108839301,
-    "wof:lastmodified":1566598194,
+    "wof:lastmodified":1684351644,
     "wof:name":"Deutschlandsberg",
     "wof:parent_id":102049691,
     "wof:placetype":"localadmin",
+    "wof:population":11663,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[
