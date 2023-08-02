@@ -28,6 +28,9 @@
     "name:afr_x_preferred":[
         "Innsbruck"
     ],
+    "name:aka_x_preferred":[
+        "Innsbruck"
+    ],
     "name:amh_x_preferred":[
         "\u12a5\u1295\u1235\u1265\u1229\u12ad"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:arg_x_preferred":[
         "Innsbruck"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0646\u0633\u0628\u0631\u0648\u0643"
     ],
     "name:ast_x_preferred":[
         "Innsbruck"
@@ -48,6 +54,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0418\u043d\u0441\u0431\u0440\u0443\u043a"
+    ],
+    "name:ban_x_preferred":[
+        "Innsbruck"
     ],
     "name:bar_x_preferred":[
         "Innschbruck"
@@ -94,6 +103,9 @@
     "name:deu_x_preferred":[
         "Innsbruck"
     ],
+    "name:diq_x_preferred":[
+        "Innsbruck"
+    ],
     "name:ell_x_preferred":[
         "\u038a\u03bd\u03c3\u03bc\u03c0\u03c1\u03bf\u03c5\u03ba"
     ],
@@ -112,6 +124,9 @@
     "name:ext_x_preferred":[
         "Innsbruck"
     ],
+    "name:fao_x_preferred":[
+        "Innsbruck"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0646\u0633\u0628\u0631\u0648\u06a9"
     ],
@@ -119,6 +134,12 @@
         "Innsbruck"
     ],
     "name:fra_x_preferred":[
+        "Innsbruck"
+    ],
+    "name:frp_x_preferred":[
+        "Innsbruck"
+    ],
+    "name:frr_x_preferred":[
         "Innsbruck"
     ],
     "name:fry_x_preferred":[
@@ -199,6 +220,9 @@
     "name:kor_x_preferred":[
         "\uc778\uc2a4\ube0c\ub8e8\ud06c"
     ],
+    "name:kur_x_preferred":[
+        "Innsbruck"
+    ],
     "name:lat_x_preferred":[
         "Pons Aeni"
     ],
@@ -210,6 +234,9 @@
     ],
     "name:lit_x_preferred":[
         "Insbrukas"
+    ],
+    "name:lld_x_preferred":[
+        "Dispruch"
     ],
     "name:lmo_x_preferred":[
         "Innsbruck"
@@ -225,6 +252,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0418\u043d\u0441\u0431\u0440\u0443\u043a"
+    ],
+    "name:mlt_x_preferred":[
+        "Innsbruck"
     ],
     "name:mon_x_preferred":[
         "\u0418\u043d\u0441\u0431\u0440\u0443\u043a"
@@ -274,6 +304,9 @@
     "name:por_x_preferred":[
         "Innsbruck"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u06cc\u0646\u0633\u0628\u0631\u0648\u06a9"
+    ],
     "name:que_x_preferred":[
         "Innsbruck"
     ],
@@ -282,6 +315,9 @@
     ],
     "name:ron_x_preferred":[
         "Innsbruck"
+    ],
+    "name:rue_x_preferred":[
+        "\u0418\u043d\u043d\u0441\u0431\u0440\u0443\u043a"
     ],
     "name:rus_x_preferred":[
         "\u0418\u043d\u0441\u0431\u0440\u0443\u043a"
@@ -303,6 +339,9 @@
     ],
     "name:sme_x_preferred":[
         "Innsbruck"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u0646\u0633\u0628\u0631\u0648\u06aa"
     ],
     "name:spa_x_preferred":[
         "Innsbruck"
@@ -346,6 +385,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0646\u0633\u0628\u0631\u0648\u06a9"
     ],
+    "name:uzb_x_preferred":[
+        "Insbruk"
+    ],
     "name:vec_x_preferred":[
         "Insbruc"
     ],
@@ -353,6 +395,9 @@
         "Insbruk"
     ],
     "name:vie_x_preferred":[
+        "Innsbruck"
+    ],
+    "name:vls_x_preferred":[
         "Innsbruck"
     ],
     "name:vol_x_preferred":[
@@ -367,11 +412,17 @@
     "name:wuu_x_preferred":[
         "\u56e0\u65af\u5b5b\u9c81\u514b"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d8\u10dc\u10e1\u10d1\u10e0\u10e3\u10d9\u10d8"
+    ],
     "name:yid_x_preferred":[
         "\u05d0\u05d9\u05e0\u05e1\u05d1\u05e8\u05d5\u05e7"
     ],
     "name:yue_x_preferred":[
         "\u56e0\u65af\u5e03\u9b6f\u514b"
+    ],
+    "name:yue_x_variant":[
+        "\u71d5\u65af\u5e03\u9678"
     ],
     "name:zho_x_preferred":[
         "\u56e0\u65af\u5e03\u9c81\u514b"
@@ -432,7 +483,7 @@
         }
     ],
     "wof:id":102049723,
-    "wof:lastmodified":1607997079,
+    "wof:lastmodified":1690850877,
     "wof:name":"Innsbruck - Stadt",
     "wof:parent_id":85681661,
     "wof:placetype":"county",

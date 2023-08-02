@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.6570865,47.464133,16.6570865,47.464133",
+    "geom:bbox":"16.657086,47.464133,16.657086,47.464133",
     "geom:latitude":47.464133,
     "geom:longitude":16.657086,
     "gn:country":"AT",
@@ -20,11 +20,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lutzmannsburg"
+    ],
     "name:ceb_x_preferred":[
         "Lutzmannsburg"
     ],
     "name:ces_x_preferred":[
         "Lutzmannsburg"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0443\u0446\u043c\u0430\u043d\u0441\u0431\u0443\u0440\u0433"
     ],
     "name:deu_x_preferred":[
         "Lutzmannsburg"
@@ -56,7 +62,13 @@
     "name:kaz_x_preferred":[
         "\u041b\u0443\u0446\u043c\u0430\u043d\u043d\u0441\u0431\u0443\u0440\u0433"
     ],
+    "name:lld_x_preferred":[
+        "Lutzmannsburg"
+    ],
     "name:nld_x_preferred":[
+        "Lutzmannsburg"
+    ],
+    "name:nob_x_preferred":[
         "Lutzmannsburg"
     ],
     "name:pol_x_preferred":[
@@ -77,10 +89,16 @@
     "name:swe_x_preferred":[
         "Lutzmannsburg"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0443\u0446\u043c\u0430\u043d\u0441\u0431\u0443\u0440\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0446\u043c\u0430\u043d\u043d\u0441\u0431\u0443\u0440\u0433"
     ],
     "name:uzb_x_preferred":[
+        "Lutzmannsburg"
+    ],
+    "name:vec_x_preferred":[
         "Lutzmannsburg"
     ],
     "name:vol_x_preferred":[
@@ -130,7 +148,7 @@
     },
     "wof:country":"AT",
     "wof:created":1497302778,
-    "wof:geomhash":"e75b867f7c5eb7b70b01a7492e5e3894",
+    "wof:geomhash":"a1f8e92f0ba9906116cb349c60b220c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":1126051473,
-    "wof:lastmodified":1566599294,
+    "wof:lastmodified":1690851233,
     "wof:name":"Lutzmannsburg",
     "wof:parent_id":1108838703,
     "wof:placetype":"locality",
@@ -152,10 +170,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.6570865,
+    16.657086,
     47.464133,
-    16.6570865,
+    16.657086,
     47.464133
 ],
-  "geometry": {"coordinates":[16.6570865,47.464133],"type":"Point"}
+  "geometry": {"coordinates":[16.657086,47.464133],"type":"Point"}
 }

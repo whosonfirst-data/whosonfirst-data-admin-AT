@@ -62,6 +62,9 @@
     "name:ast_x_preferred":[
         "Carintia"
     ],
+    "name:aze_x_preferred":[
+        "Karintiya"
+    ],
     "name:bar_x_preferred":[
         "Karntn"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09b0\u09bf\u09a8\u09cd\u09a5\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u09c7\u09b0\u09cd\u09a8\u09cd\u099f\u09c7\u09a8"
     ],
     "name:bos_x_preferred":[
         "Koru\u0161ka"
@@ -140,6 +146,9 @@
     "name:frr_x_preferred":[
         "K\u00e4rnten"
     ],
+    "name:fry_x_preferred":[
+        "Karinsje"
+    ],
     "name:fur_x_preferred":[
         "Carintie"
     ],
@@ -178,6 +187,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0580\u056b\u0576\u057f\u056b\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0554\u0561\u0580\u056b\u0576\u0569\u056b\u0561"
     ],
     "name:ile_x_preferred":[
         "Carintia"
@@ -218,6 +230,9 @@
     "name:lit_x_preferred":[
         "Karintija"
     ],
+    "name:lld_x_preferred":[
+        "Ciar\u00ebnzia"
+    ],
     "name:ltz_x_preferred":[
         "K\u00e4rnten"
     ],
@@ -226,6 +241,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0440\u0443\u0448\u043a\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "K\u00e4rnten"
     ],
     "name:mon_x_preferred":[
         "\u041a\u0430\u0440\u0438\u043d\u0442"
@@ -290,8 +308,14 @@
     "name:slv_x_preferred":[
         "Koro\u0161ka"
     ],
+    "name:snd_x_preferred":[
+        "\u06aa\u0631\u064a\u0646\u067f\u064a\u0627"
+    ],
     "name:spa_x_preferred":[
         "Carintia"
+    ],
+    "name:sqi_x_preferred":[
+        "K\u00e4rnten"
     ],
     "name:srd_x_preferred":[
         "Car\u00ecntzia"
@@ -332,6 +356,9 @@
     "name:vec_x_preferred":[
         "Carinsia"
     ],
+    "name:vec_x_variant":[
+        "Car\u00ecnsia"
+    ],
     "name:vie_x_preferred":[
         "K\u00e4rnten"
     ],
@@ -340,6 +367,12 @@
     ],
     "name:war_x_preferred":[
         "Carinthia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u514b\u6069\u987f\u5dde"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d8\u10dc\u10d7\u10d8\u10d0"
     ],
     "name:yue_x_preferred":[
         "\u514b\u6069\u6ed5"
@@ -456,7 +489,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"223d3545832b89071429679bcc1a037b",
+    "wof:geomhash":"25b85bcda8e5ff896cc1cf34c2dbdf1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -474,7 +507,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1684351384,
+    "wof:lastmodified":1690850914,
     "wof:name":"K\u00e4rnten",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

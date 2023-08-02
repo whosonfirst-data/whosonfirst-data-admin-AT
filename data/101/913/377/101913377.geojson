@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":336.933551,
-    "geom:bbox":"15.4193858979,47.1287256606,15.4202615731,47.1288176645",
+    "geom:bbox":"15.419386,47.128726,15.420262,47.128818",
     "geom:latitude":47.128773,
     "geom:longitude":15.419681,
     "gn:population":222326,
@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u062a\u0633"
     ],
+    "name:arg_x_preferred":[
+        "Graz"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0631\u0627\u062a\u0633"
+    ],
     "name:ast_x_preferred":[
         "Graz"
     ],
@@ -40,6 +46,12 @@
     ],
     "name:aze_x_preferred":[
         "Qras"
+    ],
+    "name:bak_x_preferred":[
+        "\u0413\u0440\u0430\u0446"
+    ],
+    "name:ban_x_preferred":[
+        "Graz"
     ],
     "name:bar_x_preferred":[
         "Graz"
@@ -120,6 +132,9 @@
         "Graz"
     ],
     "name:frr_x_preferred":[
+        "Graz"
+    ],
+    "name:fry_x_preferred":[
         "Graz"
     ],
     "name:fur_x_preferred":[
@@ -212,6 +227,9 @@
     "name:lit_x_preferred":[
         "Gracas"
     ],
+    "name:lld_x_preferred":[
+        "Graz"
+    ],
     "name:lmo_x_preferred":[
         "Graz"
     ],
@@ -221,17 +239,26 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u093e\u091d"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0440\u0430\u0446"
+    ],
     "name:mhr_x_preferred":[
         "\u0413\u0440\u0430\u0446"
     ],
     "name:mkd_x_preferred":[
         "\u0413\u0440\u0430\u0446"
     ],
+    "name:mlt_x_preferred":[
+        "Graz"
+    ],
     "name:mon_x_preferred":[
         "\u0413\u0440\u0430\u0446"
     ],
     "name:msa_x_preferred":[
         "Graz"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06af\u0631\u0627\u062a\u0633"
     ],
     "name:nah_x_preferred":[
         "Graz"
@@ -302,6 +329,9 @@
     "name:sme_x_preferred":[
         "Graz"
     ],
+    "name:snd_x_preferred":[
+        "\u06af\u0631\u0627\u062a\u0633"
+    ],
     "name:spa_x_preferred":[
         "Graz"
     ],
@@ -332,14 +362,23 @@
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c3e\u0c1c\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0413\u0440\u0430\u0441"
+    ],
     "name:tgl_x_preferred":[
         "Graz"
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e23\u0e32\u0e0b"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e23\u0e32\u0e17\u0e0b\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Graz"
+    ],
+    "name:uig_x_preferred":[
+        "\u06af\u0631\u0627\u0632"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0446"
@@ -350,6 +389,9 @@
     "name:urd_x_preferred":[
         "\u06af\u0631\u0627\u062a\u0632"
     ],
+    "name:uzb_x_preferred":[
+        "Grats"
+    ],
     "name:vec_x_preferred":[
         "Graz"
     ],
@@ -357,6 +399,9 @@
         "Grac"
     ],
     "name:vie_x_preferred":[
+        "Graz"
+    ],
+    "name:vls_x_preferred":[
         "Graz"
     ],
     "name:vol_x_preferred":[
@@ -367,6 +412,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u683c\u62c9\u81ea"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10ea\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d2\u05e8\u05d0\u05e5"
@@ -412,7 +460,7 @@
         "wd:id":"Q13298"
     },
     "wof:country":"AT",
-    "wof:geomhash":"5930269542b3f42a53d57682572ed572",
+    "wof:geomhash":"c2b6408b0f232eb05a9d804470a1e010",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -424,7 +472,7 @@
         }
     ],
     "wof:id":101913377,
-    "wof:lastmodified":1566599125,
+    "wof:lastmodified":1690851135,
     "wof:name":"Graz",
     "wof:parent_id":1108839153,
     "wof:placetype":"locality",
@@ -436,10 +484,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.41938589792892,
-    47.12872566059337,
-    15.42026157313364,
-    47.12881766447344
+    15.419386,
+    47.128726,
+    15.420262,
+    47.128818
 ],
-  "geometry": {"coordinates":[[[15.42026157313364,47.12877430921577],[15.41938589792892,47.12872566059337],[15.41939544242621,47.12881766447344],[15.42026157313364,47.12877430921577]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[15.420262,47.128774],[15.419386,47.128726],[15.419395,47.128818],[15.420262,47.128774]]],"type":"Polygon"}
 }

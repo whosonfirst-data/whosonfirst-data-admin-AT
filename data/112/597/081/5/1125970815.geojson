@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u062a\u0646\u0634\u062a\u0627\u064a\u0646"
+    ],
     "name:bre_x_preferred":[
         "Gutenstein"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ces_x_preferred":[
         "Gutenstein"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0443\u0442\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
     ],
     "name:dan_x_preferred":[
         "Gutenstein"
@@ -52,6 +58,9 @@
     "name:fra_x_preferred":[
         "Gutenstein"
     ],
+    "name:gle_x_preferred":[
+        "Gutenstein"
+    ],
     "name:hun_x_preferred":[
         "Gutenstein"
     ],
@@ -61,7 +70,16 @@
     "name:kaz_x_preferred":[
         "\u0413\u0443\u0442\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
     ],
+    "name:lld_x_preferred":[
+        "Gutenstein"
+    ],
+    "name:lmo_x_preferred":[
+        "Gutenstein"
+    ],
     "name:nld_x_preferred":[
+        "Gutenstein"
+    ],
+    "name:nob_x_preferred":[
         "Gutenstein"
     ],
     "name:pol_x_preferred":[
@@ -88,10 +106,16 @@
     "name:swe_x_preferred":[
         "Gutenstein"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u0443\u0442\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0442\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
     ],
     "name:uzb_x_preferred":[
+        "Gutenstein"
+    ],
+    "name:vec_x_preferred":[
         "Gutenstein"
     ],
     "name:vie_x_preferred":[
@@ -161,7 +185,7 @@
         }
     ],
     "wof:id":1125970815,
-    "wof:lastmodified":1566599421,
+    "wof:lastmodified":1690851271,
     "wof:name":"Gutenstein",
     "wof:parent_id":1108835375,
     "wof:placetype":"locality",

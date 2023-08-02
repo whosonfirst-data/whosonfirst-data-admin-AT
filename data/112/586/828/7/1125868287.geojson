@@ -20,8 +20,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Niedernsill"
+    ],
     "name:ceb_x_preferred":[
         "Niedernsill"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u043d\u0437\u0438\u043b\u043b\u044c"
     ],
     "name:deu_x_preferred":[
         "Niedernsill"
@@ -30,6 +36,9 @@
         "Niedernsill"
     ],
     "name:epo_x_preferred":[
+        "Niedernsill"
+    ],
+    "name:est_x_preferred":[
         "Niedernsill"
     ],
     "name:fas_x_preferred":[
@@ -47,10 +56,19 @@
     "name:kaz_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043d\u0437\u0438\u043b\u043b\u044c"
     ],
+    "name:lld_x_preferred":[
+        "Niedernsill"
+    ],
     "name:nld_x_preferred":[
         "Niedernsill"
     ],
+    "name:nob_x_preferred":[
+        "Niedernsill"
+    ],
     "name:pol_x_preferred":[
+        "Niedernsill"
+    ],
+    "name:por_x_preferred":[
         "Niedernsill"
     ],
     "name:rus_x_preferred":[
@@ -65,10 +83,16 @@
     "name:swe_x_preferred":[
         "Niedernsill"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u043d\u0437\u0438\u043b\u043b\u044c"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0434\u0435\u0440\u043d\u0437\u0456\u043b\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
+        "Niedernsill"
+    ],
+    "name:vec_x_preferred":[
         "Niedernsill"
     ],
     "name:vol_x_preferred":[
@@ -130,7 +154,7 @@
         }
     ],
     "wof:id":1125868287,
-    "wof:lastmodified":1566599310,
+    "wof:lastmodified":1690851243,
     "wof:name":"Niedernsill",
     "wof:parent_id":1108837205,
     "wof:placetype":"locality",

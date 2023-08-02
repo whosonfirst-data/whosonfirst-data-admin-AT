@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"9.9882675,47.1076665,9.9882675,47.1076665",
+    "geom:bbox":"9.988267,47.107667,9.988267,47.107667",
     "geom:latitude":47.107667,
     "geom:longitude":9.988267,
     "gn:country":null,
@@ -20,13 +20,25 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0644\u0627\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Dalaas"
+    ],
     "name:ceb_x_preferred":[
         "Dalaas"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0430\u043b\u0430\u0441"
     ],
     "name:deu_x_preferred":[
         "Dalaas"
     ],
     "name:eng_x_preferred":[
+        "Dalaas"
+    ],
+    "name:est_x_preferred":[
         "Dalaas"
     ],
     "name:fas_x_preferred":[
@@ -47,6 +59,9 @@
     "name:ita_x_preferred":[
         "Dalaas"
     ],
+    "name:lld_x_preferred":[
+        "Dalaas"
+    ],
     "name:lmo_x_preferred":[
         "Dalaas"
     ],
@@ -56,7 +71,13 @@
     "name:nno_x_preferred":[
         "Dalaas"
     ],
+    "name:nob_x_preferred":[
+        "Dalaas"
+    ],
     "name:pol_x_preferred":[
+        "Dalaas"
+    ],
+    "name:por_x_preferred":[
         "Dalaas"
     ],
     "name:ron_x_preferred":[
@@ -74,10 +95,19 @@
     "name:swe_x_preferred":[
         "Dalaas"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0430\u043b\u0430\u0441"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0430\u043b\u0430\u0441"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043b\u0430\u0441"
     ],
     "name:uzb_x_preferred":[
+        "Dalaas"
+    ],
+    "name:vec_x_preferred":[
         "Dalaas"
     ],
     "name:vol_x_preferred":[
@@ -127,7 +157,7 @@
     },
     "wof:country":"AT",
     "wof:created":1497302788,
-    "wof:geomhash":"fdcb8c6d1e5682cf342bee716d4fdfd6",
+    "wof:geomhash":"287708d2ea697bbc765f1fce5d703bd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +169,7 @@
         }
     ],
     "wof:id":1126051589,
-    "wof:lastmodified":1566599286,
+    "wof:lastmodified":1690851227,
     "wof:name":"Dalaas",
     "wof:parent_id":1108838055,
     "wof:placetype":"locality",
@@ -149,10 +179,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.9882675,
-    47.1076665,
-    9.9882675,
-    47.1076665
+    9.988267,
+    47.107667,
+    9.988267,
+    47.107667
 ],
-  "geometry": {"coordinates":[9.9882675,47.1076665],"type":"Point"}
+  "geometry": {"coordinates":[9.988267,47.107667],"type":"Point"}
 }

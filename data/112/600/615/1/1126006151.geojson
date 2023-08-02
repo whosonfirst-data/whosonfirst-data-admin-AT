@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Rohrberg"
+    ],
     "name:ceb_x_preferred":[
         "Rohrberg"
     ],
     "name:ces_x_preferred":[
         "Rohrberg"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0440\u0431\u0435\u0440\u0433"
     ],
     "name:deu_x_preferred":[
         "Rohrberg"
@@ -52,10 +58,19 @@
     "name:kaz_x_preferred":[
         "\u0420\u043e\u0440\u0431\u0435\u0440\u0433"
     ],
+    "name:lld_x_preferred":[
+        "Rohrberg"
+    ],
     "name:nld_x_preferred":[
         "Rohrberg"
     ],
+    "name:nob_x_preferred":[
+        "Rohrberg"
+    ],
     "name:pol_x_preferred":[
+        "Rohrberg"
+    ],
+    "name:por_x_preferred":[
         "Rohrberg"
     ],
     "name:rus_x_preferred":[
@@ -70,10 +85,16 @@
     "name:swe_x_preferred":[
         "Rohrberg"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u043e\u0440\u0431\u0435\u0440\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0440\u0431\u0435\u0440\u0433"
     ],
     "name:uzb_x_preferred":[
+        "Rohrberg"
+    ],
+    "name:vec_x_preferred":[
         "Rohrberg"
     ],
     "name:vol_x_preferred":[
@@ -139,7 +160,7 @@
         }
     ],
     "wof:id":1126006151,
-    "wof:lastmodified":1566599476,
+    "wof:lastmodified":1690851289,
     "wof:name":"Rohrberg",
     "wof:parent_id":1108837837,
     "wof:placetype":"locality",

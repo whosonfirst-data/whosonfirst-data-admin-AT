@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Berwang"
+    ],
     "name:ceb_x_preferred":[
         "Berwang"
     ],
     "name:ces_x_preferred":[
         "Berwang"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u0432\u0430\u043d\u0433"
     ],
     "name:deu_x_preferred":[
         "Berwang"
@@ -55,13 +61,22 @@
     "name:kaz_x_preferred":[
         "\u0411\u0435\u0440\u0432\u0430\u043d\u0433"
     ],
+    "name:lld_x_preferred":[
+        "Berwang"
+    ],
     "name:lmo_x_preferred":[
         "Berwang"
     ],
     "name:nld_x_preferred":[
         "Berwang"
     ],
+    "name:nob_x_preferred":[
+        "Berwang"
+    ],
     "name:pol_x_preferred":[
+        "Berwang"
+    ],
+    "name:por_x_preferred":[
         "Berwang"
     ],
     "name:ron_x_preferred":[
@@ -79,10 +94,16 @@
     "name:swe_x_preferred":[
         "Berwang"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0440\u0432\u0430\u043d\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0432\u0430\u043d\u0433"
     ],
     "name:uzb_x_preferred":[
+        "Berwang"
+    ],
+    "name:vec_x_preferred":[
         "Berwang"
     ],
     "name:vol_x_preferred":[
@@ -148,7 +169,7 @@
         }
     ],
     "wof:id":1126001729,
-    "wof:lastmodified":1566599475,
+    "wof:lastmodified":1690851288,
     "wof:name":"Berwang",
     "wof:parent_id":1108837803,
     "wof:placetype":"locality",

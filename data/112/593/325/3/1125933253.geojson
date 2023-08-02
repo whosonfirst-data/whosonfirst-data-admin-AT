@@ -22,16 +22,31 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Koppl"
+    ],
     "name:ceb_x_preferred":[
+        "Koppl"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u043f\u043b\u044c"
+    ],
+    "name:dan_x_preferred":[
         "Koppl"
     ],
     "name:deu_x_preferred":[
         "Koppl"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c0\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Koppl"
     ],
     "name:epo_x_preferred":[
+        "Koppl"
+    ],
+    "name:est_x_preferred":[
         "Koppl"
     ],
     "name:fas_x_preferred":[
@@ -46,8 +61,14 @@
     "name:ita_x_preferred":[
         "Koppl"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30d7\u30eb"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043f\u043b\u044c"
+    ],
+    "name:lld_x_preferred":[
+        "Koppl"
     ],
     "name:nld_x_preferred":[
         "Koppl"
@@ -55,7 +76,13 @@
     "name:nno_x_preferred":[
         "Koppl"
     ],
+    "name:nob_x_preferred":[
+        "Koppl"
+    ],
     "name:pol_x_preferred":[
+        "Koppl"
+    ],
+    "name:por_x_preferred":[
         "Koppl"
     ],
     "name:rus_x_preferred":[
@@ -70,10 +97,16 @@
     "name:swe_x_preferred":[
         "Koppl"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043f\u043b\u044c"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u043f\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
+        "Koppl"
+    ],
+    "name:vec_x_preferred":[
         "Koppl"
     ],
     "name:vol_x_preferred":[
@@ -139,7 +172,7 @@
         }
     ],
     "wof:id":1125933253,
-    "wof:lastmodified":1566599242,
+    "wof:lastmodified":1690851215,
     "wof:name":"Koppl",
     "wof:parent_id":1108837113,
     "wof:placetype":"locality",

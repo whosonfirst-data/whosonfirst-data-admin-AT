@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
     "geom:area_square_m":299197.108805,
-    "geom:bbox":"11.1189278286,47.2898372791,11.1295337984,47.2944193845",
+    "geom:bbox":"11.118928,47.289837,11.129534,47.294419",
     "geom:latitude":47.291835,
     "geom:longitude":11.123593,
     "iso:country":"AT",
@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Flaurling"
+    ],
     "name:ceb_x_preferred":[
         "Flaurling"
     ],
     "name:ces_x_preferred":[
         "Flaurling"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u043b\u0430\u0443\u0440\u043b\u0438\u043d\u0433"
     ],
     "name:deu_x_preferred":[
         "Flaurling"
@@ -49,16 +55,25 @@
     "name:kaz_x_preferred":[
         "\u0424\u043b\u0430\u0443\u0440\u043b\u0438\u043d\u0433"
     ],
+    "name:lld_x_preferred":[
+        "Flaurling"
+    ],
     "name:lmo_x_preferred":[
         "Flaurling"
     ],
     "name:nld_x_preferred":[
         "Flaurling"
     ],
+    "name:nob_x_preferred":[
+        "Flaurling"
+    ],
     "name:pnb_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0644\u0646\u06af"
     ],
     "name:pol_x_preferred":[
+        "Flaurling"
+    ],
+    "name:por_x_preferred":[
         "Flaurling"
     ],
     "name:rus_x_preferred":[
@@ -73,10 +88,16 @@
     "name:swe_x_preferred":[
         "Flaurling"
     ],
+    "name:tat_x_preferred":[
+        "\u0424\u043b\u0430\u0443\u0440\u043b\u0438\u043d\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u043b\u0430\u0443\u0440\u043b\u0456\u043d\u0433"
     ],
     "name:uzb_x_preferred":[
+        "Flaurling"
+    ],
+    "name:vec_x_preferred":[
         "Flaurling"
     ],
     "name:vol_x_preferred":[
@@ -129,7 +150,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6dadd875e3c9e0806d19f52e397c8ec5",
+    "wof:geomhash":"5ba5fc11b3d775a9bc3de5a49e82c7d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,7 +165,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1582381863,
+    "wof:lastmodified":1690851201,
     "wof:name":"Flaurling",
     "wof:parent_id":1108837583,
     "wof:placetype":"locality",
@@ -154,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    11.11892782862458,
-    47.28983727914169,
-    11.12953379839348,
-    47.29441938445444
+    11.118928,
+    47.289837,
+    11.129534,
+    47.294419
 ],
-  "geometry": {"coordinates":[[[11.12562939032392,47.29436481175662],[11.12559050252412,47.29256475193773],[11.1282323744224,47.2925373703975],[11.12821288619892,47.29163734040122],[11.12953379839348,47.29162362583463],[11.12951428822652,47.29072359568966],[11.12819339883896,47.29073730998266],[11.12817391234154,47.28983727914169],[11.11892782862458,47.28993282799854],[11.11898581176092,47.29263292497228],[11.12030675116978,47.29261932245868],[11.12034545649391,47.29441938445444],[11.12562939032392,47.29436481175662]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[11.125629,47.294365],[11.125591,47.292565],[11.128232,47.292537],[11.128213,47.291637],[11.129534,47.291624],[11.129514,47.290724],[11.128193,47.290737],[11.128174,47.289837],[11.118928,47.289933],[11.118986,47.292633],[11.120307,47.292619],[11.120345,47.294419],[11.125629,47.294365]]],"type":"Polygon"}
 }

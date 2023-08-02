@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
     "geom:area_square_m":388903.352524,
-    "geom:bbox":"13.2977537447,47.7932029643,13.3096927767,47.8005145659",
+    "geom:bbox":"13.297754,47.793203,13.309693,47.800515",
     "geom:latitude":47.796868,
     "geom:longitude":13.302731,
     "iso:country":"AT",
@@ -19,7 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Fuschl am See"
+    ],
     "name:ceb_x_preferred":[
+        "Fuschl am See"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0443\u0448\u043b\u044c-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:dan_x_preferred":[
         "Fuschl am See"
     ],
     "name:deu_x_preferred":[
@@ -32,6 +41,9 @@
         "Fuschl am See"
     ],
     "name:epo_x_preferred":[
+        "Fuschl am See"
+    ],
+    "name:est_x_preferred":[
         "Fuschl am See"
     ],
     "name:fas_x_preferred":[
@@ -52,13 +64,25 @@
     "name:ita_x_preferred":[
         "Fuschl am See"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30b7\u30e5\u30eb\u30fb\u30a2\u30e0\u30fb\u30bc\u30fc"
+    ],
     "name:kaz_x_preferred":[
         "\u0424\u0443\u0448\u043b\u044c-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:lld_x_preferred":[
+        "Fuschl am See"
     ],
     "name:nld_x_preferred":[
         "Fuschl am See"
     ],
+    "name:nob_x_preferred":[
+        "Fuschl am See"
+    ],
     "name:pol_x_preferred":[
+        "Fuschl am See"
+    ],
+    "name:por_x_preferred":[
         "Fuschl am See"
     ],
     "name:ron_x_preferred":[
@@ -79,13 +103,22 @@
     "name:swe_x_preferred":[
         "Fuschl am See"
     ],
+    "name:tat_x_preferred":[
+        "\u0424\u0443\u0448\u043b\u044c-\u0430\u043c-\u0417\u0435"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0448\u043b\u044c-\u0430\u043c-\u0417\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0424\u0443\u0448\u043b\u044c-\u0430\u043c-\u0417\u0435\u0435"
     ],
     "name:und_x_variant":[
         "Fuschl"
     ],
     "name:uzb_x_preferred":[
+        "Fuschl am See"
+    ],
+    "name:vec_x_preferred":[
         "Fuschl am See"
     ],
     "name:vol_x_preferred":[
@@ -130,7 +163,7 @@
         "wk:page":"Fuschl am See"
     },
     "wof:country":"AT",
-    "wof:geomhash":"a0dbc7d4a89b417541e8b21193df7c44",
+    "wof:geomhash":"0864df3a02e40808083f0bd2a9aa6954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +175,7 @@
         }
     ],
     "wof:id":101844569,
-    "wof:lastmodified":1566599032,
+    "wof:lastmodified":1690851001,
     "wof:name":"Fuschl am See",
     "wof:parent_id":1108837135,
     "wof:placetype":"locality",
@@ -152,10 +185,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.29775374472894,
-    47.79320296429472,
-    13.30969277665469,
-    47.8005145659302
+    13.297754,
+    47.793203,
+    13.309693,
+    47.800515
 ],
-  "geometry": {"coordinates":[[[13.30969277665469,47.79835506381562],[13.309634739839,47.79745617261221],[13.30830178611063,47.79749642621067],[13.30818576685027,47.79569864088779],[13.30551994685334,47.79577909621958],[13.30546198769679,47.79488020128707],[13.30412909813629,47.79492040383536],[13.30407116486174,47.79402150766066],[13.30140542661968,47.79410186252369],[13.30134754251452,47.79320296429472],[13.29868184325392,47.793283252724],[13.29908676025678,47.79957554267884],[13.29775374472894,47.79961566826967],[13.29781157706645,47.8005145659302],[13.3004776528179,47.8004342969204],[13.30041977388618,47.79953540088354],[13.30441880337509,47.79941487827011],[13.3043608571445,47.79851598424142],[13.30969277665469,47.79835506381562]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[13.309693,47.798355],[13.309635,47.797456],[13.308302,47.797496],[13.308186,47.795699],[13.30552,47.795779],[13.305462,47.79488],[13.304129,47.79492],[13.304071,47.794022],[13.301405,47.794102],[13.301348,47.793203],[13.298682,47.793283],[13.299087,47.799576],[13.297754,47.799616],[13.297812,47.800515],[13.300478,47.800434],[13.30042,47.799535],[13.304419,47.799415],[13.304361,47.798516],[13.309693,47.798355]]],"type":"Polygon"}
 }

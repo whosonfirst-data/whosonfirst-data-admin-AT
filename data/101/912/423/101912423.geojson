@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
     "geom:area_square_m":638133.933951,
-    "geom:bbox":"13.760148836,47.6371003119,13.7725327254,47.6458278622",
+    "geom:bbox":"13.760149,47.6371,13.772533,47.645828",
     "geom:latitude":47.641369,
     "geom:longitude":13.766118,
     "iso:country":"AT",
@@ -34,6 +34,9 @@
     "name:ces_x_preferred":[
         "Altaussee"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0430\u0443\u0441\u0437\u0435"
+    ],
     "name:cym_x_preferred":[
         "Altaussee"
     ],
@@ -43,10 +46,16 @@
     "name:deu_x_preferred":[
         "Altaussee"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03c4\u03ac\u03bf\u03c5\u03c3\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Altaussee"
     ],
     "name:epo_x_preferred":[
+        "Altaussee"
+    ],
+    "name:est_x_preferred":[
         "Altaussee"
     ],
     "name:fas_x_preferred":[
@@ -64,6 +73,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d8\u05d0\u05d0\u05d5\u05d6\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05dc\u05d8\u05d0\u05d5\u05e1\u05d6\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Altaussee"
     ],
@@ -76,11 +88,20 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30c8\u30cf\u30a6\u30b9\u30bc\u30fc"
     ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30eb\u30c8\u30a2\u30a6\u30b9\u30bc\u30fc"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10e2\u10d0\u10e3\u10e1\u10d6\u10d4\u10d4"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u043b\u044c\u0442\u0430\u0443\u0441\u0437\u0435\u0435"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\ud0c0\uc6b0\uc138"
+    ],
+    "name:lld_x_preferred":[
+        "Altaussee"
     ],
     "name:nld_x_preferred":[
         "Altaussee"
@@ -89,6 +110,9 @@
         "Altaussee"
     ],
     "name:pol_x_preferred":[
+        "Altaussee"
+    ],
+    "name:por_x_preferred":[
         "Altaussee"
     ],
     "name:rus_x_preferred":[
@@ -106,10 +130,16 @@
     "name:swe_x_preferred":[
         "Altaussee"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0430\u0443\u0441\u0437\u0435"
+    ],
     "name:tur_x_preferred":[
         "Altaussee"
     ],
     "name:uzb_x_preferred":[
+        "Altaussee"
+    ],
+    "name:vec_x_preferred":[
         "Altaussee"
     ],
     "name:war_x_preferred":[
@@ -157,7 +187,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96d74c495a01daf8d67d38b5e5d0b6f2",
+    "wof:geomhash":"7431528e28c9306f0b82c151ca1e39fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +199,7 @@
         }
     ],
     "wof:id":101912423,
-    "wof:lastmodified":1582381850,
+    "wof:lastmodified":1690851065,
     "wof:name":"Altaussee",
     "wof:parent_id":1108838971,
     "wof:placetype":"locality",
@@ -179,10 +209,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.76014883596127,
-    47.63710031194347,
-    13.77253272544266,
-    47.64582786223906
+    13.760149,
+    47.6371,
+    13.772533,
+    47.645828
 ],
-  "geometry": {"coordinates":[[[13.76938150111124,47.63710031194347],[13.76014883596127,47.63833610889196],[13.76044342256301,47.64237047485165],[13.76177205611583,47.64232474502785],[13.76196902373584,47.64502072018826],[13.76462642292296,47.64492920659688],[13.7646921308243,47.64582786223906],[13.76867828276545,47.64569046803553],[13.76854673136631,47.64389316183082],[13.77253272544266,47.64375562790116],[13.77233521256795,47.64105967351134],[13.77100661927852,47.6411055315254],[13.77080920204912,47.63840957030033],[13.76948067585357,47.63845540940827],[13.76938150111124,47.63710031194347]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[13.769382,47.6371],[13.760149,47.638336],[13.760443,47.64237],[13.761772,47.642325],[13.761969,47.645021],[13.764626,47.644929],[13.764692,47.645828],[13.768678,47.64569],[13.768547,47.643893],[13.772533,47.643756],[13.772335,47.64106],[13.771007,47.641106],[13.770809,47.63841],[13.769481,47.638455],[13.769382,47.6371]]],"type":"Polygon"}
 }

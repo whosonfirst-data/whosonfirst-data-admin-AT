@@ -22,17 +22,26 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0632\u0648\u064a\u062a\u0644"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0633\u0648\u062a\u0644"
     ],
     "name:bar_x_preferred":[
         "Zwettl"
     ],
+    "name:cat_x_preferred":[
+        "Zwettl-Nieder\u00f6sterreich"
+    ],
     "name:ceb_x_preferred":[
         "Zwettl-Nieder\u00f6sterreich"
     ],
     "name:ces_x_preferred":[
         "Zwettl"
+    ],
+    "name:che_x_preferred":[
+        "\u0426\u0432\u0435\u0442\u043b\u044c-\u041d\u0438\u0434\u0435\u0440\u044d\u0441\u0442\u0435\u0440\u0440\u0430\u0439\u0445"
     ],
     "name:deu_x_preferred":[
         "Zwettl-Nieder\u00f6sterreich"
@@ -58,6 +67,12 @@
     "name:ita_x_preferred":[
         "Zwettl-Nieder\u00f6sterreich"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30f4\u30a7\u30c3\u30c8\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d5\u10d4\u10e2\u10da\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u043b\u0430\u0439\u043d\u0448\u0451\u043d\u0430\u0443"
     ],
@@ -67,14 +82,23 @@
     "name:lit_x_preferred":[
         "Cvetlis"
     ],
+    "name:lld_x_preferred":[
+        "Zwettl-Nieder\u00f6sterreich"
+    ],
     "name:nan_x_preferred":[
         "Zwettl"
     ],
     "name:nld_x_preferred":[
         "Zwettl"
     ],
+    "name:nob_x_preferred":[
+        "Zwettl-Nieder\u00f6sterreich"
+    ],
     "name:pol_x_preferred":[
         "Zwettl"
+    ],
+    "name:pol_x_variant":[
+        "Zwettl-Nieder\u00f6sterreich"
     ],
     "name:por_x_preferred":[
         "Zwettl"
@@ -84,6 +108,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0426\u0432\u0435\u0442\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0426\u0432\u0435\u0442\u043b\u044c-\u041d\u0438\u0434\u0435\u0440\u044d\u0441\u0442\u0435\u0440\u0440\u0430\u0439\u0445"
     ],
     "name:slk_x_preferred":[
         "Zwettl-Nieder\u00f6sterreich"
@@ -97,6 +124,9 @@
     "name:swe_x_preferred":[
         "Zwettl"
     ],
+    "name:tat_x_preferred":[
+        "\u0426\u0432\u0435\u0442\u043b\u044c-\u041d\u0438\u0434\u0435\u0440\u044d\u0441\u0442\u0435\u0440\u0440\u0430\u0439\u0445"
+    ],
     "name:tur_x_preferred":[
         "Zwettl"
     ],
@@ -105,6 +135,9 @@
     ],
     "name:uzb_x_preferred":[
         "Zwettl"
+    ],
+    "name:vec_x_preferred":[
+        "Zwettl-Nieder\u00f6sterreich"
     ],
     "name:vol_x_preferred":[
         "Zwettl"
@@ -169,7 +202,7 @@
         }
     ],
     "wof:id":1126018661,
-    "wof:lastmodified":1566599468,
+    "wof:lastmodified":1690851283,
     "wof:name":"Zwettl Stadt",
     "wof:parent_id":1108836883,
     "wof:placetype":"locality",

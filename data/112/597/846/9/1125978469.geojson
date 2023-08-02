@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Fiss"
+    ],
     "name:ceb_x_preferred":[
         "Fiss"
     ],
     "name:ces_x_preferred":[
         "Fiss"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0438\u0441"
     ],
     "name:deu_x_preferred":[
         "Fiss"
@@ -52,6 +58,9 @@
     "name:kaz_x_preferred":[
         "\u0424\u0438\u0441"
     ],
+    "name:lld_x_preferred":[
+        "Fiss"
+    ],
     "name:lmo_x_preferred":[
         "Fiss"
     ],
@@ -65,6 +74,9 @@
         "Fiss"
     ],
     "name:pol_x_preferred":[
+        "Fiss"
+    ],
+    "name:por_x_preferred":[
         "Fiss"
     ],
     "name:ron_x_preferred":[
@@ -82,10 +94,16 @@
     "name:swe_x_preferred":[
         "Fiss"
     ],
+    "name:tat_x_preferred":[
+        "\u0424\u0438\u0441"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0441\u0441"
     ],
     "name:uzb_x_preferred":[
+        "Fiss"
+    ],
+    "name:vec_x_preferred":[
         "Fiss"
     ],
     "name:vol_x_preferred":[
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":1125978469,
-    "wof:lastmodified":1566599421,
+    "wof:lastmodified":1690851270,
     "wof:name":"Fiss",
     "wof:parent_id":1108837331,
     "wof:placetype":"locality",

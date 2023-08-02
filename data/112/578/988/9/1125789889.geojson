@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0634\u0648\u0641\u0633\u0647\u0648\u0641\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0634\u0648\u0641\u0633\u200c\u0647\u0648\u0641\u0646"
     ],
@@ -32,11 +35,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0448\u043e\u0444\u0441\u0445\u043e\u0444\u0435\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Bischofshofen"
+    ],
     "name:ceb_x_preferred":[
         "Bischofshofen"
     ],
     "name:ces_x_preferred":[
         "Bischofshofen"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0438\u0448\u043e\u0444\u0441\u0445\u043e\u0444\u0435\u043d"
     ],
     "name:cym_x_preferred":[
         "Bischofshofen"
@@ -86,8 +95,17 @@
     "name:kor_x_preferred":[
         "\ube44\uc1fc\ud504\uc2a4\ud638\ud39c"
     ],
+    "name:lav_x_preferred":[
+        "Bi\u0161ofshofene"
+    ],
     "name:lit_x_preferred":[
         "Bi\u0161ofshofenas"
+    ],
+    "name:lld_x_preferred":[
+        "Bischofshofen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u0448\u043e\u0444\u0441\u0445\u043e\u0444\u0435\u043d"
     ],
     "name:nan_x_preferred":[
         "Bischofshofen"
@@ -128,6 +146,9 @@
     "name:swe_x_preferred":[
         "Bischofshofen"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u0448\u043e\u0444\u0441\u0445\u043e\u0444\u0435\u043d"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e34\u0e0a\u0e0a\u0e47\u0e2d\u0e1f\u0e2a\u0e4c\u0e42\u0e2e\u0e40\u0e1f\u0e34\u0e19"
     ],
@@ -138,6 +159,9 @@
         "\u0411\u0456\u0448\u043e\u0444\u0441\u0433\u043e\u0444\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
+        "Bischofshofen"
+    ],
+    "name:vec_x_preferred":[
         "Bischofshofen"
     ],
     "name:vol_x_preferred":[
@@ -199,7 +223,7 @@
         }
     ],
     "wof:id":1125789889,
-    "wof:lastmodified":1566599487,
+    "wof:lastmodified":1690851298,
     "wof:name":"Bischofshofen",
     "wof:parent_id":1108836995,
     "wof:placetype":"locality",

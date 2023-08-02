@@ -19,11 +19,15 @@
     "name:deu_x_preferred":[
         "Weiz-Unterfladnitz Airport"
     ],
+    "name:deu_x_variant":[
+        "Flugplatz Weiz/Unterfladnitz"
+    ],
     "name:eng_x_preferred":[
         "Weiz-Unterfladnitz Airport"
     ],
     "name:eng_x_variant":[
-        "LOGW"
+        "LOGW",
+        "Weiz/Unterfladnitz airfield"
     ],
     "name:hun_x_preferred":[
         "Weiz-Unterfladnitz rep\u00fcl\u0151t\u00e9r"
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":102556355,
-    "wof:lastmodified":1631755601,
+    "wof:lastmodified":1690850854,
     "wof:name":"Flugplatz Weiz-unterfladnitz",
     "wof:parent_id":85681687,
     "wof:placetype":"campus",

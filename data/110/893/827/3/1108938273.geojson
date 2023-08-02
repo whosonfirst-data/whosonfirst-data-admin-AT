@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.320744136,48.2518933619,16.320744136,48.2518933619",
+    "geom:bbox":"16.320744,48.251893,16.320744,48.251893",
     "geom:latitude":48.251893,
     "geom:longitude":16.320744,
     "iso:country":"AT",
@@ -29,7 +29,13 @@
     "name:deu_x_preferred":[
         "Sievering"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03b2\u03b5\u03c1\u03b9\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
+        "Sievering"
+    ],
+    "name:fra_x_preferred":[
         "Sievering"
     ],
     "name:jpn_x_preferred":[
@@ -54,7 +60,7 @@
     },
     "wof:country":"AT",
     "wof:created":1491360261,
-    "wof:geomhash":"13ee508fa92e407138f9615122aec88f",
+    "wof:geomhash":"9b2eace7a4d9a28e81b5262dcad84835",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108938273,
-    "wof:lastmodified":1566598124,
+    "wof:lastmodified":1690850942,
     "wof:name":"Sievering",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",
@@ -77,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.32074413603157,
-    48.25189336187294,
-    16.32074413603157,
-    48.25189336187294
+    16.320744,
+    48.251893,
+    16.320744,
+    48.251893
 ],
-  "geometry": {"coordinates":[16.32074413603157,48.25189336187294],"type":"Point"}
+  "geometry": {"coordinates":[16.320744,48.251893],"type":"Point"}
 }

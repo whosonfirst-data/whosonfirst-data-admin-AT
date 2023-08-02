@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000044,
     "geom:area_square_m":369003.217175,
-    "geom:bbox":"15.5736131997,47.2975553892,15.5897215163,47.3058335748",
+    "geom:bbox":"15.573613,47.297555,15.589722,47.305834",
     "geom:latitude":47.30147,
     "geom:longitude":15.578762,
     "iso:country":"AT",
@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bos_x_preferred":[
+        "Sankt Kathrein am Offenegg"
+    ],
     "name:cat_x_preferred":[
         "Sankt Kathrein am Offenegg"
     ],
@@ -35,6 +38,9 @@
         "Sankt Kathrein am Offenegg"
     ],
     "name:epo_x_preferred":[
+        "Sankt Kathrein am Offenegg"
+    ],
+    "name:est_x_preferred":[
         "Sankt Kathrein am Offenegg"
     ],
     "name:fas_x_preferred":[
@@ -55,10 +61,19 @@
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u041a\u0430\u0442\u0440\u0430\u0439\u043d-\u0430\u043c-\u041e\u0444\u0444\u0435\u043d\u0435\u0433"
     ],
+    "name:lld_x_preferred":[
+        "Sankt Kathrein am Offenegg"
+    ],
     "name:nld_x_preferred":[
         "Sankt Kathrein am Offenegg"
     ],
+    "name:nob_x_preferred":[
+        "Sankt Kathrein am Offenegg"
+    ],
     "name:pol_x_preferred":[
+        "Sankt Kathrein am Offenegg"
+    ],
+    "name:por_x_preferred":[
         "Sankt Kathrein am Offenegg"
     ],
     "name:rus_x_preferred":[
@@ -80,6 +95,9 @@
         "Sankt Kathrein"
     ],
     "name:uzb_x_preferred":[
+        "Sankt Kathrein am Offenegg"
+    ],
+    "name:vec_x_preferred":[
         "Sankt Kathrein am Offenegg"
     ],
     "name:vie_x_preferred":[
@@ -132,7 +150,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c0941384e848e48440bdfea75c2e600f",
+    "wof:geomhash":"08b7f9ec25a9fb9f90835668b946fca8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":101912417,
-    "wof:lastmodified":1582381851,
+    "wof:lastmodified":1690851070,
     "wof:name":"St. Kathrein am Offenegg",
     "wof:parent_id":1108838905,
     "wof:placetype":"locality",
@@ -154,10 +172,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.57361319970727,
-    47.29755538923655,
-    15.58972151626415,
-    47.30583357476456
+    15.573613,
+    47.297555,
+    15.589722,
+    47.305834
 ],
-  "geometry": {"coordinates":[[[15.58087898770538,47.30466541557013],[15.58078260597506,47.30376819581062],[15.57946423588533,47.30383595207115],[15.57917518387279,47.3011442855161],[15.58972151626415,47.30060182050306],[15.58962499377088,47.29970460803577],[15.57907884171397,47.30024706225402],[15.5787898407699,47.29755538923655],[15.57615340684629,47.29769083496245],[15.5762496911596,47.29858806253526],[15.57361319970727,47.29872344706052],[15.57380569092612,47.30051790597906],[15.57512398329135,47.30045021900975],[15.57570169426947,47.30583357476456],[15.57965695850964,47.30563039374942],[15.57956059506904,47.30473317317939],[15.58087898770538,47.30466541557013]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[15.580879,47.304665],[15.580783,47.303768],[15.579464,47.303836],[15.579175,47.301144],[15.589722,47.300602],[15.589625,47.299705],[15.579079,47.300247],[15.57879,47.297555],[15.576153,47.297691],[15.57625,47.298588],[15.573613,47.298723],[15.573806,47.300518],[15.575124,47.30045],[15.575702,47.305834],[15.579657,47.30563],[15.579561,47.304733],[15.580879,47.304665]]],"type":"Polygon"}
 }

@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Gries im Sellrain"
+    ],
     "name:ceb_x_preferred":[
         "Gries im Sellrain"
     ],
     "name:ces_x_preferred":[
         "Gries im Sellrain"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u0438\u0441-\u0438\u043c-\u0417\u0435\u043b\u044c\u0440\u0430\u0439\u043d"
     ],
     "name:deu_x_preferred":[
         "Gries im Sellrain"
@@ -52,16 +58,25 @@
     "name:kaz_x_preferred":[
         "\u0413\u0440\u0438\u0441-\u0438\u043c-\u0417\u0435\u043b\u044c\u0440\u0430\u0439\u043d"
     ],
+    "name:lld_x_preferred":[
+        "Gries im Sellrain"
+    ],
     "name:lmo_x_preferred":[
         "Gries im Sellrain"
     ],
     "name:nld_x_preferred":[
         "Gries im Sellrain"
     ],
+    "name:nob_x_preferred":[
+        "Gries im Sellrain"
+    ],
     "name:pnb_x_preferred":[
         "\u06af\u0631\u0627\u0626\u0632 \u0627\u0645 \u0633\u0644\u0631\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
+        "Gries im Sellrain"
+    ],
+    "name:por_x_preferred":[
         "Gries im Sellrain"
     ],
     "name:rus_x_preferred":[
@@ -76,6 +91,9 @@
     "name:swe_x_preferred":[
         "Gries im Sellrain"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u0438\u0441-\u0438\u043c-\u0417\u0435\u043b\u044c\u0440\u0430\u0439\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0456\u0441-\u0456\u043c-\u0417\u0435\u043b\u043b\u044c\u0440\u0430\u0439\u043d"
     ],
@@ -83,6 +101,9 @@
         "Gries"
     ],
     "name:uzb_x_preferred":[
+        "Gries im Sellrain"
+    ],
+    "name:vec_x_preferred":[
         "Gries im Sellrain"
     ],
     "name:vol_x_preferred":[
@@ -148,7 +169,7 @@
         }
     ],
     "wof:id":1125923297,
-    "wof:lastmodified":1566599257,
+    "wof:lastmodified":1690851219,
     "wof:name":"Gries in Sellrain",
     "wof:parent_id":1108837597,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
     "geom:area_square_m":378918.390712,
-    "geom:bbox":"14.627023971,47.972955568,14.6378794489,47.9794657664",
+    "geom:bbox":"14.627024,47.972956,14.637879,47.979466",
     "geom:latitude":47.975898,
     "geom:longitude":14.631432,
     "iso:country":"AT",
@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Ertl"
+    ],
     "name:ceb_x_preferred":[
         "Ertl"
     ],
     "name:ces_x_preferred":[
         "Ertl"
+    ],
+    "name:che_x_preferred":[
+        "\u042d\u0440\u0442\u043b\u044c"
     ],
     "name:deu_x_preferred":[
         "Ertl"
@@ -37,10 +43,16 @@
     "name:epo_x_preferred":[
         "Ertl"
     ],
+    "name:est_x_preferred":[
+        "Ertl"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u062a"
     ],
     "name:fra_x_preferred":[
+        "Ertl"
+    ],
+    "name:gle_x_preferred":[
         "Ertl"
     ],
     "name:hun_x_preferred":[
@@ -52,10 +64,22 @@
     "name:ita_x_preferred":[
         "Ertl"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30fc\u30c6\u30eb"
+    ],
     "name:kaz_x_preferred":[
         "\u042d\u0440\u0442\u043b\u044c"
     ],
+    "name:lld_x_preferred":[
+        "Ertl"
+    ],
+    "name:lmo_x_preferred":[
+        "Ertl"
+    ],
     "name:nld_x_preferred":[
+        "Ertl"
+    ],
+    "name:nob_x_preferred":[
         "Ertl"
     ],
     "name:pol_x_preferred":[
@@ -79,7 +103,13 @@
     "name:swe_x_preferred":[
         "Ertl"
     ],
+    "name:tat_x_preferred":[
+        "\u042d\u0440\u0442\u043b\u044c"
+    ],
     "name:uzb_x_preferred":[
+        "Ertl"
+    ],
+    "name:vec_x_preferred":[
         "Ertl"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +155,7 @@
         "wd:id":"Q697001"
     },
     "wof:country":"AT",
-    "wof:geomhash":"e6fbe64802a8a860d93caaff4cc1ff71",
+    "wof:geomhash":"276b94c07c4a96b426744204016ec470",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,7 +167,7 @@
         }
     ],
     "wof:id":101785737,
-    "wof:lastmodified":1566599086,
+    "wof:lastmodified":1690851073,
     "wof:name":"Ertl",
     "wof:parent_id":1108836943,
     "wof:placetype":"locality",
@@ -147,10 +177,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.62702397100384,
-    47.97295556795359,
-    14.63787944888736,
-    47.97946576639896
+    14.627024,
+    47.972956,
+    14.637879,
+    47.979466
 ],
-  "geometry": {"coordinates":[[[14.63427826709335,47.97924031533989],[14.63395151221829,47.9756490338828],[14.63662463919587,47.97553622006069],[14.63654291283541,47.97463840083606],[14.63787944888736,47.97458197070864],[14.63779770279342,47.97368415216914],[14.63378815675901,47.97385339039062],[14.63370648452275,47.97295556795359],[14.62702397100384,47.97323730111555],[14.62743178380231,47.97772643730349],[14.62876840888424,47.977670117434],[14.62893160641721,47.97946576639896],[14.63427826709335,47.97924031533989]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[14.634278,47.97924],[14.633952,47.975649],[14.636625,47.975536],[14.636543,47.974638],[14.637879,47.974582],[14.637798,47.973684],[14.633788,47.973853],[14.633706,47.972956],[14.627024,47.973237],[14.627432,47.977726],[14.628768,47.97767],[14.628932,47.979466],[14.634278,47.97924]]],"type":"Polygon"}
 }

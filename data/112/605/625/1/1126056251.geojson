@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Klein-Neusiedl"
+    ],
     "name:ceb_x_preferred":[
         "Klein-Neusiedl"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u041d\u043e\u0439\u0437\u0438\u0434\u043b\u044c"
     ],
     "name:deu_x_preferred":[
         "Klein-Neusiedl"
@@ -40,6 +46,9 @@
     "name:fra_x_preferred":[
         "Klein-Neusiedl"
     ],
+    "name:gle_x_preferred":[
+        "Klein-Neusiedl"
+    ],
     "name:hun_x_preferred":[
         "Klein-Neusiedl"
     ],
@@ -49,7 +58,13 @@
     "name:kaz_x_preferred":[
         "\u041a\u043b\u0430\u0439\u043d-\u041d\u043e\u0439\u0437\u0438\u0434\u043b\u044c"
     ],
+    "name:lld_x_preferred":[
+        "Klein-Neusiedl"
+    ],
     "name:nld_x_preferred":[
+        "Klein-Neusiedl"
+    ],
+    "name:nob_x_preferred":[
         "Klein-Neusiedl"
     ],
     "name:pol_x_preferred":[
@@ -70,7 +85,13 @@
     "name:swe_x_preferred":[
         "Klein-Neusiedl"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043d-\u041d\u043e\u0439\u0437\u0438\u0434\u043b\u044c"
+    ],
     "name:uzb_x_preferred":[
+        "Klein-Neusiedl"
+    ],
+    "name:vec_x_preferred":[
         "Klein-Neusiedl"
     ],
     "name:vie_x_preferred":[
@@ -139,7 +160,7 @@
         }
     ],
     "wof:id":1126056251,
-    "wof:lastmodified":1566599292,
+    "wof:lastmodified":1690851231,
     "wof:name":"Klein-Neusiedl",
     "wof:parent_id":1108835731,
     "wof:placetype":"locality",

@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
     "geom:area_square_m":702004.257783,
-    "geom:bbox":"13.1472115124,47.325865676,13.1634954704,47.3347001756",
+    "geom:bbox":"13.147212,47.325866,13.163495,47.3347",
     "geom:latitude":47.330395,
-    "geom:longitude":13.155347,
+    "geom:longitude":13.155346,
     "iso:country":"AT",
     "lbl:latitude":47.330522,
     "lbl:longitude":13.155223,
@@ -21,6 +21,9 @@
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Seiger Veit an Pongau"
+    ],
+    "name:cat_x_preferred":[
+        "Sankt Veit im Pongau"
     ],
     "name:ceb_x_preferred":[
         "Sankt Veit im Pongau"
@@ -53,6 +56,9 @@
     "name:epo_x_preferred":[
         "Sankt Veit im Pongau"
     ],
+    "name:est_x_preferred":[
+        "Sankt Veit im Pongau"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0627\u0646\u06a9\u062a \u0641\u0627\u06cc\u062a \u0627\u06cc\u0645 \u067e\u0648\u0646\u06af\u0648"
     ],
@@ -74,13 +80,22 @@
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0424\u0430\u0439\u0442"
     ],
+    "name:lld_x_preferred":[
+        "Sankt Veit im Pongau"
+    ],
     "name:nld_x_preferred":[
         "Sankt Veit im Pongau"
     ],
     "name:nno_x_preferred":[
         "Sankt Veit im Pongau"
     ],
+    "name:nob_x_preferred":[
+        "Sankt Veit im Pongau"
+    ],
     "name:pol_x_preferred":[
+        "Sankt Veit im Pongau"
+    ],
+    "name:por_x_preferred":[
         "Sankt Veit im Pongau"
     ],
     "name:rus_x_preferred":[
@@ -104,6 +119,9 @@
     ],
     "name:uzb_x_preferred":[
         "St. Veit im Pongau"
+    ],
+    "name:vec_x_preferred":[
+        "Sankt Veit im Pongau"
     ],
     "name:vol_x_preferred":[
         "Sankt Veit im Pongau"
@@ -149,7 +167,7 @@
         "wk:page":"Sankt Veit im Pongau"
     },
     "wof:country":"AT",
-    "wof:geomhash":"858e54437829ad22a639c7d6c941f783",
+    "wof:geomhash":"d1fa946939559b78281b5c9ac1d51b52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +182,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566599067,
+    "wof:lastmodified":1690851048,
     "wof:name":"Sankt Veit im Pongau",
     "wof:parent_id":1108837031,
     "wof:placetype":"locality",
@@ -174,10 +192,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.1472115124393,
-    47.32586567604045,
-    13.16349547039306,
-    47.33470017563968
+    13.147212,
+    47.325866,
+    13.163495,
+    47.3347
 ],
-  "geometry": {"coordinates":[[[13.1632762063403,47.32891359320428],[13.15507768394565,47.32735810654015],[13.15392041052968,47.32739170767144],[13.15390487995182,47.32713559315505],[13.1472115124393,47.32586567604045],[13.14726102141805,47.32668387603303],[13.14858199742611,47.32664563456149],[13.14879975452027,47.33024244152455],[13.15012081983889,47.33020418096237],[13.15039318433304,47.33470017563968],[13.15303553740347,47.33462359876046],[13.1529810141285,47.33372440226043],[13.15958675198084,47.33353268319297],[13.15953211725213,47.33263349006501],[13.16349547039306,47.33251826845213],[13.1632762063403,47.32891359320428]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[13.163276,47.328914],[13.155078,47.327358],[13.15392,47.327392],[13.153905,47.327136],[13.147212,47.325866],[13.147261,47.326684],[13.148582,47.326646],[13.1488,47.330242],[13.150121,47.330204],[13.150393,47.3347],[13.153036,47.334624],[13.152981,47.333724],[13.159587,47.333533],[13.159532,47.332633],[13.163495,47.332518],[13.163276,47.328914]]],"type":"Polygon"}
 }
