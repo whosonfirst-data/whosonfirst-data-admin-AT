@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Fritzens"
+    ],
     "name:ceb_x_preferred":[
         "Fritzens"
     ],
     "name:ces_x_preferred":[
         "Fritzens"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0440\u0438\u0442\u0446\u0435\u043d\u0441"
     ],
     "name:deu_x_preferred":[
         "Fritzens"
@@ -52,13 +58,22 @@
     "name:kaz_x_preferred":[
         "\u0424\u0440\u0438\u0442\u0446\u0435\u043d\u0441"
     ],
+    "name:lld_x_preferred":[
+        "Fritzens"
+    ],
     "name:lmo_x_preferred":[
         "Fritzens"
     ],
     "name:nld_x_preferred":[
         "Fritzens"
     ],
+    "name:nob_x_preferred":[
+        "Fritzens"
+    ],
     "name:pol_x_preferred":[
+        "Fritzens"
+    ],
+    "name:por_x_preferred":[
         "Fritzens"
     ],
     "name:rus_x_preferred":[
@@ -73,10 +88,16 @@
     "name:swe_x_preferred":[
         "Fritzens"
     ],
+    "name:tat_x_preferred":[
+        "\u0424\u0440\u0438\u0442\u0446\u0435\u043d\u0441"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0438\u0442\u0446\u0435\u043d\u0441"
     ],
     "name:uzb_x_preferred":[
+        "Fritzens"
+    ],
+    "name:vec_x_preferred":[
         "Fritzens"
     ],
     "name:vol_x_preferred":[
@@ -142,7 +163,7 @@
         }
     ],
     "wof:id":1125915925,
-    "wof:lastmodified":1566599449,
+    "wof:lastmodified":1690851274,
     "wof:name":"Fritzens",
     "wof:parent_id":1108837645,
     "wof:placetype":"locality",

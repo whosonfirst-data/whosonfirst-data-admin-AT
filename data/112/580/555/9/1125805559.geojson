@@ -25,14 +25,26 @@
     "name:bar_x_preferred":[
         "D\u00fcrnbeag"
     ],
+    "name:bar_x_variant":[
+        "Bod D\u00fcrnbeag"
+    ],
     "name:ceb_x_preferred":[
         "D\u00fcrrnberg"
+    ],
+    "name:ceb_x_variant":[
+        "Bad D\u00fcrrnberg"
     ],
     "name:deu_x_preferred":[
         "D\u00fcrrnberg"
     ],
+    "name:deu_x_variant":[
+        "Bad D\u00fcrrnberg"
+    ],
     "name:eng_x_preferred":[
         "D\u00fcrrnberg"
+    ],
+    "name:eng_x_variant":[
+        "Bad D\u00fcrrnberg"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u0646\u0628\u0631\u06af"
@@ -40,20 +52,41 @@
     "name:fra_x_preferred":[
         "D\u00fcrrnberg"
     ],
+    "name:fra_x_variant":[
+        "Bad D\u00fcrrnberg"
+    ],
+    "name:gle_x_preferred":[
+        "Bad D\u00fcrrnberg"
+    ],
     "name:hun_x_preferred":[
         "D\u00fcrrnberg"
+    ],
+    "name:hun_x_variant":[
+        "Bad D\u00fcrrnberg"
     ],
     "name:ita_x_preferred":[
         "D\u00fcrrnberg"
     ],
+    "name:ita_x_variant":[
+        "Bad D\u00fcrrnberg"
+    ],
     "name:nld_x_preferred":[
         "D\u00fcrrnberg"
+    ],
+    "name:nld_x_variant":[
+        "Bad D\u00fcrrnberg"
     ],
     "name:spa_x_preferred":[
         "D\u00fcrrnberg"
     ],
+    "name:spa_x_variant":[
+        "Bad D\u00fcrrnberg"
+    ],
     "name:swe_x_preferred":[
         "D\u00fcrrnberg"
+    ],
+    "name:swe_x_variant":[
+        "Bad D\u00fcrrnberg"
     ],
     "name:und_x_variant":[
         "D\u00fcrnberg"
@@ -112,7 +145,7 @@
         }
     ],
     "wof:id":1125805559,
-    "wof:lastmodified":1566599369,
+    "wof:lastmodified":1690851258,
     "wof:name":"D\u00fcrrnberg",
     "wof:parent_id":1108837091,
     "wof:placetype":"locality",

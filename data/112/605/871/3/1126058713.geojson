@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Mieming"
+    ],
     "name:ceb_x_preferred":[
         "Mieming"
     ],
     "name:ces_x_preferred":[
         "Mieming"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u043c\u0438\u043d\u0433"
     ],
     "name:deu_x_preferred":[
         "Mieming"
@@ -52,16 +58,28 @@
     "name:kaz_x_preferred":[
         "\u041c\u0438\u043c\u0438\u043d\u0433"
     ],
+    "name:lld_x_preferred":[
+        "Mieming"
+    ],
     "name:lmo_x_preferred":[
         "Mieming"
     ],
     "name:nld_x_preferred":[
         "Mieming"
     ],
+    "name:nno_x_preferred":[
+        "Mieming"
+    ],
+    "name:nob_x_preferred":[
+        "Mieming"
+    ],
     "name:pnb_x_preferred":[
         "\u0645\u0627\u0626\u0645\u0646\u06af"
     ],
     "name:pol_x_preferred":[
+        "Mieming"
+    ],
+    "name:por_x_preferred":[
         "Mieming"
     ],
     "name:rus_x_preferred":[
@@ -76,10 +94,16 @@
     "name:swe_x_preferred":[
         "Mieming"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u043c\u0438\u043d\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043c\u0456\u043d\u0433"
     ],
     "name:uzb_x_preferred":[
+        "Mieming"
+    ],
+    "name:vec_x_preferred":[
         "Mieming"
     ],
     "name:vol_x_preferred":[
@@ -148,7 +172,7 @@
         }
     ],
     "wof:id":1126058713,
-    "wof:lastmodified":1566599292,
+    "wof:lastmodified":1690851232,
     "wof:name":"Mieming",
     "wof:parent_id":1108837423,
     "wof:placetype":"locality",

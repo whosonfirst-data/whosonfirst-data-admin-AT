@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kauns"
+    ],
     "name:ceb_x_preferred":[
         "Kauns"
     ],
     "name:ces_x_preferred":[
         "Kauns"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0443\u043d\u0441"
     ],
     "name:deu_x_preferred":[
         "Kauns"
@@ -52,13 +58,22 @@
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0443\u043d\u0441"
     ],
+    "name:lld_x_preferred":[
+        "Kauns"
+    ],
     "name:lmo_x_preferred":[
         "Kauns"
     ],
     "name:nld_x_preferred":[
         "Kauns"
     ],
+    "name:nob_x_preferred":[
+        "Kauns"
+    ],
     "name:pol_x_preferred":[
+        "Kauns"
+    ],
+    "name:por_x_preferred":[
         "Kauns"
     ],
     "name:ron_x_preferred":[
@@ -76,10 +91,16 @@
     "name:swe_x_preferred":[
         "Kauns"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0443\u043d\u0441"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0443\u043d\u0441"
     ],
     "name:uzb_x_preferred":[
+        "Kauns"
+    ],
+    "name:vec_x_preferred":[
         "Kauns"
     ],
     "name:vol_x_preferred":[
@@ -145,7 +166,7 @@
         }
     ],
     "wof:id":1126053733,
-    "wof:lastmodified":1566599294,
+    "wof:lastmodified":1690851233,
     "wof:name":"Kauns",
     "wof:parent_id":1108837307,
     "wof:placetype":"locality",

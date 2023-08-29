@@ -22,14 +22,26 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u062a\u0646\u0628\u0631\u062c"
+    ],
     "name:bar_x_preferred":[
         "R\u00e5ttnberg"
     ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
+    "name:cat_x_preferred":[
+        "Rattenberg"
+    ],
     "name:ceb_x_preferred":[
         "Rattenberg"
+    ],
+    "name:ces_x_preferred":[
+        "Rattenberg"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u0442\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
     "name:dan_x_preferred":[
         "Rattenberg"
@@ -70,6 +82,9 @@
     "name:kor_x_preferred":[
         "\ub77c\ud150\ubca0\ub974\ud06c"
     ],
+    "name:lld_x_preferred":[
+        "Rattenberg"
+    ],
     "name:lmo_x_preferred":[
         "Rattenberg"
     ],
@@ -80,6 +95,9 @@
         "Rattenberg"
     ],
     "name:pol_x_preferred":[
+        "Rattenberg"
+    ],
+    "name:por_x_preferred":[
         "Rattenberg"
     ],
     "name:rus_x_preferred":[
@@ -94,10 +112,16 @@
     "name:swe_x_preferred":[
         "Rattenberg"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u0442\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0442\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
     "name:uzb_x_preferred":[
+        "Rattenberg"
+    ],
+    "name:vec_x_preferred":[
         "Rattenberg"
     ],
     "name:vol_x_preferred":[
@@ -108,6 +132,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62c9\u6ed5\u8d1d\u5c14\u683c"
+    ],
+    "name:zho_x_variant":[
+        "\u62c9\u6ed5\u8d1d\u683c"
     ],
     "qs_pg:aaroncc":"AT",
     "qs_pg:gn_country":"AT",
@@ -163,7 +190,7 @@
         }
     ],
     "wof:id":1125981059,
-    "wof:lastmodified":1566599456,
+    "wof:lastmodified":1690851279,
     "wof:name":"Rattenberg",
     "wof:parent_id":1108837257,
     "wof:placetype":"locality",

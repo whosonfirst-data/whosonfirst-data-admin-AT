@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
     "geom:area_square_m":289234.962686,
-    "geom:bbox":"13.8341373619,47.0737925842,13.8463606186,47.0789993124",
+    "geom:bbox":"13.834137,47.073793,13.846361,47.078999",
     "geom:latitude":47.076211,
     "geom:longitude":13.840415,
     "iso:country":"AT",
@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Ramingstein"
+    ],
     "name:ceb_x_preferred":[
         "Ramingstein"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u043c\u0438\u043d\u0433\u0448\u0442\u0430\u0439\u043d"
     ],
     "name:deu_x_preferred":[
         "Ramingstein"
@@ -29,6 +35,9 @@
         "Ramingstein"
     ],
     "name:epo_x_preferred":[
+        "Ramingstein"
+    ],
+    "name:est_x_preferred":[
         "Ramingstein"
     ],
     "name:fas_x_preferred":[
@@ -46,13 +55,25 @@
     "name:ita_x_preferred":[
         "Ramingstein"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30df\u30f3\u30b0\u30b7\u30e5\u30bf\u30a4\u30f3"
+    ],
     "name:kaz_x_preferred":[
         "\u0420\u0430\u043c\u0438\u043d\u0433\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:lld_x_preferred":[
+        "Ramingstein"
     ],
     "name:nld_x_preferred":[
         "Ramingstein"
     ],
+    "name:nob_x_preferred":[
+        "Ramingstein"
+    ],
     "name:pol_x_preferred":[
+        "Ramingstein"
+    ],
+    "name:por_x_preferred":[
         "Ramingstein"
     ],
     "name:rus_x_preferred":[
@@ -67,10 +88,16 @@
     "name:swe_x_preferred":[
         "Ramingstein"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u043c\u0438\u043d\u0433\u0448\u0442\u0430\u0439\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u0456\u043d\u0433\u0448\u0442\u0430\u0439\u043d"
     ],
     "name:uzb_x_preferred":[
+        "Ramingstein"
+    ],
+    "name:vec_x_preferred":[
         "Ramingstein"
     ],
     "name:vol_x_preferred":[
@@ -125,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"55a8150fb20271fa376c7de76989c94a",
+    "wof:geomhash":"e7c445c184806b4b8f618ed9f174f08e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,7 +164,7 @@
         }
     ],
     "wof:id":101912501,
-    "wof:lastmodified":1582381851,
+    "wof:lastmodified":1690851067,
     "wof:name":"Ramingstein",
     "wof:parent_id":1108837057,
     "wof:placetype":"locality",
@@ -147,10 +174,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.83413736187742,
-    47.07379258424163,
-    13.84636061860812,
-    47.07899931239945
+    13.834137,
+    47.073793,
+    13.846361,
+    47.078999
 ],
-  "geometry": {"coordinates":[[[13.84636061860812,47.07890596899227],[13.8460966415002,47.07531051062693],[13.8408399016069,47.07549711891028],[13.84077400436865,47.07459824940378],[13.8381456665789,47.07469145608223],[13.83807981712772,47.07379258424163],[13.83413736187742,47.07393227197252],[13.83433471693616,47.07662889432709],[13.83696315721915,47.07653577957831],[13.8370289929253,47.0774346508768],[13.8422859378374,47.07724822644673],[13.84235186622954,47.07814709356563],[13.84366611960002,47.07810044669208],[13.84373207334278,47.07899931239945],[13.84636061860812,47.07890596899227]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[13.846361,47.078906],[13.846097,47.075311],[13.84084,47.075497],[13.840774,47.074598],[13.838146,47.074691],[13.83808,47.073793],[13.834137,47.073932],[13.834335,47.076629],[13.836963,47.076536],[13.837029,47.077435],[13.842286,47.077248],[13.842352,47.078147],[13.843666,47.0781],[13.843732,47.078999],[13.846361,47.078906]]],"type":"Polygon"}
 }

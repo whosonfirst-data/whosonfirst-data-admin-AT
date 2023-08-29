@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ces_x_preferred":[
+        "Nadace"
+    ],
     "name:deu_x_preferred":[
         "Stift"
     ],
@@ -49,8 +52,14 @@
     "name:nob_x_preferred":[
         "Kirkestift"
     ],
+    "name:nob_x_variant":[
+        "stift"
+    ],
     "name:nor_x_preferred":[
         "Kirkestift"
+    ],
+    "name:spa_x_preferred":[
+        "fundaci\u00f3n"
     ],
     "qs:gn_adm0_cc":"AT",
     "qs:gn_fcode":"PPLX",
@@ -120,7 +129,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1582381783,
+    "wof:lastmodified":1690850929,
     "wof:name":"Stifting",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

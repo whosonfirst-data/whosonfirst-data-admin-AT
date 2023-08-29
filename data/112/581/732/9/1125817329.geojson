@@ -22,6 +22,18 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Trag\u00f6\u00df"
+    ],
+    "name:ceb_x_preferred":[
+        "Trag\u00f6ss"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0430\u0433\u043e\u044c\u0441"
+    ],
+    "name:cym_x_preferred":[
+        "Trag\u00f6ss"
+    ],
     "name:deu_x_preferred":[
         "Trag\u00f6\u00df"
     ],
@@ -43,7 +55,13 @@
     "name:kaz_x_preferred":[
         "\u0422\u0440\u0430\u0433\u0451\u0441"
     ],
+    "name:lld_x_preferred":[
+        "Trag\u00f6\u00df"
+    ],
     "name:nld_x_preferred":[
+        "Trag\u00f6\u00df"
+    ],
+    "name:nob_x_preferred":[
         "Trag\u00f6\u00df"
     ],
     "name:rus_x_preferred":[
@@ -51,6 +69,12 @@
     ],
     "name:slk_x_preferred":[
         "Trag\u00f6\u00df"
+    ],
+    "name:swe_x_preferred":[
+        "Trag\u00f6ss"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0430\u0433\u0451\u0441"
     ],
     "name:und_x_variant":[
         "Trag\u00f6ss"
@@ -124,7 +148,7 @@
         }
     ],
     "wof:id":1125817329,
-    "wof:lastmodified":1566599317,
+    "wof:lastmodified":1690851246,
     "wof:name":"Oberort",
     "wof:parent_id":1108839315,
     "wof:placetype":"locality",

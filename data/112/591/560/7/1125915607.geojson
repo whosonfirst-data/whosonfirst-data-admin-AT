@@ -22,14 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sankt Aegidi"
+    ],
     "name:ceb_x_preferred":[
         "Sankt Aegidi"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u042d\u0433\u0438\u0434\u0438"
     ],
     "name:deu_x_preferred":[
         "Sankt Aegidi"
     ],
     "name:eng_x_preferred":[
         "Sankt Aegidi"
+    ],
+    "name:epo_x_preferred":[
+        "Sigharting"
     ],
     "name:fas_x_preferred":[
         "\u0632\u0627\u0646\u06a9\u062a \u0622\u06af\u06cc\u062f\u06cc"
@@ -46,7 +55,13 @@
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u042d\u0433\u0438\u0434\u0438"
     ],
+    "name:lld_x_preferred":[
+        "Sankt Aegidi"
+    ],
     "name:nld_x_preferred":[
+        "Sankt Aegidi"
+    ],
+    "name:nob_x_preferred":[
         "Sankt Aegidi"
     ],
     "name:pol_x_preferred":[
@@ -67,10 +82,16 @@
     "name:swe_x_preferred":[
         "Sankt Aegidi"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u042d\u0433\u0438\u0434\u0438"
+    ],
     "name:und_x_variant":[
         "Sankt \u00c4gidi"
     ],
     "name:uzb_x_preferred":[
+        "Sankt Aegidi"
+    ],
+    "name:vec_x_preferred":[
         "Sankt Aegidi"
     ],
     "name:vie_x_preferred":[
@@ -139,7 +160,7 @@
         }
     ],
     "wof:id":1125915607,
-    "wof:lastmodified":1566599449,
+    "wof:lastmodified":1690851274,
     "wof:name":"St. Aegidi",
     "wof:parent_id":1108836059,
     "wof:placetype":"locality",

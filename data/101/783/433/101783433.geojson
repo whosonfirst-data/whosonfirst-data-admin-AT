@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
     "geom:area_square_m":707928.965889,
-    "geom:bbox":"16.9038877783,48.2726833969,16.9158422,48.2823925285",
+    "geom:bbox":"16.903888,48.272683,16.915842,48.282393",
     "geom:latitude":48.277513,
     "geom:longitude":16.909895,
     "iso:country":"AT",
@@ -19,11 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u062e\u0643"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u062e\u0643"
+    ],
+    "name:cat_x_preferred":[
+        "Marchegg"
+    ],
     "name:ceb_x_preferred":[
         "Marchegg"
     ],
     "name:ces_x_preferred":[
         "Marchegg"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0440\u0445\u0435\u0433"
     ],
     "name:deu_x_preferred":[
         "Marchegg"
@@ -40,6 +52,9 @@
     "name:fra_x_preferred":[
         "Marchegg"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e9\u05d2"
+    ],
     "name:hun_x_preferred":[
         "Marchegg"
     ],
@@ -55,7 +70,13 @@
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0440\u0445\u0435\u0433"
     ],
+    "name:lld_x_preferred":[
+        "Marchegg"
+    ],
     "name:nld_x_preferred":[
+        "Marchegg"
+    ],
+    "name:nob_x_preferred":[
         "Marchegg"
     ],
     "name:pol_x_preferred":[
@@ -76,7 +97,13 @@
     "name:swe_x_preferred":[
         "Marchegg"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0440\u0445\u0435\u0433"
+    ],
     "name:uzb_x_preferred":[
+        "Marchegg"
+    ],
+    "name:vec_x_preferred":[
         "Marchegg"
     ],
     "name:vie_x_preferred":[
@@ -135,7 +162,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e385d44b98898036713e0f769f4b430",
+    "wof:geomhash":"b6acf2c8dab81cb8dae81675ddd34826",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,7 +174,7 @@
         }
     ],
     "wof:id":101783433,
-    "wof:lastmodified":1582381855,
+    "wof:lastmodified":1690851112,
     "wof:name":"Marchegg",
     "wof:parent_id":1108835301,
     "wof:placetype":"locality",
@@ -157,10 +184,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.9038877782944,
-    48.27268339688231,
-    16.9158422000275,
-    48.28239252848942
+    16.903888,
+    48.272683,
+    16.915842,
+    48.282393
 ],
-  "geometry": {"coordinates":[[[16.9158422000275,48.27715939664427],[16.91522744916767,48.27268339688231],[16.90717673938474,48.27318820414655],[16.90742234116988,48.27497862633379],[16.90473864472136,48.27514677203362],[16.90522972662006,48.27872762356679],[16.9038877782944,48.27881167886301],[16.90437885460221,48.28239252848942],[16.91108902565998,48.28197205478187],[16.91096613076178,48.28107685179333],[16.91365012369243,48.28090855174918],[16.91352718731832,48.28001335165186],[16.9148691541738,48.27992917892226],[16.91450030774752,48.27724358049647],[16.9158422000275,48.27715939664427]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[16.915842,48.277159],[16.915227,48.272683],[16.907177,48.273188],[16.907422,48.274979],[16.904739,48.275147],[16.90523,48.278728],[16.903888,48.278812],[16.904379,48.282393],[16.911089,48.281972],[16.910966,48.281077],[16.91365,48.280909],[16.913527,48.280013],[16.914869,48.279929],[16.9145,48.277244],[16.915842,48.277159]]],"type":"Polygon"}
 }

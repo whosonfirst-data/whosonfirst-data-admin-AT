@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:che_x_preferred":[
+        "\u0428\u0442\u0430\u0442\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
     "name:deu_x_preferred":[
         "Stattersdorf"
     ],
@@ -32,6 +35,24 @@
     ],
     "name:eng_x_variant":[
         "Stamersdorf"
+    ],
+    "name:gle_x_preferred":[
+        "Stattersdorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0442\u0430\u0442\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Stattersdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u0442\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0442\u0430\u0442\u0442\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:uzb_x_preferred":[
+        "Stattersdorf"
     ],
     "qs_pg:aaroncc":"AT",
     "qs_pg:gn_country":"AT",
@@ -61,9 +82,9 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
+        1108836803,
         85632785,
         102049849,
-        1108836803,
         85681671
     ],
     "wof:breaches":[],
@@ -88,7 +109,7 @@
         }
     ],
     "wof:id":1126083539,
-    "wof:lastmodified":1670434581,
+    "wof:lastmodified":1690851282,
     "wof:name":"Stattersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

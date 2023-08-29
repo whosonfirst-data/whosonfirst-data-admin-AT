@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000043,
     "geom:area_square_m":358970.118664,
-    "geom:bbox":"14.3312084768,48.0093737341,14.3409560001,48.016558182",
+    "geom:bbox":"14.331208,48.009374,14.340956,48.016558",
     "geom:latitude":48.013,
     "geom:longitude":14.336485,
     "iso:country":"AT",
@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Aschach an der Steyr"
+    ],
     "name:ceb_x_preferred":[
         "Aschach an der Steyr"
     ],
@@ -29,6 +32,9 @@
         "Aschach"
     ],
     "name:eng_x_variant":[
+        "Aschach an der Steyr"
+    ],
+    "name:epo_x_preferred":[
         "Aschach an der Steyr"
     ],
     "name:fas_x_preferred":[
@@ -46,7 +52,13 @@
     "name:kaz_x_preferred":[
         "\u0410\u0448\u0430\u0445-\u043d\u0430-\u0428\u0442\u0430\u0439\u0440\u0435"
     ],
+    "name:lld_x_preferred":[
+        "Aschach an der Steyr"
+    ],
     "name:nld_x_preferred":[
+        "Aschach an der Steyr"
+    ],
+    "name:nob_x_preferred":[
         "Aschach an der Steyr"
     ],
     "name:pol_x_preferred":[
@@ -68,6 +80,9 @@
         "Aschach an der Steyr"
     ],
     "name:uzb_x_preferred":[
+        "Aschach an der Steyr"
+    ],
+    "name:vec_x_preferred":[
         "Aschach an der Steyr"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +131,7 @@
         "wd:id":"Q683202"
     },
     "wof:country":"AT",
-    "wof:geomhash":"06c6e4a83d5a5ec964bfec9c9fd1d9d0",
+    "wof:geomhash":"1fac85cb4d5e8a742096dd6c347361a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,7 +146,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566599094,
+    "wof:lastmodified":1690851087,
     "wof:name":"Aschach an der Steyr",
     "wof:parent_id":1108836093,
     "wof:placetype":"locality",
@@ -141,10 +156,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.331208476847,
-    48.0093737341474,
-    14.3409560000635,
-    48.01655818198441
+    14.331208,
+    48.009374,
+    14.340956,
+    48.016558
 ],
-  "geometry": {"coordinates":[[[14.3409560000635,48.01645254575328],[14.34049636927477,48.01106422545058],[14.33782086055299,48.01116984879337],[14.33766777166284,48.0093737341474],[14.33499234671029,48.00947928815151],[14.33506884250562,48.01037734784495],[14.3337311027795,48.01043010152836],[14.33380757854104,48.01132816184656],[14.33246981282576,48.01138090034101],[14.33254626855199,48.01227896128376],[14.331208476847,48.01233168458879],[14.33143779420715,48.01502586794857],[14.33812707956884,48.01476207271156],[14.33828020969753,48.01655818198441],[14.3409560000635,48.01645254575328]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[14.340956,48.016453],[14.340496,48.011064],[14.337821,48.01117],[14.337668,48.009374],[14.334992,48.009479],[14.335069,48.010377],[14.333731,48.01043],[14.333808,48.011328],[14.33247,48.011381],[14.332546,48.012279],[14.331208,48.012332],[14.331438,48.015026],[14.338127,48.014762],[14.33828,48.016558],[14.340956,48.016453]]],"type":"Polygon"}
 }

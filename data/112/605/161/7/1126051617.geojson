@@ -20,8 +20,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0646\u0632\u064a\u0646\u062c"
+    ],
+    "name:cat_x_preferred":[
+        "Nenzing"
+    ],
     "name:ceb_x_preferred":[
         "Nenzing"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0435\u043d\u0446\u0438\u043d\u0433"
     ],
     "name:dan_x_preferred":[
         "Nenzing"
@@ -30,6 +39,9 @@
         "Nenzing"
     ],
     "name:eng_x_preferred":[
+        "Nenzing"
+    ],
+    "name:est_x_preferred":[
         "Nenzing"
     ],
     "name:fas_x_preferred":[
@@ -47,6 +59,9 @@
     "name:ita_x_preferred":[
         "Nenzing"
     ],
+    "name:lld_x_preferred":[
+        "Nenzing"
+    ],
     "name:lmo_x_preferred":[
         "Nenzing"
     ],
@@ -56,7 +71,13 @@
     "name:nno_x_preferred":[
         "Nenzing"
     ],
+    "name:nob_x_preferred":[
+        "Nenzing"
+    ],
     "name:pol_x_preferred":[
+        "Nenzing"
+    ],
+    "name:por_x_preferred":[
         "Nenzing"
     ],
     "name:rus_x_preferred":[
@@ -71,10 +92,19 @@
     "name:swe_x_preferred":[
         "Nenzing"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u0435\u043d\u0446\u0438\u043d\u0433"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0435\u043d\u0442\u0441\u0438\u043d\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u043d\u0446\u0456\u043d\u0433"
     ],
     "name:uzb_x_preferred":[
+        "Nenzing"
+    ],
+    "name:vec_x_preferred":[
         "Nenzing"
     ],
     "name:vol_x_preferred":[
@@ -136,7 +166,7 @@
         }
     ],
     "wof:id":1126051617,
-    "wof:lastmodified":1566599285,
+    "wof:lastmodified":1690851227,
     "wof:name":"Nenzing",
     "wof:parent_id":1108838015,
     "wof:placetype":"locality",

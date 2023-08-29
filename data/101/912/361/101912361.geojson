@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
     "geom:area_square_m":302516.562798,
-    "geom:bbox":"15.9054412553,48.7125395856,15.9129976458,48.7208219484",
-    "geom:latitude":48.716577,
+    "geom:bbox":"15.905441,48.71254,15.912998,48.720822",
+    "geom:latitude":48.716578,
     "geom:longitude":15.9094,
     "iso:country":"AT",
     "lbl:latitude":48.71653,
@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0634\u0631\u0627\u062a\u064a\u0646\u062b\u0627\u0644"
+    ],
     "name:cat_x_preferred":[
         "Schrattenthal"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:ces_x_preferred":[
         "Schrattenthal"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0440\u0430\u0442\u0442\u0435\u043d\u0442\u0430\u043b\u044c"
     ],
     "name:deu_x_preferred":[
         "Schrattenthal"
@@ -43,16 +49,28 @@
     "name:fra_x_preferred":[
         "Schrattenthal"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e8\u05d8\u05e0\u05d8\u05d0\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Schrattenthal"
     ],
     "name:ita_x_preferred":[
         "Schrattenthal"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30e9\u30c3\u30c6\u30f3\u30bf\u30fc\u30eb"
+    ],
     "name:kaz_x_preferred":[
         "\u0428\u0440\u0430\u0442\u0442\u0435\u043d\u0442\u0430\u043b\u044c"
     ],
+    "name:lld_x_preferred":[
+        "Schrattenthal"
+    ],
     "name:nld_x_preferred":[
+        "Schrattenthal"
+    ],
+    "name:nob_x_preferred":[
         "Schrattenthal"
     ],
     "name:pol_x_preferred":[
@@ -73,7 +91,13 @@
     "name:swe_x_preferred":[
         "Schrattenthal"
     ],
+    "name:tat_x_preferred":[
+        "\u0428\u0440\u0430\u0442\u0442\u0435\u043d\u0442\u0430\u043b\u044c"
+    ],
     "name:uzb_x_preferred":[
+        "Schrattenthal"
+    ],
+    "name:vec_x_preferred":[
         "Schrattenthal"
     ],
     "name:vie_x_preferred":[
@@ -129,7 +153,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddedc4f4c7469b9670a019e7eb996c8d",
+    "wof:geomhash":"e34e07f899732b18733fd972c3740c5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +165,7 @@
         }
     ],
     "wof:id":101912361,
-    "wof:lastmodified":1582381851,
+    "wof:lastmodified":1690851067,
     "wof:name":"Schrattenthal",
     "wof:parent_id":1108835747,
     "wof:placetype":"locality",
@@ -151,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.90544125526321,
-    48.71253958557458,
-    15.91299764576087,
-    48.72082194835491
+    15.905441,
+    48.71254,
+    15.912998,
+    48.720822
 ],
-  "geometry": {"coordinates":[[[15.91296439138245,48.7188073975388],[15.91299764576087,48.71700180795284],[15.91128689920453,48.71709286368576],[15.91086072784378,48.71350790429881],[15.91221558705757,48.71343582510838],[15.91210903218581,48.71253958557458],[15.90804451627474,48.71275576922284],[15.90815099869695,48.71365201323675],[15.90544125526321,48.71379605624963],[15.90565413803432,48.71558854883227],[15.9070090598409,48.71551653258103],[15.90754147230882,48.71999774831534],[15.90889651132278,48.71992570811665],[15.90900303251146,48.72082194835491],[15.91171314813494,48.72067781551914],[15.9115000139725,48.71888534054625],[15.91296439138245,48.7188073975388]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[15.912964,48.718807],[15.912998,48.717002],[15.911287,48.717093],[15.910861,48.713508],[15.912216,48.713436],[15.912109,48.71254],[15.908045,48.712756],[15.908151,48.713652],[15.905441,48.713796],[15.905654,48.715589],[15.907009,48.715517],[15.907541,48.719998],[15.908897,48.719926],[15.909003,48.720822],[15.911713,48.720678],[15.9115,48.718885],[15.912964,48.718807]]],"type":"Polygon"}
 }

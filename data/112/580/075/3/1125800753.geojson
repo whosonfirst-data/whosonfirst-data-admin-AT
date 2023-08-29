@@ -25,6 +25,9 @@
     "name:bre_x_preferred":[
         "Neustift im M\u00fchlkreis"
     ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0438\u0444\u0442"
+    ],
     "name:cat_x_preferred":[
         "Neustift im M\u00fchlkreis"
     ],
@@ -34,10 +37,16 @@
     "name:ces_x_preferred":[
         "Neustift im M\u00fchlkreis"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0438\u0444\u0442-\u0438\u043c-\u041c\u0443\u044c\u043b\u044c\u043a\u0440\u0430\u0439\u0441"
+    ],
     "name:deu_x_preferred":[
         "Neustift im M\u00fchlkreis"
     ],
     "name:eng_x_preferred":[
+        "Neustift im M\u00fchlkreis"
+    ],
+    "name:epo_x_preferred":[
         "Neustift im M\u00fchlkreis"
     ],
     "name:fas_x_preferred":[
@@ -55,7 +64,13 @@
     "name:kaz_x_preferred":[
         "\u041d\u043e\u0439\u0441\u0442\u0438\u0444\u0442"
     ],
+    "name:lld_x_preferred":[
+        "Neustift im M\u00fchlkreis"
+    ],
     "name:nld_x_preferred":[
+        "Neustift im M\u00fchlkreis"
+    ],
+    "name:nob_x_preferred":[
         "Neustift im M\u00fchlkreis"
     ],
     "name:pol_x_preferred":[
@@ -68,7 +83,8 @@
         "\u041d\u043e\u0439\u0448\u0442\u0438\u0444\u0442-\u0438\u043c-\u041c\u044e\u043b\u044c\u043a\u0440\u0430\u0439\u0441"
     ],
     "name:rus_x_variant":[
-        "\u041d\u043e\u0439\u0441\u0442\u0438\u0444\u0442"
+        "\u041d\u043e\u0439\u0441\u0442\u0438\u0444\u0442",
+        "\u041d\u043e\u0439\u0448\u0442\u0438\u0444\u0442"
     ],
     "name:slk_x_preferred":[
         "Neustift im M\u00fchlkreis"
@@ -82,10 +98,19 @@
     "name:swe_x_preferred":[
         "Neustift im M\u00fchlkreis"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0438\u0444\u0442-\u0438\u043c-\u041c\u044e\u043b\u044c\u043a\u0440\u0430\u0439\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0438\u0444\u0442"
+    ],
     "name:und_x_variant":[
         "Neustift"
     ],
     "name:uzb_x_preferred":[
+        "Neustift im M\u00fchlkreis"
+    ],
+    "name:vec_x_preferred":[
         "Neustift im M\u00fchlkreis"
     ],
     "name:vol_x_preferred":[
@@ -149,7 +174,7 @@
         }
     ],
     "wof:id":1125800753,
-    "wof:lastmodified":1566599371,
+    "wof:lastmodified":1690851258,
     "wof:name":"Neustift im M\u00fchlkreis",
     "wof:parent_id":1108835993,
     "wof:placetype":"locality",

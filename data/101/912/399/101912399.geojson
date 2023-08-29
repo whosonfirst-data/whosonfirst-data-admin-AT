@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
     "geom:area_square_m":776308.175245,
-    "geom:bbox":"16.2219521604,47.3280432364,16.2320547524,47.3435780748",
-    "geom:latitude":47.335483,
+    "geom:bbox":"16.221952,47.328043,16.232055,47.343578",
+    "geom:latitude":47.335482,
     "geom:longitude":16.227446,
     "gn:population":1329,
     "iso:country":"AT",
@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Bad Tatzmannsdorf"
+    ],
     "name:ceb_x_preferred":[
         "Bad Tatzmannsdorf"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0434-\u0422\u0430\u0446\u043c\u0430\u043d\u0441\u0434\u043e\u0440\u0444"
     ],
     "name:dan_x_preferred":[
         "Bad Tatzmannsdorf"
@@ -56,7 +62,13 @@
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0434-\u0422\u0430\u0446\u043c\u0430\u043d\u0441\u0434\u043e\u0440\u0444"
     ],
+    "name:lld_x_preferred":[
+        "Bad Tatzmannsdorf"
+    ],
     "name:nld_x_preferred":[
+        "Bad Tatzmannsdorf"
+    ],
+    "name:nob_x_preferred":[
         "Bad Tatzmannsdorf"
     ],
     "name:pol_x_preferred":[
@@ -80,10 +92,16 @@
     "name:swe_x_preferred":[
         "Bad Tatzmannsdorf"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0434-\u0422\u0430\u0446\u043c\u0430\u043d\u0441\u0434\u043e\u0440\u0444"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0434-\u0422\u0430\u0446\u043c\u0430\u043d\u043d\u0441\u0434\u043e\u0440\u0444"
     ],
     "name:uzb_x_preferred":[
+        "Bad Tatzmannsdorf"
+    ],
+    "name:vec_x_preferred":[
         "Bad Tatzmannsdorf"
     ],
     "name:vol_x_preferred":[
@@ -133,7 +151,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4dc4d48e8ceed5d1a1440f7e4ed063fb",
+    "wof:geomhash":"e0ec7a654922247619a97a20081d4b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":101912399,
-    "wof:lastmodified":1582381850,
+    "wof:lastmodified":1690851062,
     "wof:name":"Bad Tatzmannsdorf",
     "wof:parent_id":1108838563,
     "wof:placetype":"locality",
@@ -157,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.22195216041615,
-    47.32804323643518,
-    16.23205475240667,
-    47.34357807483468
+    16.221952,
+    47.328043,
+    16.232055,
+    47.343578
 ],
-  "geometry": {"coordinates":[[[16.22917744447381,47.34340916740854],[16.23205475240667,47.32970418786653],[16.22975446542267,47.32983621258376],[16.22953916250623,47.32804323643518],[16.22558439889485,47.3282700728883],[16.22590715786498,47.33095954980519],[16.22195216041615,47.33118625610797],[16.22216722177882,47.33297924691055],[16.22480398025101,47.33282811932565],[16.22512674297724,47.33551759225747],[16.22380829795048,47.3355931685465],[16.22462587695998,47.34240553680218],[16.22623309677732,47.34357807483468],[16.22917744447381,47.34340916740854]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[16.229177,47.343409],[16.232055,47.329704],[16.229754,47.329836],[16.229539,47.328043],[16.225584,47.32827],[16.225907,47.33096],[16.221952,47.331186],[16.222167,47.332979],[16.224804,47.332828],[16.225127,47.335518],[16.223808,47.335593],[16.224626,47.342406],[16.226233,47.343578],[16.229177,47.343409]]],"type":"Polygon"}
 }

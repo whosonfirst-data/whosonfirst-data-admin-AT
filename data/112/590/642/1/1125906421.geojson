@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Flie\u00df"
+    ],
     "name:ceb_x_preferred":[
         "Fliess"
     ],
     "name:ces_x_preferred":[
         "Flie\u00df"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u043b\u0438\u0441"
     ],
     "name:deu_x_preferred":[
         "Flie\u00df im Oberinntal"
@@ -55,6 +61,9 @@
     "name:kaz_x_preferred":[
         "\u0424\u043b\u0438\u0441"
     ],
+    "name:lld_x_preferred":[
+        "Flie\u00df"
+    ],
     "name:lmo_x_preferred":[
         "Flie\u00df"
     ],
@@ -76,6 +85,9 @@
     "name:pol_x_preferred":[
         "Flie\u00df"
     ],
+    "name:por_x_preferred":[
+        "Flie\u00df"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u043b\u0438\u0441"
     ],
@@ -88,10 +100,16 @@
     "name:swe_x_preferred":[
         "Fliess"
     ],
+    "name:tat_x_preferred":[
+        "\u0424\u043b\u0438\u0441"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u043b\u0456\u0441"
     ],
     "name:uzb_x_preferred":[
+        "Flie\u00df"
+    ],
+    "name:vec_x_preferred":[
         "Flie\u00df"
     ],
     "name:vol_x_preferred":[
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":1125906421,
-    "wof:lastmodified":1566599415,
+    "wof:lastmodified":1690851266,
     "wof:name":"Fiesso",
     "wof:parent_id":1108837289,
     "wof:placetype":"locality",

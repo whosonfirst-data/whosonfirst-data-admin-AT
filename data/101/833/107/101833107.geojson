@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000181,
     "geom:area_square_m":1499907.787541,
-    "geom:bbox":"12.9389140488,47.9286064867,12.9549401913,47.9547995538",
+    "geom:bbox":"12.938914,47.928606,12.95494,47.9548",
     "geom:latitude":47.943105,
     "geom:longitude":12.944627,
     "iso:country":"AT",
@@ -31,8 +31,14 @@
     "name:bul_x_preferred":[
         "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444 \u0431\u0430\u0439 \u0417\u0430\u043b\u0446\u0431\u0443\u0440\u0433"
     ],
+    "name:cat_x_preferred":[
+        "Oberndorf bei Salzburg"
+    ],
     "name:ceb_x_preferred":[
         "Oberndorf bei Salzburg"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0431\u0430\u0439-\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
     ],
     "name:dan_x_preferred":[
         "Oberndorf bei Salzburg"
@@ -45,6 +51,9 @@
     ],
     "name:epo_x_preferred":[
         "Oberndorf"
+    ],
+    "name:est_x_preferred":[
+        "Oberndorf bei Salzburg"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0628\u0631\u0646\u062f\u0648\u0631\u0641 \u0628\u0627\u06cc \u0633\u0627\u0644\u0632\u0628\u0648\u0631\u06af"
@@ -61,8 +70,14 @@
     "name:ita_x_preferred":[
         "Oberndorf bei Salzburg"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30d9\u30eb\u30f3\u30c9\u30eb\u30d5\u30fb\u30d0\u30a4\u30fb\u30b6\u30eb\u30c4\u30d6\u30eb\u30af"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
+    ],
+    "name:lld_x_preferred":[
+        "Oberndorf bei Salzburg"
     ],
     "name:nld_x_preferred":[
         "Oberndorf bei Salzburg"
@@ -70,7 +85,13 @@
     "name:nno_x_preferred":[
         "Oberndorf bei Salzburg"
     ],
+    "name:nob_x_preferred":[
+        "Oberndorf bei Salzburg"
+    ],
     "name:pol_x_preferred":[
+        "Oberndorf bei Salzburg"
+    ],
+    "name:por_x_preferred":[
         "Oberndorf bei Salzburg"
     ],
     "name:ron_x_preferred":[
@@ -91,10 +112,16 @@
     "name:swe_x_preferred":[
         "Oberndorf bei Salzburg"
     ],
+    "name:tat_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0431\u0430\u0439-\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0435\u0440\u043d\u0434\u043e\u0440\u0444-\u0431\u0430\u0439-\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433"
     ],
     "name:uzb_x_preferred":[
+        "Oberndorf bei Salzburg"
+    ],
+    "name:vec_x_preferred":[
         "Oberndorf bei Salzburg"
     ],
     "name:vol_x_preferred":[
@@ -142,7 +169,7 @@
         "wk:page":"Oberndorf bei Salzburg"
     },
     "wof:country":"AT",
-    "wof:geomhash":"51a2aecc386627da3693773bbc7e5baf",
+    "wof:geomhash":"a02b33f971080ee63a593777d7879f00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +181,7 @@
         }
     ],
     "wof:id":101833107,
-    "wof:lastmodified":1566599055,
+    "wof:lastmodified":1690851030,
     "wof:name":"Oberndorf bei Salzburg",
     "wof:parent_id":1108837167,
     "wof:placetype":"locality",
@@ -164,10 +191,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.93891404884175,
-    47.92860648668716,
-    12.954940191324,
-    47.95479955384417
+    12.938914,
+    47.928606,
+    12.95494,
+    47.9548
 ],
-  "geometry": {"coordinates":[[[12.94086261224999,47.92863486891014],[12.93891404884175,47.95479955384417],[12.94476268967065,47.95464297712761],[12.94450328853668,47.95014777718967],[12.94584044269328,47.95011193116466],[12.94552909721358,47.9447176820492],[12.95087713298017,47.9445741527926],[12.95098109339256,47.94637223164375],[12.9536551949509,47.94630036651637],[12.95360316660356,47.94540132875625],[12.954940191324,47.94536537252748],[12.95478404983191,47.94266825896938],[12.95077318189726,47.94277607229549],[12.95046138461112,47.93738182092829],[12.95313501651191,47.93730997039654],[12.95308301150305,47.93641092852022],[12.9463990363011,47.93659042924969],[12.94629526803976,47.93479233697076],[12.94228500325727,47.93489983791864],[12.94192238055086,47.92860648668716],[12.94086261224999,47.92863486891014]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.940863,47.928635],[12.938914,47.9548],[12.944763,47.954643],[12.944503,47.950148],[12.94584,47.950112],[12.945529,47.944718],[12.950877,47.944574],[12.950981,47.946372],[12.953655,47.9463],[12.953603,47.945401],[12.95494,47.945365],[12.954784,47.942668],[12.950773,47.942776],[12.950461,47.937382],[12.953135,47.93731],[12.953083,47.936411],[12.946399,47.93659],[12.946295,47.934792],[12.942285,47.9349],[12.941922,47.928606],[12.940863,47.928635]]],"type":"Polygon"}
 }

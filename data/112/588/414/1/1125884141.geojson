@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kaunerberg"
+    ],
     "name:ceb_x_preferred":[
         "Kaunerberg"
     ],
     "name:ces_x_preferred":[
         "Kaunerberg"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0443\u043d\u0435\u0440\u0431\u0435\u0440\u0433"
     ],
     "name:deu_x_preferred":[
         "Kaunerberg"
@@ -52,13 +58,22 @@
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0443\u043d\u0435\u0440\u0431\u0435\u0440\u0433"
     ],
+    "name:lld_x_preferred":[
+        "Kaunerberg"
+    ],
     "name:lmo_x_preferred":[
         "Kaunerberg"
     ],
     "name:nld_x_preferred":[
         "Kaunerberg"
     ],
+    "name:nob_x_preferred":[
+        "Kaunerberg"
+    ],
     "name:pol_x_preferred":[
+        "Kaunerberg"
+    ],
+    "name:por_x_preferred":[
         "Kaunerberg"
     ],
     "name:rus_x_preferred":[
@@ -73,10 +88,16 @@
     "name:swe_x_preferred":[
         "Kaunerberg"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0443\u043d\u0435\u0440\u0431\u0435\u0440\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0443\u043d\u0435\u0440\u0431\u0435\u0440\u0433"
     ],
     "name:uzb_x_preferred":[
+        "Kaunerberg"
+    ],
+    "name:vec_x_preferred":[
         "Kaunerberg"
     ],
     "name:vol_x_preferred":[
@@ -143,7 +164,7 @@
         }
     ],
     "wof:id":1125884141,
-    "wof:lastmodified":1566599322,
+    "wof:lastmodified":1690851247,
     "wof:name":"Kaunerberg",
     "wof:parent_id":1108837301,
     "wof:placetype":"locality",

@@ -19,11 +19,15 @@
     "name:deu_x_preferred":[
         "Flugplatz Scharnstein bei Gmunden"
     ],
+    "name:deu_x_variant":[
+        "Flugplatz Scharnstein"
+    ],
     "name:eng_x_preferred":[
         "Scharnstein Airport"
     ],
     "name:eng_x_variant":[
-        "LOLC"
+        "LOLC",
+        "Scharnstein airfield"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Scharnstein"
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102556319,
-    "wof:lastmodified":1631755602,
+    "wof:lastmodified":1690850858,
     "wof:name":"Flugfeld Scharnstein",
     "wof:parent_id":85681677,
     "wof:placetype":"campus",

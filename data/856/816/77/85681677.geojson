@@ -65,6 +65,9 @@
     "name:aze_x_preferred":[
         "Yuxar\u0131 Avstriya"
     ],
+    "name:bak_x_preferred":[
+        "\u04ae\u0440\u0433\u0435 \u0410\u0432\u0441\u0442\u0440\u0438\u044f"
+    ],
     "name:bar_x_preferred":[
         "Oba\u00f6stareich"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0986\u09aa\u09be\u09b0 \u0985\u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u098a\u09b0\u09cd\u09a7\u09cd\u09ac \u0985\u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
     ],
     "name:bos_x_preferred":[
         "Gornja Austrija"
@@ -164,6 +170,9 @@
     "name:hye_x_preferred":[
         "\u054e\u0565\u0580\u056b\u0576 \u0531\u057e\u057d\u057f\u0580\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u054e\u0565\u0580\u056b\u0576 \u0531\u0582\u057d\u057f\u0580\u056b\u0561"
+    ],
     "name:ile_x_preferred":[
         "Supra Austria"
     ],
@@ -203,6 +212,9 @@
     "name:lit_x_preferred":[
         "Auk\u0161tutin\u0117 Austrija"
     ],
+    "name:lld_x_preferred":[
+        "Austria Auta"
+    ],
     "name:ltz_x_preferred":[
         "Uewer\u00e9istr\u00e4ich"
     ],
@@ -211,6 +223,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0430 \u0410\u0432\u0441\u0442\u0440\u0438\u0458\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "L-Awstrija l-G\u0127olja"
     ],
     "name:mon_x_preferred":[
         "\u0414\u044d\u044d\u0440 \u0410\u0432\u0441\u0442\u0440\u0438"
@@ -272,6 +287,9 @@
     "name:slv_x_preferred":[
         "Gornja Avstrija"
     ],
+    "name:snd_x_preferred":[
+        "\u0627\u067e\u0631 \u0622\u0633\u067d\u0631\u064a\u0627"
+    ],
     "name:spa_x_preferred":[
         "Alta Austria"
     ],
@@ -293,6 +311,9 @@
     "name:tat_x_preferred":[
         "\u042e\u0433\u0430\u0440\u044b \u0410\u0443\u0441\u0442\u0440\u0438\u044f"
     ],
+    "name:tat_x_variant":[
+        "\u042e\u0433\u0430\u0440\u044b \u0410\u0432\u0441\u0442\u0440\u0438\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2a\u0c4d\u0c2a\u0c30\u0c4d \u0c06\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c3f\u0c2f\u0c3e"
     ],
@@ -304,6 +325,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e2d\u0e31\u0e1b\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e42\u0e2d\u0e41\u0e1a\u0e23\u0e4c\u0e40\u0e2d\u0e34\u0e2a\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e44\u0e23\u0e0a\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Yukar\u0131 Avusturya"
@@ -325,6 +349,12 @@
     ],
     "name:war_x_preferred":[
         "Uruigbaw nga Austria"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e0a\u5965\u5730\u5229\u5dde"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10df\u10d8\u10db\u10dd\u10da\u10d4\u10dc\u10d8 \u10d0\u10d5\u10e1\u10e2\u10e0\u10d8\u10d0"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05d5\u05d9\u05d1\u05e2\u05e8-\u05e2\u05e1\u05d8\u05e8\u05d9\u05d9\u05da"
@@ -447,7 +477,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"36669813247a2ea2b092fd43a6808e0a",
+    "wof:geomhash":"1a2d1e7073b46bf04a24c951fd0f1c2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -465,7 +495,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1684351391,
+    "wof:lastmodified":1690850916,
     "wof:name":"Ober\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

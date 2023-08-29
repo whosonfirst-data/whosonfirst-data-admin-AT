@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.3487249546,48.2078490926,16.3487249546,48.2078490926",
+    "geom:bbox":"16.348725,48.207849,16.348725,48.207849",
     "geom:latitude":48.207849,
     "geom:longitude":16.348725,
     "iso:country":"AT",
@@ -32,6 +32,9 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30c8\u30ed\u30c3\u30c4\u30a3\u30b0\u30eb\u30f3\u30c8"
     ],
+    "name:nld_x_preferred":[
+        "Strozzigrund"
+    ],
     "src:geom":"mz",
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"AT",
     "wof:created":1491360230,
-    "wof:geomhash":"b90cae2926d90fca01011adbaa1f101a",
+    "wof:geomhash":"32aa8f9a96df70db1256b2e93117f458",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108938239,
-    "wof:lastmodified":1566598125,
+    "wof:lastmodified":1690850943,
     "wof:name":"Strozzigrund",
     "wof:parent_id":101748073,
     "wof:placetype":"neighbourhood",
@@ -71,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.34872495455352,
-    48.20784909260527,
-    16.34872495455352,
-    48.20784909260527
+    16.348725,
+    48.207849,
+    16.348725,
+    48.207849
 ],
-  "geometry": {"coordinates":[16.34872495455352,48.20784909260527],"type":"Point"}
+  "geometry": {"coordinates":[16.348725,48.207849],"type":"Point"}
 }

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0442\u0442\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
     "name:deu_x_preferred":[
         "Mitterkirchen im Machland"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Mitterkirchen im Machland"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0442\u0442\u0435\u0440\u043a\u0438\u0440\u0445\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Mitterkirchen im Machlande"
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1125895969,
-    "wof:lastmodified":1566599359,
+    "wof:lastmodified":1690851253,
     "wof:name":"Mitterkirchen",
     "wof:parent_id":1108835591,
     "wof:placetype":"locality",

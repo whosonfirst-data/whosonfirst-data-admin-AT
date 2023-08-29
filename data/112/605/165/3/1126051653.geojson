@@ -20,8 +20,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Rauchenwarth"
+    ],
     "name:ceb_x_preferred":[
         "Rauchenwarth"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u0443\u0445\u0435\u043d\u0432\u0430\u0440\u0442"
     ],
     "name:deu_x_preferred":[
         "Rauchenwarth"
@@ -38,6 +44,9 @@
     "name:fra_x_preferred":[
         "Rauchenwarth"
     ],
+    "name:gle_x_preferred":[
+        "Rauchenwarth"
+    ],
     "name:hun_x_preferred":[
         "Rauchenwarth"
     ],
@@ -47,7 +56,13 @@
     "name:kaz_x_preferred":[
         "\u0420\u0430\u0443\u0445\u0435\u043d\u0432\u0430\u0440\u0442"
     ],
+    "name:lld_x_preferred":[
+        "Rauchenwarth"
+    ],
     "name:nld_x_preferred":[
+        "Rauchenwarth"
+    ],
+    "name:nob_x_preferred":[
         "Rauchenwarth"
     ],
     "name:pol_x_preferred":[
@@ -68,7 +83,13 @@
     "name:swe_x_preferred":[
         "Rauchenwarth"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u0443\u0445\u0435\u043d\u0432\u0430\u0440\u0442"
+    ],
     "name:uzb_x_preferred":[
+        "Rauchenwarth"
+    ],
+    "name:vec_x_preferred":[
         "Rauchenwarth"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +154,7 @@
         }
     ],
     "wof:id":1126051653,
-    "wof:lastmodified":1566599291,
+    "wof:lastmodified":1690851230,
     "wof:name":"Rauchenwarth",
     "wof:parent_id":1108836277,
     "wof:placetype":"locality",

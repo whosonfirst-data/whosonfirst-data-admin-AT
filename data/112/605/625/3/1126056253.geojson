@@ -34,6 +34,9 @@
     "name:ces_x_preferred":[
         "Mayerling"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0439\u0435\u0440\u043b\u0438\u043d\u0433"
+    ],
     "name:dan_x_preferred":[
         "Mayerling"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03b3\u03b9\u03b5\u03c1\u03bb\u03b9\u03bd\u03b3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ac\u03b9\u03b5\u03c1\u03bb\u03b9\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Mayerling"
@@ -58,11 +64,17 @@
     "name:fra_x_preferred":[
         "Mayerling"
     ],
+    "name:gle_x_preferred":[
+        "Mayerling"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05d9\u05d9\u05e8\u05dc\u05d9\u05e0\u05d2"
     ],
     "name:hun_x_preferred":[
         "Mayerling"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0575\u0565\u0580\u056c\u056b\u0576\u0563"
     ],
     "name:ita_x_preferred":[
         "Mayerling"
@@ -88,11 +100,17 @@
     "name:swe_x_preferred":[
         "Mayerling"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0439\u0435\u0440\u043b\u0438\u043d\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0454\u0440\u043b\u0456\u043d\u0433"
     ],
     "name:zho_x_preferred":[
         "\u6885\u8036\u6797"
+    ],
+    "name:zho_x_variant":[
+        "\u8fc8\u5c14\u7075"
     ],
     "qs_pg:aaroncc":"AT",
     "qs_pg:gn_country":"AT",
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":1126056253,
-    "wof:lastmodified":1566599292,
+    "wof:lastmodified":1690851232,
     "wof:name":"Mayerling",
     "wof:parent_id":1108836967,
     "wof:placetype":"locality",

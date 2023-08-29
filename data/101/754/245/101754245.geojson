@@ -20,10 +20,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u0646\u0648\u0628\u0648\u0631\u062c"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0631\u0646\u0626\u0648 \u0628\u0648\u0631\u0642"
     ],
     "name:bos_x_preferred":[
+        "Korneuburg"
+    ],
+    "name:cat_x_preferred":[
         "Korneuburg"
     ],
     "name:ceb_x_preferred":[
@@ -31,6 +37,9 @@
     ],
     "name:ces_x_preferred":[
         "Korneuburg"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u043e\u0439\u0431\u0443\u0440\u0433"
     ],
     "name:cym_x_preferred":[
         "Korneuburg"
@@ -56,8 +65,14 @@
     "name:fra_x_preferred":[
         "Korneubourg"
     ],
+    "name:gle_x_preferred":[
+        "Korneuburg"
+    ],
     "name:hbs_x_preferred":[
         "Korneuburg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05e0\u05d5\u05d9\u05d1\u05d5\u05e8\u05d2"
     ],
     "name:hun_x_preferred":[
         "Korneuburg"
@@ -68,6 +83,9 @@
     "name:ita_x_preferred":[
         "Korneuburg"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30eb\u30ce\u30a4\u30d6\u30eb\u30af"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10e0\u10dc\u10dd\u10d8\u10d1\u10e3\u10e0\u10d2\u10d8"
     ],
@@ -77,6 +95,9 @@
     "name:lit_x_preferred":[
         "Kornoiburgas"
     ],
+    "name:lld_x_preferred":[
+        "Korneuburg"
+    ],
     "name:nan_x_preferred":[
         "Korneuburg"
     ],
@@ -84,6 +105,9 @@
         "Korneuburg"
     ],
     "name:nno_x_preferred":[
+        "Korneuburg"
+    ],
+    "name:nob_x_preferred":[
         "Korneuburg"
     ],
     "name:pol_x_preferred":[
@@ -113,7 +137,16 @@
     "name:swe_x_preferred":[
         "Korneuburg"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u043e\u0439\u0431\u0443\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u043e\u0439\u0431\u0443\u0440\u0433"
+    ],
     "name:uzb_x_preferred":[
+        "Korneuburg"
+    ],
+    "name:vec_x_preferred":[
         "Korneuburg"
     ],
     "name:vie_x_preferred":[
@@ -151,11 +184,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85681671,
         102191581,
-        85632785,
-        102049887,
         1108834957,
-        85681671
+        85632785,
+        102049887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -188,7 +221,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1607997273,
+    "wof:lastmodified":1690850971,
     "wof:name":"Korneuburg",
     "wof:parent_id":1108834957,
     "wof:placetype":"locality",

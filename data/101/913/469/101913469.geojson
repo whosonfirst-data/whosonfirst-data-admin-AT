@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":248.292301,
-    "geom:bbox":"16.2773529432,47.809647801,16.2775691906,47.8099881883",
+    "geom:bbox":"16.277353,47.809648,16.277569,47.809988",
     "geom:latitude":47.809871,
     "geom:longitude":16.277439,
     "gn:population":4183,
@@ -20,10 +20,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Neud\u00f6rfl"
+    ],
     "name:ceb_x_preferred":[
         "Neud\u00f6rfl"
     ],
     "name:ces_x_preferred":[
+        "Neud\u00f6rfl"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0439\u0434\u043e\u044c\u0440\u0444\u043b\u044c"
+    ],
+    "name:cym_x_preferred":[
         "Neud\u00f6rfl"
     ],
     "name:deu_x_preferred":[
@@ -33,6 +42,9 @@
         "Neud\u00f6rfl"
     ],
     "name:epo_x_preferred":[
+        "Neud\u00f6rfl"
+    ],
+    "name:est_x_preferred":[
         "Neud\u00f6rfl"
     ],
     "name:fas_x_preferred":[
@@ -56,7 +68,16 @@
     "name:kaz_x_preferred":[
         "\u041d\u043e\u0439\u0434\u0451\u0440\u0444\u043b\u044c"
     ],
+    "name:lld_x_preferred":[
+        "Neud\u00f6rfl"
+    ],
     "name:nld_x_preferred":[
+        "Neud\u00f6rfl"
+    ],
+    "name:nno_x_preferred":[
+        "Neud\u00f6rfl"
+    ],
+    "name:nob_x_preferred":[
         "Neud\u00f6rfl"
     ],
     "name:pol_x_preferred":[
@@ -77,10 +98,16 @@
     "name:swe_x_preferred":[
         "Neud\u00f6rfl"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u043e\u0439\u0434\u0451\u0440\u0444\u043b\u044c"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0439\u0434\u0435\u0440\u0444\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
+        "Neud\u00f6rfl"
+    ],
+    "name:vec_x_preferred":[
         "Neud\u00f6rfl"
     ],
     "name:vol_x_preferred":[
@@ -126,7 +153,7 @@
         "wk:page":"Neud\u00f6rfl"
     },
     "wof:country":"AT",
-    "wof:geomhash":"802a1787ec8309028640205cf52d5f45",
+    "wof:geomhash":"ff979613f2a97e657d24eb925d8d0276",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +165,7 @@
         }
     ],
     "wof:id":101913469,
-    "wof:lastmodified":1566599126,
+    "wof:lastmodified":1690851139,
     "wof:name":"Neud\u00f6rfl",
     "wof:parent_id":1108834997,
     "wof:placetype":"locality",
@@ -150,10 +177,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.27735294324236,
-    47.8096478010429,
-    16.27756919057418,
-    47.80998818831881
+    16.277353,
+    47.809648,
+    16.277569,
+    47.809988
 ],
-  "geometry": {"coordinates":[[[16.27756919057418,47.80997817891074],[16.27735294324236,47.8096478010429],[16.27739474379717,47.80998818831881],[16.27756919057418,47.80997817891074]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[16.277569,47.809978],[16.277353,47.809648],[16.277395,47.809988],[16.277569,47.809978]]],"type":"Polygon"}
 }

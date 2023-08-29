@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062c\u0645\u0648\u0646\u062f"
+    ],
     "name:bar_x_preferred":[
         "Gmind"
     ],
     "name:bos_x_preferred":[
+        "Gm\u00fcnd"
+    ],
+    "name:cat_x_preferred":[
         "Gm\u00fcnd"
     ],
     "name:ceb_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:ces_x_preferred":[
         "Gm\u00fcnd"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043c\u0443\u044c\u043d\u0434"
     ],
     "name:deu_x_preferred":[
         "Gm\u00fcnd"
@@ -61,10 +70,16 @@
     "name:ita_x_preferred":[
         "Gm\u00fcnd"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30df\u30e5\u30f3\u30c8"
+    ],
     "name:kaz_x_preferred":[
         "\u0413\u043c\u044e\u043d\u0434"
     ],
     "name:nld_x_preferred":[
+        "Gm\u00fcnd"
+    ],
+    "name:nob_x_preferred":[
         "Gm\u00fcnd"
     ],
     "name:pol_x_preferred":[
@@ -94,6 +109,9 @@
     "name:swe_x_preferred":[
         "Gm\u00fcnd"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u043c\u044e\u043d\u0434"
+    ],
     "name:tur_x_preferred":[
         "Gm\u00fcnd"
     ],
@@ -104,6 +122,9 @@
         "Cmunt"
     ],
     "name:uzb_x_preferred":[
+        "Gm\u00fcnd"
+    ],
+    "name:vec_x_preferred":[
         "Gm\u00fcnd"
     ],
     "name:vie_x_preferred":[
@@ -173,7 +194,7 @@
         }
     ],
     "wof:id":1125979339,
-    "wof:lastmodified":1566599420,
+    "wof:lastmodified":1690851270,
     "wof:name":"Gm\u00fcnd",
     "wof:parent_id":1108835467,
     "wof:placetype":"locality",

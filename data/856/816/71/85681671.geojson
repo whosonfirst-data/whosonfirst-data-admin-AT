@@ -62,6 +62,9 @@
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Avstriya"
     ],
+    "name:bak_x_preferred":[
+        "\u0422\u04af\u0431\u04d9\u043d\u0433\u0435 \u0410\u0432\u0441\u0442\u0440\u0438\u044f"
+    ],
     "name:bar_x_preferred":[
         "Nieda\u00f6stareich"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09af\u09bc\u09be\u09b0 \u0985\u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09a8\u09bf\u09ae\u09cd\u09a8 \u0985\u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
     ],
     "name:bos_x_preferred":[
         "Donja Austrija"
@@ -170,6 +176,9 @@
     "name:hye_x_preferred":[
         "\u054d\u057f\u0578\u0580\u056b\u0576 \u0531\u057e\u057d\u057f\u0580\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u054d\u057f\u0578\u0580\u056b\u0576 \u0531\u0582\u057d\u057f\u0580\u056b\u0561"
+    ],
     "name:ile_x_preferred":[
         "Infra Austria"
     ],
@@ -219,6 +228,9 @@
     "name:lit_x_preferred":[
         "\u017demutin\u0117 Austrija"
     ],
+    "name:lld_x_preferred":[
+        "Austria Bassa"
+    ],
     "name:ltz_x_preferred":[
         "Nidder\u00e9istr\u00e4ich"
     ],
@@ -227,6 +239,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u0410\u0432\u0441\u0442\u0440\u0438\u0458\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "L-Awstrija l-Baxxa"
     ],
     "name:mon_x_preferred":[
         "\u0414\u043e\u043e\u0440 \u0410\u0432\u0441\u0442\u0440\u0438"
@@ -294,6 +309,9 @@
     "name:slv_x_preferred":[
         "Spodnja Avstrija"
     ],
+    "name:snd_x_preferred":[
+        "\u0644\u0648\u0626\u0631 \u0622\u0633\u067d\u0631\u064a\u0627"
+    ],
     "name:spa_x_preferred":[
         "Baja Austria"
     ],
@@ -318,6 +336,9 @@
     "name:tgk_x_preferred":[
         "\u0418\u0451\u043b\u0430\u0442\u0438 \u0410\u0432\u0441\u0442\u0440\u0438\u044f\u0438 \u043f\u043e\u0451\u043d\u04e3"
     ],
+    "name:tgk_x_variant":[
+        "\u0423\u0442\u0440\u0438\u0448\u0438 \u041f\u043e\u0451\u043d\u04e3"
+    ],
     "name:tgl_x_preferred":[
         "Mababang Austria"
     ],
@@ -325,7 +346,8 @@
         "\u0e23\u0e31\u0e10\u0e42\u0e25\u0e27\u0e4c\u0e40\u0e2d\u0e2d\u0e23\u0e4c\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22"
     ],
     "name:tha_x_variant":[
-        "\u0e23\u0e31\u0e10\u0e42\u0e25\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22"
+        "\u0e23\u0e31\u0e10\u0e42\u0e25\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22",
+        "\u0e23\u0e31\u0e10\u0e19\u0e35\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e40\u0e2d\u0e34\u0e2a\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e44\u0e23\u0e0a\u0e4c"
     ],
     "name:tuk_x_preferred":[
         "A\u015faky Awstri\u00fda"
@@ -348,8 +370,17 @@
     "name:vie_x_preferred":[
         "Nieder\u00f6sterreich"
     ],
+    "name:vls_x_preferred":[
+        "Neder-\u00d4ostnryk"
+    ],
     "name:war_x_preferred":[
         "Uruubos nga Austria"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e0b\u5965\u5730\u5229\u5dde"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d7\u10e3\u10d3\u10dd\u10da\u10d4\u10dc\u10d8 \u10d0\u10d5\u10e1\u10e2\u10e0\u10d8\u10d0"
     ],
     "name:yue_x_preferred":[
         "\u4e0b\u5967\u5730\u5229"
@@ -466,7 +497,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"84b536639afc1d8dc87c601ba2935b27",
+    "wof:geomhash":"c8fe0aeb078e1ff4702067e961813edf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -484,7 +515,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1684351389,
+    "wof:lastmodified":1690850918,
     "wof:name":"Nieder\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

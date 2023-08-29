@@ -19,14 +19,21 @@
     "name:deu_x_preferred":[
         "Pinkafeld Airport"
     ],
+    "name:deu_x_variant":[
+        "Flugplatz Pinkafeld"
+    ],
     "name:eng_x_preferred":[
         "Pinkafeld Airport"
     ],
     "name:eng_x_variant":[
-        "LOGP"
+        "LOGP",
+        "Pinkafeld airfield"
     ],
     "name:hun_x_preferred":[
         "Pinkaf\u0151i rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:pol_x_preferred":[
+        "Lotnisko Pinkafeld"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Pinkafeld"
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":102556337,
-    "wof:lastmodified":1631755601,
+    "wof:lastmodified":1690850854,
     "wof:name":"Sportflugplatz Pinkafeld",
     "wof:parent_id":85681651,
     "wof:placetype":"campus",

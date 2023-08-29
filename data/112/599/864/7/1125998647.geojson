@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.955281,46.7268005,15.955281,46.7268005",
+    "geom:bbox":"15.955281,46.726801,15.955281,46.726801",
     "geom:latitude":46.726801,
     "geom:longitude":15.955281,
     "gn:country":null,
@@ -23,11 +23,17 @@
     "name:bos_x_preferred":[
         "Halbenrain"
     ],
+    "name:cat_x_preferred":[
+        "Halbenrain"
+    ],
     "name:ceb_x_preferred":[
         "Halbenrain"
     ],
     "name:ces_x_preferred":[
         "Halbenrain"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u043b\u044c\u0431\u0435\u043d\u0440\u0430\u0439\u043d"
     ],
     "name:deu_x_preferred":[
         "Halbenrain"
@@ -36,6 +42,9 @@
         "Halbenrain"
     ],
     "name:epo_x_preferred":[
+        "Halbenrain"
+    ],
+    "name:est_x_preferred":[
         "Halbenrain"
     ],
     "name:fas_x_preferred":[
@@ -53,10 +62,19 @@
     "name:kaz_x_preferred":[
         "\u0425\u0430\u043b\u044c\u0431\u0435\u043d\u0440\u0430\u0439\u043d"
     ],
+    "name:lld_x_preferred":[
+        "Halbenrain"
+    ],
     "name:nld_x_preferred":[
         "Halbenrain"
     ],
+    "name:nob_x_preferred":[
+        "Halbenrain"
+    ],
     "name:pol_x_preferred":[
+        "Halbenrain"
+    ],
+    "name:por_x_preferred":[
         "Halbenrain"
     ],
     "name:rus_x_preferred":[
@@ -71,10 +89,16 @@
     "name:swe_x_preferred":[
         "Halbenrain"
     ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u043b\u044c\u0431\u0435\u043d\u0440\u0430\u0439\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u044c\u0431\u0435\u043d\u0440\u0430\u0439\u043d"
     ],
     "name:uzb_x_preferred":[
+        "Halbenrain"
+    ],
+    "name:vec_x_preferred":[
         "Halbenrain"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +151,7 @@
     },
     "wof:country":"AT",
     "wof:created":1497299512,
-    "wof:geomhash":"d0074ed61adfefaf5d5c9ff4aeedee95",
+    "wof:geomhash":"80acce37c9985522bd4e7c5e7cf4245b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +163,7 @@
         }
     ],
     "wof:id":1125998647,
-    "wof:lastmodified":1566599413,
+    "wof:lastmodified":1690851265,
     "wof:name":"Halbenrain",
     "wof:parent_id":1108838805,
     "wof:placetype":"locality",
@@ -150,9 +174,9 @@
 },
   "bbox": [
     15.955281,
-    46.7268005,
+    46.726801,
     15.955281,
-    46.7268005
+    46.726801
 ],
-  "geometry": {"coordinates":[15.955281,46.7268005],"type":"Point"}
+  "geometry": {"coordinates":[15.955281,46.726801],"type":"Point"}
 }

@@ -26,6 +26,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0628\u0648\u0644\u062a\u0646"
     ],
+    "name:arg_x_preferred":[
+        "Sankt P\u00f6lten"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0628\u0648\u0644\u062a\u0646"
+    ],
     "name:ast_x_preferred":[
         "Sankt P\u00f6lten"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:aze_x_preferred":[
         "Sankt-Pyolten"
+    ],
+    "name:ban_x_preferred":[
+        "Sankt P\u00f6lten"
     ],
     "name:bar_x_preferred":[
         "St. P\u00f6tn"
@@ -74,6 +83,9 @@
     "name:ell_x_preferred":[
         "\u0396\u03b1\u03bd\u03ba\u03c4 \u03a0\u03ad\u03bb\u03c4\u03b5\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bd\u03ba\u03c4 \u03a0\u03ad\u03bb\u03c4\u03b5\u03bd"
+    ],
     "name:eng_x_preferred":[
         "St. P\u00f6lten"
     ],
@@ -96,6 +108,12 @@
         "Sankt P\u00f6lten"
     ],
     "name:fra_x_preferred":[
+        "Sankt P\u00f6lten"
+    ],
+    "name:frr_x_preferred":[
+        "Sankt P\u00f6lten"
+    ],
+    "name:fry_x_preferred":[
         "Sankt P\u00f6lten"
     ],
     "name:gle_x_preferred":[
@@ -149,8 +167,14 @@
     "name:lit_x_preferred":[
         "Sankt Peltenas"
     ],
+    "name:lld_x_preferred":[
+        "Sankt P\u00f6lten"
+    ],
     "name:mar_x_preferred":[
         "\u091c\u093e\u0902\u0915\u094d\u091f \u092a\u094d\u092f\u094b\u0932\u094d\u091f\u0928"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041f\u0451\u043b\u044c\u0442\u044d\u043d"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442 \u041f\u0435\u043b\u0442\u0435\u043d"
@@ -185,6 +209,9 @@
     "name:pol_x_preferred":[
         "Sankt P\u00f6lten"
     ],
+    "name:pol_x_variant":[
+        "St. P\u00f6lten"
+    ],
     "name:por_x_preferred":[
         "Sankt P\u00f6lten"
     ],
@@ -203,7 +230,13 @@
     "name:slv_x_preferred":[
         "St. P\u00f6lten"
     ],
+    "name:snd_x_preferred":[
+        "\u0633\u0646\u06aa\u067d \u067e\u0648\u0644\u067d\u0646"
+    ],
     "name:spa_x_preferred":[
+        "Sankt P\u00f6lten"
+    ],
+    "name:sqi_x_preferred":[
         "Sankt P\u00f6lten"
     ],
     "name:srd_x_preferred":[
@@ -247,6 +280,12 @@
     ],
     "name:war_x_preferred":[
         "Sankt P\u00f6lten"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u73c0\u5c14\u6ed5"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e5\u10e2-\u10de\u10d4\u10da\u10e2\u10d4\u10dc\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05d0\u05e0\u05e7\u05d8 \u05e4\u05e2\u05dc\u05d8\u05df"
@@ -310,7 +349,7 @@
         }
     ],
     "wof:id":1126031533,
-    "wof:lastmodified":1566599301,
+    "wof:lastmodified":1690851239,
     "wof:name":"St. P\u00f6lten",
     "wof:parent_id":1108836803,
     "wof:placetype":"locality",
