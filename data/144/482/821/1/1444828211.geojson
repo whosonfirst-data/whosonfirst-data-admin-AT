@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.0291335043,47.8319632293,13.0291335043,47.8319632293",
+    "geom:bbox":"13.02913350434043,47.83196322925217,13.02913350434043,47.83196322925217",
     "geom:latitude":47.831963,
     "geom:longitude":13.029134,
     "iso:country":"AT",
@@ -24,19 +24,25 @@
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
+        "Hagenau"
+    ],
+    "name:deu_x_variant":[
         "Haganau"
     ],
     "name:eng_x_preferred":[
+        "Hagenau"
+    ],
+    "name:eng_x_variant":[
         "Haganau"
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        1108837189,
         85632785,
-        1175610443,
         102049799,
+        1108837189,
+        1175610443,
         85681681
     ],
     "wof:breaches":[],
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":1444828211,
-    "wof:lastmodified":1566597989,
-    "wof:name":"Haganau",
+    "wof:lastmodified":1694208391,
+    "wof:name":"Hagenau",
     "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
