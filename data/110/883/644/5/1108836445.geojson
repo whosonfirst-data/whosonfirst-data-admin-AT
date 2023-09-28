@@ -29,6 +29,12 @@
     "geom:latitude":47.834049,
     "geom:longitude":13.414641,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.835591,
     "lbl:longitude":13.411892,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41712",
         "eg:gisco_id":"AT_41712",
         "eurostat:nuts_2021_id":"41712"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046872,
     "wof:geomhash":"1f63dbad213a51eb288a82865d4661fb",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108836445,
-    "wof:lastmodified":1684351563,
+    "wof:lastmodified":1695876921,
     "wof:name":"Innerschwand am Mondsee",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

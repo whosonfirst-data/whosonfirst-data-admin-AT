@@ -29,6 +29,12 @@
     "geom:latitude":48.149872,
     "geom:longitude":16.951048,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.151909,
     "lbl:longitude":16.950311,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30710",
         "eg:gisco_id":"AT_30710",
         "eurostat:nuts_2021_id":"30710"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046780,
     "wof:geomhash":"4de590bf40fa5bf8924a70faf8d5976c",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835779,
-    "wof:lastmodified":1684351542,
+    "wof:lastmodified":1695876880,
     "wof:name":"Hainburg a. d. Donau",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

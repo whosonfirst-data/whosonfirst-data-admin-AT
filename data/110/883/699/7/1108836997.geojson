@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.25163,
     "lbl:longitude":13.084396,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50405",
         "eg:gisco_id":"AT_50405",
         "eurostat:nuts_2021_id":"50405",
         "gn:id":2780798,
@@ -144,6 +151,7 @@
         "gn:id":7872221,
         "qs_pg:id":1042085
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046941,
     "wof:geomhash":"cdb8ca9f360461e484443260501cfff8",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836997,
-    "wof:lastmodified":1684351578,
+    "wof:lastmodified":1695876954,
     "wof:name":"Dorfgastein",
     "wof:parent_id":102049753,
     "wof:placetype":"localadmin",

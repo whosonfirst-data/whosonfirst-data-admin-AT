@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2069,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.318392,
     "lbl:longitude":16.27271,
     "lbl:max_zoom":16.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10923",
         "eg:gisco_id":"AT_10923",
         "eurostat:nuts_2021_id":"10923",
         "gn:id":7872748,
         "qs_pg:id":108684
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047166,
     "wof:geomhash":"00a5c82dc921d72b21b347fe3fe8dc0d",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108838773,
-    "wof:lastmodified":1684351627,
+    "wof:lastmodified":1695877058,
     "wof:name":"Stadtschlaining",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

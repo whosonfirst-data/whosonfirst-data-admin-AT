@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1188,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.191165,
     "lbl:longitude":16.765179,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30825",
         "eg:gisco_id":"AT_30825",
         "eurostat:nuts_2021_id":"30825",
         "gn:id":7871734,
@@ -144,6 +151,7 @@
         "gn:id":2776864,
         "qs_pg:id":75561
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046731,
     "wof:geomhash":"31f2e4566a48ee8953e3ae991eb92d17",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835385,
-    "wof:lastmodified":1684351530,
+    "wof:lastmodified":1695876855,
     "wof:name":"Haringsee",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

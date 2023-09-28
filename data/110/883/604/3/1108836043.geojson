@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1491,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.566672,
     "lbl:longitude":13.522974,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41410",
         "eg:gisco_id":"AT_41410",
         "eurostat:nuts_2021_id":"41410",
         "gn:id":7872127,
         "qs_pg:id":108504
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046815,
     "wof:geomhash":"3794f44af7ad1029168964abdacda725",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108836043,
-    "wof:lastmodified":1684351550,
+    "wof:lastmodified":1695876896,
     "wof:name":"Freinberg",
     "wof:parent_id":102049877,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.367523,
     "lbl:longitude":14.999449,
     "lbl:max_zoom":16.0,
@@ -116,6 +122,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61116",
         "eg:gisco_id":"AT_61116",
         "eurostat:nuts_2021_id":"61116",
         "gn:id":2763488,
@@ -126,6 +133,7 @@
         "gn:id":7873487,
         "qs_pg:id":381203
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047194,
     "wof:geomhash":"9972c02b3a75a5b4970cc0c83522a848",
@@ -139,7 +147,7 @@
         }
     ],
     "wof:id":1108838991,
-    "wof:lastmodified":1684351634,
+    "wof:lastmodified":1695877072,
     "wof:name":"Traboch",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",

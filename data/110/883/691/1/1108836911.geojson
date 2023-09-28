@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2993,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.9686,
     "lbl:longitude":16.059879,
     "lbl:max_zoom":15.0,
@@ -101,6 +107,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30627",
         "eg:gisco_id":"AT_30627",
         "eurostat:nuts_2021_id":"30627",
         "gn:id":7871714,
@@ -111,6 +118,7 @@
         "gn:id":2768468,
         "qs_pg:id":1019114
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046928,
     "wof:geomhash":"d141f4d2bf8eb8466d28045f46692aa7",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108836911,
-    "wof:lastmodified":1684351576,
+    "wof:lastmodified":1695876949,
     "wof:name":"Pottenstein",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

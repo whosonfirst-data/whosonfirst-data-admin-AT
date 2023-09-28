@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.735886,
     "lbl:longitude":15.62699,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31117",
         "eg:gisco_id":"AT_31117",
         "eurostat:nuts_2021_id":"31117",
         "gn:id":2769078,
@@ -144,6 +151,7 @@
         "gn:id":7871779,
         "qs_pg:id":108366
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046798,
     "wof:geomhash":"0419186c90a4e5b3f041a5f3e187ef6a",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835925,
-    "wof:lastmodified":1684351546,
+    "wof:lastmodified":1695876887,
     "wof:name":"Pernegg",
     "wof:parent_id":102049901,
     "wof:placetype":"localadmin",

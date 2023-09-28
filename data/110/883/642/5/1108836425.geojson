@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":9019,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.010443,
     "lbl:longitude":13.713227,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41703",
         "eg:gisco_id":"AT_41703",
         "eurostat:nuts_2021_id":"41703",
         "gn:id":7873252,
@@ -144,6 +151,7 @@
         "gn:id":3233832,
         "qs_pg:id":1107698
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046869,
     "wof:geomhash":"d01ac9d0c318621bb3b0d698636f8f24",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836425,
-    "wof:lastmodified":1684351562,
+    "wof:lastmodified":1695876919,
     "wof:name":"Attnang-Puchheim",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1005,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.150817,
     "lbl:longitude":14.168132,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41001",
         "eg:gisco_id":"AT_41001",
         "eurostat:nuts_2021_id":"41001",
         "gn:id":7872048,
@@ -140,6 +147,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1316412
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046747,
     "wof:geomhash":"b2fb810eabeaeca99e5a675277a8ddf1",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108835517,
-    "wof:lastmodified":1684351534,
+    "wof:lastmodified":1695876863,
     "wof:name":"Allhaming",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

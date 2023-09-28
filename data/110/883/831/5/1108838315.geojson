@@ -29,6 +29,12 @@
     "geom:latitude":46.934523,
     "geom:longitude":13.661754,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.938249,
     "lbl:longitude":13.664297,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20642",
         "eg:gisco_id":"AT_20642",
         "eurostat:nuts_2021_id":"20642"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047113,
     "wof:geomhash":"0e29991b7f53e81f2d03ebf976dbf1e8",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838315,
-    "wof:lastmodified":1684351615,
+    "wof:lastmodified":1695877032,
     "wof:name":"Krems In K\u00e4rnten",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

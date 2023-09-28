@@ -29,6 +29,12 @@
     "geom:latitude":46.771421,
     "geom:longitude":15.669708,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.785016,
     "lbl:longitude":15.655237,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61056",
         "eg:gisco_id":"AT_61060",
         "eurostat:nuts_2021_id":"61060"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047198,
     "wof:geomhash":"004dbf15ec1a25adff1aac417fef7ad5",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839027,
-    "wof:lastmodified":1684351635,
+    "wof:lastmodified":1695877074,
     "wof:name":"St. Veit",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

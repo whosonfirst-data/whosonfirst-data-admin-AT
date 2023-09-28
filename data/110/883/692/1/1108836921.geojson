@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.082769,
     "lbl:longitude":16.386888,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31701",
         "eg:gisco_id":"AT_31701",
         "eurostat:nuts_2021_id":"31701",
         "gn:id":2783040,
@@ -144,6 +151,7 @@
         "gn:id":7871849,
         "qs_pg:id":904286
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046929,
     "wof:geomhash":"505d6d48f826aa43e5451f5f4007593e",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836921,
-    "wof:lastmodified":1684351576,
+    "wof:lastmodified":1695876950,
     "wof:name":"Achau",
     "wof:parent_id":102049837,
     "wof:placetype":"localadmin",

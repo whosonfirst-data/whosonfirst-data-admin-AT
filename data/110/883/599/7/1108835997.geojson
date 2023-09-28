@@ -29,6 +29,12 @@
     "geom:latitude":48.494985,
     "geom:longitude":14.131511,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.494954,
     "lbl:longitude":14.131527,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41331",
         "eg:gisco_id":"AT_41331",
         "eurostat:nuts_2021_id":"41331"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046808,
     "wof:geomhash":"3bf34505766427b0cdb4b2ebf2a93f05",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835997,
-    "wof:lastmodified":1684351548,
+    "wof:lastmodified":1695876892,
     "wof:name":"St. Johann am Wimberg",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

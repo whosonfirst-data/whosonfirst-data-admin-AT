@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":854,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.625068,
     "lbl:longitude":16.833283,
     "lbl:max_zoom":17.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31620",
         "eg:gisco_id":"AT_31620",
         "eurostat:nuts_2021_id":"31620",
         "gn:id":7872960,
         "qs_pg:id":743458
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046896,
     "wof:geomhash":"74e693ee44b626152076922add92ba37",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108836647,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876934,
     "wof:name":"Hausbrunn",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

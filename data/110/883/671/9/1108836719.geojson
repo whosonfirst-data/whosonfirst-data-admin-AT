@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3106,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.115959,
     "lbl:longitude":15.109983,
     "lbl:max_zoom":15.0,
@@ -149,6 +155,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32017",
         "eg:gisco_id":"AT_32017",
         "eurostat:nuts_2021_id":"32017",
         "gn:id":7871906,
@@ -159,6 +166,7 @@
         "gn:id":2761314,
         "qs_pg:id":26339
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046905,
     "wof:geomhash":"ec3f1e37068c9acd2655abde5d9f8b34",
@@ -172,7 +180,7 @@
         }
     ],
     "wof:id":1108836719,
-    "wof:lastmodified":1684351570,
+    "wof:lastmodified":1695876938,
     "wof:name":"Wieselburg-Land",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",

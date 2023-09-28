@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2111,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.032008,
     "lbl:longitude":15.974942,
     "lbl:max_zoom":15.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30602",
         "eg:gisco_id":"AT_30602",
         "eurostat:nuts_2021_id":"30602",
         "gn:id":7871702,
         "qs_pg:id":1041953
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046915,
     "wof:geomhash":"42c90f306aa297747de83b30c17463c9",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108836807,
-    "wof:lastmodified":1684351573,
+    "wof:lastmodified":1695876943,
     "wof:name":"Altenmarkt an der Triesting",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

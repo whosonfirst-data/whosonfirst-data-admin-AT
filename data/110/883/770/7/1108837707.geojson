@@ -29,6 +29,12 @@
     "geom:latitude":47.139182,
     "geom:longitude":11.702075,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.131885,
     "lbl:longitude":11.700959,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70934",
         "eg:gisco_id":"AT_70934",
         "eurostat:nuts_2021_id":"70934"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047034,
     "wof:geomhash":"6aa8715f5b0333eb6ef84e0405142b59",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108837707,
-    "wof:lastmodified":1684351597,
+    "wof:lastmodified":1695876995,
     "wof:name":"Tux",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",

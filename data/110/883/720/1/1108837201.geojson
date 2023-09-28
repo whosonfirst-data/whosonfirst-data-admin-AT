@@ -29,6 +29,12 @@
     "geom:latitude":47.181012,
     "geom:longitude":12.813748,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.192827,
     "lbl:longitude":12.813734,
     "lbl:max_zoom":18.0,
@@ -96,9 +102,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50604",
         "eg:gisco_id":"AT_50604",
         "eurostat:nuts_2021_id":"50604"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046968,
     "wof:geomhash":"96f944e5b3939f5dac4b1e7e546119b0",
@@ -112,7 +120,7 @@
         }
     ],
     "wof:id":1108837201,
-    "wof:lastmodified":1684351585,
+    "wof:lastmodified":1695876969,
     "wof:name":"Fusch an der Gro\u00dfglocknerstra\u00dfe",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

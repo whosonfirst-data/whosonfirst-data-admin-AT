@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2563,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.003129,
     "lbl:longitude":15.916673,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62386",
         "eg:gisco_id":"AT_62386",
         "eurostat:nuts_2021_id":"62386",
         "gn:id":7872309,
@@ -147,6 +154,7 @@
         "gn:id":2767443,
         "qs_pg:id":223822
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047225,
     "wof:geomhash":"0161057e4256dc3ba9b12ecf5188415c",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108839241,
-    "wof:lastmodified":1684351641,
+    "wof:lastmodified":1695877087,
     "wof:name":"Riegersburg",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

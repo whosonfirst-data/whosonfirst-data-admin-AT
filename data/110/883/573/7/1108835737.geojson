@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":8606,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.195017,
     "lbl:longitude":16.17017,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32416",
         "eg:gisco_id":"AT_31952",
         "eurostat:nuts_2021_id":"31952",
         "gn:id":7873075,
@@ -150,6 +157,7 @@
         "gn:id":2768232,
         "qs_pg:id":956026
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046775,
     "wof:geomhash":"bb88674172e20af201f6005d6929784e",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108835737,
-    "wof:lastmodified":1684351541,
+    "wof:lastmodified":1695876877,
     "wof:name":"Purkersdorf",
     "wof:parent_id":102049867,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":7460,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.204704,
     "lbl:longitude":15.874644,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31926",
         "eg:gisco_id":"AT_31926",
         "eurostat:nuts_2021_id":"31926",
         "gn:id":7871889,
@@ -153,6 +160,7 @@
         "gn:id":2770730,
         "qs_pg:id":37558
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046668,
     "wof:geomhash":"195b86e39c215a2d1d5e87276bdf94cd",
@@ -166,7 +174,7 @@
         }
     ],
     "wof:id":1108834967,
-    "wof:lastmodified":1684351516,
+    "wof:lastmodified":1695876828,
     "wof:name":"Neulengbach",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":20556,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.42533,
     "lbl:longitude":9.672891,
     "lbl:max_zoom":14.0,
@@ -185,6 +191,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80303",
         "eg:gisco_id":"AT_80303",
         "eurostat:nuts_2021_id":"80303",
         "gn:id":7872674,
@@ -195,6 +202,7 @@
         "gn:id":2772173,
         "qs_pg:id":529321
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047068,
     "wof:geomhash":"04bf5ec4351a822dafe204b7000fa1af",
@@ -208,7 +216,7 @@
         }
     ],
     "wof:id":1108838001,
-    "wof:lastmodified":1684351604,
+    "wof:lastmodified":1695877010,
     "wof:name":"Lustenau",
     "wof:parent_id":102049737,
     "wof:placetype":"localadmin",

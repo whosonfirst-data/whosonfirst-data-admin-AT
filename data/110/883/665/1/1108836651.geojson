@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3627,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.056545,
     "lbl:longitude":16.524971,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32401",
         "eg:gisco_id":"AT_30729",
         "eurostat:nuts_2021_id":"30729",
         "gn:id":7873068,
         "qs_pg:id":1155412
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046896,
     "wof:geomhash":"a6e57a08cfd98d4e54c51ec252771b94",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836651,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876934,
     "wof:name":"Ebergassing",
     "wof:parent_id":102049843,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":689,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.105725,
     "lbl:longitude":17.034941,
     "lbl:max_zoom":17.0,
@@ -167,6 +173,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30703",
         "eg:gisco_id":"AT_30703",
         "eurostat:nuts_2021_id":"30703",
         "gn:id":7872848,
@@ -177,6 +184,7 @@
         "gn:id":2781897,
         "qs_pg:id":1013989
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046846,
     "wof:geomhash":"dde2610f5b5478b73d4b91badb581781",
@@ -190,7 +198,7 @@
         }
     ],
     "wof:id":1108836295,
-    "wof:lastmodified":1684351559,
+    "wof:lastmodified":1695876911,
     "wof:name":"Berg",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

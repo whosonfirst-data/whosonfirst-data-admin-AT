@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1373,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.250856,
     "lbl:longitude":16.101762,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10928",
         "eg:gisco_id":"AT_10928",
         "eurostat:nuts_2021_id":"10928",
         "gn:id":7872752,
         "qs_pg:id":381048
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047158,
     "wof:geomhash":"f000d0aff3854c8ddae01da7f7970a6b",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838707,
-    "wof:lastmodified":1684351625,
+    "wof:lastmodified":1695877054,
     "wof:name":"Wolfau",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

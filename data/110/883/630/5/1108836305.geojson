@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1883,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.297019,
     "lbl:longitude":16.157405,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32116",
         "eg:gisco_id":"AT_32116",
         "eurostat:nuts_2021_id":"32116",
         "gn:id":7871914,
         "qs_pg:id":1245708
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046847,
     "wof:geomhash":"e87aa57e2c32bfbbaf6c9db47026ac62",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836305,
-    "wof:lastmodified":1684351559,
+    "wof:lastmodified":1695876912,
     "wof:name":"K\u00f6nigstetten",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",

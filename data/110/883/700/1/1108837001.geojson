@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2130,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.433248,
     "lbl:longitude":13.422501,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50406",
         "eg:gisco_id":"AT_50406",
         "eurostat:nuts_2021_id":"50406",
         "gn:id":7872222,
@@ -140,6 +147,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":419486
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046941,
     "wof:geomhash":"0d2b71c695ee63c94e43002be9afc541",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108837001,
-    "wof:lastmodified":1684351578,
+    "wof:lastmodified":1695876954,
     "wof:name":"Eben im Pongau",
     "wof:parent_id":102049753,
     "wof:placetype":"localadmin",

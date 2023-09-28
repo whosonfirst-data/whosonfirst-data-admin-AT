@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":747,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.236514,
     "lbl:longitude":16.274015,
     "lbl:max_zoom":17.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10930",
         "eg:gisco_id":"AT_10930",
         "eurostat:nuts_2021_id":"10930",
         "gn:id":7871627,
         "qs_pg:id":1155018
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047123,
     "wof:geomhash":"02d14598b0e925bbc88e19a09b3cc07a",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108838407,
-    "wof:lastmodified":1684351618,
+    "wof:lastmodified":1695877038,
     "wof:name":"Jabing",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.069666,
     "lbl:longitude":16.84985,
     "lbl:max_zoom":16.0,
@@ -92,6 +98,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30721",
         "eg:gisco_id":"AT_30721",
         "eurostat:nuts_2021_id":"30721",
         "gn:id":2767301,
@@ -102,6 +109,7 @@
         "gn:id":7872853,
         "qs_pg:id":743437
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046848,
     "wof:geomhash":"53471545fe42c1b44971e667e55e7617",
@@ -115,7 +123,7 @@
         }
     ],
     "wof:id":1108836309,
-    "wof:lastmodified":1684351559,
+    "wof:lastmodified":1695876912,
     "wof:name":"Rohrau",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

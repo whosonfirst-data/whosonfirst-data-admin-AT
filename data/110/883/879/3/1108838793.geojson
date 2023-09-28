@@ -29,6 +29,12 @@
     "geom:latitude":47.075286,
     "geom:longitude":14.292977,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.068352,
     "lbl:longitude":14.294139,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61443",
         "eg:gisco_id":"AT_61443",
         "eurostat:nuts_2021_id":"61443"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047169,
     "wof:geomhash":"838c11ee3dacc2ffadebfa1ed74eca7b",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838793,
-    "wof:lastmodified":1684351627,
+    "wof:lastmodified":1695877059,
     "wof:name":"St. Lambrecht",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",

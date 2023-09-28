@@ -29,6 +29,12 @@
     "geom:latitude":47.450741,
     "geom:longitude":15.533421,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.449601,
     "lbl:longitude":15.532108,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62132",
         "eg:gisco_id":"AT_62132",
         "eurostat:nuts_2021_id":"62132"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047175,
     "wof:geomhash":"758bfb756c09e37d7e76b0b00a25abf7",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838839,
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1695877063,
     "wof:name":"Stanz",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

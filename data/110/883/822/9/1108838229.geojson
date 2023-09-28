@@ -29,6 +29,12 @@
     "geom:latitude":46.52516,
     "geom:longitude":14.414887,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.523866,
     "lbl:longitude":14.4159,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20428",
         "eg:gisco_id":"AT_20428",
         "eurostat:nuts_2021_id":"20428"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047098,
     "wof:geomhash":"5532a80a7798d67d1b866e30a6dd0cd3",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838229,
-    "wof:lastmodified":1684351612,
+    "wof:lastmodified":1695877026,
     "wof:name":"Sankt Margareten Im Rosental",
     "wof:parent_id":102049681,
     "wof:placetype":"localadmin",

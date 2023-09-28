@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5754,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.802509,
     "lbl:longitude":15.073106,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30935",
         "eg:gisco_id":"AT_30935",
         "eurostat:nuts_2021_id":"30935",
         "gn:id":7871760,
@@ -147,6 +154,7 @@
         "gn:id":2765602,
         "qs_pg:id":535772
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046918,
     "wof:geomhash":"0f25f2d638530b3091880f7ce9a0aa24",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108836821,
-    "wof:lastmodified":1684351573,
+    "wof:lastmodified":1695876944,
     "wof:name":"Schrems",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",

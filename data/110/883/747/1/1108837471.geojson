@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1262,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.223842,
     "lbl:longitude":11.30314,
     "lbl:max_zoom":16.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70306",
         "eg:gisco_id":"AT_70306",
         "eurostat:nuts_2021_id":"70306",
         "gn:id":7873602,
         "gp:id":20074644,
         "qs_pg:id":334681
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047004,
     "wof:geomhash":"a03f0e1386a2f6d75eacfe560be85853",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837471,
-    "wof:lastmodified":1684351592,
+    "wof:lastmodified":1695876984,
     "wof:name":"Birgitz",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

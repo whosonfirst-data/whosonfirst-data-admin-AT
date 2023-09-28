@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1220,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.512219,
     "lbl:longitude":15.729477,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61741",
         "eg:gisco_id":"AT_61741",
         "eurostat:nuts_2021_id":"61741",
         "gn:id":7872518,
         "qs_pg:id":1155294
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047251,
     "wof:geomhash":"68fb22d71a5354ac663203af0c772e7f",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108839387,
-    "wof:lastmodified":1684351647,
+    "wof:lastmodified":1695877097,
     "wof:name":"Ratten",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

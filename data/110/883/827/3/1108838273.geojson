@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1758,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.838621,
     "lbl:longitude":13.436974,
     "lbl:max_zoom":16.0,
@@ -113,11 +119,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20616",
         "eg:gisco_id":"AT_20616",
         "eurostat:nuts_2021_id":"20616",
         "gn:id":7872783,
         "qs_pg:id":381052
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047103,
     "wof:geomhash":"ea52cbd867382d12433c1b6f59496bf2",
@@ -131,7 +139,7 @@
         }
     ],
     "wof:id":1108838273,
-    "wof:lastmodified":1684351614,
+    "wof:lastmodified":1695877029,
     "wof:name":"Lendorf",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1352,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.780909,
     "lbl:longitude":16.926958,
     "lbl:max_zoom":16.0,
@@ -110,11 +116,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10719",
         "eg:gisco_id":"AT_10719",
         "eurostat:nuts_2021_id":"10719",
         "gn:id":7872722,
         "qs_pg:id":108678
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047141,
     "wof:geomhash":"45eb045efd61759bf43c4bf580175ea1",
@@ -128,7 +136,7 @@
         }
     ],
     "wof:id":1108838569,
-    "wof:lastmodified":1684351622,
+    "wof:lastmodified":1695877047,
     "wof:name":"Sankt Andr\u00e4 am Zicksee",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

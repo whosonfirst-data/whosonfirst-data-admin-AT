@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3278,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.403326,
     "lbl:longitude":16.821002,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30803",
         "eg:gisco_id":"AT_30803",
         "eurostat:nuts_2021_id":"30803",
         "gn:id":7871727,
@@ -147,6 +154,7 @@
         "gn:id":2782511,
         "qs_pg:id":1195576
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046662,
     "wof:geomhash":"32b74016216a9ceb59875dbdc6a4811c",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108834917,
-    "wof:lastmodified":1684351514,
+    "wof:lastmodified":1695876825,
     "wof:name":"Angern an der March",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

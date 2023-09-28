@@ -30,6 +30,12 @@
     "geom:longitude":16.701624,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.91634,
     "lbl:longitude":16.695996,
     "lbl:max_zoom":18.0,
@@ -66,11 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10312",
         "eg:gisco_id":"AT_10312",
         "eurostat:nuts_2021_id":"10312",
         "gp:id":12673496,
         "qs_pg:id":1096928
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047165,
     "wof:geomhash":"bd9aad2e9575bc51cf84ccfc3fdad803",
@@ -84,7 +92,7 @@
         }
     ],
     "wof:id":1108838761,
-    "wof:lastmodified":1684351627,
+    "wof:lastmodified":1695877058,
     "wof:name":"Purbach am Neusiedler See",
     "wof:parent_id":102049811,
     "wof:placetype":"localadmin",

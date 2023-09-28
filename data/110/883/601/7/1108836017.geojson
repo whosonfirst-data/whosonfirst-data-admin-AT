@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001244,
-    "geom:area_square_m":10176215.886852,
+    "geom:area_square_m":10176215.886859,
     "geom:bbox":"14.1566227621,48.5432261429,14.2216474694,48.5939124703",
     "geom:latitude":48.572438,
     "geom:longitude":14.178143,
@@ -20,6 +20,12 @@
     "gn:fcode":"ADM3",
     "gn:population":538,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.565538,
     "lbl:longitude":14.17055,
     "lbl:max_zoom":17.0,
@@ -67,12 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41340",
         "gn:id":7873207,
         "qs_pg:id":108860
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046811,
-    "wof:geomhash":"239c61096e849f9ac0c78f7ffed140bf",
+    "wof:geomhash":"de7d8a08bc1e0c83bbc1de6d12163160",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +91,7 @@
         }
     ],
     "wof:id":1108836017,
-    "wof:lastmodified":1566598660,
+    "wof:lastmodified":1695876810,
     "wof:name":"Sch\u00f6negg",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

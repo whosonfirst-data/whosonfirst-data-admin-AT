@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":693,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.312159,
     "lbl:longitude":10.481607,
     "lbl:max_zoom":17.0,
@@ -138,12 +144,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70813",
         "eg:gisco_id":"AT_70813",
         "eurostat:nuts_2021_id":"70813",
         "gn:id":7872616,
         "gp:id":12675476,
         "qs_pg:id":257720
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047037,
     "wof:geomhash":"46ee6b7dcd30a4cd8f76046dfdbebeb5",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108837733,
-    "wof:lastmodified":1684351598,
+    "wof:lastmodified":1695876997,
     "wof:name":"H\u00e4selgehr",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

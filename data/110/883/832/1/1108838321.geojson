@@ -29,6 +29,12 @@
     "geom:latitude":46.738855,
     "geom:longitude":13.779773,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.736698,
     "lbl:longitude":13.791109,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20701",
         "eg:gisco_id":"AT_20701",
         "eurostat:nuts_2021_id":"20701"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047113,
     "wof:geomhash":"a2bb00b65717f4292f90f3fd37ff291c",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838321,
-    "wof:lastmodified":1684351615,
+    "wof:lastmodified":1695877032,
     "wof:name":"Afritz",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",

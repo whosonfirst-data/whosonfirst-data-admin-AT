@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1315,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.542611,
     "lbl:longitude":12.233693,
     "lbl:max_zoom":16.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70524",
         "eg:gisco_id":"AT_70524",
         "eurostat:nuts_2021_id":"70524",
         "gn:id":7872571,
         "gp:id":12675554,
         "qs_pg:id":247308
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046976,
     "wof:geomhash":"167e127df2d1b448b53dbf61d3f13502",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108837263,
-    "wof:lastmodified":1684351587,
+    "wof:lastmodified":1695876973,
     "wof:name":"Scheffau am Wilden Kaiser",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

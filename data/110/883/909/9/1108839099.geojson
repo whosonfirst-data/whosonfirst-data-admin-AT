@@ -29,6 +29,12 @@
     "geom:latitude":47.47857,
     "geom:longitude":15.768444,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.48111,
     "lbl:longitude":15.76842,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62242",
         "eg:gisco_id":"AT_62242",
         "eurostat:nuts_2021_id":"62242"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047206,
     "wof:geomhash":"db435a9506714f500b63f2951a2efc05",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839099,
-    "wof:lastmodified":1684351637,
+    "wof:lastmodified":1695877079,
     "wof:name":"St. Jakob",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

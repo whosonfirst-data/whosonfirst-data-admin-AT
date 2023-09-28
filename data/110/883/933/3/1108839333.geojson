@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1652,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.803337,
     "lbl:longitude":15.878367,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62390",
         "eg:gisco_id":"AT_62390",
         "eurostat:nuts_2021_id":"62390",
         "gn:id":7872491,
@@ -144,6 +151,7 @@
         "gn:id":2764222,
         "qs_pg:id":1292634
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047243,
     "wof:geomhash":"5aa6e5a1805ad42f7b25069583ccddd1",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108839333,
-    "wof:lastmodified":1684351645,
+    "wof:lastmodified":1695877094,
     "wof:name":"Straden",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

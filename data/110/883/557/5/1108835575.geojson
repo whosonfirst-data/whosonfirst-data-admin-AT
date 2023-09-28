@@ -29,6 +29,12 @@
     "geom:latitude":48.230642,
     "geom:longitude":14.848257,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.229426,
     "lbl:longitude":14.842017,
     "lbl:max_zoom":18.0,
@@ -72,9 +78,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41105",
         "eg:gisco_id":"AT_41105",
         "eurostat:nuts_2021_id":"41105"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046754,
     "wof:geomhash":"068ac14f7892524ebd47cd6d48944024",
@@ -88,7 +96,7 @@
         }
     ],
     "wof:id":1108835575,
-    "wof:lastmodified":1684351536,
+    "wof:lastmodified":1695876867,
     "wof:name":"Grein",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",

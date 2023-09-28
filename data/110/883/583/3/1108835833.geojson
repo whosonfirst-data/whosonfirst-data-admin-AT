@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6634,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.095412,
     "lbl:longitude":15.609646,
     "lbl:max_zoom":15.0,
@@ -110,6 +116,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31947",
         "eg:gisco_id":"AT_31947",
         "eurostat:nuts_2021_id":"31947",
         "gn:id":7871897,
@@ -120,6 +127,7 @@
         "gn:id":2761186,
         "qs_pg:id":972268
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046786,
     "wof:geomhash":"ab6a5344e2da577a5539b29ef0a2b652",
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":1108835833,
-    "wof:lastmodified":1684351543,
+    "wof:lastmodified":1695876882,
     "wof:name":"Wilhelmsburg",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.367545,
     "geom:longitude":11.966732,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.365763,
     "lbl:longitude":11.961021,
     "lbl:max_zoom":18.0,
@@ -123,9 +129,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70501",
         "eg:gisco_id":"AT_70501",
         "eurostat:nuts_2021_id":"70501"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046995,
     "wof:geomhash":"f7f8a6d04b4fa1c3c10575c07628995e",
@@ -139,7 +147,7 @@
         }
     ],
     "wof:id":1108837383,
-    "wof:lastmodified":1684351590,
+    "wof:lastmodified":1695876980,
     "wof:name":"Alpbach",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

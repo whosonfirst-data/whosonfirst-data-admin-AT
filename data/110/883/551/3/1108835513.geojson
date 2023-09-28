@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2978,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.988895,
     "lbl:longitude":14.092913,
     "lbl:max_zoom":15.0,
@@ -119,6 +125,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40922",
         "eg:gisco_id":"AT_40922",
         "eurostat:nuts_2021_id":"40922",
         "gn:id":7871044,
@@ -128,6 +135,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1168448
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046746,
     "wof:geomhash":"4e7cea3f598aa0a9276def8a6f67effa",
@@ -141,7 +149,7 @@
         }
     ],
     "wof:id":1108835513,
-    "wof:lastmodified":1684351534,
+    "wof:lastmodified":1695876863,
     "wof:name":"Wartberg an der Krems",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

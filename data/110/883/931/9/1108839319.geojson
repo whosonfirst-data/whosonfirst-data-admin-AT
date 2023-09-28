@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":21998,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.463087,
     "lbl:longitude":15.282757,
     "lbl:max_zoom":14.0,
@@ -167,11 +173,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62140",
         "eg:gisco_id":"AT_62140",
         "eurostat:nuts_2021_id":"62140",
         "gn:id":7872257,
         "qs_pg:id":108558
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047241,
     "wof:geomhash":"fb5f9c9a3c313f866d406ae3a405246b",
@@ -185,7 +193,7 @@
         }
     ],
     "wof:id":1108839319,
-    "wof:lastmodified":1684351645,
+    "wof:lastmodified":1695877093,
     "wof:name":"Kapfenberg",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

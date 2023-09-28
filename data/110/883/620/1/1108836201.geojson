@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1340,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.259314,
     "lbl:longitude":15.765437,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31915",
         "eg:gisco_id":"AT_31915",
         "eurostat:nuts_2021_id":"31915",
         "gn:id":7871883,
@@ -144,6 +151,7 @@
         "gn:id":2774776,
         "qs_pg:id":1322797
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046834,
     "wof:geomhash":"94b2255052d01b13bdffb07cc80c701a",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836201,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876906,
     "wof:name":"Kapelln",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

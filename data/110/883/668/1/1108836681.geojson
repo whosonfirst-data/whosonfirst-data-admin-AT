@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":9359,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.342233,
     "lbl:longitude":16.723096,
     "lbl:max_zoom":15.0,
@@ -155,12 +161,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30817",
         "eg:gisco_id":"AT_30817",
         "eurostat:nuts_2021_id":"30817",
         "gn:id":7872860,
         "gp:id":12674217,
         "qs_pg:id":422806
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046900,
     "wof:geomhash":"ffc82894a29cada10c17b1eefbde95a8",
@@ -174,7 +182,7 @@
         }
     ],
     "wof:id":1108836681,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876936,
     "wof:name":"G\u00e4nserndorf",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4878,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.851989,
     "lbl:longitude":13.031912,
     "lbl:max_zoom":15.0,
@@ -131,11 +137,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50303",
         "eg:gisco_id":"AT_50303",
         "eurostat:nuts_2021_id":"50303",
         "gn:id":7873289,
         "qs_pg:id":108891
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046955,
     "wof:geomhash":"cbfbf583b5b33440065fd6b8693d943b",
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":1108837115,
-    "wof:lastmodified":1684351582,
+    "wof:lastmodified":1695876964,
     "wof:name":"Bergheim",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

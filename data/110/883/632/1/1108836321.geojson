@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1138,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.448013,
     "lbl:longitude":16.529182,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31622",
         "eg:gisco_id":"AT_31622",
         "eurostat:nuts_2021_id":"31622",
         "gn:id":7872962,
         "qs_pg:id":743459
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046851,
     "wof:geomhash":"2f1b57133a1c2ac6462610bd8ebc88b1",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836321,
-    "wof:lastmodified":1684351559,
+    "wof:lastmodified":1695876913,
     "wof:name":"Hochleithen",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

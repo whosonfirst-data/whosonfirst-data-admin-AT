@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":44221,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.403415,
     "lbl:longitude":9.771799,
     "lbl:max_zoom":14.0,
@@ -239,12 +245,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80301",
         "eg:gisco_id":"AT_80301",
         "eurostat:nuts_2021_id":"80301",
         "gn:id":7872673,
         "gp:id":12675635,
         "qs_pg:id":248192
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047059,
     "wof:geomhash":"b111f1a610805b447e0cc0eed59c7b6a",
@@ -258,7 +266,7 @@
         }
     ],
     "wof:id":1108837925,
-    "wof:lastmodified":1684351602,
+    "wof:lastmodified":1695877006,
     "wof:name":"Dornbirn",
     "wof:parent_id":102049737,
     "wof:placetype":"localadmin",

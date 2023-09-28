@@ -29,6 +29,12 @@
     "geom:latitude":46.99681,
     "geom:longitude":10.844247,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.97966,
     "lbl:longitude":10.851002,
     "lbl:max_zoom":18.0,
@@ -102,9 +108,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70217",
         "eg:gisco_id":"AT_70217",
         "eurostat:nuts_2021_id":"70217"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047001,
     "wof:geomhash":"9816cbf283fe11a1c1c86d54e5f5ef59",
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1108837441,
-    "wof:lastmodified":1684351591,
+    "wof:lastmodified":1695876982,
     "wof:name":"Sankt Leonhard im Pitztal",
     "wof:parent_id":102049727,
     "wof:placetype":"localadmin",

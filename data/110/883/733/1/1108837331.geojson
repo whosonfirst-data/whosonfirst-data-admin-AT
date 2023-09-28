@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1154,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.025103,
     "lbl:longitude":10.550063,
     "lbl:max_zoom":16.0,
@@ -149,12 +155,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70624",
         "eg:gisco_id":"AT_70624",
         "eurostat:nuts_2021_id":"70624",
         "gn:id":7872584,
         "gp:id":12675561,
         "qs_pg:id":1292008
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046989,
     "wof:geomhash":"32000ab3cc75cd76caef4ddf68a3ec34",
@@ -168,7 +176,7 @@
         }
     ],
     "wof:id":1108837331,
-    "wof:lastmodified":1684351588,
+    "wof:lastmodified":1695876977,
     "wof:name":"Serfaus",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",

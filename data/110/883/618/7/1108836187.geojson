@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1707,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.002742,
     "lbl:longitude":16.055417,
     "lbl:max_zoom":16.0,
@@ -113,11 +119,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30645",
         "eg:gisco_id":"AT_30645",
         "eurostat:nuts_2021_id":"30645",
         "gn:id":7872847,
         "qs_pg:id":743434
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046833,
     "wof:geomhash":"e461866191c1e2dd8765d7b78947c98c",
@@ -131,7 +139,7 @@
         }
     ],
     "wof:id":1108836187,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876905,
     "wof:name":"Weissenbach an der Triesting",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

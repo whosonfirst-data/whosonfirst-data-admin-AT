@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1636,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.919245,
     "lbl:longitude":14.619699,
     "lbl:max_zoom":16.0,
@@ -128,12 +134,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41510",
         "eg:gisco_id":"AT_41510",
         "eurostat:nuts_2021_id":"41510",
         "gn:id":7873226,
         "gp:id":12674429,
         "qs_pg:id":1016755
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046823,
     "wof:geomhash":"d136d6af29c3bd53d1be7cb016945cf8",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108836111,
-    "wof:lastmodified":1684351553,
+    "wof:lastmodified":1695876900,
     "wof:name":"Maria Neustift",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1396,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.820123,
     "lbl:longitude":13.306515,
     "lbl:max_zoom":16.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20633",
         "eg:gisco_id":"AT_20633",
         "eurostat:nuts_2021_id":"20633",
         "gn:id":7872790,
         "qs_pg:id":381060
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047111,
     "wof:geomhash":"9cb3346f8c3a09c160bbc9f81bcd9c61",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108838297,
-    "wof:lastmodified":1684351614,
+    "wof:lastmodified":1695877031,
     "wof:name":"Sachsenburg",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

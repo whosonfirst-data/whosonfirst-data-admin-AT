@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3138,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.307107,
     "lbl:longitude":16.441975,
     "lbl:max_zoom":15.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10919",
         "eg:gisco_id":"AT_10919",
         "eurostat:nuts_2021_id":"10919",
         "gn:id":7871624,
         "qs_pg:id":1041938
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047141,
     "wof:geomhash":"a7d595cb1e1e0af91d73ffa852383e22",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108838571,
-    "wof:lastmodified":1684351622,
+    "wof:lastmodified":1695877047,
     "wof:name":"Rechnitz",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

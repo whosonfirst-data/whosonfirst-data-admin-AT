@@ -29,6 +29,12 @@
     "geom:latitude":48.206145,
     "geom:longitude":14.566702,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.204993,
     "lbl:longitude":14.572049,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30529",
         "eg:gisco_id":"AT_30529",
         "eurostat:nuts_2021_id":"30529"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046922,
     "wof:geomhash":"4a1aeae4ef1ffe3f3c1f1294d1dac9d2",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836861,
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1695876946,
     "wof:name":"St. Pantaleon - Erla",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.912813,
     "geom:longitude":16.167328,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.912703,
     "lbl:longitude":16.16431,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30608",
         "eg:gisco_id":"AT_30608",
         "eurostat:nuts_2021_id":"30608"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046861,
     "wof:geomhash":"bc79974da11013d33e3eca77d99fbdc1",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836361,
-    "wof:lastmodified":1684351560,
+    "wof:lastmodified":1695876915,
     "wof:name":"Enzesfeld - Lindabrunn",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

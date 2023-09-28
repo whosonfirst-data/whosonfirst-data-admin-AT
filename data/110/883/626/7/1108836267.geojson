@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2570,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.90453,
     "lbl:longitude":15.993581,
     "lbl:max_zoom":15.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32323",
         "eg:gisco_id":"AT_32323",
         "eurostat:nuts_2021_id":"32323",
         "gn:id":7873059,
         "gp:id":12673977,
         "qs_pg:id":1059545
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046841,
     "wof:geomhash":"37e38a4ad4543e483eeedc155c97ca15",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108836267,
-    "wof:lastmodified":1684351558,
+    "wof:lastmodified":1695876909,
     "wof:name":"Pernitz",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

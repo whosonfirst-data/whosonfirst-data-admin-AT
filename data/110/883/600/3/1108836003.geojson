@@ -29,6 +29,12 @@
     "geom:latitude":48.5199,
     "geom:longitude":14.090537,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.519478,
     "lbl:longitude":14.096719,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41334",
         "eg:gisco_id":"AT_41334",
         "eurostat:nuts_2021_id":"41334"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046809,
     "wof:geomhash":"6ebd6d95654ae4ac5190731a8c88931b",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836003,
-    "wof:lastmodified":1684351549,
+    "wof:lastmodified":1695876892,
     "wof:name":"St. Peter am Wimberg",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

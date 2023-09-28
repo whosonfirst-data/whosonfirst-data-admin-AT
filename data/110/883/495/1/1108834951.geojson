@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1125,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.602936,
     "lbl:longitude":16.057729,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31809",
         "eg:gisco_id":"AT_31809",
         "eurostat:nuts_2021_id":"31809",
         "gn:id":7872990,
         "qs_pg:id":108774
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046666,
     "wof:geomhash":"bd028540d117e9016c1fe32c6243e3f1",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108834951,
-    "wof:lastmodified":1684351515,
+    "wof:lastmodified":1695876827,
     "wof:name":"Feistritz am Wechsel",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

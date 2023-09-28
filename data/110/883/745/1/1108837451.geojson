@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1293,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.267355,
     "lbl:longitude":10.997248,
     "lbl:max_zoom":16.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70221",
         "eg:gisco_id":"AT_70221",
         "eurostat:nuts_2021_id":"70221",
         "gn:id":7873596,
         "gp:id":12675479,
         "qs_pg:id":38425
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047002,
     "wof:geomhash":"6d2e62509bd95a1c1f358f06a7ccedfb",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837451,
-    "wof:lastmodified":1684351591,
+    "wof:lastmodified":1695876983,
     "wof:name":"Stams",
     "wof:parent_id":102049727,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2868,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.199704,
     "lbl:longitude":13.960019,
     "lbl:max_zoom":15.0,
@@ -128,12 +134,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41810",
         "eg:gisco_id":"AT_41810",
         "eurostat:nuts_2021_id":"41810",
         "gn:id":7872187,
         "gp:id":12674506,
         "qs_pg:id":904954
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046886,
     "wof:geomhash":"6b1e152eb5c1e364d8d3b6710e6f8e34",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108836557,
-    "wof:lastmodified":1684351566,
+    "wof:lastmodified":1695876929,
     "wof:name":"Krenglbach",
     "wof:parent_id":102049831,
     "wof:placetype":"localadmin",

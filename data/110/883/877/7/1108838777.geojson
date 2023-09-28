@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1539,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.252212,
     "lbl:longitude":16.154647,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10907",
         "eg:gisco_id":"AT_10907",
         "eurostat:nuts_2021_id":"10907",
         "gn:id":7872740,
         "qs_pg:id":1155374
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047166,
     "wof:geomhash":"f972aa88eb541a2b6c1338a277b0636b",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838777,
-    "wof:lastmodified":1684351627,
+    "wof:lastmodified":1695877058,
     "wof:name":"Kemeten",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

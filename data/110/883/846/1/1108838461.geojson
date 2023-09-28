@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6869,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.28316,
     "lbl:longitude":16.19422,
     "lbl:max_zoom":15.0,
@@ -152,12 +158,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10917",
         "eg:gisco_id":"AT_10917",
         "eurostat:nuts_2021_id":"10917",
         "gn:id":7871622,
         "gp:id":12673483,
         "qs_pg:id":1092748
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047129,
     "wof:geomhash":"ea47b0577f28d3135a2dd4ef309d43bd",
@@ -171,7 +179,7 @@
         }
     ],
     "wof:id":1108838461,
-    "wof:lastmodified":1684351619,
+    "wof:lastmodified":1695877041,
     "wof:name":"Oberwart",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

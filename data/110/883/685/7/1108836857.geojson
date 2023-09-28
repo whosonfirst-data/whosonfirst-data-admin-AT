@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3019,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.534003,
     "lbl:longitude":16.333122,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31203",
         "eg:gisco_id":"AT_31203",
         "eurostat:nuts_2021_id":"31203",
         "gn:id":7872905,
         "qs_pg:id":381087
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046922,
     "wof:geomhash":"713c5521ed056455c741bbcd94737e06",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836857,
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1695876946,
     "wof:name":"Ernstbrunn",
     "wof:parent_id":102049887,
     "wof:placetype":"localadmin",

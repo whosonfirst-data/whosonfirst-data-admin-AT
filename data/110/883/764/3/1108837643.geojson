@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3015,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.347931,
     "lbl:longitude":11.23557,
     "lbl:max_zoom":15.0,
@@ -194,12 +200,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70351",
         "eg:gisco_id":"AT_70351",
         "eurostat:nuts_2021_id":"70351",
         "gn:id":7872549,
         "gp:id":12675569,
         "qs_pg:id":38472
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047027,
     "wof:geomhash":"85c59bcda570d54646c375f163b4b3bd",
@@ -213,7 +221,7 @@
         }
     ],
     "wof:id":1108837643,
-    "wof:lastmodified":1684351596,
+    "wof:lastmodified":1695876993,
     "wof:name":"Seefeld in Tirol",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

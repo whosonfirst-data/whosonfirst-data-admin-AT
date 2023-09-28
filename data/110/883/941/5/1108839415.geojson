@@ -29,6 +29,12 @@
     "geom:latitude":47.159771,
     "geom:longitude":14.570904,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.160809,
     "lbl:longitude":14.571807,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62032",
         "eg:gisco_id":"AT_62032",
         "eurostat:nuts_2021_id":"62032"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047254,
     "wof:geomhash":"ef585d973b5d036658a932e59844cf46",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839415,
-    "wof:lastmodified":1684351648,
+    "wof:lastmodified":1695877098,
     "wof:name":"St. Peter ob Judenburg",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

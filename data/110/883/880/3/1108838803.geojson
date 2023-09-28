@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1277,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.761429,
     "lbl:longitude":15.817463,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62377",
         "eg:gisco_id":"AT_62377",
         "eurostat:nuts_2021_id":"62377",
         "gn:id":7872484,
         "qs_pg:id":1155244
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047170,
     "wof:geomhash":"3a6bab650922dcf8de59b5e85e079b1e",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108838803,
-    "wof:lastmodified":1684351628,
+    "wof:lastmodified":1695877060,
     "wof:name":"Deutsch Goritz",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

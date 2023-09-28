@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1736,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.53758,
     "lbl:longitude":15.84497,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31036",
         "eg:gisco_id":"AT_31036",
         "eurostat:nuts_2021_id":"31036",
         "gn:id":7871768,
         "qs_pg:id":1245689
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046777,
     "wof:geomhash":"558a67149a11b596408adbffbed5c784",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835755,
-    "wof:lastmodified":1684351542,
+    "wof:lastmodified":1695876879,
     "wof:name":"Ravelsbach",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",

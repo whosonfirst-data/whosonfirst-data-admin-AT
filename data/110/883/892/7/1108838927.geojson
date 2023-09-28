@@ -29,6 +29,12 @@
     "geom:latitude":47.388298,
     "geom:longitude":13.880998,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.39384,
     "lbl:longitude":13.885857,
     "lbl:max_zoom":18.0,
@@ -69,9 +75,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61260",
         "eg:gisco_id":"AT_61260",
         "eurostat:nuts_2021_id":"61260"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047186,
     "wof:geomhash":"d06a596400646e312432c57df12aefad",
@@ -85,7 +93,7 @@
         }
     ],
     "wof:id":1108838927,
-    "wof:lastmodified":1684351632,
+    "wof:lastmodified":1695877068,
     "wof:name":"Michaelerberg-Pruggern",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

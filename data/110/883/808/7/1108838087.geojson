@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.26281,
     "lbl:longitude":10.162322,
     "lbl:max_zoom":18.0,
@@ -110,6 +116,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80239",
         "eg:gisco_id":"AT_80239",
         "eurostat:nuts_2021_id":"80239",
         "gn:id":2761870,
@@ -120,6 +127,7 @@
         "gn:id":7872671,
         "qs_pg:id":1155324
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047081,
     "wof:geomhash":"fb31aa1361744fa9fd6c038f4eef71ab",
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":1108838087,
-    "wof:lastmodified":1684351606,
+    "wof:lastmodified":1695877015,
     "wof:name":"Warth",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

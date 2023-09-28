@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6779,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.737815,
     "lbl:longitude":16.381888,
     "lbl:max_zoom":15.0,
@@ -173,12 +179,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10606",
         "eg:gisco_id":"AT_10606",
         "eurostat:nuts_2021_id":"10606",
         "gn:id":7871575,
         "gp:id":12673415,
         "qs_pg:id":1195510
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047124,
     "wof:geomhash":"e7d536cf1ac2c2d82e3569afcc82a4bf",
@@ -192,7 +200,7 @@
         }
     ],
     "wof:id":1108838419,
-    "wof:lastmodified":1684351618,
+    "wof:lastmodified":1695877039,
     "wof:name":"Mattersburg",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

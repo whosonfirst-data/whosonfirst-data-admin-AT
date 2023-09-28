@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001173,
-    "geom:area_square_m":9599954.191239,
+    "geom:area_square_m":9599954.19124,
     "geom:bbox":"14.1067708029,48.5277319253,14.1785009954,48.5663835107",
     "geom:latitude":48.546223,
     "geom:longitude":14.136833,
@@ -20,6 +20,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1002,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.547036,
     "lbl:longitude":14.127331,
     "lbl:max_zoom":17.0,
@@ -100,12 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41310",
         "gn:id":7873194,
         "qs_pg:id":381154
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046801,
-    "wof:geomhash":"8a822e8eb88d3add8845452b10365444",
+    "wof:geomhash":"c8ba9b5cb91ad881baf552b669454da3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,7 +124,7 @@
         }
     ],
     "wof:id":1108835949,
-    "wof:lastmodified":1566598147,
+    "wof:lastmodified":1695876809,
     "wof:name":"Helfenberg",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

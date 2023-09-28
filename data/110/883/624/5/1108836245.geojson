@@ -30,6 +30,12 @@
     "geom:longitude":15.522703,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.807335,
     "lbl:longitude":15.546464,
     "lbl:max_zoom":18.0,
@@ -66,11 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31411",
         "eg:gisco_id":"AT_31411",
         "eurostat:nuts_2021_id":"31411",
         "gp:id":12673971,
         "qs_pg:id":1168395
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046839,
     "wof:geomhash":"8455100c7020bbd814d06986b99a2994",
@@ -84,7 +92,7 @@
         }
     ],
     "wof:id":1108836245,
-    "wof:lastmodified":1684351557,
+    "wof:lastmodified":1695876908,
     "wof:name":"St. Aegyd am Neuwalde",
     "wof:parent_id":102049823,
     "wof:placetype":"localadmin",

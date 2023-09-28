@@ -29,6 +29,12 @@
     "geom:latitude":47.122221,
     "geom:longitude":10.637837,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.126337,
     "lbl:longitude":10.639204,
     "lbl:max_zoom":18.0,
@@ -123,9 +129,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70604",
         "eg:gisco_id":"AT_70604",
         "eurostat:nuts_2021_id":"70604"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046984,
     "wof:geomhash":"05a1cd3b46c76a721a45d788328695b4",
@@ -139,7 +147,7 @@
         }
     ],
     "wof:id":1108837289,
-    "wof:lastmodified":1684351587,
+    "wof:lastmodified":1695876974,
     "wof:name":"Flie\u00df",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",

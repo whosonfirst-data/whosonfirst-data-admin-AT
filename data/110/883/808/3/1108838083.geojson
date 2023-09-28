@@ -30,6 +30,12 @@
     "geom:longitude":9.802759,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.063186,
     "lbl:longitude":9.788974,
     "lbl:max_zoom":18.0,
@@ -129,11 +135,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80129",
         "eg:gisco_id":"AT_80129",
         "eurostat:nuts_2021_id":"80129",
         "gp:id":12675645,
         "qs_pg:id":1301629
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047080,
     "wof:geomhash":"ef845234043f91198062ebcb826b6909",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108838083,
-    "wof:lastmodified":1684351606,
+    "wof:lastmodified":1695877015,
     "wof:name":"Vandans",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

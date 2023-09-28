@@ -29,6 +29,12 @@
     "geom:latitude":46.987044,
     "geom:longitude":9.953763,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.991792,
     "lbl:longitude":9.943969,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80120",
         "eg:gisco_id":"AT_80120",
         "eurostat:nuts_2021_id":"80120"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047079,
     "wof:geomhash":"1b12f568eff70d0bcf6b9c0eaecbbeb5",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838063,
-    "wof:lastmodified":1684351606,
+    "wof:lastmodified":1695877014,
     "wof:name":"St. Gallenkirc",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

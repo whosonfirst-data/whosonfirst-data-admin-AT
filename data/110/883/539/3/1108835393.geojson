@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.643765,
     "lbl:longitude":15.930125,
     "lbl:max_zoom":17.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31827",
         "eg:gisco_id":"AT_31827",
         "eurostat:nuts_2021_id":"31827",
         "gn:id":2768175,
@@ -147,6 +154,7 @@
         "gn:id":7872996,
         "qs_pg:id":381109
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046732,
     "wof:geomhash":"f84c8b1dce6900c4dd41d6a6cb2a382a",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108835393,
-    "wof:lastmodified":1684351530,
+    "wof:lastmodified":1695876856,
     "wof:name":"Raach am Hochgebirge",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

@@ -30,6 +30,12 @@
     "geom:longitude":14.373307,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.204564,
     "lbl:longitude":14.374337,
     "lbl:max_zoom":18.0,
@@ -66,11 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41013",
         "eg:gisco_id":"AT_41013",
         "eurostat:nuts_2021_id":"41013",
         "gp:id":12674350,
         "qs_pg:id":1109210
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046750,
     "wof:geomhash":"d6c2997c145bdce55efcd55fd59d9b76",
@@ -84,7 +92,7 @@
         }
     ],
     "wof:id":1108835545,
-    "wof:lastmodified":1684351535,
+    "wof:lastmodified":1695876865,
     "wof:name":"St. Florian",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

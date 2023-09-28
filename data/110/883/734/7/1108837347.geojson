@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1541,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.356954,
     "lbl:longitude":12.397791,
     "lbl:max_zoom":16.0,
@@ -98,6 +104,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70408",
         "eg:gisco_id":"AT_70408",
         "eurostat:nuts_2021_id":"70408",
         "gn:id":7872558,
@@ -108,6 +115,7 @@
         "gn:id":2775068,
         "qs_pg:id":269012
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046991,
     "wof:geomhash":"39d40fcb88e8f3b76519f159eb79834b",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108837347,
-    "wof:lastmodified":1684351589,
+    "wof:lastmodified":1695876978,
     "wof:name":"Jochberg",
     "wof:parent_id":102049763,
     "wof:placetype":"localadmin",

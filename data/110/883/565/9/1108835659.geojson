@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":287,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.30842,
     "lbl:longitude":13.36712,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41216",
         "eg:gisco_id":"AT_41216",
         "eurostat:nuts_2021_id":"41216",
         "gn:id":7872085,
         "qs_pg:id":108502
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046765,
     "wof:geomhash":"f7ef4085c9afc5cf9349bc35729a886c",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835659,
-    "wof:lastmodified":1684351539,
+    "wof:lastmodified":1695876873,
     "wof:name":"M\u00f6rschwang",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

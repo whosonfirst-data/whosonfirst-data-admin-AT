@@ -29,6 +29,12 @@
     "geom:latitude":46.940062,
     "geom:longitude":15.66174,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.94145,
     "lbl:longitude":15.658645,
     "lbl:max_zoom":18.0,
@@ -69,9 +75,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62381",
         "eg:gisco_id":"AT_62381",
         "eurostat:nuts_2021_id":"62381"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047226,
     "wof:geomhash":"5f6c477d5c25a0b74ba7a78ea2ad1506",
@@ -85,7 +93,7 @@
         }
     ],
     "wof:id":1108839247,
-    "wof:lastmodified":1684351642,
+    "wof:lastmodified":1695877088,
     "wof:name":"Kirchbach",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

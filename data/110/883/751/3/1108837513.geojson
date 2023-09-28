@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4982,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.073724,
     "lbl:longitude":12.526274,
     "lbl:max_zoom":15.0,
@@ -143,12 +149,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70717",
         "eg:gisco_id":"AT_70717",
         "eurostat:nuts_2021_id":"70717",
         "gn:id":7872598,
         "gp:id":12675383,
         "qs_pg:id":1313892
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047009,
     "wof:geomhash":"a801629b7133d8f24e16844a4cd819f8",
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1108837513,
-    "wof:lastmodified":1684351593,
+    "wof:lastmodified":1695876986,
     "wof:name":"Matrei in Osttirol",
     "wof:parent_id":102049703,
     "wof:placetype":"localadmin",

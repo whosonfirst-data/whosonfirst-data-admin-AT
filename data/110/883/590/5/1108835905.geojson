@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":971,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.69892,
     "lbl:longitude":16.680533,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31621",
         "eg:gisco_id":"AT_31621",
         "eurostat:nuts_2021_id":"31621",
         "gn:id":7872961,
         "qs_pg:id":1155391
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046796,
     "wof:geomhash":"2e8b90b28851fc625104ca1811feaa72",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835905,
-    "wof:lastmodified":1684351545,
+    "wof:lastmodified":1695876886,
     "wof:name":"Herrnbaumgarten",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

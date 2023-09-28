@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.561497,
     "lbl:longitude":14.239947,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20414",
         "eg:gisco_id":"AT_20414",
         "eurostat:nuts_2021_id":"20414",
         "gn:id":2773646,
@@ -150,6 +157,7 @@
         "gn:id":7871530,
         "qs_pg:id":1041926
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047092,
     "wof:geomhash":"ec9b530a27e03d2dc0aae9b67f983c24",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108838173,
-    "wof:lastmodified":1684351610,
+    "wof:lastmodified":1695877021,
     "wof:name":"K\u00f6ttmannsdorf",
     "wof:parent_id":102049681,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.967139,
     "lbl:longitude":13.717024,
     "lbl:max_zoom":15.0,
@@ -134,11 +140,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41731",
         "eg:gisco_id":"AT_41731",
         "eurostat:nuts_2021_id":"41731",
         "gn:id":2767801,
         "qs_pg:id":373490
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046877,
     "wof:geomhash":"35a45e4df64db1e3d157da74a21757c5",
@@ -152,7 +160,7 @@
         }
     ],
     "wof:id":1108836487,
-    "wof:lastmodified":1684351564,
+    "wof:lastmodified":1695876923,
     "wof:name":"Regau",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

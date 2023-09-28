@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":573,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.67214,
     "lbl:longitude":14.99586,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61251",
         "eg:gisco_id":"AT_61251",
         "eurostat:nuts_2021_id":"61251",
         "gn:id":7872454,
         "qs_pg:id":108609
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047180,
     "wof:geomhash":"dfb0cb5d0d8032c434bc7035d823e2de",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108838885,
-    "wof:lastmodified":1684351631,
+    "wof:lastmodified":1695877066,
     "wof:name":"Wildalpen",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1316,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.71019,
     "lbl:longitude":13.884493,
     "lbl:max_zoom":16.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41315",
         "eg:gisco_id":"AT_41315",
         "eurostat:nuts_2021_id":"41315",
         "gn:id":7872108,
         "qs_pg:id":1042063
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046803,
     "wof:geomhash":"49b54250f0a7f13f8a8ff2d282578453",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108835961,
-    "wof:lastmodified":1684351547,
+    "wof:lastmodified":1695876889,
     "wof:name":"Klaffer am Hochficht",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

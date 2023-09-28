@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":593,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.676519,
     "lbl:longitude":16.187242,
     "lbl:max_zoom":17.0,
@@ -132,6 +138,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31025",
         "eg:gisco_id":"AT_31025",
         "eurostat:nuts_2021_id":"31025",
         "gn:id":7871766,
@@ -142,6 +149,7 @@
         "gn:id":2772083,
         "qs_pg:id":254044
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046738,
     "wof:geomhash":"ca9735c12fc8f08f665bdcacfbf0ec1a",
@@ -155,7 +163,7 @@
         }
     ],
     "wof:id":1108835439,
-    "wof:lastmodified":1684351531,
+    "wof:lastmodified":1695876859,
     "wof:name":"Mailberg",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2342,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.507304,
     "lbl:longitude":12.12184,
     "lbl:max_zoom":15.0,
@@ -135,12 +141,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70503",
         "eg:gisco_id":"AT_70503",
         "eurostat:nuts_2021_id":"70503",
         "gn:id":7873645,
         "gp:id":12675483,
         "qs_pg:id":1313994
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046995,
     "wof:geomhash":"e67ba7c1c9ad9b56b8e15513aec5d2a7",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108837387,
-    "wof:lastmodified":1684351590,
+    "wof:lastmodified":1695876980,
     "wof:name":"Bad H\u00e4ring",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

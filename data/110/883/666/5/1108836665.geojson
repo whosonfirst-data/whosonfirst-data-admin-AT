@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.421542,
     "lbl:longitude":15.601206,
     "lbl:max_zoom":14.0,
@@ -152,12 +158,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30101",
         "eg:gisco_id":"AT_30101",
         "eurostat:nuts_2021_id":"30101",
         "gn:id":7871496,
         "gp:id":12673690,
         "qs_pg:id":223818
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046898,
     "wof:geomhash":"91b8eed1ff4786dd1ff81994031c2798",
@@ -171,7 +179,7 @@
         }
     ],
     "wof:id":1108836665,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876935,
     "wof:name":"Krems an der Donau",
     "wof:parent_id":102049873,
     "wof:placetype":"localadmin",

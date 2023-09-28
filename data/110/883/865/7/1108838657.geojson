@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1282,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.751224,
     "lbl:longitude":16.999899,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10720",
         "eg:gisco_id":"AT_10720",
         "eurostat:nuts_2021_id":"10720",
         "gn:id":7871593,
@@ -141,6 +148,7 @@
         "gn:id":2763960,
         "qs_pg:id":1205896
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047151,
     "wof:geomhash":"3fcaf14dfd6df0d5d137dde0a0a09830",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108838657,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877051,
     "wof:name":"Tadten",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

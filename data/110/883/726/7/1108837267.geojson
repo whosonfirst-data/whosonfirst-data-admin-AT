@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3542,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.505173,
     "lbl:longitude":12.198226,
     "lbl:max_zoom":15.0,
@@ -143,12 +149,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70526",
         "eg:gisco_id":"AT_70526",
         "eurostat:nuts_2021_id":"70526",
         "gn:id":7873657,
         "gp:id":12675396,
         "qs_pg:id":242331
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046976,
     "wof:geomhash":"9159e5d2c80308bcddca5b00b1a271e4",
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1108837267,
-    "wof:lastmodified":1684351587,
+    "wof:lastmodified":1695876974,
     "wof:name":"S\u00f6ll",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

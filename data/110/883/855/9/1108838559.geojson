@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.030678,
     "lbl:longitude":16.142165,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10508",
         "eg:gisco_id":"AT_10508",
         "eurostat:nuts_2021_id":"10508",
         "gn:id":2767001,
@@ -144,6 +151,7 @@
         "gn:id":7871569,
         "qs_pg:id":743289
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047140,
     "wof:geomhash":"e556b64e12ab95c8c6f7ab575abdf60d",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838559,
-    "wof:lastmodified":1684351622,
+    "wof:lastmodified":1695877046,
     "wof:name":"Rudersdorf",
     "wof:parent_id":102049715,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1447,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.823867,
     "lbl:longitude":15.852143,
     "lbl:max_zoom":16.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31016",
         "eg:gisco_id":"AT_31016",
         "eurostat:nuts_2021_id":"31016",
         "gn:id":7872884,
         "qs_pg:id":108745
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046670,
     "wof:geomhash":"b180beeba1553e4ba93442f22ee23e91",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108834985,
-    "wof:lastmodified":1684351516,
+    "wof:lastmodified":1695876829,
     "wof:name":"Hardegg",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",

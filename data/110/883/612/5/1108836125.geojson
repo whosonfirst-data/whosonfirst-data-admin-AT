@@ -29,6 +29,12 @@
     "geom:latitude":48.051505,
     "geom:longitude":14.310059,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.037402,
     "lbl:longitude":14.308914,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41516",
         "eg:gisco_id":"AT_41516",
         "eurostat:nuts_2021_id":"41516"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046825,
     "wof:geomhash":"4034093509660c059cf0ddeb66ef0f81",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108836125,
-    "wof:lastmodified":1684351553,
+    "wof:lastmodified":1695876901,
     "wof:name":"Sierning",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":751,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.134723,
     "lbl:longitude":17.003209,
     "lbl:max_zoom":16.0,
@@ -131,11 +137,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30728",
         "eg:gisco_id":"AT_30728",
         "eurostat:nuts_2021_id":"30728",
         "gn:id":7872854,
         "qs_pg:id":1245803
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046739,
     "wof:geomhash":"d652884780298a6e160b50a32eef1440",
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":1108835447,
-    "wof:lastmodified":1684351532,
+    "wof:lastmodified":1695876859,
     "wof:name":"Wolfsthal",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

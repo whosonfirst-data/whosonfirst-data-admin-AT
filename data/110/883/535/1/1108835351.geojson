@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1312,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.048049,
     "lbl:longitude":15.014895,
     "lbl:max_zoom":16.0,
@@ -116,6 +122,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32015",
         "eg:gisco_id":"AT_32015",
         "eurostat:nuts_2021_id":"32015",
         "gn:id":7873034,
@@ -126,6 +133,7 @@
         "gn:id":2761914,
         "qs_pg:id":75547
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046726,
     "wof:geomhash":"e1def6a66b70dceef710ffa1936c90d1",
@@ -139,7 +147,7 @@
         }
     ],
     "wof:id":1108835351,
-    "wof:lastmodified":1684351529,
+    "wof:lastmodified":1695876854,
     "wof:name":"Wang",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",

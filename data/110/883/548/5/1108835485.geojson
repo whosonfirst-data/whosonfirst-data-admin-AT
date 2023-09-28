@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":720,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.835656,
     "lbl:longitude":15.710426,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31113",
         "eg:gisco_id":"AT_31113",
         "eurostat:nuts_2021_id":"31113",
         "gn:id":7871778,
@@ -144,6 +151,7 @@
         "gn:id":2773032,
         "qs_pg:id":903236
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046744,
     "wof:geomhash":"0734438600329ba6cecf06ac81e3b4d1",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835485,
-    "wof:lastmodified":1684351533,
+    "wof:lastmodified":1695876861,
     "wof:name":"Langau",
     "wof:parent_id":102049901,
     "wof:placetype":"localadmin",

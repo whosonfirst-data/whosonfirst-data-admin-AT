@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.91949,
     "lbl:longitude":15.506598,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31414",
         "eg:gisco_id":"AT_31414",
         "eurostat:nuts_2021_id":"31414",
         "gn:id":2763235,
@@ -144,6 +151,7 @@
         "gn:id":7872937,
         "qs_pg:id":381097
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046790,
     "wof:geomhash":"0f086ed26ef6f17dba767ac19eaefc71",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835855,
-    "wof:lastmodified":1684351544,
+    "wof:lastmodified":1695876884,
     "wof:name":"T\u00fcrnitz",
     "wof:parent_id":102049823,
     "wof:placetype":"localadmin",

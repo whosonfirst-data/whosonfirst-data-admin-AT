@@ -29,6 +29,12 @@
     "geom:latitude":46.893174,
     "geom:longitude":14.028663,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.885285,
     "lbl:longitude":14.027176,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20503",
         "eg:gisco_id":"AT_20503",
         "eurostat:nuts_2021_id":"20503"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047095,
     "wof:geomhash":"317eaf65e14ed5ffcb550019c82b6620",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838207,
-    "wof:lastmodified":1684351611,
+    "wof:lastmodified":1695877023,
     "wof:name":"Deutsch - Griffen",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",

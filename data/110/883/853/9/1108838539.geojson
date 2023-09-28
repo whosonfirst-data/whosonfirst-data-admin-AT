@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1195,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.467067,
     "lbl:longitude":16.572854,
     "lbl:max_zoom":16.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10803",
         "eg:gisco_id":"AT_10803",
         "eurostat:nuts_2021_id":"10803",
         "gn:id":7872726,
         "qs_pg:id":108681
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047138,
     "wof:geomhash":"4793d001f51bc7575104bdd05858230f",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108838539,
-    "wof:lastmodified":1684351621,
+    "wof:lastmodified":1695877045,
     "wof:name":"Frankenau-Unterpullendorf",
     "wof:parent_id":102049775,
     "wof:placetype":"localadmin",

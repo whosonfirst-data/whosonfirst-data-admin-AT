@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":5245,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.083083,
     "lbl:longitude":15.693564,
     "lbl:max_zoom":15.0,
@@ -146,6 +152,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61760",
         "eg:gisco_id":"AT_61760",
         "eurostat:nuts_2021_id":"61760",
         "gn:id":2778478,
@@ -156,6 +163,7 @@
         "gn:id":7873560,
         "qs_pg:id":743552
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047178,
     "wof:geomhash":"312715d489626ca9d898461691233a6f",
@@ -169,7 +177,7 @@
         }
     ],
     "wof:id":1108838867,
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1695877064,
     "wof:name":"Gleisdorf",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

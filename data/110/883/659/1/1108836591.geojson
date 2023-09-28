@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1410,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.242329,
     "lbl:longitude":15.528222,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31925",
         "eg:gisco_id":"AT_31925",
         "eurostat:nuts_2021_id":"31925",
         "gn:id":7873017,
         "qs_pg:id":108791
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046890,
     "wof:geomhash":"ef955f767bf462429f88a980add09559",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836591,
-    "wof:lastmodified":1684351567,
+    "wof:lastmodified":1695876931,
     "wof:name":"Neidling",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.29687,
     "lbl:longitude":15.947245,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32120",
         "eg:gisco_id":"AT_32120",
         "eurostat:nuts_2021_id":"32120",
         "gn:id":2771618,
@@ -144,6 +151,7 @@
         "gn:id":7873038,
         "qs_pg:id":1155406
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046677,
     "wof:geomhash":"f1e0fc5fa9d089446b3fd85b4e50a9c3",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835035,
-    "wof:lastmodified":1684351518,
+    "wof:lastmodified":1695876832,
     "wof:name":"Michelhausen",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",

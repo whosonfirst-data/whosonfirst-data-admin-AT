@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":439,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.893118,
     "lbl:longitude":16.046299,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10512",
         "eg:gisco_id":"AT_10512",
         "eurostat:nuts_2021_id":"10512",
         "gn:id":7871572,
         "qs_pg:id":743291
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047125,
     "wof:geomhash":"9125bd12d1d8b455f99e6bc62fc3a348",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108838429,
-    "wof:lastmodified":1684351618,
+    "wof:lastmodified":1695877039,
     "wof:name":"M\u00fchlgraben",
     "wof:parent_id":102049715,
     "wof:placetype":"localadmin",

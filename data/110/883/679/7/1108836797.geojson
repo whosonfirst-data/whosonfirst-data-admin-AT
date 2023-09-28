@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.532973,
     "lbl:longitude":16.467746,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31630",
         "eg:gisco_id":"AT_31630",
         "eurostat:nuts_2021_id":"31630",
         "gn:id":2773172,
@@ -144,6 +151,7 @@
         "gn:id":7871843,
         "qs_pg:id":108399
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046913,
     "wof:geomhash":"3e190c2d4cf954001443f25526463ec0",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836797,
-    "wof:lastmodified":1684351573,
+    "wof:lastmodified":1695876942,
     "wof:name":"Ladendorf",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

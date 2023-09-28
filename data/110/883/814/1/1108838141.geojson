@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1725,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.781971,
     "lbl:longitude":14.09835,
     "lbl:max_zoom":16.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"21010",
         "eg:gisco_id":"AT_21010",
         "eurostat:nuts_2021_id":"21010",
         "gn:id":7872813,
@@ -138,6 +145,7 @@
         "gn:id":2764364,
         "qs_pg:id":1180346
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047088,
     "wof:geomhash":"b2622cecce70b6a754627e3e0906e6b8",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108838141,
-    "wof:lastmodified":1684351609,
+    "wof:lastmodified":1695877019,
     "wof:name":"Steuerberg",
     "wof:parent_id":102049689,
     "wof:placetype":"localadmin",

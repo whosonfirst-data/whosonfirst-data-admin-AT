@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":11039,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.574198,
     "lbl:longitude":16.568783,
     "lbl:max_zoom":15.0,
@@ -158,12 +164,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31633",
         "eg:gisco_id":"AT_31633",
         "eurostat:nuts_2021_id":"31633",
         "gn:id":7871844,
         "gp:id":12673919,
         "qs_pg:id":1118696
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046893,
     "wof:geomhash":"5883596466e73d6cd755dd5b305644c7",
@@ -177,7 +185,7 @@
         }
     ],
     "wof:id":1108836627,
-    "wof:lastmodified":1684351568,
+    "wof:lastmodified":1695876933,
     "wof:name":"Mistelbach",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

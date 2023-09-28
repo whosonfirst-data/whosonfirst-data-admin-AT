@@ -30,6 +30,12 @@
     "geom:longitude":15.511422,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.811531,
     "lbl:longitude":15.500241,
     "lbl:max_zoom":18.0,
@@ -123,11 +129,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61043",
         "eg:gisco_id":"AT_61043",
         "eurostat:nuts_2021_id":"61043",
         "gp:id":12674833,
         "qs_pg:id":318018
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047198,
     "wof:geomhash":"ad70025df21fc44ce25afc159732f898",
@@ -141,7 +149,7 @@
         }
     ],
     "wof:id":1108839023,
-    "wof:lastmodified":1684351634,
+    "wof:lastmodified":1695877074,
     "wof:name":"Tillmitsch",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

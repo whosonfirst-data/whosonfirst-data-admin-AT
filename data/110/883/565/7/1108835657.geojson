@@ -29,6 +29,12 @@
     "geom:latitude":48.15875,
     "geom:longitude":13.355043,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.157834,
     "lbl:longitude":13.354439,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41215",
         "eg:gisco_id":"AT_41215",
         "eurostat:nuts_2021_id":"41215"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046765,
     "wof:geomhash":"6958abfb10b1edceb5f2b549065d7b7a",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108835657,
-    "wof:lastmodified":1684351539,
+    "wof:lastmodified":1695876872,
     "wof:name":"Mettmach",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

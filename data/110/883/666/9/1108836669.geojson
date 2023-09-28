@@ -29,6 +29,12 @@
     "geom:latitude":48.347703,
     "geom:longitude":16.58241,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.347745,
     "lbl:longitude":16.572696,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31615",
         "eg:gisco_id":"AT_31615",
         "eurostat:nuts_2021_id":"31615"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046898,
     "wof:geomhash":"2ee3b7babdb2627873af1a99f86d2876",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836669,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876935,
     "wof:name":"Gro\u00dfengersdorf",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

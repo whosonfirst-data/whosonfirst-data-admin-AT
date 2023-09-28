@@ -29,6 +29,12 @@
     "geom:latitude":47.242838,
     "geom:longitude":10.38991,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.243346,
     "lbl:longitude":10.383107,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70801",
         "eg:gisco_id":"AT_70801",
         "eurostat:nuts_2021_id":"70801"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047044,
     "wof:geomhash":"8819329ec142a6a82c69e04a94686ca5",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108837799,
-    "wof:lastmodified":1684351599,
+    "wof:lastmodified":1695877000,
     "wof:name":"Bach",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":5534,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.067417,
     "lbl:longitude":16.447571,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32406",
         "eg:gisco_id":"AT_30732",
         "eurostat:nuts_2021_id":"30732",
         "gn:id":2776401,
@@ -144,6 +151,7 @@
         "gn:id":7871948,
         "qs_pg:id":108431
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046851,
     "wof:geomhash":"1ceee09ddb2eab1bf36449df4d2f8d42",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836317,
-    "wof:lastmodified":1684351559,
+    "wof:lastmodified":1695876912,
     "wof:name":"Himberg",
     "wof:parent_id":102049843,
     "wof:placetype":"localadmin",

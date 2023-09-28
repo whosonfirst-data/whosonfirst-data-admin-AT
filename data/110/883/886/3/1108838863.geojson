@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.552361,
     "lbl:longitude":15.627056,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62116",
         "eg:gisco_id":"AT_62116",
         "eurostat:nuts_2021_id":"62116",
         "gn:id":2773000,
@@ -141,6 +148,7 @@
         "gn:id":7872458,
         "qs_pg:id":904310
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047177,
     "wof:geomhash":"c76b347e66968a5e8cd25a5ae08652af",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108838863,
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1695877064,
     "wof:name":"Langenwang",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

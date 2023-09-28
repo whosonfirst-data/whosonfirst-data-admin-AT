@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1804,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.432299,
     "lbl:longitude":16.541447,
     "lbl:max_zoom":16.0,
@@ -107,11 +113,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10811",
         "eg:gisco_id":"AT_10811",
         "eurostat:nuts_2021_id":"10811",
         "gn:id":7871605,
         "qs_pg:id":108288
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047132,
     "wof:geomhash":"0b20ca8f5628fd4cf887ab0f0de61c93",
@@ -125,7 +133,7 @@
         }
     ],
     "wof:id":1108838487,
-    "wof:lastmodified":1684351620,
+    "wof:lastmodified":1695877042,
     "wof:name":"Mannersdorf an der Rabnitz",
     "wof:parent_id":102049775,
     "wof:placetype":"localadmin",

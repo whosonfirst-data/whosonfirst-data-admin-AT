@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2187,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.252954,
     "lbl:longitude":14.009645,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40511",
         "eg:gisco_id":"AT_40511",
         "eurostat:nuts_2021_id":"40511",
         "gn:id":7873120,
@@ -143,6 +150,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":18926
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046680,
     "wof:geomhash":"8aed469839fc1b998a461d0bcbbde337",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108835057,
-    "wof:lastmodified":1684351518,
+    "wof:lastmodified":1695876833,
     "wof:name":"Scharten",
     "wof:parent_id":102049863,
     "wof:placetype":"localadmin",

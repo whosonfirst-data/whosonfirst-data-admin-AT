@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1207,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.725998,
     "lbl:longitude":15.011709,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30940",
         "eg:gisco_id":"AT_30940",
         "eurostat:nuts_2021_id":"30940",
         "gn:id":7871761,
         "qs_pg:id":904274
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046671,
     "wof:geomhash":"9454c5ac17c4a81b56d028dc8729ebfe",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108834995,
-    "wof:lastmodified":1684351516,
+    "wof:lastmodified":1695876830,
     "wof:name":"Waldenstein",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",

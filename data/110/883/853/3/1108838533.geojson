@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2351,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.763205,
     "lbl:longitude":16.685789,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10307",
         "eg:gisco_id":"AT_10307",
         "eurostat:nuts_2021_id":"10307",
         "gn:id":7871535,
@@ -150,6 +157,7 @@
         "gn:id":2771219,
         "qs_pg:id":1195524
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047137,
     "wof:geomhash":"7a0b455c9a74edde45ebee40793f99f8",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108838533,
-    "wof:lastmodified":1684351621,
+    "wof:lastmodified":1695877045,
     "wof:name":"M\u00f6rbisch am See",
     "wof:parent_id":102049811,
     "wof:placetype":"localadmin",

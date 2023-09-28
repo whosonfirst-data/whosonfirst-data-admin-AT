@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.12131,
     "lbl:longitude":16.336815,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31723",
         "eg:gisco_id":"AT_31723",
         "eurostat:nuts_2021_id":"31723",
         "gn:id":2762150,
@@ -147,6 +154,7 @@
         "gn:id":7872983,
         "qs_pg:id":1042185
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046911,
     "wof:geomhash":"7a250267d03878d23469b44ae634b1fe",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108836777,
-    "wof:lastmodified":1684351572,
+    "wof:lastmodified":1695876941,
     "wof:name":"V\u00f6sendorf",
     "wof:parent_id":102049837,
     "wof:placetype":"localadmin",

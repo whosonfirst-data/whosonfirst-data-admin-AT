@@ -29,6 +29,12 @@
     "geom:latitude":46.774353,
     "geom:longitude":13.360472,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.777881,
     "lbl:longitude":13.374825,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20613",
         "eg:gisco_id":"AT_20613",
         "eurostat:nuts_2021_id":"20613"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047103,
     "wof:geomhash":"0b18a05a54e089b533f71429aa133543",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838271,
-    "wof:lastmodified":1684351613,
+    "wof:lastmodified":1695877029,
     "wof:name":"Kleblach - Lind",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

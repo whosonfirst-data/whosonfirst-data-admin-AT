@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.91236,
     "lbl:longitude":12.909754,
     "lbl:max_zoom":17.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20622",
         "eg:gisco_id":"AT_20622",
         "eurostat:nuts_2021_id":"20622",
         "gn:id":2771200,
@@ -141,6 +148,7 @@
         "gn:id":7872785,
         "qs_pg:id":108699
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047109,
     "wof:geomhash":"6cb8ab85dbc51da8836e2017f599fe03",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108838281,
-    "wof:lastmodified":1684351614,
+    "wof:lastmodified":1695877030,
     "wof:name":"M\u00f6rtschach",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

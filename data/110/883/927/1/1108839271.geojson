@@ -29,6 +29,12 @@
     "geom:latitude":46.734217,
     "geom:longitude":15.161406,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.72532,
     "lbl:longitude":15.222016,
     "lbl:max_zoom":18.0,
@@ -102,9 +108,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60351",
         "eg:gisco_id":"AT_60351",
         "eurostat:nuts_2021_id":"60351"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047234,
     "wof:geomhash":"e4a3d0b7b54027a35507688c6a980160",
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1108839271,
-    "wof:lastmodified":1684351643,
+    "wof:lastmodified":1695877090,
     "wof:name":"Wies",
     "wof:parent_id":102049691,
     "wof:placetype":"localadmin",

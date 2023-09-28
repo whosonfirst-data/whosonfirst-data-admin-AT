@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":7523,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.776484,
     "lbl:longitude":15.530078,
     "lbl:max_zoom":15.0,
@@ -161,12 +167,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61053",
         "eg:gisco_id":"AT_61053",
         "eurostat:nuts_2021_id":"61053",
         "gn:id":7872406,
         "gp:id":12675119,
         "qs_pg:id":1187772
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047200,
     "wof:geomhash":"9176cd171f8355280674d2275487d422",
@@ -180,7 +188,7 @@
         }
     ],
     "wof:id":1108839045,
-    "wof:lastmodified":1684351635,
+    "wof:lastmodified":1695877075,
     "wof:name":"Leibnitz",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

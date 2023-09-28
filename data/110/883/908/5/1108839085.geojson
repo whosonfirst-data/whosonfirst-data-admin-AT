@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1414,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.401112,
     "lbl:longitude":15.867332,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62278",
         "eg:gisco_id":"AT_62278",
         "eurostat:nuts_2021_id":"62278",
         "gn:id":7872371,
@@ -147,6 +154,7 @@
         "gn:id":2762299,
         "qs_pg:id":27169
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047205,
     "wof:geomhash":"37a39c99ead1f59dabbfb1289b13bf0c",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108839085,
-    "wof:lastmodified":1684351636,
+    "wof:lastmodified":1695877078,
     "wof:name":"Vorau",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

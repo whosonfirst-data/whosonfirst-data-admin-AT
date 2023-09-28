@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2757,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.380435,
     "lbl:longitude":15.612913,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31309",
         "eg:gisco_id":"AT_31309",
         "eurostat:nuts_2021_id":"31309",
         "gn:id":7872913,
@@ -140,6 +147,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":108749
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046835,
     "wof:geomhash":"cc69071b1db36a43a4a40a0ec4459d06",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108836209,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876906,
     "wof:name":"Furth bei G\u00f6ttweig",
     "wof:parent_id":102049885,
     "wof:placetype":"localadmin",

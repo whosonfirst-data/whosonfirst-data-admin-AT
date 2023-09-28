@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1362,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.017908,
     "lbl:longitude":13.465106,
     "lbl:max_zoom":16.0,
@@ -143,11 +149,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41723",
         "eg:gisco_id":"AT_41723",
         "eurostat:nuts_2021_id":"41723",
         "gn:id":7872166,
         "qs_pg:id":108520
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046875,
     "wof:geomhash":"e1a74ebb593d88bae55b78bbefd41708",
@@ -161,7 +169,7 @@
         }
     ],
     "wof:id":1108836469,
-    "wof:lastmodified":1684351564,
+    "wof:lastmodified":1695876922,
     "wof:name":"Pfaffing",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

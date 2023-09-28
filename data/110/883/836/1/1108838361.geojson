@@ -29,6 +29,12 @@
     "geom:latitude":46.666284,
     "geom:longitude":13.742326,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.66299,
     "lbl:longitude":13.741226,
     "lbl:max_zoom":18.0,
@@ -69,9 +75,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20726",
         "eg:gisco_id":"AT_20726",
         "eurostat:nuts_2021_id":"20726"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047118,
     "wof:geomhash":"6ae497bdb339a0e31fbe4bfcd2aeb090",
@@ -85,7 +93,7 @@
         }
     ],
     "wof:id":1108838361,
-    "wof:lastmodified":1684351616,
+    "wof:lastmodified":1695877035,
     "wof:name":"Weissenstein",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",

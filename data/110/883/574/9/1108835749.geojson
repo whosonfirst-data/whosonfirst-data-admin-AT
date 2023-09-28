@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":503,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.998931,
     "lbl:longitude":15.021314,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30915",
         "eg:gisco_id":"AT_30915",
         "eurostat:nuts_2021_id":"30915",
         "gn:id":7872876,
         "qs_pg:id":108739
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046776,
     "wof:geomhash":"3b42b76bd5dee2745830a3c27c1f7766",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835749,
-    "wof:lastmodified":1684351541,
+    "wof:lastmodified":1695876878,
     "wof:name":"Haugschlag",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",

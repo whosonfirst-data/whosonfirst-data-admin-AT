@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5726,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.171966,
     "lbl:longitude":15.069691,
     "lbl:max_zoom":15.0,
@@ -149,6 +155,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31549",
         "eg:gisco_id":"AT_31549",
         "eurostat:nuts_2021_id":"31549",
         "gn:id":7871831,
@@ -158,6 +165,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":904282
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046777,
     "wof:geomhash":"4b127074bdd0fa38c5e5817ea77faa56",
@@ -171,7 +179,7 @@
         }
     ],
     "wof:id":1108835759,
-    "wof:lastmodified":1684351542,
+    "wof:lastmodified":1695876879,
     "wof:name":"Ybbs an der Donau",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

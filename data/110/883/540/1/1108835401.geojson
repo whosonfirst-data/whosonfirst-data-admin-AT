@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1899,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.988596,
     "lbl:longitude":16.658195,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30724",
         "eg:gisco_id":"AT_30724",
         "eurostat:nuts_2021_id":"30724",
         "gn:id":7871725,
         "qs_pg:id":108339
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046733,
     "wof:geomhash":"f347dd6153856b57e59143010ca5a3b7",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835401,
-    "wof:lastmodified":1684351530,
+    "wof:lastmodified":1695876856,
     "wof:name":"Sommerein",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.897348,
     "geom:longitude":16.968697,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.905807,
     "lbl:longitude":16.973235,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10712",
         "eg:gisco_id":"AT_10712",
         "eurostat:nuts_2021_id":"10712"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047142,
     "wof:geomhash":"c4ce94000e41b1ba05580ac0318af847",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108838575,
-    "wof:lastmodified":1684351622,
+    "wof:lastmodified":1695877047,
     "wof:name":"M\u00f6nchhof",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

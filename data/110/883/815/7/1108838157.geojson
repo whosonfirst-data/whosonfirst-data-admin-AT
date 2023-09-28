@@ -29,6 +29,12 @@
     "geom:latitude":46.608254,
     "geom:longitude":13.508592,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.600377,
     "lbl:longitude":13.522541,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20316",
         "eg:gisco_id":"AT_20316",
         "eurostat:nuts_2021_id":"20316"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047090,
     "wof:geomhash":"7660ed66fa6b93cb58511de253c67cdb",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838157,
-    "wof:lastmodified":1684351609,
+    "wof:lastmodified":1695877020,
     "wof:name":"Sankt Stefan Im Gailtal",
     "wof:parent_id":102049675,
     "wof:placetype":"localadmin",

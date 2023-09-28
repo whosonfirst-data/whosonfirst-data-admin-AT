@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4709,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.967251,
     "lbl:longitude":13.782499,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40713",
         "eg:gisco_id":"AT_40713",
         "eurostat:nuts_2021_id":"40713",
         "gn:id":7872015,
         "qs_pg:id":1042032
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046693,
     "wof:geomhash":"c08d829cee023c096d1482a4ac018d44",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835149,
-    "wof:lastmodified":1684351523,
+    "wof:lastmodified":1695876842,
     "wof:name":"Ohlsdorf",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",

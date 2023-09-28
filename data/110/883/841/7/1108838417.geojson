@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1135,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.0092,
     "lbl:longitude":16.98178,
     "lbl:max_zoom":16.0,
@@ -152,11 +158,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10706",
         "eg:gisco_id":"AT_10706",
         "eurostat:nuts_2021_id":"10706",
         "gn:id":7872715,
         "qs_pg:id":108676
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047124,
     "wof:geomhash":"417a36be3ec60a33921809d7d773939c",
@@ -170,7 +178,7 @@
         }
     ],
     "wof:id":1108838417,
-    "wof:lastmodified":1684351618,
+    "wof:lastmodified":1695877039,
     "wof:name":"Gattendorf",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

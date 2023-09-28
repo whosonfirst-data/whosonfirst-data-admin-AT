@@ -29,6 +29,12 @@
     "geom:latitude":47.706703,
     "geom:longitude":16.249123,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.702192,
     "lbl:longitude":16.249662,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32333",
         "eg:gisco_id":"AT_32333",
         "eurostat:nuts_2021_id":"32333"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046834,
     "wof:geomhash":"2740a6ceb99c517ec99173f00963a5fc",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108836197,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876906,
     "wof:name":"Walpersbach",
     "wof:parent_id":102049787,
     "wof:placetype":"localadmin",

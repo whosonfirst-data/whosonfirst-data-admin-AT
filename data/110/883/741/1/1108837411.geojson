@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2535,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.651744,
     "lbl:longitude":12.209275,
     "lbl:max_zoom":15.0,
@@ -86,12 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70518",
         "eg:gisco_id":"AT_70518",
         "eurostat:nuts_2021_id":"70518",
         "gn:id":7872569,
         "gp:id":12675499,
         "qs_pg:id":1192822
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046998,
     "wof:geomhash":"87d409e8a4a167941613756710bd4def",
@@ -105,7 +113,7 @@
         }
     ],
     "wof:id":1108837411,
-    "wof:lastmodified":1684351590,
+    "wof:lastmodified":1695876981,
     "wof:name":"Niederndorf",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

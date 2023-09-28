@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6333,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.553551,
     "lbl:longitude":9.758879,
     "lbl:max_zoom":15.0,
@@ -131,11 +137,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80218",
         "eg:gisco_id":"AT_80218",
         "eurostat:nuts_2021_id":"80218",
         "gn:id":7873734,
         "qs_pg:id":381210
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047064,
     "wof:geomhash":"2e4bdf595bb9e3bc1bb1f194db48dfe0",
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":1108837961,
-    "wof:lastmodified":1684351603,
+    "wof:lastmodified":1695877009,
     "wof:name":"H\u00f6rbranz",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

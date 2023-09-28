@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":305,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.23759,
     "lbl:longitude":16.428212,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10932",
         "eg:gisco_id":"AT_10932",
         "eurostat:nuts_2021_id":"10932",
         "gn:id":7872755,
         "qs_pg:id":904320
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047161,
     "wof:geomhash":"e3c2da2051f28e8f10e77b46b32426e5",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838725,
-    "wof:lastmodified":1684351626,
+    "wof:lastmodified":1695877056,
     "wof:name":"Schandorf",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

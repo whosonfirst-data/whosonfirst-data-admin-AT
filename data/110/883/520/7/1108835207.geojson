@@ -12,11 +12,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001333,
-    "geom:area_square_m":10953711.819078,
+    "geom:area_square_m":10953711.819077,
     "geom:bbox":"13.7294476026,48.3328223595,13.800719088,48.3826540752",
     "geom:latitude":48.363336,
     "geom:longitude":13.762584,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.36216,
     "lbl:longitude":13.762561,
     "lbl:max_zoom":18.0,
@@ -96,10 +102,13 @@
         102049861
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "austriaod:number":"40819"
+    },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046701,
-    "wof:geomhash":"6a9e57d29c43821ceeecd8764f3be521",
+    "wof:geomhash":"005a169c5bfa8bdd5fcd73e0c8661cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1108835207,
-    "wof:lastmodified":1566598422,
+    "wof:lastmodified":1695876809,
     "wof:name":"Peuerbach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

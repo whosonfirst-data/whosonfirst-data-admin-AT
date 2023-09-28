@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3632,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.111186,
     "lbl:longitude":13.176985,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40441",
         "eg:gisco_id":"AT_40441",
         "eurostat:nuts_2021_id":"40441",
         "gn:id":7871984,
         "qs_pg:id":1155131
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046648,
     "wof:geomhash":"a9d9e0df7f71c0d3e740e6482619ea08",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108834797,
-    "wof:lastmodified":1684351510,
+    "wof:lastmodified":1695876817,
     "wof:name":"Schalchen",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

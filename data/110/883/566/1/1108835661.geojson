@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":642,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.281179,
     "lbl:longitude":13.21714,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41217",
         "eg:gisco_id":"AT_41217",
         "eurostat:nuts_2021_id":"41217",
         "gn:id":7872086,
         "qs_pg:id":108503
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046766,
     "wof:geomhash":"fbafffd8ab4f1b82e326ee506ce6c0f4",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835661,
-    "wof:lastmodified":1684351539,
+    "wof:lastmodified":1695876873,
     "wof:name":"M\u00fchlheim am Inn",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

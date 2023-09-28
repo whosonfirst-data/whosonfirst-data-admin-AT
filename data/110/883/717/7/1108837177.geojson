@@ -29,6 +29,12 @@
     "geom:latitude":47.956652,
     "geom:longitude":13.149805,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.959064,
     "lbl:longitude":13.150435,
     "lbl:max_zoom":18.0,
@@ -96,9 +102,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50331",
         "eg:gisco_id":"AT_50331",
         "eurostat:nuts_2021_id":"50331"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046965,
     "wof:geomhash":"65e20b9b2e304ca725e0dd7c0d1f01c0",
@@ -112,7 +120,7 @@
         }
     ],
     "wof:id":1108837177,
-    "wof:lastmodified":1684351584,
+    "wof:lastmodified":1695876968,
     "wof:name":"Schleedorf",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.486527,
     "geom:longitude":14.187623,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.496247,
     "lbl:longitude":14.18645,
     "lbl:max_zoom":18.0,
@@ -63,9 +69,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61203",
         "eg:gisco_id":"AT_61203",
         "eurostat:nuts_2021_id":"61203"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047192,
     "wof:geomhash":"b39a3ff32f3abe6d10285cc2b60700ac",
@@ -79,7 +87,7 @@
         }
     ],
     "wof:id":1108838977,
-    "wof:lastmodified":1684351633,
+    "wof:lastmodified":1695877071,
     "wof:name":"Aigen",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

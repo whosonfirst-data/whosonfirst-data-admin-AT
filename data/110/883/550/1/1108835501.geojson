@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2743,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.922171,
     "lbl:longitude":14.113034,
     "lbl:max_zoom":15.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40917",
         "eg:gisco_id":"AT_40917",
         "eurostat:nuts_2021_id":"40917",
         "gn:id":7872046,
         "qs_pg:id":108485
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046745,
     "wof:geomhash":"0bbba4b994e2357b3ac02dc8663bf02e",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835501,
-    "wof:lastmodified":1684351533,
+    "wof:lastmodified":1695876862,
     "wof:name":"Schlierbach",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

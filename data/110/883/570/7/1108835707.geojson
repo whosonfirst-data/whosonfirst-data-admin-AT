@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001647,
-    "geom:area_square_m":13473503.145381,
+    "geom:area_square_m":13473503.145375,
     "geom:bbox":"14.1097660965,48.5480610745,14.1690306914,48.5977586932",
     "geom:latitude":48.576461,
     "geom:longitude":14.141932,
@@ -20,6 +20,12 @@
     "gn:fcode":"ADM3",
     "gn:population":430,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.579689,
     "lbl:longitude":14.141948,
     "lbl:max_zoom":17.0,
@@ -115,6 +121,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41301",
         "gn:id":7872101,
         "gp:id":12674615,
         "qs_pg:id":111489
@@ -122,9 +129,10 @@
     "wof:concordances_alt":{
         "qs_pg:id":743327
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046771,
-    "wof:geomhash":"4e192ffa37c2b2b5780d7d8de4cf5bd5",
+    "wof:geomhash":"fc938dde9f3451d9005b5e6691c69efa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +143,7 @@
         }
     ],
     "wof:id":1108835707,
-    "wof:lastmodified":1566598769,
+    "wof:lastmodified":1695876811,
     "wof:name":"Afiesl",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

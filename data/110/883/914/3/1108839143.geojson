@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4180,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.019609,
     "lbl:longitude":15.563496,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60653",
         "eg:gisco_id":"AT_60653",
         "eurostat:nuts_2021_id":"60653",
         "gn:id":7873418,
         "qs_pg:id":1245871
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047214,
     "wof:geomhash":"6145c21345a88e0569e58f06532d6ab8",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108839143,
-    "wof:lastmodified":1684351638,
+    "wof:lastmodified":1695877082,
     "wof:name":"Vasoldsberg",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

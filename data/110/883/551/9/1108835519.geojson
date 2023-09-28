@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":15587,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.20163,
     "lbl:longitude":14.27771,
     "lbl:max_zoom":15.0,
@@ -167,6 +173,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41002",
         "eg:gisco_id":"AT_41002",
         "eurostat:nuts_2021_id":"41002",
         "gn:id":7872049,
@@ -176,6 +183,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":108486
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046747,
     "wof:geomhash":"6438e4835aa587a645bb3a2445f86707",
@@ -189,7 +197,7 @@
         }
     ],
     "wof:id":1108835519,
-    "wof:lastmodified":1684351534,
+    "wof:lastmodified":1695876863,
     "wof:name":"Ansfelden",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

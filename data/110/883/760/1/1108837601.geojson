@@ -29,6 +29,12 @@
     "geom:latitude":47.017519,
     "geom:longitude":11.310795,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.014027,
     "lbl:longitude":11.299357,
     "lbl:max_zoom":18.0,
@@ -114,9 +120,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70317",
         "eg:gisco_id":"AT_70317",
         "eurostat:nuts_2021_id":"70317"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047022,
     "wof:geomhash":"391958e836c4ad0db9553162c9933cf4",
@@ -130,7 +138,7 @@
         }
     ],
     "wof:id":1108837601,
-    "wof:lastmodified":1684351595,
+    "wof:lastmodified":1695876991,
     "wof:name":"Gschnitz",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

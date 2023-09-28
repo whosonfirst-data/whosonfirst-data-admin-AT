@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1883,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.300769,
     "lbl:longitude":9.58242,
     "lbl:max_zoom":15.0,
@@ -194,11 +200,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80413",
         "eg:gisco_id":"AT_80413",
         "eurostat:nuts_2021_id":"80413",
         "gn:id":7872679,
         "qs_pg:id":381042
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047069,
     "wof:geomhash":"5ad8838f8b00e33b3fbf5b221587297b",
@@ -212,7 +220,7 @@
         }
     ],
     "wof:id":1108838005,
-    "wof:lastmodified":1684351604,
+    "wof:lastmodified":1695877010,
     "wof:name":"Meiningen",
     "wof:parent_id":102049725,
     "wof:placetype":"localadmin",

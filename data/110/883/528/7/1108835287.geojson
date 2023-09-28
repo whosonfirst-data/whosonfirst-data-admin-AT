@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":15079,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.73277,
     "lbl:longitude":16.023428,
     "lbl:max_zoom":15.0,
@@ -146,11 +152,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31839",
         "eg:gisco_id":"AT_31839",
         "eurostat:nuts_2021_id":"31839",
         "gn:id":7871873,
         "qs_pg:id":108414
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046719,
     "wof:geomhash":"dbcee77ac7fe6e8fbda35d48973d90f1",
@@ -164,7 +172,7 @@
         }
     ],
     "wof:id":1108835287,
-    "wof:lastmodified":1684351527,
+    "wof:lastmodified":1695876850,
     "wof:name":"Ternitz",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

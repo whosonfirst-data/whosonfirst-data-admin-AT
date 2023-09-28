@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":844,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.722888,
     "lbl:longitude":16.717937,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31646",
         "eg:gisco_id":"AT_31646",
         "eurostat:nuts_2021_id":"31646",
         "gn:id":7872967,
         "qs_pg:id":108766
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046784,
     "wof:geomhash":"51bff30a0814d14ac6f913885dce1288",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835817,
-    "wof:lastmodified":1684351543,
+    "wof:lastmodified":1695876882,
     "wof:name":"Schrattenberg",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

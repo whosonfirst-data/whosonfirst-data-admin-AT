@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1588,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.508188,
     "lbl:longitude":13.861832,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41328",
         "eg:gisco_id":"AT_41328",
         "eurostat:nuts_2021_id":"41328",
         "gn:id":7873201,
         "qs_pg:id":1155453
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046807,
     "wof:geomhash":"891fb65908cca7b5c67a5542e0dcb563",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835989,
-    "wof:lastmodified":1684351548,
+    "wof:lastmodified":1695876891,
     "wof:name":"Putzleinsdorf",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

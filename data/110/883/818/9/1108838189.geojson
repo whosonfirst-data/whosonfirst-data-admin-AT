@@ -29,6 +29,12 @@
     "geom:latitude":46.635924,
     "geom:longitude":14.153382,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.63683,
     "lbl:longitude":14.153378,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20424",
         "eg:gisco_id":"AT_20424",
         "eurostat:nuts_2021_id":"20424"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047093,
     "wof:geomhash":"af313baeaa756f79436cb211764d484d",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838189,
-    "wof:lastmodified":1684351610,
+    "wof:lastmodified":1695877022,
     "wof:name":"P\u00f6rtschach Am W\u00f6rther See",
     "wof:parent_id":102049681,
     "wof:placetype":"localadmin",

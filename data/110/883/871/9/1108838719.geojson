@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1159,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.960456,
     "lbl:longitude":16.22686,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10506",
         "eg:gisco_id":"AT_10506",
         "eurostat:nuts_2021_id":"10506",
         "gn:id":7872703,
         "qs_pg:id":108670
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047159,
     "wof:geomhash":"15fd3e655b899cdaf68dd48e19b6c93e",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838719,
-    "wof:lastmodified":1684351625,
+    "wof:lastmodified":1695877055,
     "wof:name":"Mogersdorf",
     "wof:parent_id":102049715,
     "wof:placetype":"localadmin",

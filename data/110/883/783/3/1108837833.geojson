@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1480,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.182021,
     "lbl:longitude":11.807101,
     "lbl:max_zoom":16.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70927",
         "eg:gisco_id":"AT_70927",
         "eurostat:nuts_2021_id":"70927",
         "gn:id":7872635,
         "gp:id":12675413,
         "qs_pg:id":190167
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047048,
     "wof:geomhash":"e5375f64d0502dd8eb25bf156a6aa6ab",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837833,
-    "wof:lastmodified":1684351600,
+    "wof:lastmodified":1695877001,
     "wof:name":"Schwendau",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",

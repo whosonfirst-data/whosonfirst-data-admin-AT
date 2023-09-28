@@ -29,6 +29,12 @@
     "geom:latitude":47.044603,
     "geom:longitude":10.446366,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.043666,
     "lbl:longitude":10.445141,
     "lbl:max_zoom":18.0,
@@ -72,9 +78,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70623",
         "eg:gisco_id":"AT_70623",
         "eurostat:nuts_2021_id":"70623"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046989,
     "wof:geomhash":"ec63c439e3e4fed3c409c7022d410be3",
@@ -88,7 +96,7 @@
         }
     ],
     "wof:id":1108837329,
-    "wof:lastmodified":1684351588,
+    "wof:lastmodified":1695876977,
     "wof:name":"See",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",

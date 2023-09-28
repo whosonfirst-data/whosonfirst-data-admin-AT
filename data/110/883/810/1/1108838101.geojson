@@ -30,6 +30,12 @@
     "geom:longitude":16.377844,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.20269,
     "lbl:longitude":16.381556,
     "lbl:max_zoom":18.0,
@@ -66,11 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"90001",
         "eg:gisco_id":"AT_90001",
         "eurostat:nuts_2021_id":"90001",
         "gp:id":12675684,
         "qs_pg:id":913332
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:coterminous":[
         85681667
     ],
@@ -87,7 +95,7 @@
         }
     ],
     "wof:id":1108838101,
-    "wof:lastmodified":1684351607,
+    "wof:lastmodified":1695877016,
     "wof:name":"Wien",
     "wof:parent_id":102049859,
     "wof:placetype":"localadmin",

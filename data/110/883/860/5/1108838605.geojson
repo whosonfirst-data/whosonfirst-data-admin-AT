@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.799291,
     "lbl:longitude":16.499192,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10319",
         "eg:gisco_id":"AT_10319",
         "eurostat:nuts_2021_id":"10319",
         "gn:id":2760825,
@@ -144,6 +151,7 @@
         "gn:id":7871545,
         "qs_pg:id":1041922
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047145,
     "wof:geomhash":"c6530297ce98dcd4fd1ef1699b949464",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838605,
-    "wof:lastmodified":1684351623,
+    "wof:lastmodified":1695877048,
     "wof:name":"Wulkaprodersdorf",
     "wof:parent_id":102049811,
     "wof:placetype":"localadmin",

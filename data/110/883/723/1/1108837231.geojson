@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2925,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.373308,
     "lbl:longitude":12.622423,
     "lbl:max_zoom":15.0,
@@ -146,6 +152,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50618",
         "eg:gisco_id":"AT_50618",
         "eurostat:nuts_2021_id":"50618",
         "gn:id":7872248,
@@ -155,6 +162,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1155211
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046971,
     "wof:geomhash":"de85c1ddbbc12bb19764185cac99d6a0",
@@ -168,7 +176,7 @@
         }
     ],
     "wof:id":1108837231,
-    "wof:lastmodified":1684351586,
+    "wof:lastmodified":1695876971,
     "wof:name":"Saalbach-Hinterglemm",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1601,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.348298,
     "lbl:longitude":15.691227,
     "lbl:max_zoom":16.0,
@@ -122,6 +128,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31928",
         "eg:gisco_id":"AT_31928",
         "eurostat:nuts_2021_id":"31928",
         "gn:id":7873018,
@@ -131,6 +138,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1245825
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046665,
     "wof:geomhash":"fa5b4a6522f44ad669aebc3be0971ca0",
@@ -144,7 +152,7 @@
         }
     ],
     "wof:id":1108834941,
-    "wof:lastmodified":1684351515,
+    "wof:lastmodified":1695876826,
     "wof:name":"Nu\u00dfdorf ob der Traisen",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

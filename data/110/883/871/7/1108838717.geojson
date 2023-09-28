@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":610,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.098456,
     "lbl:longitude":16.992768,
     "lbl:max_zoom":17.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10727",
         "eg:gisco_id":"AT_10727",
         "eurostat:nuts_2021_id":"10727",
         "gn:id":7871597,
@@ -141,6 +148,7 @@
         "gn:id":2780448,
         "qs_pg:id":502306
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047159,
     "wof:geomhash":"5948d4aadc988a8e4361a48e89f90df8",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108838717,
-    "wof:lastmodified":1684351625,
+    "wof:lastmodified":1695877055,
     "wof:name":"Edelstal",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.936397,
     "lbl:longitude":15.232139,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32210",
         "eg:gisco_id":"AT_32210",
         "eurostat:nuts_2021_id":"32210",
         "gn:id":2774589,
@@ -144,6 +151,7 @@
         "gn:id":7873047,
         "qs_pg:id":108805
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046675,
     "wof:geomhash":"76314912b732b6d28dfdeea4bc482f1c",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835021,
-    "wof:lastmodified":1684351517,
+    "wof:lastmodified":1695876831,
     "wof:name":"Kautzen",
     "wof:parent_id":102049903,
     "wof:placetype":"localadmin",

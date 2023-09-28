@@ -29,6 +29,12 @@
     "geom:latitude":47.208761,
     "geom:longitude":15.649075,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.202089,
     "lbl:longitude":15.652922,
     "lbl:max_zoom":18.0,
@@ -123,9 +129,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61766",
         "eg:gisco_id":"AT_61766",
         "eurostat:nuts_2021_id":"61766"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047184,
     "wof:geomhash":"90bc938d6be81c1958be69a3b4dce373",
@@ -139,7 +147,7 @@
         }
     ],
     "wof:id":1108838919,
-    "wof:lastmodified":1684351632,
+    "wof:lastmodified":1695877068,
     "wof:name":"Weiz",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

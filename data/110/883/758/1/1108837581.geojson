@@ -29,6 +29,12 @@
     "geom:latitude":47.18914,
     "geom:longitude":11.480272,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.192734,
     "lbl:longitude":11.481475,
     "lbl:max_zoom":18.0,
@@ -114,9 +120,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70307",
         "eg:gisco_id":"AT_70307",
         "eurostat:nuts_2021_id":"70307"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047020,
     "wof:geomhash":"dd4fbdf84afc21da7d9911a471f788ab",
@@ -130,7 +138,7 @@
         }
     ],
     "wof:id":1108837581,
-    "wof:lastmodified":1684351595,
+    "wof:lastmodified":1695876990,
     "wof:name":"Ellb\u00f6gen",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

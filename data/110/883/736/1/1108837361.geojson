@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":4180,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.449423,
     "lbl:longitude":12.555162,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70403",
         "eg:gisco_id":"AT_70403",
         "eurostat:nuts_2021_id":"70403",
         "gn:id":2779595,
@@ -153,6 +160,7 @@
         "gn:id":7872556,
         "qs_pg:id":1155289
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046992,
     "wof:geomhash":"a5048dfef09ec1489b5c14fe849c3797",
@@ -166,7 +174,7 @@
         }
     ],
     "wof:id":1108837361,
-    "wof:lastmodified":1684351589,
+    "wof:lastmodified":1695876979,
     "wof:name":"Fieberbrunn",
     "wof:parent_id":102049763,
     "wof:placetype":"localadmin",

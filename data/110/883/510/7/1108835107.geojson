@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1886,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.366902,
     "lbl:longitude":14.46429,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40622",
         "eg:gisco_id":"AT_40622",
         "eurostat:nuts_2021_id":"40622",
         "gn:id":7872004,
         "qs_pg:id":1042023
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046688,
     "wof:geomhash":"b42c1a2920cc58b7e1c62dede75b30f2",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835107,
-    "wof:lastmodified":1684351521,
+    "wof:lastmodified":1695876839,
     "wof:name":"Unterweitersdorf",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",

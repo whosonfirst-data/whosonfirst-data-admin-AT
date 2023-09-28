@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2006,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.875395,
     "lbl:longitude":16.046194,
     "lbl:max_zoom":15.0,
@@ -98,12 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32332",
         "eg:gisco_id":"AT_32332",
         "eurostat:nuts_2021_id":"32332",
         "gn:id":7871943,
         "gp:id":12673712,
         "qs_pg:id":1192231
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046651,
     "wof:geomhash":"96ba3fcb0f3c041f4c6ee95b6c97c608",
@@ -117,7 +125,7 @@
         }
     ],
     "wof:id":1108834833,
-    "wof:lastmodified":1684351512,
+    "wof:lastmodified":1695876820,
     "wof:name":"Waldegg",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":8582,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.094281,
     "lbl:longitude":16.272255,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31716",
         "eg:gisco_id":"AT_31716",
         "eurostat:nuts_2021_id":"31716",
         "gn:id":7871854,
@@ -153,6 +160,7 @@
         "gn:id":2771940,
         "qs_pg:id":190851
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046783,
     "wof:geomhash":"37a9ab44a8c2140df706d6e059d7d8aa",
@@ -166,7 +174,7 @@
         }
     ],
     "wof:id":1108835807,
-    "wof:lastmodified":1684351543,
+    "wof:lastmodified":1695876881,
     "wof:name":"Maria Enzersdorf",
     "wof:parent_id":102049837,
     "wof:placetype":"localadmin",

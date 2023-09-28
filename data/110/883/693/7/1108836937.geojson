@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1259,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.94785,
     "lbl:longitude":16.327201,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30636",
         "eg:gisco_id":"AT_30636",
         "eurostat:nuts_2021_id":"30636",
         "gn:id":7872844,
         "qs_pg:id":1245801
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046932,
     "wof:geomhash":"e7509b75dfeb8e3ec6e993f0fd74b403",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836937,
-    "wof:lastmodified":1684351576,
+    "wof:lastmodified":1695876951,
     "wof:name":"Tattendorf",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

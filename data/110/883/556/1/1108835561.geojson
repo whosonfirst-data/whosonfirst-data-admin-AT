@@ -29,6 +29,12 @@
     "geom:latitude":48.139706,
     "geom:longitude":14.284164,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.136322,
     "lbl:longitude":14.289393,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41020",
         "eg:gisco_id":"AT_41020",
         "eurostat:nuts_2021_id":"41020"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046752,
     "wof:geomhash":"5fb7e2360a034d37e8071a586126dee8",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835561,
-    "wof:lastmodified":1684351535,
+    "wof:lastmodified":1695876865,
     "wof:name":"St. Marien",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

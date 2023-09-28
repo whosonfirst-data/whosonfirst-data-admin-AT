@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":902,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.913559,
     "lbl:longitude":16.566468,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30701",
         "eg:gisco_id":"AT_30701",
         "eurostat:nuts_2021_id":"30701",
         "gn:id":7872684,
         "qs_pg:id":108656
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046740,
     "wof:geomhash":"93f61ab332adc33d862adaa648e84a8e",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835463,
-    "wof:lastmodified":1684351532,
+    "wof:lastmodified":1695876860,
     "wof:name":"Au am Leithaberge",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

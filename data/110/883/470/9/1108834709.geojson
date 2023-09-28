@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2344,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.178919,
     "lbl:longitude":13.307506,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40402",
         "eg:gisco_id":"AT_40402",
         "eurostat:nuts_2021_id":"40402",
         "gn:id":7873092,
@@ -152,6 +159,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1249909
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046636,
     "wof:geomhash":"aeca7edd4636f1383a884db434f2f229",
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1108834709,
-    "wof:lastmodified":1684351507,
+    "wof:lastmodified":1695876812,
     "wof:name":"Aspach",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

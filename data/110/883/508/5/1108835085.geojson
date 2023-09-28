@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3049,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.437213,
     "lbl:longitude":14.455348,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40612",
         "eg:gisco_id":"AT_40612",
         "eurostat:nuts_2021_id":"40612",
         "gn:id":7871998,
@@ -140,6 +147,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":380982
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046685,
     "wof:geomhash":"d3ea02d71981599bce559aef8bdf24fb",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108835085,
-    "wof:lastmodified":1684351520,
+    "wof:lastmodified":1695876836,
     "wof:name":"Neumarkt im M\u00fchlkreis",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",

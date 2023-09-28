@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":869,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.2705,
     "lbl:longitude":15.702835,
     "lbl:max_zoom":15.0,
@@ -293,11 +299,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61756",
         "eg:gisco_id":"AT_61756",
         "eurostat:nuts_2021_id":"61756",
         "gn:id":7872502,
         "qs_pg:id":1155274
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047176,
     "wof:geomhash":"d5dab4045ca520306c877dac4b9c17e5",
@@ -311,7 +319,7 @@
         }
     ],
     "wof:id":1108838851,
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1695877063,
     "wof:name":"Anger",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

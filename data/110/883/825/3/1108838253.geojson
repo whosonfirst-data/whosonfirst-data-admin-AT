@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.776153,
     "lbl:longitude":13.142303,
     "lbl:max_zoom":16.0,
@@ -71,6 +77,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20603",
         "eg:gisco_id":"AT_20603",
         "eurostat:nuts_2021_id":"20603",
         "gn:id":6692402,
@@ -81,6 +88,7 @@
         "gn:id":7872776,
         "qs_pg:id":1245786
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047101,
     "wof:geomhash":"9d9e14bbd9783bbe9dcca38ca0d6bc63",
@@ -94,7 +102,7 @@
         }
     ],
     "wof:id":1108838253,
-    "wof:lastmodified":1684351613,
+    "wof:lastmodified":1695877028,
     "wof:name":"Berg Im Drautal",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

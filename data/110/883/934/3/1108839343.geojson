@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1606,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.726582,
     "lbl:longitude":15.775373,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62383",
         "eg:gisco_id":"AT_62383",
         "eurostat:nuts_2021_id":"62383",
         "gn:id":7872487,
@@ -147,6 +154,7 @@
         "gn:id":2771010,
         "qs_pg:id":1101861
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047244,
     "wof:geomhash":"fc82bed9ff86d011d1e7adcfafcb153f",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108839343,
-    "wof:lastmodified":1684351646,
+    "wof:lastmodified":1695877095,
     "wof:name":"Mureck",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

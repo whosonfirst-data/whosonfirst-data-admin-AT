@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3656,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.754096,
     "lbl:longitude":16.245467,
     "lbl:max_zoom":15.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32316",
         "eg:gisco_id":"AT_32316",
         "eurostat:nuts_2021_id":"32316",
         "gn:id":7871936,
         "gp:id":12674121,
         "qs_pg:id":1150458
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046734,
     "wof:geomhash":"05aee47d33ee58e8a3480ae32c607120",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108835407,
-    "wof:lastmodified":1684351530,
+    "wof:lastmodified":1695876857,
     "wof:name":"Lanzenkirchen",
     "wof:parent_id":102049787,
     "wof:placetype":"localadmin",

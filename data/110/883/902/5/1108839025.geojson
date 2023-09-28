@@ -12,11 +12,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003402,
-    "geom:area_square_m":28836031.953113,
+    "geom:area_square_m":28836031.953112,
     "geom:bbox":"15.5683953656,46.6795649845,15.656709562,46.7555725874",
     "geom:latitude":46.721503,
     "geom:longitude":15.618504,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.716017,
     "lbl:longitude":15.629503,
     "lbl:max_zoom":18.0,
@@ -33,10 +39,13 @@
         102049699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "austriaod:number":"61058"
+    },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047198,
-    "wof:geomhash":"7ddc0ce0ce1ea56388af66328dceba13",
+    "wof:geomhash":"926d6fad499b70e22b99a38d1611055c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1108839025,
-    "wof:lastmodified":1566598528,
+    "wof:lastmodified":1695876810,
     "wof:name":"Stra\u00df-Spielfeld",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

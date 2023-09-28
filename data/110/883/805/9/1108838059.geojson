@@ -29,6 +29,12 @@
     "geom:latitude":47.11796,
     "geom:longitude":9.872265,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.114927,
     "lbl:longitude":9.867762,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80119",
         "eg:gisco_id":"AT_80119",
         "eurostat:nuts_2021_id":"80119"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047078,
     "wof:geomhash":"5710986edce15d8bcec928802c22b29d",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838059,
-    "wof:lastmodified":1684351606,
+    "wof:lastmodified":1695877014,
     "wof:name":"St. Anton",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

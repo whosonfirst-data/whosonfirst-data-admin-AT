@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":803,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.894158,
     "lbl:longitude":16.542659,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10321",
         "eg:gisco_id":"AT_10321",
         "eurostat:nuts_2021_id":"10321",
         "gn:id":7872689,
         "qs_pg:id":108658
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047130,
     "wof:geomhash":"cdeb17800ec8605bc2ae2438a24d01b5",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838465,
-    "wof:lastmodified":1684351619,
+    "wof:lastmodified":1695877041,
     "wof:name":"Stotzing",
     "wof:parent_id":102049811,
     "wof:placetype":"localadmin",

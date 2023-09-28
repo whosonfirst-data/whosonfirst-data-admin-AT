@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":3577,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.693163,
     "lbl:longitude":13.452562,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50336",
         "eg:gisco_id":"AT_50336",
         "eurostat:nuts_2021_id":"50336",
         "gn:id":2764121,
@@ -150,6 +157,7 @@
         "gn:id":7872217,
         "qs_pg:id":1155200
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046966,
     "wof:geomhash":"4ad26f94a5423d2e8bc139a312a91f95",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108837185,
-    "wof:lastmodified":1684351584,
+    "wof:lastmodified":1695876968,
     "wof:name":"Strobl",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

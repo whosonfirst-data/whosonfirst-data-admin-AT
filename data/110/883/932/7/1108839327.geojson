@@ -29,6 +29,12 @@
     "geom:latitude":47.568994,
     "geom:longitude":15.260427,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.568442,
     "lbl:longitude":15.259071,
     "lbl:max_zoom":18.0,
@@ -84,9 +90,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62138",
         "eg:gisco_id":"AT_62138",
         "eurostat:nuts_2021_id":"62138"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047242,
     "wof:geomhash":"97058d25c29c98f26a6b133765a2ea0a",
@@ -100,7 +108,7 @@
         }
     ],
     "wof:id":1108839327,
-    "wof:lastmodified":1684351645,
+    "wof:lastmodified":1695877094,
     "wof:name":"Aflenz",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1224,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.519057,
     "lbl:longitude":10.73089,
     "lbl:max_zoom":16.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70826",
         "eg:gisco_id":"AT_70826",
         "eurostat:nuts_2021_id":"70826",
         "gn:id":7872620,
         "gp:id":12675546,
         "qs_pg:id":38457
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047040,
     "wof:geomhash":"0a2da47cf47393e4eab97cc266b5229f",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837763,
-    "wof:lastmodified":1684351598,
+    "wof:lastmodified":1695876998,
     "wof:name":"Pflach",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

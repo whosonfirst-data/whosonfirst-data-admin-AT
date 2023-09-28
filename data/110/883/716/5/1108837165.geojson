@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2224,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.955509,
     "lbl:longitude":13.007175,
     "lbl:max_zoom":15.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50325",
         "eg:gisco_id":"AT_50325",
         "eurostat:nuts_2021_id":"50325",
         "gn:id":7872212,
         "qs_pg:id":381017
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046963,
     "wof:geomhash":"febee37ddad0f863327519131f54e284",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108837165,
-    "wof:lastmodified":1684351584,
+    "wof:lastmodified":1695876967,
     "wof:name":"Nu\u00dfdorf am Haunsberg",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":48.01814,
     "geom:longitude":12.883408,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.011013,
     "lbl:longitude":12.879089,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40437",
         "eg:gisco_id":"AT_40437",
         "eurostat:nuts_2021_id":"40437"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046646,
     "wof:geomhash":"797d9d2cf8796e32d9234cc3c3ff85c0",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108834789,
-    "wof:lastmodified":1684351510,
+    "wof:lastmodified":1695876817,
     "wof:name":"St. Pantaleon",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

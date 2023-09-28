@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":272,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.380362,
     "lbl:longitude":10.523768,
     "lbl:max_zoom":17.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70834",
         "eg:gisco_id":"AT_70834",
         "eurostat:nuts_2021_id":"70834",
         "gn:id":7872621,
         "gp:id":12675582,
         "qs_pg:id":1292641
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047034,
     "wof:geomhash":"3bf3a4fc6beb7ea9d13019124b6e685d",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837703,
-    "wof:lastmodified":1684351597,
+    "wof:lastmodified":1695876995,
     "wof:name":"Vorderhornbach",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

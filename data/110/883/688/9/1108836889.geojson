@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":779,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.651924,
     "lbl:longitude":16.798096,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31601",
         "eg:gisco_id":"AT_31601",
         "eurostat:nuts_2021_id":"31601",
         "gn:id":7871836,
         "qs_pg:id":108395
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046926,
     "wof:geomhash":"d23947271165e00ae2001dacd4127949",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836889,
-    "wof:lastmodified":1684351575,
+    "wof:lastmodified":1695876948,
     "wof:name":"Altlichtenwarth",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

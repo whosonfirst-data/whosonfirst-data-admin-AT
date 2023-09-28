@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1813,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.104935,
     "lbl:longitude":14.226395,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41018",
         "eg:gisco_id":"AT_41018",
         "eurostat:nuts_2021_id":"41018",
         "gn:id":7873167,
         "qs_pg:id":743484
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046751,
     "wof:geomhash":"1a32df3a15b903c5d2ce610ae264d7b4",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835555,
-    "wof:lastmodified":1684351535,
+    "wof:lastmodified":1695876865,
     "wof:name":"Piberbach",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

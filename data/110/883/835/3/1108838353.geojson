@@ -29,6 +29,12 @@
     "geom:latitude":46.5219,
     "geom:longitude":14.049027,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.525095,
     "lbl:longitude":14.047618,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20722",
         "eg:gisco_id":"AT_20722",
         "eurostat:nuts_2021_id":"20722"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047116,
     "wof:geomhash":"7d3ddfe14ff76e6c793b9e659a469921",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838353,
-    "wof:lastmodified":1684351616,
+    "wof:lastmodified":1695877034,
     "wof:name":"Sankt Jakob Im Rosental",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",

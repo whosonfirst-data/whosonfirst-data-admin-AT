@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":7574,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.033561,
     "lbl:longitude":16.771768,
     "lbl:max_zoom":15.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30704",
         "eg:gisco_id":"AT_30704",
         "eurostat:nuts_2021_id":"30704",
         "gn:id":7872849,
         "gp:id":12673390,
         "qs_pg:id":190071
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046845,
     "wof:geomhash":"86d2f848482cdc4593f77c320c27615d",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108836287,
-    "wof:lastmodified":1684351558,
+    "wof:lastmodified":1695876911,
     "wof:name":"Bruck an der Leitha",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

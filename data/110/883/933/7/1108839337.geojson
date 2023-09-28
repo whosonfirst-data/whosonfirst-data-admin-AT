@@ -29,6 +29,12 @@
     "geom:latitude":46.694487,
     "geom:longitude":16.000327,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.696269,
     "lbl:longitude":16.007763,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62376",
         "eg:gisco_id":"AT_62376",
         "eurostat:nuts_2021_id":"62376"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047244,
     "wof:geomhash":"e1b0735b7248b801e11aed077cc8580b",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839337,
-    "wof:lastmodified":1684351646,
+    "wof:lastmodified":1695877094,
     "wof:name":"Radkersburg",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

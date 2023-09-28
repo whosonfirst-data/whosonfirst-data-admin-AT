@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":541,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.424388,
     "lbl:longitude":14.525581,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62010",
         "eg:gisco_id":"AT_62010",
         "eurostat:nuts_2021_id":"62010",
         "gn:id":7872379,
@@ -144,6 +151,7 @@
         "gn:id":2775722,
         "qs_pg:id":1187778
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047252,
     "wof:geomhash":"59dd2f9f65113ba09c1a406ee72827e2",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108839399,
-    "wof:lastmodified":1684351647,
+    "wof:lastmodified":1695877097,
     "wof:name":"Hohentauern",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

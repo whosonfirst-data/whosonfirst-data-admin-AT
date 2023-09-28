@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1196,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.585256,
     "lbl:longitude":15.56092,
     "lbl:max_zoom":16.0,
@@ -89,11 +95,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31340",
         "eg:gisco_id":"AT_31340",
         "eurostat:nuts_2021_id":"31340",
         "gn:id":7872924,
         "qs_pg:id":108757
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046722,
     "wof:geomhash":"0b088755fdbed1819ffb0cfce6b788c4",
@@ -107,7 +115,7 @@
         }
     ],
     "wof:id":1108835317,
-    "wof:lastmodified":1684351528,
+    "wof:lastmodified":1695876852,
     "wof:name":"St. Leonhard am Hornerwald",
     "wof:parent_id":102049885,
     "wof:placetype":"localadmin",

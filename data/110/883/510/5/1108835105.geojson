@@ -29,6 +29,12 @@
     "geom:latitude":48.449073,
     "geom:longitude":14.803552,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.458797,
     "lbl:longitude":14.820267,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40621",
         "eg:gisco_id":"AT_40621",
         "eurostat:nuts_2021_id":"40621"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046687,
     "wof:geomhash":"e9afd008623f93e66e2dc6bc7e83cbdd",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108835105,
-    "wof:lastmodified":1684351521,
+    "wof:lastmodified":1695876838,
     "wof:name":"Unterwei\u00dfenbach",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",

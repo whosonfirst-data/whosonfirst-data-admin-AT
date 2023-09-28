@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2383,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.274713,
     "lbl:longitude":13.581106,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41231",
         "eg:gisco_id":"AT_41231",
         "eurostat:nuts_2021_id":"41231",
         "gn:id":7873188,
         "qs_pg:id":108853
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046770,
     "wof:geomhash":"42f8fbf7a0f57190befde4482ff7f7e8",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835693,
-    "wof:lastmodified":1684351540,
+    "wof:lastmodified":1695876874,
     "wof:name":"Taiskirchen im Innkreis",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

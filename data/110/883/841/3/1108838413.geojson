@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":398,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.910111,
     "lbl:longitude":16.517483,
     "lbl:max_zoom":17.0,
@@ -113,11 +119,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10320",
         "eg:gisco_id":"AT_10320",
         "eurostat:nuts_2021_id":"10320",
         "gn:id":7871546,
         "qs_pg:id":108268
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047124,
     "wof:geomhash":"3dfecec6e981b40ac9dfb8aec05a6da3",
@@ -131,7 +139,7 @@
         }
     ],
     "wof:id":1108838413,
-    "wof:lastmodified":1684351618,
+    "wof:lastmodified":1695877038,
     "wof:name":"Loretto",
     "wof:parent_id":102049811,
     "wof:placetype":"localadmin",

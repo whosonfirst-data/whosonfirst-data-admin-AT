@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1941,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.603213,
     "lbl:longitude":12.698408,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50610",
         "eg:gisco_id":"AT_50610",
         "eurostat:nuts_2021_id":"50610",
         "gn:id":7873328,
@@ -150,6 +157,7 @@
         "gn:id":2772330,
         "qs_pg:id":247734
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046969,
     "wof:geomhash":"44091ebe15874dd6a71fc512cad2259d",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108837213,
-    "wof:lastmodified":1684351585,
+    "wof:lastmodified":1695876970,
     "wof:name":"Lofer",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

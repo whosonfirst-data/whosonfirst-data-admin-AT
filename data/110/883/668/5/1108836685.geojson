@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1111,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.647182,
     "lbl:longitude":16.886128,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31645",
         "eg:gisco_id":"AT_31645",
         "eurostat:nuts_2021_id":"31645",
         "gn:id":7871847,
         "qs_pg:id":108402
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046900,
     "wof:geomhash":"a4333a890146c5103e704968d66e6cc1",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836685,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876936,
     "wof:name":"Rabensburg",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

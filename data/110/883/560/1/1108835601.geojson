@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":7507,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.243478,
     "lbl:longitude":14.657824,
     "lbl:max_zoom":15.0,
@@ -146,12 +152,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41116",
         "eg:gisco_id":"AT_41116",
         "eurostat:nuts_2021_id":"41116",
         "gn:id":7872072,
         "gp:id":12674369,
         "qs_pg:id":1107578
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046757,
     "wof:geomhash":"85b4871c0cf482330a3799e738d9eaca",
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1108835601,
-    "wof:lastmodified":1684351537,
+    "wof:lastmodified":1695876868,
     "wof:name":"Perg",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",

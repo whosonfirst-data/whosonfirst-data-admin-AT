@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":23955,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.223832,
     "lbl:longitude":14.238727,
     "lbl:max_zoom":14.0,
@@ -182,6 +188,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41021",
         "eg:gisco_id":"AT_41021",
         "eurostat:nuts_2021_id":"41021",
         "gn:id":7872061,
@@ -191,6 +198,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1153905
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046752,
     "wof:geomhash":"a9ec6fbf57c2fdb6bbdcd6fc8b778b5d",
@@ -204,7 +212,7 @@
         }
     ],
     "wof:id":1108835563,
-    "wof:lastmodified":1684351535,
+    "wof:lastmodified":1695876866,
     "wof:name":"Traun",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

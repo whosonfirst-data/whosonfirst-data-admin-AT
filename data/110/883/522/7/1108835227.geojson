@@ -29,6 +29,12 @@
     "geom:latitude":48.347312,
     "geom:longitude":13.737965,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.34286,
     "lbl:longitude":13.736069,
     "lbl:max_zoom":18.0,
@@ -93,9 +99,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40828",
         "eg:gisco_id":"AT_40828",
         "eurostat:nuts_2021_id":"40828"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046704,
     "wof:geomhash":"0ae610703b2efbd8a40e0568455182bc",
@@ -109,7 +117,7 @@
         }
     ],
     "wof:id":1108835227,
-    "wof:lastmodified":1684351525,
+    "wof:lastmodified":1695876846,
     "wof:name":"Steegen",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

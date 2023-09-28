@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":799,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.920192,
     "lbl:longitude":10.177432,
     "lbl:max_zoom":17.0,
@@ -143,12 +149,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70606",
         "eg:gisco_id":"AT_70606",
         "eurostat:nuts_2021_id":"70606",
         "gn:id":7872577,
         "gp:id":12675456,
         "qs_pg:id":1192810
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046984,
     "wof:geomhash":"a6687390c4a2d75423bb8d790cf29fd5",
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1108837293,
-    "wof:lastmodified":1684351588,
+    "wof:lastmodified":1695876975,
     "wof:name":"Galt\u00fcr",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",

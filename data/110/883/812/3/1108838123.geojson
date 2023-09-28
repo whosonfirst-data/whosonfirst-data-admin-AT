@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":14286,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.713276,
     "lbl:longitude":14.107512,
     "lbl:max_zoom":15.0,
@@ -71,6 +77,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"21002",
         "eg:gisco_id":"AT_21002",
         "eurostat:nuts_2021_id":"21002",
         "gn:id":7871683,
@@ -80,6 +87,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1292644
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047086,
     "wof:geomhash":"ccbc65a4e9a1fb0902f242c90e9d90d6",
@@ -93,7 +101,7 @@
         }
     ],
     "wof:id":1108838123,
-    "wof:lastmodified":1684351608,
+    "wof:lastmodified":1695877018,
     "wof:name":"Feldkirchen In K\u00e4rnten",
     "wof:parent_id":102049689,
     "wof:placetype":"localadmin",

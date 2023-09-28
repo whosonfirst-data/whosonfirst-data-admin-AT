@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6620,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.276781,
     "lbl:longitude":15.98048,
     "lbl:max_zoom":15.0,
@@ -149,12 +155,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62219",
         "eg:gisco_id":"AT_62219",
         "eurostat:nuts_2021_id":"62219",
         "gn:id":7873427,
         "gp:id":12675130,
         "qs_pg:id":1310822
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047210,
     "wof:geomhash":"97857ef4106a2039321aa3ed071d9f46",
@@ -168,7 +176,7 @@
         }
     ],
     "wof:id":1108839121,
-    "wof:lastmodified":1684351638,
+    "wof:lastmodified":1695877080,
     "wof:name":"Hartberg",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

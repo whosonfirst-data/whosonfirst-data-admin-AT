@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":944,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.312815,
     "lbl:longitude":16.843215,
     "lbl:max_zoom":17.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30865",
         "eg:gisco_id":"AT_30865",
         "eurostat:nuts_2021_id":"30865",
         "gn:id":7871749,
         "qs_pg:id":108354
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046734,
     "wof:geomhash":"62566c855c0ef4bf018e82402bc2ba2e",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108835405,
-    "wof:lastmodified":1684351530,
+    "wof:lastmodified":1695876857,
     "wof:name":"Weiden an der March",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

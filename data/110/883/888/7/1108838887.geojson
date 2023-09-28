@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.489677,
     "lbl:longitude":14.465781,
     "lbl:max_zoom":15.0,
@@ -125,6 +131,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61247",
         "eg:gisco_id":"AT_61247",
         "eurostat:nuts_2021_id":"61247",
         "gn:id":2763362,
@@ -135,6 +142,7 @@
         "gn:id":7872453,
         "qs_pg:id":1063840
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047180,
     "wof:geomhash":"cf3cd696d780ce35c729baabda5bb4d9",
@@ -148,7 +156,7 @@
         }
     ],
     "wof:id":1108838887,
-    "wof:lastmodified":1684351631,
+    "wof:lastmodified":1695877066,
     "wof:name":"Trieben",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

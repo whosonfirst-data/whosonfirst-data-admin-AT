@@ -29,6 +29,12 @@
     "geom:latitude":48.676789,
     "geom:longitude":15.666261,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.683597,
     "lbl:longitude":15.669685,
     "lbl:max_zoom":18.0,
@@ -129,9 +135,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31109",
         "eg:gisco_id":"AT_31109",
         "eurostat:nuts_2021_id":"31109"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046797,
     "wof:geomhash":"0166360d2d47f42869d4103cee2de8fe",
@@ -145,7 +153,7 @@
         }
     ],
     "wof:id":1108835915,
-    "wof:lastmodified":1684351545,
+    "wof:lastmodified":1695876886,
     "wof:name":"Horn",
     "wof:parent_id":102049901,
     "wof:placetype":"localadmin",

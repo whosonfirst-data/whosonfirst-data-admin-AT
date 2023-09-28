@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1643,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.689417,
     "lbl:longitude":16.842384,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31604",
         "eg:gisco_id":"AT_31604",
         "eurostat:nuts_2021_id":"31604",
         "gn:id":7872952,
         "qs_pg:id":743455
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046837,
     "wof:geomhash":"a54f34805feca2cae765c6c09110b685",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836223,
-    "wof:lastmodified":1684351557,
+    "wof:lastmodified":1695876907,
     "wof:name":"Bernhardsthal",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

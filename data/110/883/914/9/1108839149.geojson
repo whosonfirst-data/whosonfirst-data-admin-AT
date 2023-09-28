@@ -29,6 +29,12 @@
     "geom:latitude":47.073089,
     "geom:longitude":15.34915,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.072418,
     "lbl:longitude":15.348605,
     "lbl:max_zoom":18.0,
@@ -81,9 +87,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60648",
         "eg:gisco_id":"AT_60648",
         "eurostat:nuts_2021_id":"60648"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047214,
     "wof:geomhash":"84cc23477c33ffb307a17fc7bc8a5bf1",
@@ -97,7 +105,7 @@
         }
     ],
     "wof:id":1108839149,
-    "wof:lastmodified":1684351639,
+    "wof:lastmodified":1695877082,
     "wof:name":"Thal",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

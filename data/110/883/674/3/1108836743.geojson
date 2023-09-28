@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1736,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.127622,
     "lbl:longitude":14.77907,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30544",
         "eg:gisco_id":"AT_30544",
         "eurostat:nuts_2021_id":"30544",
         "gn:id":7872832,
@@ -147,6 +154,7 @@
         "gn:id":2760669,
         "qs_pg:id":399727
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046907,
     "wof:geomhash":"db0225722dbac531143e47940e4205a2",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108836743,
-    "wof:lastmodified":1684351571,
+    "wof:lastmodified":1695876939,
     "wof:name":"Zeillern",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

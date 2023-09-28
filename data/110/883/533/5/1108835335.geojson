@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2494,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.068102,
     "lbl:longitude":14.93693,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30511",
         "eg:gisco_id":"AT_30511",
         "eurostat:nuts_2021_id":"30511",
         "gn:id":7872820,
@@ -153,6 +160,7 @@
         "gn:id":2779879,
         "qs_pg:id":75546
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046724,
     "wof:geomhash":"79d175316eb1d2e0d98e8f0831852f84",
@@ -166,7 +174,7 @@
         }
     ],
     "wof:id":1108835335,
-    "wof:lastmodified":1684351528,
+    "wof:lastmodified":1695876853,
     "wof:name":"Euratsfeld",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.917768,
     "lbl:longitude":16.067719,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30614",
         "eg:gisco_id":"AT_30614",
         "eurostat:nuts_2021_id":"30614",
         "gn:id":2776485,
@@ -141,6 +148,7 @@
         "gn:id":7872837,
         "qs_pg:id":1245800
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046782,
     "wof:geomhash":"8aee21dc46b4339c52626b0dfde0858e",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108835803,
-    "wof:lastmodified":1684351543,
+    "wof:lastmodified":1695876881,
     "wof:name":"Hernstein",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

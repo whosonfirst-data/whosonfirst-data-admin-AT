@@ -29,6 +29,12 @@
     "geom:latitude":46.750447,
     "geom:longitude":15.308732,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.759319,
     "lbl:longitude":15.313277,
     "lbl:max_zoom":18.0,
@@ -51,9 +57,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60347",
         "eg:gisco_id":"AT_60347",
         "eurostat:nuts_2021_id":"60347"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047236,
     "wof:geomhash":"bcd509294c971d638b39482943ad7568",
@@ -67,7 +75,7 @@
         }
     ],
     "wof:id":1108839283,
-    "wof:lastmodified":1684351643,
+    "wof:lastmodified":1695877091,
     "wof:name":"St. Martin",
     "wof:parent_id":102049691,
     "wof:placetype":"localadmin",

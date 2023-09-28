@@ -29,6 +29,12 @@
     "geom:latitude":46.997099,
     "geom:longitude":15.829501,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.994735,
     "lbl:longitude":15.831385,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62311",
         "eg:gisco_id":"AT_62311",
         "eurostat:nuts_2021_id":"62311"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047229,
     "wof:geomhash":"7e80ded5d90cbc074cb30f1717bec4e4",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839265,
-    "wof:lastmodified":1684351642,
+    "wof:lastmodified":1695877089,
     "wof:name":"Edelsbach",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

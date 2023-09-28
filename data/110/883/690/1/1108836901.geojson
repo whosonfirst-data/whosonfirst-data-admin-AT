@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.539048,
     "lbl:longitude":16.911318,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30810",
         "eg:gisco_id":"AT_30810",
         "eurostat:nuts_2021_id":"30810",
         "gn:id":2780665,
@@ -147,6 +154,7 @@
         "gn:id":7871729,
         "qs_pg:id":904269
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046927,
     "wof:geomhash":"6c5153673214c3a0943ac5a5802a5acf",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108836901,
-    "wof:lastmodified":1684351575,
+    "wof:lastmodified":1695876949,
     "wof:name":"Dr\u00f6sing",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

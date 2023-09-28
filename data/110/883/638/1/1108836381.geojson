@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.980934,
     "lbl:longitude":15.320277,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31906",
         "eg:gisco_id":"AT_31906",
         "eurostat:nuts_2021_id":"31906",
         "gn:id":2779379,
@@ -144,6 +151,7 @@
         "gn:id":7873011,
         "qs_pg:id":381116
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046864,
     "wof:geomhash":"d6f728b73288a4f0b25130956e177a57",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836381,
-    "wof:lastmodified":1684351561,
+    "wof:lastmodified":1695876916,
     "wof:name":"Frankenfels",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

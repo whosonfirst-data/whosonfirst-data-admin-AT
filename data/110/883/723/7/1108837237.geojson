@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1128,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.536928,
     "lbl:longitude":12.703628,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50620",
         "eg:gisco_id":"AT_50620",
         "eurostat:nuts_2021_id":"50620",
         "gn:id":7872250,
         "qs_pg:id":1155214
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046973,
     "wof:geomhash":"1de35c45ba7ecb8de525ebf880941526",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108837237,
-    "wof:lastmodified":1684351586,
+    "wof:lastmodified":1695876972,
     "wof:name":"Sankt Martin bei Lofer",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

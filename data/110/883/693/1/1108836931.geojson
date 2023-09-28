@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2726,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.142539,
     "lbl:longitude":15.937557,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31901",
         "eg:gisco_id":"AT_31901",
         "eurostat:nuts_2021_id":"31901",
         "gn:id":7873006,
         "qs_pg:id":381119
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046930,
     "wof:geomhash":"0fe227a502c6233722b0b0665f5c9137",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836931,
-    "wof:lastmodified":1684351576,
+    "wof:lastmodified":1695876950,
     "wof:name":"Altlengbach",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

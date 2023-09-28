@@ -29,6 +29,12 @@
     "geom:latitude":47.18448,
     "geom:longitude":15.787535,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.186605,
     "lbl:longitude":15.786715,
     "lbl:max_zoom":18.0,
@@ -57,9 +63,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61764",
         "eg:gisco_id":"AT_61764",
         "eurostat:nuts_2021_id":"61764"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047181,
     "wof:geomhash":"d05b64ae9913398aba42fe18b47e07ed",
@@ -73,7 +81,7 @@
         }
     ],
     "wof:id":1108838895,
-    "wof:lastmodified":1684351631,
+    "wof:lastmodified":1695877066,
     "wof:name":"Pischelsdorf",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

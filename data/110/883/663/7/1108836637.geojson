@@ -29,6 +29,12 @@
     "geom:latitude":48.102781,
     "geom:longitude":15.986097,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.102901,
     "lbl:longitude":15.984991,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30616",
         "eg:gisco_id":"AT_30616",
         "eurostat:nuts_2021_id":"30616"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046895,
     "wof:geomhash":"431e338ff0e8294a7146e21a62e319bd",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836637,
-    "wof:lastmodified":1684351568,
+    "wof:lastmodified":1695876933,
     "wof:name":"Klausen - Leopoldsdorf",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

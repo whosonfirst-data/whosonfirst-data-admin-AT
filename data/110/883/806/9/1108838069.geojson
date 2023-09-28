@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2329,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.292439,
     "lbl:longitude":9.6364,
     "lbl:max_zoom":15.0,
@@ -101,11 +107,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80420",
         "eg:gisco_id":"AT_80420",
         "eurostat:nuts_2021_id":"80420",
         "gn:id":7873750,
         "qs_pg:id":1155588
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047079,
     "wof:geomhash":"0e6d72bf8cdc56c2c827cc1ba94bb278",
@@ -119,7 +127,7 @@
         }
     ],
     "wof:id":1108838069,
-    "wof:lastmodified":1684351606,
+    "wof:lastmodified":1695877014,
     "wof:name":"Sulz",
     "wof:parent_id":102049725,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":46.798676,
     "geom:longitude":15.774298,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.794187,
     "lbl:longitude":15.770398,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62388",
         "eg:gisco_id":"AT_62388",
         "eurostat:nuts_2021_id":"62388"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047243,
     "wof:geomhash":"9ffee1c270eaeff92ae511ef410c4eea",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839335,
-    "wof:lastmodified":1684351646,
+    "wof:lastmodified":1695877094,
     "wof:name":"St. Peter",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

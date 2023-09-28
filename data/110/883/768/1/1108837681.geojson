@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2596,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.512509,
     "lbl:longitude":12.290898,
     "lbl:max_zoom":15.0,
@@ -146,12 +152,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70509",
         "eg:gisco_id":"AT_70509",
         "eurostat:nuts_2021_id":"70509",
         "gn:id":7872566,
         "gp:id":12675362,
         "qs_pg:id":1317014
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047031,
     "wof:geomhash":"961d83d30cc5068e2b2a628a3a8888a3",
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1108837681,
-    "wof:lastmodified":1684351597,
+    "wof:lastmodified":1695876994,
     "wof:name":"Ellmau",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.033166,
     "lbl:longitude":14.530293,
     "lbl:max_zoom":17.0,
@@ -125,6 +131,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61410",
         "eg:gisco_id":"AT_61410",
         "eurostat:nuts_2021_id":"61410",
         "gn:id":2771083,
@@ -135,6 +142,7 @@
         "gn:id":7873522,
         "qs_pg:id":108970
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047174,
     "wof:geomhash":"e74f4aa58f29dde3859088fbba7793d1",
@@ -148,7 +156,7 @@
         }
     ],
     "wof:id":1108838831,
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1695877062,
     "wof:name":"M\u00fchlen",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",

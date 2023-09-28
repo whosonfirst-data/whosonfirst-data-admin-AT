@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2835,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.687971,
     "lbl:longitude":14.899836,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30942",
         "eg:gisco_id":"AT_30942",
         "eurostat:nuts_2021_id":"30942",
         "gn:id":7871762,
@@ -144,6 +151,7 @@
         "gn:id":2761538,
         "qs_pg:id":75576
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046852,
     "wof:geomhash":"0fdbacc659ad4267cfdde63f05930f10",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836327,
-    "wof:lastmodified":1684351559,
+    "wof:lastmodified":1695876913,
     "wof:name":"Weitra",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",

@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000746,
-    "geom:area_square_m":6260033.934439,
+    "geom:area_square_m":6260033.934442,
     "geom:bbox":"11.4095542805,47.2098446117,11.4740777436,47.2485074933",
     "geom:latitude":47.229733,
     "geom:longitude":11.440884,
@@ -20,6 +20,12 @@
     "gn:fcode":"ADM3",
     "gn:population":907,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.240351,
     "lbl:longitude":11.427954,
     "lbl:max_zoom":16.0,
@@ -100,13 +106,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70325",
         "gn:id":7873608,
         "gp:id":12675502,
         "qs_pg:id":956397
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047013,
-    "wof:geomhash":"0683fb3e24222aa371081e825b984563",
+    "wof:geomhash":"9e5d1fc7c1b11f137e54fd73ef1fb27b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +125,7 @@
         }
     ],
     "wof:id":1108837537,
-    "wof:lastmodified":1566598183,
+    "wof:lastmodified":1695876809,
     "wof:name":"Lans",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

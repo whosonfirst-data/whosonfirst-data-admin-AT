@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3505,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.320816,
     "lbl:longitude":13.140253,
     "lbl:max_zoom":15.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50421",
         "eg:gisco_id":"AT_50421",
         "eurostat:nuts_2021_id":"50421",
         "gn:id":7872230,
         "qs_pg:id":1155201
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046945,
     "wof:geomhash":"6bf375acebcfd70df784708023e09b19",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108837033,
-    "wof:lastmodified":1684351579,
+    "wof:lastmodified":1695876956,
     "wof:name":"Schwarzach im Pongau",
     "wof:parent_id":102049753,
     "wof:placetype":"localadmin",

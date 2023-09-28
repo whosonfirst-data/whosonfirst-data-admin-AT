@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":660,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.753817,
     "lbl:longitude":16.432996,
     "lbl:max_zoom":17.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10608",
         "eg:gisco_id":"AT_10608",
         "eurostat:nuts_2021_id":"10608",
         "gn:id":7872709,
@@ -141,6 +148,7 @@
         "gn:id":2768475,
         "qs_pg:id":1016736
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047145,
     "wof:geomhash":"f9fc380d9c9926af78c1d66d0e6ed093",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108838599,
-    "wof:lastmodified":1684351622,
+    "wof:lastmodified":1695877048,
     "wof:name":"P\u00f6ttelsdorf",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

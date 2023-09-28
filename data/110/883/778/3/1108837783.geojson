@@ -29,6 +29,12 @@
     "geom:latitude":46.868587,
     "geom:longitude":12.607322,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.874435,
     "lbl:longitude":12.620058,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70727",
         "eg:gisco_id":"AT_70727",
         "eurostat:nuts_2021_id":"70727"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047043,
     "wof:geomhash":"44b150aff63d09bc916795f20bbeee3d",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108837783,
-    "wof:lastmodified":1684351599,
+    "wof:lastmodified":1695876999,
     "wof:name":"Schlaiten",
     "wof:parent_id":102049703,
     "wof:placetype":"localadmin",

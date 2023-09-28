@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":7597,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.481802,
     "lbl:longitude":9.621113,
     "lbl:max_zoom":15.0,
@@ -83,6 +89,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80217",
         "eg:gisco_id":"AT_80217",
         "eurostat:nuts_2021_id":"80217",
         "gn:id":7872659,
@@ -93,6 +100,7 @@
         "gn:id":2775950,
         "qs_pg:id":38509
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047083,
     "wof:geomhash":"93b54a9cb2bbd9a831a3e2ec9aaaccfe",
@@ -106,7 +114,7 @@
         }
     ],
     "wof:id":1108838099,
-    "wof:lastmodified":1684351607,
+    "wof:lastmodified":1695877015,
     "wof:name":"H\u00f6chst",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

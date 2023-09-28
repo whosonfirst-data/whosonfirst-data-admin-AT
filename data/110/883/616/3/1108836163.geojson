@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1971,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.412808,
     "lbl:longitude":14.277073,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41613",
         "eg:gisco_id":"AT_41613",
         "eurostat:nuts_2021_id":"41613",
         "gn:id":7873240,
@@ -141,6 +148,7 @@
         "gn:id":2774369,
         "qs_pg:id":1107699
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046830,
     "wof:geomhash":"73f9093bf366d87594e8091622b08930",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108836163,
-    "wof:lastmodified":1684351555,
+    "wof:lastmodified":1695876904,
     "wof:name":"Kirchschlag bei Linz",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",

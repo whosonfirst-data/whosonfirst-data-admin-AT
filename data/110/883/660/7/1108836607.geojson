@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.989857,
     "lbl:longitude":16.481454,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30621",
         "eg:gisco_id":"AT_30621",
         "eurostat:nuts_2021_id":"30621",
         "gn:id":2771409,
@@ -144,6 +151,7 @@
         "gn:id":7872839,
         "qs_pg:id":1042149
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046891,
     "wof:geomhash":"35583195dad97c40f2d504ec1c68a3e5",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836607,
-    "wof:lastmodified":1684351568,
+    "wof:lastmodified":1695876931,
     "wof:name":"Mitterndorf an der Fischa",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

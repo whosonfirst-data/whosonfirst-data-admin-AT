@@ -29,6 +29,12 @@
     "geom:latitude":46.941825,
     "geom:longitude":12.245712,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.931017,
     "lbl:longitude":12.26879,
     "lbl:max_zoom":18.0,
@@ -102,9 +108,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70724",
         "eg:gisco_id":"AT_70724",
         "eurostat:nuts_2021_id":"70724"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047011,
     "wof:geomhash":"823839ec6ff73b8e5bf3e64e1083c603",
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1108837527,
-    "wof:lastmodified":1684351593,
+    "wof:lastmodified":1695876987,
     "wof:name":"Sankt Jakob in Defereggen",
     "wof:parent_id":102049703,
     "wof:placetype":"localadmin",

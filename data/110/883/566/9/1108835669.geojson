@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1221,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.318413,
     "lbl:longitude":13.445275,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41220",
         "eg:gisco_id":"AT_41220",
         "eurostat:nuts_2021_id":"41220",
         "gn:id":7872089,
         "qs_pg:id":381012
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046766,
     "wof:geomhash":"6afe1ed71f565a6f2407e329fd03616d",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835669,
-    "wof:lastmodified":1684351539,
+    "wof:lastmodified":1695876873,
     "wof:name":"Ort im Innkreis",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

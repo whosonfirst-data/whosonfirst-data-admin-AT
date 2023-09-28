@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2555,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.306411,
     "lbl:longitude":15.871868,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32104",
         "eg:gisco_id":"AT_32104",
         "eurostat:nuts_2021_id":"32104",
         "gn:id":7871907,
         "qs_pg:id":1245705
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046893,
     "wof:geomhash":"430d288869bd5bc6c2984aca1abd0730",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836623,
-    "wof:lastmodified":1684351568,
+    "wof:lastmodified":1695876932,
     "wof:name":"Atzenbrugg",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",

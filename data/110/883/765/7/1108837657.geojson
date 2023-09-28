@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":807,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.286093,
     "lbl:longitude":11.962973,
     "lbl:max_zoom":17.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70932",
         "eg:gisco_id":"AT_70932",
         "eurostat:nuts_2021_id":"70932",
         "gn:id":7873712,
         "gp:id":12675332,
         "qs_pg:id":1019665
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047029,
     "wof:geomhash":"dca4551375c4f623c05370319f7c54a3",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108837657,
-    "wof:lastmodified":1684351596,
+    "wof:lastmodified":1695876993,
     "wof:name":"Stummerberg",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",

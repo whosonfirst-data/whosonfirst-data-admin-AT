@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1335,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.57805,
     "lbl:longitude":13.255849,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50212",
         "eg:gisco_id":"AT_50212",
         "eurostat:nuts_2021_id":"50212",
         "gn:id":7872201,
         "qs_pg:id":108528
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046954,
     "wof:geomhash":"dd19aac6b5772774e9de403479444d87",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108837105,
-    "wof:lastmodified":1684351582,
+    "wof:lastmodified":1695876963,
     "wof:name":"Scheffau am Tennengebirge",
     "wof:parent_id":102049773,
     "wof:placetype":"localadmin",

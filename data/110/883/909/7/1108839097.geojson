@@ -29,6 +29,12 @@
     "geom:latitude":47.28161,
     "geom:longitude":16.034597,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.287543,
     "lbl:longitude":16.044145,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62244",
         "eg:gisco_id":"AT_62244",
         "eurostat:nuts_2021_id":"62244"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047206,
     "wof:geomhash":"e7da145146bc4beed69c8e7109e86e85",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839097,
-    "wof:lastmodified":1684351637,
+    "wof:lastmodified":1695877079,
     "wof:name":"St. Johann",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

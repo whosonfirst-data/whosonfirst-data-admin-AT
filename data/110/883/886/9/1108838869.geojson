@@ -29,6 +29,12 @@
     "geom:latitude":47.212956,
     "geom:longitude":15.525109,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.217757,
     "lbl:longitude":15.536419,
     "lbl:max_zoom":18.0,
@@ -69,9 +75,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61761",
         "eg:gisco_id":"AT_61761",
         "eurostat:nuts_2021_id":"61761"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047178,
     "wof:geomhash":"345152948e2d47bca1d052368d1a7234",
@@ -85,7 +93,7 @@
         }
     ],
     "wof:id":1108838869,
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1695877065,
     "wof:name":"Gutenberg-Stenzengreith",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

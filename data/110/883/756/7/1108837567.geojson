@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":942,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.295682,
     "lbl:longitude":11.165492,
     "lbl:max_zoom":17.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70339",
         "eg:gisco_id":"AT_70339",
         "eurostat:nuts_2021_id":"70339",
         "gn:id":7872543,
         "gp:id":12675486,
         "qs_pg:id":1019164
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047018,
     "wof:geomhash":"6855fb907ae409105abff0db8c14db30",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108837567,
-    "wof:lastmodified":1684351594,
+    "wof:lastmodified":1695876989,
     "wof:name":"Pettnau",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

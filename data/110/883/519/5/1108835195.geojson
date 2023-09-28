@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1308,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.174661,
     "lbl:longitude":13.796528,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40814",
         "eg:gisco_id":"AT_40814",
         "eurostat:nuts_2021_id":"40814",
         "gn:id":7873146,
         "qs_pg:id":1155424
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046700,
     "wof:geomhash":"eba64778d47c39fab11acc32d840c4dc",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835195,
-    "wof:lastmodified":1684351524,
+    "wof:lastmodified":1695876845,
     "wof:name":"Meggenhofen",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

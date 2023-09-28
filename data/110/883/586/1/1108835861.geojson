@@ -29,6 +29,12 @@
     "geom:latitude":48.315334,
     "geom:longitude":15.815012,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.316226,
     "lbl:longitude":15.810943,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32132",
         "eg:gisco_id":"AT_32132",
         "eurostat:nuts_2021_id":"32132"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046790,
     "wof:geomhash":"feaedce9cfa291ccf2fc983246399189",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835861,
-    "wof:lastmodified":1684351544,
+    "wof:lastmodified":1695876884,
     "wof:name":"Sitzenberg - Reidling",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",

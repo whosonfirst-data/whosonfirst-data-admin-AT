@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1113,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.051909,
     "lbl:longitude":12.813755,
     "lbl:max_zoom":16.0,
@@ -101,6 +107,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20610",
         "eg:gisco_id":"AT_20610",
         "eurostat:nuts_2021_id":"20610",
         "gn:id":7872779,
@@ -111,6 +118,7 @@
         "gn:id":2776595,
         "qs_pg:id":238901
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047103,
     "wof:geomhash":"a2dbec8ed95341d2f906626018d3394a",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108838267,
-    "wof:lastmodified":1684351613,
+    "wof:lastmodified":1695877029,
     "wof:name":"Heiligenblut",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

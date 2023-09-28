@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1079,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.211894,
     "lbl:longitude":13.676374,
     "lbl:max_zoom":16.0,
@@ -95,11 +101,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40823",
         "eg:gisco_id":"AT_40823",
         "eurostat:nuts_2021_id":"40823",
         "gn:id":7872031,
         "qs_pg:id":108475
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046702,
     "wof:geomhash":"44c1d7b495595ad2e5e3aae7f87dc285",
@@ -113,7 +121,7 @@
         }
     ],
     "wof:id":1108835215,
-    "wof:lastmodified":1684351525,
+    "wof:lastmodified":1695876845,
     "wof:name":"Rottenbach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

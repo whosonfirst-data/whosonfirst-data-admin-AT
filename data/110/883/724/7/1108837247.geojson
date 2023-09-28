@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":640,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.36412,
     "lbl:longitude":12.733855,
     "lbl:max_zoom":17.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50625",
         "eg:gisco_id":"AT_50625",
         "eurostat:nuts_2021_id":"50625",
         "gn:id":7873333,
@@ -138,6 +145,7 @@
         "gn:id":2762392,
         "qs_pg:id":1187755
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046974,
     "wof:geomhash":"720800fa5c150d9d9fcb7acb7c1c587f",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108837247,
-    "wof:lastmodified":1684351586,
+    "wof:lastmodified":1695876972,
     "wof:name":"Viehhofen",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

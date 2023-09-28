@@ -29,6 +29,12 @@
     "geom:latitude":47.198955,
     "geom:longitude":14.504404,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.195956,
     "lbl:longitude":14.509075,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62026",
         "eg:gisco_id":"AT_62026",
         "eurostat:nuts_2021_id":"62026"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047254,
     "wof:geomhash":"7491a095daa5b244466e04f6465a87f5",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839409,
-    "wof:lastmodified":1684351648,
+    "wof:lastmodified":1695877098,
     "wof:name":"St. Georgen ob Judenburg",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

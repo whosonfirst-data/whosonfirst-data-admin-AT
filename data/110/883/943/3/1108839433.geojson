@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1197,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.960048,
     "lbl:longitude":16.756233,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10723",
         "eg:gisco_id":"AT_10723",
         "eurostat:nuts_2021_id":"10723",
         "gn:id":7871594,
@@ -143,6 +150,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":268960
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047256,
     "wof:geomhash":"106534668410a264212084c1e1392dca",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108839433,
-    "wof:lastmodified":1684351648,
+    "wof:lastmodified":1695877099,
     "wof:name":"Winden am See",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

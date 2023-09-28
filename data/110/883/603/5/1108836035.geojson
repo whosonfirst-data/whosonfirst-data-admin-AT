@@ -29,6 +29,12 @@
     "geom:latitude":48.354491,
     "geom:longitude":13.483105,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.34735,
     "lbl:longitude":13.473759,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41406",
         "eg:gisco_id":"AT_41406",
         "eurostat:nuts_2021_id":"41406"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046813,
     "wof:geomhash":"e975ab0be27b8881bbc30f5cebc62541",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108836035,
-    "wof:lastmodified":1684351550,
+    "wof:lastmodified":1695876895,
     "wof:name":"Eggerding",
     "wof:parent_id":102049877,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":927,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.028115,
     "lbl:longitude":13.419276,
     "lbl:max_zoom":17.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41708",
         "eg:gisco_id":"AT_41708",
         "eurostat:nuts_2021_id":"41708",
         "gn:id":7873255,
         "qs_pg:id":1042208
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046871,
     "wof:geomhash":"59bf52fe9893e112cdf0c642186a366c",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108836435,
-    "wof:lastmodified":1684351563,
+    "wof:lastmodified":1695876920,
     "wof:name":"Fornach",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

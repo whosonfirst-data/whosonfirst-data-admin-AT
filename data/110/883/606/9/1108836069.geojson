@@ -29,6 +29,12 @@
     "geom:latitude":48.360584,
     "geom:longitude":13.700588,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.362552,
     "lbl:longitude":13.700118,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41421",
         "eg:gisco_id":"AT_41421",
         "eurostat:nuts_2021_id":"41421"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046817,
     "wof:geomhash":"8be96538f56ceb172c7094b2cfb3893c",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836069,
-    "wof:lastmodified":1684351551,
+    "wof:lastmodified":1695876898,
     "wof:name":"St. Willibald",
     "wof:parent_id":102049877,
     "wof:placetype":"localadmin",

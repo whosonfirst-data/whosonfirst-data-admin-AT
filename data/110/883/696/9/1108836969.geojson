@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1527,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.885391,
     "lbl:longitude":15.383207,
     "lbl:max_zoom":16.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32209",
         "eg:gisco_id":"AT_32209",
         "eurostat:nuts_2021_id":"32209",
         "gn:id":7873046,
         "qs_pg:id":1155411
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046936,
     "wof:geomhash":"94d053d7b2c4378592c629a6938708b4",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108836969,
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1695876952,
     "wof:name":"Karlstein an der Thaya",
     "wof:parent_id":102049903,
     "wof:placetype":"localadmin",

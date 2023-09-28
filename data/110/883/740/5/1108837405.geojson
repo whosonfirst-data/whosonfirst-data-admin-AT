@@ -29,6 +29,12 @@
     "geom:latitude":47.551104,
     "geom:longitude":12.09386,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.543882,
     "lbl:longitude":12.075514,
     "lbl:max_zoom":18.0,
@@ -117,9 +123,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70515",
         "eg:gisco_id":"AT_70515",
         "eurostat:nuts_2021_id":"70515"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046997,
     "wof:geomhash":"2958b35094a9cdc73439189b763b7ce2",
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":1108837405,
-    "wof:lastmodified":1684351590,
+    "wof:lastmodified":1695876981,
     "wof:name":"Langkampfen",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

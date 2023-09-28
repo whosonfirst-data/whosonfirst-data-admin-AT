@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.700891,
     "lbl:longitude":16.468408,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10604",
         "eg:gisco_id":"AT_10604",
         "eurostat:nuts_2021_id":"10604",
         "gn:id":2772294,
@@ -144,6 +151,7 @@
         "gn:id":7871574,
         "qs_pg:id":743292
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047148,
     "wof:geomhash":"d937e3b7bbb3a613d03a469cb8cec36f",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838625,
-    "wof:lastmodified":1684351623,
+    "wof:lastmodified":1695877049,
     "wof:name":"Loipersbach im Burgenland",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

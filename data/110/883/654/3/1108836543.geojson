@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3713,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.227096,
     "lbl:longitude":14.045586,
     "lbl:max_zoom":15.0,
@@ -128,12 +134,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41804",
         "eg:gisco_id":"AT_41804",
         "eurostat:nuts_2021_id":"41804",
         "gn:id":7873274,
         "gp:id":12674428,
         "qs_pg:id":500265
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046884,
     "wof:geomhash":"17fd56e9dac2dedf1d5181a3a210e162",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108836543,
-    "wof:lastmodified":1684351566,
+    "wof:lastmodified":1695876928,
     "wof:name":"Buchkirchen",
     "wof:parent_id":102049831,
     "wof:placetype":"localadmin",

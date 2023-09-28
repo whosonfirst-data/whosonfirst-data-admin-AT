@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1276,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.655579,
     "lbl:longitude":16.38984,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10613",
         "eg:gisco_id":"AT_10613",
         "eurostat:nuts_2021_id":"10613",
         "gn:id":7872710,
@@ -144,6 +151,7 @@
         "gn:id":2765092,
         "qs_pg:id":488629
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047140,
     "wof:geomhash":"8ee08b17990f14afb333001e2e41f31e",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838555,
-    "wof:lastmodified":1684351621,
+    "wof:lastmodified":1695877046,
     "wof:name":"Sieggraben",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

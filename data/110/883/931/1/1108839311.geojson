@@ -29,6 +29,12 @@
     "geom:latitude":47.436795,
     "geom:longitude":15.371093,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.431426,
     "lbl:longitude":15.371764,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62146",
         "eg:gisco_id":"AT_62146",
         "eurostat:nuts_2021_id":"62146"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047240,
     "wof:geomhash":"9e85954b400430617ff1f39ef73b7eea",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839311,
-    "wof:lastmodified":1684351644,
+    "wof:lastmodified":1695877093,
     "wof:name":"St. Marein",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

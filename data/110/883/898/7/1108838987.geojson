@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1205,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.509921,
     "lbl:longitude":14.975602,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61118",
         "eg:gisco_id":"AT_61118",
         "eurostat:nuts_2021_id":"61118",
         "gn:id":7872431,
         "qs_pg:id":1245763
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047194,
     "wof:geomhash":"d610fd0c2d67445be7d900cc14564eeb",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108838987,
-    "wof:lastmodified":1684351634,
+    "wof:lastmodified":1695877072,
     "wof:name":"Vordernberg",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",

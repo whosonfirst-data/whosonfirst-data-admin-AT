@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1106,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.864076,
     "lbl:longitude":13.514419,
     "lbl:max_zoom":16.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41718",
         "eg:gisco_id":"AT_41718",
         "eurostat:nuts_2021_id":"41718",
         "gn:id":7872162,
@@ -137,6 +144,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1014599
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046874,
     "wof:geomhash":"409d6f2307fd6fa91a63e9b43c2d71d5",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108836457,
-    "wof:lastmodified":1684351563,
+    "wof:lastmodified":1695876921,
     "wof:name":"Nu\u00dfdorf am Attersee",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

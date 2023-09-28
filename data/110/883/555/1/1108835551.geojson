@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1876,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.235166,
     "lbl:longitude":14.137298,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41016",
         "eg:gisco_id":"AT_41016",
         "eurostat:nuts_2021_id":"41016",
         "gn:id":7872057,
         "qs_pg:id":1155137
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046751,
     "wof:geomhash":"486e5dae524e096060ec034a463f2d12",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835551,
-    "wof:lastmodified":1684351535,
+    "wof:lastmodified":1695876865,
     "wof:name":"Oftering",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

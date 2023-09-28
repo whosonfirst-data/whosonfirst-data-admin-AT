@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.029842,
     "lbl:longitude":16.490942,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32405",
         "eg:gisco_id":"AT_30731",
         "eurostat:nuts_2021_id":"30731",
         "gn:id":2778131,
@@ -141,6 +148,7 @@
         "gn:id":7871947,
         "qs_pg:id":380970
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046849,
     "wof:geomhash":"320194cafabcc9e7396d1d195f6cbf20",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108836311,
-    "wof:lastmodified":1684351559,
+    "wof:lastmodified":1695876912,
     "wof:name":"Gramatneusiedl",
     "wof:parent_id":102049843,
     "wof:placetype":"localadmin",

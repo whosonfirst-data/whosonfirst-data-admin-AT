@@ -29,6 +29,12 @@
     "geom:latitude":47.165067,
     "geom:longitude":15.678997,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.162434,
     "lbl:longitude":15.679837,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61765",
         "eg:gisco_id":"AT_61765",
         "eurostat:nuts_2021_id":"61765"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047183,
     "wof:geomhash":"444eaa6978ad016157fdb5eca387cca5",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838911,
-    "wof:lastmodified":1684351632,
+    "wof:lastmodified":1695877067,
     "wof:name":"St. Ruprech",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

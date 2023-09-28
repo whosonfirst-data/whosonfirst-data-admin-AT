@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2214,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.659807,
     "lbl:longitude":14.323971,
     "lbl:max_zoom":15.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40918",
         "eg:gisco_id":"AT_40918",
         "eurostat:nuts_2021_id":"40918",
         "gn:id":7872047,
@@ -137,6 +144,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1092274
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046745,
     "wof:geomhash":"e2e06b4500f718a10d92a33814bef918",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108835503,
-    "wof:lastmodified":1684351533,
+    "wof:lastmodified":1695876862,
     "wof:name":"Spital am Pyhrn",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

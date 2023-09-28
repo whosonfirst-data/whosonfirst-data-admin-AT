@@ -30,6 +30,12 @@
     "geom:longitude":14.032161,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.417907,
     "lbl:longitude":14.028649,
     "lbl:max_zoom":18.0,
@@ -66,11 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41332",
         "eg:gisco_id":"AT_41332",
         "eurostat:nuts_2021_id":"41332",
         "gp:id":12674289,
         "qs_pg:id":59353
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046808,
     "wof:geomhash":"96960cbf204c4af417cb872a13af8a61",
@@ -84,7 +92,7 @@
         }
     ],
     "wof:id":1108835999,
-    "wof:lastmodified":1684351548,
+    "wof:lastmodified":1695876892,
     "wof:name":"St. Martin im M\u00fchlkreis",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

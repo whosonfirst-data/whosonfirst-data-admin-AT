@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2874,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.766688,
     "lbl:longitude":13.23538,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50311",
         "eg:gisco_id":"AT_50311",
         "eurostat:nuts_2021_id":"50311",
         "gn:id":7872205,
         "qs_pg:id":108530
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046958,
     "wof:geomhash":"9ad416e994f4f1f49658f4f4153e0110",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108837133,
-    "wof:lastmodified":1684351583,
+    "wof:lastmodified":1695876965,
     "wof:name":"Faistenau",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

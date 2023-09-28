@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":375,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.769043,
     "lbl:longitude":12.762003,
     "lbl:max_zoom":17.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70703",
         "eg:gisco_id":"AT_70703",
         "eurostat:nuts_2021_id":"70703",
         "gn:id":7872588,
         "gp:id":12675341,
         "qs_pg:id":210155
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047006,
     "wof:geomhash":"f4442d98ca972a1404fdc8b8ad0a81fb",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837483,
-    "wof:lastmodified":1684351592,
+    "wof:lastmodified":1695876985,
     "wof:name":"Amlach",
     "wof:parent_id":102049703,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5802,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.810231,
     "lbl:longitude":15.325737,
     "lbl:max_zoom":15.0,
@@ -143,12 +149,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32220",
         "eg:gisco_id":"AT_32220",
         "eurostat:nuts_2021_id":"32220",
         "gn:id":7873049,
         "gp:id":12673734,
         "qs_pg:id":238907
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046730,
     "wof:geomhash":"9cd12bb62672f37287fa00f656779181",
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1108835381,
-    "wof:lastmodified":1684351530,
+    "wof:lastmodified":1695876855,
     "wof:name":"Waidhofen an der Thaya",
     "wof:parent_id":102049903,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1209,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.034087,
     "lbl:longitude":11.476096,
     "lbl:max_zoom":16.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70313",
         "eg:gisco_id":"AT_70313",
         "eurostat:nuts_2021_id":"70313",
         "gn:id":7873606,
         "gp:id":12675470,
         "qs_pg:id":904964
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047021,
     "wof:geomhash":"e3053fd0e2fee2d5a6f65264ba6ecb1a",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837595,
-    "wof:lastmodified":1684351595,
+    "wof:lastmodified":1695876990,
     "wof:name":"Gries am Brenner",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

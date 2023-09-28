@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1377,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.50046,
     "lbl:longitude":16.39678,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10802",
         "eg:gisco_id":"AT_10802",
         "eurostat:nuts_2021_id":"10802",
         "gn:id":7871599,
         "qs_pg:id":1041939
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047150,
     "wof:geomhash":"f55ea67ea37e3c310fb4dd12cc4fbb05",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838639,
-    "wof:lastmodified":1684351623,
+    "wof:lastmodified":1695877050,
     "wof:name":"Dra\u00dfmarkt",
     "wof:parent_id":102049775,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":964,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.049783,
     "lbl:longitude":12.930956,
     "lbl:max_zoom":17.0,
@@ -89,11 +95,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40408",
         "eg:gisco_id":"AT_40408",
         "eurostat:nuts_2021_id":"40408",
         "gn:id":7871969,
         "qs_pg:id":357909
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046639,
     "wof:geomhash":"28553c2028b56ce513407f3fcb8e27df",
@@ -107,7 +115,7 @@
         }
     ],
     "wof:id":1108834723,
-    "wof:lastmodified":1684351508,
+    "wof:lastmodified":1695876813,
     "wof:name":"Franking",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

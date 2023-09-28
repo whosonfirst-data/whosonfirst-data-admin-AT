@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2454,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.5939,
     "lbl:longitude":15.942166,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31814",
         "eg:gisco_id":"AT_31814",
         "eurostat:nuts_2021_id":"31814",
         "gn:id":7871863,
@@ -153,6 +160,7 @@
         "gn:id":2774405,
         "qs_pg:id":75562
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046795,
     "wof:geomhash":"ae29298b3a8f0327209d286bc10a83b5",
@@ -166,7 +174,7 @@
         }
     ],
     "wof:id":1108835897,
-    "wof:lastmodified":1684351545,
+    "wof:lastmodified":1695876886,
     "wof:name":"Kirchberg am Wechsel",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

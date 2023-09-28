@@ -29,6 +29,12 @@
     "geom:latitude":47.396037,
     "geom:longitude":14.800753,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.400431,
     "lbl:longitude":14.825954,
     "lbl:max_zoom":18.0,
@@ -57,9 +63,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61109",
         "eg:gisco_id":"AT_61109",
         "eurostat:nuts_2021_id":"61109"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047196,
     "wof:geomhash":"692b78df5858e62d32b281e745aee592",
@@ -73,7 +81,7 @@
         }
     ],
     "wof:id":1108839007,
-    "wof:lastmodified":1684351634,
+    "wof:lastmodified":1695877073,
     "wof:name":"Mautern",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",

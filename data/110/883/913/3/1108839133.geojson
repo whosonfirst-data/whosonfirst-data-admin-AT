@@ -29,6 +29,12 @@
     "geom:latitude":46.920028,
     "geom:longitude":15.394738,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.911855,
     "lbl:longitude":15.404907,
     "lbl:max_zoom":18.0,
@@ -78,9 +84,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60660",
         "eg:gisco_id":"AT_60660",
         "eurostat:nuts_2021_id":"60660"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047212,
     "wof:geomhash":"020cf9839e8d410c2aa08353af7042a3",
@@ -94,7 +102,7 @@
         }
     ],
     "wof:id":1108839133,
-    "wof:lastmodified":1684351638,
+    "wof:lastmodified":1695877081,
     "wof:name":"Dobl-Zwaring",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

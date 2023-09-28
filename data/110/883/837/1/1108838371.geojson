@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6059,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.595034,
     "lbl:longitude":14.663135,
     "lbl:max_zoom":15.0,
@@ -131,11 +137,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20803",
         "eg:gisco_id":"AT_20803",
         "eurostat:nuts_2021_id":"20803",
         "gn:id":7871673,
         "qs_pg:id":1155085
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047119,
     "wof:geomhash":"d4766821c8f99e7fe0fefe261070affb",
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":1108838371,
-    "wof:lastmodified":1684351616,
+    "wof:lastmodified":1695877036,
     "wof:name":"Eberndorf",
     "wof:parent_id":102049685,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1896,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.651742,
     "lbl:longitude":12.680426,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50623",
         "eg:gisco_id":"AT_50623",
         "eurostat:nuts_2021_id":"50623",
         "gn:id":7873332,
@@ -147,6 +154,7 @@
         "gn:id":2763150,
         "qs_pg:id":209071
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046974,
     "wof:geomhash":"d6042828c6708950a037186762217577",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108837243,
-    "wof:lastmodified":1684351586,
+    "wof:lastmodified":1695876972,
     "wof:name":"Unken",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

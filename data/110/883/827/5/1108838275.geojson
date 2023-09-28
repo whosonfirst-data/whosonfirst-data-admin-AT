@@ -29,6 +29,12 @@
     "geom:latitude":47.00946,
     "geom:longitude":13.397325,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.009394,
     "lbl:longitude":13.38224,
     "lbl:max_zoom":18.0,
@@ -723,9 +729,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20619",
         "eg:gisco_id":"AT_20619",
         "eurostat:nuts_2021_id":"20619"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047109,
     "wof:geomhash":"c99f7c4e70d4070f67f099babd942474",
@@ -739,7 +747,7 @@
         }
     ],
     "wof:id":1108838275,
-    "wof:lastmodified":1684351614,
+    "wof:lastmodified":1695877029,
     "wof:name":"Malta",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

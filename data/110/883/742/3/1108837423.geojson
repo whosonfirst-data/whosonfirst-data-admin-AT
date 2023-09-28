@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3167,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.337481,
     "lbl:longitude":10.9667,
     "lbl:max_zoom":15.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70209",
         "eg:gisco_id":"AT_70209",
         "eurostat:nuts_2021_id":"70209",
         "gn:id":7873589,
         "gp:id":12675379,
         "qs_pg:id":1192697
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046999,
     "wof:geomhash":"8b3f0593fc9b49a5635c65dd5c6ee10c",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837423,
-    "wof:lastmodified":1684351591,
+    "wof:lastmodified":1695876982,
     "wof:name":"Mieming",
     "wof:parent_id":102049727,
     "wof:placetype":"localadmin",

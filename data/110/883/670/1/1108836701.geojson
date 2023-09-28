@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.352466,
     "lbl:longitude":16.537069,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31642",
         "eg:gisco_id":"AT_31642",
         "eurostat:nuts_2021_id":"31642",
         "gn:id":2768819,
@@ -144,6 +151,7 @@
         "gn:id":7872966,
         "qs_pg:id":1042183
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046902,
     "wof:geomhash":"158abae7b3e386633ffee4311893082a",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836701,
-    "wof:lastmodified":1684351570,
+    "wof:lastmodified":1695876937,
     "wof:name":"Pillichsdorf",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

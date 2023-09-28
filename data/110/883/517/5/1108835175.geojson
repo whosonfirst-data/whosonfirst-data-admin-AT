@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2605,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.206917,
     "lbl:longitude":13.805845,
     "lbl:max_zoom":15.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40805",
         "eg:gisco_id":"AT_40805",
         "eurostat:nuts_2021_id":"40805",
         "gn:id":7873143,
@@ -137,6 +144,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1155423
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046696,
     "wof:geomhash":"f37c3c37e410bb3020ee4c0bbeb2ccba",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108835175,
-    "wof:lastmodified":1684351523,
+    "wof:lastmodified":1695876843,
     "wof:name":"Gallspach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

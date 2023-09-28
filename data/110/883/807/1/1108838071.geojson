@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1738,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.526988,
     "lbl:longitude":9.895354,
     "lbl:max_zoom":16.0,
@@ -110,6 +116,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80238",
         "eg:gisco_id":"AT_80238",
         "eurostat:nuts_2021_id":"80238",
         "gn:id":7872670,
@@ -120,6 +127,7 @@
         "gn:id":2764010,
         "qs_pg:id":1195787
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047079,
     "wof:geomhash":"519fe7081445599c239f482f0018858f",
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":1108838071,
-    "wof:lastmodified":1684351606,
+    "wof:lastmodified":1695877014,
     "wof:name":"Sulzberg",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

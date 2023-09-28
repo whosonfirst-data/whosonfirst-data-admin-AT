@@ -29,6 +29,12 @@
     "geom:latitude":48.501235,
     "geom:longitude":14.615614,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.502056,
     "lbl:longitude":14.60672,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40618",
         "eg:gisco_id":"AT_40618",
         "eurostat:nuts_2021_id":"40618"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046686,
     "wof:geomhash":"1e55652d5b730dcfacc12e37f5d701ed",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835099,
-    "wof:lastmodified":1684351521,
+    "wof:lastmodified":1695876838,
     "wof:name":"St. Oswald bei Freistadt",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",

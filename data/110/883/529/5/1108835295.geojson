@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.699997,
     "lbl:longitude":16.033183,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31846",
         "eg:gisco_id":"AT_31846",
         "eurostat:nuts_2021_id":"31846",
         "gn:id":2761149,
@@ -141,6 +148,7 @@
         "gn:id":7871877,
         "qs_pg:id":108418
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046720,
     "wof:geomhash":"b0418ce9cdd9b0d7483e6ace2f1e5243",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108835295,
-    "wof:lastmodified":1684351527,
+    "wof:lastmodified":1695876850,
     "wof:name":"Wimpassing im Schwarzatale",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

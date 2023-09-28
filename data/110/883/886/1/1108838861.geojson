@@ -29,6 +29,12 @@
     "geom:latitude":47.588504,
     "geom:longitude":15.476273,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.602533,
     "lbl:longitude":15.475055,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62145",
         "eg:gisco_id":"AT_62145",
         "eurostat:nuts_2021_id":"62145"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047177,
     "wof:geomhash":"915fb51b5630ff6c3edbb7e9060312a2",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838861,
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1695877064,
     "wof:name":"St. Barbara",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

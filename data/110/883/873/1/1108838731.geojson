@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":322,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.197219,
     "lbl:longitude":16.370856,
     "lbl:max_zoom":17.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10931",
         "eg:gisco_id":"AT_10931",
         "eurostat:nuts_2021_id":"10931",
         "gn:id":7872754,
@@ -147,6 +154,7 @@
         "gn:id":2782061,
         "qs_pg:id":989438
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047161,
     "wof:geomhash":"735610d021eedad705fa8a214f182bc4",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108838731,
-    "wof:lastmodified":1684351626,
+    "wof:lastmodified":1695877056,
     "wof:name":"Badersdorf",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

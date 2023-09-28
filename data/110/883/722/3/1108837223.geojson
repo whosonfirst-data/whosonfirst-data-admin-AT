@@ -29,6 +29,12 @@
     "geom:latitude":47.190079,
     "geom:longitude":12.276397,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.180076,
     "lbl:longitude":12.268724,
     "lbl:max_zoom":18.0,
@@ -114,9 +120,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50614",
         "eg:gisco_id":"AT_50614",
         "eurostat:nuts_2021_id":"50614"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046970,
     "wof:geomhash":"43addd188f4200875d7bac6809cb5f69",
@@ -130,7 +138,7 @@
         }
     ],
     "wof:id":1108837223,
-    "wof:lastmodified":1684351586,
+    "wof:lastmodified":1695876971,
     "wof:name":"Neukirchen am Gro\u00dfvenediger",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

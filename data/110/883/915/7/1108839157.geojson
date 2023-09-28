@@ -29,6 +29,12 @@
     "geom:latitude":47.004939,
     "geom:longitude":15.393989,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.003694,
     "lbl:longitude":15.384654,
     "lbl:max_zoom":18.0,
@@ -75,9 +81,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60669",
         "eg:gisco_id":"AT_60669",
         "eurostat:nuts_2021_id":"60669"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047215,
     "wof:geomhash":"f840ceaf9805136f5d49f9977be71d18",
@@ -91,7 +99,7 @@
         }
     ],
     "wof:id":1108839157,
-    "wof:lastmodified":1684351639,
+    "wof:lastmodified":1695877082,
     "wof:name":"Seiersberg-Pirka",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

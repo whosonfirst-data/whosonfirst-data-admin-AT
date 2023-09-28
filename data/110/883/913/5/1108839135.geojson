@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1501,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.93078,
     "lbl:longitude":15.447716,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60656",
         "eg:gisco_id":"AT_60656",
         "eurostat:nuts_2021_id":"60656",
         "gn:id":7872350,
         "qs_pg:id":1048678
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047212,
     "wof:geomhash":"7ff78cce99087cd979c047ff6de24a62",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108839135,
-    "wof:lastmodified":1684351638,
+    "wof:lastmodified":1695877081,
     "wof:name":"Wundschuh",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

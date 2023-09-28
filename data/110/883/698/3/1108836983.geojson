@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4303,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.879655,
     "lbl:longitude":16.238329,
     "lbl:max_zoom":15.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32307",
         "eg:gisco_id":"AT_32307",
         "eurostat:nuts_2021_id":"32307",
         "gn:id":7871929,
         "gp:id":12673978,
         "qs_pg:id":245534
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046938,
     "wof:geomhash":"e1d1bfcab9303faa495f518066e1039a",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108836983,
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1695876953,
     "wof:name":"Felixdorf",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

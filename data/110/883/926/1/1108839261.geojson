@@ -29,6 +29,12 @@
     "geom:latitude":46.951718,
     "geom:longitude":16.011333,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.946036,
     "lbl:longitude":16.012528,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62378",
         "eg:gisco_id":"AT_62378",
         "eurostat:nuts_2021_id":"62378"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047228,
     "wof:geomhash":"3c0ba88d4b1c63596dd839e544c30d7c",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108839261,
-    "wof:lastmodified":1684351642,
+    "wof:lastmodified":1695877089,
     "wof:name":"Fehring",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

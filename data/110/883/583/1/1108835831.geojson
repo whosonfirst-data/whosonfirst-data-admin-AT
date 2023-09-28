@@ -29,6 +29,12 @@
     "geom:latitude":48.106561,
     "geom:longitude":16.700742,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.105441,
     "lbl:longitude":16.705324,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30711",
         "eg:gisco_id":"AT_30711",
         "eurostat:nuts_2021_id":"30711"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046786,
     "wof:geomhash":"75f5f559fec3a253c7eefa8663dddcfe",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835831,
-    "wof:lastmodified":1684351543,
+    "wof:lastmodified":1695876882,
     "wof:name":"Haslau - Maria Ellend",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

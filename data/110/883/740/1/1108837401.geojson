@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":16359,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.576228,
     "lbl:longitude":12.1851,
     "lbl:max_zoom":15.0,
@@ -215,12 +221,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70513",
         "eg:gisco_id":"AT_70513",
         "eurostat:nuts_2021_id":"70513",
         "gn:id":7873650,
         "gp:id":12675431,
         "qs_pg:id":1120134
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046996,
     "wof:geomhash":"c905e21572659f5bfba9e4710d1118f2",
@@ -234,7 +242,7 @@
         }
     ],
     "wof:id":1108837401,
-    "wof:lastmodified":1684351590,
+    "wof:lastmodified":1695876980,
     "wof:name":"Kufstein",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

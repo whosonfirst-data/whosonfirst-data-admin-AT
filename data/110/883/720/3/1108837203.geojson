@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1157,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.21259,
     "lbl:longitude":12.413317,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50605",
         "eg:gisco_id":"AT_50605",
         "eurostat:nuts_2021_id":"50605",
         "gn:id":7872238,
         "qs_pg:id":108540
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046968,
     "wof:geomhash":"01d4d903ee0a97f03d062981eb410c4a",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108837203,
-    "wof:lastmodified":1684351585,
+    "wof:lastmodified":1695876970,
     "wof:name":"Hollersbach im Pinzgau",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.388677,
     "lbl:longitude":16.410619,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10809",
         "eg:gisco_id":"AT_10809",
         "eurostat:nuts_2021_id":"10809",
         "gn:id":6692403,
@@ -147,6 +154,7 @@
         "gn:id":7871604,
         "qs_pg:id":108287
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047148,
     "wof:geomhash":"201eb823ac90ceb3f5f3d26eba30e46b",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108838623,
-    "wof:lastmodified":1684351623,
+    "wof:lastmodified":1695877049,
     "wof:name":"Lockenhaus",
     "wof:parent_id":102049775,
     "wof:placetype":"localadmin",

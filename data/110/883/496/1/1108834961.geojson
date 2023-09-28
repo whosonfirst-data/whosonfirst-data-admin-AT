@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":580,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.627556,
     "lbl:longitude":15.940108,
     "lbl:max_zoom":17.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31820",
         "eg:gisco_id":"AT_31820",
         "eurostat:nuts_2021_id":"31820",
         "gn:id":7871867,
@@ -150,6 +157,7 @@
         "gn:id":2769333,
         "qs_pg:id":987713
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046668,
     "wof:geomhash":"cc9251f81bb77542547ed60eb72afed6",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108834961,
-    "wof:lastmodified":1684351515,
+    "wof:lastmodified":1695876828,
     "wof:name":"Otterthal",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

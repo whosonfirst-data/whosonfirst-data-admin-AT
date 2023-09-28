@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1309,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.407918,
     "lbl:longitude":16.618723,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30824",
         "eg:gisco_id":"AT_30824",
         "eurostat:nuts_2021_id":"30824",
         "gn:id":7871733,
@@ -147,6 +154,7 @@
         "gn:id":2777593,
         "qs_pg:id":1018363
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046778,
     "wof:geomhash":"9f0ac43f63e565006efabf54140ea64d",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108835765,
-    "wof:lastmodified":1684351542,
+    "wof:lastmodified":1695876879,
     "wof:name":"Gro\u00df-Schweinbarth",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

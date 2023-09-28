@@ -29,6 +29,12 @@
     "geom:latitude":47.179364,
     "geom:longitude":15.481487,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.181859,
     "lbl:longitude":15.484162,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60642",
         "eg:gisco_id":"AT_60642",
         "eurostat:nuts_2021_id":"60642"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047216,
     "wof:geomhash":"b6a849a516b380df3b3ca90fef6780c2",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839161,
-    "wof:lastmodified":1684351639,
+    "wof:lastmodified":1695877082,
     "wof:name":"St. Radegund",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

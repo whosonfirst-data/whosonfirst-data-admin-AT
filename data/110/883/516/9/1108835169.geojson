@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3292,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.238368,
     "lbl:longitude":13.914424,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40802",
         "eg:gisco_id":"AT_40802",
         "eurostat:nuts_2021_id":"40802",
         "gn:id":7873140,
@@ -140,6 +147,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":108833
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046695,
     "wof:geomhash":"16614b8728341412b4a266c12a9cd590",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108835169,
-    "wof:lastmodified":1684351523,
+    "wof:lastmodified":1695876843,
     "wof:name":"Bad Schallerbach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

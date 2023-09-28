@@ -29,6 +29,12 @@
     "geom:latitude":47.651092,
     "geom:longitude":13.240599,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.657393,
     "lbl:longitude":13.254068,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50211",
         "eg:gisco_id":"AT_50211",
         "eurostat:nuts_2021_id":"50211"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046954,
     "wof:geomhash":"ab8f95f9261a543bbeb531e19aad9f9d",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108837103,
-    "wof:lastmodified":1684351582,
+    "wof:lastmodified":1695876963,
     "wof:name":"Sankt Koloman",
     "wof:parent_id":102049773,
     "wof:placetype":"localadmin",

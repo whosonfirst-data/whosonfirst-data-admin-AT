@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3657,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.49626,
     "lbl:longitude":16.593138,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31612",
         "eg:gisco_id":"AT_31612",
         "eurostat:nuts_2021_id":"31612",
         "gn:id":7871839,
         "qs_pg:id":904284
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046935,
     "wof:geomhash":"6b453e44ef7a13c94b1da786f699a328",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836961,
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1695876952,
     "wof:name":"Gaweinstal",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3400,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.413972,
     "lbl:longitude":15.887889,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32114",
         "eg:gisco_id":"AT_32114",
         "eurostat:nuts_2021_id":"32114",
         "gn:id":7871912,
@@ -150,6 +157,7 @@
         "gn:id":2774408,
         "qs_pg:id":1192363
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046890,
     "wof:geomhash":"8f124507b89b55d2d057e81f9895c11c",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108836599,
-    "wof:lastmodified":1684351567,
+    "wof:lastmodified":1695876931,
     "wof:name":"Kirchberg am Wagram",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",

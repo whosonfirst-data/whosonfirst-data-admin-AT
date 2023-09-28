@@ -29,6 +29,12 @@
     "geom:latitude":46.953624,
     "geom:longitude":15.618453,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.974495,
     "lbl:longitude":15.616296,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62385",
         "eg:gisco_id":"AT_62385",
         "eurostat:nuts_2021_id":"62385"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047227,
     "wof:geomhash":"3c4359cc70b4f371ee92deb128a1d2de",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839257,
-    "wof:lastmodified":1684351642,
+    "wof:lastmodified":1695877089,
     "wof:name":"Pirching",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

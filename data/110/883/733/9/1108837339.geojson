@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1144,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.480114,
     "lbl:longitude":12.623319,
     "lbl:max_zoom":16.0,
@@ -146,11 +152,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70405",
         "eg:gisco_id":"AT_70405",
         "eurostat:nuts_2021_id":"70405",
         "gn:id":7872557,
         "qs_pg:id":1155297
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046990,
     "wof:geomhash":"e4f7d8528d58fbfb61a0189fd2d7997a",
@@ -164,7 +172,7 @@
         }
     ],
     "wof:id":1108837339,
-    "wof:lastmodified":1684351589,
+    "wof:lastmodified":1695876977,
     "wof:name":"Hochfilzen",
     "wof:parent_id":102049763,
     "wof:placetype":"localadmin",

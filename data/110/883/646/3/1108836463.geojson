@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.057799,
     "lbl:longitude":13.75972,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41720",
         "eg:gisco_id":"AT_41720",
         "eurostat:nuts_2021_id":"41720",
         "gn:id":2769873,
@@ -141,6 +148,7 @@
         "gn:id":7872164,
         "qs_pg:id":108519
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046874,
     "wof:geomhash":"df63c4a7092a1d5d276b593d187ee492",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108836463,
-    "wof:lastmodified":1684351563,
+    "wof:lastmodified":1695876922,
     "wof:name":"Oberndorf bei Schwanenstadt",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

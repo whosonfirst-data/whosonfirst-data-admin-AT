@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1101,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.498779,
     "lbl:longitude":14.714027,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40625",
         "eg:gisco_id":"AT_40625",
         "eurostat:nuts_2021_id":"40625",
         "gn:id":7872007,
         "qs_pg:id":380985
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046689,
     "wof:geomhash":"5d5d9417829cc03de408295cdf2ac997",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835115,
-    "wof:lastmodified":1684351521,
+    "wof:lastmodified":1695876839,
     "wof:name":"Weitersfelden",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2796,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.788588,
     "lbl:longitude":16.356092,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10609",
         "eg:gisco_id":"AT_10609",
         "eurostat:nuts_2021_id":"10609",
         "gn:id":7871576,
         "qs_pg:id":743293
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047152,
     "wof:geomhash":"79965d8dacd2e764536ded7010261d87",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108838659,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877052,
     "wof:name":"P\u00f6ttsching",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

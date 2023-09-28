@@ -29,6 +29,12 @@
     "geom:latitude":46.912918,
     "geom:longitude":15.712611,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.912002,
     "lbl:longitude":15.713293,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62389",
         "eg:gisco_id":"AT_62389",
         "eurostat:nuts_2021_id":"62389"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047224,
     "wof:geomhash":"0fda7857f8ce7d3cc6b3b34be60c4a29",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839237,
-    "wof:lastmodified":1684351641,
+    "wof:lastmodified":1695877087,
     "wof:name":"St. Stefan",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

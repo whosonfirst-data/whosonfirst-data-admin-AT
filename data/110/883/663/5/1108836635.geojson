@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1569,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.010328,
     "lbl:longitude":16.449912,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32413",
         "eg:gisco_id":"AT_30737",
         "eurostat:nuts_2021_id":"30737",
         "gn:id":7873074,
         "qs_pg:id":381131
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046895,
     "wof:geomhash":"6b002555faa7e1f0ae88417976008298",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836635,
-    "wof:lastmodified":1684351568,
+    "wof:lastmodified":1695876933,
     "wof:name":"Moosbrunn",
     "wof:parent_id":102049843,
     "wof:placetype":"localadmin",

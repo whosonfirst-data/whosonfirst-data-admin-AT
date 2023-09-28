@@ -29,6 +29,12 @@
     "geom:latitude":47.234193,
     "geom:longitude":16.062247,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.243009,
     "lbl:longitude":16.062748,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62276",
         "eg:gisco_id":"AT_62276",
         "eurostat:nuts_2021_id":"62276"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047207,
     "wof:geomhash":"5b1d45927edd635f519ac2c485063e87",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108839101,
-    "wof:lastmodified":1684351637,
+    "wof:lastmodified":1695877079,
     "wof:name":"Rohr",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

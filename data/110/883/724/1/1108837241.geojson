@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2809,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.293478,
     "lbl:longitude":12.93434,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50622",
         "eg:gisco_id":"AT_50622",
         "eurostat:nuts_2021_id":"50622",
         "gn:id":7873331,
         "qs_pg:id":108913
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046974,
     "wof:geomhash":"d36555b6123081c8999be54b3598d684",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108837241,
-    "wof:lastmodified":1684351586,
+    "wof:lastmodified":1695876972,
     "wof:name":"Taxenbach",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

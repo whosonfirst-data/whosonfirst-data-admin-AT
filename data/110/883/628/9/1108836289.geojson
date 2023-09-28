@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1356,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.365516,
     "lbl:longitude":16.60517,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31605",
         "eg:gisco_id":"AT_31605",
         "eurostat:nuts_2021_id":"31605",
         "gn:id":7871837,
         "qs_pg:id":904283
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046845,
     "wof:geomhash":"160a5faf0f176c38c9a19b1950ac7130",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836289,
-    "wof:lastmodified":1684351558,
+    "wof:lastmodified":1695876911,
     "wof:name":"Bockflie\u00df",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

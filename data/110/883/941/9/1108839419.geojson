@@ -29,6 +29,12 @@
     "geom:latitude":47.217784,
     "geom:longitude":14.771768,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.218103,
     "lbl:longitude":14.771751,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62047",
         "eg:gisco_id":"AT_62047",
         "eurostat:nuts_2021_id":"62047"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047255,
     "wof:geomhash":"767ff17fd05209fcd8d26dcf1a25fa36",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839419,
-    "wof:lastmodified":1684351648,
+    "wof:lastmodified":1695877098,
     "wof:name":"Spielberg",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

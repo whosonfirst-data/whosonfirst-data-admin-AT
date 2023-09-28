@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1762,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.893077,
     "lbl:longitude":13.047319,
     "lbl:max_zoom":16.0,
@@ -77,11 +83,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20636",
         "eg:gisco_id":"AT_20636",
         "eurostat:nuts_2021_id":"20636",
         "gn:id":7871657,
         "qs_pg:id":1155064
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047111,
     "wof:geomhash":"55e93872e6c13b03d599015cf195e5b7",
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":1108838303,
-    "wof:lastmodified":1684351614,
+    "wof:lastmodified":1695877031,
     "wof:name":"Stall",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":48.267524,
     "geom:longitude":13.931996,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.267996,
     "lbl:longitude":13.932899,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40510",
         "eg:gisco_id":"AT_40510",
         "eurostat:nuts_2021_id":"40510"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046680,
     "wof:geomhash":"554f723edfb54824720e5d504aab661e",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835053,
-    "wof:lastmodified":1684351518,
+    "wof:lastmodified":1695876833,
     "wof:name":"St. Marienkirchen an der Polsenz",
     "wof:parent_id":102049863,
     "wof:placetype":"localadmin",

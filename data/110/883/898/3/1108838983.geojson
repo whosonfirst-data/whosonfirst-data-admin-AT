@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2669,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.560888,
     "lbl:longitude":14.631916,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61253",
         "eg:gisco_id":"AT_61253",
         "eurostat:nuts_2021_id":"61253",
         "gn:id":7872432,
@@ -150,6 +157,7 @@
         "gn:id":2782979,
         "qs_pg:id":1092803
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047193,
     "wof:geomhash":"20cd508dda750e58ff6fda77643f1bd4",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108838983,
-    "wof:lastmodified":1684351634,
+    "wof:lastmodified":1695877071,
     "wof:name":"Admont",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

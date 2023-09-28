@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1120,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.501544,
     "lbl:longitude":16.871989,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30829",
         "eg:gisco_id":"AT_30829",
         "eurostat:nuts_2021_id":"30829",
         "gn:id":7872865,
@@ -144,6 +151,7 @@
         "gn:id":2775102,
         "qs_pg:id":1101817
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046833,
     "wof:geomhash":"00f5d9c7bc295c53e5ce01fa0ba3a21c",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836191,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876906,
     "wof:name":"Jedenspeigen",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

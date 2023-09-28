@@ -29,6 +29,12 @@
     "geom:latitude":47.556824,
     "geom:longitude":15.165646,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.538921,
     "lbl:longitude":15.165717,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62147",
         "eg:gisco_id":"AT_62147",
         "eurostat:nuts_2021_id":"62147"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047240,
     "wof:geomhash":"e3e194bdfb57171a2bdf7e689ed0f7fa",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108839307,
-    "wof:lastmodified":1684351644,
+    "wof:lastmodified":1695877092,
     "wof:name":"Th\u00f6rl",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

@@ -12,11 +12,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1155597.361419,
+    "geom:area_square_m":1155597.36142,
     "geom:bbox":"16.2980035997,47.7595944551,16.320345254,47.7757577645",
     "geom:latitude":47.766449,
     "geom:longitude":16.310527,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.766633,
     "lbl:longitude":16.312218,
     "lbl:max_zoom":18.0,
@@ -93,10 +99,13 @@
         102049789
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "austriaod:number":"10609"
+    },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047152,
-    "wof:geomhash":"ce154d79d87d00433e99fd3017f03584",
+    "wof:geomhash":"794c2ea7aef8d10e10ec22c1d8328812",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1108838661,
-    "wof:lastmodified":1566598306,
+    "wof:lastmodified":1695876809,
     "wof:name":"P\u00f6ttsching",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

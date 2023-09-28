@@ -29,6 +29,12 @@
     "geom:latitude":47.827794,
     "geom:longitude":16.109534,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.832435,
     "lbl:longitude":16.109553,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32336",
         "eg:gisco_id":"AT_32336",
         "eurostat:nuts_2021_id":"32336"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046659,
     "wof:geomhash":"0e4c521fe8327fc8926547101b881bb5",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108834891,
-    "wof:lastmodified":1684351513,
+    "wof:lastmodified":1695876823,
     "wof:name":"Winzendorf - Muthmannsdorf",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

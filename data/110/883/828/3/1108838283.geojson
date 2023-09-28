@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":908,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.853804,
     "lbl:longitude":13.339031,
     "lbl:max_zoom":16.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20624",
         "eg:gisco_id":"AT_20624",
         "eurostat:nuts_2021_id":"20624",
         "gn:id":7872786,
         "qs_pg:id":108700
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047109,
     "wof:geomhash":"245f77ed59ebb7699eacd7e44a82c714",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108838283,
-    "wof:lastmodified":1684351614,
+    "wof:lastmodified":1695877030,
     "wof:name":"M\u00fchldorf",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

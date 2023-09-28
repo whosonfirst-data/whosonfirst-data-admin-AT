@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1397,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.397183,
     "lbl:longitude":15.445893,
     "lbl:max_zoom":16.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31351",
         "eg:gisco_id":"AT_31351",
         "eurostat:nuts_2021_id":"31351",
         "gn:id":7872927,
         "qs_pg:id":108759
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046915,
     "wof:geomhash":"cce2bc5c2b8e70ded7a2b00227d1ba96",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108836805,
-    "wof:lastmodified":1684351573,
+    "wof:lastmodified":1695876943,
     "wof:name":"Wei\u00dfenkirchen in der Wachau",
     "wof:parent_id":102049885,
     "wof:placetype":"localadmin",

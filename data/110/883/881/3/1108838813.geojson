@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.001818,
     "lbl:longitude":15.053802,
     "lbl:max_zoom":16.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61627",
         "eg:gisco_id":"AT_61627",
         "eurostat:nuts_2021_id":"61627",
         "gn:id":2780452,
@@ -138,6 +145,7 @@
         "gn:id":7873540,
         "qs_pg:id":108980
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047171,
     "wof:geomhash":"415849370bb0fc6cb2bae9f50b6e763d",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108838813,
-    "wof:lastmodified":1684351628,
+    "wof:lastmodified":1695877061,
     "wof:name":"Edelschrott",
     "wof:parent_id":102049717,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3650,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.044899,
     "lbl:longitude":15.608785,
     "lbl:max_zoom":15.0,
@@ -95,11 +101,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31413",
         "eg:gisco_id":"AT_31413",
         "eurostat:nuts_2021_id":"31413",
         "gn:id":7872936,
         "qs_pg:id":381091
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046660,
     "wof:geomhash":"2aefa8bfe08a1348f6264955e717d31b",
@@ -113,7 +121,7 @@
         }
     ],
     "wof:id":1108834897,
-    "wof:lastmodified":1684351514,
+    "wof:lastmodified":1695876824,
     "wof:name":"Traisen",
     "wof:parent_id":102049823,
     "wof:placetype":"localadmin",

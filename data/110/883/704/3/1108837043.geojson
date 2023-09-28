@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":827,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.479613,
     "lbl:longitude":13.270695,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50425",
         "eg:gisco_id":"AT_50425",
         "eurostat:nuts_2021_id":"50425",
         "gn:id":7873318,
@@ -144,6 +151,7 @@
         "gn:id":2761476,
         "qs_pg:id":37958
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046946,
     "wof:geomhash":"c2d77d81b11e586db28b24bf2bb98ba1",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108837043,
-    "wof:lastmodified":1684351579,
+    "wof:lastmodified":1695876957,
     "wof:name":"Werfenweng",
     "wof:parent_id":102049753,
     "wof:placetype":"localadmin",

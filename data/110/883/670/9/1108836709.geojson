@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.024689,
     "lbl:longitude":16.554088,
     "lbl:max_zoom":18.0,
@@ -125,12 +131,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30709",
         "eg:gisco_id":"AT_30709",
         "eurostat:nuts_2021_id":"30709",
         "gn:id":2778224,
         "gp:id":12674021,
         "qs_pg:id":904950
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046903,
     "wof:geomhash":"28ac777951967358d5d12f8e0bf8feb5",
@@ -144,7 +152,7 @@
         }
     ],
     "wof:id":1108836709,
-    "wof:lastmodified":1684351570,
+    "wof:lastmodified":1695876937,
     "wof:name":"G\u00f6tzendorf an der Leitha",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

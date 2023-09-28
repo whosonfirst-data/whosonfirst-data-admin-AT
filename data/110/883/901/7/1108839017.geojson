@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.446252,
     "lbl:longitude":14.758524,
     "lbl:max_zoom":17.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61105",
         "eg:gisco_id":"AT_61105",
         "eurostat:nuts_2021_id":"61105",
         "gn:id":2774839,
@@ -141,6 +148,7 @@
         "gn:id":7873483,
         "qs_pg:id":108956
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047197,
     "wof:geomhash":"e0bbf24bef684c911f1c18ddc28cf5e5",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108839017,
-    "wof:lastmodified":1684351634,
+    "wof:lastmodified":1695877073,
     "wof:name":"Kalwang",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",

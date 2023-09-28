@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3530,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.660917,
     "lbl:longitude":12.976462,
     "lbl:max_zoom":15.0,
@@ -71,6 +77,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20307",
         "eg:gisco_id":"AT_20307",
         "eurostat:nuts_2021_id":"20307",
         "gn:id":7872757,
@@ -80,6 +87,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":59263
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047090,
     "wof:geomhash":"a9c5f5e7721458eb5de398ff2cd4406a",
@@ -93,7 +101,7 @@
         }
     ],
     "wof:id":1108838155,
-    "wof:lastmodified":1684351609,
+    "wof:lastmodified":1695877020,
     "wof:name":"K\u00f6tschach-mauthen",
     "wof:parent_id":102049675,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1613,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.460764,
     "lbl:longitude":16.297394,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31234",
         "eg:gisco_id":"AT_31234",
         "eurostat:nuts_2021_id":"31234",
         "gn:id":7871795,
         "qs_pg:id":108374
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046918,
     "wof:geomhash":"c6d217c02cf79ff6869f77792707d60d",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836823,
-    "wof:lastmodified":1684351573,
+    "wof:lastmodified":1695876944,
     "wof:name":"Niederhollabrunn",
     "wof:parent_id":102049887,
     "wof:placetype":"localadmin",

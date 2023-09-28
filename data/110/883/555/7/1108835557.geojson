@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3676,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.1815,
     "lbl:longitude":14.214354,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41019",
         "eg:gisco_id":"AT_41019",
         "eurostat:nuts_2021_id":"41019",
         "gn:id":7872059,
@@ -143,6 +150,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1155139
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046752,
     "wof:geomhash":"ac88278286874da74d7b54ec69e3aef1",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108835557,
-    "wof:lastmodified":1684351535,
+    "wof:lastmodified":1695876865,
     "wof:name":"Pucking",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

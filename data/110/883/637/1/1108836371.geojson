@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3487,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.084368,
     "lbl:longitude":14.498992,
     "lbl:max_zoom":15.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30515",
         "eg:gisco_id":"AT_30515",
         "eurostat:nuts_2021_id":"30515",
         "gn:id":7872822,
         "qs_pg:id":1155377
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046862,
     "wof:geomhash":"b2961327e9cd02f4670082bc109d10b0",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108836371,
-    "wof:lastmodified":1684351560,
+    "wof:lastmodified":1695876916,
     "wof:name":"Haidershofen",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

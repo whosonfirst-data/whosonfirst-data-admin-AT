@@ -29,6 +29,12 @@
     "geom:latitude":47.829314,
     "geom:longitude":16.167201,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.83293,
     "lbl:longitude":16.162269,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32301",
         "eg:gisco_id":"AT_32301",
         "eurostat:nuts_2021_id":"32301"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046779,
     "wof:geomhash":"f91b7334472fb805887aeb83f91bb564",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835771,
-    "wof:lastmodified":1684351542,
+    "wof:lastmodified":1695876879,
     "wof:name":"Bad Fischau - Brunn",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

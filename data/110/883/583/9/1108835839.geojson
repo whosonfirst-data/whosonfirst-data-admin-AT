@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1889,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.342544,
     "lbl:longitude":16.440154,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31206",
         "eg:gisco_id":"AT_31206",
         "eurostat:nuts_2021_id":"31206",
         "gn:id":7871787,
@@ -144,6 +151,7 @@
         "gn:id":2777065,
         "qs_pg:id":399745
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046787,
     "wof:geomhash":"249135b4530d4ca7adf600f3f6027df1",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835839,
-    "wof:lastmodified":1684351544,
+    "wof:lastmodified":1695876883,
     "wof:name":"Hagenbrunn",
     "wof:parent_id":102049887,
     "wof:placetype":"localadmin",

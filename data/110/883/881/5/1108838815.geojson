@@ -29,6 +29,12 @@
     "geom:latitude":47.144021,
     "geom:longitude":15.160023,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.151872,
     "lbl:longitude":15.15192,
     "lbl:max_zoom":18.0,
@@ -72,9 +78,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61628",
         "eg:gisco_id":"AT_61628",
         "eurostat:nuts_2021_id":"61628"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047171,
     "wof:geomhash":"37bdc5ca3e27ccbe4b742520acaee45b",
@@ -88,7 +96,7 @@
         }
     ],
     "wof:id":1108838815,
-    "wof:lastmodified":1684351628,
+    "wof:lastmodified":1695877061,
     "wof:name":"Geistthal-S\u00f6dingberg",
     "wof:parent_id":102049717,
     "wof:placetype":"localadmin",

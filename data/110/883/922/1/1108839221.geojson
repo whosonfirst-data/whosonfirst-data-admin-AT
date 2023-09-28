@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2642,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.089646,
     "lbl:longitude":15.923044,
     "lbl:max_zoom":15.0,
@@ -122,6 +128,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62271",
         "eg:gisco_id":"AT_62271",
         "eurostat:nuts_2021_id":"62271",
         "gn:id":7872317,
@@ -132,6 +139,7 @@
         "gn:id":2775324,
         "qs_pg:id":535921
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047223,
     "wof:geomhash":"66a262127e7581090f5061c015ee1d6c",
@@ -145,7 +153,7 @@
         }
     ],
     "wof:id":1108839221,
-    "wof:lastmodified":1684351641,
+    "wof:lastmodified":1695877086,
     "wof:name":"Ilz",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

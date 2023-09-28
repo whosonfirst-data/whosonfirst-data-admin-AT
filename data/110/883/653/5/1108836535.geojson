@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1183,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.073963,
     "lbl:longitude":13.589039,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41752",
         "eg:gisco_id":"AT_41752",
         "eurostat:nuts_2021_id":"41752",
         "gn:id":7873272,
         "qs_pg:id":108888
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046883,
     "wof:geomhash":"564f84bbd7aad60cc016a63a51a14ccb",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108836535,
-    "wof:lastmodified":1684351565,
+    "wof:lastmodified":1695876927,
     "wof:name":"Zell am Pettenfirst",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

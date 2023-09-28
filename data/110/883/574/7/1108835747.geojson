@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":872,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.7468,
     "lbl:longitude":15.888497,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31041",
         "eg:gisco_id":"AT_31041",
         "eurostat:nuts_2021_id":"31041",
         "gn:id":7872892,
@@ -144,6 +151,7 @@
         "gn:id":2765614,
         "qs_pg:id":190838
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046776,
     "wof:geomhash":"03a48afcc23298aaaa2cfe585265f467",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835747,
-    "wof:lastmodified":1684351541,
+    "wof:lastmodified":1695876878,
     "wof:name":"Schrattenthal",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",

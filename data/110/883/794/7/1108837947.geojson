@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1557,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.493977,
     "lbl:longitude":9.577319,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80214",
         "eg:gisco_id":"AT_80214",
         "eurostat:nuts_2021_id":"80214",
         "gn:id":7872658,
@@ -144,6 +151,7 @@
         "gn:id":2778996,
         "qs_pg:id":536053
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047062,
     "wof:geomhash":"243c5e38b2b6682934b4fcb1a358d5bf",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108837947,
-    "wof:lastmodified":1684351603,
+    "wof:lastmodified":1695877008,
     "wof:name":"Gai\u00dfau",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

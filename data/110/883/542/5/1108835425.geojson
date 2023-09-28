@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":998,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.072116,
     "lbl:longitude":15.30028,
     "lbl:max_zoom":16.0,
@@ -113,11 +119,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31515",
         "eg:gisco_id":"AT_31515",
         "eurostat:nuts_2021_id":"31515",
         "gn:id":7871816,
         "qs_pg:id":108384
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046736,
     "wof:geomhash":"44cebd3188cd32a5f36c5aa4e2b175ee",
@@ -131,7 +139,7 @@
         }
     ],
     "wof:id":1108835425,
-    "wof:lastmodified":1684351531,
+    "wof:lastmodified":1695876858,
     "wof:name":"Kirnberg an der Mank",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":662,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.460466,
     "lbl:longitude":14.377348,
     "lbl:max_zoom":17.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20441",
         "eg:gisco_id":"AT_20441",
         "eurostat:nuts_2021_id":"20441",
         "gn:id":7871638,
         "qs_pg:id":108301
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047094,
     "wof:geomhash":"38613afd1384b9b22e28ef4ccb90b32c",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108838197,
-    "wof:lastmodified":1684351611,
+    "wof:lastmodified":1695877022,
     "wof:name":"Zell",
     "wof:parent_id":102049681,
     "wof:placetype":"localadmin",

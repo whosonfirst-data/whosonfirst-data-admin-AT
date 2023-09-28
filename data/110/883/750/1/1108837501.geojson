@@ -29,6 +29,12 @@
     "geom:latitude":46.857877,
     "geom:longitude":12.850535,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.845213,
     "lbl:longitude":12.849893,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70711",
         "eg:gisco_id":"AT_70711",
         "eurostat:nuts_2021_id":"70711"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047008,
     "wof:geomhash":"eb6c42158a7d1bad1491c6778bee7ec5",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108837501,
-    "wof:lastmodified":1684351592,
+    "wof:lastmodified":1695876985,
     "wof:name":"Iselsberg-Stronach",
     "wof:parent_id":102049703,
     "wof:placetype":"localadmin",

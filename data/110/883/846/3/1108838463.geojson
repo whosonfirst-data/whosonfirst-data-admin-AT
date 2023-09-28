@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.990055,
     "lbl:longitude":16.734539,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10703",
         "eg:gisco_id":"AT_10703",
         "eurostat:nuts_2021_id":"10703",
         "gn:id":2781361,
@@ -150,6 +157,7 @@
         "gn:id":7871585,
         "qs_pg:id":1155010
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047129,
     "wof:geomhash":"ab4ad54142eebe813cee9da1b9fd89fa",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108838463,
-    "wof:lastmodified":1684351619,
+    "wof:lastmodified":1695877041,
     "wof:name":"Bruckneudorf",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5431,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.212215,
     "lbl:longitude":14.177653,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41007",
         "eg:gisco_id":"AT_41007",
         "eurostat:nuts_2021_id":"41007",
         "gn:id":7872052,
         "qs_pg:id":108488
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046749,
     "wof:geomhash":"4cb2bfbfa660f4e0d3ed26240509678b",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835531,
-    "wof:lastmodified":1684351534,
+    "wof:lastmodified":1695876864,
     "wof:name":"H\u00f6rsching",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

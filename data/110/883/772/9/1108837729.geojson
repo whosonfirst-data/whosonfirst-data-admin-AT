@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":977,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.380915,
     "lbl:longitude":11.864652,
     "lbl:max_zoom":16.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70904",
         "eg:gisco_id":"AT_70904",
         "eurostat:nuts_2021_id":"70904",
         "gn:id":7873704,
         "gp:id":20074651,
         "qs_pg:id":334693
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047036,
     "wof:geomhash":"36fea2fa762f6f9dff9305355739b07d",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837729,
-    "wof:lastmodified":1684351598,
+    "wof:lastmodified":1695876996,
     "wof:name":"Bruck am Ziller",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",

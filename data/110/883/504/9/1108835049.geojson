@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2821,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.31012,
     "lbl:longitude":13.918846,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40508",
         "eg:gisco_id":"AT_40508",
         "eurostat:nuts_2021_id":"40508",
         "gn:id":7873116,
         "qs_pg:id":743474
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046679,
     "wof:geomhash":"6c3e073b534f3dcd6638533eca6a63f1",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835049,
-    "wof:lastmodified":1684351518,
+    "wof:lastmodified":1695876833,
     "wof:name":"Prambachkirchen",
     "wof:parent_id":102049863,
     "wof:placetype":"localadmin",

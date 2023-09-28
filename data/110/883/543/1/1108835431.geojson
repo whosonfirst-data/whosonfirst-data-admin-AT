@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5268,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.213747,
     "lbl:longitude":15.331901,
     "lbl:max_zoom":15.0,
@@ -179,12 +185,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31524",
         "eg:gisco_id":"AT_31524",
         "eurostat:nuts_2021_id":"31524",
         "gn:id":7872946,
         "gp:id":12673732,
         "qs_pg:id":1310813
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046737,
     "wof:geomhash":"c0c56e5acc4d05f4ac5d5f0819eebca0",
@@ -198,7 +206,7 @@
         }
     ],
     "wof:id":1108835431,
-    "wof:lastmodified":1684351531,
+    "wof:lastmodified":1695876858,
     "wof:name":"Melk",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

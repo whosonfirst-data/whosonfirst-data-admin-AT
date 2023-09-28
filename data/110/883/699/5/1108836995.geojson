@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":10144,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.414413,
     "lbl:longitude":13.204524,
     "lbl:max_zoom":15.0,
@@ -200,6 +206,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50404",
         "eg:gisco_id":"AT_50404",
         "eurostat:nuts_2021_id":"50404",
         "gn:id":2781735,
@@ -210,6 +217,7 @@
         "gn:id":7872220,
         "qs_pg:id":108534
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046939,
     "wof:geomhash":"7592e41e9573840b1898d0cf9b6f5c65",
@@ -223,7 +231,7 @@
         }
     ],
     "wof:id":1108836995,
-    "wof:lastmodified":1684351578,
+    "wof:lastmodified":1695876954,
     "wof:name":"Bischofshofen",
     "wof:parent_id":102049753,
     "wof:placetype":"localadmin",

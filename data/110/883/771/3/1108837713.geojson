@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1489,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.307836,
     "lbl:longitude":11.650708,
     "lbl:max_zoom":16.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70937",
         "eg:gisco_id":"AT_70937",
         "eurostat:nuts_2021_id":"70937",
         "gn:id":7872640,
         "gp:id":12675575,
         "qs_pg:id":1018100
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047035,
     "wof:geomhash":"5e86452c0cf78c1dab8c0fa56cbbbd54",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108837713,
-    "wof:lastmodified":1684351597,
+    "wof:lastmodified":1695876996,
     "wof:name":"Weer",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",

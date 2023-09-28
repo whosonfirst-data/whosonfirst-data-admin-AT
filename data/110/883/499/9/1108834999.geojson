@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2244,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.124857,
     "lbl:longitude":15.24048,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31537",
         "eg:gisco_id":"AT_31537",
         "eurostat:nuts_2021_id":"31537",
         "gn:id":7871826,
         "qs_pg:id":904280
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046672,
     "wof:geomhash":"e0d0b229d4d9a6a7adde99d782957eb7",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108834999,
-    "wof:lastmodified":1684351517,
+    "wof:lastmodified":1695876830,
     "wof:name":"Ruprechtshofen",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

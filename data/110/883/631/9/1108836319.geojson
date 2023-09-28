@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.570664,
     "lbl:longitude":14.863315,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32516",
         "eg:gisco_id":"AT_32516",
         "eurostat:nuts_2021_id":"32516",
         "gn:id":2772977,
@@ -141,6 +148,7 @@
         "gn:id":7871959,
         "qs_pg:id":904299
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046851,
     "wof:geomhash":"76dd8883894712f0ac209fc2b5f12645",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108836319,
-    "wof:lastmodified":1684351559,
+    "wof:lastmodified":1695876912,
     "wof:name":"Langschlag",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",

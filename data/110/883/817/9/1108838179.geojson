@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.562267,
     "lbl:longitude":14.322686,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20417",
         "eg:gisco_id":"AT_20417",
         "eurostat:nuts_2021_id":"20417",
         "gn:id":2771914,
@@ -144,6 +151,7 @@
         "gn:id":7872763,
         "qs_pg:id":381045
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047093,
     "wof:geomhash":"e0ef396e1c7f8e9344a9f843fd16c2a9",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838179,
-    "wof:lastmodified":1684351610,
+    "wof:lastmodified":1695877021,
     "wof:name":"Maria Rain",
     "wof:parent_id":102049681,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":716,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.635589,
     "lbl:longitude":15.865501,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31833",
         "eg:gisco_id":"AT_31833",
         "eurostat:nuts_2021_id":"31833",
         "gn:id":7873000,
         "qs_pg:id":108779
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046895,
     "wof:geomhash":"23dbb071f1b3786a4a5560510a0a30ee",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836645,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876934,
     "wof:name":"Schottwien",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

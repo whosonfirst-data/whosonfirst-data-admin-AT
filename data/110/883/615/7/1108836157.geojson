@@ -29,6 +29,12 @@
     "geom:latitude":48.437262,
     "geom:longitude":14.362846,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.434799,
     "lbl:longitude":14.362275,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41610",
         "eg:gisco_id":"AT_41610",
         "eurostat:nuts_2021_id":"41610"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046829,
     "wof:geomhash":"c3d56d0ca8287204e4d3658a3bc83046",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108836157,
-    "wof:lastmodified":1684351555,
+    "wof:lastmodified":1695876904,
     "wof:name":"Haibach im M\u00fchlkreis",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",

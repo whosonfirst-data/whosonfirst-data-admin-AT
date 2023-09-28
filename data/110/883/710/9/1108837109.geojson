@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1915,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.671871,
     "lbl:longitude":13.200424,
     "lbl:max_zoom":15.0,
@@ -71,6 +77,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50213",
         "eg:gisco_id":"AT_50213",
         "eurostat:nuts_2021_id":"50213",
         "gn:id":7872202,
@@ -80,6 +87,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1018646
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046955,
     "wof:geomhash":"a0b7badb479117ef6bb2ed0aa6639def",
@@ -93,7 +101,7 @@
         }
     ],
     "wof:id":1108837109,
-    "wof:lastmodified":1684351582,
+    "wof:lastmodified":1695876963,
     "wof:name":"BAd Vigaun",
     "wof:parent_id":102049773,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1295,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.657033,
     "lbl:longitude":13.915932,
     "lbl:max_zoom":16.0,
@@ -110,11 +116,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61215",
         "eg:gisco_id":"AT_61215",
         "eurostat:nuts_2021_id":"61215",
         "gn:id":7873495,
         "qs_pg:id":108963
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047190,
     "wof:geomhash":"d1e033c890af607fc725221de605cf60",
@@ -128,7 +136,7 @@
         }
     ],
     "wof:id":1108838955,
-    "wof:lastmodified":1684351633,
+    "wof:lastmodified":1695877070,
     "wof:name":"Grundlsee",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

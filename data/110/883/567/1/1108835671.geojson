@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":791,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.161111,
     "lbl:longitude":13.487195,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41221",
         "eg:gisco_id":"AT_41221",
         "eurostat:nuts_2021_id":"41221",
         "gn:id":7873185,
         "qs_pg:id":108850
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046766,
     "wof:geomhash":"8f3a8fc76d2f40cd73edb3e463f2c8d3",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835671,
-    "wof:lastmodified":1684351539,
+    "wof:lastmodified":1695876873,
     "wof:name":"Pattigham",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

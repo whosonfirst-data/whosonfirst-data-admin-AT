@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.044883,
     "lbl:longitude":16.327304,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31710",
         "eg:gisco_id":"AT_31710",
         "eurostat:nuts_2021_id":"31710",
         "gn:id":2777250,
@@ -147,6 +154,7 @@
         "gn:id":7872978,
         "qs_pg:id":381092
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046934,
     "wof:geomhash":"2c1922d7661065f6cfd1e61fe107acae",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108836951,
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1695876951,
     "wof:name":"Guntramsdorf",
     "wof:parent_id":102049837,
     "wof:placetype":"localadmin",

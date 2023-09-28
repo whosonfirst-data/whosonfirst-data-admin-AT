@@ -29,6 +29,12 @@
     "geom:latitude":47.319985,
     "geom:longitude":14.91623,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.312203,
     "lbl:longitude":14.925027,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61107",
         "eg:gisco_id":"AT_61107",
         "eurostat:nuts_2021_id":"61107"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047196,
     "wof:geomhash":"bbb3195a969e810b0a9cb93618faa42a",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839011,
-    "wof:lastmodified":1684351634,
+    "wof:lastmodified":1695877073,
     "wof:name":"Kraubath",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",

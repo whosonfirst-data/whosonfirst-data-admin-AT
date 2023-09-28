@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2018,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.594591,
     "lbl:longitude":16.661118,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31654",
         "eg:gisco_id":"AT_31654",
         "eurostat:nuts_2021_id":"31654",
         "gn:id":7872972,
         "qs_pg:id":1155395
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046741,
     "wof:geomhash":"afc0ca5a0a587cf37f95bf20be0f66fd",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835475,
-    "wof:lastmodified":1684351532,
+    "wof:lastmodified":1695876860,
     "wof:name":"Wilfersdorf",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

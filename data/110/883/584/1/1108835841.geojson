@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":495,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.890062,
     "lbl:longitude":15.735728,
     "lbl:max_zoom":17.0,
@@ -122,12 +128,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32324",
         "eg:gisco_id":"AT_32324",
         "eurostat:nuts_2021_id":"32324",
         "gn:id":7873060,
         "gp:id":12674207,
         "qs_pg:id":1101827
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046787,
     "wof:geomhash":"b5b38c0d0624746a01e48c995b04a431",
@@ -141,7 +149,7 @@
         }
     ],
     "wof:id":1108835841,
-    "wof:lastmodified":1684351544,
+    "wof:lastmodified":1695876883,
     "wof:name":"Rohr im Gebirge",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

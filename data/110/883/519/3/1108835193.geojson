@@ -29,6 +29,12 @@
     "geom:latitude":48.181822,
     "geom:longitude":13.847708,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.181069,
     "lbl:longitude":13.844413,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40813",
         "eg:gisco_id":"AT_40813",
         "eurostat:nuts_2021_id":"40813"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046700,
     "wof:geomhash":"2f6c6e35397defc2b555150ec143ce9c",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108835193,
-    "wof:lastmodified":1684351524,
+    "wof:lastmodified":1695876844,
     "wof:name":"Kematen am Innbach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

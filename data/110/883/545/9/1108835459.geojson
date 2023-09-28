@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1638,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.218965,
     "lbl:longitude":15.126431,
     "lbl:max_zoom":16.0,
@@ -125,6 +131,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31522",
         "eg:gisco_id":"AT_31522",
         "eurostat:nuts_2021_id":"31522",
         "gn:id":7872945,
@@ -134,6 +141,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":479412
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046740,
     "wof:geomhash":"c9e686703510a475bab7e262fc93ab29",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108835459,
-    "wof:lastmodified":1684351532,
+    "wof:lastmodified":1695876860,
     "wof:name":"Marbach an der Donau",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

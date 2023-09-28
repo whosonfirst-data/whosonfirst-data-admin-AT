@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.620724,
     "lbl:longitude":16.10634,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31812",
         "eg:gisco_id":"AT_31812",
         "eurostat:nuts_2021_id":"31812",
         "gn:id":2777942,
@@ -141,6 +148,7 @@
         "gn:id":7871861,
         "qs_pg:id":1155121
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046899,
     "wof:geomhash":"230aba572ca92d79102db161ad6467f0",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108836673,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876935,
     "wof:name":"Grimmenstein",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

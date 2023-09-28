@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.764893,
     "lbl:longitude":13.027025,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20611",
         "eg:gisco_id":"AT_20611",
         "eurostat:nuts_2021_id":"20611",
         "gn:id":2775185,
@@ -144,6 +151,7 @@
         "gn:id":7872781,
         "qs_pg:id":1245792
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047103,
     "wof:geomhash":"6c49fa58f80a51fc0946eaf3730badf6",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838269,
-    "wof:lastmodified":1684351613,
+    "wof:lastmodified":1695877029,
     "wof:name":"Irschen",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4674,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.382672,
     "lbl:longitude":16.319943,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31216",
         "eg:gisco_id":"AT_31216",
         "eurostat:nuts_2021_id":"31216",
         "gn:id":7871791,
@@ -144,6 +151,7 @@
         "gn:id":2772646,
         "qs_pg:id":1310816
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046852,
     "wof:geomhash":"34744c370bffe55dfb5bb372cb237c48",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836331,
-    "wof:lastmodified":1684351560,
+    "wof:lastmodified":1695876914,
     "wof:name":"Leobendorf",
     "wof:parent_id":102049887,
     "wof:placetype":"localadmin",

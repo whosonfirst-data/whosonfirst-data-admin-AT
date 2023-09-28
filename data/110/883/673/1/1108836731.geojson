@@ -29,6 +29,12 @@
     "geom:latitude":48.113177,
     "geom:longitude":16.861004,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.108466,
     "lbl:longitude":16.861013,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30718",
         "eg:gisco_id":"AT_30718",
         "eurostat:nuts_2021_id":"30718"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046906,
     "wof:geomhash":"c6fa0101d9cc15e9f984dd99497546ac",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836731,
-    "wof:lastmodified":1684351571,
+    "wof:lastmodified":1695876938,
     "wof:name":"Petronell - Carnuntum",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

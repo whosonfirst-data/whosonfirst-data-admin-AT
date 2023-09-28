@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1582,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.595119,
     "lbl:longitude":13.943533,
     "lbl:max_zoom":16.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41325",
         "eg:gisco_id":"AT_41325",
         "eurostat:nuts_2021_id":"41325",
         "gn:id":7872114,
         "qs_pg:id":743337
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046806,
     "wof:geomhash":"cfbd4e8e0d28b68857100e83856c6a16",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108835983,
-    "wof:lastmodified":1684351548,
+    "wof:lastmodified":1695876891,
     "wof:name":"Oepping",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

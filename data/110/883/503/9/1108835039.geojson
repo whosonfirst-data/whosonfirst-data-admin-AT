@@ -29,6 +29,12 @@
     "geom:latitude":47.888437,
     "geom:longitude":16.193605,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.892114,
     "lbl:longitude":16.194286,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32320",
         "eg:gisco_id":"AT_32320",
         "eurostat:nuts_2021_id":"32320"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046677,
     "wof:geomhash":"726194e949ae8ed3ff334183c360afa3",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835039,
-    "wof:lastmodified":1684351518,
+    "wof:lastmodified":1695876832,
     "wof:name":"Matzendorf - H\u00f6lles",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

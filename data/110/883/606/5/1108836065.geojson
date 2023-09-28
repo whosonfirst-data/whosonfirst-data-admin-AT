@@ -29,6 +29,12 @@
     "geom:latitude":48.376612,
     "geom:longitude":13.448536,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.374723,
     "lbl:longitude":13.437132,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41419",
         "eg:gisco_id":"AT_41419",
         "eurostat:nuts_2021_id":"41419"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046817,
     "wof:geomhash":"deb93fb7a81d125aaa1b918144f83241",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836065,
-    "wof:lastmodified":1684351551,
+    "wof:lastmodified":1695876897,
     "wof:name":"St. Marienkirchen bei Sch\u00e4rding",
     "wof:parent_id":102049877,
     "wof:placetype":"localadmin",

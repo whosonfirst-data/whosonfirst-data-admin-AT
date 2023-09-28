@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":5501,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.855486,
     "lbl:longitude":13.254982,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50337",
         "eg:gisco_id":"AT_50337",
         "eurostat:nuts_2021_id":"50337",
         "gn:id":2763749,
@@ -144,6 +151,7 @@
         "gn:id":7873305,
         "qs_pg:id":108899
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046966,
     "wof:geomhash":"11c12c51df07e63a253f608dd6370a35",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108837187,
-    "wof:lastmodified":1684351585,
+    "wof:lastmodified":1695876969,
     "wof:name":"Thalgau",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

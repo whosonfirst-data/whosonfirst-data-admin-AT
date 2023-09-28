@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":863,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.732522,
     "lbl:longitude":16.505207,
     "lbl:max_zoom":17.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10617",
         "eg:gisco_id":"AT_10617",
         "eurostat:nuts_2021_id":"10617",
         "gn:id":7872712,
         "qs_pg:id":108674
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047123,
     "wof:geomhash":"b0e309255a4b5ef776c6336a95697eba",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108838411,
-    "wof:lastmodified":1684351618,
+    "wof:lastmodified":1695877038,
     "wof:name":"Baumgarten",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

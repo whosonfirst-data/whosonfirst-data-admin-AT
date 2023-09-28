@@ -29,6 +29,12 @@
     "geom:latitude":48.202737,
     "geom:longitude":15.15044,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.199691,
     "lbl:longitude":15.150434,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31517",
         "eg:gisco_id":"AT_31517",
         "eurostat:nuts_2021_id":"31517"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046670,
     "wof:geomhash":"6f1e0b972724b4ef7e6069c6defaee62",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108834979,
-    "wof:lastmodified":1684351516,
+    "wof:lastmodified":1695876829,
     "wof:name":"Krummnu\u00dfbaum",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":46.833493,
     "geom:longitude":15.961959,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.834019,
     "lbl:longitude":15.962772,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62387",
         "eg:gisco_id":"AT_62387",
         "eurostat:nuts_2021_id":"62387"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047225,
     "wof:geomhash":"5ea5365ac581a40fc69589be7c755b0c",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839239,
-    "wof:lastmodified":1684351641,
+    "wof:lastmodified":1695877087,
     "wof:name":"St. Anna",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

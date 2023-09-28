@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.129561,
     "lbl:longitude":14.951991,
     "lbl:max_zoom":18.0,
@@ -77,12 +83,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30527",
         "eg:gisco_id":"AT_30527",
         "eurostat:nuts_2021_id":"30527",
         "gn:id":2766702,
         "gp:id":12673701,
         "qs_pg:id":911050
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046775,
     "wof:geomhash":"7cd077135c7afb38de6abee6675d2723",
@@ -96,7 +104,7 @@
         }
     ],
     "wof:id":1108835743,
-    "wof:lastmodified":1684351541,
+    "wof:lastmodified":1695876878,
     "wof:name":"St. Georgen am Ybbsfelde",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.586591,
     "geom:longitude":13.781019,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.582039,
     "lbl:longitude":13.780986,
     "lbl:max_zoom":18.0,
@@ -60,9 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61207",
         "eg:gisco_id":"AT_61207",
         "eurostat:nuts_2021_id":"61207"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047190,
     "wof:geomhash":"9f0b0179c3dfb3d19d5f41121c4f3179",
@@ -76,7 +84,7 @@
         }
     ],
     "wof:id":1108838965,
-    "wof:lastmodified":1684351633,
+    "wof:lastmodified":1695877070,
     "wof:name":"Aussee",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

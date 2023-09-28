@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2183,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.186865,
     "lbl:longitude":13.466506,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41218",
         "eg:gisco_id":"AT_41218",
         "eurostat:nuts_2021_id":"41218",
         "gn:id":7872087,
         "qs_pg:id":743316
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046766,
     "wof:geomhash":"ea27587fbd650f6bea8fb713a66f6147",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835663,
-    "wof:lastmodified":1684351539,
+    "wof:lastmodified":1695876873,
     "wof:name":"Neuhofen im Innkreis",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

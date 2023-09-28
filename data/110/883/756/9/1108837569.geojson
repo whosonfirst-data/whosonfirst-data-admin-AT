@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1066,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.280883,
     "lbl:longitude":11.075877,
     "lbl:max_zoom":16.0,
@@ -107,12 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70340",
         "eg:gisco_id":"AT_70340",
         "eurostat:nuts_2021_id":"70340",
         "gn:id":7872544,
         "gp:id":12675498,
         "qs_pg:id":1192812
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047018,
     "wof:geomhash":"32b29dd7baf6f9eccc946ee98b144a3f",
@@ -126,7 +134,7 @@
         }
     ],
     "wof:id":1108837569,
-    "wof:lastmodified":1684351594,
+    "wof:lastmodified":1695876989,
     "wof:name":"Pfaffenhofen",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":48.255742,
     "geom:longitude":15.210751,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.254108,
     "lbl:longitude":15.209854,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31502",
         "eg:gisco_id":"AT_31502",
         "eurostat:nuts_2021_id":"31502"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046793,
     "wof:geomhash":"9e54927089280f556ed535a7d1187a6b",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835881,
-    "wof:lastmodified":1684351545,
+    "wof:lastmodified":1695876885,
     "wof:name":"Artstetten - P\u00f6bring",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

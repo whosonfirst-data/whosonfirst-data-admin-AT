@@ -29,6 +29,12 @@
     "geom:latitude":46.955066,
     "geom:longitude":15.513182,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.961707,
     "lbl:longitude":15.51367,
     "lbl:max_zoom":18.0,
@@ -78,9 +84,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60662",
         "eg:gisco_id":"AT_60662",
         "eurostat:nuts_2021_id":"60662"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047221,
     "wof:geomhash":"e5e84f06bcb8cff5ddb04c3a06c4a243",
@@ -94,7 +102,7 @@
         }
     ],
     "wof:id":1108839205,
-    "wof:lastmodified":1684351640,
+    "wof:lastmodified":1695877085,
     "wof:name":"Fernitz-Mellach",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

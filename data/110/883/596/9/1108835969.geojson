@@ -29,6 +29,12 @@
     "geom:latitude":48.596534,
     "geom:longitude":14.056772,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.594465,
     "lbl:longitude":14.059438,
     "lbl:max_zoom":18.0,
@@ -102,9 +108,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41319",
         "eg:gisco_id":"AT_41319",
         "eurostat:nuts_2021_id":"41319"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046805,
     "wof:geomhash":"fe74b61f6ba0b92d924cf6705020f133",
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1108835969,
-    "wof:lastmodified":1684351547,
+    "wof:lastmodified":1695876890,
     "wof:name":"Lichtenau im M\u00fchlkreis",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.060499,
     "geom:longitude":14.676982,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.063785,
     "lbl:longitude":14.649546,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62042",
         "eg:gisco_id":"AT_62042",
         "eurostat:nuts_2021_id":"62042"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047188,
     "wof:geomhash":"6753da92b75ac6997dff3d612de074c3",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108838939,
-    "wof:lastmodified":1684351632,
+    "wof:lastmodified":1695877069,
     "wof:name":"Obdach",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

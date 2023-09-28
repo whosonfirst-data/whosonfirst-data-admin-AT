@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":647,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.322638,
     "lbl:longitude":9.700025,
     "lbl:max_zoom":17.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80406",
         "eg:gisco_id":"AT_80406",
         "eurostat:nuts_2021_id":"80406",
         "gn:id":7873742,
@@ -153,6 +160,7 @@
         "gn:id":2779308,
         "qs_pg:id":1019503
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047061,
     "wof:geomhash":"48777eba1473b160666cd3da9810b997",
@@ -166,7 +174,7 @@
         }
     ],
     "wof:id":1108837943,
-    "wof:lastmodified":1684351603,
+    "wof:lastmodified":1695877007,
     "wof:name":"Fraxern",
     "wof:parent_id":102049725,
     "wof:placetype":"localadmin",

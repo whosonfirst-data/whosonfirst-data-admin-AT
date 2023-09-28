@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1390,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.945771,
     "lbl:longitude":16.791127,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10710",
         "eg:gisco_id":"AT_10710",
         "eurostat:nuts_2021_id":"10710",
         "gn:id":7871588,
@@ -144,6 +151,7 @@
         "gn:id":2775040,
         "qs_pg:id":500137
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047165,
     "wof:geomhash":"1b93cf121041c69a91672ba36323c596",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838767,
-    "wof:lastmodified":1684351627,
+    "wof:lastmodified":1695877058,
     "wof:name":"Jois",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":971,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.223152,
     "lbl:longitude":15.218768,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31516",
         "eg:gisco_id":"AT_31516",
         "eurostat:nuts_2021_id":"31516",
         "gn:id":7871817,
         "qs_pg:id":108385
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046921,
     "wof:geomhash":"4adc08b7d797f8a7a97552da6a8ea9e3",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836851,
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1695876946,
     "wof:name":"Klein-P\u00f6chlarn",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

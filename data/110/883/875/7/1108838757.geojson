@@ -29,6 +29,12 @@
     "geom:latitude":47.075262,
     "geom:longitude":16.249015,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.074025,
     "lbl:longitude":16.252852,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10404",
         "eg:gisco_id":"AT_10404",
         "eurostat:nuts_2021_id":"10404"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047165,
     "wof:geomhash":"703fae2618b95871211e493e561c7f67",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108838757,
-    "wof:lastmodified":1684351626,
+    "wof:lastmodified":1695877057,
     "wof:name":"Gerersdorf-Sulz",
     "wof:parent_id":102049729,
     "wof:placetype":"localadmin",

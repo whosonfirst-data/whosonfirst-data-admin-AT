@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1034,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.666844,
     "lbl:longitude":16.296909,
     "lbl:max_zoom":16.0,
@@ -131,12 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32310",
         "eg:gisco_id":"AT_32310",
         "eurostat:nuts_2021_id":"32310",
         "gn:id":7871931,
         "gp:id":12674093,
         "qs_pg:id":1019739
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046722,
     "wof:geomhash":"d12fb14c06aea445acfd3d2df09f7cba",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108835313,
-    "wof:lastmodified":1684351528,
+    "wof:lastmodified":1695876852,
     "wof:name":"Hochwolkersdorf",
     "wof:parent_id":102049787,
     "wof:placetype":"localadmin",

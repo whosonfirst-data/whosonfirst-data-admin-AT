@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1987,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.208259,
     "lbl:longitude":11.360783,
     "lbl:max_zoom":15.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70331",
         "eg:gisco_id":"AT_70331",
         "eurostat:nuts_2021_id":"70331",
         "gn:id":7873611,
         "gp:id":12675519,
         "qs_pg:id":1016769
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047015,
     "wof:geomhash":"69b90aa302f04d564d5cc70e96d00022",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837551,
-    "wof:lastmodified":1684351594,
+    "wof:lastmodified":1695876988,
     "wof:name":"Mutters",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2476,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.046565,
     "lbl:longitude":13.5396,
     "lbl:max_zoom":15.0,
@@ -110,11 +116,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41716",
         "eg:gisco_id":"AT_41716",
         "eurostat:nuts_2021_id":"41716",
         "gn:id":7872160,
         "qs_pg:id":1155166
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046873,
     "wof:geomhash":"e5a0e86e33ebdc2beb391bafccb79d8c",
@@ -128,7 +136,7 @@
         }
     ],
     "wof:id":1108836453,
-    "wof:lastmodified":1684351563,
+    "wof:lastmodified":1695876921,
     "wof:name":"Neukirchen an der V\u00f6ckla",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

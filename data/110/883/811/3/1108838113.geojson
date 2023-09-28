@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":25380,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.863223,
     "lbl:longitude":14.775534,
     "lbl:max_zoom":14.0,
@@ -152,12 +158,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20923",
         "eg:gisco_id":"AT_20923",
         "eurostat:nuts_2021_id":"20923",
         "gn:id":7872810,
         "gp:id":12673543,
         "qs_pg:id":1310808
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047084,
     "wof:geomhash":"9bc8914d55ab72b0335878f09abbcee3",
@@ -171,7 +179,7 @@
         }
     ],
     "wof:id":1108838113,
-    "wof:lastmodified":1684351607,
+    "wof:lastmodified":1695877017,
     "wof:name":"Wolfsberg",
     "wof:parent_id":102049693,
     "wof:placetype":"localadmin",

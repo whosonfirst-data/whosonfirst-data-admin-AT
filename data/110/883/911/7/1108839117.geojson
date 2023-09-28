@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1454,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.23557,
     "lbl:longitude":15.908151,
     "lbl:max_zoom":15.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62272",
         "eg:gisco_id":"AT_62272",
         "eurostat:nuts_2021_id":"62272",
         "gn:id":7873430,
         "qs_pg:id":1245875
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047210,
     "wof:geomhash":"5148cee7bd92066dbce56384b2ea4745",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108839117,
-    "wof:lastmodified":1684351638,
+    "wof:lastmodified":1695877080,
     "wof:name":"Kaindorf",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

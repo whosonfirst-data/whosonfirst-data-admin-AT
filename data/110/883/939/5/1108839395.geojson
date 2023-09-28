@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":8203,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.210597,
     "lbl:longitude":14.691482,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62007",
         "eg:gisco_id":"AT_62007",
         "eurostat:nuts_2021_id":"62007",
         "gn:id":2779450,
@@ -147,6 +154,7 @@
         "gn:id":7872378,
         "qs_pg:id":904308
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047252,
     "wof:geomhash":"ec20561034d2431142d37caea9f315df",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108839395,
-    "wof:lastmodified":1684351647,
+    "wof:lastmodified":1695877097,
     "wof:name":"Fohnsdorf",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

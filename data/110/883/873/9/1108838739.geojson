@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.994732,
     "lbl:longitude":16.256951,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10503",
         "eg:gisco_id":"AT_10503",
         "eurostat:nuts_2021_id":"10503",
         "gn:id":2776582,
@@ -147,6 +154,7 @@
         "gn:id":7871565,
         "qs_pg:id":743288
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047163,
     "wof:geomhash":"fdb5c648c4782d68978215586ef3298b",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108838739,
-    "wof:lastmodified":1684351626,
+    "wof:lastmodified":1695877056,
     "wof:name":"Heiligenkreuz im Lafnitztal",
     "wof:parent_id":102049715,
     "wof:placetype":"localadmin",

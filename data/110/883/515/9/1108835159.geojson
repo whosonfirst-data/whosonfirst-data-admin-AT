@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1688,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.847283,
     "lbl:longitude":13.780426,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40718",
         "eg:gisco_id":"AT_40718",
         "eurostat:nuts_2021_id":"40718",
         "gn:id":7872019,
@@ -146,6 +153,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":380986
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046694,
     "wof:geomhash":"9e0e8649847de6138591d73e98783a02",
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1108835159,
-    "wof:lastmodified":1684351523,
+    "wof:lastmodified":1695876842,
     "wof:name":"Traunkirchen",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",

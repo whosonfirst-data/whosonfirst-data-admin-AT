@@ -29,6 +29,12 @@
     "geom:latitude":47.168048,
     "geom:longitude":16.008007,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.172926,
     "lbl:longitude":16.009044,
     "lbl:max_zoom":18.0,
@@ -69,9 +75,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62264",
         "eg:gisco_id":"AT_62264",
         "eurostat:nuts_2021_id":"62264"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047204,
     "wof:geomhash":"4565d6d4d227d0a368dfcf712a872aed",
@@ -85,7 +93,7 @@
         }
     ],
     "wof:id":1108839083,
-    "wof:lastmodified":1684351636,
+    "wof:lastmodified":1695877078,
     "wof:name":"Waltersdorf",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

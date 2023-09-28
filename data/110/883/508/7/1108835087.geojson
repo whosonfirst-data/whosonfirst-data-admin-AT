@@ -29,6 +29,12 @@
     "geom:latitude":48.363774,
     "geom:longitude":14.753653,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.357611,
     "lbl:longitude":14.751204,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40613",
         "eg:gisco_id":"AT_40613",
         "eurostat:nuts_2021_id":"40613"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046685,
     "wof:geomhash":"af6ec67e1a36c0206d07de50b45b8108",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108835087,
-    "wof:lastmodified":1684351520,
+    "wof:lastmodified":1695876837,
     "wof:name":"Pierbach",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",

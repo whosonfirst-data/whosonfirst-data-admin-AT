@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6604,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.614573,
     "lbl:longitude":13.118204,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50207",
         "eg:gisco_id":"AT_50207",
         "eurostat:nuts_2021_id":"50207",
         "gn:id":7872199,
         "qs_pg:id":743349
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046953,
     "wof:geomhash":"decd462a73e28ec6bd6680449586c6ed",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108837095,
-    "wof:lastmodified":1684351582,
+    "wof:lastmodified":1695876963,
     "wof:name":"Kuchl",
     "wof:parent_id":102049773,
     "wof:placetype":"localadmin",

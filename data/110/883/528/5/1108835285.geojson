@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1959,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.091639,
     "lbl:longitude":16.224162,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31707",
         "eg:gisco_id":"AT_31707",
         "eurostat:nuts_2021_id":"31707",
         "gn:id":7871851,
         "qs_pg:id":904288
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046719,
     "wof:geomhash":"6e9c6fc0075b55682642b73921189687",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835285,
-    "wof:lastmodified":1684351527,
+    "wof:lastmodified":1695876850,
     "wof:name":"Gie\u00dfh\u00fcbl",
     "wof:parent_id":102049837,
     "wof:placetype":"localadmin",
