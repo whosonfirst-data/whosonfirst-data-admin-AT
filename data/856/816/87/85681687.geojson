@@ -474,22 +474,28 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"6",
         "digitalenvoy:region_code":11576,
         "eurostat:nuts_2021_id":"AT22",
         "fips:code":"AU06",
         "gn:id":2764581,
         "gp:id":2344713,
         "hasc:id":"AT.ST",
+        "iso:code":"AT-6",
         "iso:id":"AT-6",
         "unlc:id":"AT-6",
         "wd:id":"Q41358",
         "wk:page":"Styria"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32bf3be3d45f272be5137962aaff1b49",
+    "wof:geomhash":"db21438bec7f5a6712c8709e2b223fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -507,7 +513,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1690850911,
+    "wof:lastmodified":1695885158,
     "wof:name":"Steiermark",
     "wof:parent_id":85632785,
     "wof:placetype":"region",
