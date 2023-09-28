@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007885,
-    "geom:area_square_m":65491813.003547,
+    "geom:area_square_m":65491813.003542,
     "geom:bbox":"12.985622,47.751214,13.127278,47.854394",
     "geom:latitude":47.797528,
     "geom:longitude":13.046562,
@@ -493,9 +493,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"501",
         "hasc:id":"AT.SZ.SS",
         "wd:id":"Q34713"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         1108837079
     ],
@@ -503,7 +508,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"50b8d4c07708c0156b73c57c0393a280",
+    "wof:geomhash":"3a5cb561355f28e7880eddb8b46d9571",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -513,7 +518,7 @@
         }
     ],
     "wof:id":102049779,
-    "wof:lastmodified":1690850878,
+    "wof:lastmodified":1695886412,
     "wof:name":"Salzburg",
     "wof:parent_id":85681681,
     "wof:placetype":"county",

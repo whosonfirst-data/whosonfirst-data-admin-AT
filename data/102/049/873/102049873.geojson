@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006283,
-    "geom:area_square_m":51571238.497288,
+    "geom:area_square_m":51571326.389849,
     "geom:bbox":"15.525033,48.368312,15.728625,48.451238",
     "geom:latitude":48.409023,
     "geom:longitude":15.618125,
@@ -242,14 +242,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"301",
         "hasc:id":"AT.NO.KS",
         "wd:id":"Q131266"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ba30c3c0d641a5c685a8395841360886",
+    "wof:geomhash":"8aa6cc3b8fea34914a07f2435d5bbb9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -259,7 +264,7 @@
         }
     ],
     "wof:id":102049873,
-    "wof:lastmodified":1690850868,
+    "wof:lastmodified":1695886083,
     "wof:name":"Krems an der Donau",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

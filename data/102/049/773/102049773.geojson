@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080022,
-    "geom:area_square_m":667107818.660894,
+    "geom:area_square_m":667107895.996465,
     "geom:bbox":"13.030937,47.458398,13.523298,47.767599",
     "geom:latitude":47.608056,
     "geom:longitude":13.267563,
@@ -236,14 +236,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"502",
         "hasc:id":"AT.SZ.HA",
         "wd:id":"Q255684"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea6f03b282eb7b79c343a4e19cbd1a20",
+    "wof:geomhash":"6bd0401bf7a2e669324f3d1a47c8fd72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":102049773,
-    "wof:lastmodified":1690850899,
+    "wof:lastmodified":1695886117,
     "wof:name":"Hallein",
     "wof:parent_id":85681681,
     "wof:placetype":"county",

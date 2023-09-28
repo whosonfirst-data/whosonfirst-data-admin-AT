@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070758,
-    "geom:area_square_m":582941611.81838,
+    "geom:area_square_m":582941445.303876,
     "geom:bbox":"13.195491,48.051218,13.628563,48.372161",
     "geom:latitude":48.220243,
     "geom:longitude":13.442066,
@@ -227,14 +227,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"412",
         "hasc:id":"AT.OO.RI",
         "wd:id":"Q267791"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"60acae5bcec1c55b0f9d264e3f6c4064",
+    "wof:geomhash":"b4c10af9a3696299163f13e7f2e287b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -244,7 +249,7 @@
         }
     ],
     "wof:id":102049851,
-    "wof:lastmodified":1690850873,
+    "wof:lastmodified":1695886088,
     "wof:name":"Ried im Innkreis",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

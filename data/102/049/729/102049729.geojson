@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057509,
-    "geom:area_square_m":484043545.097574,
+    "geom:area_square_m":484043295.527101,
     "geom:bbox":"16.079273,46.99267,16.52933,47.234893",
     "geom:latitude":47.10232,
     "geom:longitude":16.297299,
@@ -182,14 +182,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"104",
         "hasc:id":"AT.BU.GS",
         "wd:id":"Q279823"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c61b442d9e8809e9e4d16f9d3d79f5e2",
+    "wof:geomhash":"aa08faad4418b766bc67824d0643915f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":102049729,
-    "wof:lastmodified":1690850902,
+    "wof:lastmodified":1695886121,
     "wof:name":"G\u00fcssing",
     "wof:parent_id":85681651,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005152,
-    "geom:area_square_m":42751020.476974,
+    "geom:area_square_m":42751020.476975,
     "geom:bbox":"16.48384,47.793486,16.585541,47.883964",
     "geom:latitude":47.84526,
     "geom:longitude":16.533232,
@@ -338,9 +338,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"101",
         "hasc:id":"AT.BU.ES",
         "wd:id":"Q126321"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         1108838617
     ],
@@ -348,7 +353,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6f3d17db05df0e59756eb5503e2a38c8",
+    "wof:geomhash":"2d5d98d792a9dc8dd00ca1fe64c36273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -358,7 +363,7 @@
         }
     ],
     "wof:id":102049797,
-    "wof:lastmodified":1690850859,
+    "wof:lastmodified":1695886169,
     "wof:name":"Eisenstadt",
     "wof:parent_id":85681651,
     "wof:placetype":"county",

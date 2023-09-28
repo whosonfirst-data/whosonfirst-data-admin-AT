@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031487,
-    "geom:area_square_m":258883379.936071,
+    "geom:area_square_m":258883521.929454,
     "geom:bbox":"13.85123,48.234296,14.16449,48.454798",
     "geom:latitude":48.322961,
     "geom:longitude":13.984397,
@@ -182,14 +182,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"405",
         "hasc:id":"AT.OO.EF",
         "wd:id":"Q255175"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9dadee758a1c8b66addb8fba5dc06478",
+    "wof:geomhash":"c6afaacad1b5db10f3049ed753cc8056",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":102049863,
-    "wof:lastmodified":1690850897,
+    "wof:lastmodified":1695886114,
     "wof:name":"Eferding",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

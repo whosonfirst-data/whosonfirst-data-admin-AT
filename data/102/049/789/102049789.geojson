@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028515,
-    "geom:area_square_m":237134622.266172,
+    "geom:area_square_m":237134556.525708,
     "geom:bbox":"16.268584,47.632839,16.552229,47.823278",
     "geom:latitude":47.735945,
     "geom:longitude":16.401106,
@@ -203,14 +203,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"106",
         "hasc:id":"AT.BU.MA",
         "wd:id":"Q250832"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db9aae341204c9cec808eb7eda3b2909",
+    "wof:geomhash":"bd96b12795295971b1c402c055d6e5fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -220,7 +225,7 @@
         }
     ],
     "wof:id":102049789,
-    "wof:lastmodified":1690850900,
+    "wof:lastmodified":1695886117,
     "wof:name":"Mattersburg",
     "wof:parent_id":85681651,
     "wof:placetype":"county",

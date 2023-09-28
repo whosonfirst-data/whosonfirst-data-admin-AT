@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171777,
-    "geom:area_square_m":1427829203.450887,
+    "geom:area_square_m":1427829077.753768,
     "geom:bbox":"13.436091,47.461112,14.097795,48.055522",
     "geom:latitude":47.761437,
     "geom:longitude":13.755298,
@@ -251,14 +251,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"407",
         "hasc:id":"AT.OO.GM",
         "wd:id":"Q430449"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"386d48eb0f55609b028206d6f9e1a8f6",
+    "wof:geomhash":"f716036189577b601b4460a3f823a219",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -268,7 +273,7 @@
         }
     ],
     "wof:id":102049807,
-    "wof:lastmodified":1690850891,
+    "wof:lastmodified":1695886107,
     "wof:name":"Gmunden",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070136,
-    "geom:area_square_m":577259921.232959,
+    "geom:area_square_m":577259853.69195,
     "geom:bbox":"13.567033,48.110368,13.999992,48.449012",
     "geom:latitude":48.2694,
     "geom:longitude":13.769323,
@@ -182,14 +182,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"408",
         "hasc:id":"AT.OO.GR",
         "wd:id":"Q256996"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa5621a004ded9b7198240e2e2037504",
+    "wof:geomhash":"74eac02b89906bd98ed170bb3e44d467",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":102049861,
-    "wof:lastmodified":1690850871,
+    "wof:lastmodified":1695886086,
     "wof:name":"Grieskirchen",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

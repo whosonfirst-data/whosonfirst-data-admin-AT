@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170498,
-    "geom:area_square_m":1395441032.100389,
+    "geom:area_square_m":1395441170.828733,
     "geom:bbox":"14.784602,48.329154,15.540472,48.777807",
     "geom:latitude":48.555247,
     "geom:longitude":15.153957,
@@ -188,14 +188,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"325",
         "hasc:id":"AT.NO.ZT",
         "wd:id":"Q244506"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e24326931f6f9de7d72c853de3604723",
+    "wof:geomhash":"2fb94ff6120e085bb7b4c776015083d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -205,7 +210,7 @@
         }
     ],
     "wof:id":102049895,
-    "wof:lastmodified":1690850871,
+    "wof:lastmodified":1695886084,
     "wof:name":"Zwettl",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

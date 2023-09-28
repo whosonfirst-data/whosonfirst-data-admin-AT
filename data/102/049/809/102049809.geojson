@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015806,
-    "geom:area_square_m":130892017.074414,
+    "geom:area_square_m":130892017.074432,
     "geom:bbox":"14.649065,47.879453,14.933016,48.023086",
     "geom:latitude":47.95652,
     "geom:longitude":14.778519,
@@ -194,9 +194,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"303",
         "hasc:id":"AT.NO.WY",
         "wd:id":"Q427385"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         1108835029
     ],
@@ -204,7 +209,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4af5ab32d477a0fb560366fb6a961dc4",
+    "wof:geomhash":"c6d7a4553361abfc74a70899d83eaa91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -214,7 +219,7 @@
         }
     ],
     "wof:id":102049809,
-    "wof:lastmodified":1690850893,
+    "wof:lastmodified":1695886411,
     "wof:name":"Waidhofen an der Ybbs",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

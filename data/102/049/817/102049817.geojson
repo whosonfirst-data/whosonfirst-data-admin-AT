@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130733,
-    "geom:area_square_m":1082431357.819493,
+    "geom:area_square_m":1082431329.134989,
     "geom:bbox":"13.270114,47.761337,13.835835,48.133396",
     "geom:latitude":47.964052,
     "geom:longitude":13.533013,
@@ -209,14 +209,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"417",
         "hasc:id":"AT.OO.VB",
         "wd:id":"Q251325"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f613c7252f25b5d52b735f0c76fc185",
+    "wof:geomhash":"024c114dcde09497b4a9250633a7012a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -226,7 +231,7 @@
         }
     ],
     "wof:id":102049817,
-    "wof:lastmodified":1690850869,
+    "wof:lastmodified":1695886082,
     "wof:name":"V\u00f6cklabruck",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

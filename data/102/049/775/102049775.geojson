@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083736,
-    "geom:area_square_m":699342533.128455,
+    "geom:area_square_m":699342432.042185,
     "geom:bbox":"16.281081,47.344322,16.714527,47.664704",
     "geom:latitude":47.513046,
     "geom:longitude":16.483509,
@@ -170,14 +170,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"108",
         "hasc:id":"AT.BU.OP",
         "wd:id":"Q252982"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"17354c665c8f862c7f794b8abb56f574",
+    "wof:geomhash":"b217d122ffde24d0ef912d17090b29b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":102049775,
-    "wof:lastmodified":1690850898,
+    "wof:lastmodified":1695886114,
     "wof:name":"Oberpullendorf",
     "wof:parent_id":85681651,
     "wof:placetype":"county",

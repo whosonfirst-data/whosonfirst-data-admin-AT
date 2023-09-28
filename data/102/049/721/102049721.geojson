@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121018,
-    "geom:area_square_m":1017858196.768065,
+    "geom:area_square_m":1017858248.031867,
     "geom:bbox":"13.31779,46.943856,13.996124,47.296192",
     "geom:latitude":47.140511,
     "geom:longitude":13.666132,
@@ -173,14 +173,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"505",
         "hasc:id":"AT.SZ.TA",
         "wd:id":"Q669681"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55fb0ee1bbcaea601b0137d1aa553c95",
+    "wof:geomhash":"13cf2fee6d92482d0ebe0d33fdb144b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,7 +195,7 @@
         }
     ],
     "wof:id":102049721,
-    "wof:lastmodified":1690850898,
+    "wof:lastmodified":1695886116,
     "wof:name":"Tamsweg",
     "wof:parent_id":85681681,
     "wof:placetype":"county",

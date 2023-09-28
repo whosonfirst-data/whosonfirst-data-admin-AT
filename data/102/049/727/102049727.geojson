@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204331,
-    "geom:area_square_m":1720328387.083348,
+    "geom:area_square_m":1720328232.58534,
     "geom:bbox":"10.538368,46.762846,11.168116,47.396451",
     "geom:latitude":47.086643,
     "geom:longitude":10.896177,
@@ -179,14 +179,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"702",
         "hasc:id":"AT.TR.IM",
         "wd:id":"Q254107"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae93bb759c1c3b9aaf7208d8e7019845",
+    "wof:geomhash":"f350d747c23b990f8a168499d06b6087",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":102049727,
-    "wof:lastmodified":1690850902,
+    "wof:lastmodified":1695886122,
     "wof:name":"Imst",
     "wof:parent_id":85681661,
     "wof:placetype":"county",

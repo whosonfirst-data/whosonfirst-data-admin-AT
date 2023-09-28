@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101881,
-    "geom:area_square_m":862259240.055526,
+    "geom:area_square_m":862259281.044041,
     "geom:bbox":"14.976265,46.639386,15.430437,46.972782",
     "geom:latitude":46.807466,
     "geom:longitude":15.198349,
@@ -194,14 +194,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"603",
         "hasc:id":"AT.ST.DL",
         "wd:id":"Q573106"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"18f2d774c9a8608fb8379364c4cd45e4",
+    "wof:geomhash":"474d6be81970d353f58d7f71c39fe936",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":102049691,
-    "wof:lastmodified":1690850895,
+    "wof:lastmodified":1695886111,
     "wof:name":"Deutschlandsberg",
     "wof:parent_id":85681687,
     "wof:placetype":"county",

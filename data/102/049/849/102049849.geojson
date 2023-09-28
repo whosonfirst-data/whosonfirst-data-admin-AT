@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013126,
-    "geom:area_square_m":108184890.332491,
+    "geom:area_square_m":108184973.852547,
     "geom:bbox":"15.555901,48.11848,15.739188,48.268304",
     "geom:latitude":48.198934,
     "geom:longitude":15.641948,
@@ -347,14 +347,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"302",
         "hasc:id":"AT.NO.PS",
         "wd:id":"Q82500"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b80dc24920bbbf4dd03e64f825c1c8fa",
+    "wof:geomhash":"399dc6f02e1434d12f874e3ef7ed8923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -364,7 +369,7 @@
         }
     ],
     "wof:id":102049849,
-    "wof:lastmodified":1690850889,
+    "wof:lastmodified":1695886106,
     "wof:name":"Sankt P\u00f6lten",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

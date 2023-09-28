@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085676,
-    "geom:area_square_m":725433878.515854,
+    "geom:area_square_m":725433926.047222,
     "geom:bbox":"15.306224,46.611985,15.750834,47.020454",
     "geom:latitude":46.783417,
     "geom:longitude":15.522277,
@@ -188,14 +188,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"610",
         "hasc:id":"AT.ST.LB",
         "wd:id":"Q659860"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d5f99f473f065d2575cd21aa2061dcde",
+    "wof:geomhash":"50d42f1856764dfcdeac0686497a7b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -205,7 +210,7 @@
         }
     ],
     "wof:id":102049699,
-    "wof:lastmodified":1690850892,
+    "wof:lastmodified":1695886108,
     "wof:name":"Leibnitz",
     "wof:parent_id":85681687,
     "wof:placetype":"county",

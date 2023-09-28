@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188818,
-    "geom:area_square_m":1591300977.344344,
+    "geom:area_square_m":1591300914.415204,
     "geom:bbox":"10.097827,46.822513,10.821606,47.250913",
     "geom:latitude":47.033725,
     "geom:longitude":10.48276,
@@ -188,15 +188,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"706",
         "gp:id":12591746,
         "hasc:id":"AT.TR.LA",
         "wd:id":"Q660183"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a633f2b4da71262d306ff243cf85c777",
+    "wof:geomhash":"16748deb3eb9b42562a9587b3433a4cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,7 +211,7 @@
         }
     ],
     "wof:id":102049707,
-    "wof:lastmodified":1690850864,
+    "wof:lastmodified":1695886075,
     "wof:name":"Landeck",
     "wof:parent_id":85681661,
     "wof:placetype":"county",

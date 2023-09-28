@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015108,
-    "geom:area_square_m":127224143.286343,
+    "geom:area_square_m":127224143.286349,
     "geom:bbox":"15.349714,47.011887,15.5342,47.134501",
     "geom:latitude":47.075128,
     "geom:longitude":15.439349,
@@ -467,9 +467,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"601",
         "hasc:id":"AT.ST.GZ",
         "wd:id":"Q13298"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         1108839329
     ],
@@ -477,7 +482,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"380317667d4d288e93cfe06870c0a5ea",
+    "wof:geomhash":"81a439c88b548d0bd0b207a2fdcb2814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -487,7 +492,7 @@
         }
     ],
     "wof:id":102049709,
-    "wof:lastmodified":1690850864,
+    "wof:lastmodified":1695886413,
     "wof:name":"Graz",
     "wof:parent_id":85681687,
     "wof:placetype":"county",

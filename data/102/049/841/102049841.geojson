@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124837,
-    "geom:area_square_m":1035263884.380909,
+    "geom:area_square_m":1035263899.672416,
     "geom:bbox":"16.695548,47.68143,17.160773,48.118682",
     "geom:latitude":47.881204,
     "geom:longitude":16.917032,
@@ -197,15 +197,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"107",
         "gp:id":12591655,
         "hasc:id":"AT.BU.ND",
         "wd:id":"Q253760"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"419cbdf4495a87b89880025907cb5f6c",
+    "wof:geomhash":"d489d5d41294c5acfbb987c2d66c42e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,7 +220,7 @@
         }
     ],
     "wof:id":102049841,
-    "wof:lastmodified":1690850885,
+    "wof:lastmodified":1695886100,
     "wof:name":"Neusiedl am See",
     "wof:parent_id":85681651,
     "wof:placetype":"county",

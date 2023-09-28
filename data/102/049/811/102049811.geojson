@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054438,
-    "geom:area_square_m":451688431.058456,
+    "geom:area_square_m":451688478.45077,
     "geom:bbox":"16.347956,47.735335,16.80418,47.973809",
     "geom:latitude":47.85429,
     "geom:longitude":16.591851,
@@ -173,14 +173,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"103",
         "hasc:id":"AT.BU.EU",
         "wd:id":"Q261432"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"145e227ce85dd8b539e249138d971b02",
+    "wof:geomhash":"be3d1286a9f63df4340a8dbf8a0dbae0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,7 +195,7 @@
         }
     ],
     "wof:id":102049811,
-    "wof:lastmodified":1690850866,
+    "wof:lastmodified":1695886078,
     "wof:name":"Eisenstadt - Umgebung",
     "wof:parent_id":85681651,
     "wof:placetype":"county",

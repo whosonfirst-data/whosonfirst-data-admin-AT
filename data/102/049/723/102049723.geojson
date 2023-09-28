@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012471,
-    "geom:area_square_m":104597417.474447,
+    "geom:area_square_m":104597417.474456,
     "geom:bbox":"11.301649,47.210776,11.45596,47.36012",
     "geom:latitude":47.288891,
     "geom:longitude":11.380552,
@@ -463,9 +463,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"701",
         "hasc:id":"AT.TR.IN",
         "wd:id":"Q1735"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         1108837687
     ],
@@ -473,7 +478,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5413468e9fad87111565947d7453930c",
+    "wof:geomhash":"d34410a2f69f108c52cdef815c08f57e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -483,7 +488,7 @@
         }
     ],
     "wof:id":102049723,
-    "wof:lastmodified":1690850877,
+    "wof:lastmodified":1695886413,
     "wof:name":"Innsbruck - Stadt",
     "wof:parent_id":85681661,
     "wof:placetype":"county",

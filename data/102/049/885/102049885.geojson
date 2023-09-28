@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112264,
-    "geom:area_square_m":920516123.981233,
+    "geom:area_square_m":920515984.300665,
     "geom:bbox":"15.270585,48.269161,15.78577,48.632797",
     "geom:latitude":48.461818,
     "geom:longitude":15.51093,
@@ -67,13 +67,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"313",
         "hasc:id":"AT.NO.KR"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"24c53cb3eae7f2cbdeb8c260d595b541",
+    "wof:geomhash":"8b917f3f1ce78df514eca75650eecc70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":102049885,
-    "wof:lastmodified":1627521501,
+    "wof:lastmodified":1695886019,
     "wof:name":"Krems - Land",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

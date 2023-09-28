@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125726,
-    "geom:area_square_m":1037680323.612976,
+    "geom:area_square_m":1037680295.611215,
     "geom:bbox":"12.749241,47.969871,13.359735,48.295616",
     "geom:latitude":48.127303,
     "geom:longitude":13.085365,
@@ -301,14 +301,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"404",
         "hasc:id":"AT.OO.BR",
         "wd:id":"Q131128"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"873424a0fa123d8ddea75bb20b64f3b2",
+    "wof:geomhash":"7d915a151840bc3419fddb03b583fedd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +323,7 @@
         }
     ],
     "wof:id":102049833,
-    "wof:lastmodified":1690850874,
+    "wof:lastmodified":1695886090,
     "wof:name":"Braunau am Inn",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

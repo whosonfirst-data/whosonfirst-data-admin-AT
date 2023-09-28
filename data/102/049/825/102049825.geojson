@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123274,
-    "geom:area_square_m":1021378875.945879,
+    "geom:area_square_m":1021378979.252777,
     "geom:bbox":"14.843978,47.708993,15.336922,48.146042",
     "geom:latitude":47.928097,
     "geom:longitude":15.089276,
@@ -182,14 +182,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"320",
         "hasc:id":"AT.NO.SB",
         "wd:id":"Q280450"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f345419395144a235afaee6eb6bb76e",
+    "wof:geomhash":"fdacb9939651053f757b1c09a7b16e08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":102049825,
-    "wof:lastmodified":1690850890,
+    "wof:lastmodified":1695886107,
     "wof:name":"Scheibbs",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

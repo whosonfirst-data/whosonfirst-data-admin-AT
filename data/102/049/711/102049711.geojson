@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152436,
-    "geom:area_square_m":1283029496.592502,
+    "geom:area_square_m":1283029585.920027,
     "geom:bbox":"9.607078,46.840862,10.222038,47.294705",
     "geom:latitude":47.10265,
     "geom:longitude":9.94175,
@@ -236,14 +236,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"801",
         "hasc:id":"AT.VO.BZ",
         "wd:id":"Q494504"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9c80a9e309a83238609db1499d87f7dd",
+    "wof:geomhash":"d089310af17b94ad8da04a7d7775f790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":102049711,
-    "wof:lastmodified":1690850901,
+    "wof:lastmodified":1695886120,
     "wof:name":"Bludenz",
     "wof:parent_id":85681649,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10666,
-    "geom:area_square_m":906244584.266963,
+    "geom:area_square_m":906244582.760117,
     "geom:bbox":"14.430142,46.372305,14.955676,46.826105",
     "geom:latitude":46.596063,
     "geom:longitude":14.656676,
@@ -203,15 +203,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"208",
         "gp:id":12591668,
         "hasc:id":"AT.KA.VK",
         "wd:id":"Q164488"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a5b83c1a8d66c9169a82a9e144d8eab",
+    "wof:geomhash":"426c5807bc2d89f8a88565c78b99ea2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,7 +226,7 @@
         }
     ],
     "wof:id":102049685,
-    "wof:lastmodified":1690850888,
+    "wof:lastmodified":1695886104,
     "wof:name":"Voelkermarkt",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

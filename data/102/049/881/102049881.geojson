@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079007,
-    "geom:area_square_m":648367489.051874,
+    "geom:area_square_m":648367462.920368,
     "geom:bbox":"14.0214,48.257067,14.484459,48.586923",
     "geom:latitude":48.419613,
     "geom:longitude":14.270343,
@@ -149,14 +149,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"416",
         "hasc:id":"AT.OO.UU",
         "wd:id":"Q253585"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"095200dc3cfde1d256cb870007d11c10",
+    "wof:geomhash":"873bdc691f12e03e80878ee99b4813c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +171,7 @@
         }
     ],
     "wof:id":102049881,
-    "wof:lastmodified":1690850870,
+    "wof:lastmodified":1695886083,
     "wof:name":"Urfahr - Umgebung",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

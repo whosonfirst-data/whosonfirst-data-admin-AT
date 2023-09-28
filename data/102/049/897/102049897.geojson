@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15767,
-    "geom:area_square_m":1289051736.682922,
+    "geom:area_square_m":1289051907.854589,
     "geom:bbox":"16.199277,48.314427,16.928441,48.814289",
     "geom:latitude":48.60999,
     "geom:longitude":16.538561,
@@ -203,14 +203,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"316",
         "hasc:id":"AT.NO.MI",
         "wd:id":"Q660428"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"99990f722c7252184643612bf9d818db",
+    "wof:geomhash":"afcea7c41bc9d14ab485c5f28446db6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -220,7 +225,7 @@
         }
     ],
     "wof:id":102049897,
-    "wof:lastmodified":1690850897,
+    "wof:lastmodified":1695886115,
     "wof:name":"Mistelbach",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

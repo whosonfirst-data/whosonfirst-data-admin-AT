@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114938,
-    "geom:area_square_m":972069738.32713,
+    "geom:area_square_m":972069698.741868,
     "geom:bbox":"14.615265,46.601397,15.065152,47.049589",
     "geom:latitude":46.845991,
     "geom:longitude":14.850205,
@@ -230,14 +230,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"209",
         "hasc:id":"AT.KA.WO",
         "wd:id":"Q487527"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc6e999a11570bdbd89ead9e10226f06",
+    "wof:geomhash":"a716659735b039bc71ca9dcb81e1396c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -247,7 +252,7 @@
         }
     ],
     "wof:id":102049693,
-    "wof:lastmodified":1690850872,
+    "wof:lastmodified":1695886087,
     "wof:name":"Wolfsberg",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

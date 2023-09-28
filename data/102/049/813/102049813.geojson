@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003204,
-    "geom:area_square_m":26479754.010514,
+    "geom:area_square_m":26479754.010506,
     "geom:bbox":"14.376207,48.023575,14.469938,48.088912",
     "geom:latitude":48.054217,
     "geom:longitude":14.421823,
@@ -272,9 +272,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"402",
         "hasc:id":"AT.OO.SR",
         "wd:id":"Q260320"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         1108834703
     ],
@@ -282,7 +287,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"403779702b3475c12c29aef56c355f2a",
+    "wof:geomhash":"5d864d5b3199b2c5dc0bc0e02feeea92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -292,7 +297,7 @@
         }
     ],
     "wof:id":102049813,
-    "wof:lastmodified":1690850890,
+    "wof:lastmodified":1695886412,
     "wof:name":"Steyr",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

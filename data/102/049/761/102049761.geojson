@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.314438,
-    "geom:area_square_m":2636879322.412027,
+    "geom:area_square_m":2636879950.891055,
     "geom:bbox":"12.076097,47.035602,13.076224,47.682687",
     "geom:latitude":47.297151,
     "geom:longitude":12.653825,
@@ -209,14 +209,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"506",
         "hasc:id":"AT.SZ.ZE",
         "wd:id":"Q187572"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ff5c748032cb77b189efc0add72ecd8",
+    "wof:geomhash":"985e1ec8f34372b7db03a708d7fe6506",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -226,7 +231,7 @@
         }
     ],
     "wof:id":102049761,
-    "wof:lastmodified":1690850884,
+    "wof:lastmodified":1695886099,
     "wof:name":"Zell am See",
     "wof:parent_id":85681681,
     "wof:placetype":"county",

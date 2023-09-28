@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079854,
-    "geom:area_square_m":656187517.854864,
+    "geom:area_square_m":656187546.005427,
     "geom:bbox":"15.712512,48.194974,16.27046,48.500758",
     "geom:latitude":48.351911,
     "geom:longitude":15.965009,
@@ -193,14 +193,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"321",
         "hasc:id":"AT.NO.TU",
         "wd:id":"Q489810"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2db8507ac19acf4390c3863fe48de593",
+    "wof:geomhash":"275c314255197deb1f6c33f8920cf5ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -210,7 +215,7 @@
         }
     ],
     "wof:id":102049879,
-    "wof:lastmodified":1690850886,
+    "wof:lastmodified":1695886101,
     "wof:name":"Tulln",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

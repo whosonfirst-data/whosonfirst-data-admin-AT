@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095101,
-    "geom:area_square_m":807275883.974423,
+    "geom:area_square_m":807275659.313878,
     "geom:bbox":"12.68373,46.551225,13.577491,46.756677",
     "geom:latitude":46.646972,
     "geom:longitude":13.120667,
@@ -185,14 +185,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"203",
         "hasc:id":"AT.KA.HE",
         "wd:id":"Q672649"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"46c48c242723b0eeb8ab8429636764aa",
+    "wof:geomhash":"c8889ef65e28b2cd14ec9bcaf9e4ddfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":102049675,
-    "wof:lastmodified":1690850865,
+    "wof:lastmodified":1695886074,
     "wof:name":"Hermagor",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

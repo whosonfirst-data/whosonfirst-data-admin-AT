@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219064,
-    "geom:area_square_m":1837868247.685675,
+    "geom:area_square_m":1837868207.978776,
     "geom:bbox":"11.383811,46.96887,12.136014,47.594562",
     "geom:latitude":47.274272,
     "geom:longitude":11.78298,
@@ -215,14 +215,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"709",
         "hasc:id":"AT.TR.SZ",
         "wd:id":"Q583485"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76860dbecb615fab95e6c2b3ae183f3e",
+    "wof:geomhash":"3eb376443d9fdd747faff7e09ca9f847",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -232,7 +237,7 @@
         }
     ],
     "wof:id":102049755,
-    "wof:lastmodified":1690850860,
+    "wof:lastmodified":1695886069,
     "wof:name":"Schwaz",
     "wof:parent_id":85681661,
     "wof:placetype":"county",
