@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":233,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.119214,
     "lbl:longitude":16.195941,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10424",
         "eg:gisco_id":"AT_10424",
         "eurostat:nuts_2021_id":"10424",
         "gn:id":7871561,
@@ -144,6 +151,7 @@
         "gn:id":2776441,
         "qs_pg:id":1192509
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047140,
     "wof:geomhash":"01b54792e79ba4e3a06d7e059a32a6d4",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838557,
-    "wof:lastmodified":1684351622,
+    "wof:lastmodified":1695877046,
     "wof:name":"Heugraben",
     "wof:parent_id":102049729,
     "wof:placetype":"localadmin",

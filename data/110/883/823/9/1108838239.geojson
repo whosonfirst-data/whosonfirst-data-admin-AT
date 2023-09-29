@@ -29,6 +29,12 @@
     "geom:latitude":46.735585,
     "geom:longitude":14.35234,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.746725,
     "lbl:longitude":14.364005,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20527",
         "eg:gisco_id":"AT_20527",
         "eurostat:nuts_2021_id":"20527"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047099,
     "wof:geomhash":"f47636edd20c22283a57406bbe52f499",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838239,
-    "wof:lastmodified":1684351612,
+    "wof:lastmodified":1695877026,
     "wof:name":"Sankt Veit An Der Glan",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",

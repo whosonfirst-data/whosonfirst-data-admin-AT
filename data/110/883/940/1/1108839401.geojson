@@ -29,6 +29,12 @@
     "geom:latitude":47.140087,
     "geom:longitude":14.627555,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.147172,
     "lbl:longitude":14.649187,
     "lbl:max_zoom":18.0,
@@ -171,9 +177,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62040",
         "eg:gisco_id":"AT_62040",
         "eurostat:nuts_2021_id":"62040"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047253,
     "wof:geomhash":"3c0521447c13a77d66094cfa196bfd7b",
@@ -187,7 +195,7 @@
         }
     ],
     "wof:id":1108839401,
-    "wof:lastmodified":1684351647,
+    "wof:lastmodified":1695877097,
     "wof:name":"Judenburg",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

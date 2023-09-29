@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.842835,
     "lbl:longitude":16.448413,
     "lbl:max_zoom":16.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10308",
         "eg:gisco_id":"AT_10308",
         "eurostat:nuts_2021_id":"10308",
         "gn:id":2771049,
@@ -150,6 +157,7 @@
         "gn:id":7872688,
         "qs_pg:id":1048702
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047163,
     "wof:geomhash":"c3c6982eb7271b1ff56516597ff90e0c",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108838743,
-    "wof:lastmodified":1684351626,
+    "wof:lastmodified":1695877057,
     "wof:name":"M\u00fcllendorf",
     "wof:parent_id":102049811,
     "wof:placetype":"localadmin",

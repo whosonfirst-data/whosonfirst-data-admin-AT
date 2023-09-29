@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.373498,
     "lbl:longitude":16.226874,
     "lbl:max_zoom":16.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10911",
         "eg:gisco_id":"AT_10911",
         "eurostat:nuts_2021_id":"10911",
         "gn:id":2771903,
@@ -138,6 +145,7 @@
         "gn:id":7871619,
         "qs_pg:id":1041932
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047164,
     "wof:geomhash":"f0bdd9176013c5885768ac0281d2d1c9",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108838755,
-    "wof:lastmodified":1684351626,
+    "wof:lastmodified":1695877057,
     "wof:name":"Mariasdorf",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

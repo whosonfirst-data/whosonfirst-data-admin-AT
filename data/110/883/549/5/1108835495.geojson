@@ -29,6 +29,12 @@
     "geom:latitude":47.739475,
     "geom:longitude":14.418324,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.742551,
     "lbl:longitude":14.424192,
     "lbl:max_zoom":18.0,
@@ -99,9 +105,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40914",
         "eg:gisco_id":"AT_40914",
         "eurostat:nuts_2021_id":"40914"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046744,
     "wof:geomhash":"accc95bba77662ef2d35f02a6019f32f",
@@ -115,7 +123,7 @@
         }
     ],
     "wof:id":1108835495,
-    "wof:lastmodified":1684351533,
+    "wof:lastmodified":1695876862,
     "wof:name":"Rosenau am Hengstpa\u00df",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

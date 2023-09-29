@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":805,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.458852,
     "lbl:longitude":14.29532,
     "lbl:max_zoom":17.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41623",
         "eg:gisco_id":"AT_41623",
         "eurostat:nuts_2021_id":"41623",
         "gn:id":7873247,
         "qs_pg:id":108874
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046867,
     "wof:geomhash":"27c45a8bd3e019ada53afea32d9206c7",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108836409,
-    "wof:lastmodified":1684351562,
+    "wof:lastmodified":1695876918,
     "wof:name":"Sonnberg im M\u00fchlkreis",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",

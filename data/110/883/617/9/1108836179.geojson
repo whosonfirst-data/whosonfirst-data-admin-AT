@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6182,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.175644,
     "lbl:longitude":16.050976,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32415",
         "eg:gisco_id":"AT_31951",
         "eurostat:nuts_2021_id":"31951",
         "gn:id":7871951,
         "qs_pg:id":904296
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046832,
     "wof:geomhash":"85cd74a5d496eea0f28edfd1fdca0ae0",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836179,
-    "wof:lastmodified":1684351555,
+    "wof:lastmodified":1695876905,
     "wof:name":"Pressbaum",
     "wof:parent_id":102049867,
     "wof:placetype":"localadmin",

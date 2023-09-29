@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1546,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.539074,
     "lbl:longitude":10.60797,
     "lbl:max_zoom":16.0,
@@ -119,12 +125,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70833",
         "eg:gisco_id":"AT_70833",
         "eurostat:nuts_2021_id":"70833",
         "gn:id":7873699,
         "gp:id":12675565,
         "qs_pg:id":38473
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047042,
     "wof:geomhash":"b2247b7e867f67b1a21b3a7e23f7ef9c",
@@ -138,7 +146,7 @@
         }
     ],
     "wof:id":1108837779,
-    "wof:lastmodified":1684351599,
+    "wof:lastmodified":1695876999,
     "wof:name":"Vils",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

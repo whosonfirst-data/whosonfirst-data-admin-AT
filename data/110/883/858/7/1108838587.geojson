@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1907,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.59662,
     "lbl:longitude":16.374085,
     "lbl:max_zoom":16.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10807",
         "eg:gisco_id":"AT_10807",
         "eurostat:nuts_2021_id":"10807",
         "gn:id":7871602,
         "qs_pg:id":108285
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047144,
     "wof:geomhash":"eba06073459c58cd7275df06e488fabc",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108838587,
-    "wof:lastmodified":1684351622,
+    "wof:lastmodified":1695877047,
     "wof:name":"Kobersdorf",
     "wof:parent_id":102049775,
     "wof:placetype":"localadmin",

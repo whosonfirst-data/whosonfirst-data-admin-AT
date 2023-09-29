@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130611,
-    "geom:area_square_m":1095630108.060459,
+    "geom:area_square_m":1095630017.329029,
     "geom:bbox":"15.391548,47.013965,15.913861,47.57637",
     "geom:latitude":47.281249,
     "geom:longitude":15.673112,
@@ -185,14 +185,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"617",
         "hasc:id":"AT.ST.WZ",
         "wd:id":"Q875641"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6473489cd32d8b3f5e5807cbf0ddd87b",
+    "wof:geomhash":"71b69e87355b580293ab4eae3d650ecb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":102049765,
-    "wof:lastmodified":1690850863,
+    "wof:lastmodified":1695886074,
     "wof:name":"Weiz",
     "wof:parent_id":85681687,
     "wof:placetype":"county",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":642,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.644905,
     "lbl:longitude":15.831634,
     "lbl:max_zoom":17.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31838",
         "eg:gisco_id":"AT_31838",
         "eurostat:nuts_2021_id":"31838",
         "gn:id":2765170,
@@ -153,6 +160,7 @@
         "gn:id":7873001,
         "qs_pg:id":108780
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046785,
     "wof:geomhash":"38bcbc82deb6e5e0cb44d2b814ddf146",
@@ -166,7 +174,7 @@
         }
     ],
     "wof:id":1108835823,
-    "wof:lastmodified":1684351543,
+    "wof:lastmodified":1695876882,
     "wof:name":"Semmering",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

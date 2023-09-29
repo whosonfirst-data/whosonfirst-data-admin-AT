@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2214,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.322561,
     "lbl:longitude":15.863618,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62235",
         "eg:gisco_id":"AT_62235",
         "eurostat:nuts_2021_id":"62235",
         "gn:id":7873433,
         "qs_pg:id":108944
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047207,
     "wof:geomhash":"d179cae06dd138470cfc9e82e5d1416d",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108839103,
-    "wof:lastmodified":1684351637,
+    "wof:lastmodified":1695877079,
     "wof:name":"P\u00f6llauberg",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

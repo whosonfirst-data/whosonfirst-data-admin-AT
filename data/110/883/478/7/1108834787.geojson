@@ -29,6 +29,12 @@
     "geom:latitude":48.108742,
     "geom:longitude":13.291179,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.112549,
     "lbl:longitude":13.291881,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40436",
         "eg:gisco_id":"AT_40436",
         "eurostat:nuts_2021_id":"40436"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046646,
     "wof:geomhash":"248c921de7ee34d83623c14ceb4635b9",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108834787,
-    "wof:lastmodified":1684351510,
+    "wof:lastmodified":1695876817,
     "wof:name":"St. Johann am Walde",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

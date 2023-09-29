@@ -29,6 +29,12 @@
     "geom:latitude":48.284192,
     "geom:longitude":14.454408,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.286524,
     "lbl:longitude":14.450299,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41120",
         "eg:gisco_id":"AT_41120",
         "eurostat:nuts_2021_id":"41120"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046758,
     "wof:geomhash":"b1f498709d559a88583fc1a7eefd345d",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835609,
-    "wof:lastmodified":1684351537,
+    "wof:lastmodified":1695876869,
     "wof:name":"St. Georgen an der Gusen",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",

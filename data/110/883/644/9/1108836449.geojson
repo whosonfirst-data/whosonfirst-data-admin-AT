@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":833,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.071379,
     "lbl:longitude":13.664837,
     "lbl:max_zoom":17.0,
@@ -74,11 +80,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41714",
         "eg:gisco_id":"AT_41714",
         "eurostat:nuts_2021_id":"41714",
         "gn:id":7873260,
         "qs_pg:id":108880
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046872,
     "wof:geomhash":"4d00639d8f91ee4c306da77e143ab9f8",
@@ -92,7 +100,7 @@
         }
     ],
     "wof:id":1108836449,
-    "wof:lastmodified":1684351563,
+    "wof:lastmodified":1695876921,
     "wof:name":"Manning",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

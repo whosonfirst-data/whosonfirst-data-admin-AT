@@ -29,6 +29,12 @@
     "geom:latitude":48.093,
     "geom:longitude":13.953086,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.098158,
     "lbl:longitude":13.960208,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41807",
         "eg:gisco_id":"AT_41807",
         "eurostat:nuts_2021_id":"41807"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046885,
     "wof:geomhash":"924213c6e517e811b60750c113f0f569",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108836551,
-    "wof:lastmodified":1684351566,
+    "wof:lastmodified":1695876928,
     "wof:name":"Fischlham",
     "wof:parent_id":102049831,
     "wof:placetype":"localadmin",

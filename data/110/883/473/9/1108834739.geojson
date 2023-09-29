@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1371,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.166184,
     "lbl:longitude":13.267685,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40415",
         "eg:gisco_id":"AT_40415",
         "eurostat:nuts_2021_id":"40415",
         "gn:id":7871973,
         "qs_pg:id":108446
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046640,
     "wof:geomhash":"77f7121b2f08721cbe1f31904310c212",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108834739,
-    "wof:lastmodified":1684351508,
+    "wof:lastmodified":1695876814,
     "wof:name":"H\u00f6hnhart",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

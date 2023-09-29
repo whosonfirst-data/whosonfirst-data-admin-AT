@@ -29,6 +29,12 @@
     "geom:latitude":47.536749,
     "geom:longitude":13.622022,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.52842,
     "lbl:longitude":13.611061,
     "lbl:max_zoom":18.0,
@@ -204,9 +210,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40709",
         "eg:gisco_id":"AT_40709",
         "eurostat:nuts_2021_id":"40709"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046692,
     "wof:geomhash":"cba4da195ab26f59d4014ceac87e7030",
@@ -220,7 +228,7 @@
         }
     ],
     "wof:id":1108835139,
-    "wof:lastmodified":1684351522,
+    "wof:lastmodified":1695876841,
     "wof:name":"Hallstatt",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",

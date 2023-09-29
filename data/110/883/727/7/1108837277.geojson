@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4159,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.410985,
     "lbl:longitude":12.030103,
     "lbl:max_zoom":15.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70530",
         "eg:gisco_id":"AT_70530",
         "eurostat:nuts_2021_id":"70530",
         "gn:id":7872573,
         "gp:id":12675361,
         "qs_pg:id":1316999
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046978,
     "wof:geomhash":"b1783983d08a812315e3bbc0017c43d0",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837277,
-    "wof:lastmodified":1684351587,
+    "wof:lastmodified":1695876974,
     "wof:name":"Wildsch\u00f6nau",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

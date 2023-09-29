@@ -29,6 +29,12 @@
     "geom:latitude":47.907839,
     "geom:longitude":13.526616,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.909698,
     "lbl:longitude":13.526617,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41702",
         "eg:gisco_id":"AT_41702",
         "eurostat:nuts_2021_id":"41702"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046869,
     "wof:geomhash":"00f6d43719c2811909d926e3a82ce8b3",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108836421,
-    "wof:lastmodified":1684351562,
+    "wof:lastmodified":1695876919,
     "wof:name":"Attersee am Attersee",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

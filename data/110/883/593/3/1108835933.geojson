@@ -29,6 +29,12 @@
     "geom:latitude":48.108873,
     "geom:longitude":14.759497,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.109627,
     "lbl:longitude":14.748313,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30522",
         "eg:gisco_id":"AT_30522",
         "eurostat:nuts_2021_id":"30522"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046799,
     "wof:geomhash":"eef43ead02c1ef2ae52b06ca36ce73d9",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835933,
-    "wof:lastmodified":1684351546,
+    "wof:lastmodified":1695876887,
     "wof:name":"Oed - Oehling",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

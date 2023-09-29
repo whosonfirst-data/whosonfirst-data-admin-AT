@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1573,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.890005,
     "lbl:longitude":10.534348,
     "lbl:max_zoom":16.0,
@@ -146,12 +152,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70615",
         "eg:gisco_id":"AT_70615",
         "eurostat:nuts_2021_id":"70615",
         "gn:id":7873665,
         "gp:id":12675543,
         "qs_pg:id":1114928
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046986,
     "wof:geomhash":"46356587f9f73ef84aa6672a3d5a823b",
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1108837311,
-    "wof:lastmodified":1684351588,
+    "wof:lastmodified":1695876976,
     "wof:name":"Nauders",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",

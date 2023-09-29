@@ -29,6 +29,12 @@
     "geom:latitude":47.138125,
     "geom:longitude":14.304961,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.137257,
     "lbl:longitude":14.303846,
     "lbl:max_zoom":18.0,
@@ -66,9 +72,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61446",
         "eg:gisco_id":"AT_61446",
         "eurostat:nuts_2021_id":"61446"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047174,
     "wof:geomhash":"8c0f3b0427d5e4025a0921bf3702ad2e",
@@ -82,7 +90,7 @@
         }
     ],
     "wof:id":1108838837,
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1695877062,
     "wof:name":"Teufenbach-Katsch",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",

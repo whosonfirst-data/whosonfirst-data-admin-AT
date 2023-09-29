@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.28943,
     "lbl:longitude":9.710465,
     "lbl:max_zoom":15.0,
@@ -131,11 +137,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80424",
         "eg:gisco_id":"AT_80424",
         "eurostat:nuts_2021_id":"80424",
         "gn:id":2760391,
         "qs_pg:id":1243779
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047082,
     "wof:geomhash":"99ee2d6a3ff9f5f2e1ebeb0f02be56c3",
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":1108838093,
-    "wof:lastmodified":1684351607,
+    "wof:lastmodified":1695877015,
     "wof:name":"Zwischenwasser",
     "wof:parent_id":102049725,
     "wof:placetype":"localadmin",

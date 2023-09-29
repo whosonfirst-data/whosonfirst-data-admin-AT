@@ -29,6 +29,12 @@
     "geom:latitude":46.87295,
     "geom:longitude":15.905728,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.870583,
     "lbl:longitude":15.904907,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62375",
         "eg:gisco_id":"AT_62375",
         "eurostat:nuts_2021_id":"62375"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047229,
     "wof:geomhash":"5931ecac179a87d2c673afe6a3ab7258",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839269,
-    "wof:lastmodified":1684351643,
+    "wof:lastmodified":1695877089,
     "wof:name":"Gleichenberg",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

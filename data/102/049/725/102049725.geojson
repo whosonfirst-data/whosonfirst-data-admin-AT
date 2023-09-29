@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033051,
-    "geom:area_square_m":277325749.549951,
+    "geom:area_square_m":277325663.791228,
     "geom:bbox":"9.530749,47.147378,9.849892,47.367498",
     "geom:latitude":47.267438,
     "geom:longitude":9.6666,
@@ -269,14 +269,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"804",
         "hasc:id":"AT.VO.FK",
         "wd:id":"Q183104"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"be538467f7945fce3b26ae9fc7981797",
+    "wof:geomhash":"9fd2ef6dd77be3aed32c95f2b7bbc9f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -286,7 +291,7 @@
         }
     ],
     "wof:id":102049725,
-    "wof:lastmodified":1690850875,
+    "wof:lastmodified":1695886092,
     "wof:name":"Feldkirch",
     "wof:parent_id":85681649,
     "wof:placetype":"county",

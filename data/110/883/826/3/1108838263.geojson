@@ -29,6 +29,12 @@
     "geom:latitude":46.91535,
     "geom:longitude":13.545775,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.907528,
     "lbl:longitude":13.547945,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20608",
         "eg:gisco_id":"AT_20608",
         "eurostat:nuts_2021_id":"20608"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047102,
     "wof:geomhash":"950a452c806fc2457281f885e0b39839",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838263,
-    "wof:lastmodified":1684351613,
+    "wof:lastmodified":1695877028,
     "wof:name":"Gm\u00fcnd",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

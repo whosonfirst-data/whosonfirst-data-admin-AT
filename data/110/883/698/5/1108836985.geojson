@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1449,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.864189,
     "lbl:longitude":15.282733,
     "lbl:max_zoom":16.0,
@@ -149,11 +155,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32217",
         "eg:gisco_id":"AT_32217",
         "eurostat:nuts_2021_id":"32217",
         "gn:id":7871923,
         "qs_pg:id":108429
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046938,
     "wof:geomhash":"1cc40cf2814ea390437cdfaf3e66a1cc",
@@ -167,7 +175,7 @@
         }
     ],
     "wof:id":1108836985,
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1695876953,
     "wof:name":"Thaya",
     "wof:parent_id":102049903,
     "wof:placetype":"localadmin",

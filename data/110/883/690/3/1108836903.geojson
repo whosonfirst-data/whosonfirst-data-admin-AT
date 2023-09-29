@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.777503,
     "lbl:longitude":16.574725,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31658",
         "eg:gisco_id":"AT_31658",
         "eurostat:nuts_2021_id":"31658",
         "gn:id":2769339,
@@ -144,6 +151,7 @@
         "gn:id":7872974,
         "qs_pg:id":108768
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046927,
     "wof:geomhash":"36ef87e46bd057c620ce1d90d1a55680",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836903,
-    "wof:lastmodified":1684351575,
+    "wof:lastmodified":1695876949,
     "wof:name":"Ottenthal",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

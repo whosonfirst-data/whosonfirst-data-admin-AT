@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":846,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.812027,
     "lbl:longitude":13.569175,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41740",
         "eg:gisco_id":"AT_41740",
         "eurostat:nuts_2021_id":"41740",
         "gn:id":7872175,
@@ -144,6 +151,7 @@
         "gn:id":2764527,
         "qs_pg:id":1192543
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046880,
     "wof:geomhash":"7dbea3bf4e5128938cb41a205237ff7a",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836507,
-    "wof:lastmodified":1684351565,
+    "wof:lastmodified":1695876925,
     "wof:name":"Steinbach am Attersee",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

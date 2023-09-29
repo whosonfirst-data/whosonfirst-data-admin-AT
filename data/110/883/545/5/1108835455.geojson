@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":163,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.726517,
     "lbl:longitude":15.880778,
     "lbl:max_zoom":18.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31842",
         "eg:gisco_id":"AT_31842",
         "eurostat:nuts_2021_id":"31842",
         "gn:id":7871874,
         "qs_pg:id":108415
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046740,
     "wof:geomhash":"0cd1ff608c2f0eb7b5e88878cad65546",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835455,
-    "wof:lastmodified":1684351532,
+    "wof:lastmodified":1695876859,
     "wof:name":"B\u00fcrg-V\u00f6stenhof",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

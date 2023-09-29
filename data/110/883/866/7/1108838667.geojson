@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1977,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.773744,
     "lbl:longitude":16.325506,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10611",
         "eg:gisco_id":"AT_10611",
         "eurostat:nuts_2021_id":"10611",
         "gn:id":7871578,
@@ -143,6 +150,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":743295
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:coterminous":[
         101786735
     ],
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1108838667,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877052,
     "wof:name":"Bad Sauerbrunn",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

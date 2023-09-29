@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":782,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.441598,
     "lbl:longitude":16.49724,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10828",
         "eg:gisco_id":"AT_10828",
         "eurostat:nuts_2021_id":"10828",
         "gn:id":7871614,
@@ -144,6 +151,7 @@
         "gn:id":2769945,
         "qs_pg:id":1299541
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047131,
     "wof:geomhash":"c3107d29714b0c3e15d71dd53084c579",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838479,
-    "wof:lastmodified":1684351619,
+    "wof:lastmodified":1695877042,
     "wof:name":"Oberloisdorf",
     "wof:parent_id":102049775,
     "wof:placetype":"localadmin",

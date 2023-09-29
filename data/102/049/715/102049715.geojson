@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029945,
-    "geom:area_square_m":252682182.634938,
+    "geom:area_square_m":252682312.389476,
     "geom:bbox":"15.996236,46.830633,16.289543,47.133191",
     "geom:latitude":46.967653,
     "geom:longitude":16.144774,
@@ -161,14 +161,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"105",
         "hasc:id":"AT.BU.JE",
         "wd:id":"Q660491"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db0a51b74f6316d021c05e733dd3d5f1",
+    "wof:geomhash":"c78df5379a3f7b277e54db0928104533",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +183,7 @@
         }
     ],
     "wof:id":102049715,
-    "wof:lastmodified":1690850876,
+    "wof:lastmodified":1695886091,
     "wof:name":"Jennersdorf",
     "wof:parent_id":85681651,
     "wof:placetype":"county",

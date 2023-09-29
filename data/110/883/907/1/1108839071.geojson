@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1116,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.793831,
     "lbl:longitude":15.600216,
     "lbl:max_zoom":16.0,
@@ -128,12 +134,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61008",
         "eg:gisco_id":"AT_61008",
         "eurostat:nuts_2021_id":"61008",
         "gn:id":7872399,
         "gp:id":12675062,
         "qs_pg:id":489576
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047203,
     "wof:geomhash":"4702ba4dc0137743b7ca087e1af43fa3",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108839071,
-    "wof:lastmodified":1684351636,
+    "wof:lastmodified":1695877077,
     "wof:name":"Gabersdorf",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

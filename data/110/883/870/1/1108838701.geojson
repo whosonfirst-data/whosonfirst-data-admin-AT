@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":984,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.860532,
     "lbl:longitude":16.030498,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10507",
         "eg:gisco_id":"AT_10507",
         "eurostat:nuts_2021_id":"10507",
         "gn:id":7871568,
         "qs_pg:id":1154992
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047156,
     "wof:geomhash":"498814c8bdd54d81b17892a3abf9f210",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108838701,
-    "wof:lastmodified":1684351625,
+    "wof:lastmodified":1695877054,
     "wof:name":"Neuhaus am Klausenbach",
     "wof:parent_id":102049715,
     "wof:placetype":"localadmin",

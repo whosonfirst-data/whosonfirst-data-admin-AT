@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2958,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.147613,
     "lbl:longitude":10.920733,
     "lbl:max_zoom":15.0,
@@ -140,12 +146,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70223",
         "eg:gisco_id":"AT_70223",
         "eurostat:nuts_2021_id":"70223",
         "gn:id":7872530,
         "gp:id":12675438,
         "qs_pg:id":246626
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047003,
     "wof:geomhash":"e3b4fdcd896d3d467afef09574f37872",
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1108837455,
-    "wof:lastmodified":1684351591,
+    "wof:lastmodified":1695876983,
     "wof:name":"Umhausen",
     "wof:parent_id":102049727,
     "wof:placetype":"localadmin",

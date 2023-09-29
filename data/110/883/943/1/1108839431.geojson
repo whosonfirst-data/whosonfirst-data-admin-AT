@@ -29,6 +29,12 @@
     "geom:latitude":47.346929,
     "geom:longitude":15.958874,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.348514,
     "lbl:longitude":15.959911,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62268",
         "eg:gisco_id":"AT_62268",
         "eurostat:nuts_2021_id":"62268"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047256,
     "wof:geomhash":"8d0f496b704976ff982aa6145636d312",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839431,
-    "wof:lastmodified":1684351648,
+    "wof:lastmodified":1695877099,
     "wof:name":"Grafendorf",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

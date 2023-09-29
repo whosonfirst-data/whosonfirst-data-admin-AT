@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2809,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.710398,
     "lbl:longitude":16.329828,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10602",
         "eg:gisco_id":"AT_10602",
         "eurostat:nuts_2021_id":"10602",
         "gn:id":7872705,
@@ -143,6 +150,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1096925
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047152,
     "wof:geomhash":"ebc00183e1d16c43d892d889c12254ff",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108838663,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877052,
     "wof:name":"Forchtenstein",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

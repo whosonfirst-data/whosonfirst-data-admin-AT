@@ -29,6 +29,12 @@
     "geom:latitude":48.191964,
     "geom:longitude":15.102172,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.181905,
     "lbl:longitude":15.104659,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31530",
         "eg:gisco_id":"AT_31530",
         "eurostat:nuts_2021_id":"31530"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046900,
     "wof:geomhash":"6dfbd15b17f467bc7a0cc323b6b2b8d1",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836683,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876936,
     "wof:name":"Persenbeug - Gottsdorf",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

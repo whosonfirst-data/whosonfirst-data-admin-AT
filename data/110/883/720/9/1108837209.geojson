@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1501,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.283965,
     "lbl:longitude":13.025006,
     "lbl:max_zoom":16.0,
@@ -74,11 +80,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50608",
         "eg:gisco_id":"AT_50608",
         "eurostat:nuts_2021_id":"50608",
         "gn:id":7872240,
         "qs_pg:id":1155204
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046969,
     "wof:geomhash":"c0af177e1ae9e317422b61e0a422197f",
@@ -92,7 +100,7 @@
         }
     ],
     "wof:id":1108837209,
-    "wof:lastmodified":1684351585,
+    "wof:lastmodified":1695876970,
     "wof:name":"Lend",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

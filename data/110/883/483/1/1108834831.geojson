@@ -29,6 +29,12 @@
     "geom:latitude":48.39074,
     "geom:longitude":16.743917,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.391811,
     "lbl:longitude":16.743408,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30848",
         "eg:gisco_id":"AT_30848",
         "eurostat:nuts_2021_id":"30848"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046651,
     "wof:geomhash":"39248eb6509ad23befe666027d677bae",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108834831,
-    "wof:lastmodified":1684351511,
+    "wof:lastmodified":1695876820,
     "wof:name":"Prottes",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.113729,
     "geom:longitude":16.035486,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.109351,
     "lbl:longitude":16.024084,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62202",
         "eg:gisco_id":"AT_62202",
         "eurostat:nuts_2021_id":"62202"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047224,
     "wof:geomhash":"d9acaa748cbdcee86a5135e73f2814af",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839233,
-    "wof:lastmodified":1684351641,
+    "wof:lastmodified":1695877087,
     "wof:name":"Blumau",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

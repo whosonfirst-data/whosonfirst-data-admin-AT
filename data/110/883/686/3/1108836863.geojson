@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.027358,
     "lbl:longitude":16.389854,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31718",
         "eg:gisco_id":"AT_31718",
         "eurostat:nuts_2021_id":"31718",
         "gn:id":2771042,
@@ -144,6 +151,7 @@
         "gn:id":7872982,
         "qs_pg:id":381101
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046923,
     "wof:geomhash":"3fc8ee7ada198ab37c3195ef185d0f16",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836863,
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1695876946,
     "wof:name":"M\u00fcnchendorf",
     "wof:parent_id":102049837,
     "wof:placetype":"localadmin",

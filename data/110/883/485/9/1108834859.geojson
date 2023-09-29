@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":524,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.926536,
     "lbl:longitude":15.90436,
     "lbl:max_zoom":17.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32322",
         "eg:gisco_id":"AT_32322",
         "eurostat:nuts_2021_id":"32322",
         "gn:id":7873058,
         "gp:id":12674100,
         "qs_pg:id":75592
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046655,
     "wof:geomhash":"ca8850506b7d372b686df2d8111a75ab",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108834859,
-    "wof:lastmodified":1684351512,
+    "wof:lastmodified":1695876821,
     "wof:name":"Muggendorf",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

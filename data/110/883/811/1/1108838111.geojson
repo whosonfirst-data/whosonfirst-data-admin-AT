@@ -29,6 +29,12 @@
     "geom:latitude":46.698691,
     "geom:longitude":14.846949,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.701376,
     "lbl:longitude":14.841627,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20918",
         "eg:gisco_id":"AT_20918",
         "eurostat:nuts_2021_id":"20918"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047084,
     "wof:geomhash":"157827e6f11389773e4c25427f3e496a",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838111,
-    "wof:lastmodified":1684351607,
+    "wof:lastmodified":1695877017,
     "wof:name":"Sankt Paul Im Lavanttal",
     "wof:parent_id":102049693,
     "wof:placetype":"localadmin",

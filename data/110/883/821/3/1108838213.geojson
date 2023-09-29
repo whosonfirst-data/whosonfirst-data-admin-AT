@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":928,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.913458,
     "lbl:longitude":14.082325,
     "lbl:max_zoom":17.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20506",
         "eg:gisco_id":"AT_20506",
         "eurostat:nuts_2021_id":"20506",
         "gn:id":7871642,
@@ -150,6 +157,7 @@
         "gn:id":2778456,
         "qs_pg:id":1024369
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047096,
     "wof:geomhash":"09c948bf5de4158f8613ad1a06dff1d1",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108838213,
-    "wof:lastmodified":1684351611,
+    "wof:lastmodified":1695877024,
     "wof:name":"Gl\u00f6dnitz",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",

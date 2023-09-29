@@ -29,6 +29,12 @@
     "geom:latitude":47.371163,
     "geom:longitude":9.871866,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.376771,
     "lbl:longitude":9.874392,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80230",
         "eg:gisco_id":"AT_80230",
         "eurostat:nuts_2021_id":"80230"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047071,
     "wof:geomhash":"885493c9b4d912580ea1bfe8d952bca4",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108838023,
-    "wof:lastmodified":1684351605,
+    "wof:lastmodified":1695877012,
     "wof:name":"Reuthe",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

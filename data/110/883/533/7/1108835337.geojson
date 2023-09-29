@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":697,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.96327,
     "lbl:longitude":15.141381,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30929",
         "eg:gisco_id":"AT_30929",
         "eurostat:nuts_2021_id":"30929",
         "gn:id":7872878,
         "qs_pg:id":108741
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046725,
     "wof:geomhash":"86df3353ae7196fa6ed4309d5e909ed7",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835337,
-    "wof:lastmodified":1684351528,
+    "wof:lastmodified":1695876853,
     "wof:name":"Reingers",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",

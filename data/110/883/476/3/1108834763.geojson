@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2695,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.060264,
     "lbl:longitude":13.188226,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40426",
         "eg:gisco_id":"AT_40426",
         "eurostat:nuts_2021_id":"40426",
         "gn:id":7873102,
         "qs_pg:id":108827
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046644,
     "wof:geomhash":"b5e61e8905b277a7e9a55efc7eed16c6",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108834763,
-    "wof:lastmodified":1684351509,
+    "wof:lastmodified":1695876815,
     "wof:name":"Munderfing",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

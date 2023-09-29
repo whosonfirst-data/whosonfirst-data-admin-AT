@@ -29,6 +29,12 @@
     "geom:latitude":47.717414,
     "geom:longitude":15.269095,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.727143,
     "lbl:longitude":15.269156,
     "lbl:max_zoom":18.0,
@@ -144,9 +150,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62142",
         "eg:gisco_id":"AT_62142",
         "eurostat:nuts_2021_id":"62142"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047240,
     "wof:geomhash":"1539953f5c7baccc7fa6254693293f90",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108839309,
-    "wof:lastmodified":1684351644,
+    "wof:lastmodified":1695877093,
     "wof:name":"Mariazell",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

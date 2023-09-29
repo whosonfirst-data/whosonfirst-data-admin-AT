@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3600,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.325458,
     "lbl:longitude":13.446107,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50401",
         "eg:gisco_id":"AT_50401",
         "eurostat:nuts_2021_id":"50401",
         "gn:id":7873306,
@@ -152,6 +159,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1245857
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046939,
     "wof:geomhash":"f220d9af27fcb8783b7f9980d043a45a",
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1108836989,
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1695876953,
     "wof:name":"Altenmarkt im Pongau",
     "wof:parent_id":102049753,
     "wof:placetype":"localadmin",

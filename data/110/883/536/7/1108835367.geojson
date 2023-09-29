@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":11195,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.543901,
     "lbl:longitude":16.062136,
     "lbl:max_zoom":15.0,
@@ -173,12 +179,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31022",
         "eg:gisco_id":"AT_31022",
         "eurostat:nuts_2021_id":"31022",
         "gn:id":7872886,
         "gp:id":12673715,
         "qs_pg:id":1291996
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046729,
     "wof:geomhash":"c579aafbb9c9528a6bf7516aea52d81e",
@@ -192,7 +200,7 @@
         }
     ],
     "wof:id":1108835367,
-    "wof:lastmodified":1684351529,
+    "wof:lastmodified":1695876854,
     "wof:name":"Hollabrunn",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",

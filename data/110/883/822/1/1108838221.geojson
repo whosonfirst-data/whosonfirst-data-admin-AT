@@ -30,6 +30,12 @@
     "geom:longitude":14.489177,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.829889,
     "lbl:longitude":14.488274,
     "lbl:max_zoom":18.0,
@@ -66,11 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20512",
         "eg:gisco_id":"AT_20512",
         "eurostat:nuts_2021_id":"20512",
         "gp:id":12673592,
         "qs_pg:id":211625
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047098,
     "wof:geomhash":"4df247bcf5957af716b851272eadeaab",
@@ -84,7 +92,7 @@
         }
     ],
     "wof:id":1108838221,
-    "wof:lastmodified":1684351612,
+    "wof:lastmodified":1695877025,
     "wof:name":"Kappel Am Krappfeld",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",

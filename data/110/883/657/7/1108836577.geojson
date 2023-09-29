@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1763,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.105967,
     "lbl:longitude":14.09831,
     "lbl:max_zoom":16.0,
@@ -128,12 +134,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41819",
         "eg:gisco_id":"AT_41819",
         "eurostat:nuts_2021_id":"41819",
         "gn:id":7873280,
         "gp:id":12674337,
         "qs_pg:id":1094947
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046888,
     "wof:geomhash":"ebe6f71cac983aad8a6d69c3e699b74b",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108836577,
-    "wof:lastmodified":1684351567,
+    "wof:lastmodified":1695876930,
     "wof:name":"Sipbachzell",
     "wof:parent_id":102049831,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.778987,
     "lbl:longitude":15.988346,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31834",
         "eg:gisco_id":"AT_31834",
         "eurostat:nuts_2021_id":"31834",
         "gn:id":2765621,
@@ -144,6 +151,7 @@
         "gn:id":7871869,
         "qs_pg:id":1048596
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046926,
     "wof:geomhash":"8e2a015ac098078236e40df838515090",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836893,
-    "wof:lastmodified":1684351575,
+    "wof:lastmodified":1695876948,
     "wof:name":"Schrattenbach",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

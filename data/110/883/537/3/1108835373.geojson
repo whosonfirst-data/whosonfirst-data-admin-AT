@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":7733,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.305183,
     "lbl:longitude":16.362285,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31214",
         "eg:gisco_id":"AT_31214",
         "eurostat:nuts_2021_id":"31214",
         "gn:id":2772998,
@@ -144,6 +151,7 @@
         "gn:id":7872908,
         "qs_pg:id":743449
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046730,
     "wof:geomhash":"5f8288eef435a5e1c3c9afe87591261f",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835373,
-    "wof:lastmodified":1684351529,
+    "wof:lastmodified":1695876855,
     "wof:name":"Langenzersdorf",
     "wof:parent_id":102049887,
     "wof:placetype":"localadmin",

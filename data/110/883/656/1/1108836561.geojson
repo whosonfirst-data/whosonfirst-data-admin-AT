@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":11753,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.195638,
     "lbl:longitude":14.117182,
     "lbl:max_zoom":15.0,
@@ -146,12 +152,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41812",
         "eg:gisco_id":"AT_41812",
         "eurostat:nuts_2021_id":"41812",
         "gn:id":7872189,
         "gp:id":12674362,
         "qs_pg:id":260398
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046886,
     "wof:geomhash":"8e2c7b473f90969ef4905bab61decaa7",
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1108836561,
-    "wof:lastmodified":1684351566,
+    "wof:lastmodified":1695876929,
     "wof:name":"Marchtrenk",
     "wof:parent_id":102049831,
     "wof:placetype":"localadmin",

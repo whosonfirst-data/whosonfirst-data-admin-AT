@@ -29,6 +29,12 @@
     "geom:latitude":48.464466,
     "geom:longitude":15.715106,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.472348,
     "lbl:longitude":15.715345,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31315",
         "eg:gisco_id":"AT_31315",
         "eurostat:nuts_2021_id":"31315"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046674,
     "wof:geomhash":"afe5d6c875abd05623664b9786c40422",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835011,
-    "wof:lastmodified":1684351517,
+    "wof:lastmodified":1695876831,
     "wof:name":"Hadersdorf - Kammern",
     "wof:parent_id":102049885,
     "wof:placetype":"localadmin",

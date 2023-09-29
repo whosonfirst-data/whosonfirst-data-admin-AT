@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1315,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.314776,
     "lbl:longitude":13.518092,
     "lbl:max_zoom":16.0,
@@ -113,11 +119,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41212",
         "eg:gisco_id":"AT_41212",
         "eurostat:nuts_2021_id":"41212",
         "gn:id":7873184,
         "qs_pg:id":108849
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046764,
     "wof:geomhash":"9305041a22e0bb7402740739759f304d",
@@ -131,7 +139,7 @@
         }
     ],
     "wof:id":1108835651,
-    "wof:lastmodified":1684351538,
+    "wof:lastmodified":1695876872,
     "wof:name":"Lambrechten",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.738239,
     "lbl:longitude":16.842179,
     "lbl:max_zoom":16.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10702",
         "eg:gisco_id":"AT_10702",
         "eurostat:nuts_2021_id":"10702",
         "gn:id":2782454,
@@ -150,6 +157,7 @@
         "gn:id":7871584,
         "qs_pg:id":1155005
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047149,
     "wof:geomhash":"a2ac75c624ff61c99a7e90109249a1c3",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108838631,
-    "wof:lastmodified":1684351623,
+    "wof:lastmodified":1695877050,
     "wof:name":"Apetlon",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

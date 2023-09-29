@@ -29,6 +29,12 @@
     "geom:latitude":47.585802,
     "geom:longitude":12.017473,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.580228,
     "lbl:longitude":11.997822,
     "lbl:max_zoom":18.0,
@@ -117,9 +123,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70527",
         "eg:gisco_id":"AT_70527",
         "eurostat:nuts_2021_id":"70527"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046976,
     "wof:geomhash":"cd33854d468c1a9f09430a1d4e152cc3",
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":1108837271,
-    "wof:lastmodified":1684351587,
+    "wof:lastmodified":1695876974,
     "wof:name":"Thiersee",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

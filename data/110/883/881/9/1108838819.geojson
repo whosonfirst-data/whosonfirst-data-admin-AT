@@ -29,6 +29,12 @@
     "geom:latitude":47.004831,
     "geom:longitude":14.950583,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.036571,
     "lbl:longitude":14.909623,
     "lbl:max_zoom":18.0,
@@ -69,9 +75,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61629",
         "eg:gisco_id":"AT_61629",
         "eurostat:nuts_2021_id":"61629"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047172,
     "wof:geomhash":"0280f56d433f75cf0e5a9243c9364cae",
@@ -85,7 +93,7 @@
         }
     ],
     "wof:id":1108838819,
-    "wof:lastmodified":1684351628,
+    "wof:lastmodified":1695877061,
     "wof:name":"Hirschegg-Pack",
     "wof:parent_id":102049717,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":48.360173,
     "geom:longitude":16.68616,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.360897,
     "lbl:longitude":16.686665,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30852",
         "eg:gisco_id":"AT_30852",
         "eurostat:nuts_2021_id":"30852"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046838,
     "wof:geomhash":"c0b69b8cf43d838fa0d3de8c96fbdd91",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836235,
-    "wof:lastmodified":1684351557,
+    "wof:lastmodified":1695876908,
     "wof:name":"Sch\u00f6nkirchen - Reyersdorf",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

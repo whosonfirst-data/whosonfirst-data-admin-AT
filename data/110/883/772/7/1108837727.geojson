@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1278,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.017995,
     "lbl:longitude":10.666906,
     "lbl:max_zoom":16.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70620",
         "eg:gisco_id":"AT_70620",
         "eurostat:nuts_2021_id":"70620",
         "gn:id":7873669,
         "gp:id":12675459,
         "qs_pg:id":1192811
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047036,
     "wof:geomhash":"b2a8fb441341c2ff26d53e626d58891d",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108837727,
-    "wof:lastmodified":1684351598,
+    "wof:lastmodified":1695876996,
     "wof:name":"Ried im Oberinntal",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",

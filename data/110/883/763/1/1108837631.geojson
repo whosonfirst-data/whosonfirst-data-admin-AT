@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":201,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.254665,
     "lbl:longitude":11.259256,
     "lbl:max_zoom":17.0,
@@ -131,12 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70361",
         "eg:gisco_id":"AT_70361",
         "eurostat:nuts_2021_id":"70361",
         "gn:id":7872552,
         "gp:id":12675517,
         "qs_pg:id":995402
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047025,
     "wof:geomhash":"7ab76674267bc74ce8096e8939605467",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108837631,
-    "wof:lastmodified":1684351596,
+    "wof:lastmodified":1695876992,
     "wof:name":"Unterperfuss",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

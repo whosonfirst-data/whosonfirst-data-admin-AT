@@ -29,6 +29,12 @@
     "geom:latitude":47.492147,
     "geom:longitude":15.679519,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.495043,
     "lbl:longitude":15.683158,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61744",
         "eg:gisco_id":"AT_61744",
         "eurostat:nuts_2021_id":"61744"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047252,
     "wof:geomhash":"d97060469955d13d05dc2ff3576cec78",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839391,
-    "wof:lastmodified":1684351647,
+    "wof:lastmodified":1695877097,
     "wof:name":"St. Kathrein",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

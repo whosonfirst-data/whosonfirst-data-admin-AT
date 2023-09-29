@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":576,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.67779,
     "lbl:longitude":16.341866,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31652",
         "eg:gisco_id":"AT_31652",
         "eurostat:nuts_2021_id":"31652",
         "gn:id":7871848,
         "qs_pg:id":904285
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046841,
     "wof:geomhash":"30bdfb00e2f99720b33840c57645927f",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836263,
-    "wof:lastmodified":1684351558,
+    "wof:lastmodified":1695876909,
     "wof:name":"Unterstinkenbrunn",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154411,
-    "geom:area_square_m":1268862636.621418,
+    "geom:area_square_m":1268862346.310772,
     "geom:bbox":"16.502188,48.115101,16.97744,48.644861",
     "geom:latitude":48.351103,
     "geom:longitude":16.750814,
@@ -182,14 +182,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"308",
         "hasc:id":"AT.NO.GF",
         "wd:id":"Q259579"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"313327483efb780240e85838d4a35b51",
+    "wof:geomhash":"5eae216e066c5e3ec948ef38355011fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":102049891,
-    "wof:lastmodified":1690850894,
+    "wof:lastmodified":1695886111,
     "wof:name":"G\u00e4nserndorf",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

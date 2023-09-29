@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1828,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.926286,
     "lbl:longitude":14.072279,
     "lbl:max_zoom":16.0,
@@ -125,6 +131,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40904",
         "eg:gisco_id":"AT_40904",
         "eurostat:nuts_2021_id":"40904",
         "gn:id":7872042,
@@ -134,6 +141,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":108481
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046714,
     "wof:geomhash":"304b94044d7ff4db6b905ee6df76b2f8",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108835249,
-    "wof:lastmodified":1684351526,
+    "wof:lastmodified":1695876848,
     "wof:name":"Inzersdorf im Kremstal",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

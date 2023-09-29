@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004275,
-    "geom:area_square_m":35155969.304212,
+    "geom:area_square_m":35156000.024937,
     "geom:bbox":"16.412244,48.273432,16.5257,48.352153",
     "geom:latitude":48.315245,
     "geom:longitude":16.474258,
@@ -149,14 +149,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"324",
         "hasc:id":"AT.NO.WU",
         "wd:id":"Q521869"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4a602737405104141c107e3b106ec65",
+    "wof:geomhash":"8518725861bb596180cd12e34cefa088",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +171,7 @@
         }
     ],
     "wof:id":102049871,
-    "wof:lastmodified":1690850889,
+    "wof:lastmodified":1695886023,
     "wof:name":"Wien - Umgebung",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

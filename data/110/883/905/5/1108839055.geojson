@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1410,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.870389,
     "lbl:longitude":15.449264,
     "lbl:max_zoom":16.0,
@@ -125,12 +131,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61017",
         "eg:gisco_id":"AT_61017",
         "eurostat:nuts_2021_id":"61017",
         "gn:id":7873466,
         "gp:id":12675040,
         "qs_pg:id":1192644
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047201,
     "wof:geomhash":"45816afc3afe87421d9c5807ab943b34",
@@ -144,7 +152,7 @@
         }
     ],
     "wof:id":1108839055,
-    "wof:lastmodified":1684351635,
+    "wof:lastmodified":1695877076,
     "wof:name":"Hengsberg",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

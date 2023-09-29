@@ -850,17 +850,23 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"9",
         "digitalenvoy:region_code":11587,
         "eurostat:nuts_2021_id":"AT13",
         "fips:code":"AU09",
         "gn:id":2761367,
         "gp:id":2344716,
         "hasc:id":"AT.WI",
+        "iso:code":"AT-9",
         "iso:id":"AT-9",
         "unlc:id":"AT-9",
         "wd:id":"Q1741",
         "wk:page":"Vienna"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101748073,
         1108838101
@@ -869,7 +875,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"210cf515571d300d24f78bb56bd0defd",
+    "wof:geomhash":"193c5d0666c2c97848097f295673a722",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -887,7 +893,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1690850911,
+    "wof:lastmodified":1695885152,
     "wof:name":"Wien",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

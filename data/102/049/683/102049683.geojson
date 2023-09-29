@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118633,
-    "geom:area_square_m":1007098823.592313,
+    "geom:area_square_m":1007098925.233455,
     "geom:bbox":"13.408811,46.478804,14.124424,46.794622",
     "geom:latitude":46.643227,
     "geom:longitude":13.768221,
@@ -161,14 +161,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"207",
         "hasc:id":"AT.KA.VL",
         "wd:id":"Q660264"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b73f83a71859703acc56c1065ec58cd6",
+    "wof:geomhash":"3d2bdff45d9087a92458b47201955c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +183,7 @@
         }
     ],
     "wof:id":102049683,
-    "wof:lastmodified":1690850891,
+    "wof:lastmodified":1695886021,
     "wof:name":"Villach Land",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

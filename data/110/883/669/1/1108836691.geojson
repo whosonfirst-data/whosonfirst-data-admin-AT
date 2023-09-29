@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1529,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.483249,
     "lbl:longitude":16.469616,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31628",
         "eg:gisco_id":"AT_31628",
         "eurostat:nuts_2021_id":"31628",
         "gn:id":7872964,
         "qs_pg:id":743461
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046901,
     "wof:geomhash":"64082f578893d15f03de6d5d33b57909",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836691,
-    "wof:lastmodified":1684351570,
+    "wof:lastmodified":1695876936,
     "wof:name":"Kreuzstetten",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

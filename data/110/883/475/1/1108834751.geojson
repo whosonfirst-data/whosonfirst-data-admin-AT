@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1362,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.129844,
     "lbl:longitude":13.219025,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40420",
         "eg:gisco_id":"AT_40420",
         "eurostat:nuts_2021_id":"40420",
         "gn:id":7871975,
         "qs_pg:id":108447
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046641,
     "wof:geomhash":"ee0625fd5c6e9d3e2e1bea5ebfa68bc5",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108834751,
-    "wof:lastmodified":1684351509,
+    "wof:lastmodified":1695876815,
     "wof:name":"Maria Schmolln",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

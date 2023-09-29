@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.434337,
     "lbl:longitude":15.419317,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31350",
         "eg:gisco_id":"AT_31350",
         "eurostat:nuts_2021_id":"31350",
         "gn:id":2761670,
@@ -147,6 +154,7 @@
         "gn:id":7871806,
         "qs_pg:id":108380
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046775,
     "wof:geomhash":"bad1774e0af3264a87d726bcf4b58f91",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108835745,
-    "wof:lastmodified":1684351541,
+    "wof:lastmodified":1695876878,
     "wof:name":"Weinzierl am Walde",
     "wof:parent_id":102049885,
     "wof:placetype":"localadmin",

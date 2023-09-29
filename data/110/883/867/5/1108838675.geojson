@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1689,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.614306,
     "lbl:longitude":16.541376,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10813",
         "eg:gisco_id":"AT_10813",
         "eurostat:nuts_2021_id":"10813",
         "gn:id":7871606,
         "qs_pg:id":1041929
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047153,
     "wof:geomhash":"a1c04e90fc8ed507c8f11dc162310c68",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838675,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877052,
     "wof:name":"Neckenmarkt",
     "wof:parent_id":102049775,
     "wof:placetype":"localadmin",

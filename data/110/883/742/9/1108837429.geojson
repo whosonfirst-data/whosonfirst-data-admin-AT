@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2077,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.354678,
     "lbl:longitude":10.796691,
     "lbl:max_zoom":15.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70212",
         "eg:gisco_id":"AT_70212",
         "eurostat:nuts_2021_id":"70212",
         "gn:id":7873592,
         "gp:id":12675353,
         "qs_pg:id":1163390
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047000,
     "wof:geomhash":"f368b18c3975692e64e70a4513e146b4",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837429,
-    "wof:lastmodified":1684351591,
+    "wof:lastmodified":1695876982,
     "wof:name":"Nassereith",
     "wof:parent_id":102049727,
     "wof:placetype":"localadmin",

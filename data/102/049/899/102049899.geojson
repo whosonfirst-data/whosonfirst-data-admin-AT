@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123361,
-    "geom:area_square_m":1008003808.16405,
+    "geom:area_square_m":1008003851.885131,
     "geom:bbox":"15.733306,48.463143,16.304289,48.877555",
     "geom:latitude":48.637578,
     "geom:longitude":16.005355,
@@ -212,14 +212,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"310",
         "hasc:id":"AT.NO.HL",
         "wd:id":"Q624352"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b3601535c385ce6f5163335a6b80732d",
+    "wof:geomhash":"613db152e104824da5364642d092906e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -229,7 +234,7 @@
         }
     ],
     "wof:id":102049899,
-    "wof:lastmodified":1690850896,
+    "wof:lastmodified":1695886113,
     "wof:name":"Hollabrunn",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":3581,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.991638,
     "lbl:longitude":13.409796,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41710",
         "eg:gisco_id":"AT_41710",
         "eurostat:nuts_2021_id":"41710",
         "gn:id":2779378,
@@ -144,6 +151,7 @@
         "gn:id":7873257,
         "qs_pg:id":108879
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046871,
     "wof:geomhash":"44905597ef43871cbe07c3a4e6345886",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836439,
-    "wof:lastmodified":1684351563,
+    "wof:lastmodified":1695876920,
     "wof:name":"Frankenmarkt",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":46.709008,
     "geom:longitude":15.58061,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.706283,
     "lbl:longitude":15.586417,
     "lbl:max_zoom":18.0,
@@ -93,9 +99,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61049",
         "eg:gisco_id":"AT_61049",
         "eurostat:nuts_2021_id":"61049"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047204,
     "wof:geomhash":"4e8a461183792169c179c859624e91ad",
@@ -109,7 +117,7 @@
         }
     ],
     "wof:id":1108839075,
-    "wof:lastmodified":1684351636,
+    "wof:lastmodified":1695877077,
     "wof:name":"Ehrenhausen",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

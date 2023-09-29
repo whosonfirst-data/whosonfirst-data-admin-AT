@@ -29,6 +29,12 @@
     "geom:latitude":47.924111,
     "geom:longitude":16.303558,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.923435,
     "lbl:longitude":16.30322,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30646",
         "eg:gisco_id":"AT_30646",
         "eurostat:nuts_2021_id":"30646"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046717,
     "wof:geomhash":"0114b21dc86e81e812586bc1d80f183e",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835269,
-    "wof:lastmodified":1684351526,
+    "wof:lastmodified":1695876849,
     "wof:name":"Blumau - Neuri\u00dfhof",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

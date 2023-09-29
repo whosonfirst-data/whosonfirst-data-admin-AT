@@ -29,6 +29,12 @@
     "geom:latitude":47.389431,
     "geom:longitude":15.463277,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.387439,
     "lbl:longitude":15.463268,
     "lbl:max_zoom":18.0,
@@ -78,9 +84,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62105",
         "eg:gisco_id":"AT_62105",
         "eurostat:nuts_2021_id":"62105"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047242,
     "wof:geomhash":"0a88170a2402bf7d5dc6e299755486e6",
@@ -94,7 +102,7 @@
         }
     ],
     "wof:id":1108839325,
-    "wof:lastmodified":1684351645,
+    "wof:lastmodified":1695877094,
     "wof:name":"Breitenau",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

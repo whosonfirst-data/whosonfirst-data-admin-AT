@@ -29,6 +29,12 @@
     "geom:latitude":47.074395,
     "geom:longitude":15.258253,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.078267,
     "lbl:longitude":15.262644,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60639",
         "eg:gisco_id":"AT_60639",
         "eurostat:nuts_2021_id":"60639"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047216,
     "wof:geomhash":"8feabd8e1181fc0b41e075ba1c6dfdb5",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839167,
-    "wof:lastmodified":1684351639,
+    "wof:lastmodified":1695877083,
     "wof:name":"St. Bartholom\u00e4",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

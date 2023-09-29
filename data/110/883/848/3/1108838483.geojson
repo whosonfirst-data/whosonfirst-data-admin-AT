@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3797,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.054207,
     "lbl:longitude":16.35262,
     "lbl:max_zoom":15.0,
@@ -149,12 +155,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10405",
         "eg:gisco_id":"AT_10405",
         "eurostat:nuts_2021_id":"10405",
         "gn:id":7872693,
         "gp:id":12673419,
         "qs_pg:id":1191943
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047131,
     "wof:geomhash":"bca2bd1d0d5f641e6c6c540b3ca9bb41",
@@ -168,7 +176,7 @@
         }
     ],
     "wof:id":1108838483,
-    "wof:lastmodified":1684351619,
+    "wof:lastmodified":1695877042,
     "wof:name":"G\u00fcssing",
     "wof:parent_id":102049729,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13869,
-    "geom:area_square_m":1159381855.411606,
+    "geom:area_square_m":1159381551.095217,
     "geom:bbox":"12.004083,47.268841,12.699591,47.696366",
     "geom:latitude":47.463931,
     "geom:longitude":12.375646,
@@ -227,14 +227,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"704",
         "hasc:id":"AT.TR.KB",
         "wd:id":"Q264665"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"54f6943939296f074fbaa5b5171caed8",
+    "wof:geomhash":"bd7a421c5b5864b0baa04e79cf67aea1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -244,7 +249,7 @@
         }
     ],
     "wof:id":102049763,
-    "wof:lastmodified":1690850859,
+    "wof:lastmodified":1695886068,
     "wof:name":"Kitzb\u00fchel",
     "wof:parent_id":85681661,
     "wof:placetype":"county",

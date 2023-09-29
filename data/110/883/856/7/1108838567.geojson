@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5325,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.371245,
     "lbl:longitude":16.110133,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10918",
         "eg:gisco_id":"AT_10918",
         "eurostat:nuts_2021_id":"10918",
         "gn:id":7871623,
@@ -147,6 +154,7 @@
         "gn:id":2768811,
         "qs_pg:id":955822
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047141,
     "wof:geomhash":"eb806bbcbff1ce7e80751770e4e4467d",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108838567,
-    "wof:lastmodified":1684351622,
+    "wof:lastmodified":1695877047,
     "wof:name":"Pinkafeld",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

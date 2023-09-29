@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":5209,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.519019,
     "lbl:longitude":9.767338,
     "lbl:max_zoom":15.0,
@@ -149,6 +155,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80226",
         "eg:gisco_id":"AT_80226",
         "eurostat:nuts_2021_id":"80226",
         "gn:id":2772345,
@@ -159,6 +166,7 @@
         "gn:id":7873736,
         "qs_pg:id":1245898
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047068,
     "wof:geomhash":"4a58537e240196298adb30f8be9c5b9f",
@@ -172,7 +180,7 @@
         }
     ],
     "wof:id":1108837995,
-    "wof:lastmodified":1684351604,
+    "wof:lastmodified":1695877010,
     "wof:name":"Lochau",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

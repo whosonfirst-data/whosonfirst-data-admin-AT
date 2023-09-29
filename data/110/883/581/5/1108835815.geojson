@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.591733,
     "lbl:longitude":15.661949,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31106",
         "eg:gisco_id":"AT_31106",
         "eurostat:nuts_2021_id":"31106",
         "gn:id":2778845,
@@ -150,6 +157,7 @@
         "gn:id":7871775,
         "qs_pg:id":1245695
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046784,
     "wof:geomhash":"f4ef4467418e0694576a5822fa2533b1",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108835815,
-    "wof:lastmodified":1684351543,
+    "wof:lastmodified":1695876881,
     "wof:name":"Gars am Kamp",
     "wof:parent_id":102049901,
     "wof:placetype":"localadmin",

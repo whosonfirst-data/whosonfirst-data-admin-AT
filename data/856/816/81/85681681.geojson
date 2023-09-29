@@ -469,22 +469,28 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"5",
         "digitalenvoy:region_code":11574,
         "eurostat:nuts_2021_id":"AT32",
         "fips:code":"AU05",
         "gn:id":2766823,
         "gp:id":2344712,
         "hasc:id":"AT.SZ",
+        "iso:code":"AT-5",
         "iso:id":"AT-5",
         "unlc:id":"AT-5",
         "wd:id":"Q43325",
         "wk:page":"Salzburg_(state)"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"72b1e7b2121d2cfeda3c5db559a441bc",
+    "wof:geomhash":"e280d99fc7a5668bfcdfe308f5f1a6e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -502,7 +508,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1690850913,
+    "wof:lastmodified":1695885157,
     "wof:name":"Salzburg",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

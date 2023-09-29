@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3764,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.262979,
     "lbl:longitude":14.423164,
     "lbl:max_zoom":15.0,
@@ -125,6 +131,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41110",
         "eg:gisco_id":"AT_41110",
         "eurostat:nuts_2021_id":"41110",
         "gn:id":7872068,
@@ -134,6 +141,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1316411
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046755,
     "wof:geomhash":"004a1d80cffc16d35bc938e0fa1461bb",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108835587,
-    "wof:lastmodified":1684351536,
+    "wof:lastmodified":1695876867,
     "wof:name":"Luftenberg an der Donau",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",

@@ -30,6 +30,12 @@
     "geom:longitude":12.789729,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.507149,
     "lbl:longitude":12.776528,
     "lbl:max_zoom":18.0,
@@ -126,11 +132,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50627",
         "eg:gisco_id":"AT_50627",
         "eurostat:nuts_2021_id":"50627",
         "gp:id":12674747,
         "qs_pg:id":1120540
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046975,
     "wof:geomhash":"b6ad47e192a76e98866deac2b22a06e9",
@@ -144,7 +152,7 @@
         }
     ],
     "wof:id":1108837253,
-    "wof:lastmodified":1684351587,
+    "wof:lastmodified":1695876973,
     "wof:name":"Wei\u00dfbach bei Lofer",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

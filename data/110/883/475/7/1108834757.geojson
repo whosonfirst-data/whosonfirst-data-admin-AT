@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1149,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.27732,
     "lbl:longitude":13.173941,
     "lbl:max_zoom":16.0,
@@ -287,11 +293,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40423",
         "eg:gisco_id":"AT_40423",
         "eurostat:nuts_2021_id":"40423",
         "gn:id":7871977,
         "qs_pg:id":1155128
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046643,
     "wof:geomhash":"e772894b6c6c5a403bb1eaa0caf4c209",
@@ -305,7 +313,7 @@
         }
     ],
     "wof:id":1108834757,
-    "wof:lastmodified":1684351509,
+    "wof:lastmodified":1695876815,
     "wof:name":"Mining",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

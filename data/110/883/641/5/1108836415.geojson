@@ -29,6 +29,12 @@
     "geom:latitude":48.349027,
     "geom:longitude":14.141592,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.348722,
     "lbl:longitude":14.141587,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41626",
         "eg:gisco_id":"AT_41626",
         "eurostat:nuts_2021_id":"41626"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046868,
     "wof:geomhash":"3f308a527806d47d08cfe46ee247bbda",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108836415,
-    "wof:lastmodified":1684351562,
+    "wof:lastmodified":1695876919,
     "wof:name":"Walding",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.71604,
     "lbl:longitude":16.586822,
     "lbl:max_zoom":17.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31608",
         "eg:gisco_id":"AT_31608",
         "eurostat:nuts_2021_id":"31608",
         "gn:id":2779819,
@@ -141,6 +148,7 @@
         "gn:id":7872955,
         "qs_pg:id":1155389
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046847,
     "wof:geomhash":"ee0a4b4084ba4f3996013911bd7aebfe",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108836307,
-    "wof:lastmodified":1684351559,
+    "wof:lastmodified":1695876912,
     "wof:name":"Falkenstein",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

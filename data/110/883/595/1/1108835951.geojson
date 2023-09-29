@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":417,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.519493,
     "lbl:longitude":13.91579,
     "lbl:max_zoom":17.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41311",
         "eg:gisco_id":"AT_41311",
         "eurostat:nuts_2021_id":"41311",
         "gn:id":7872106,
         "qs_pg:id":743331
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046802,
     "wof:geomhash":"1fae1541628ff42c1ec4379d96c999e1",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108835951,
-    "wof:lastmodified":1684351546,
+    "wof:lastmodified":1695876888,
     "wof:name":"H\u00f6rbich",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

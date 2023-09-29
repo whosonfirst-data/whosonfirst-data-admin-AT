@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3792,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.040737,
     "lbl:longitude":15.80775,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31403",
         "eg:gisco_id":"AT_31403",
         "eurostat:nuts_2021_id":"31403",
         "gn:id":7872929,
@@ -150,6 +157,7 @@
         "gn:id":2776981,
         "qs_pg:id":1180365
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046907,
     "wof:geomhash":"f3063613f91f07e35de7b4a9ab950f71",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108836745,
-    "wof:lastmodified":1684351571,
+    "wof:lastmodified":1695876939,
     "wof:name":"Hainfeld",
     "wof:parent_id":102049823,
     "wof:placetype":"localadmin",

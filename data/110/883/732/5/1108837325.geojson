@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":7632,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.126778,
     "lbl:longitude":10.556297,
     "lbl:max_zoom":15.0,
@@ -170,12 +176,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70614",
         "eg:gisco_id":"AT_70614",
         "eurostat:nuts_2021_id":"70614",
         "gn:id":7872581,
         "gp:id":12675343,
         "qs_pg:id":1192690
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046989,
     "wof:geomhash":"c6e5372b758335ce4d9ff72e9cf1e270",
@@ -189,7 +197,7 @@
         }
     ],
     "wof:id":1108837325,
-    "wof:lastmodified":1684351588,
+    "wof:lastmodified":1695876977,
     "wof:name":"Landeck",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",

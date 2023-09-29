@@ -29,6 +29,12 @@
     "geom:latitude":48.281483,
     "geom:longitude":16.034343,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.277987,
     "lbl:longitude":16.04489,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32112",
         "eg:gisco_id":"AT_32112",
         "eurostat:nuts_2021_id":"32112"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046890,
     "wof:geomhash":"b55bbf8c03ade9e8e5778f8d77e6a487",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836595,
-    "wof:lastmodified":1684351567,
+    "wof:lastmodified":1695876931,
     "wof:name":"Judenau - Baumgarten",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",

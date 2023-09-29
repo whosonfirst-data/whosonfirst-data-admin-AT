@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3558,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.310946,
     "lbl:longitude":14.0196,
     "lbl:max_zoom":15.0,
@@ -149,12 +155,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40503",
         "eg:gisco_id":"AT_40503",
         "eurostat:nuts_2021_id":"40503",
         "gn:id":7871987,
         "gp:id":12674477,
         "qs_pg:id":211849
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046650,
     "wof:geomhash":"ee2f186b8fbda76bf4a2ef8c59102b13",
@@ -168,7 +176,7 @@
         }
     ],
     "wof:id":1108834815,
-    "wof:lastmodified":1684351511,
+    "wof:lastmodified":1695876819,
     "wof:name":"Eferding",
     "wof:parent_id":102049863,
     "wof:placetype":"localadmin",

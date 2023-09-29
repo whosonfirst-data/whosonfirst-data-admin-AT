@@ -29,6 +29,12 @@
     "geom:latitude":47.054751,
     "geom:longitude":15.834751,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.04869,
     "lbl:longitude":15.842834,
     "lbl:max_zoom":18.0,
@@ -87,9 +93,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61716",
         "eg:gisco_id":"AT_61716",
         "eurostat:nuts_2021_id":"61716"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047179,
     "wof:geomhash":"58c27d332fae17df9f9766bf957587c9",
@@ -103,7 +111,7 @@
         }
     ],
     "wof:id":1108838873,
-    "wof:lastmodified":1684351631,
+    "wof:lastmodified":1695877065,
     "wof:name":"Hartmannsdorf",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

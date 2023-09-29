@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.209632,
     "lbl:longitude":13.564639,
     "lbl:max_zoom":17.0,
@@ -125,6 +131,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50512",
         "eg:gisco_id":"AT_50512",
         "eurostat:nuts_2021_id":"50512",
         "gn:id":2763215,
@@ -135,6 +142,7 @@
         "gn:id":7872235,
         "qs_pg:id":108538
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046950,
     "wof:geomhash":"29b07971d89002f97938f819a62ef13c",
@@ -148,7 +156,7 @@
         }
     ],
     "wof:id":1108837069,
-    "wof:lastmodified":1684351581,
+    "wof:lastmodified":1695876960,
     "wof:name":"Tweng",
     "wof:parent_id":102049721,
     "wof:placetype":"localadmin",

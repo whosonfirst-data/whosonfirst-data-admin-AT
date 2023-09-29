@@ -29,6 +29,12 @@
     "geom:latitude":48.388328,
     "geom:longitude":13.870675,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.387007,
     "lbl:longitude":13.871398,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40824",
         "eg:gisco_id":"AT_40824",
         "eurostat:nuts_2021_id":"40824"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046702,
     "wof:geomhash":"857134067064f573e98b8eba530ae4a2",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835219,
-    "wof:lastmodified":1684351525,
+    "wof:lastmodified":1695876846,
     "wof:name":"St. Agatha",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

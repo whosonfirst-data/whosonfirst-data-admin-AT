@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":831,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.18293,
     "lbl:longitude":12.966046,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40442",
         "eg:gisco_id":"AT_40442",
         "eurostat:nuts_2021_id":"40442",
         "gn:id":7873113,
         "qs_pg:id":743472
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046648,
     "wof:geomhash":"93ab6346f850146d880960906fd67192",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108834799,
-    "wof:lastmodified":1684351511,
+    "wof:lastmodified":1695876818,
     "wof:name":"Schwand im Innkreis",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

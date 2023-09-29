@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1628,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.44281,
     "lbl:longitude":15.64046,
     "lbl:max_zoom":16.0,
@@ -107,11 +113,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61708",
         "eg:gisco_id":"AT_61708",
         "eurostat:nuts_2021_id":"61708",
         "gn:id":7873557,
         "qs_pg:id":280028
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047176,
     "wof:geomhash":"ef9860f6cb170fd2f9e70a8bcf3d2d3b",
@@ -125,7 +133,7 @@
         }
     ],
     "wof:id":1108838857,
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1695877064,
     "wof:name":"Fischbach",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

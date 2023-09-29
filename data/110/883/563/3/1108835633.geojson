@@ -29,6 +29,12 @@
     "geom:latitude":48.147689,
     "geom:longitude":13.561886,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.145336,
     "lbl:longitude":13.565963,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41204",
         "eg:gisco_id":"AT_41204",
         "eurostat:nuts_2021_id":"41204"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046762,
     "wof:geomhash":"06c5d5ae59e59b1127ee516e4a8acacf",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108835633,
-    "wof:lastmodified":1684351538,
+    "wof:lastmodified":1695876871,
     "wof:name":"Eberschwang",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

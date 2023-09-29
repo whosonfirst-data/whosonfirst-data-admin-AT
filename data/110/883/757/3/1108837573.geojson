@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":901,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.273574,
     "lbl:longitude":11.143036,
     "lbl:max_zoom":16.0,
@@ -130,12 +136,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70342",
         "eg:gisco_id":"AT_70342",
         "eurostat:nuts_2021_id":"70342",
         "gn:id":7872545,
         "gp:id":12675552,
         "qs_pg:id":38454
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047019,
     "wof:geomhash":"d5d6acdd5b088faa19ac1e4a44ec1932",
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":1108837573,
-    "wof:lastmodified":1684351594,
+    "wof:lastmodified":1695876989,
     "wof:name":"Polling in Tirol",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

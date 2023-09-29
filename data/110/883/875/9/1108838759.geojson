@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.16205,
     "lbl:longitude":16.35937,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10908",
         "eg:gisco_id":"AT_10908",
         "eurostat:nuts_2021_id":"10908",
         "gn:id":2773823,
@@ -144,6 +151,7 @@
         "gn:id":7871618,
         "qs_pg:id":1041931
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047165,
     "wof:geomhash":"f882380b558a54c7b02e6f7814d704e4",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838759,
-    "wof:lastmodified":1684351626,
+    "wof:lastmodified":1695877058,
     "wof:name":"Kohfidisch",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

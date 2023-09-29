@@ -29,6 +29,12 @@
     "geom:latitude":48.309528,
     "geom:longitude":14.762603,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.310116,
     "lbl:longitude":14.762606,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41122",
         "eg:gisco_id":"AT_41122",
         "eurostat:nuts_2021_id":"41122"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046759,
     "wof:geomhash":"aad063abd0aa2be4b76ecc53c157400f",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835615,
-    "wof:lastmodified":1684351537,
+    "wof:lastmodified":1695876869,
     "wof:name":"St. Thomas am Blasenstein",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",

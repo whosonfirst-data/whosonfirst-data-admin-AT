@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05534,
-    "geom:area_square_m":456755328.865361,
+    "geom:area_square_m":456755287.012274,
     "geom:bbox":"13.753711,48.002623,14.171162,48.255544",
     "geom:latitude":48.126254,
     "geom:longitude":13.973148,
@@ -67,13 +67,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"418",
         "hasc:id":"AT.OO.WL"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7b7755b701ae916a43b3fd32c49b9e7",
+    "wof:geomhash":"f116ff5b29d72203cf9a7eecb8137828",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":102049831,
-    "wof:lastmodified":1627521504,
+    "wof:lastmodified":1695886023,
     "wof:name":"Wels - Land",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

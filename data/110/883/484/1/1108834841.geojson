@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2532,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.044212,
     "lbl:longitude":14.768377,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30517",
         "eg:gisco_id":"AT_30517",
         "eurostat:nuts_2021_id":"30517",
         "gn:id":7872824,
@@ -141,6 +148,7 @@
         "gn:id":2774550,
         "qs_pg:id":223817
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046652,
     "wof:geomhash":"3933d9596712c9e1700803390d88d63c",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108834841,
-    "wof:lastmodified":1684351512,
+    "wof:lastmodified":1695876820,
     "wof:name":"Kematen an der Ybbs",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

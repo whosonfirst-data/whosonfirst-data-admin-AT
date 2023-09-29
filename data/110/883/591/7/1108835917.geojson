@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2111,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.402334,
     "lbl:longitude":15.692757,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31310",
         "eg:gisco_id":"AT_31310",
         "eurostat:nuts_2021_id":"31310",
         "gn:id":7872914,
         "qs_pg:id":904330
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046797,
     "wof:geomhash":"68b33bf9f1801a3e39997c3beda9a1ec",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835917,
-    "wof:lastmodified":1684351546,
+    "wof:lastmodified":1695876886,
     "wof:name":"Gedersdorf",
     "wof:parent_id":102049885,
     "wof:placetype":"localadmin",

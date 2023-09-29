@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":14368,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.324155,
     "lbl:longitude":11.075314,
     "lbl:max_zoom":15.0,
@@ -170,12 +176,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70357",
         "eg:gisco_id":"AT_70357",
         "eurostat:nuts_2021_id":"70357",
         "gn:id":7872551,
         "gp:id":12675410,
         "qs_pg:id":1291999
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047024,
     "wof:geomhash":"cd7bfc079f63fc087aa55c2448ff5a9b",
@@ -189,7 +197,7 @@
         }
     ],
     "wof:id":1108837621,
-    "wof:lastmodified":1684351595,
+    "wof:lastmodified":1695876992,
     "wof:name":"Telfs",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

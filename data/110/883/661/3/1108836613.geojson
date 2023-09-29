@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":6213,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.666462,
     "lbl:longitude":15.915448,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31810",
         "eg:gisco_id":"AT_31810",
         "eurostat:nuts_2021_id":"31810",
         "gn:id":2778455,
@@ -150,6 +157,7 @@
         "gn:id":7872991,
         "qs_pg:id":108775
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046892,
     "wof:geomhash":"affc453d0d8b7534b5694aca32befb85",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108836613,
-    "wof:lastmodified":1684351568,
+    "wof:lastmodified":1695876932,
     "wof:name":"Gloggnitz",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

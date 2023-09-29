@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.201799,
     "lbl:longitude":16.711206,
     "lbl:max_zoom":15.0,
@@ -138,6 +144,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30831",
         "eg:gisco_id":"AT_30831",
         "eurostat:nuts_2021_id":"30831",
         "gn:id":2772618,
@@ -148,6 +155,7 @@
         "gn:id":7871737,
         "qs_pg:id":904273
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046859,
     "wof:geomhash":"061972337bbc2fe8b8db749d4306ec28",
@@ -161,7 +169,7 @@
         }
     ],
     "wof:id":1108836339,
-    "wof:lastmodified":1684351560,
+    "wof:lastmodified":1695876914,
     "wof:name":"Leopoldsdorf im Marchfelde",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

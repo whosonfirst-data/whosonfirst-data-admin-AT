@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1379,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.049482,
     "lbl:longitude":13.626664,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41744",
         "eg:gisco_id":"AT_41744",
         "eurostat:nuts_2021_id":"41744",
         "gn:id":7873269,
         "qs_pg:id":1155469
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046881,
     "wof:geomhash":"5d4daf3966e5b0442d6b32bcf4ceff67",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108836517,
-    "wof:lastmodified":1684351565,
+    "wof:lastmodified":1695876926,
     "wof:name":"Ungenach",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

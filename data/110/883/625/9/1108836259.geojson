@@ -29,6 +29,12 @@
     "geom:latitude":48.513711,
     "geom:longitude":15.808909,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.513011,
     "lbl:longitude":15.794715,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31021",
         "eg:gisco_id":"AT_31021",
         "eurostat:nuts_2021_id":"31021"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046841,
     "wof:geomhash":"1aa859465d45178f2dc1532ff553a33e",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836259,
-    "wof:lastmodified":1684351558,
+    "wof:lastmodified":1695876909,
     "wof:name":"Hohenwarth - M\u00fchlbach am Manhartsberg",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",

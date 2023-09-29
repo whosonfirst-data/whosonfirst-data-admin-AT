@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2738,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.851379,
     "lbl:longitude":14.53512,
     "lbl:max_zoom":15.0,
@@ -128,12 +134,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41507",
         "eg:gisco_id":"AT_41507",
         "eurostat:nuts_2021_id":"41507",
         "gn:id":7873224,
         "gp:id":12674423,
         "qs_pg:id":1187750
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046822,
     "wof:geomhash":"5f5bbdc94ade9e96a843328223971e27",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108836105,
-    "wof:lastmodified":1684351553,
+    "wof:lastmodified":1695876900,
     "wof:name":"Gro\u00dframing",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",

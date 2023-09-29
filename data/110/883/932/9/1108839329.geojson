@@ -30,6 +30,12 @@
     "geom:longitude":15.439349,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.074233,
     "lbl:longitude":15.437637,
     "lbl:max_zoom":18.0,
@@ -375,11 +381,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60101",
         "eg:gisco_id":"AT_60101",
         "eurostat:nuts_2021_id":"60101",
         "gp:id":12674996,
         "qs_pg:id":241185
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:coterminous":[
         102049709
     ],
@@ -396,7 +404,7 @@
         }
     ],
     "wof:id":1108839329,
-    "wof:lastmodified":1684351645,
+    "wof:lastmodified":1695877094,
     "wof:name":"Graz",
     "wof:parent_id":102049709,
     "wof:placetype":"localadmin",

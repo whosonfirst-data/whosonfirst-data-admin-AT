@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.684985,
     "lbl:longitude":15.871962,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31821",
         "eg:gisco_id":"AT_31821",
         "eurostat:nuts_2021_id":"31821",
         "gn:id":2769182,
@@ -144,6 +151,7 @@
         "gn:id":7872993,
         "qs_pg:id":904333
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046920,
     "wof:geomhash":"c40bf2cb575110e32309a8c8553e7234",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836841,
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1695876945,
     "wof:name":"Payerbach",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

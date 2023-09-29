@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100832,
-    "geom:area_square_m":825203377.289809,
+    "geom:area_square_m":825203377.289829,
     "geom:bbox":"13.7270903599,48.3731820856,14.2216474694,48.7725665347",
     "geom:latitude":48.558693,
     "geom:longitude":13.960431,
@@ -113,13 +113,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"413",
         "hasc:id":"AT.OO.RO"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"43e98e603f6018f74fbcc634dc1b54ae",
+    "wof:geomhash":"a68a0d0d3112d4e5f1a11df8c6bb20be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":102049889,
-    "wof:lastmodified":1582381715,
+    "wof:lastmodified":1695886079,
     "wof:name":"Rohrbach",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

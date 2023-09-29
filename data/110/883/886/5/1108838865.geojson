@@ -29,6 +29,12 @@
     "geom:latitude":47.141562,
     "geom:longitude":15.848922,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.147319,
     "lbl:longitude":15.855379,
     "lbl:max_zoom":18.0,
@@ -72,9 +78,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61759",
         "eg:gisco_id":"AT_61759",
         "eurostat:nuts_2021_id":"61759"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047178,
     "wof:geomhash":"298bdd045db9af28e39e7c853af71d84",
@@ -88,7 +96,7 @@
         }
     ],
     "wof:id":1108838865,
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1695877064,
     "wof:name":"Gersdorf",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.214814,
     "lbl:longitude":16.095914,
     "lbl:max_zoom":17.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10419",
         "eg:gisco_id":"AT_10419",
         "eurostat:nuts_2021_id":"10419",
         "gn:id":2760846,
@@ -141,6 +148,7 @@
         "gn:id":7871557,
         "qs_pg:id":108275
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047154,
     "wof:geomhash":"6af46b952c75fda8813189c1763f18d0",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108838683,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877053,
     "wof:name":"W\u00f6rterberg",
     "wof:parent_id":102049729,
     "wof:placetype":"localadmin",

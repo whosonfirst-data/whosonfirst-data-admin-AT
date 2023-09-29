@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.222375,
     "lbl:longitude":13.752111,
     "lbl:max_zoom":17.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50501",
         "eg:gisco_id":"AT_50501",
         "eurostat:nuts_2021_id":"50501",
         "gn:id":2778335,
         "qs_pg:id":373506
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046946,
     "wof:geomhash":"b8c77de51d180f24c52be5114bf22ffa",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108837045,
-    "wof:lastmodified":1684351579,
+    "wof:lastmodified":1695876957,
     "wof:name":"G\u00f6riach",
     "wof:parent_id":102049721,
     "wof:placetype":"localadmin",

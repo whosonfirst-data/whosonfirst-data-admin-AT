@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2704,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.69368,
     "lbl:longitude":16.429835,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10610",
         "eg:gisco_id":"AT_10610",
         "eurostat:nuts_2021_id":"10610",
         "gn:id":7871577,
@@ -150,6 +157,7 @@
         "gn:id":2767283,
         "qs_pg:id":1019112
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047131,
     "wof:geomhash":"50563efcd46a18a8c377ddd3411c0904",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108838481,
-    "wof:lastmodified":1684351619,
+    "wof:lastmodified":1695877042,
     "wof:name":"Rohrbach bei Mattersburg",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

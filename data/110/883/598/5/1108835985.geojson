@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1624,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.616648,
     "lbl:longitude":13.895804,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41326",
         "eg:gisco_id":"AT_41326",
         "eurostat:nuts_2021_id":"41326",
         "gn:id":7873200,
         "qs_pg:id":108857
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046806,
     "wof:geomhash":"2b9b7597fd81cdff11e2e8361bd8be1c",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835985,
-    "wof:lastmodified":1684351548,
+    "wof:lastmodified":1695876891,
     "wof:name":"Peilstein im M\u00fchlviertel",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

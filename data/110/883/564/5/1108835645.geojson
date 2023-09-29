@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":593,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.288941,
     "lbl:longitude":13.286199,
     "lbl:max_zoom":17.0,
@@ -131,11 +137,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41210",
         "eg:gisco_id":"AT_41210",
         "eurostat:nuts_2021_id":"41210",
         "gn:id":7873182,
         "qs_pg:id":108847
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046764,
     "wof:geomhash":"73cce9724fade8dd274b23508dce9fdf",
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":1108835645,
-    "wof:lastmodified":1684351538,
+    "wof:lastmodified":1695876872,
     "wof:name":"Kirchdorf am Inn",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

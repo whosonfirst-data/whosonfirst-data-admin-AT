@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5216,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.624107,
     "lbl:longitude":13.956032,
     "lbl:max_zoom":15.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20727",
         "eg:gisco_id":"AT_20727",
         "eurostat:nuts_2021_id":"20727",
         "gn:id":7871670,
         "qs_pg:id":108318
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047118,
     "wof:geomhash":"918d9c2535fc411c91b02fee4e20ad1e",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108838363,
-    "wof:lastmodified":1684351616,
+    "wof:lastmodified":1695877035,
     "wof:name":"Wernberg",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",

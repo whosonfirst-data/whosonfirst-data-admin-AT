@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.865786,
     "lbl:longitude":16.293689,
     "lbl:max_zoom":15.0,
@@ -92,12 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32305",
         "eg:gisco_id":"AT_32305",
         "eurostat:nuts_2021_id":"32305",
         "gn:id":2780359,
         "gp:id":12674167,
         "qs_pg:id":1002024
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046892,
     "wof:geomhash":"dfe11e89ddb64dcf41fe3e3f27e9cea0",
@@ -111,7 +119,7 @@
         }
     ],
     "wof:id":1108836615,
-    "wof:lastmodified":1684351568,
+    "wof:lastmodified":1695876932,
     "wof:name":"Eggendorf",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

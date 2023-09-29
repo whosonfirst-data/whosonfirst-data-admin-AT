@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005551,
-    "geom:area_square_m":45773689.394162,
+    "geom:area_square_m":45773689.39417,
     "geom:bbox":"13.963529,48.12582,14.090766,48.211316",
     "geom:latitude":48.17463,
     "geom:longitude":14.020214,
@@ -266,9 +266,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"403",
         "hasc:id":"AT.OO.WE",
         "wd:id":"Q178582"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         1108834705
     ],
@@ -276,7 +281,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2effc9551b0073c343cfb80b1e1855fe",
+    "wof:geomhash":"0675f1f7e1e7a50a76adae4119a8566b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -286,7 +291,7 @@
         }
     ],
     "wof:id":102049827,
-    "wof:lastmodified":1690850865,
+    "wof:lastmodified":1695886413,
     "wof:name":"Wels",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

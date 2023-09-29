@@ -468,22 +468,28 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"7",
         "digitalenvoy:region_code":11581,
         "eurostat:nuts_2021_id":"AT33",
         "fips:code":"AU07",
         "gn:id":2763586,
         "gp:id":2344714,
         "hasc:id":"AT.TR",
+        "iso:code":"AT-7",
         "iso:id":"AT-7",
         "unlc:id":"AT-7",
         "wd:id":"Q42880",
         "wk:page":"Tyrol_(state)"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bbc37a1f2df5a217d79040c2b4795d11",
+    "wof:geomhash":"b1600219c2e638cb4b65c0ab2640f6eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -501,7 +507,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1690850907,
+    "wof:lastmodified":1695885149,
     "wof:name":"Tirol",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

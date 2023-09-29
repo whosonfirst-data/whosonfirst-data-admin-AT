@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.857679,
     "lbl:longitude":15.00179,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32005",
         "eg:gisco_id":"AT_32005",
         "eurostat:nuts_2021_id":"32005",
         "gn:id":2772186,
@@ -147,6 +154,7 @@
         "gn:id":7873030,
         "qs_pg:id":108797
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046723,
     "wof:geomhash":"2d8469355fc2069bf653cfea44185f10",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108835319,
-    "wof:lastmodified":1684351528,
+    "wof:lastmodified":1695876852,
     "wof:name":"Lunz am See",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",

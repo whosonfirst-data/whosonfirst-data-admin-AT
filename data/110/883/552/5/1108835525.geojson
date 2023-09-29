@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":728,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.131591,
     "lbl:longitude":14.142773,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41004",
         "eg:gisco_id":"AT_41004",
         "eurostat:nuts_2021_id":"41004",
         "gn:id":7873162,
         "qs_pg:id":108846
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046748,
     "wof:geomhash":"c0b4677afcfdc1fb236db3e7f87eb3b5",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835525,
-    "wof:lastmodified":1684351534,
+    "wof:lastmodified":1695876863,
     "wof:name":"Eggendorf im Traunkreis",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.731619,
     "lbl:longitude":13.706683,
     "lbl:max_zoom":16.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20712",
         "eg:gisco_id":"AT_20712",
         "eurostat:nuts_2021_id":"20712",
         "gn:id":2779271,
@@ -150,6 +157,7 @@
         "gn:id":7872801,
         "qs_pg:id":108708
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047115,
     "wof:geomhash":"dea78601f8c8071893fc279c1c8f6b80",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108838341,
-    "wof:lastmodified":1684351615,
+    "wof:lastmodified":1695877034,
     "wof:name":"Fresach",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",

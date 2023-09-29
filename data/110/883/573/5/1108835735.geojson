@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6088,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.913673,
     "lbl:longitude":16.35771,
     "lbl:max_zoom":15.0,
@@ -131,11 +137,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30626",
         "eg:gisco_id":"AT_30626",
         "eurostat:nuts_2021_id":"30626",
         "gn:id":7871713,
         "qs_pg:id":108333
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046775,
     "wof:geomhash":"4f617fb78b70481d223552570b84d203",
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":1108835735,
-    "wof:lastmodified":1684351541,
+    "wof:lastmodified":1695876877,
     "wof:name":"Pottendorf",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.094695,
     "geom:longitude":14.072929,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.090296,
     "lbl:longitude":14.081109,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61442",
         "eg:gisco_id":"AT_61442",
         "eurostat:nuts_2021_id":"61442"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047169,
     "wof:geomhash":"1ad9fd90053098d8858440ab60272530",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838791,
-    "wof:lastmodified":1684351627,
+    "wof:lastmodified":1695877059,
     "wof:name":"St. Georgen",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",

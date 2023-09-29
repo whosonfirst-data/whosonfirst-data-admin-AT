@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.867845,
     "lbl:longitude":13.878141,
     "lbl:max_zoom":16.0,
@@ -143,11 +149,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"21007",
         "eg:gisco_id":"AT_21007",
         "eurostat:nuts_2021_id":"21007",
         "gn:id":2767779,
         "qs_pg:id":275773
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047087,
     "wof:geomhash":"1de5b96537f02b88a17d1f7c784d4a36",
@@ -161,7 +169,7 @@
         }
     ],
     "wof:id":1108838135,
-    "wof:lastmodified":1684351608,
+    "wof:lastmodified":1695877018,
     "wof:name":"Reichenau",
     "wof:parent_id":102049689,
     "wof:placetype":"localadmin",

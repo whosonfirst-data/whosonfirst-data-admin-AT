@@ -12,11 +12,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006454,
-    "geom:area_square_m":54274882.326278,
+    "geom:area_square_m":54274882.32627,
     "geom:bbox":"14.7696900902,47.0894825471,14.9452458686,47.1965519427",
     "geom:latitude":47.151318,
     "geom:longitude":14.867451,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.140982,
     "lbl:longitude":14.903764,
     "lbl:max_zoom":18.0,
@@ -39,10 +45,13 @@
         1108892555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "austriaod:number":"62039"
+    },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047252,
-    "wof:geomhash":"59800d5c08266e28a8bc8ab5294ff89b",
+    "wof:geomhash":"fd378f0cacdc81c743a577f60ae919b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108839397,
-    "wof:lastmodified":1566598182,
+    "wof:lastmodified":1695876809,
     "wof:name":"Gro\u00dflobming",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":740,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.575615,
     "lbl:longitude":13.827149,
     "lbl:max_zoom":17.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41324",
         "eg:gisco_id":"AT_41324",
         "eurostat:nuts_2021_id":"41324",
         "gn:id":7872113,
@@ -137,6 +144,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":743336
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046806,
     "wof:geomhash":"14854c40cd0bbb062524114e36673371",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108835981,
-    "wof:lastmodified":1684351548,
+    "wof:lastmodified":1695876891,
     "wof:name":"Oberkappel",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

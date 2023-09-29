@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137888,
-    "geom:area_square_m":1147750052.293965,
+    "geom:area_square_m":1147750119.116952,
     "geom:bbox":"15.600671,47.461437,16.219429,47.867004",
     "geom:latitude":47.688199,
     "geom:longitude":15.942514,
@@ -179,14 +179,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"318",
         "hasc:id":"AT.NO.NK",
         "wd:id":"Q265948"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb227461064a9873b1aa617b34176812",
+    "wof:geomhash":"03201a54adcfd72556c1c2963e3af8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":102049791,
-    "wof:lastmodified":1690850863,
+    "wof:lastmodified":1695886073,
     "wof:name":"Neunkirchen",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

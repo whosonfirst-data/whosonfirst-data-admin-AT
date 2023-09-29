@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.709161,
     "lbl:longitude":15.854629,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31035",
         "eg:gisco_id":"AT_31035",
         "eurostat:nuts_2021_id":"31035",
         "gn:id":2768255,
@@ -144,6 +151,7 @@
         "gn:id":7872889,
         "qs_pg:id":1048846
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046781,
     "wof:geomhash":"bbf95cbb09226f6a3d600697822ed845",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835787,
-    "wof:lastmodified":1684351542,
+    "wof:lastmodified":1695876880,
     "wof:name":"Pulkau",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",

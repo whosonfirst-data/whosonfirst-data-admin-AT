@@ -29,6 +29,12 @@
     "geom:latitude":48.18103,
     "geom:longitude":15.486403,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.186959,
     "lbl:longitude":15.497985,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31922",
         "eg:gisco_id":"AT_31922",
         "eurostat:nuts_2021_id":"31922"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046741,
     "wof:geomhash":"a8df1ea9e86c7e3c0e4c992602d7b7ce",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835471,
-    "wof:lastmodified":1684351532,
+    "wof:lastmodified":1695876860,
     "wof:name":"Markersdorf - Haindorf",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

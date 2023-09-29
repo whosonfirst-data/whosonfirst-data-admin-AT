@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":692,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.112239,
     "lbl:longitude":15.218702,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60647",
         "eg:gisco_id":"AT_60647",
         "eurostat:nuts_2021_id":"60647",
         "gn:id":7873415,
         "qs_pg:id":108935
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047215,
     "wof:geomhash":"f8facc30214efcaaa5a3dae6b32e1457",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108839151,
-    "wof:lastmodified":1684351639,
+    "wof:lastmodified":1695877082,
     "wof:name":"Stiwoll",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120935,
-    "geom:area_square_m":991527703.647092,
+    "geom:area_square_m":991527668.460183,
     "geom:bbox":"14.370281,48.297416,14.935041,48.648493",
     "geom:latitude":48.466256,
     "geom:longitude":14.630503,
@@ -187,14 +187,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"406",
         "hasc:id":"AT.OO.FR",
         "wd:id":"Q143140"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e8e5458e3f873d0bd719cc1a62745b6",
+    "wof:geomhash":"5e5ea7cb190619941df50d568becb6af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,7 +209,7 @@
         }
     ],
     "wof:id":102049883,
-    "wof:lastmodified":1690850887,
+    "wof:lastmodified":1695886102,
     "wof:name":"Freistadt",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

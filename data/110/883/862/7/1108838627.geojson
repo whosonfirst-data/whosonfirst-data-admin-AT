@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":4050,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.001206,
     "lbl:longitude":16.875854,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10717",
         "eg:gisco_id":"AT_10717",
         "eurostat:nuts_2021_id":"10717",
         "gn:id":2769242,
@@ -153,6 +160,7 @@
         "gn:id":7872720,
         "qs_pg:id":108677
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047149,
     "wof:geomhash":"6ef655bf4311d6ba1324a32b1c69788a",
@@ -166,7 +174,7 @@
         }
     ],
     "wof:id":1108838627,
-    "wof:lastmodified":1684351623,
+    "wof:lastmodified":1695877050,
     "wof:name":"Parndorf",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

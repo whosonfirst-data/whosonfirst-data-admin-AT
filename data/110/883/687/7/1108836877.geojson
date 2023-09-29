@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1916,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.550536,
     "lbl:longitude":16.09332,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31802",
         "eg:gisco_id":"AT_31802",
         "eurostat:nuts_2021_id":"31802",
         "gn:id":7872986,
@@ -140,6 +147,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":31936
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046924,
     "wof:geomhash":"74f4e214b4bf021fd20c3937910a750f",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108836877,
-    "wof:lastmodified":1684351575,
+    "wof:lastmodified":1695876947,
     "wof:name":"Aspang-Markt",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

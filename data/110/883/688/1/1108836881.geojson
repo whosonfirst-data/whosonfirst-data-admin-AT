@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.101236,
     "lbl:longitude":16.803864,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30722",
         "eg:gisco_id":"AT_30722",
         "eurostat:nuts_2021_id":"30722",
         "gn:id":2766143,
@@ -141,6 +148,7 @@
         "gn:id":7871724,
         "qs_pg:id":108338
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046924,
     "wof:geomhash":"be15e5ceea705077a4f08e57aed6e489",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108836881,
-    "wof:lastmodified":1684351575,
+    "wof:lastmodified":1695876947,
     "wof:name":"Scharndorf",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

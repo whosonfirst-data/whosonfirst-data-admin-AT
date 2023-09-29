@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1318,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.450021,
     "lbl:longitude":9.917667,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80225",
         "eg:gisco_id":"AT_80225",
         "eurostat:nuts_2021_id":"80225",
         "gn:id":2772410,
@@ -143,6 +150,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":59589
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047068,
     "wof:geomhash":"0b7b3e6e1e3fb803994ee07c83309388",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837993,
-    "wof:lastmodified":1684351604,
+    "wof:lastmodified":1695877010,
     "wof:name":"Lingenau",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

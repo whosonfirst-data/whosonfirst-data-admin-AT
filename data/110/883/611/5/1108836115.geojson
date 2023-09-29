@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1837,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.836579,
     "lbl:longitude":14.447903,
     "lbl:max_zoom":16.0,
@@ -128,12 +134,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41512",
         "eg:gisco_id":"AT_41512",
         "eurostat:nuts_2021_id":"41512",
         "gn:id":7872145,
         "gp:id":12674330,
         "qs_pg:id":1015543
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046824,
     "wof:geomhash":"ef51ee40f4b487166cdfdf4538449842",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108836115,
-    "wof:lastmodified":1684351553,
+    "wof:lastmodified":1695876901,
     "wof:name":"Reichraming",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",

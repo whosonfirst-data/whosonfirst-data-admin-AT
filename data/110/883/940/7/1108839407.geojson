@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":517,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.315162,
     "lbl:longitude":14.330866,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62021",
         "eg:gisco_id":"AT_62021",
         "eurostat:nuts_2021_id":"62021",
         "gn:id":7873447,
         "qs_pg:id":743534
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047253,
     "wof:geomhash":"515f478d0f5cbb64b17d11337e99e529",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108839407,
-    "wof:lastmodified":1684351648,
+    "wof:lastmodified":1695877098,
     "wof:name":"Pusterwald",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

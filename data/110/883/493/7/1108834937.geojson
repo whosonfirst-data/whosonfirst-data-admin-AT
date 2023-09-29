@@ -29,6 +29,12 @@
     "geom:latitude":48.632853,
     "geom:longitude":15.685001,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.638735,
     "lbl:longitude":15.700177,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31121",
         "eg:gisco_id":"AT_31121",
         "eurostat:nuts_2021_id":"31121"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046664,
     "wof:geomhash":"46b1ce28464f7638ef414f5daa6b1d9d",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108834937,
-    "wof:lastmodified":1684351515,
+    "wof:lastmodified":1695876826,
     "wof:name":"Rosenburg - Mold",
     "wof:parent_id":102049901,
     "wof:placetype":"localadmin",

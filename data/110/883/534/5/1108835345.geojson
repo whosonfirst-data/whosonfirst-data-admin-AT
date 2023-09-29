@@ -29,6 +29,12 @@
     "geom:latitude":48.324849,
     "geom:longitude":16.215404,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.334612,
     "lbl:longitude":16.210238,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32142",
         "eg:gisco_id":"AT_32142",
         "eurostat:nuts_2021_id":"32142"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046725,
     "wof:geomhash":"dc07ef1236480c7135adc311f897caad",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835345,
-    "wof:lastmodified":1684351529,
+    "wof:lastmodified":1695876853,
     "wof:name":"St. Andr\u00e4 - W\u00f6rdern",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",

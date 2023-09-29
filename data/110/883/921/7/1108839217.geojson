@@ -29,6 +29,12 @@
     "geom:latitude":47.057268,
     "geom:longitude":15.902168,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.056735,
     "lbl:longitude":15.895796,
     "lbl:max_zoom":18.0,
@@ -96,9 +102,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62232",
         "eg:gisco_id":"AT_62232",
         "eurostat:nuts_2021_id":"62232"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047222,
     "wof:geomhash":"6ef5938a1dcacea97e83aa92b8bf06be",
@@ -112,7 +120,7 @@
         }
     ],
     "wof:id":1108839217,
-    "wof:lastmodified":1684351641,
+    "wof:lastmodified":1695877086,
     "wof:name":"Ottendorf",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

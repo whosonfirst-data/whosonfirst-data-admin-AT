@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.086525,
     "lbl:longitude":14.663271,
     "lbl:max_zoom":15.0,
@@ -92,6 +98,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30542",
         "eg:gisco_id":"AT_30542",
         "eurostat:nuts_2021_id":"30542",
         "gn:id":2760915,
@@ -102,6 +109,7 @@
         "gn:id":7872830,
         "qs_pg:id":1155381
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046667,
     "wof:geomhash":"2844a66df7374274a208c9255aa35cf7",
@@ -115,7 +123,7 @@
         }
     ],
     "wof:id":1108834959,
-    "wof:lastmodified":1684351515,
+    "wof:lastmodified":1695876828,
     "wof:name":"Wolfsbach",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

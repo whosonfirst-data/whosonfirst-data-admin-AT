@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1370,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.793613,
     "lbl:longitude":13.306469,
     "lbl:max_zoom":16.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50312",
         "eg:gisco_id":"AT_50312",
         "eurostat:nuts_2021_id":"50312",
         "gn:id":7872206,
@@ -150,6 +157,7 @@
         "gn:id":2779084,
         "qs_pg:id":1112491
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046959,
     "wof:geomhash":"849ea26583fb921c834412c6c82c7d8a",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108837135,
-    "wof:lastmodified":1684351583,
+    "wof:lastmodified":1695876965,
     "wof:name":"Fuschl am See",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

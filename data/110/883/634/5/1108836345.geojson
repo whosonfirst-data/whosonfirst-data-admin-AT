@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1869,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.735525,
     "lbl:longitude":16.174976,
     "lbl:max_zoom":16.0,
@@ -131,11 +137,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31835",
         "eg:gisco_id":"AT_31835",
         "eurostat:nuts_2021_id":"31835",
         "gn:id":7871870,
         "qs_pg:id":108411
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046859,
     "wof:geomhash":"ae7ac97b74350f1e874fddccfad34329",
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":1108836345,
-    "wof:lastmodified":1684351560,
+    "wof:lastmodified":1695876914,
     "wof:name":"Schwarzau am Steinfeld",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

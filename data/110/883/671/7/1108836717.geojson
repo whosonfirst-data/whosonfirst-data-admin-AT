@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2034,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.669077,
     "lbl:longitude":15.066896,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32525",
         "eg:gisco_id":"AT_32525",
         "eurostat:nuts_2021_id":"32525",
         "gn:id":7873089,
@@ -141,6 +148,7 @@
         "gn:id":2765383,
         "qs_pg:id":1014881
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046904,
     "wof:geomhash":"3aebbee1cd3a1d28b5a734e3e84ded78",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108836717,
-    "wof:lastmodified":1684351570,
+    "wof:lastmodified":1695876937,
     "wof:name":"Schweiggers",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",

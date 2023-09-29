@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":565,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.002839,
     "lbl:longitude":17.106318,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10704",
         "eg:gisco_id":"AT_10704",
         "eurostat:nuts_2021_id":"10704",
         "gn:id":7872714,
         "qs_pg:id":108675
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047150,
     "wof:geomhash":"2cbb40550d0f27f4e9d5dd3c5a441a39",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838643,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877051,
     "wof:name":"Deutsch Jahrndorf",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1771,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.141762,
     "lbl:longitude":13.676151,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50504",
         "eg:gisco_id":"AT_50504",
         "eurostat:nuts_2021_id":"50504",
         "gn:id":7872231,
@@ -147,6 +154,7 @@
         "gn:id":2771764,
         "qs_pg:id":247735
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046948,
     "wof:geomhash":"53fa98c92117be39e51dbd14f37d33ea",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108837051,
-    "wof:lastmodified":1684351580,
+    "wof:lastmodified":1695876958,
     "wof:name":"Mauterndorf",
     "wof:parent_id":102049721,
     "wof:placetype":"localadmin",

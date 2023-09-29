@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4731,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.29835,
     "lbl:longitude":14.375137,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41624",
         "eg:gisco_id":"AT_41624",
         "eurostat:nuts_2021_id":"41624",
         "gn:id":7872155,
@@ -140,6 +147,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":285439
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046867,
     "wof:geomhash":"8e066a2d6703d28918ab9897f8eeb66c",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108836411,
-    "wof:lastmodified":1684351562,
+    "wof:lastmodified":1695876918,
     "wof:name":"Steyregg",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":7047,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.14653,
     "lbl:longitude":15.36022,
     "lbl:max_zoom":15.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60613",
         "eg:gisco_id":"AT_60613",
         "eurostat:nuts_2021_id":"60613",
         "gn:id":7872330,
         "qs_pg:id":1155221
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047220,
     "wof:geomhash":"197e3b58a2437326804b20f4cb360f0e",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108839199,
-    "wof:lastmodified":1684351640,
+    "wof:lastmodified":1695877085,
     "wof:name":"Gratkorn",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

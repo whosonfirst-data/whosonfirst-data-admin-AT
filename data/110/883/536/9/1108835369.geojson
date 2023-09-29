@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.747073,
     "lbl:longitude":15.117311,
     "lbl:max_zoom":17.0,
@@ -110,6 +116,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30917",
         "eg:gisco_id":"AT_30917",
         "eurostat:nuts_2021_id":"30917",
         "gn:id":2776190,
@@ -120,6 +127,7 @@
         "gn:id":7871756,
         "qs_pg:id":1041992
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046729,
     "wof:geomhash":"732205375c415f3b659c9e4c94a90336",
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":1108835369,
-    "wof:lastmodified":1684351529,
+    "wof:lastmodified":1695876854,
     "wof:name":"Hirschbach",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",

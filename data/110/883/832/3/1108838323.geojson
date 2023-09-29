@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":6923,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.547245,
     "lbl:longitude":13.729891,
     "lbl:max_zoom":15.0,
@@ -149,6 +155,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20702",
         "eg:gisco_id":"AT_20702",
         "eurostat:nuts_2021_id":"20702",
         "gn:id":2782408,
@@ -159,6 +166,7 @@
         "gn:id":7872797,
         "qs_pg:id":108703
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047114,
     "wof:geomhash":"e97039a8f9a3b6e7b23b0e4d5d464c1d",
@@ -172,7 +180,7 @@
         }
     ],
     "wof:id":1108838323,
-    "wof:lastmodified":1684351615,
+    "wof:lastmodified":1695877033,
     "wof:name":"Arnoldstein",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176378,
-    "geom:area_square_m":1490626548.587461,
+    "geom:area_square_m":1490626483.401235,
     "geom:bbox":"13.942626,46.686395,14.685473,47.07722",
     "geom:latitude":46.883954,
     "geom:longitude":14.340605,
@@ -197,14 +197,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"205",
         "hasc:id":"AT.KA.SV",
         "wd:id":"Q494604"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea3590771e57471c98abd42e0b9ace98",
+    "wof:geomhash":"5b4a73b38dfb65e4fb2f96706bd9faa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -214,7 +219,7 @@
         }
     ],
     "wof:id":102049697,
-    "wof:lastmodified":1690850893,
+    "wof:lastmodified":1695886109,
     "wof:name":"Sankt Veit an der Glan",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

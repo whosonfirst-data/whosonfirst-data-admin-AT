@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1667,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.152671,
     "lbl:longitude":15.407573,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31513",
         "eg:gisco_id":"AT_31513",
         "eurostat:nuts_2021_id":"31513",
         "gn:id":7872943,
@@ -141,6 +148,7 @@
         "gn:id":2775386,
         "qs_pg:id":1002018
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046739,
     "wof:geomhash":"f1545cee3ab273dacefc16bee1438a5d",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108835445,
-    "wof:lastmodified":1684351532,
+    "wof:lastmodified":1695876859,
     "wof:name":"H\u00fcrm",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

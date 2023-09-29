@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3014,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.687089,
     "lbl:longitude":13.93829,
     "lbl:max_zoom":15.0,
@@ -122,6 +128,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41342",
         "eg:gisco_id":"AT_41342",
         "eurostat:nuts_2021_id":"41342",
         "gn:id":7872121,
@@ -131,6 +138,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":743343
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046811,
     "wof:geomhash":"1e3519d490e7636ca7b23d7bef5c7f0f",
@@ -144,7 +152,7 @@
         }
     ],
     "wof:id":1108836021,
-    "wof:lastmodified":1684351549,
+    "wof:lastmodified":1695876894,
     "wof:name":"Ulrichsberg",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

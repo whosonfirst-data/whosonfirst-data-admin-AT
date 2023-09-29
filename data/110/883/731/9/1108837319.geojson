@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1731,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.069539,
     "lbl:longitude":10.669721,
     "lbl:max_zoom":16.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70619",
         "eg:gisco_id":"AT_70619",
         "eurostat:nuts_2021_id":"70619",
         "gn:id":7873668,
         "gp:id":12675544,
         "qs_pg:id":1013511
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046988,
     "wof:geomhash":"d74e8e877983ec7d8cc1913c00d906a8",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837319,
-    "wof:lastmodified":1684351588,
+    "wof:lastmodified":1695876976,
     "wof:name":"Prutz",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",

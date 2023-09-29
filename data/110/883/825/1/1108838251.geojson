@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1870,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.796406,
     "lbl:longitude":13.44312,
     "lbl:max_zoom":16.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20602",
         "eg:gisco_id":"AT_20602",
         "eurostat:nuts_2021_id":"20602",
         "gn:id":7871650,
         "qs_pg:id":1155039
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047101,
     "wof:geomhash":"9b6d032f9d27ce86f6a36508cf78f28c",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108838251,
-    "wof:lastmodified":1684351613,
+    "wof:lastmodified":1695877028,
     "wof:name":"Baldramsdorf",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

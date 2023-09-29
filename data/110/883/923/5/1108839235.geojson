@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1290,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.986398,
     "lbl:longitude":16.051651,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62372",
         "eg:gisco_id":"AT_62372",
         "eurostat:nuts_2021_id":"62372",
         "gn:id":7872312,
@@ -144,6 +151,7 @@
         "gn:id":2762827,
         "qs_pg:id":1112504
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047224,
     "wof:geomhash":"6cc1f17207b4ab093636d80170f49ae9",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108839235,
-    "wof:lastmodified":1684351641,
+    "wof:lastmodified":1695877087,
     "wof:name":"Unterlamm",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

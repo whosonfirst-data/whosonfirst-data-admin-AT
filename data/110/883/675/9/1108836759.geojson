@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1165,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.383455,
     "lbl:longitude":15.1522,
     "lbl:max_zoom":16.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32517",
         "eg:gisco_id":"AT_32517",
         "eurostat:nuts_2021_id":"32517",
         "gn:id":7873086,
         "qs_pg:id":108815
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046910,
     "wof:geomhash":"62fcd943db301087a68e93e766ae38d2",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108836759,
-    "wof:lastmodified":1684351572,
+    "wof:lastmodified":1695876940,
     "wof:name":"Martinsberg",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5570,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.949648,
     "lbl:longitude":12.937437,
     "lbl:max_zoom":15.0,
@@ -134,11 +140,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50326",
         "eg:gisco_id":"AT_50326",
         "eurostat:nuts_2021_id":"50326",
         "gn:id":7873301,
         "qs_pg:id":381164
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046964,
     "wof:geomhash":"c609f075609ab6645f29f5c6d963ab5a",
@@ -152,7 +160,7 @@
         }
     ],
     "wof:id":1108837167,
-    "wof:lastmodified":1684351584,
+    "wof:lastmodified":1695876967,
     "wof:name":"Oberndorf bei Salzburg",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

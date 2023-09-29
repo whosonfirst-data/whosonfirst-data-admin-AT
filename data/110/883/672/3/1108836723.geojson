@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1481,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.607178,
     "lbl:longitude":14.760926,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30910",
         "eg:gisco_id":"AT_30910",
         "eurostat:nuts_2021_id":"30910",
         "gn:id":7871754,
@@ -143,6 +150,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1092267
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046905,
     "wof:geomhash":"1b90cd7c3649e5e2306279ee3a66ce8a",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108836723,
-    "wof:lastmodified":1684351570,
+    "wof:lastmodified":1695876938,
     "wof:name":"Bad Gro\u00dfpertholz",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",

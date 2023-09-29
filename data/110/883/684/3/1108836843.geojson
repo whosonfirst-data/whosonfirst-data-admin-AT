@@ -29,6 +29,12 @@
     "geom:latitude":48.433562,
     "geom:longitude":15.114456,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.43074,
     "lbl:longitude":15.109743,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32528",
         "eg:gisco_id":"AT_32528",
         "eurostat:nuts_2021_id":"32528"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046921,
     "wof:geomhash":"66a1ea24cfc1ee70509163b137857dc0",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836843,
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1695876945,
     "wof:name":"Bad Traunstein",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",

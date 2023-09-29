@@ -29,6 +29,12 @@
     "geom:latitude":47.953115,
     "geom:longitude":13.492457,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.958039,
     "lbl:longitude":13.497045,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41706",
         "eg:gisco_id":"AT_41706",
         "eurostat:nuts_2021_id":"41706"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046870,
     "wof:geomhash":"de2e6f7d8454ea968ec9ce6db8c22415",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108836431,
-    "wof:lastmodified":1684351562,
+    "wof:lastmodified":1695876920,
     "wof:name":"Berg im Attergau",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

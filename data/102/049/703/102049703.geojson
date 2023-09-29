@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238544,
-    "geom:area_square_m":2015173421.379071,
+    "geom:area_square_m":2015173357.995678,
     "geom:bbox":"12.121174,46.651366,12.965998,47.157845",
     "geom:latitude":46.906206,
     "geom:longitude":12.522569,
@@ -233,14 +233,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"707",
         "hasc:id":"AT.TR.LZ",
         "wd:id":"Q336250"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db695c04a085daca1377d11bdadb1f3d",
+    "wof:geomhash":"a5555ae77b34908d4cbdae5cad68629e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -250,7 +255,7 @@
         }
     ],
     "wof:id":102049703,
-    "wof:lastmodified":1690850883,
+    "wof:lastmodified":1695886097,
     "wof:name":"Lienz",
     "wof:parent_id":85681661,
     "wof:placetype":"county",

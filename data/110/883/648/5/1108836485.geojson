@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.034951,
     "lbl:longitude":13.749453,
     "lbl:max_zoom":16.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41730",
         "eg:gisco_id":"AT_41730",
         "eurostat:nuts_2021_id":"41730",
         "gn:id":2767807,
@@ -138,6 +145,7 @@
         "gn:id":7873263,
         "qs_pg:id":108882
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046877,
     "wof:geomhash":"6ed198a9d086adb77fef7bd01e5aecf1",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108836485,
-    "wof:lastmodified":1684351564,
+    "wof:lastmodified":1695876923,
     "wof:name":"Redlham",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

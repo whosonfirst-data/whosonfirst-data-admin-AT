@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":472,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.928465,
     "lbl:longitude":14.163723,
     "lbl:max_zoom":17.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40911",
         "eg:gisco_id":"AT_40911",
         "eurostat:nuts_2021_id":"40911",
         "gn:id":7873155,
         "qs_pg:id":108840
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046716,
     "wof:geomhash":"7fd98c6b0e81074aa0a998261bc0125f",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835265,
-    "wof:lastmodified":1684351526,
+    "wof:lastmodified":1695876849,
     "wof:name":"Oberschlierbach",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

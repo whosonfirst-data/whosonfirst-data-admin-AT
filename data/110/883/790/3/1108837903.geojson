@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":319,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.239781,
     "lbl:longitude":9.844401,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80102",
         "eg:gisco_id":"AT_80102",
         "eurostat:nuts_2021_id":"80102",
         "gn:id":7872642,
         "qs_pg:id":108543
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047056,
     "wof:geomhash":"702d94d1de161530dd16769576e12477",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108837903,
-    "wof:lastmodified":1684351602,
+    "wof:lastmodified":1695877005,
     "wof:name":"Blons",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

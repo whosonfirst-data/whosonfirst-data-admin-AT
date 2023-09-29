@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1260,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.579336,
     "lbl:longitude":9.777895,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80219",
         "eg:gisco_id":"AT_80219",
         "eurostat:nuts_2021_id":"80219",
         "gn:id":7872660,
         "qs_pg:id":108648
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047064,
     "wof:geomhash":"a4f055bf1b3225c088a6e6c5ab4836b5",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108837965,
-    "wof:lastmodified":1684351603,
+    "wof:lastmodified":1695877009,
     "wof:name":"Hohenweiler",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

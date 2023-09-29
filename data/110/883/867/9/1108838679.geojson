@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.140736,
     "lbl:longitude":16.184468,
     "lbl:max_zoom":17.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10401",
         "eg:gisco_id":"AT_10401",
         "eurostat:nuts_2021_id":"10401",
         "gn:id":2781653,
@@ -141,6 +148,7 @@
         "gn:id":7871548,
         "qs_pg:id":108269
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047154,
     "wof:geomhash":"7c13c6787e16273282e3c0b6c2592aac",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108838679,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877052,
     "wof:name":"Bocksdorf",
     "wof:parent_id":102049729,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3903,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.694031,
     "lbl:longitude":14.372302,
     "lbl:max_zoom":15.0,
@@ -131,11 +137,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20418",
         "eg:gisco_id":"AT_20418",
         "eurostat:nuts_2021_id":"20418",
         "gn:id":7871634,
         "qs_pg:id":1155016
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047093,
     "wof:geomhash":"28a1d3345c0edd2ec9a9f7461567c52b",
@@ -149,7 +157,7 @@
         }
     ],
     "wof:id":1108838181,
-    "wof:lastmodified":1684351610,
+    "wof:lastmodified":1695877022,
     "wof:name":"Maria Saal",
     "wof:parent_id":102049681,
     "wof:placetype":"localadmin",

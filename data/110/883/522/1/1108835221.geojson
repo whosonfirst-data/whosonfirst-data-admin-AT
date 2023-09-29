@@ -29,6 +29,12 @@
     "geom:latitude":48.221761,
     "geom:longitude":13.780838,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.220614,
     "lbl:longitude":13.780373,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40825",
         "eg:gisco_id":"AT_40825",
         "eurostat:nuts_2021_id":"40825"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046703,
     "wof:geomhash":"a7b17ab4b6f06ebda47331bc0168f7bd",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835221,
-    "wof:lastmodified":1684351525,
+    "wof:lastmodified":1695876846,
     "wof:name":"St. Georgen bei Grieskirchen",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

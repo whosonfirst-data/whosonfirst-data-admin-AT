@@ -29,6 +29,12 @@
     "geom:latitude":47.478877,
     "geom:longitude":15.868977,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.476603,
     "lbl:longitude":15.874162,
     "lbl:max_zoom":18.0,
@@ -66,9 +72,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62279",
         "eg:gisco_id":"AT_62279",
         "eurostat:nuts_2021_id":"62279"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047209,
     "wof:geomhash":"82cbce2e9b17827c76c76e4d31120785",
@@ -82,7 +90,7 @@
         }
     ],
     "wof:id":1108839113,
-    "wof:lastmodified":1684351637,
+    "wof:lastmodified":1695877080,
     "wof:name":"Waldbach-M\u00f6nichwald",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

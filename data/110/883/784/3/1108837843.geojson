@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":239,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.504256,
     "lbl:longitude":10.470468,
     "lbl:max_zoom":17.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70837",
         "eg:gisco_id":"AT_70837",
         "eurostat:nuts_2021_id":"70837",
         "gn:id":7873702,
         "gp:id":12675591,
         "qs_pg:id":1019970
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047049,
     "wof:geomhash":"d9bdd23a0f459ec4f7203dd94876c232",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837843,
-    "wof:lastmodified":1684351600,
+    "wof:lastmodified":1695877002,
     "wof:name":"Z\u00f6blen",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

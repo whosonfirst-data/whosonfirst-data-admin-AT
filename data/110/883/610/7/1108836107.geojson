@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1348,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.935929,
     "lbl:longitude":14.507101,
     "lbl:max_zoom":16.0,
@@ -119,12 +125,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41508",
         "eg:gisco_id":"AT_41508",
         "eurostat:nuts_2021_id":"41508",
         "gn:id":7872143,
         "gp:id":12674628,
         "qs_pg:id":1101838
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046822,
     "wof:geomhash":"4bf5d109e4e389a3af8bf605babf0a24",
@@ -138,7 +146,7 @@
         }
     ],
     "wof:id":1108836107,
-    "wof:lastmodified":1684351553,
+    "wof:lastmodified":1695876900,
     "wof:name":"Laussa",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",

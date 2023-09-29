@@ -29,6 +29,12 @@
     "geom:latitude":47.347448,
     "geom:longitude":9.949843,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.348186,
     "lbl:longitude":9.950895,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80232",
         "eg:gisco_id":"AT_80232",
         "eurostat:nuts_2021_id":"80232"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047073,
     "wof:geomhash":"88794433fa0f027de467990927782126",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108838037,
-    "wof:lastmodified":1684351605,
+    "wof:lastmodified":1695877012,
     "wof:name":"Schnepfau",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4152,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.332907,
     "lbl:longitude":16.366021,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31201",
         "eg:gisco_id":"AT_31201",
         "eurostat:nuts_2021_id":"31201",
         "gn:id":7871785,
@@ -147,6 +154,7 @@
         "gn:id":2781742,
         "qs_pg:id":1101784
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046932,
     "wof:geomhash":"a0abfa295291540ff010952e5184d311",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108836939,
-    "wof:lastmodified":1684351576,
+    "wof:lastmodified":1695876951,
     "wof:name":"Bisamberg",
     "wof:parent_id":102049887,
     "wof:placetype":"localadmin",

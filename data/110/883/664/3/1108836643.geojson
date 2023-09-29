@@ -29,6 +29,12 @@
     "geom:latitude":47.676565,
     "geom:longitude":16.025268,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.682787,
     "lbl:longitude":16.028303,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31811",
         "eg:gisco_id":"AT_31811",
         "eurostat:nuts_2021_id":"31811"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046895,
     "wof:geomhash":"433e0eeda9c40dc4b10b9dcc3018e6af",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836643,
-    "wof:lastmodified":1684351568,
+    "wof:lastmodified":1695876934,
     "wof:name":"Grafenbach - St. Valentin",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

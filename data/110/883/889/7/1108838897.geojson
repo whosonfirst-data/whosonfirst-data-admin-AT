@@ -29,6 +29,12 @@
     "geom:latitude":47.335096,
     "geom:longitude":13.690759,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.337111,
     "lbl:longitude":13.669823,
     "lbl:max_zoom":18.0,
@@ -144,9 +150,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61265",
         "eg:gisco_id":"AT_61265",
         "eurostat:nuts_2021_id":"61265"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047181,
     "wof:geomhash":"9cdfc9115697c5fb8cc157cfa6cfc64f",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108838897,
-    "wof:lastmodified":1684351631,
+    "wof:lastmodified":1695877066,
     "wof:name":"Schladming",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

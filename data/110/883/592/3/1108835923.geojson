@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2504,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.314283,
     "lbl:longitude":15.180911,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31534",
         "eg:gisco_id":"AT_31534",
         "eurostat:nuts_2021_id":"31534",
         "gn:id":7871824,
         "qs_pg:id":904278
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046797,
     "wof:geomhash":"45bd2caad59369f71618f9816fc39442",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835923,
-    "wof:lastmodified":1684351546,
+    "wof:lastmodified":1695876887,
     "wof:name":"P\u00f6ggstall",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

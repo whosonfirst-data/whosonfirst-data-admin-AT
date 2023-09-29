@@ -29,6 +29,12 @@
     "geom:latitude":48.101172,
     "geom:longitude":13.145932,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.101259,
     "lbl:longitude":13.147928,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40421",
         "eg:gisco_id":"AT_40421",
         "eurostat:nuts_2021_id":"40421"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046642,
     "wof:geomhash":"b4e3334a59a81f019440b20ab5d31923",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108834753,
-    "wof:lastmodified":1684351509,
+    "wof:lastmodified":1695876815,
     "wof:name":"Mattighofen",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

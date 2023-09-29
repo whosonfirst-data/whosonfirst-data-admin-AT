@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":11190,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.9678,
     "lbl:longitude":16.165611,
     "lbl:max_zoom":15.0,
@@ -158,6 +164,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30603",
         "eg:gisco_id":"AT_30603",
         "eurostat:nuts_2021_id":"30603",
         "gn:id":7871703,
@@ -168,6 +175,7 @@
         "gn:id":2782043,
         "qs_pg:id":956000
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046843,
     "wof:geomhash":"353ed0359f0477016030c6ae449e0549",
@@ -181,7 +189,7 @@
         }
     ],
     "wof:id":1108836281,
-    "wof:lastmodified":1684351558,
+    "wof:lastmodified":1695876910,
     "wof:name":"Bad V\u00f6slau",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

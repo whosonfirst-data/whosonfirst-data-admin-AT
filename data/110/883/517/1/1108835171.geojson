@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003443,
-    "geom:area_square_m":28308348.204394,
+    "geom:area_square_m":28308348.204388,
     "geom:bbox":"13.7097372062,48.2830506784,13.8098576816,48.360454264",
     "geom:latitude":48.319009,
     "geom:longitude":13.765492,
@@ -20,6 +20,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2305,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.313989,
     "lbl:longitude":13.770394,
     "lbl:max_zoom":15.0,
@@ -100,12 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40803",
         "gn:id":7873141,
         "qs_pg:id":108834
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046696,
-    "wof:geomhash":"2ab2e68509e5fc6ec835395043c07415",
+    "wof:geomhash":"65f5b5733a4a99b90c2f4231e04f3b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,7 +124,7 @@
         }
     ],
     "wof:id":1108835171,
-    "wof:lastmodified":1566598378,
+    "wof:lastmodified":1695876809,
     "wof:name":"Bruck-Waasen",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

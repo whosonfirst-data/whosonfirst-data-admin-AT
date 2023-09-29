@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1027,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.042682,
     "lbl:longitude":13.093635,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40417",
         "eg:gisco_id":"AT_40417",
         "eurostat:nuts_2021_id":"40417",
         "gn:id":7873099,
         "qs_pg:id":108826
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046641,
     "wof:geomhash":"54a840a4f4e257c4ad693539157895b7",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108834743,
-    "wof:lastmodified":1684351509,
+    "wof:lastmodified":1695876814,
     "wof:name":"Kirchberg bei Mattighofen",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

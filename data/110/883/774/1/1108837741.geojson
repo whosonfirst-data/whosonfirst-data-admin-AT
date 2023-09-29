@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1287,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.467355,
     "lbl:longitude":10.667287,
     "lbl:max_zoom":16.0,
@@ -101,12 +107,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70816",
         "eg:gisco_id":"AT_70816",
         "eurostat:nuts_2021_id":"70816",
         "gn:id":7873687,
         "gp:id":12675497,
         "qs_pg:id":1059571
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047038,
     "wof:geomhash":"4505d3127bc4c357ff6f4cdb6b12ba6d",
@@ -120,7 +128,7 @@
         }
     ],
     "wof:id":1108837741,
-    "wof:lastmodified":1684351598,
+    "wof:lastmodified":1695876997,
     "wof:name":"H\u00f6fen",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.492149,
     "geom:longitude":9.646478,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.490445,
     "lbl:longitude":9.648801,
     "lbl:max_zoom":18.0,
@@ -114,9 +120,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80213",
         "eg:gisco_id":"AT_80213",
         "eurostat:nuts_2021_id":"80213"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047062,
     "wof:geomhash":"1cf8abe503abacce2b284bd15c259c9f",
@@ -130,7 +138,7 @@
         }
     ],
     "wof:id":1108837945,
-    "wof:lastmodified":1684351603,
+    "wof:lastmodified":1695877008,
     "wof:name":"Fu\u00dfach",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

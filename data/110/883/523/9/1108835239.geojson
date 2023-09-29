@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1621,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.179638,
     "lbl:longitude":13.692473,
     "lbl:max_zoom":16.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40833",
         "eg:gisco_id":"AT_40833",
         "eurostat:nuts_2021_id":"40833",
         "gn:id":7873153,
         "qs_pg:id":1042199
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046713,
     "wof:geomhash":"6ee1076ad2e652400072a24aca593726",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108835239,
-    "wof:lastmodified":1684351525,
+    "wof:lastmodified":1695876847,
     "wof:name":"Weibern",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

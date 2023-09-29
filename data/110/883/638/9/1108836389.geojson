@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2506,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.364656,
     "lbl:longitude":14.261486,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41614",
         "eg:gisco_id":"AT_41614",
         "eurostat:nuts_2021_id":"41614",
         "gn:id":7872152,
@@ -152,6 +159,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1109215
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046865,
     "wof:geomhash":"f37841a15e8754d512ce989fc20fc8ed",
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1108836389,
-    "wof:lastmodified":1684351561,
+    "wof:lastmodified":1695876917,
     "wof:name":"Lichtenberg",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",

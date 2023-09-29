@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2271,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.060775,
     "lbl:longitude":13.953232,
     "lbl:max_zoom":15.0,
@@ -117,12 +123,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41821",
         "eg:gisco_id":"AT_41821",
         "eurostat:nuts_2021_id":"41821",
         "gn:id":7872193,
         "gp:id":12674360,
         "qs_pg:id":946587
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046888,
     "wof:geomhash":"2f280cc5ca0a94d7f76aa688a0e6330f",
@@ -136,7 +144,7 @@
         }
     ],
     "wof:id":1108836581,
-    "wof:lastmodified":1684351567,
+    "wof:lastmodified":1695876930,
     "wof:name":"Steinerkirchen an der Traun",
     "wof:parent_id":102049831,
     "wof:placetype":"localadmin",

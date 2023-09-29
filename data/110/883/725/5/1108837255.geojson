@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":9875,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.319367,
     "lbl:longitude":12.795499,
     "lbl:max_zoom":15.0,
@@ -179,12 +185,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50628",
         "eg:gisco_id":"AT_50628",
         "eurostat:nuts_2021_id":"50628",
         "gn:id":7873334,
         "gp:id":12674719,
         "qs_pg:id":190121
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046975,
     "wof:geomhash":"5554db350b2aaeff9888478f46cfd978",
@@ -198,7 +206,7 @@
         }
     ],
     "wof:id":1108837255,
-    "wof:lastmodified":1684351587,
+    "wof:lastmodified":1695876973,
     "wof:name":"Zell am See",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

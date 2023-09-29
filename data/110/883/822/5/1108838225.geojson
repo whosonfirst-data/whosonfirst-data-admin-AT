@@ -29,6 +29,12 @@
     "geom:latitude":46.859614,
     "geom:longitude":14.582514,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.862769,
     "lbl:longitude":14.577379,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20513",
         "eg:gisco_id":"AT_20513",
         "eurostat:nuts_2021_id":"20513"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047098,
     "wof:geomhash":"0e76fdedcea1b5fbe1cdca0ecd4f00ae",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108838225,
-    "wof:lastmodified":1684351612,
+    "wof:lastmodified":1695877025,
     "wof:name":"Klein Sankt Paul",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",

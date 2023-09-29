@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122805,
-    "geom:area_square_m":1011866649.658025,
+    "geom:area_square_m":1011866603.569378,
     "geom:bbox":"14.943586,48.006806,15.531803,48.378512",
     "geom:latitude":48.213585,
     "geom:longitude":15.226933,
@@ -214,14 +214,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"315",
         "hasc:id":"AT.NO.ME",
         "wd:id":"Q489806"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"469af62e6c5daf6d1899c9eb278e3ddd",
+    "wof:geomhash":"807d701c48e29ea1d84fa7348b5cf21d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +236,7 @@
         }
     ],
     "wof:id":102049855,
-    "wof:lastmodified":1690850896,
+    "wof:lastmodified":1695886112,
     "wof:name":"Melk",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

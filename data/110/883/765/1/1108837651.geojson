@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.503899,
     "lbl:longitude":11.783238,
     "lbl:max_zoom":17.0,
@@ -140,12 +146,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70929",
         "eg:gisco_id":"AT_70929",
         "eurostat:nuts_2021_id":"70929",
         "gn:id":2764507,
         "gp:id":12675490,
         "qs_pg:id":1002816
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047028,
     "wof:geomhash":"1b98b5a27b6ec7711aae72089949c601",
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1108837651,
-    "wof:lastmodified":1684351596,
+    "wof:lastmodified":1695876993,
     "wof:name":"Steinberg am Rofan",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",

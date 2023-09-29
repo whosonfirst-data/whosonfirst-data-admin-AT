@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1126,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.148203,
     "lbl:longitude":16.798519,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30813",
         "eg:gisco_id":"AT_30813",
         "eurostat:nuts_2021_id":"30813",
         "gn:id":7871732,
@@ -144,6 +151,7 @@
         "gn:id":2780490,
         "qs_pg:id":1292621
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046781,
     "wof:geomhash":"c6a5a58fe571bb179d289d269f69567a",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835795,
-    "wof:lastmodified":1684351543,
+    "wof:lastmodified":1695876880,
     "wof:name":"Eckartsau",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

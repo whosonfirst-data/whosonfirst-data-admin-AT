@@ -29,6 +29,12 @@
     "geom:latitude":47.388928,
     "geom:longitude":15.969225,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.389558,
     "lbl:longitude":15.982056,
     "lbl:max_zoom":18.0,
@@ -96,9 +102,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62277",
         "eg:gisco_id":"AT_62277",
         "eurostat:nuts_2021_id":"62277"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047255,
     "wof:geomhash":"24ab497f20a8061ae57a1057ad8c1756",
@@ -112,7 +120,7 @@
         }
     ],
     "wof:id":1108839427,
-    "wof:lastmodified":1684351648,
+    "wof:lastmodified":1695877099,
     "wof:name":"Rohrbach",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

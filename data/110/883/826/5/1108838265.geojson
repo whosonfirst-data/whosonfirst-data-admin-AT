@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.725752,
     "lbl:longitude":13.1897,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20609",
         "eg:gisco_id":"AT_20609",
         "eurostat:nuts_2021_id":"20609",
         "gn:id":2778048,
@@ -141,6 +148,7 @@
         "gn:id":7871653,
         "qs_pg:id":108310
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047102,
     "wof:geomhash":"1a7e114c2db1d72a99cc5f4cb5eb4dc9",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108838265,
-    "wof:lastmodified":1684351613,
+    "wof:lastmodified":1695877028,
     "wof:name":"Greifenburg",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

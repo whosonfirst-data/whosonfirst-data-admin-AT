@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3730,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.75704,
     "lbl:longitude":13.389283,
     "lbl:max_zoom":15.0,
@@ -62,11 +68,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50330",
         "eg:gisco_id":"AT_50330",
         "eurostat:nuts_2021_id":"50330",
         "gn:id":7872214,
         "qs_pg:id":108532
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046965,
     "wof:geomhash":"d52ae4ece517f5c7545f4a401f7bbca2",
@@ -80,7 +88,7 @@
         }
     ],
     "wof:id":1108837175,
-    "wof:lastmodified":1684351584,
+    "wof:lastmodified":1695876968,
     "wof:name":"Sankt Gilgen",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

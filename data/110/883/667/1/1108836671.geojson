@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1836,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.144592,
     "lbl:longitude":15.065122,
     "lbl:max_zoom":16.0,
@@ -113,11 +119,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31527",
         "eg:gisco_id":"AT_31527",
         "eurostat:nuts_2021_id":"31527",
         "gn:id":7871822,
         "qs_pg:id":904277
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046899,
     "wof:geomhash":"dc3da53601a80600c185eb1470a7edea",
@@ -131,7 +139,7 @@
         }
     ],
     "wof:id":1108836671,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876935,
     "wof:name":"Neumarkt an der Ybbs",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

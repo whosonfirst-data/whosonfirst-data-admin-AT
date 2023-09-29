@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025142,
-    "geom:area_square_m":207679793.92476,
+    "geom:area_square_m":207679631.577572,
     "geom:bbox":"16.375301,47.987517,16.669691,48.158928",
     "geom:latitude":48.085906,
     "geom:longitude":16.502232,
@@ -23,7 +23,7 @@
     "mps:latitude":48.081291,
     "mps:longitude":16.47749,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Beziak Wean-Umgebung"
@@ -134,13 +134,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"324",
         "wd:id":"Q521869"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc5256aa638a62a411e6317299865b13",
+    "wof:geomhash":"200b2c2385a9ebc623339e0b5cdc74d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":102049843,
-    "wof:lastmodified":1690850870,
+    "wof:lastmodified":1695887500,
     "wof:name":"Wien-Umgebung",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

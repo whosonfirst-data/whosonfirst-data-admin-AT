@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3253,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.865344,
     "lbl:longitude":10.986246,
     "lbl:max_zoom":15.0,
@@ -164,12 +170,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70220",
         "eg:gisco_id":"AT_70220",
         "eurostat:nuts_2021_id":"70220",
         "gn:id":7872529,
         "gp:id":12675344,
         "qs_pg:id":1292991
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047001,
     "wof:geomhash":"f6b47dd98042df7de39b317a73fdcc43",
@@ -183,7 +191,7 @@
         }
     ],
     "wof:id":1108837447,
-    "wof:lastmodified":1684351591,
+    "wof:lastmodified":1695876983,
     "wof:name":"S\u00f6lden",
     "wof:parent_id":102049727,
     "wof:placetype":"localadmin",

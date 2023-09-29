@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1177,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.565242,
     "lbl:longitude":16.34226,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10812",
         "eg:gisco_id":"AT_10812",
         "eurostat:nuts_2021_id":"10812",
         "gn:id":7872729,
         "qs_pg:id":743419
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047140,
     "wof:geomhash":"a4dbae14bd3add5813960d9730be0245",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838561,
-    "wof:lastmodified":1684351622,
+    "wof:lastmodified":1695877046,
     "wof:name":"Markt Sankt Martin",
     "wof:parent_id":102049775,
     "wof:placetype":"localadmin",

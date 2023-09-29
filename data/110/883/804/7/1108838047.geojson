@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":3506,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.071007,
     "lbl:longitude":9.946887,
     "lbl:max_zoom":15.0,
@@ -146,6 +152,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80122",
         "eg:gisco_id":"AT_80122",
         "eurostat:nuts_2021_id":"80122",
         "gn:id":2765581,
@@ -156,6 +163,7 @@
         "gn:id":7873725,
         "qs_pg:id":1155539
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047074,
     "wof:geomhash":"cf379aa21af87f178be9962070132afb",
@@ -169,7 +177,7 @@
         }
     ],
     "wof:id":1108838047,
-    "wof:lastmodified":1684351605,
+    "wof:lastmodified":1695877013,
     "wof:name":"Schruns",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

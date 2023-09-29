@@ -29,6 +29,12 @@
     "geom:latitude":48.253661,
     "geom:longitude":13.801987,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.252951,
     "lbl:longitude":13.801374,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40830",
         "eg:gisco_id":"AT_40830",
         "eurostat:nuts_2021_id":"40830"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046712,
     "wof:geomhash":"82ed72cd051206ec350e7a6913abe1d0",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108835231,
-    "wof:lastmodified":1684351525,
+    "wof:lastmodified":1695876847,
     "wof:name":"Tollet",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

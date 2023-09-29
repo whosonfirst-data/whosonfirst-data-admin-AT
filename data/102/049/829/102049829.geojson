@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09086,
-    "geom:area_square_m":751930519.110338,
+    "geom:area_square_m":751930665.06404,
     "geom:bbox":"15.866161,47.875101,16.560314,48.145712",
     "geom:latitude":47.988896,
     "geom:longitude":16.167209,
@@ -235,14 +235,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"306",
         "hasc:id":"AT.NO.BN",
         "wd:id":"Q486450"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57acb339e43afef79602ff6c7a563972",
+    "wof:geomhash":"e2e4b618464992f1b24afa1c3780d573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -252,7 +257,7 @@
         }
     ],
     "wof:id":102049829,
-    "wof:lastmodified":1690850866,
+    "wof:lastmodified":1695886077,
     "wof:name":"Baden",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

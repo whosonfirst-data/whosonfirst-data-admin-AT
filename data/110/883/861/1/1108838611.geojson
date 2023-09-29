@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4240,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.960939,
     "lbl:longitude":16.140142,
     "lbl:max_zoom":15.0,
@@ -143,12 +149,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10504",
         "eg:gisco_id":"AT_10504",
         "eurostat:nuts_2021_id":"10504",
         "gn:id":7871566,
         "gp:id":12673429,
         "qs_pg:id":1195511
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047146,
     "wof:geomhash":"b52e2c5a4e645aedbdaa1a05f142739b",
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1108838611,
-    "wof:lastmodified":1684351623,
+    "wof:lastmodified":1695877049,
     "wof:name":"Jennersdorf",
     "wof:parent_id":102049715,
     "wof:placetype":"localadmin",

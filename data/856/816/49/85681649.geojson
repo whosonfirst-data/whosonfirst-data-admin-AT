@@ -481,22 +481,28 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"8",
         "digitalenvoy:region_code":11577,
         "eurostat:nuts_2021_id":"AT34",
         "fips:code":"AU08",
         "gn:id":2762300,
         "gp:id":2344715,
         "hasc:id":"AT.VO",
+        "iso:code":"AT-8",
         "iso:id":"AT-8",
         "unlc:id":"AT-8",
         "wd:id":"Q38981",
         "wk:page":"Vorarlberg"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b82ee27345e30a28ece0764b663b5f66",
+    "wof:geomhash":"e16301d3fe3d24ab7862b4d66d94e2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -514,7 +520,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1690850920,
+    "wof:lastmodified":1695885145,
     "wof:name":"Vorarlberg",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

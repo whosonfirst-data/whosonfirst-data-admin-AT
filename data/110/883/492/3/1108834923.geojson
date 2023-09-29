@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.712688,
     "lbl:longitude":15.790489,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31829",
         "eg:gisco_id":"AT_31829",
         "eurostat:nuts_2021_id":"31829",
         "gn:id":2767775,
@@ -153,6 +160,7 @@
         "gn:id":2767777,
         "qs_pg:id":529091
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046663,
     "wof:geomhash":"970cccac8613c67c12d5d309ce8b6230",
@@ -166,7 +174,7 @@
         }
     ],
     "wof:id":1108834923,
-    "wof:lastmodified":1684351514,
+    "wof:lastmodified":1695876825,
     "wof:name":"Reichenau an der Rax",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

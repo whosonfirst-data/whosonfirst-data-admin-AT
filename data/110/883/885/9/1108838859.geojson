@@ -29,6 +29,12 @@
     "geom:latitude":47.313114,
     "geom:longitude":15.45062,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.308175,
     "lbl:longitude":15.449506,
     "lbl:max_zoom":18.0,
@@ -63,9 +69,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61758",
         "eg:gisco_id":"AT_61758",
         "eurostat:nuts_2021_id":"61758"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047176,
     "wof:geomhash":"1d89bc6fcfd8b7ac8d0bd37aa74ebe49",
@@ -79,7 +87,7 @@
         }
     ],
     "wof:id":1108838859,
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1695877064,
     "wof:name":"Fladnitz",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

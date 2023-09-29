@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2417,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.891965,
     "lbl:longitude":15.510401,
     "lbl:max_zoom":15.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61059",
         "eg:gisco_id":"AT_61059",
         "eurostat:nuts_2021_id":"61059",
         "gn:id":7873479,
         "gp:id":12674807,
         "qs_pg:id":1120136
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047191,
     "wof:geomhash":"0ab013cbc669f2e93669e61a0a6fb8a6",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108838975,
-    "wof:lastmodified":1684351633,
+    "wof:lastmodified":1695877071,
     "wof:name":"Wildon",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

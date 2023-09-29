@@ -12,7 +12,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002851,
-    "geom:area_square_m":24167888.234632,
+    "geom:area_square_m":24167888.234627,
     "geom:bbox":"15.6499879852,46.6958044376,15.7590225034,46.7562725549",
     "geom:latitude":46.717501,
     "geom:longitude":15.694767,
@@ -20,6 +20,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1689,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.712052,
     "lbl:longitude":15.699288,
     "lbl:max_zoom":16.0,
@@ -106,12 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62347",
         "gn:id":7872488,
         "qs_pg:id":1155241
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047244,
-    "wof:geomhash":"78ec32640196d0a80e3f2b2f8142cb44",
+    "wof:geomhash":"c75479b500d56b9f3a06b6f6fc7b4cef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,7 +130,7 @@
         }
     ],
     "wof:id":1108839341,
-    "wof:lastmodified":1566598534,
+    "wof:lastmodified":1695876810,
     "wof:name":"Murfeld",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":398,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.151538,
     "lbl:longitude":16.661721,
     "lbl:max_zoom":17.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30834",
         "eg:gisco_id":"AT_30834",
         "eurostat:nuts_2021_id":"30834",
         "gn:id":7871738,
         "qs_pg:id":108346
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046919,
     "wof:geomhash":"cb749dd55aceb57fc5cc285b02f52a17",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108836829,
-    "wof:lastmodified":1684351573,
+    "wof:lastmodified":1695876945,
     "wof:name":"Mannsdorf an der Donau",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

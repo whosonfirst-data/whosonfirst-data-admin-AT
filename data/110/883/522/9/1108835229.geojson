@@ -29,6 +29,12 @@
     "geom:latitude":48.252445,
     "geom:longitude":13.736263,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.24865,
     "lbl:longitude":13.733063,
     "lbl:max_zoom":18.0,
@@ -96,9 +102,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40829",
         "eg:gisco_id":"AT_40829",
         "eurostat:nuts_2021_id":"40829"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046704,
     "wof:geomhash":"82f51c128098b86ab4b3eb007f03476a",
@@ -112,7 +120,7 @@
         }
     ],
     "wof:id":1108835229,
-    "wof:lastmodified":1684351525,
+    "wof:lastmodified":1695876846,
     "wof:name":"Taufkirchen an der Trattnach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.051763,
     "geom:longitude":15.630949,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.054517,
     "lbl:longitude":15.640114,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60666",
         "eg:gisco_id":"AT_60666",
         "eurostat:nuts_2021_id":"60666"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047217,
     "wof:geomhash":"26eb90af754c85ad1ad2ecd94244175a",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839173,
-    "wof:lastmodified":1684351639,
+    "wof:lastmodified":1695877083,
     "wof:name":"Nestelbach",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

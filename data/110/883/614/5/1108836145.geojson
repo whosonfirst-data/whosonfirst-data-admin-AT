@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":8032,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.322334,
     "lbl:longitude":14.430326,
     "lbl:max_zoom":15.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41605",
         "eg:gisco_id":"AT_41605",
         "eurostat:nuts_2021_id":"41605",
         "gn:id":7873234,
@@ -138,6 +145,7 @@
         "gn:id":2780057,
         "qs_pg:id":1037808
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046828,
     "wof:geomhash":"101d5aa4c67ecc63ba515f174dec488e",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108836145,
-    "wof:lastmodified":1684351554,
+    "wof:lastmodified":1695876903,
     "wof:name":"Engerwitzdorf",
     "wof:parent_id":102049881,
     "wof:placetype":"localadmin",

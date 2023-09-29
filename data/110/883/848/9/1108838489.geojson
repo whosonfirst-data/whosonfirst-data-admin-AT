@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6135,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.946762,
     "lbl:longitude":16.832706,
     "lbl:max_zoom":15.0,
@@ -161,12 +167,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10713",
         "eg:gisco_id":"AT_10713",
         "eurostat:nuts_2021_id":"10713",
         "gn:id":7872718,
         "gp:id":12673475,
         "qs_pg:id":190074
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047133,
     "wof:geomhash":"38c425056b4d84eff7eda5cea2e4a9cf",
@@ -180,7 +188,7 @@
         }
     ],
     "wof:id":1108838489,
-    "wof:lastmodified":1684351620,
+    "wof:lastmodified":1695877043,
     "wof:name":"Neusiedl am See",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

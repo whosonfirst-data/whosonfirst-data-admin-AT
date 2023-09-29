@@ -29,6 +29,12 @@
     "geom:latitude":48.6236,
     "geom:longitude":15.870521,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.622125,
     "lbl:longitude":15.870484,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31130",
         "eg:gisco_id":"AT_31130",
         "eurostat:nuts_2021_id":"31130"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046744,
     "wof:geomhash":"e186c974db41631afa5b06097afca49c",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835489,
-    "wof:lastmodified":1684351533,
+    "wof:lastmodified":1695876861,
     "wof:name":"Straning - Grafenberg",
     "wof:parent_id":102049901,
     "wof:placetype":"localadmin",

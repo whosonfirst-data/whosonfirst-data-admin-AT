@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5383,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.351578,
     "lbl:longitude":12.125025,
     "lbl:max_zoom":15.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70406",
         "eg:gisco_id":"AT_70406",
         "eurostat:nuts_2021_id":"70406",
         "gn:id":7873635,
         "qs_pg:id":108994
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046990,
     "wof:geomhash":"becdd1072dc5b76ef6b35a21e0416c16",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108837343,
-    "wof:lastmodified":1684351589,
+    "wof:lastmodified":1695876977,
     "wof:name":"Hopfgarten im Brixental",
     "wof:parent_id":102049763,
     "wof:placetype":"localadmin",

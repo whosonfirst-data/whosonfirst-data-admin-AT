@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1391,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.352072,
     "lbl:longitude":11.889527,
     "lbl:max_zoom":16.0,
@@ -140,12 +146,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70915",
         "eg:gisco_id":"AT_70915",
         "eurostat:nuts_2021_id":"70915",
         "gn:id":7873706,
         "gp:id":12675484,
         "qs_pg:id":242291
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047053,
     "wof:geomhash":"e5602961567c576aabf4594eda035f0d",
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1108837873,
-    "wof:lastmodified":1684351601,
+    "wof:lastmodified":1695877004,
     "wof:name":"Hart im Zillertal",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",

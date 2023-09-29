@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06584,
-    "geom:area_square_m":557424016.453376,
+    "geom:area_square_m":557423929.807469,
     "geom:bbox":"13.787979,46.646706,14.262454,46.945616",
     "geom:latitude":46.788464,
     "geom:longitude":14.006199,
@@ -197,14 +197,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"210",
         "hasc:id":"AT.KA.FE",
         "wd:id":"Q507533"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"66a395ca6e214022b0fefff049a5c655",
+    "wof:geomhash":"9a8ca057d62fbbaf0e9feb79f84ba824",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -214,7 +219,7 @@
         }
     ],
     "wof:id":102049689,
-    "wof:lastmodified":1690850868,
+    "wof:lastmodified":1695886082,
     "wof:name":"Feldkirchen",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

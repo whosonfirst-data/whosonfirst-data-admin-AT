@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1527,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.957884,
     "lbl:longitude":14.987287,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32004",
         "eg:gisco_id":"AT_32004",
         "eurostat:nuts_2021_id":"32004",
         "gn:id":7873029,
         "qs_pg:id":108796
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046919,
     "wof:geomhash":"ef1b50dcdbccb660b00a6f3e0173783a",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836835,
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1695876945,
     "wof:name":"Gresten-Land",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",

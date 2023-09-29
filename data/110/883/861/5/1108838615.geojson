@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1716,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.715784,
     "lbl:longitude":16.899943,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10716",
         "eg:gisco_id":"AT_10716",
         "eurostat:nuts_2021_id":"10716",
         "gn:id":7871592,
@@ -144,6 +151,7 @@
         "gn:id":2769258,
         "qs_pg:id":535457
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047146,
     "wof:geomhash":"70ca79c80a1a7b592c40377f5c894132",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838615,
-    "wof:lastmodified":1684351623,
+    "wof:lastmodified":1695877049,
     "wof:name":"Pamhagen",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.019281,
     "geom:longitude":13.93649,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.022199,
     "lbl:longitude":13.948816,
     "lbl:max_zoom":18.0,
@@ -66,9 +72,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61445",
         "eg:gisco_id":"AT_61445",
         "eurostat:nuts_2021_id":"61445"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047168,
     "wof:geomhash":"8fbb23abd6408710654ac8762a8b40bc",
@@ -82,7 +90,7 @@
         }
     ],
     "wof:id":1108838787,
-    "wof:lastmodified":1684351627,
+    "wof:lastmodified":1695877059,
     "wof:name":"Stadl-Predlitz",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",

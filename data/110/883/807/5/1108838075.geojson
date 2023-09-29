@@ -30,6 +30,12 @@
     "geom:longitude":9.776678,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.224214,
     "lbl:longitude":9.778558,
     "lbl:max_zoom":18.0,
@@ -126,11 +132,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80127",
         "eg:gisco_id":"AT_80127",
         "eurostat:nuts_2021_id":"80127",
         "gp:id":12675656,
         "qs_pg:id":59588
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047080,
     "wof:geomhash":"509ec0da0a287f5c3f10fa7edfba26d2",
@@ -144,7 +152,7 @@
         }
     ],
     "wof:id":1108838075,
-    "wof:lastmodified":1684351606,
+    "wof:lastmodified":1695877014,
     "wof:name":"Th\u00fcringerberg",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

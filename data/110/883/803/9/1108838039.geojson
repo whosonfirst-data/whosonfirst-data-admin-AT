@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":732,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.213803,
     "lbl:longitude":9.733736,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80419",
         "eg:gisco_id":"AT_80419",
         "eurostat:nuts_2021_id":"80419",
         "gn:id":7873748,
@@ -144,6 +151,7 @@
         "gn:id":2765796,
         "qs_pg:id":1101937
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047073,
     "wof:geomhash":"d1fa1b2363c04f15e3e08527dd3e2d50",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838039,
-    "wof:lastmodified":1684351605,
+    "wof:lastmodified":1695877013,
     "wof:name":"Schnifis",
     "wof:parent_id":102049725,
     "wof:placetype":"localadmin",

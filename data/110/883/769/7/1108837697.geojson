@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":591,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.224881,
     "lbl:longitude":10.790756,
     "lbl:max_zoom":17.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70206",
         "eg:gisco_id":"AT_70206",
         "eurostat:nuts_2021_id":"70206",
         "gn:id":7873587,
         "gp:id":12675513,
         "qs_pg:id":959132
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047033,
     "wof:geomhash":"07e6dbb841292a132b651b9005aee229",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837697,
-    "wof:lastmodified":1684351597,
+    "wof:lastmodified":1695876995,
     "wof:name":"Karres",
     "wof:parent_id":102049727,
     "wof:placetype":"localadmin",

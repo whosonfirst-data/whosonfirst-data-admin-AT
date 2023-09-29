@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":702,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.360035,
     "lbl:longitude":13.82017,
     "lbl:max_zoom":17.0,
@@ -146,11 +152,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40810",
         "eg:gisco_id":"AT_40810",
         "eurostat:nuts_2021_id":"40810",
         "gn:id":7873145,
         "qs_pg:id":108835
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046698,
     "wof:geomhash":"6880fd7dad7ec770626249cea22135dc",
@@ -164,7 +172,7 @@
         }
     ],
     "wof:id":1108835187,
-    "wof:lastmodified":1684351524,
+    "wof:lastmodified":1695876844,
     "wof:name":"Heiligenberg",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

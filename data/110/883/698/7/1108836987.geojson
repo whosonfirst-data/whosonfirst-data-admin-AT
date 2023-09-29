@@ -29,6 +29,12 @@
     "geom:latitude":48.419614,
     "geom:longitude":15.299833,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.421053,
     "lbl:longitude":15.294044,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32515",
         "eg:gisco_id":"AT_32515",
         "eurostat:nuts_2021_id":"32515"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046938,
     "wof:geomhash":"5614cbcc70776c73f6847ad651535a9a",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836987,
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1695876953,
     "wof:name":"Kottes - Purk",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",

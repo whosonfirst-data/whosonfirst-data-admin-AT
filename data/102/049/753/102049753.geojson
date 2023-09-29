@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208876,
-    "geom:area_square_m":1751277383.115893,
+    "geom:area_square_m":1751277380.951255,
     "geom:bbox":"13.000505,47.013411,13.607907,47.55575",
     "geom:latitude":47.307934,
     "geom:longitude":13.267773,
@@ -185,15 +185,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"504",
         "gp:id":12591727,
         "hasc:id":"AT.SZ.JO",
         "wd:id":"Q251022"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2197fb3bef130249d38370ae7874b03d",
+    "wof:geomhash":"ef645ff418870dfb41f029eb202f90c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,7 +208,7 @@
         }
     ],
     "wof:id":102049753,
-    "wof:lastmodified":1690850862,
+    "wof:lastmodified":1695886072,
     "wof:name":"Sankt Johann im Pongau",
     "wof:parent_id":85681681,
     "wof:placetype":"county",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1311,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.534758,
     "lbl:longitude":15.274145,
     "lbl:max_zoom":16.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32529",
         "eg:gisco_id":"AT_32529",
         "eurostat:nuts_2021_id":"32529",
         "gn:id":7873091,
         "qs_pg:id":108819
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046776,
     "wof:geomhash":"e9b349bd2c167e356df2014f2e500e10",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108835751,
-    "wof:lastmodified":1684351541,
+    "wof:lastmodified":1695876878,
     "wof:name":"Waldhausen",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",

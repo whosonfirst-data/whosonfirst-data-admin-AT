@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.553889,
     "lbl:longitude":16.407758,
     "lbl:max_zoom":18.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31636",
         "eg:gisco_id":"AT_31636",
         "eurostat:nuts_2021_id":"31636",
         "gn:id":2770560,
         "gp:id":12674030,
         "qs_pg:id":904951
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046911,
     "wof:geomhash":"dbed0d03478b5a8a0cf8b620a19d2c89",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108836779,
-    "wof:lastmodified":1684351572,
+    "wof:lastmodified":1695876941,
     "wof:name":"Niederleis",
     "wof:parent_id":102049897,
     "wof:placetype":"localadmin",

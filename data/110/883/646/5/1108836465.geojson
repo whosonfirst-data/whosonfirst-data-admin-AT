@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1598,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.861925,
     "lbl:longitude":13.450923,
     "lbl:max_zoom":16.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41721",
         "eg:gisco_id":"AT_41721",
         "eurostat:nuts_2021_id":"41721",
         "gn:id":7872165,
@@ -138,6 +145,7 @@
         "gn:id":2769624,
         "qs_pg:id":1015547
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046874,
     "wof:geomhash":"01e8f481ba5bc766e4420cbb7afde564",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108836465,
-    "wof:lastmodified":1684351564,
+    "wof:lastmodified":1695876922,
     "wof:name":"Oberwang",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

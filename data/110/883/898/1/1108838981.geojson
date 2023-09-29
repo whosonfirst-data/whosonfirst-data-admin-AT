@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":896,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.384654,
     "lbl:longitude":13.826909,
     "lbl:max_zoom":16.0,
@@ -95,6 +101,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61254",
         "eg:gisco_id":"AT_61254",
         "eurostat:nuts_2021_id":"61254",
         "gn:id":7872433,
@@ -105,6 +112,7 @@
         "gn:id":2782915,
         "qs_pg:id":1015548
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047192,
     "wof:geomhash":"367438f33dc2bffbaf9e228ab4524743",
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1108838981,
-    "wof:lastmodified":1684351633,
+    "wof:lastmodified":1695877071,
     "wof:name":"Aich",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2354,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.248754,
     "lbl:longitude":15.643605,
     "lbl:max_zoom":15.0,
@@ -155,11 +161,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61751",
         "eg:gisco_id":"AT_61751",
         "eurostat:nuts_2021_id":"61751",
         "gn:id":7872522,
         "qs_pg:id":108639
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047184,
     "wof:geomhash":"4fe3b17268800af895d9a9a10a3f7b3d",
@@ -173,7 +181,7 @@
         }
     ],
     "wof:id":1108838917,
-    "wof:lastmodified":1684351632,
+    "wof:lastmodified":1695877068,
     "wof:name":"Thannhausen",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

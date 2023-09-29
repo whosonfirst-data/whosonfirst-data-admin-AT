@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":4013,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.740463,
     "lbl:longitude":13.066339,
     "lbl:max_zoom":15.0,
@@ -137,11 +143,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50301",
         "eg:gisco_id":"AT_50301",
         "eurostat:nuts_2021_id":"50301",
         "gn:id":7873287,
         "qs_pg:id":108890
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046955,
     "wof:geomhash":"a65471bd4f53194286a31642ed049b09",
@@ -155,7 +163,7 @@
         }
     ],
     "wof:id":1108837111,
-    "wof:lastmodified":1684351582,
+    "wof:lastmodified":1695876964,
     "wof:name":"Anif",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

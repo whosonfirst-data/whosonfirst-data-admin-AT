@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3423,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.414593,
     "lbl:longitude":9.996136,
     "lbl:max_zoom":15.0,
@@ -356,11 +362,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80211",
         "eg:gisco_id":"AT_80211",
         "eurostat:nuts_2021_id":"80211",
         "gn:id":7873730,
         "qs_pg:id":109000
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047060,
     "wof:geomhash":"a1c02a928d9d8ab1ef79a6307272433c",
@@ -374,7 +382,7 @@
         }
     ],
     "wof:id":1108837931,
-    "wof:lastmodified":1684351602,
+    "wof:lastmodified":1695877007,
     "wof:name":"Egg",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

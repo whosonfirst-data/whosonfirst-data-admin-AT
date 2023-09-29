@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1606,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.658703,
     "lbl:longitude":13.853854,
     "lbl:max_zoom":16.0,
@@ -134,11 +140,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41313",
         "eg:gisco_id":"AT_41313",
         "eurostat:nuts_2021_id":"41313",
         "gn:id":7873195,
         "qs_pg:id":904334
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046802,
     "wof:geomhash":"cdb743e886fc2ee2d7e37cc735616579",
@@ -152,7 +160,7 @@
         }
     ],
     "wof:id":1108835957,
-    "wof:lastmodified":1684351547,
+    "wof:lastmodified":1695876889,
     "wof:name":"Julbach",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

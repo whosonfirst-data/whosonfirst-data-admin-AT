@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1324,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.145251,
     "lbl:longitude":15.155625,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31531",
         "eg:gisco_id":"AT_31531",
         "eurostat:nuts_2021_id":"31531",
         "gn:id":7872949,
         "qs_pg:id":1155387
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046935,
     "wof:geomhash":"e49e888f5576d9245d1c4c1aadcf404b",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836959,
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1695876952,
     "wof:name":"Petzenkirchen",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

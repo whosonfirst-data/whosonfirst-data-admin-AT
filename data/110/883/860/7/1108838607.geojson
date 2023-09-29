@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2059,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.844479,
     "lbl:longitude":16.841505,
     "lbl:max_zoom":15.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10718",
         "eg:gisco_id":"AT_10718",
         "eurostat:nuts_2021_id":"10718",
         "gn:id":7872721,
         "qs_pg:id":1155371
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047146,
     "wof:geomhash":"db61ddbec6a014754018c3d70bf69a41",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108838607,
-    "wof:lastmodified":1684351623,
+    "wof:lastmodified":1695877048,
     "wof:name":"Podersdorf am See",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.326487,
-    "geom:area_square_m":2758495175.712748,
+    "geom:area_square_m":2758495298.659324,
     "geom:bbox":"12.656829,46.655118,13.846202,47.131296",
     "geom:latitude":46.89868,
     "geom:longitude":13.271482,
@@ -212,15 +212,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"206",
         "gp:id":12591674,
         "hasc:id":"AT.KA.SP",
         "wd:id":"Q487500"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0bf26bd4da5e736d119ee50992851bf3",
+    "wof:geomhash":"87631bdd7417a061a1a5a52f0b543b27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,7 +235,7 @@
         }
     ],
     "wof:id":102049701,
-    "wof:lastmodified":1690850861,
+    "wof:lastmodified":1695886070,
     "wof:name":"Spittal an der Drau",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

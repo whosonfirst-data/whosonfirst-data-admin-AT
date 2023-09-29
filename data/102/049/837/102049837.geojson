@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033522,
-    "geom:area_square_m":276884382.749958,
+    "geom:area_square_m":276884300.631635,
     "geom:bbox":"16.039475,48.003235,16.416902,48.17103",
     "geom:latitude":48.088598,
     "geom:longitude":16.24278,
@@ -233,14 +233,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"317",
         "hasc:id":"AT.NO.MD",
         "wd:id":"Q277965"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"676967f44fef5bedd0475fb2fcc62b27",
+    "wof:geomhash":"9ac513de048a3282ef40bfa8ae36bac5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -250,7 +255,7 @@
         }
     ],
     "wof:id":102049837,
-    "wof:lastmodified":1690850895,
+    "wof:lastmodified":1695886112,
     "wof:name":"M\u00f6dling",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

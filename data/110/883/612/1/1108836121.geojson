@@ -29,6 +29,12 @@
     "geom:latitude":47.997813,
     "geom:longitude":14.475691,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.018369,
     "lbl:longitude":14.445371,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41514",
         "eg:gisco_id":"AT_41514",
         "eurostat:nuts_2021_id":"41514"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046824,
     "wof:geomhash":"a7b0bf52656534855d50a64571aef7fc",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836121,
-    "wof:lastmodified":1684351553,
+    "wof:lastmodified":1695876901,
     "wof:name":"St. Ulrich bei Steyr",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2079,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.902807,
     "lbl:longitude":16.12796,
     "lbl:max_zoom":16.0,
@@ -107,11 +113,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10509",
         "eg:gisco_id":"AT_10509",
         "eurostat:nuts_2021_id":"10509",
         "gn:id":7872704,
         "qs_pg:id":108671
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047128,
     "wof:geomhash":"51b33dd2e91f76fc1fb972ba219f4419",
@@ -125,7 +133,7 @@
         }
     ],
     "wof:id":1108838451,
-    "wof:lastmodified":1684351619,
+    "wof:lastmodified":1695877040,
     "wof:name":"Sankt Martin an der Raab",
     "wof:parent_id":102049715,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2199,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.364598,
     "lbl:longitude":14.018511,
     "lbl:max_zoom":15.0,
@@ -119,6 +125,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40502",
         "eg:gisco_id":"AT_40502",
         "eurostat:nuts_2021_id":"40502",
         "gn:id":7873115,
@@ -128,6 +135,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1168443
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046649,
     "wof:geomhash":"73d89a58e83fe96a8e9f8da070dc6cf1",
@@ -141,7 +149,7 @@
         }
     ],
     "wof:id":1108834813,
-    "wof:lastmodified":1684351511,
+    "wof:lastmodified":1695876819,
     "wof:name":"Aschach an der Donau",
     "wof:parent_id":102049863,
     "wof:placetype":"localadmin",

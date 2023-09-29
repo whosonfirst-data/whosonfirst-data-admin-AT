@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095789,
-    "geom:area_square_m":781531735.505995,
+    "geom:area_square_m":781531790.699705,
     "geom:bbox":"15.42418,48.561223,15.94094,48.89825",
     "geom:latitude":48.713482,
     "geom:longitude":15.678442,
@@ -218,14 +218,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"311",
         "hasc:id":"AT.NO.HO",
         "wd:id":"Q659918"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"58ef3f314c9ed0f16b1164f9c2f05f3b",
+    "wof:geomhash":"f01f08af3f43891f2a4de7ea38a7749c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -235,7 +240,7 @@
         }
     ],
     "wof:id":102049901,
-    "wof:lastmodified":1690850862,
+    "wof:lastmodified":1695886071,
     "wof:name":"Horn",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

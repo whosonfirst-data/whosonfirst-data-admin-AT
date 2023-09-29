@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.428566,
     "lbl:longitude":15.790751,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62262",
         "eg:gisco_id":"AT_62262",
         "eurostat:nuts_2021_id":"62262",
         "gn:id":2761494,
         "qs_pg:id":373466
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047204,
     "wof:geomhash":"394e7e6f18bca03a45c9dd07cd2b4d33",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108839081,
-    "wof:lastmodified":1684351636,
+    "wof:lastmodified":1695877077,
     "wof:name":"Wenigzell",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

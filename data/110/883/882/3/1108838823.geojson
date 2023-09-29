@@ -29,6 +29,12 @@
     "geom:latitude":47.163895,
     "geom:longitude":15.073186,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.16933,
     "lbl:longitude":15.081361,
     "lbl:max_zoom":18.0,
@@ -57,9 +63,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61630",
         "eg:gisco_id":"AT_61630",
         "eurostat:nuts_2021_id":"61630"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047173,
     "wof:geomhash":"f7014b765c366f5e7cbb1e9781a18cf3",
@@ -73,7 +81,7 @@
         }
     ],
     "wof:id":1108838823,
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1695877062,
     "wof:name":"Kainach",
     "wof:parent_id":102049717,
     "wof:placetype":"localadmin",

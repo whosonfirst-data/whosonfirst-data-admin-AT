@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.087661,
     "lbl:longitude":15.138385,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61626",
         "eg:gisco_id":"AT_61626",
         "eurostat:nuts_2021_id":"61626",
         "gn:id":2781993,
@@ -146,6 +153,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1029103
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047245,
     "wof:geomhash":"6a792412a501c7d754ada580934c4607",
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1108839347,
-    "wof:lastmodified":1684351646,
+    "wof:lastmodified":1695877095,
     "wof:name":"B\u00e4rnbach",
     "wof:parent_id":102049717,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2800,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.304346,
     "lbl:longitude":14.497624,
     "lbl:max_zoom":15.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41106",
         "eg:gisco_id":"AT_41106",
         "eurostat:nuts_2021_id":"41106",
         "gn:id":7872065,
         "qs_pg:id":1155143
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046754,
     "wof:geomhash":"616421f3427ab89bb456f401b54da989",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835579,
-    "wof:lastmodified":1684351536,
+    "wof:lastmodified":1695876867,
     "wof:name":"Katsdorf",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",

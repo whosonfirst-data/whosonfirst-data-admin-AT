@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2821,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.889341,
     "lbl:longitude":16.324464,
     "lbl:max_zoom":15.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32304",
         "eg:gisco_id":"AT_32304",
         "eurostat:nuts_2021_id":"32304",
         "gn:id":7871927,
         "gp:id":12674074,
         "qs_pg:id":248681
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046727,
     "wof:geomhash":"e47e4228c3696a86868b0c0af2ed8bcb",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108835359,
-    "wof:lastmodified":1684351529,
+    "wof:lastmodified":1695876854,
     "wof:name":"Ebenfurth",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

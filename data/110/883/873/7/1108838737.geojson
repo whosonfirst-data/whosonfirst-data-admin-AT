@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":479,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.143791,
     "lbl:longitude":16.227838,
     "lbl:max_zoom":17.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10427",
         "eg:gisco_id":"AT_10427",
         "eurostat:nuts_2021_id":"10427",
         "gn:id":7871563,
         "qs_pg:id":743286
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047162,
     "wof:geomhash":"9ee3d5018397ca181030ddc7e2c77b87",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108838737,
-    "wof:lastmodified":1684351626,
+    "wof:lastmodified":1695877056,
     "wof:name":"Rauchwart",
     "wof:parent_id":102049729,
     "wof:placetype":"localadmin",

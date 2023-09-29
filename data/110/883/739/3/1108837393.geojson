@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5072,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.61849,
     "lbl:longitude":12.24458,
     "lbl:max_zoom":15.0,
@@ -143,12 +149,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70508",
         "eg:gisco_id":"AT_70508",
         "eurostat:nuts_2021_id":"70508",
         "gn:id":7872565,
         "gp:id":12675409,
         "qs_pg:id":50680
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046996,
     "wof:geomhash":"baad38e8a4d1e8f411fb22e7262a3102",
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1108837393,
-    "wof:lastmodified":1684351590,
+    "wof:lastmodified":1695876980,
     "wof:name":"Ebbs",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

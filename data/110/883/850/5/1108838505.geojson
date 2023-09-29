@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.831519,
     "lbl:longitude":16.92066,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10705",
         "eg:gisco_id":"AT_10705",
         "eurostat:nuts_2021_id":"10705",
         "gn:id":2779324,
@@ -147,6 +154,7 @@
         "gn:id":7871586,
         "qs_pg:id":1155015
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047134,
     "wof:geomhash":"f8e98245a79fbf794d31f275374e7672",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108838505,
-    "wof:lastmodified":1684351620,
+    "wof:lastmodified":1695877043,
     "wof:name":"Frauenkirchen",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

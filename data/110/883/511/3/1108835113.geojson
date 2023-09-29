@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3937,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.342256,
     "lbl:longitude":14.501049,
     "lbl:max_zoom":15.0,
@@ -125,6 +131,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40624",
         "eg:gisco_id":"AT_40624",
         "eurostat:nuts_2021_id":"40624",
         "gn:id":7872006,
@@ -134,6 +141,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1042024
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046689,
     "wof:geomhash":"a77ae6e4bab786e765bf04de8568e06e",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108835113,
-    "wof:lastmodified":1684351521,
+    "wof:lastmodified":1695876839,
     "wof:name":"Wartberg ob der Aist",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",

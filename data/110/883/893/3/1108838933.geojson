@@ -29,6 +29,12 @@
     "geom:latitude":47.59343,
     "geom:longitude":14.2355,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.595287,
     "lbl:longitude":14.21839,
     "lbl:max_zoom":18.0,
@@ -120,9 +126,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61259",
         "eg:gisco_id":"AT_61259",
         "eurostat:nuts_2021_id":"61259"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047187,
     "wof:geomhash":"301201203991005656a9e4d9a1521425",
@@ -136,7 +144,7 @@
         }
     ],
     "wof:id":1108838933,
-    "wof:lastmodified":1684351632,
+    "wof:lastmodified":1695877068,
     "wof:name":"Liezen",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

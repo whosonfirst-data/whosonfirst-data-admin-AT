@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":9353,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.316687,
     "lbl:longitude":16.478201,
     "lbl:max_zoom":15.0,
@@ -149,6 +155,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32404",
         "eg:gisco_id":"AT_31235",
         "eurostat:nuts_2021_id":"31235",
         "gn:id":7871946,
@@ -159,6 +166,7 @@
         "gn:id":2778690,
         "qs_pg:id":529126
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046839,
     "wof:geomhash":"07b5abee6a3e5fbbe40835e0e25b704f",
@@ -172,7 +180,7 @@
         }
     ],
     "wof:id":1108836239,
-    "wof:lastmodified":1684351557,
+    "wof:lastmodified":1695876908,
     "wof:name":"Gerasdorf bei Wien",
     "wof:parent_id":102049871,
     "wof:placetype":"localadmin",

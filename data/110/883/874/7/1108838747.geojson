@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.55926,
     "lbl:longitude":16.529071,
     "lbl:max_zoom":17.0,
@@ -113,6 +119,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10819",
         "eg:gisco_id":"AT_10819",
         "eurostat:nuts_2021_id":"10819",
         "gn:id":2768071,
@@ -123,6 +130,7 @@
         "gn:id":7872734,
         "qs_pg:id":743423
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047163,
     "wof:geomhash":"40de063d7be975cdb02d4dc168cbaf2a",
@@ -136,7 +144,7 @@
         }
     ],
     "wof:id":1108838747,
-    "wof:lastmodified":1684351626,
+    "wof:lastmodified":1695877057,
     "wof:name":"Raiding",
     "wof:parent_id":102049775,
     "wof:placetype":"localadmin",

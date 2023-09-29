@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5718,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.46853,
     "lbl:longitude":15.43754,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62141",
         "eg:gisco_id":"AT_62141",
         "eurostat:nuts_2021_id":"62141",
         "gn:id":7873515,
@@ -141,6 +148,7 @@
         "gn:id":2774437,
         "qs_pg:id":246048
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047180,
     "wof:geomhash":"19fd3d09510e541c4341dfeda0d0e650",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108838881,
-    "wof:lastmodified":1684351631,
+    "wof:lastmodified":1695877065,
     "wof:name":"Kindberg",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

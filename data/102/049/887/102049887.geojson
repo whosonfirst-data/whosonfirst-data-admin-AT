@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076216,
-    "geom:area_square_m":625227556.229904,
+    "geom:area_square_m":625227414.518905,
     "geom:bbox":"15.983089,48.281036,16.463835,48.599797",
     "geom:latitude":48.438612,
     "geom:longitude":16.254773,
@@ -200,14 +200,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"312",
         "hasc:id":"AT.NO.KO",
         "wd:id":"Q659841"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53d2a8bf19b535c58a52d0ac5bcb8336",
+    "wof:geomhash":"e07c0485d5e3cc6e62f7769f87c44425",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -217,7 +222,7 @@
         }
     ],
     "wof:id":102049887,
-    "wof:lastmodified":1690850867,
+    "wof:lastmodified":1695886081,
     "wof:name":"Korneuburg",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

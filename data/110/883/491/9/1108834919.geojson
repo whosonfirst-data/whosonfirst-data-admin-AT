@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2219,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.475243,
     "lbl:longitude":16.829396,
     "lbl:max_zoom":15.0,
@@ -80,11 +86,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30811",
         "eg:gisco_id":"AT_30811",
         "eurostat:nuts_2021_id":"30811",
         "gn:id":7871730,
         "qs_pg:id":904270
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046662,
     "wof:geomhash":"433a9a1b32baed6f53c29d5ca319d419",
@@ -98,7 +106,7 @@
         }
     ],
     "wof:id":1108834919,
-    "wof:lastmodified":1684351514,
+    "wof:lastmodified":1695876825,
     "wof:name":"D\u00fcrnkrut",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

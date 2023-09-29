@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.396381,
-    "geom:area_square_m":3309954844.497154,
+    "geom:area_square_m":3309954549.433466,
     "geom:bbox":"13.563344,47.248701,15.139082,47.765802",
     "geom:latitude":47.521037,
     "geom:longitude":14.213237,
@@ -188,15 +188,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"612",
         "gp:id":12591723,
         "hasc:id":"AT.ST.LI",
         "wd:id":"Q698520"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb27fbcecaf8a7ac6ccb86fa3531c853",
+    "wof:geomhash":"e48b39bcf7945f7c1989ee48f6d69965",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,7 +211,7 @@
         }
     ],
     "wof:id":102049777,
-    "wof:lastmodified":1690850877,
+    "wof:lastmodified":1695886093,
     "wof:name":"Liezen",
     "wof:parent_id":85681687,
     "wof:placetype":"county",

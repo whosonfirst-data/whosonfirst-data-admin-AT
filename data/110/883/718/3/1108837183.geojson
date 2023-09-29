@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6929,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.977007,
     "lbl:longitude":13.282484,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50335",
         "eg:gisco_id":"AT_50335",
         "eurostat:nuts_2021_id":"50335",
         "gn:id":7872216,
@@ -140,6 +147,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1155199
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046966,
     "wof:geomhash":"e1e48159f4497bc11ae1a8522abacb61",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108837183,
-    "wof:lastmodified":1684351584,
+    "wof:lastmodified":1695876968,
     "wof:name":"Stra\u00dfwalchen",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":48.463683,
     "geom:longitude":13.730979,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.468701,
     "lbl:longitude":13.72773,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41417",
         "eg:gisco_id":"AT_41417",
         "eurostat:nuts_2021_id":"41417"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046816,
     "wof:geomhash":"fc0babd3e3bc9532fca308668debcd5a",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836059,
-    "wof:lastmodified":1684351551,
+    "wof:lastmodified":1695876897,
     "wof:name":"St. Aegidi",
     "wof:parent_id":102049877,
     "wof:placetype":"localadmin",

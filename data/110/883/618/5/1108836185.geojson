@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2847,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.405093,
     "lbl:longitude":15.783088,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32107",
         "eg:gisco_id":"AT_32107",
         "eurostat:nuts_2021_id":"32107",
         "gn:id":7871908,
@@ -144,6 +151,7 @@
         "gn:id":2778141,
         "qs_pg:id":11564
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046832,
     "wof:geomhash":"f7440024229c328f47bbcc163802c62f",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836185,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876905,
     "wof:name":"Grafenw\u00f6rth",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",

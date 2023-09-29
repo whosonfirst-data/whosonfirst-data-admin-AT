@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":842,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.643046,
     "lbl:longitude":15.574184,
     "lbl:max_zoom":17.0,
@@ -236,11 +242,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31101",
         "eg:gisco_id":"AT_31101",
         "eurostat:nuts_2021_id":"31101",
         "gn:id":7872895,
         "qs_pg:id":743442
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046725,
     "wof:geomhash":"f1ea89efd49525a42faae54f33441190",
@@ -254,7 +262,7 @@
         }
     ],
     "wof:id":1108835341,
-    "wof:lastmodified":1684351528,
+    "wof:lastmodified":1695876853,
     "wof:name":"Altenburg",
     "wof:parent_id":102049901,
     "wof:placetype":"localadmin",

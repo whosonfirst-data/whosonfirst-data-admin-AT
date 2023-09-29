@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2354,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.937502,
     "lbl:longitude":15.025575,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30925",
         "eg:gisco_id":"AT_30925",
         "eurostat:nuts_2021_id":"30925",
         "gn:id":7871759,
         "qs_pg:id":380940
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046842,
     "wof:geomhash":"64b4871945525bbb6247ff2f7ec46c49",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836269,
-    "wof:lastmodified":1684351558,
+    "wof:lastmodified":1695876910,
     "wof:name":"Litschau",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":46.818514,
     "geom:longitude":15.257277,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.823427,
     "lbl:longitude":15.259968,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60305",
         "eg:gisco_id":"AT_60305",
         "eurostat:nuts_2021_id":"60305"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047239,
     "wof:geomhash":"92135536f9c212f49c479d44f865ff63",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839297,
-    "wof:lastmodified":1684351644,
+    "wof:lastmodified":1695877092,
     "wof:name":"Frauental",
     "wof:parent_id":102049691,
     "wof:placetype":"localadmin",

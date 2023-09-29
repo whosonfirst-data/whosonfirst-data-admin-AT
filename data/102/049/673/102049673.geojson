@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015848,
-    "geom:area_square_m":134619858.47475,
+    "geom:area_square_m":134619858.474747,
     "geom:bbox":"13.693708,46.558504,13.979226,46.668363",
     "geom:latitude":46.610829,
     "geom:longitude":13.83523,
@@ -293,9 +293,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"202",
         "hasc:id":"AT.KA.VI",
         "wd:id":"Q483522"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         1108838145
     ],
@@ -303,7 +308,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e45b5f33c05d6bffe32281aea89278b",
+    "wof:geomhash":"67c5be3be0cfcc9d6c2efbe5c88dca8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,7 +318,7 @@
         }
     ],
     "wof:id":102049673,
-    "wof:lastmodified":1690850869,
+    "wof:lastmodified":1695886413,
     "wof:name":"Villach",
     "wof:parent_id":85681655,
     "wof:placetype":"county",

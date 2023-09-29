@@ -29,6 +29,12 @@
     "geom:latitude":47.93673,
     "geom:longitude":14.353774,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.940687,
     "lbl:longitude":14.352834,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41517",
         "eg:gisco_id":"AT_41517",
         "eurostat:nuts_2021_id":"41517"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046825,
     "wof:geomhash":"6151705bfa910955a83b4b7b20a720ff",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108836127,
-    "wof:lastmodified":1684351553,
+    "wof:lastmodified":1695876901,
     "wof:name":"Ternberg",
     "wof:parent_id":102049819,
     "wof:placetype":"localadmin",

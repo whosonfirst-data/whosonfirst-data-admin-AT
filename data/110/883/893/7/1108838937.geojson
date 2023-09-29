@@ -29,6 +29,12 @@
     "geom:latitude":47.118415,
     "geom:longitude":14.788853,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.129723,
     "lbl:longitude":14.757057,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62048",
         "eg:gisco_id":"AT_62048",
         "eurostat:nuts_2021_id":"62048"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047188,
     "wof:geomhash":"cda23dc85f20f42c8c6ce063b71164f1",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838937,
-    "wof:lastmodified":1684351632,
+    "wof:lastmodified":1695877069,
     "wof:name":"Wei\u00dfkirchen",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

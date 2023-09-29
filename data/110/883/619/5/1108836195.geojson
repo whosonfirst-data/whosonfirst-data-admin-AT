@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1798,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.737432,
     "lbl:longitude":15.39023,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32505",
         "eg:gisco_id":"AT_32505",
         "eurostat:nuts_2021_id":"32505",
         "gn:id":7873080,
         "qs_pg:id":743462
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046834,
     "wof:geomhash":"4cb432cea7e0e9cc8969a14465acb631",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108836195,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876906,
     "wof:name":"G\u00f6pfritz an der Wild",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",

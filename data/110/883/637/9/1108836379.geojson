@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.499441,
     "lbl:longitude":16.138495,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31848",
         "eg:gisco_id":"AT_31848",
         "eurostat:nuts_2021_id":"31848",
         "gn:id":2760489,
@@ -147,6 +154,7 @@
         "gn:id":7871879,
         "qs_pg:id":1048597
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046863,
     "wof:geomhash":"5fcd48ba58c5fd13f77e3cf16ccbfdaa",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108836379,
-    "wof:lastmodified":1684351561,
+    "wof:lastmodified":1695876916,
     "wof:name":"Z\u00f6bern",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

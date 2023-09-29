@@ -29,6 +29,12 @@
     "geom:latitude":48.005068,
     "geom:longitude":13.168044,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.005205,
     "lbl:longitude":13.171729,
     "lbl:max_zoom":18.0,
@@ -102,9 +108,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40419",
         "eg:gisco_id":"AT_40419",
         "eurostat:nuts_2021_id":"40419"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046641,
     "wof:geomhash":"d583224b6ba52d7b9d64c9688fc78f56",
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1108834747,
-    "wof:lastmodified":1684351509,
+    "wof:lastmodified":1695876814,
     "wof:name":"Lochen am See",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":48.36477,
     "geom:longitude":15.467157,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.381891,
     "lbl:longitude":15.494097,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31338",
         "eg:gisco_id":"AT_31338",
         "eurostat:nuts_2021_id":"31338"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046836,
     "wof:geomhash":"ad491bf04fe677063cf8a702b8065148",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836221,
-    "wof:lastmodified":1684351557,
+    "wof:lastmodified":1695876907,
     "wof:name":"Rossatz - Arnsdorf",
     "wof:parent_id":102049885,
     "wof:placetype":"localadmin",

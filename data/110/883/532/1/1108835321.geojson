@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":25255,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.004773,
     "lbl:longitude":16.226125,
     "lbl:max_zoom":14.0,
@@ -185,12 +191,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30604",
         "eg:gisco_id":"AT_30604",
         "eurostat:nuts_2021_id":"30604",
         "gn:id":7872834,
         "gp:id":12673793,
         "qs_pg:id":907237
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046723,
     "wof:geomhash":"f667769e3ba45da118afadb20432ffc2",
@@ -204,7 +212,7 @@
         }
     ],
     "wof:id":1108835321,
-    "wof:lastmodified":1684351528,
+    "wof:lastmodified":1695876852,
     "wof:name":"Baden",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

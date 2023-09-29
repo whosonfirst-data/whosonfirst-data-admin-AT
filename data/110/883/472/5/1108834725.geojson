@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1100,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.092742,
     "lbl:longitude":12.910625,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40409",
         "eg:gisco_id":"AT_40409",
         "eurostat:nuts_2021_id":"40409",
         "gn:id":7871970,
         "qs_pg:id":108441
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046639,
     "wof:geomhash":"0b37fdfa0e7bb8c47f819672bd4bc8a3",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108834725,
-    "wof:lastmodified":1684351508,
+    "wof:lastmodified":1695876813,
     "wof:name":"Geretsberg",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

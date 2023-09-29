@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2609,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.050431,
     "lbl:longitude":10.357718,
     "lbl:max_zoom":15.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70609",
         "eg:gisco_id":"AT_70609",
         "eurostat:nuts_2021_id":"70609",
         "gn:id":7872580,
         "gp:id":12675460,
         "qs_pg:id":885630
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046985,
     "wof:geomhash":"56d46089eabe775d9f451f1886bb4e5e",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837299,
-    "wof:lastmodified":1684351588,
+    "wof:lastmodified":1695876975,
     "wof:name":"Kappl",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",

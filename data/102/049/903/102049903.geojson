@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082001,
-    "geom:area_square_m":667186060.733696,
+    "geom:area_square_m":667185903.496013,
     "geom:bbox":"15.117087,48.700417,15.609929,48.994669",
     "geom:latitude":48.852165,
     "geom:longitude":15.347682,
@@ -170,14 +170,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"322",
         "hasc:id":"AT.NO.WT",
         "wd:id":"Q660060"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"199024f52f153a045d7dc9580b2f6c43",
+    "wof:geomhash":"f9e3a6670f7e4bd0665f3465f3aa5c76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":102049903,
-    "wof:lastmodified":1690850879,
+    "wof:lastmodified":1695886094,
     "wof:name":"Waidhofen an der Thaya",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

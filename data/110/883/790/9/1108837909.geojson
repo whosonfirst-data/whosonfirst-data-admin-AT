@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.08328,
     "lbl:longitude":9.722931,
     "lbl:max_zoom":18.0,
@@ -227,12 +233,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80105",
         "eg:gisco_id":"AT_80105",
         "eurostat:nuts_2021_id":"80105",
         "gn:id":3324292,
         "gp:id":12675621,
         "qs_pg:id":1192875
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047058,
     "wof:geomhash":"2a95c50ac577695eee5574a8c69c2ba8",
@@ -246,7 +254,7 @@
         }
     ],
     "wof:id":1108837909,
-    "wof:lastmodified":1684351602,
+    "wof:lastmodified":1695877006,
     "wof:name":"Brand",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

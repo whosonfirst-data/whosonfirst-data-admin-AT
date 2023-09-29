@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1429,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.250475,
     "lbl:longitude":11.538798,
     "lbl:max_zoom":16.0,
@@ -131,12 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70360",
         "eg:gisco_id":"AT_70360",
         "eurostat:nuts_2021_id":"70360",
         "gn:id":7873626,
         "gp:id":12675577,
         "qs_pg:id":885659
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047025,
     "wof:geomhash":"ccd043ea78e4c8ff2100c11d7784bd2e",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108837627,
-    "wof:lastmodified":1684351595,
+    "wof:lastmodified":1695876992,
     "wof:name":"Tulfes",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

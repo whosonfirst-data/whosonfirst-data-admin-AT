@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1247,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.654272,
     "lbl:longitude":14.949673,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30912",
         "eg:gisco_id":"AT_30912",
         "eurostat:nuts_2021_id":"30912",
         "gn:id":7871755,
         "qs_pg:id":1041991
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046912,
     "wof:geomhash":"980ec8dc43618d079566388009758fd7",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108836789,
-    "wof:lastmodified":1684351572,
+    "wof:lastmodified":1695876942,
     "wof:name":"Gro\u00dfsch\u00f6nau",
     "wof:parent_id":102049905,
     "wof:placetype":"localadmin",

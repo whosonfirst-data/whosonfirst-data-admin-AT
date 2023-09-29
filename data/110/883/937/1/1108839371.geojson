@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1894,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.108248,
     "lbl:longitude":15.671168,
     "lbl:max_zoom":15.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61727",
         "eg:gisco_id":"AT_61727",
         "eurostat:nuts_2021_id":"61727",
         "gn:id":7873568,
         "qs_pg:id":743558
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047249,
     "wof:geomhash":"15ee25b46bbeb9bf11f732c790db2199",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108839371,
-    "wof:lastmodified":1684351647,
+    "wof:lastmodified":1695877096,
     "wof:name":"Ludersdorf-Wilfersdorf",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

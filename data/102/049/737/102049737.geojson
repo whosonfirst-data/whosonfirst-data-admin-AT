@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020533,
-    "geom:area_square_m":171916482.355755,
+    "geom:area_square_m":171916429.744647,
     "geom:bbox":"9.644315,47.284357,9.848613,47.462899",
     "geom:latitude":47.380306,
     "geom:longitude":9.746956,
@@ -275,14 +275,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"803",
         "hasc:id":"AT.VO.DO",
         "wd:id":"Q171219"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f11f5873fa397b5d87c29781f6787acf",
+    "wof:geomhash":"00cc2d4ad9c7e2193e6df8fc8c1966c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -292,7 +297,7 @@
         }
     ],
     "wof:id":102049737,
-    "wof:lastmodified":1690850861,
+    "wof:lastmodified":1695886071,
     "wof:name":"Dornbirn",
     "wof:parent_id":85681649,
     "wof:placetype":"county",

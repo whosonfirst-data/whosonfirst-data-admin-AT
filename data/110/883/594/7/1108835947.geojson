@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2589,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.570617,
     "lbl:longitude":14.049611,
     "lbl:max_zoom":15.0,
@@ -110,11 +116,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41309",
         "eg:gisco_id":"AT_41309",
         "eurostat:nuts_2021_id":"41309",
         "gn:id":7873193,
         "qs_pg:id":381153
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046801,
     "wof:geomhash":"ece3c1c444d4ef049583b0448e9295cb",
@@ -128,7 +136,7 @@
         }
     ],
     "wof:id":1108835947,
-    "wof:lastmodified":1684351546,
+    "wof:lastmodified":1695876888,
     "wof:name":"Haslach an der M\u00fchl",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

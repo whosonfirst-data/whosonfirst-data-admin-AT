@@ -29,6 +29,12 @@
     "geom:latitude":47.046508,
     "geom:longitude":10.991324,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.055065,
     "lbl:longitude":10.960401,
     "lbl:max_zoom":18.0,
@@ -117,9 +123,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70208",
         "eg:gisco_id":"AT_70208",
         "eurostat:nuts_2021_id":"70208"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046999,
     "wof:geomhash":"5f7f976f7eac4d9590c910fffb1f27bc",
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":1108837421,
-    "wof:lastmodified":1684351590,
+    "wof:lastmodified":1695876981,
     "wof:name":"L\u00e4ngenfeld",
     "wof:parent_id":102049727,
     "wof:placetype":"localadmin",

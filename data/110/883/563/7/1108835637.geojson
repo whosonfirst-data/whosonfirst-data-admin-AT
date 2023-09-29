@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":555,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.206448,
     "lbl:longitude":13.592457,
     "lbl:max_zoom":17.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41206",
         "eg:gisco_id":"AT_41206",
         "eurostat:nuts_2021_id":"41206",
         "gn:id":7873180,
         "qs_pg:id":743491
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046762,
     "wof:geomhash":"bb955e27d32e907714810bf12b851f62",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835637,
-    "wof:lastmodified":1684351538,
+    "wof:lastmodified":1695876871,
     "wof:name":"Geiersberg",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

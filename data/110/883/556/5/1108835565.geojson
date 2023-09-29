@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":5598,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.299168,
     "lbl:longitude":14.182158,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41022",
         "eg:gisco_id":"AT_41022",
         "eurostat:nuts_2021_id":"41022",
         "gn:id":7873168,
@@ -149,6 +156,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1155441
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046752,
     "wof:geomhash":"ac4c164d21f25ff1827eb877ce5bb3b0",
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1108835565,
-    "wof:lastmodified":1684351535,
+    "wof:lastmodified":1695876866,
     "wof:name":"Wilhering",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

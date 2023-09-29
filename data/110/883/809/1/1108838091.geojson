@@ -29,6 +29,12 @@
     "geom:latitude":47.464907,
     "geom:longitude":9.749104,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.473491,
     "lbl:longitude":9.749709,
     "lbl:max_zoom":18.0,
@@ -117,9 +123,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80240",
         "eg:gisco_id":"AT_80240",
         "eurostat:nuts_2021_id":"80240"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047082,
     "wof:geomhash":"f704ffd9e285fd32053705ef1c7fb7a3",
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":1108838091,
-    "wof:lastmodified":1684351606,
+    "wof:lastmodified":1695877015,
     "wof:name":"Wolfurt",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

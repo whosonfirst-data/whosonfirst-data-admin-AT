@@ -29,6 +29,12 @@
     "geom:latitude":47.816321,
     "geom:longitude":13.135577,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.81253,
     "lbl:longitude":13.136459,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50321",
         "eg:gisco_id":"AT_50321",
         "eurostat:nuts_2021_id":"50321"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046961,
     "wof:geomhash":"b0986fd8d20ae8f5f718754155fba161",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108837155,
-    "wof:lastmodified":1684351583,
+    "wof:lastmodified":1695876966,
     "wof:name":"Koppl",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

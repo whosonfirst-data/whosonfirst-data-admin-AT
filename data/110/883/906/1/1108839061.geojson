@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2274,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.735566,
     "lbl:longitude":15.450133,
     "lbl:max_zoom":15.0,
@@ -128,12 +134,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61013",
         "eg:gisco_id":"AT_61013",
         "eurostat:nuts_2021_id":"61013",
         "gn:id":7873464,
         "gp:id":12674945,
         "qs_pg:id":1002037
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047202,
     "wof:geomhash":"064a0bcb0db751623363ae7fa4eae4bf",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108839061,
-    "wof:lastmodified":1684351636,
+    "wof:lastmodified":1695877076,
     "wof:name":"Gro\u00dfklein",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

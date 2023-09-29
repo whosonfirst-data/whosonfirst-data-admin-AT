@@ -29,6 +29,12 @@
     "geom:latitude":47.686308,
     "geom:longitude":14.121841,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.681135,
     "lbl:longitude":14.113674,
     "lbl:max_zoom":18.0,
@@ -114,9 +120,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40903",
         "eg:gisco_id":"AT_40903",
         "eurostat:nuts_2021_id":"40903"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046714,
     "wof:geomhash":"30b273c6373ee1d2c8b5995d52896102",
@@ -130,7 +138,7 @@
         }
     ],
     "wof:id":1108835247,
-    "wof:lastmodified":1684351526,
+    "wof:lastmodified":1695876848,
     "wof:name":"Hinterstoder",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

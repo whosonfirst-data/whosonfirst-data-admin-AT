@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.417115,
     "lbl:longitude":16.260808,
     "lbl:max_zoom":15.0,
@@ -86,6 +92,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10902",
         "eg:gisco_id":"AT_10902",
         "eurostat:nuts_2021_id":"10902",
         "gn:id":2781820,
@@ -96,6 +103,7 @@
         "gn:id":7871616,
         "qs_pg:id":1048531
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047151,
     "wof:geomhash":"4904a88b1f1692d525c91cb8c34d6245",
@@ -109,7 +117,7 @@
         }
     ],
     "wof:id":1108838653,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877051,
     "wof:name":"Bernstein",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

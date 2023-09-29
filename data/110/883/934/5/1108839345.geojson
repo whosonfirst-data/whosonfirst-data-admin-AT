@@ -29,6 +29,12 @@
     "geom:latitude":46.812564,
     "geom:longitude":15.706736,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.81247,
     "lbl:longitude":15.706242,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62343",
         "eg:gisco_id":"AT_62343",
         "eurostat:nuts_2021_id":"62343"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047245,
     "wof:geomhash":"35ed181db272e42dad250c15788efea1",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839345,
-    "wof:lastmodified":1684351646,
+    "wof:lastmodified":1695877095,
     "wof:name":"Mettersdorf",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

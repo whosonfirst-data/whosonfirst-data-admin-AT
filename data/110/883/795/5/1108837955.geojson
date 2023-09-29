@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":10512,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.335311,
     "lbl:longitude":9.654282,
     "lbl:max_zoom":15.0,
@@ -155,11 +161,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80408",
         "eg:gisco_id":"AT_80408",
         "eurostat:nuts_2021_id":"80408",
         "gn:id":7872676,
         "qs_pg:id":381037
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047063,
     "wof:geomhash":"6b02130094e68fa81d3eee49375d85a9",
@@ -173,7 +181,7 @@
         }
     ],
     "wof:id":1108837955,
-    "wof:lastmodified":1684351603,
+    "wof:lastmodified":1695877008,
     "wof:name":"G\u00f6tzis",
     "wof:parent_id":102049725,
     "wof:placetype":"localadmin",

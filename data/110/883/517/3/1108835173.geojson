@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1124,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.3922,
     "lbl:longitude":13.801678,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40804",
         "eg:gisco_id":"AT_40804",
         "eurostat:nuts_2021_id":"40804",
         "gn:id":7873142,
         "qs_pg:id":1155422
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046696,
     "wof:geomhash":"dd07b0b41d2be14b7e5208abe85b6cdd",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835173,
-    "wof:lastmodified":1684351523,
+    "wof:lastmodified":1695876843,
     "wof:name":"Eschenau im Hausruckkreis",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

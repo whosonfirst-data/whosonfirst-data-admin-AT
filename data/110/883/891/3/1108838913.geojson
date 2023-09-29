@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.106924,
     "lbl:longitude":15.816015,
     "lbl:max_zoom":15.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61748",
         "eg:gisco_id":"AT_61748",
         "eurostat:nuts_2021_id":"61748",
         "gn:id":2765019,
@@ -138,6 +145,7 @@
         "gn:id":7873579,
         "qs_pg:id":1245896
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047184,
     "wof:geomhash":"60904ca1da5571fdda5d21cc399c44db",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108838913,
-    "wof:lastmodified":1684351632,
+    "wof:lastmodified":1695877067,
     "wof:name":"Sinabelkirchen",
     "wof:parent_id":102049765,
     "wof:placetype":"localadmin",

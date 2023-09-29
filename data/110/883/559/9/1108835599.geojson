@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1731,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.331748,
     "lbl:longitude":14.832046,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41115",
         "eg:gisco_id":"AT_41115",
         "eurostat:nuts_2021_id":"41115",
         "gn:id":7872071,
         "qs_pg:id":743314
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046757,
     "wof:geomhash":"0b531c163526ef61918de38a95074b75",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835599,
-    "wof:lastmodified":1684351536,
+    "wof:lastmodified":1695876868,
     "wof:name":"Pabneukirchen",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",

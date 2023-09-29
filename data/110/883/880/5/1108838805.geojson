@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.730444,
     "lbl:longitude":15.926087,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62326",
         "eg:gisco_id":"AT_62326",
         "eurostat:nuts_2021_id":"62326",
         "gn:id":2776959,
@@ -147,6 +154,7 @@
         "gn:id":7873535,
         "qs_pg:id":1042244
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047170,
     "wof:geomhash":"e4c440e44bc98d6cca1fc755591dc03e",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108838805,
-    "wof:lastmodified":1684351628,
+    "wof:lastmodified":1695877060,
     "wof:name":"Halbenrain",
     "wof:parent_id":1108892553,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1798,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.301812,
     "lbl:longitude":16.107171,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10912",
         "eg:gisco_id":"AT_10912",
         "eurostat:nuts_2021_id":"10912",
         "gn:id":7872743,
         "qs_pg:id":743429
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047133,
     "wof:geomhash":"b82aa3466e7cbb48b98174facae01c26",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108838495,
-    "wof:lastmodified":1684351620,
+    "wof:lastmodified":1695877043,
     "wof:name":"Markt Allhau",
     "wof:parent_id":102049757,
     "wof:placetype":"localadmin",

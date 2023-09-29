@@ -17,6 +17,12 @@
     "geom:latitude":48.568498,
     "geom:longitude":14.094475,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.568162,
     "lbl:longitude":14.094951,
     "lbl:max_zoom":18.0,
@@ -33,10 +39,13 @@
         102049889
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "austriaod:number":"41335"
+    },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046809,
-    "wof:geomhash":"eb44e09f460bc82a129b19c6c5e0d015",
+    "wof:geomhash":"61a678a8eae714442dc87d6ef84ea549",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1108836005,
-    "wof:lastmodified":1566598688,
+    "wof:lastmodified":1695876810,
     "wof:name":"St. Stefan am Walde",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

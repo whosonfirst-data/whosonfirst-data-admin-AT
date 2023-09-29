@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":5561,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.46859,
     "lbl:longitude":14.330445,
     "lbl:max_zoom":15.0,
@@ -126,12 +132,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61263",
         "eg:gisco_id":"AT_61263",
         "eurostat:nuts_2021_id":"61263",
         "gn:id":2767034,
         "gp:id":12674897,
         "qs_pg:id":203646
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047182,
     "wof:geomhash":"7234f7c21eec64f63a9e1acf3b5296af",
@@ -145,7 +153,7 @@
         }
     ],
     "wof:id":1108838903,
-    "wof:lastmodified":1684351631,
+    "wof:lastmodified":1695877067,
     "wof:name":"Rottenmann",
     "wof:parent_id":102049777,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":622,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.360524,
     "lbl:longitude":10.87448,
     "lbl:max_zoom":17.0,
@@ -140,12 +146,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70803",
         "eg:gisco_id":"AT_70803",
         "eurostat:nuts_2021_id":"70803",
         "gn:id":7873682,
         "gp:id":12675388,
         "qs_pg:id":1059567
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047044,
     "wof:geomhash":"358a9c12d08cb5f354b2d3ee7f568837",
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1108837801,
-    "wof:lastmodified":1684351599,
+    "wof:lastmodified":1695877000,
     "wof:name":"Biberwier",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

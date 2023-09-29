@@ -29,6 +29,12 @@
     "geom:latitude":48.330416,
     "geom:longitude":16.150628,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.330563,
     "lbl:longitude":16.150631,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32143",
         "eg:gisco_id":"AT_32143",
         "eurostat:nuts_2021_id":"32143"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046676,
     "wof:geomhash":"d1dba97af67f0ce3f6185e6b45f308eb",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835031,
-    "wof:lastmodified":1684351518,
+    "wof:lastmodified":1695876832,
     "wof:name":"Muckendorf - Wipfing",
     "wof:parent_id":102049879,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":592,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.115304,
     "lbl:longitude":16.948558,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30715",
         "eg:gisco_id":"AT_30715",
         "eurostat:nuts_2021_id":"30715",
         "gn:id":7872851,
         "qs_pg:id":381065
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046926,
     "wof:geomhash":"2e59cd9fcd5291a7262ce37ef759112e",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836897,
-    "wof:lastmodified":1684351575,
+    "wof:lastmodified":1695876949,
     "wof:name":"Hundsheim",
     "wof:parent_id":102049845,
     "wof:placetype":"localadmin",

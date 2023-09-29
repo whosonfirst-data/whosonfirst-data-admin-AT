@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1133,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.269695,
     "lbl:longitude":15.017884,
     "lbl:max_zoom":16.0,
@@ -62,11 +68,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31541",
         "eg:gisco_id":"AT_31541",
         "eurostat:nuts_2021_id":"31541",
         "gn:id":7871828,
         "qs_pg:id":904281
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046923,
     "wof:geomhash":"d1f42e7bd2cefe6caf44b5ed0b44563c",
@@ -80,7 +88,7 @@
         }
     ],
     "wof:id":1108836867,
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1695876947,
     "wof:name":"St. Oswald",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

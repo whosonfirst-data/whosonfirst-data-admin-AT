@@ -29,6 +29,12 @@
     "geom:latitude":48.229898,
     "geom:longitude":13.956374,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.232813,
     "lbl:longitude":13.952879,
     "lbl:max_zoom":18.0,
@@ -99,9 +105,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40832",
         "eg:gisco_id":"AT_40832",
         "eurostat:nuts_2021_id":"40832"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046712,
     "wof:geomhash":"e26595f8b7b0871b493eeea97218f48d",
@@ -115,7 +123,7 @@
         }
     ],
     "wof:id":1108835237,
-    "wof:lastmodified":1684351525,
+    "wof:lastmodified":1695876847,
     "wof:name":"Wallern an der Trattnach",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

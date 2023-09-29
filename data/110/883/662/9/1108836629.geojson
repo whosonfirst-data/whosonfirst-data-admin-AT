@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2219,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.608909,
     "lbl:longitude":15.939242,
     "lbl:max_zoom":15.0,
@@ -125,6 +131,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31043",
         "eg:gisco_id":"AT_31043",
         "eurostat:nuts_2021_id":"31043",
         "gn:id":7871770,
@@ -134,6 +141,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1096946
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046894,
     "wof:geomhash":"a961e841a29652c28225a06bee3f6e00",
@@ -147,7 +155,7 @@
         }
     ],
     "wof:id":1108836629,
-    "wof:lastmodified":1684351568,
+    "wof:lastmodified":1695876933,
     "wof:name":"Sitzendorf an der Schmida",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",

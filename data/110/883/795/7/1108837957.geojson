@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":11766,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.489235,
     "lbl:longitude":9.684598,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80215",
         "eg:gisco_id":"AT_80215",
         "eurostat:nuts_2021_id":"80215",
         "gn:id":2776874,
@@ -141,6 +148,7 @@
         "gn:id":7873733,
         "qs_pg:id":1042245
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047063,
     "wof:geomhash":"67b8566c3347bf3844cc02f1a4985bb8",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108837957,
-    "wof:lastmodified":1684351603,
+    "wof:lastmodified":1695877008,
     "wof:name":"Hard",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

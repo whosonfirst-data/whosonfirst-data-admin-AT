@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.753818,
     "lbl:longitude":15.485616,
     "lbl:max_zoom":16.0,
@@ -125,12 +131,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61016",
         "eg:gisco_id":"AT_61016",
         "eurostat:nuts_2021_id":"61016",
         "gn:id":2776571,
         "gp:id":12675003,
         "qs_pg:id":1002038
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047201,
     "wof:geomhash":"e34fb5f1c419038dd171a0c5e9a236e9",
@@ -144,7 +152,7 @@
         }
     ],
     "wof:id":1108839057,
-    "wof:lastmodified":1684351635,
+    "wof:lastmodified":1695877076,
     "wof:name":"Heimschuh",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

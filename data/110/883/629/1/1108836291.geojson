@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.687147,
     "lbl:longitude":16.073677,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31844",
         "eg:gisco_id":"AT_31844",
         "eurostat:nuts_2021_id":"31844",
         "gn:id":2761865,
@@ -144,6 +151,7 @@
         "gn:id":7871875,
         "qs_pg:id":108416
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046845,
     "wof:geomhash":"2cdf7098f65a9bc737e016e71aec1179",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836291,
-    "wof:lastmodified":1684351558,
+    "wof:lastmodified":1695876911,
     "wof:name":"Wartmannstetten",
     "wof:parent_id":102049791,
     "wof:placetype":"localadmin",

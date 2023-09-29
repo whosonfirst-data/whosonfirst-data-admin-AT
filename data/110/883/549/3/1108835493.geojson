@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2515,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.027404,
     "lbl:longitude":14.066083,
     "lbl:max_zoom":15.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40913",
         "eg:gisco_id":"AT_40913",
         "eurostat:nuts_2021_id":"40913",
         "gn:id":7872044,
@@ -137,6 +144,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":108483
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046744,
     "wof:geomhash":"a8c1405ac93301954760ca1c0839e617",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108835493,
-    "wof:lastmodified":1684351533,
+    "wof:lastmodified":1695876861,
     "wof:name":"Ried im Traunkreis",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

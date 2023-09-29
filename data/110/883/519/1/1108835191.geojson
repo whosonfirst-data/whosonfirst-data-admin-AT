@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2527,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.283907,
     "lbl:longitude":13.692715,
     "lbl:max_zoom":15.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40812",
         "eg:gisco_id":"AT_40812",
         "eurostat:nuts_2021_id":"40812",
         "gn:id":7872025,
         "qs_pg:id":1042049
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046699,
     "wof:geomhash":"4ad7c4352f9e78c6bdeb280bebc66c31",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835191,
-    "wof:lastmodified":1684351524,
+    "wof:lastmodified":1695876844,
     "wof:name":"Kallham",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

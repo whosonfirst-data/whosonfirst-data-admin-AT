@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1500,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.994594,
     "lbl:longitude":16.523542,
     "lbl:max_zoom":16.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30629",
         "eg:gisco_id":"AT_30629",
         "eurostat:nuts_2021_id":"30629",
         "gn:id":7872840,
@@ -141,6 +148,7 @@
         "gn:id":2767681,
         "qs_pg:id":1002027
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046736,
     "wof:geomhash":"9d1644ca4f3cfdb82bda18d829267326",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108835423,
-    "wof:lastmodified":1684351531,
+    "wof:lastmodified":1695876858,
     "wof:name":"Reisenberg",
     "wof:parent_id":102049829,
     "wof:placetype":"localadmin",

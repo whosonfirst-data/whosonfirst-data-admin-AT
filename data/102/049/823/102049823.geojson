@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112253,
-    "geom:area_square_m":930071100.270587,
+    "geom:area_square_m":930071089.378807,
     "geom:bbox":"15.160808,47.745479,15.949372,48.090108",
     "geom:latitude":47.927788,
     "geom:longitude":15.582453,
@@ -182,14 +182,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"314",
         "hasc:id":"AT.NO.LF",
         "wd:id":"Q871536"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8ae73c7a0b39b762018572b318258dd",
+    "wof:geomhash":"a4faeec5f2bd66bd0d2e58b27d631737",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":102049823,
-    "wof:lastmodified":1690850888,
+    "wof:lastmodified":1695886106,
     "wof:name":"Lilienfeld",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

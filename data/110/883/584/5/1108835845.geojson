@@ -29,6 +29,12 @@
     "geom:latitude":47.871801,
     "geom:longitude":15.9498,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.86955,
     "lbl:longitude":15.938472,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32331",
         "eg:gisco_id":"AT_32331",
         "eurostat:nuts_2021_id":"32331"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046788,
     "wof:geomhash":"41547a0077313a1ea10a9ffb01343a6f",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108835845,
-    "wof:lastmodified":1684351544,
+    "wof:lastmodified":1695876883,
     "wof:name":"Waidmannsfeld",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

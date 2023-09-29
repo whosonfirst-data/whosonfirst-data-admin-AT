@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":748,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.266576,
     "lbl:longitude":13.414832,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41230",
         "eg:gisco_id":"AT_41230",
         "eurostat:nuts_2021_id":"41230",
         "gn:id":7872096,
         "qs_pg:id":743323
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046769,
     "wof:geomhash":"f4907ebd0438330d89adb856a0b832c8",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835691,
-    "wof:lastmodified":1684351540,
+    "wof:lastmodified":1695876874,
     "wof:name":"Senftenbach",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

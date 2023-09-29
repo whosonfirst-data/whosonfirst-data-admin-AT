@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1261,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.072623,
     "lbl:longitude":11.397318,
     "lbl:max_zoom":16.0,
@@ -131,12 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70359",
         "eg:gisco_id":"AT_70359",
         "eurostat:nuts_2021_id":"70359",
         "gn:id":7873625,
         "gp:id":12675576,
         "qs_pg:id":1019696
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047025,
     "wof:geomhash":"112d192d55a090128bc6e62df0121f46",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108837625,
-    "wof:lastmodified":1684351595,
+    "wof:lastmodified":1695876992,
     "wof:name":"Trins",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.456106,
     "geom:longitude":9.843645,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.456786,
     "lbl:longitude":9.836512,
     "lbl:max_zoom":18.0,
@@ -123,9 +129,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80201",
         "eg:gisco_id":"AT_80201",
         "eurostat:nuts_2021_id":"80201"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047054,
     "wof:geomhash":"a76d3426ff556091b9f64ef26b4eef6a",
@@ -139,7 +147,7 @@
         }
     ],
     "wof:id":1108837885,
-    "wof:lastmodified":1684351601,
+    "wof:lastmodified":1695877004,
     "wof:name":"Alberschwende",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

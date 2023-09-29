@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2403,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.265339,
     "lbl:longitude":14.813026,
     "lbl:max_zoom":15.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41108",
         "eg:gisco_id":"AT_41108",
         "eurostat:nuts_2021_id":"41108",
         "gn:id":7873171,
         "qs_pg:id":743485
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046755,
     "wof:geomhash":"e9a796744bf844cb44bcab24bb95bbbc",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835583,
-    "wof:lastmodified":1684351536,
+    "wof:lastmodified":1695876867,
     "wof:name":"Bad Kreuzen",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",

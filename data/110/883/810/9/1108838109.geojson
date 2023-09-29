@@ -29,6 +29,12 @@
     "geom:latitude":46.739893,
     "geom:longitude":14.959675,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.749813,
     "lbl:longitude":14.953476,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20914",
         "eg:gisco_id":"AT_20914",
         "eurostat:nuts_2021_id":"20914"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047084,
     "wof:geomhash":"47846d6e81d79c42099c2daf9d089038",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838109,
-    "wof:lastmodified":1684351607,
+    "wof:lastmodified":1695877016,
     "wof:name":"Sankt Georgen Im Lavanttal",
     "wof:parent_id":102049693,
     "wof:placetype":"localadmin",

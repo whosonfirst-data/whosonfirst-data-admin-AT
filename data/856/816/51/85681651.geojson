@@ -484,22 +484,28 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"1",
         "digitalenvoy:region_code":11578,
         "eurostat:nuts_2021_id":"AT11",
         "fips:code":"AU01",
         "gn:id":2781194,
         "gp:id":2344708,
         "hasc:id":"AT.BU",
+        "iso:code":"AT-1",
         "iso:id":"AT-1",
         "unlc:id":"AT-1",
         "wd:id":"Q43210",
         "wk:page":"Burgenland"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"748f18764b8b279c61a8b614faa92db7",
+    "wof:geomhash":"88abaecf436e8be1b9496b6ebb03b7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -517,7 +523,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1690850909,
+    "wof:lastmodified":1695885147,
     "wof:name":"Burgenland",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

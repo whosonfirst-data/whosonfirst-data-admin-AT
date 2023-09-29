@@ -29,6 +29,12 @@
     "geom:latitude":47.398892,
     "geom:longitude":15.249062,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.389624,
     "lbl:longitude":15.230003,
     "lbl:max_zoom":18.0,
@@ -81,9 +87,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62139",
         "eg:gisco_id":"AT_62139",
         "eurostat:nuts_2021_id":"62139"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047241,
     "wof:geomhash":"de7d114f3b2bc7244cd34aed0be47584",
@@ -97,7 +105,7 @@
         }
     ],
     "wof:id":1108839323,
-    "wof:lastmodified":1684351645,
+    "wof:lastmodified":1695877093,
     "wof:name":"Bruck",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

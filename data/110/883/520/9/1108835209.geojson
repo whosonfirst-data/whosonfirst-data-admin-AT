@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":542,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.282113,
     "lbl:longitude":13.770124,
     "lbl:max_zoom":17.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40820",
         "eg:gisco_id":"AT_40820",
         "eurostat:nuts_2021_id":"40820",
         "gn:id":7873149,
         "qs_pg:id":1155436
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046701,
     "wof:geomhash":"e7f8854398fb48814938e51ad3dac195",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835209,
-    "wof:lastmodified":1684351524,
+    "wof:lastmodified":1695876845,
     "wof:name":"P\u00f6tting",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

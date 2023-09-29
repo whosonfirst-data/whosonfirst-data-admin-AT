@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":707,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.151448,
     "lbl:longitude":13.786461,
     "lbl:max_zoom":17.0,
@@ -107,11 +113,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50507",
         "eg:gisco_id":"AT_50507",
         "eurostat:nuts_2021_id":"50507",
         "gn:id":7872233,
         "qs_pg:id":108537
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046949,
     "wof:geomhash":"8ffd39cabbd5758133d89c95d47cefbe",
@@ -125,7 +133,7 @@
         }
     ],
     "wof:id":1108837059,
-    "wof:lastmodified":1684351580,
+    "wof:lastmodified":1695876959,
     "wof:name":"Sankt Andr\u00e4 im Lungau",
     "wof:parent_id":102049721,
     "wof:placetype":"localadmin",

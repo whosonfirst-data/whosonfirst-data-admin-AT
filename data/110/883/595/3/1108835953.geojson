@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1422,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.470706,
     "lbl:longitude":13.824829,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41312",
         "eg:gisco_id":"AT_41312",
         "eurostat:nuts_2021_id":"41312",
         "gn:id":7872107,
         "qs_pg:id":1155161
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046802,
     "wof:geomhash":"b82ad595da9fca0f174a90300ebd2dcc",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108835953,
-    "wof:lastmodified":1684351547,
+    "wof:lastmodified":1695876888,
     "wof:name":"Hofkirchen im M\u00fchlkreis",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

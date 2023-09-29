@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3415,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.812853,
     "lbl:longitude":13.227812,
     "lbl:max_zoom":15.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50319",
         "eg:gisco_id":"AT_50319",
         "eurostat:nuts_2021_id":"50319",
         "gn:id":7872208,
@@ -138,6 +145,7 @@
         "gn:id":2775848,
         "qs_pg:id":344922
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046960,
     "wof:geomhash":"c7e6d6ec51079432921dd7c0461fca44",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108837151,
-    "wof:lastmodified":1684351583,
+    "wof:lastmodified":1695876966,
     "wof:name":"Hof bei Salzburg",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

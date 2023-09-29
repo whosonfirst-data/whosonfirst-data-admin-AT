@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05565,
-    "geom:area_square_m":458742610.861408,
+    "geom:area_square_m":458742832.445912,
     "geom:bbox":"14.091324,48.069106,14.521179,48.332139",
     "geom:latitude":48.190737,
     "geom:longitude":14.281271,
@@ -67,13 +67,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"410",
         "hasc:id":"AT.OO.LL"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"998fff079cee0ba91578b4da3f64d8a7",
+    "wof:geomhash":"f6e736544b0b3fa1c891820f52dc2234",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":102049847,
-    "wof:lastmodified":1627521502,
+    "wof:lastmodified":1695886020,
     "wof:name":"Linz - Land",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

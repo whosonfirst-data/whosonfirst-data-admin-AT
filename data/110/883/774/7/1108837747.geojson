@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":88,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.189681,
     "lbl:longitude":10.281166,
     "lbl:max_zoom":18.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70819",
         "eg:gisco_id":"AT_70819",
         "eurostat:nuts_2021_id":"70819",
         "gn:id":7872617,
         "gp:id":12675562,
         "qs_pg:id":922713
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047039,
     "wof:geomhash":"5811f6050a2dd24b50dca29580aa2552",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837747,
-    "wof:lastmodified":1684351598,
+    "wof:lastmodified":1695876997,
     "wof:name":"Kaisers",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2433,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.88999,
     "lbl:longitude":13.288323,
     "lbl:max_zoom":15.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20644",
         "eg:gisco_id":"AT_20644",
         "eurostat:nuts_2021_id":"20644",
         "gn:id":7871661,
         "qs_pg:id":108312
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047113,
     "wof:geomhash":"3d2cd9905035258fe59abbef0796e4f1",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108838319,
-    "wof:lastmodified":1684351615,
+    "wof:lastmodified":1695877032,
     "wof:name":"Rei\u00dfeck",
     "wof:parent_id":102049701,
     "wof:placetype":"localadmin",

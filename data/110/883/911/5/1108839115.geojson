@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1416,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.327323,
     "lbl:longitude":16.033698,
     "lbl:max_zoom":16.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62226",
         "eg:gisco_id":"AT_62226",
         "eurostat:nuts_2021_id":"62226",
         "gn:id":7873431,
         "qs_pg:id":108943
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047210,
     "wof:geomhash":"56fe9b42cbbf4b1138c4a04d0259b2a3",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108839115,
-    "wof:lastmodified":1684351638,
+    "wof:lastmodified":1695877080,
     "wof:name":"Lafnitz",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

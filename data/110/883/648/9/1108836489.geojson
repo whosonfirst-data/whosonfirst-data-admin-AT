@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1937,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.044808,
     "lbl:longitude":13.80808,
     "lbl:max_zoom":15.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41732",
         "eg:gisco_id":"AT_41732",
         "eurostat:nuts_2021_id":"41732",
         "gn:id":7872171,
@@ -138,6 +145,7 @@
         "gn:id":2766936,
         "qs_pg:id":1092792
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046877,
     "wof:geomhash":"8760d2c6065a5b39255fa4de2b5a748d",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108836489,
-    "wof:lastmodified":1684351564,
+    "wof:lastmodified":1695876924,
     "wof:name":"R\u00fcstorf",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

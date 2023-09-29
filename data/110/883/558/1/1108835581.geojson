@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":875,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.227299,
     "lbl:longitude":14.789698,
     "lbl:max_zoom":17.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41107",
         "eg:gisco_id":"AT_41107",
         "eurostat:nuts_2021_id":"41107",
         "gn:id":7872066,
         "qs_pg:id":108493
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046755,
     "wof:geomhash":"03ef53b15d9c96d1ce8ff6e217876578",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108835581,
-    "wof:lastmodified":1684351536,
+    "wof:lastmodified":1695876867,
     "wof:name":"Klam",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",

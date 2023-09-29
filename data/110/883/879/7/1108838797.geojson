@@ -29,6 +29,12 @@
     "geom:latitude":47.145201,
     "geom:longitude":14.451737,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.142396,
     "lbl:longitude":14.429764,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61444",
         "eg:gisco_id":"AT_61444",
         "eurostat:nuts_2021_id":"61444"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047169,
     "wof:geomhash":"0fb8b2fc8f6602d3b5aa1a005cb74c7f",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108838797,
-    "wof:lastmodified":1684351628,
+    "wof:lastmodified":1695877060,
     "wof:name":"Scheifling",
     "wof:parent_id":102049733,
     "wof:placetype":"localadmin",

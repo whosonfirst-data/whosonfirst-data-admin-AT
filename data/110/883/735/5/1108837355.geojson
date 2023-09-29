@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":7158,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.298442,
     "lbl:longitude":11.280914,
     "lbl:max_zoom":15.0,
@@ -86,12 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70369",
         "eg:gisco_id":"AT_70369",
         "eurostat:nuts_2021_id":"70369",
         "gn:id":7872555,
         "gp:id":12675416,
         "qs_pg:id":190175
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046991,
     "wof:geomhash":"1b816e338d8fbfe5bd395a67ef85e0c9",
@@ -105,7 +113,7 @@
         }
     ],
     "wof:id":1108837355,
-    "wof:lastmodified":1684351589,
+    "wof:lastmodified":1695876978,
     "wof:name":"Zirl",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":48.055316,
     "geom:longitude":15.131843,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.059864,
     "lbl:longitude":15.132774,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32008",
         "eg:gisco_id":"AT_32008",
         "eurostat:nuts_2021_id":"32008"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046724,
     "wof:geomhash":"4770918c040f77e546cadbb005cca600",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108835333,
-    "wof:lastmodified":1684351528,
+    "wof:lastmodified":1695876853,
     "wof:name":"Purgstall an der Erlauf",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",

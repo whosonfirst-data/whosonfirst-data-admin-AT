@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1950,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.010616,
     "lbl:longitude":14.946158,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32009",
         "eg:gisco_id":"AT_32009",
         "eurostat:nuts_2021_id":"32009",
         "gn:id":7871902,
         "qs_pg:id":1245703
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046835,
     "wof:geomhash":"9c58efdb612a510561d929dc88c2df91",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836205,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876906,
     "wof:name":"Randegg",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",

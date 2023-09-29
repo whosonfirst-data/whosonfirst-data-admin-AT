@@ -482,22 +482,28 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"3",
         "digitalenvoy:region_code":11585,
         "eurostat:nuts_2021_id":"AT12",
         "fips:code":"AU03",
         "gn:id":2770542,
         "gp:id":2344710,
         "hasc:id":"AT.NO",
+        "iso:code":"AT-3",
         "iso:id":"AT-3",
         "unlc:id":"AT-3",
         "wd:id":"Q42497",
         "wk:page":"Lower_Austria"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8fe0aeb078e1ff4702067e961813edf",
+    "wof:geomhash":"84b536639afc1d8dc87c601ba2935b27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -515,7 +521,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1690850918,
+    "wof:lastmodified":1695885153,
     "wof:name":"Nieder\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1870,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.243375,
     "lbl:longitude":15.931375,
     "lbl:max_zoom":15.0,
@@ -131,6 +137,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31902",
         "eg:gisco_id":"AT_31902",
         "eurostat:nuts_2021_id":"31902",
         "gn:id":7873007,
@@ -141,6 +148,7 @@
         "gn:id":2782317,
         "qs_pg:id":37587
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046933,
     "wof:geomhash":"50e83ebfa055a389077c54cea05e5222",
@@ -154,7 +162,7 @@
         }
     ],
     "wof:id":1108836947,
-    "wof:lastmodified":1684351576,
+    "wof:lastmodified":1695876951,
     "wof:name":"Asperhofen",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

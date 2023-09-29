@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3544,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.890575,
     "lbl:longitude":15.137928,
     "lbl:max_zoom":15.0,
@@ -83,11 +89,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32001",
         "eg:gisco_id":"AT_32001",
         "eurostat:nuts_2021_id":"32001",
         "gn:id":7871899,
         "qs_pg:id":1245699
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046721,
     "wof:geomhash":"9f0017e3d5a4c3379693c7530f401cda",
@@ -101,7 +109,7 @@
         }
     ],
     "wof:id":1108835303,
-    "wof:lastmodified":1684351527,
+    "wof:lastmodified":1695876851,
     "wof:name":"Gaming",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",

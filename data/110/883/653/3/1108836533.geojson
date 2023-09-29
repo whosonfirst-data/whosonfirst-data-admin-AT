@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.909785,
     "lbl:longitude":13.347113,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41751",
         "eg:gisco_id":"AT_41751",
         "eurostat:nuts_2021_id":"41751",
         "gn:id":2760636,
@@ -144,6 +151,7 @@
         "gn:id":7872180,
         "qs_pg:id":108526
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046882,
     "wof:geomhash":"f979fd4a1cf09b178d63bf9f83fe79df",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836533,
-    "wof:lastmodified":1684351565,
+    "wof:lastmodified":1695876927,
     "wof:name":"Zell am Moos",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

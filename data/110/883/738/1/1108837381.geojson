@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3510,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.376102,
     "lbl:longitude":12.215549,
     "lbl:max_zoom":15.0,
@@ -125,6 +131,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70420",
         "eg:gisco_id":"AT_70420",
         "eurostat:nuts_2021_id":"70420",
         "gn:id":7872563,
@@ -135,6 +142,7 @@
         "gn:id":2761457,
         "qs_pg:id":1295686
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046994,
     "wof:geomhash":"dc022ff112e5ce085b846bb40d8fe96c",
@@ -148,7 +156,7 @@
         }
     ],
     "wof:id":1108837381,
-    "wof:lastmodified":1684351590,
+    "wof:lastmodified":1695876980,
     "wof:name":"Westendorf",
     "wof:parent_id":102049763,
     "wof:placetype":"localadmin",

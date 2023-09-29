@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105796,
-    "geom:area_square_m":873693017.686603,
+    "geom:area_square_m":873692866.674189,
     "geom:bbox":"14.452636,47.941635,15.015872,48.237948",
     "geom:latitude":48.097306,
     "geom:longitude":14.713188,
@@ -239,14 +239,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"305",
         "hasc:id":"AT.NO.AM",
         "wd:id":"Q251231"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd5e53034ec48305ecb1fa261671db6d",
+    "wof:geomhash":"c660679be6d102b151048893dbe3313e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,7 +261,7 @@
         }
     ],
     "wof:id":102049835,
-    "wof:lastmodified":1690850872,
+    "wof:lastmodified":1695886087,
     "wof:name":"Amstetten",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

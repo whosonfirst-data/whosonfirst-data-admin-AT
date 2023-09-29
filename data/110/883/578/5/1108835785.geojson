@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2610,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.687897,
     "lbl:longitude":15.967306,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31052",
         "eg:gisco_id":"AT_31052",
         "eurostat:nuts_2021_id":"31052",
         "gn:id":7871772,
         "qs_pg:id":108362
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046780,
     "wof:geomhash":"a13207085c4e667c0401d6a2f4191b08",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835785,
-    "wof:lastmodified":1684351542,
+    "wof:lastmodified":1695876880,
     "wof:name":"Zellerndorf",
     "wof:parent_id":102049899,
     "wof:placetype":"localadmin",

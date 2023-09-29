@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3280,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.166324,
     "lbl:longitude":14.83122,
     "lbl:max_zoom":15.0,
@@ -143,6 +149,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30503",
         "eg:gisco_id":"AT_30503",
         "eurostat:nuts_2021_id":"30503",
         "gn:id":7872815,
@@ -152,6 +159,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":262520
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046913,
     "wof:geomhash":"b9f4d9627310be1031493751794e8024",
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1108836795,
-    "wof:lastmodified":1684351572,
+    "wof:lastmodified":1695876942,
     "wof:name":"Ardagger",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

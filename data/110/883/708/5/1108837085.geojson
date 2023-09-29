@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2297,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.503327,
     "lbl:longitude":13.443147,
     "lbl:max_zoom":15.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50203",
         "eg:gisco_id":"AT_50203",
         "eurostat:nuts_2021_id":"50203",
         "gn:id":7872196,
         "qs_pg:id":108527
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046953,
     "wof:geomhash":"16f417ded5faca94ea08e97c74ac3665",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108837085,
-    "wof:lastmodified":1684351582,
+    "wof:lastmodified":1695876962,
     "wof:name":"Annaberg-Lung\u00f6tz",
     "wof:parent_id":102049773,
     "wof:placetype":"localadmin",

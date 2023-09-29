@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":769,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.589292,
     "lbl:longitude":15.463077,
     "lbl:max_zoom":17.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31321",
         "eg:gisco_id":"AT_31321",
         "eurostat:nuts_2021_id":"31321",
         "gn:id":7872917,
         "qs_pg:id":108752
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046789,
     "wof:geomhash":"ddd6b4c41f57231576a2f1728b06eee7",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835849,
-    "wof:lastmodified":1684351544,
+    "wof:lastmodified":1695876883,
     "wof:name":"Krumau am Kamp",
     "wof:parent_id":102049885,
     "wof:placetype":"localadmin",

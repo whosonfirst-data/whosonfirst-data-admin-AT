@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075152,
-    "geom:area_square_m":616572609.434911,
+    "geom:area_square_m":616572566.069368,
     "geom:bbox":"13.406932,48.245327,13.865376,48.591131",
     "geom:latitude":48.432274,
     "geom:longitude":13.58946,
@@ -182,14 +182,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"414",
         "hasc:id":"AT.OO.SD",
         "wd:id":"Q255012"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"84cc978f201e6f5f4a8117c224aa8baa",
+    "wof:geomhash":"370dce664b14ee3bf57bd547a02a9cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":102049877,
-    "wof:lastmodified":1690850886,
+    "wof:lastmodified":1695886101,
     "wof:name":"Sch\u00e4rding",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

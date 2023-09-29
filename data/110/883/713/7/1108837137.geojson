@@ -29,6 +29,12 @@
     "geom:latitude":47.954229,
     "geom:longitude":12.968727,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.953101,
     "lbl:longitude":12.969119,
     "lbl:max_zoom":18.0,
@@ -99,9 +105,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50313",
         "eg:gisco_id":"AT_50313",
         "eurostat:nuts_2021_id":"50313"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046959,
     "wof:geomhash":"bba984bf5bcc277a5c8f7d2a341af7af",
@@ -115,7 +123,7 @@
         }
     ],
     "wof:id":1108837137,
-    "wof:lastmodified":1684351583,
+    "wof:lastmodified":1695876965,
     "wof:name":"G\u00f6ming",
     "wof:parent_id":102049799,
     "wof:placetype":"localadmin",

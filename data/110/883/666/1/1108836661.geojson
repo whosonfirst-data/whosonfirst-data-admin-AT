@@ -29,6 +29,12 @@
     "geom:latitude":48.061174,
     "geom:longitude":15.748764,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.06293,
     "lbl:longitude":15.748756,
     "lbl:max_zoom":18.0,
@@ -99,9 +105,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31410",
         "eg:gisco_id":"AT_31410",
         "eurostat:nuts_2021_id":"31410"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046897,
     "wof:geomhash":"0b66c97b753f35bd9d6c03edd1d58e4c",
@@ -115,7 +123,7 @@
         }
     ],
     "wof:id":1108836661,
-    "wof:lastmodified":1684351569,
+    "wof:lastmodified":1695876935,
     "wof:name":"Rohrbach an der G\u00f6lsen",
     "wof:parent_id":102049823,
     "wof:placetype":"localadmin",

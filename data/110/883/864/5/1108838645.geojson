@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1532,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.529272,
     "lbl:longitude":16.570812,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10804",
         "eg:gisco_id":"AT_10804",
         "eurostat:nuts_2021_id":"10804",
         "gn:id":7871600,
         "qs_pg:id":108283
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047150,
     "wof:geomhash":"933200a4472850d982c19a78c70d8f71",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108838645,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877051,
     "wof:name":"Gro\u00dfwarasdorf",
     "wof:parent_id":102049775,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.010092,
     "lbl:longitude":16.173058,
     "lbl:max_zoom":17.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10511",
         "eg:gisco_id":"AT_10511",
         "eurostat:nuts_2021_id":"10511",
         "gn:id":2773746,
@@ -150,6 +157,7 @@
         "gn:id":7871571,
         "qs_pg:id":743290
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047143,
     "wof:geomhash":"c8728d701a427933e1610493215f7602",
@@ -163,7 +171,7 @@
         }
     ],
     "wof:id":1108838579,
-    "wof:lastmodified":1684351622,
+    "wof:lastmodified":1695877047,
     "wof:name":"K\u00f6nigsdorf",
     "wof:parent_id":102049715,
     "wof:placetype":"localadmin",

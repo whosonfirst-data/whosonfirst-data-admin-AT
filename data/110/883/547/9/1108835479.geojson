@@ -29,6 +29,12 @@
     "geom:latitude":48.45826,
     "geom:longitude":15.049455,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.455634,
     "lbl:longitude":15.034307,
     "lbl:max_zoom":18.0,
@@ -90,9 +96,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32523",
         "eg:gisco_id":"AT_32523",
         "eurostat:nuts_2021_id":"32523"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046742,
     "wof:geomhash":"9f51ba82103cf97ca224f67d2f58a094",
@@ -106,7 +114,7 @@
         }
     ],
     "wof:id":1108835479,
-    "wof:lastmodified":1684351533,
+    "wof:lastmodified":1695876861,
     "wof:name":"Sch\u00f6nbach",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",

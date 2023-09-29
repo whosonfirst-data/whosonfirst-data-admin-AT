@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1226,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.127981,
     "lbl:longitude":10.456101,
     "lbl:max_zoom":16.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70627",
         "eg:gisco_id":"AT_70627",
         "eurostat:nuts_2021_id":"70627",
         "gn:id":7872585,
         "gp:id":12675339,
         "qs_pg:id":1192691
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046990,
     "wof:geomhash":"6c44c2a3b7062f7e2cf0160e09ee4833",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837337,
-    "wof:lastmodified":1684351589,
+    "wof:lastmodified":1695876977,
     "wof:name":"Strengen",
     "wof:parent_id":102049707,
     "wof:placetype":"localadmin",

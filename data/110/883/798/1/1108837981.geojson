@@ -29,6 +29,12 @@
     "geom:latitude":47.516516,
     "geom:longitude":9.833833,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.520598,
     "lbl:longitude":9.841173,
     "lbl:max_zoom":18.0,
@@ -102,9 +108,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80222",
         "eg:gisco_id":"AT_80222",
         "eurostat:nuts_2021_id":"80222"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047066,
     "wof:geomhash":"2e145dd5a52a60aa8d2d846394a24d77",
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1108837981,
-    "wof:lastmodified":1684351604,
+    "wof:lastmodified":1695877009,
     "wof:name":"Langen",
     "wof:parent_id":102049751,
     "wof:placetype":"localadmin",

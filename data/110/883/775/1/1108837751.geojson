@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1970,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.502852,
     "lbl:longitude":10.689485,
     "lbl:max_zoom":15.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70820",
         "eg:gisco_id":"AT_70820",
         "eurostat:nuts_2021_id":"70820",
         "gn:id":7872618,
         "gp:id":12675491,
         "qs_pg:id":1192797
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047039,
     "wof:geomhash":"03ba899838a9d41cd60a1407023db09b",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837751,
-    "wof:lastmodified":1684351598,
+    "wof:lastmodified":1695876997,
     "wof:name":"Lechaschau",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

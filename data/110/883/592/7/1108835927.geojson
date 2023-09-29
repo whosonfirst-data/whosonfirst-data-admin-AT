@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1220,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.591431,
     "lbl:longitude":16.73324,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30826",
         "eg:gisco_id":"AT_30826",
         "eurostat:nuts_2021_id":"30826",
         "gn:id":7872864,
         "qs_pg:id":108732
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046798,
     "wof:geomhash":"73c68b3da5cc3582d22867764bcd01eb",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108835927,
-    "wof:lastmodified":1684351546,
+    "wof:lastmodified":1695876887,
     "wof:name":"Hauskirchen",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

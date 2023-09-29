@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":8824,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.081803,
     "lbl:longitude":16.319896,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31725",
         "eg:gisco_id":"AT_31725",
         "eurostat:nuts_2021_id":"31725",
         "gn:id":7872984,
@@ -147,6 +154,7 @@
         "gn:id":2761354,
         "qs_pg:id":1107692
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046656,
     "wof:geomhash":"07791196d9f12e01cdbd63b98c4b6ebd",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108834869,
-    "wof:lastmodified":1684351513,
+    "wof:lastmodified":1695876822,
     "wof:name":"Wiener Neudorf",
     "wof:parent_id":102049837,
     "wof:placetype":"localadmin",

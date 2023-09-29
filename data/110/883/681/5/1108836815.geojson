@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":750,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.48453,
     "lbl:longitude":16.252852,
     "lbl:max_zoom":17.0,
@@ -129,12 +135,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32302",
         "eg:gisco_id":"AT_32302",
         "eurostat:nuts_2021_id":"32302",
         "gn:id":7871926,
         "gp:id":12674145,
         "qs_pg:id":203618
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046917,
     "wof:geomhash":"b324545dae2fa1e03699a3bcf10704ad",
@@ -148,7 +156,7 @@
         }
     ],
     "wof:id":1108836815,
-    "wof:lastmodified":1684351573,
+    "wof:lastmodified":1695876944,
     "wof:name":"Bad Sch\u00f6nau",
     "wof:parent_id":102049787,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":48.950277,
     "geom:longitude":15.367067,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.954576,
     "lbl:longitude":15.362677,
     "lbl:max_zoom":18.0,
@@ -102,9 +108,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32222",
         "eg:gisco_id":"AT_32222",
         "eurostat:nuts_2021_id":"32222"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046906,
     "wof:geomhash":"b81a6ccea1813e4d39b616e6a8e8b9b3",
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1108836733,
-    "wof:lastmodified":1684351571,
+    "wof:lastmodified":1695876939,
     "wof:name":"Waldkirchen an der Thaya",
     "wof:parent_id":102049903,
     "wof:placetype":"localadmin",

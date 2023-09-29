@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002402,
-    "geom:area_square_m":19948405.471012,
+    "geom:area_square_m":19948405.471013,
     "geom:bbox":"16.642037,47.781773,16.731781,47.825869",
     "geom:latitude":47.802295,
     "geom:longitude":16.686451,
@@ -188,9 +188,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"102",
         "hasc:id":"AT.BU.RU",
         "wd:id":"Q259214"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:coterminous":[
         1108838671
     ],
@@ -198,7 +203,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"54be55737d54ade5851730f9ce4d41ec",
+    "wof:geomhash":"f3af41ae391e409a1fbb5636fdced802",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":102049793,
-    "wof:lastmodified":1690850879,
+    "wof:lastmodified":1695886413,
     "wof:name":"Rust",
     "wof:parent_id":85681651,
     "wof:placetype":"county",

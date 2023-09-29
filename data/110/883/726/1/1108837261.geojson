@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":431,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.670351,
     "lbl:longitude":12.273864,
     "lbl:max_zoom":17.0,
@@ -131,12 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70523",
         "eg:gisco_id":"AT_70523",
         "eurostat:nuts_2021_id":"70523",
         "gn:id":7873656,
         "gp:id":12675537,
         "qs_pg:id":1187790
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046976,
     "wof:geomhash":"6403139e0757bc686a0264de2ec39142",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108837261,
-    "wof:lastmodified":1684351587,
+    "wof:lastmodified":1695876973,
     "wof:name":"Rettensch\u00f6ss",
     "wof:parent_id":102049771,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.228369,
     "geom:longitude":11.95244,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.230036,
     "lbl:longitude":11.969058,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70913",
         "eg:gisco_id":"AT_70913",
         "eurostat:nuts_2021_id":"70913"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047053,
     "wof:geomhash":"a6a8fbd1298c9cdb552f217eeff80670",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108837869,
-    "wof:lastmodified":1684351601,
+    "wof:lastmodified":1695877003,
     "wof:name":"Gerlosberg",
     "wof:parent_id":102049755,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.909255,
     "lbl:longitude":15.285268,
     "lbl:max_zoom":17.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32007",
         "eg:gisco_id":"AT_32007",
         "eurostat:nuts_2021_id":"32007",
         "gn:id":2768274,
@@ -144,6 +151,7 @@
         "gn:id":7871901,
         "qs_pg:id":743311
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046674,
     "wof:geomhash":"58df9e64b46a7ca7fcb5d87cfb7167e9",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835007,
-    "wof:lastmodified":1684351517,
+    "wof:lastmodified":1695876831,
     "wof:name":"Puchenstuben",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",

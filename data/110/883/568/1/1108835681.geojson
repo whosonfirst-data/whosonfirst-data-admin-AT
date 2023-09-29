@@ -29,6 +29,12 @@
     "geom:latitude":48.288606,
     "geom:longitude":13.33238,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.288771,
     "lbl:longitude":13.332393,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41226",
         "eg:gisco_id":"AT_41226",
         "eurostat:nuts_2021_id":"41226"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046768,
     "wof:geomhash":"7822fece36b3236dca057fb623c08175",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835681,
-    "wof:lastmodified":1684351539,
+    "wof:lastmodified":1695876874,
     "wof:name":"St. Georgen bei Obernberg am Inn",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

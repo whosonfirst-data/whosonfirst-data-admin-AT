@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1042,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.746776,
     "lbl:longitude":16.485249,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10601",
         "eg:gisco_id":"AT_10601",
         "eurostat:nuts_2021_id":"10601",
         "gn:id":7871573,
         "qs_pg:id":1154994
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047135,
     "wof:geomhash":"994a79a7fe341d1f502a26200932cfa5",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108838509,
-    "wof:lastmodified":1684351620,
+    "wof:lastmodified":1695877044,
     "wof:name":"Dra\u00dfburg",
     "wof:parent_id":102049789,
     "wof:placetype":"localadmin",

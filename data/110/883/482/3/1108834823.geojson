@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1904,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.844306,
     "lbl:longitude":16.352127,
     "lbl:max_zoom":15.0,
@@ -134,12 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32338",
         "eg:gisco_id":"AT_32338",
         "eurostat:nuts_2021_id":"32338",
         "gn:id":7873067,
         "gp:id":12673474,
         "qs_pg:id":1002012
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046650,
     "wof:geomhash":"f7ff9a0b184ba85ac74004f2d78db36e",
@@ -153,7 +161,7 @@
         }
     ],
     "wof:id":1108834823,
-    "wof:lastmodified":1684351511,
+    "wof:lastmodified":1695876819,
     "wof:name":"Zillingdorf",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095799,
-    "geom:area_square_m":780625211.266779,
+    "geom:area_square_m":780625211.266735,
     "geom:bbox":"14.6914575,48.551535,15.187777,49.020336",
     "geom:latitude":48.776586,
     "geom:longitude":14.974264,
@@ -23,7 +23,7 @@
     "mps:latitude":48.9051,
     "mps:longitude":15.081477,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Gm\u00fcnd"
@@ -259,13 +259,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"309",
         "wd:id":"Q345263"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"22656a06068c3d49c3ab17e1bd9d4cc5",
+    "wof:geomhash":"df7f23fcae3d6438afc6028e411403f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -275,7 +277,7 @@
         }
     ],
     "wof:id":102049905,
-    "wof:lastmodified":1582381730,
+    "wof:lastmodified":1695887127,
     "wof:name":"Gm\u00fcnd",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1705,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.193393,
     "lbl:longitude":14.694673,
     "lbl:max_zoom":16.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41112",
         "eg:gisco_id":"AT_41112",
         "eurostat:nuts_2021_id":"41112",
         "gn:id":7873173,
@@ -137,6 +144,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":984035
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046756,
     "wof:geomhash":"8de68e7c3fec15934bfbf71481705dab",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108835591,
-    "wof:lastmodified":1684351536,
+    "wof:lastmodified":1695876868,
     "wof:name":"Mitterkirchen im Machland",
     "wof:parent_id":102049865,
     "wof:placetype":"localadmin",

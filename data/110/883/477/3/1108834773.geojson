@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":742,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.022058,
     "lbl:longitude":13.069198,
     "lbl:max_zoom":17.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40430",
         "eg:gisco_id":"AT_40430",
         "eurostat:nuts_2021_id":"40430",
         "gn:id":7871981,
         "qs_pg:id":1155129
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046645,
     "wof:geomhash":"cb519f214c380d623f5ae9212313679b",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108834773,
-    "wof:lastmodified":1684351510,
+    "wof:lastmodified":1695876816,
     "wof:name":"Perwang am Grabensee",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

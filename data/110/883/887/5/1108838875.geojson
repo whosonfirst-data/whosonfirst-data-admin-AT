@@ -29,6 +29,12 @@
     "geom:latitude":47.196194,
     "geom:longitude":15.837442,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.197224,
     "lbl:longitude":15.8266,
     "lbl:max_zoom":18.0,
@@ -72,9 +78,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62266",
         "eg:gisco_id":"AT_62266",
         "eurostat:nuts_2021_id":"62266"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047179,
     "wof:geomhash":"9866876ed8b10729ff92f3ce0fc9abb5",
@@ -88,7 +96,7 @@
         }
     ],
     "wof:id":1108838875,
-    "wof:lastmodified":1684351631,
+    "wof:lastmodified":1695877065,
     "wof:name":"Feistritztal",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

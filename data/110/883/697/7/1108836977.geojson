@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1114,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.289297,
     "lbl:longitude":15.25307,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31546",
         "eg:gisco_id":"AT_31546",
         "eurostat:nuts_2021_id":"31546",
         "gn:id":7871830,
         "qs_pg:id":108391
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046937,
     "wof:geomhash":"1ebb803aa4ce66a6a724708838723ee8",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836977,
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1695876953,
     "wof:name":"Weiten",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

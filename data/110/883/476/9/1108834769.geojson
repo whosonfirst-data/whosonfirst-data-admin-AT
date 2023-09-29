@@ -29,6 +29,12 @@
     "geom:latitude":48.056021,
     "geom:longitude":12.81627,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.046572,
     "lbl:longitude":12.82673,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40428",
         "eg:gisco_id":"AT_40428",
         "eurostat:nuts_2021_id":"40428"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046644,
     "wof:geomhash":"8f63272a4f608072657f724b03d56121",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108834769,
-    "wof:lastmodified":1684351509,
+    "wof:lastmodified":1695876816,
     "wof:name":"Ostermiething",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

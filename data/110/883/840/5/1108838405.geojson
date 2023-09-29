@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1040,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.046599,
     "lbl:longitude":17.04045,
     "lbl:max_zoom":16.0,
@@ -104,6 +110,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10715",
         "eg:gisco_id":"AT_10715",
         "eurostat:nuts_2021_id":"10715",
         "gn:id":7872719,
@@ -114,6 +121,7 @@
         "gn:id":2769259,
         "qs_pg:id":535455
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047123,
     "wof:geomhash":"ea18aae721afeb6996dac7c4fd043cfa",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108838405,
-    "wof:lastmodified":1684351618,
+    "wof:lastmodified":1695877038,
     "wof:name":"Pama",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

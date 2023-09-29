@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1781,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.227952,
     "lbl:longitude":13.607551,
     "lbl:max_zoom":16.0,
@@ -80,11 +86,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40822",
         "eg:gisco_id":"AT_40822",
         "eurostat:nuts_2021_id":"40822",
         "gn:id":7872030,
         "qs_pg:id":108474
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046702,
     "wof:geomhash":"4ae20006e0f2f7760305ed582e36e8d7",
@@ -98,7 +106,7 @@
         }
     ],
     "wof:id":1108835213,
-    "wof:lastmodified":1684351524,
+    "wof:lastmodified":1695876845,
     "wof:name":"Pram",
     "wof:parent_id":102049861,
     "wof:placetype":"localadmin",

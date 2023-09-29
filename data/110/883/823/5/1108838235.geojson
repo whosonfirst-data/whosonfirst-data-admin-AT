@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1309,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.858232,
     "lbl:longitude":14.409647,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20520",
         "eg:gisco_id":"AT_20520",
         "eurostat:nuts_2021_id":"20520",
         "gn:id":7872773,
         "qs_pg:id":108697
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047099,
     "wof:geomhash":"4f694bc435d3a30a6ece75cc2ef61ea8",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838235,
-    "wof:lastmodified":1684351612,
+    "wof:lastmodified":1695877026,
     "wof:name":"M\u00f6lbling",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",

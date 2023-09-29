@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2239,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.107915,
     "lbl:longitude":9.914911,
     "lbl:max_zoom":15.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"80101",
         "eg:gisco_id":"AT_80101",
         "eurostat:nuts_2021_id":"80101",
         "gn:id":7873715,
@@ -147,6 +154,7 @@
         "gn:id":2781975,
         "qs_pg:id":1195789
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047055,
     "wof:geomhash":"32c6b6c2cbd4fc2abaa164303464712e",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108837893,
-    "wof:lastmodified":1684351601,
+    "wof:lastmodified":1695877005,
     "wof:name":"Bartholom\u00e4berg",
     "wof:parent_id":102049711,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.938716,
     "lbl:longitude":17.057368,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10714",
         "eg:gisco_id":"AT_10714",
         "eurostat:nuts_2021_id":"10714",
         "gn:id":2770630,
@@ -147,6 +154,7 @@
         "gn:id":7871591,
         "qs_pg:id":1041927
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047125,
     "wof:geomhash":"e09279cbb79cdf49cecbaf2e9768fce8",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108838427,
-    "wof:lastmodified":1684351618,
+    "wof:lastmodified":1695877039,
     "wof:name":"Nickelsdorf",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

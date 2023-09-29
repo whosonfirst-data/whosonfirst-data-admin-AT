@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1223,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.178848,
     "lbl:longitude":13.435843,
     "lbl:max_zoom":16.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50515",
         "eg:gisco_id":"AT_50515",
         "eurostat:nuts_2021_id":"50515",
         "gn:id":7873325,
         "qs_pg:id":108909
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046951,
     "wof:geomhash":"cf990b1d79b25949367779508b52832d",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108837077,
-    "wof:lastmodified":1684351581,
+    "wof:lastmodified":1695876961,
     "wof:name":"Zederhaus",
     "wof:parent_id":102049721,
     "wof:placetype":"localadmin",

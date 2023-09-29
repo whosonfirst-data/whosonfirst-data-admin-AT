@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":8177,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.771708,
     "lbl:longitude":13.7746,
     "lbl:max_zoom":15.0,
@@ -146,6 +152,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40704",
         "eg:gisco_id":"AT_40704",
         "eurostat:nuts_2021_id":"40704",
         "gn:id":7873134,
@@ -155,6 +162,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":108830
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046691,
     "wof:geomhash":"5e5944ea8859cfc1770fc96280dd3cee",
@@ -168,7 +176,7 @@
         }
     ],
     "wof:id":1108835129,
-    "wof:lastmodified":1684351522,
+    "wof:lastmodified":1695876840,
     "wof:name":"Ebensee",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",

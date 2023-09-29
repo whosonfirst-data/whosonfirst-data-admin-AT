@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148854,
-    "geom:area_square_m":1235966592.534961,
+    "geom:area_square_m":1235966377.034812,
     "geom:bbox":"13.951301,47.606362,14.491631,48.101178",
     "geom:latitude":47.817173,
     "geom:longitude":14.209381,
@@ -167,15 +167,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"409",
         "gp:id":12591711,
         "hasc:id":"AT.OO.KI",
         "wd:id":"Q688620"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a4e7706e3706ff345a1fd6c58dfb703",
+    "wof:geomhash":"21ae6caf401b50b3550162fd9989bb45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":102049815,
-    "wof:lastmodified":1690850888,
+    "wof:lastmodified":1695886105,
     "wof:name":"Kirchdorf an der Krems",
     "wof:parent_id":85681677,
     "wof:placetype":"county",

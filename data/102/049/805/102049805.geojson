@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069178,
-    "geom:area_square_m":573841499.568169,
+    "geom:area_square_m":573841460.667036,
     "geom:bbox":"15.621945,47.770876,16.392482,47.960855",
     "geom:latitude":47.867758,
     "geom:longitude":16.010298,
@@ -140,14 +140,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"323",
         "hasc:id":"AT.NO.WB",
         "wd:id":"Q694413"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6f149855f220dcfa5c9ec097e217c3f4",
+    "wof:geomhash":"4db55319776831f3976c48780a76b7db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +162,7 @@
         }
     ],
     "wof:id":102049805,
-    "wof:lastmodified":1690850875,
+    "wof:lastmodified":1695886022,
     "wof:name":"Wiener Neustadt - Land",
     "wof:parent_id":85681671,
     "wof:placetype":"county",

@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.712773,
     "lbl:longitude":13.206292,
     "lbl:max_zoom":17.0,
@@ -128,6 +134,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50206",
         "eg:gisco_id":"AT_50206",
         "eurostat:nuts_2021_id":"50206",
         "gn:id":2773426,
@@ -138,6 +145,7 @@
         "gn:id":7872198,
         "qs_pg:id":906878
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046953,
     "wof:geomhash":"a25c3d3a6127fa90cfa7b2880cea82f2",
@@ -151,7 +159,7 @@
         }
     ],
     "wof:id":1108837093,
-    "wof:lastmodified":1684351582,
+    "wof:lastmodified":1695876963,
     "wof:name":"Krispl",
     "wof:parent_id":102049773,
     "wof:placetype":"localadmin",

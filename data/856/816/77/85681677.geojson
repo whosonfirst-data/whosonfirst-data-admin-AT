@@ -462,22 +462,28 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"4",
         "digitalenvoy:region_code":11573,
         "eurostat:nuts_2021_id":"AT31",
         "fips:code":"AU04",
         "gn:id":2769848,
         "gp:id":2344711,
         "hasc:id":"AT.OO",
+        "iso:code":"AT-4",
         "iso:id":"AT-4",
         "unlc:id":"AT-4",
         "wd:id":"Q41967",
         "wk:page":"Upper_Austria"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a2d1e7073b46bf04a24c951fd0f1c2f",
+    "wof:geomhash":"36669813247a2ea2b092fd43a6808e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -495,7 +501,7 @@
         "slv",
         "hun"
     ],
-    "wof:lastmodified":1690850916,
+    "wof:lastmodified":1695885155,
     "wof:name":"Ober\u00f6sterreich",
     "wof:parent_id":85632785,
     "wof:placetype":"region",

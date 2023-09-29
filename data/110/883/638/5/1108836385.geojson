@@ -29,6 +29,12 @@
     "geom:latitude":48.358042,
     "geom:longitude":16.41995,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.359244,
     "lbl:longitude":16.420356,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31202",
         "eg:gisco_id":"AT_31202",
         "eurostat:nuts_2021_id":"31202"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046865,
     "wof:geomhash":"8d3f6e7a868370fbdee6cb8b75891954",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836385,
-    "wof:lastmodified":1684351561,
+    "wof:lastmodified":1695876917,
     "wof:name":"Enzersfeld im Weinviertel",
     "wof:parent_id":102049887,
     "wof:placetype":"localadmin",

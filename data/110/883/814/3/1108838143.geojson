@@ -29,6 +29,12 @@
     "geom:latitude":46.63888,
     "geom:longitude":14.295755,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.624652,
     "lbl:longitude":14.288788,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20101",
         "eg:gisco_id":"AT_20101",
         "eurostat:nuts_2021_id":"20101"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047088,
     "wof:geomhash":"85c03561f0ff01d92392578886e538db",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838143,
-    "wof:lastmodified":1684351609,
+    "wof:lastmodified":1695877019,
     "wof:name":"Klagenfurt Am W\u00f6rther See",
     "wof:parent_id":102049679,
     "wof:placetype":"localadmin",

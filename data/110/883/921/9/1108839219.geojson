@@ -29,6 +29,12 @@
     "geom:latitude":47.003093,
     "geom:longitude":16.102624,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.002619,
     "lbl:longitude":16.105836,
     "lbl:max_zoom":18.0,
@@ -57,9 +63,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62273",
         "eg:gisco_id":"AT_62273",
         "eurostat:nuts_2021_id":"62273"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047222,
     "wof:geomhash":"d4088135fcee4d7ec83a00166db26024",
@@ -73,7 +81,7 @@
         }
     ],
     "wof:id":1108839219,
-    "wof:lastmodified":1684351641,
+    "wof:lastmodified":1695877086,
     "wof:name":"Loipersdorf",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

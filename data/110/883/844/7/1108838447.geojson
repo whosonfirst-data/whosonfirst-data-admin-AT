@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.160896,
     "lbl:longitude":16.166892,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10414",
         "eg:gisco_id":"AT_10414",
         "eurostat:nuts_2021_id":"10414",
         "gn:id":2764587,
@@ -144,6 +151,7 @@
         "gn:id":7872698,
         "qs_pg:id":904316
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047127,
     "wof:geomhash":"156123b565823da3593eb0957687ec37",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838447,
-    "wof:lastmodified":1684351618,
+    "wof:lastmodified":1695877040,
     "wof:name":"Stegersbach",
     "wof:parent_id":102049729,
     "wof:placetype":"localadmin",

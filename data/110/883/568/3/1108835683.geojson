@@ -29,6 +29,12 @@
     "geom:latitude":48.18532,
     "geom:longitude":13.580922,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.185783,
     "lbl:longitude":13.584294,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41227",
         "eg:gisco_id":"AT_41227",
         "eurostat:nuts_2021_id":"41227"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046769,
     "wof:geomhash":"4deb338949c48d38bcc5821b80a0f1ce",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835683,
-    "wof:lastmodified":1684351539,
+    "wof:lastmodified":1695876874,
     "wof:name":"St. Marienkirchen am Hausruck",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

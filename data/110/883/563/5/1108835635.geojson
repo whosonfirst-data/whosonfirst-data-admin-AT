@@ -29,6 +29,12 @@
     "geom:latitude":48.238116,
     "geom:longitude":13.424138,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.240295,
     "lbl:longitude":13.423677,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41205",
         "eg:gisco_id":"AT_41205",
         "eurostat:nuts_2021_id":"41205"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046762,
     "wof:geomhash":"ea7e23f60227cc7f8308901e42d56205",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108835635,
-    "wof:lastmodified":1684351538,
+    "wof:lastmodified":1695876871,
     "wof:name":"Eitzing",
     "wof:parent_id":102049851,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1146,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.483397,
     "lbl:longitude":14.421503,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40605",
         "eg:gisco_id":"AT_40605",
         "eurostat:nuts_2021_id":"40605",
         "gn:id":7873122,
         "qs_pg:id":743477
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046681,
     "wof:geomhash":"17c8d458d095cf8be05c3f79d7fe76ce",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108835069,
-    "wof:lastmodified":1684351519,
+    "wof:lastmodified":1695876834,
     "wof:name":"Hirschbach im M\u00fchlkreis",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",

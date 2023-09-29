@@ -29,6 +29,12 @@
     "geom:latitude":47.863855,
     "geom:longitude":16.178069,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.863019,
     "lbl:longitude":16.177417,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32337",
         "eg:gisco_id":"AT_32337",
         "eurostat:nuts_2021_id":"32337"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046652,
     "wof:geomhash":"9f48323f309dfbb588c0d1b61a9384e1",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108834835,
-    "wof:lastmodified":1684351512,
+    "wof:lastmodified":1695876820,
     "wof:name":"W\u00f6llersdorf - Steinabr\u00fcckl",
     "wof:parent_id":102049805,
     "wof:placetype":"localadmin",

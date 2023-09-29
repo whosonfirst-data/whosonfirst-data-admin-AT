@@ -29,6 +29,12 @@
     "geom:latitude":47.688343,
     "geom:longitude":15.553973,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.682059,
     "lbl:longitude":15.585761,
     "lbl:max_zoom":18.0,
@@ -87,9 +93,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62144",
         "eg:gisco_id":"AT_62144",
         "eurostat:nuts_2021_id":"62144"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047175,
     "wof:geomhash":"7c62eab57f7e23d8a8394cec144c62f4",
@@ -103,7 +111,7 @@
         }
     ],
     "wof:id":1108838845,
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1695877063,
     "wof:name":"Neuberg",
     "wof:parent_id":1108892551,
     "wof:placetype":"localadmin",

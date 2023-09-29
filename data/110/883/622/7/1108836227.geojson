@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1067,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.766179,
     "lbl:longitude":15.296748,
     "lbl:max_zoom":17.0,
@@ -128,11 +134,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32223",
         "eg:gisco_id":"AT_32223",
         "eurostat:nuts_2021_id":"32223",
         "gn:id":7873052,
         "qs_pg:id":108808
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046837,
     "wof:geomhash":"48abddac36bbdb521dfe8aac5d98c6dd",
@@ -146,7 +154,7 @@
         }
     ],
     "wof:id":1108836227,
-    "wof:lastmodified":1684351557,
+    "wof:lastmodified":1695876907,
     "wof:name":"Windigsteig",
     "wof:parent_id":102049903,
     "wof:placetype":"localadmin",

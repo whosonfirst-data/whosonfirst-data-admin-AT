@@ -29,6 +29,12 @@
     "geom:latitude":48.471667,
     "geom:longitude":16.788017,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.467003,
     "lbl:longitude":16.788506,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30859",
         "eg:gisco_id":"AT_30859",
         "eurostat:nuts_2021_id":"30859"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046938,
     "wof:geomhash":"dfa36427637ec11e4ee033b011feb8be",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836979,
-    "wof:lastmodified":1684351577,
+    "wof:lastmodified":1695876953,
     "wof:name":"Velm - G\u00f6tzendorf",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

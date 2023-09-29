@@ -29,6 +29,12 @@
     "geom:latitude":47.309546,
     "geom:longitude":14.851103,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.295769,
     "lbl:longitude":14.872968,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62045",
         "eg:gisco_id":"AT_62045",
         "eurostat:nuts_2021_id":"62045"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047254,
     "wof:geomhash":"8c6c172aec052eb656fc977822c423b2",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839413,
-    "wof:lastmodified":1684351648,
+    "wof:lastmodified":1695877098,
     "wof:name":"St. Marein-Feistritz",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

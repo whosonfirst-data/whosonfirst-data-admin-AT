@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.215169,
     "lbl:longitude":14.502257,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30508",
         "eg:gisco_id":"AT_30508",
         "eurostat:nuts_2021_id":"30508",
         "gn:id":2780043,
@@ -144,6 +151,7 @@
         "gn:id":7872818,
         "qs_pg:id":381063
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046735,
     "wof:geomhash":"6c5f1397b73789bd4e7513995738a6ea",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108835421,
-    "wof:lastmodified":1684351531,
+    "wof:lastmodified":1695876858,
     "wof:name":"Ennsdorf",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

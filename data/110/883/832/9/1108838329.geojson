@@ -29,6 +29,12 @@
     "geom:latitude":46.572132,
     "geom:longitude":13.566025,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.573994,
     "lbl:longitude":13.561008,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20707",
         "eg:gisco_id":"AT_20707",
         "eurostat:nuts_2021_id":"20707"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047114,
     "wof:geomhash":"7f33e8c24e59486358319a77ba89d6d4",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838329,
-    "wof:lastmodified":1684351615,
+    "wof:lastmodified":1695877033,
     "wof:name":"Feistritz A. D. Gail",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",

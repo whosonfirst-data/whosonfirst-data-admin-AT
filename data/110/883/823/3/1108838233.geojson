@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.922278,
     "lbl:longitude":14.43845,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20519",
         "eg:gisco_id":"AT_20519",
         "eurostat:nuts_2021_id":"20519",
         "gn:id":2771621,
@@ -144,6 +151,7 @@
         "gn:id":7872772,
         "qs_pg:id":108696
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047099,
     "wof:geomhash":"2bf4746bb748aec275abbc35337e8be4",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838233,
-    "wof:lastmodified":1684351612,
+    "wof:lastmodified":1695877026,
     "wof:name":"Micheldorf",
     "wof:parent_id":102049697,
     "wof:placetype":"localadmin",

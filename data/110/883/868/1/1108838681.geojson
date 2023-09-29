@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.003544,
     "lbl:longitude":16.309394,
     "lbl:max_zoom":18.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10423",
         "eg:gisco_id":"AT_10423",
         "eurostat:nuts_2021_id":"10423",
         "gn:id":2763300,
@@ -144,6 +151,7 @@
         "gn:id":7872699,
         "qs_pg:id":108666
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047154,
     "wof:geomhash":"0f031e01c94534d73d19ee25667bd179",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838681,
-    "wof:lastmodified":1684351624,
+    "wof:lastmodified":1695877053,
     "wof:name":"Tschanigraben",
     "wof:parent_id":102049729,
     "wof:placetype":"localadmin",

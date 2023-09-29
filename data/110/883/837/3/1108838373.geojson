@@ -29,6 +29,12 @@
     "geom:latitude":46.468814,
     "geom:longitude":14.572546,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.472799,
     "lbl:longitude":14.556359,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20804",
         "eg:gisco_id":"AT_20804",
         "eurostat:nuts_2021_id":"20804"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047119,
     "wof:geomhash":"cb00433313fef2f963a98f0edda2d7b5",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838373,
-    "wof:lastmodified":1684351616,
+    "wof:lastmodified":1695877036,
     "wof:name":"Eisenkappel - Vellach",
     "wof:parent_id":102049685,
     "wof:placetype":"localadmin",

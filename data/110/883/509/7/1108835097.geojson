@@ -29,6 +29,12 @@
     "geom:latitude":48.448575,
     "geom:longitude":14.681668,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.450851,
     "lbl:longitude":14.677726,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40617",
         "eg:gisco_id":"AT_40617",
         "eurostat:nuts_2021_id":"40617"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046686,
     "wof:geomhash":"ac9beb08a667b9f769e4dfa3da57cfe8",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108835097,
-    "wof:lastmodified":1684351521,
+    "wof:lastmodified":1695876837,
     "wof:name":"St. Leonhard bei Freistadt",
     "wof:parent_id":102049883,
     "wof:placetype":"localadmin",

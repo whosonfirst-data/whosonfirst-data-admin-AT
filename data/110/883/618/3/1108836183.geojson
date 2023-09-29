@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1311,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.116946,
     "lbl:longitude":15.527487,
     "lbl:max_zoom":16.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31945",
         "eg:gisco_id":"AT_31945",
         "eurostat:nuts_2021_id":"31945",
         "gn:id":7871895,
@@ -144,6 +151,7 @@
         "gn:id":2761698,
         "qs_pg:id":399728
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046832,
     "wof:geomhash":"4ea70fc76feedcfdc0091185a0f0cecd",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836183,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876905,
     "wof:name":"Weinburg",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

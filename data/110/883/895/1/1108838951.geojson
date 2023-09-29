@@ -29,6 +29,12 @@
     "geom:latitude":47.21963,
     "geom:longitude":14.941891,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.215481,
     "lbl:longitude":14.943507,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62046",
         "eg:gisco_id":"AT_62046",
         "eurostat:nuts_2021_id":"62046"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047189,
     "wof:geomhash":"1f3007d5feca30bf2f1c0fa3a65a1a65",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108838951,
-    "wof:lastmodified":1684351633,
+    "wof:lastmodified":1695877070,
     "wof:name":"St. Margarethen",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

@@ -29,6 +29,12 @@
     "geom:latitude":47.337235,
     "geom:longitude":14.437179,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.35961,
     "lbl:longitude":14.450217,
     "lbl:max_zoom":18.0,
@@ -72,9 +78,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62044",
         "eg:gisco_id":"AT_62044",
         "eurostat:nuts_2021_id":"62044"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047189,
     "wof:geomhash":"d356eafdf37641f60d379a43d814e784",
@@ -88,7 +96,7 @@
         }
     ],
     "wof:id":1108838953,
-    "wof:lastmodified":1684351633,
+    "wof:lastmodified":1695877070,
     "wof:name":"P\u00f6lstal",
     "wof:parent_id":1108892555,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2932,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.197501,
     "lbl:longitude":10.767423,
     "lbl:max_zoom":15.0,
@@ -143,12 +149,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70201",
         "eg:gisco_id":"AT_70201",
         "eurostat:nuts_2021_id":"70201",
         "gn:id":7872524,
         "gp:id":12675348,
         "qs_pg:id":1261212
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047011,
     "wof:geomhash":"610955e3482a1a5f53f1c29e6c87c375",
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1108837529,
-    "wof:lastmodified":1684351593,
+    "wof:lastmodified":1695876987,
     "wof:name":"Arzl im Pitztal",
     "wof:parent_id":102049727,
     "wof:placetype":"localadmin",

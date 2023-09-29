@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2007,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.964372,
     "lbl:longitude":16.984868,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10724",
         "eg:gisco_id":"AT_10724",
         "eurostat:nuts_2021_id":"10724",
         "gn:id":7871595,
@@ -144,6 +151,7 @@
         "gn:id":2760449,
         "qs_pg:id":535530
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047159,
     "wof:geomhash":"49780697a2f0ec2e4a60e6273bd17cb3",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108838713,
-    "wof:lastmodified":1684351625,
+    "wof:lastmodified":1695877055,
     "wof:name":"Zurndorf",
     "wof:parent_id":102049841,
     "wof:placetype":"localadmin",

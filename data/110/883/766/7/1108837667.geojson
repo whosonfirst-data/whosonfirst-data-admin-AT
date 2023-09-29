@@ -29,6 +29,12 @@
     "geom:latitude":47.147111,
     "geom:longitude":11.103172,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.127272,
     "lbl:longitude":11.102164,
     "lbl:max_zoom":18.0,
@@ -99,9 +105,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70347",
         "eg:gisco_id":"AT_70347",
         "eurostat:nuts_2021_id":"70347"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047029,
     "wof:geomhash":"d7c88fa21b5a8325ad55c540accb98dd",
@@ -115,7 +123,7 @@
         }
     ],
     "wof:id":1108837667,
-    "wof:lastmodified":1684351596,
+    "wof:lastmodified":1695876993,
     "wof:name":"Sankt Sigmund im Sellrain",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

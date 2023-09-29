@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":6552,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.255971,
     "lbl:longitude":14.209975,
     "lbl:max_zoom":15.0,
@@ -134,11 +140,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41017",
         "eg:gisco_id":"AT_41017",
         "eurostat:nuts_2021_id":"41017",
         "gn:id":7872058,
         "qs_pg:id":1155138
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046751,
     "wof:geomhash":"cae47480aad8f226b2878119ed0b5279",
@@ -152,7 +160,7 @@
         }
     ],
     "wof:id":1108835553,
-    "wof:lastmodified":1684351535,
+    "wof:lastmodified":1695876865,
     "wof:name":"Pasching",
     "wof:parent_id":102049847,
     "wof:placetype":"localadmin",

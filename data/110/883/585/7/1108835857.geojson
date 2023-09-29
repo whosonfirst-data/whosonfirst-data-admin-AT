@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1937,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.347894,
     "lbl:longitude":16.783133,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30860",
         "eg:gisco_id":"AT_30860",
         "eurostat:nuts_2021_id":"30860",
         "gn:id":7871747,
@@ -143,6 +150,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1041982
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046790,
     "wof:geomhash":"6ae61334aafc430d75b30c2cf90f577e",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108835857,
-    "wof:lastmodified":1684351544,
+    "wof:lastmodified":1695876884,
     "wof:name":"Weikendorf",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

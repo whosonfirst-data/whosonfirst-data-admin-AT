@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1144,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.880559,
     "lbl:longitude":16.077716,
     "lbl:max_zoom":16.0,
@@ -125,11 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"10505",
         "eg:gisco_id":"AT_10505",
         "eurostat:nuts_2021_id":"10505",
         "gn:id":7871567,
         "qs_pg:id":1154991
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047138,
     "wof:geomhash":"29bde073e9feaca651fb7a34c260fe7f",
@@ -143,7 +151,7 @@
         }
     ],
     "wof:id":1108838537,
-    "wof:lastmodified":1684351621,
+    "wof:lastmodified":1695877045,
     "wof:name":"Minihof-Liebau",
     "wof:parent_id":102049715,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":13214,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.872821,
     "lbl:longitude":13.826086,
     "lbl:max_zoom":15.0,
@@ -200,12 +206,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40705",
         "eg:gisco_id":"AT_40705",
         "eurostat:nuts_2021_id":"40705",
         "gn:id":7872009,
         "gp:id":12674492,
         "qs_pg:id":190941
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046691,
     "wof:geomhash":"87312860a034421b281f4d6890038ea9",
@@ -219,7 +227,7 @@
         }
     ],
     "wof:id":1108835131,
-    "wof:lastmodified":1684351522,
+    "wof:lastmodified":1695876841,
     "wof:name":"Gmunden",
     "wof:parent_id":102049807,
     "wof:placetype":"localadmin",

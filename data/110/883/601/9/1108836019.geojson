@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":670,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.749423,
     "lbl:longitude":13.85407,
     "lbl:max_zoom":17.0,
@@ -116,11 +122,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41341",
         "eg:gisco_id":"AT_41341",
         "eurostat:nuts_2021_id":"41341",
         "gn:id":7873208,
         "qs_pg:id":108861
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046811,
     "wof:geomhash":"6fff77287b8708f63a3ef5c46cdd0f2a",
@@ -134,7 +142,7 @@
         }
     ],
     "wof:id":1108836019,
-    "wof:lastmodified":1684351549,
+    "wof:lastmodified":1695876893,
     "wof:name":"Schwarzenberg am B\u00f6hmerwald",
     "wof:parent_id":102049889,
     "wof:placetype":"localadmin",

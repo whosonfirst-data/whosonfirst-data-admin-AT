@@ -29,6 +29,12 @@
     "geom:latitude":47.34868,
     "geom:longitude":10.42158,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.350814,
     "lbl:longitude":10.415316,
     "lbl:max_zoom":18.0,
@@ -114,9 +120,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70815",
         "eg:gisco_id":"AT_70815",
         "eurostat:nuts_2021_id":"70815"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047038,
     "wof:geomhash":"e377da27d9962090c38b65adb27c2cb0",
@@ -130,7 +138,7 @@
         }
     ],
     "wof:id":1108837739,
-    "wof:lastmodified":1684351598,
+    "wof:lastmodified":1695876997,
     "wof:name":"Hinterhornbach",
     "wof:parent_id":102049745,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2269,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.075715,
     "lbl:longitude":14.053644,
     "lbl:max_zoom":15.0,
@@ -131,12 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41817",
         "eg:gisco_id":"AT_41817",
         "eurostat:nuts_2021_id":"41817",
         "gn:id":7873278,
         "gp:id":12674542,
         "qs_pg:id":1192546
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046887,
     "wof:geomhash":"c24abae4a3c5e279bab29774a3a1d0ef",
@@ -150,7 +158,7 @@
         }
     ],
     "wof:id":1108836573,
-    "wof:lastmodified":1684351567,
+    "wof:lastmodified":1695876929,
     "wof:name":"Sattledt",
     "wof:parent_id":102049831,
     "wof:placetype":"localadmin",

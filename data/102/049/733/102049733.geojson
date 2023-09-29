@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16419,
-    "geom:area_square_m":1381299471.275151,
+    "geom:area_square_m":1381299647.346655,
     "geom:bbox":"13.783463,46.909276,14.589956,47.32949",
     "geom:latitude":47.128037,
     "geom:longitude":14.176664,
@@ -182,14 +182,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"614",
         "hasc:id":"AT.ST.MU",
         "wd:id":"Q605054"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f80dd128e0159fcb4d6a13e3b41ed6dc",
+    "wof:geomhash":"b4ee93969c0a7759cb517f4a1da5b132",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":102049733,
-    "wof:lastmodified":1690850878,
+    "wof:lastmodified":1695886093,
     "wof:name":"Murau",
     "wof:parent_id":85681687,
     "wof:placetype":"county",

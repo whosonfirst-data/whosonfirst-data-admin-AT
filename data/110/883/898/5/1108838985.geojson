@@ -29,6 +29,12 @@
     "geom:latitude":47.429783,
     "geom:longitude":14.663842,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.421454,
     "lbl:longitude":14.665094,
     "lbl:max_zoom":18.0,
@@ -120,9 +126,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61119",
         "eg:gisco_id":"AT_61119",
         "eurostat:nuts_2021_id":"61119"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047193,
     "wof:geomhash":"eec7db79743240e8cb2d91043bca3db8",
@@ -136,7 +144,7 @@
         }
     ],
     "wof:id":1108838985,
-    "wof:lastmodified":1684351634,
+    "wof:lastmodified":1695877072,
     "wof:name":"Wald",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1992,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.955384,
     "lbl:longitude":14.277865,
     "lbl:max_zoom":15.0,
@@ -119,6 +125,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40920",
         "eg:gisco_id":"AT_40920",
         "eurostat:nuts_2021_id":"40920",
         "gn:id":7873159,
@@ -128,6 +135,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":268082
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046746,
     "wof:geomhash":"d302f15d3ac1f353370ca97ab0c583b0",
@@ -141,7 +149,7 @@
         }
     ],
     "wof:id":1108835509,
-    "wof:lastmodified":1684351534,
+    "wof:lastmodified":1695876862,
     "wof:name":"Steinbach an der Steyr",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

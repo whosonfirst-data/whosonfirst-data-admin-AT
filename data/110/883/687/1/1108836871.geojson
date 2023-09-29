@@ -29,6 +29,12 @@
     "geom:latitude":48.2198,
     "geom:longitude":15.062206,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.223794,
     "lbl:longitude":15.066696,
     "lbl:max_zoom":18.0,
@@ -108,9 +114,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31511",
         "eg:gisco_id":"AT_31511",
         "eurostat:nuts_2021_id":"31511"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046923,
     "wof:geomhash":"1348c7c4c3414324bce1e8654a24e62e",
@@ -124,7 +132,7 @@
         }
     ],
     "wof:id":1108836871,
-    "wof:lastmodified":1684351575,
+    "wof:lastmodified":1695876947,
     "wof:name":"Hofamt Priel",
     "wof:parent_id":102049855,
     "wof:placetype":"localadmin",

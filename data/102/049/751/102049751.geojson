@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101838,
-    "geom:area_square_m":852291192.80471,
+    "geom:area_square_m":852291326.346264,
     "geom:bbox":"9.557168,47.226096,10.237173,47.596101",
     "geom:latitude":47.403865,
     "geom:longitude":9.934393,
@@ -349,15 +349,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"802",
         "gp:id":12591750,
         "hasc:id":"AT.VO.BG",
         "wd:id":"Q1737"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"78d1596e6562687a8c18616c133cc63e",
+    "wof:geomhash":"ce2a6e8773c2e1da2ed28769722d2831",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -367,7 +372,7 @@
         }
     ],
     "wof:id":102049751,
-    "wof:lastmodified":1690850880,
+    "wof:lastmodified":1695886168,
     "wof:name":"Bregenz",
     "wof:parent_id":85681649,
     "wof:placetype":"county",

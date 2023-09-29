@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3088,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.365817,
     "lbl:longitude":12.803006,
     "lbl:max_zoom":15.0,
@@ -140,6 +146,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"50611",
         "eg:gisco_id":"AT_50611",
         "eurostat:nuts_2021_id":"50611",
         "gn:id":7872242,
@@ -149,6 +156,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":1155196
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046970,
     "wof:geomhash":"352ff9ca2df6426572f43c60bdfe760b",
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1108837217,
-    "wof:lastmodified":1684351585,
+    "wof:lastmodified":1695876970,
     "wof:name":"Maishofen",
     "wof:parent_id":102049761,
     "wof:placetype":"localadmin",

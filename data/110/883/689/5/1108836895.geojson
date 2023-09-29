@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":850,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.431674,
     "lbl:longitude":16.787872,
     "lbl:max_zoom":17.0,
@@ -95,11 +101,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30812",
         "eg:gisco_id":"AT_30812",
         "eurostat:nuts_2021_id":"30812",
         "gn:id":7871731,
         "qs_pg:id":904271
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046926,
     "wof:geomhash":"106c03f3cdeb83129b5aa446528eb926",
@@ -113,7 +121,7 @@
         }
     ],
     "wof:id":1108836895,
-    "wof:lastmodified":1684351575,
+    "wof:lastmodified":1695876948,
     "wof:name":"Ebenthal",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

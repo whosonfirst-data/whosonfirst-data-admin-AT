@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":23017,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.125904,
     "lbl:longitude":14.877931,
     "lbl:max_zoom":14.0,
@@ -119,12 +125,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30502",
         "eg:gisco_id":"AT_30502",
         "eurostat:nuts_2021_id":"30502",
         "gn:id":7871688,
         "gp:id":12673744,
         "qs_pg:id":1107633
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046659,
     "wof:geomhash":"b8c7e403f119c85b2feac59c87075f57",
@@ -138,7 +146,7 @@
         }
     ],
     "wof:id":1108834895,
-    "wof:lastmodified":1684351513,
+    "wof:lastmodified":1695876823,
     "wof:name":"Amstetten",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

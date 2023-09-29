@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":3698,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.410005,
     "lbl:longitude":16.380173,
     "lbl:max_zoom":15.0,
@@ -134,6 +140,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31207",
         "eg:gisco_id":"AT_31207",
         "eurostat:nuts_2021_id":"31207",
         "gn:id":7871788,
@@ -144,6 +151,7 @@
         "gn:id":2776855,
         "qs_pg:id":37749
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046902,
     "wof:geomhash":"5fd80c7e9095cb1ea4d58a3bff38f282",
@@ -157,7 +165,7 @@
         }
     ],
     "wof:id":1108836703,
-    "wof:lastmodified":1684351570,
+    "wof:lastmodified":1695876937,
     "wof:name":"Harmannsdorf",
     "wof:parent_id":102049887,
     "wof:placetype":"localadmin",

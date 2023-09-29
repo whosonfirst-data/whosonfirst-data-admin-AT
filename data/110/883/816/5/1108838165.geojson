@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":7386,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.516183,
     "lbl:longitude":14.289379,
     "lbl:max_zoom":15.0,
@@ -152,6 +158,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20405",
         "eg:gisco_id":"AT_20405",
         "eurostat:nuts_2021_id":"20405",
         "gn:id":7872761,
@@ -162,6 +169,7 @@
         "gn:id":2779640,
         "qs_pg:id":223986
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047091,
     "wof:geomhash":"f3d2b399f5a58e0def5a2d61d6447335",
@@ -175,7 +183,7 @@
         }
     ],
     "wof:id":1108838165,
-    "wof:lastmodified":1684351609,
+    "wof:lastmodified":1695877021,
     "wof:name":"Ferlach",
     "wof:parent_id":102049681,
     "wof:placetype":"localadmin",

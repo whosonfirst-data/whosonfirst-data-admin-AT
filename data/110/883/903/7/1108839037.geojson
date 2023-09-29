@@ -29,6 +29,12 @@
     "geom:latitude":46.793059,
     "geom:longitude":15.399266,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.79816,
     "lbl:longitude":15.408057,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61030",
         "eg:gisco_id":"AT_61030",
         "eurostat:nuts_2021_id":"61030"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047199,
     "wof:geomhash":"8431174980c3c228a1690479cce897e0",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108839037,
-    "wof:lastmodified":1684351635,
+    "wof:lastmodified":1695877074,
     "wof:name":"St. Andr\u00e4-H\u00f6ch",
     "wof:parent_id":102049699,
     "wof:placetype":"localadmin",

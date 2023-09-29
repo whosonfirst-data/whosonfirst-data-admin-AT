@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1689,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.716652,
     "lbl:longitude":13.516757,
     "lbl:max_zoom":16.0,
@@ -125,6 +131,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20723",
         "eg:gisco_id":"AT_20723",
         "eurostat:nuts_2021_id":"20723",
         "gn:id":7871667,
@@ -135,6 +142,7 @@
         "gn:id":2764284,
         "qs_pg:id":1292977
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047117,
     "wof:geomhash":"259b392e3308923978f2d81d701e3ee0",
@@ -148,7 +156,7 @@
         }
     ],
     "wof:id":1108838355,
-    "wof:lastmodified":1684351616,
+    "wof:lastmodified":1695877035,
     "wof:name":"Stockenboi",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":898,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.193688,
     "lbl:longitude":15.453728,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31911",
         "eg:gisco_id":"AT_31911",
         "eurostat:nuts_2021_id":"31911",
         "gn:id":7873013,
         "qs_pg:id":108789
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046836,
     "wof:geomhash":"c4d55eba0ac1cd035ffe4b25466261fe",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836217,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876907,
     "wof:name":"Haunoldstein",
     "wof:parent_id":102049869,
     "wof:placetype":"localadmin",

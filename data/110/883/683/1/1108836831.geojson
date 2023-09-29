@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1352,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.093336,
     "lbl:longitude":15.073671,
     "lbl:max_zoom":16.0,
@@ -122,11 +128,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32018",
         "eg:gisco_id":"AT_32018",
         "eurostat:nuts_2021_id":"32018",
         "gn:id":7873036,
         "qs_pg:id":108801
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046919,
     "wof:geomhash":"50eb12ada66ceeb60d1775f65822c85a",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1108836831,
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1695876945,
     "wof:name":"Wolfpassing",
     "wof:parent_id":102049825,
     "wof:placetype":"localadmin",

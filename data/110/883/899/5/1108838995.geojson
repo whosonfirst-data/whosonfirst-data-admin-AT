@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.392189,
     "lbl:longitude":15.023392,
     "lbl:max_zoom":18.0,
@@ -77,12 +83,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"61114",
         "eg:gisco_id":"AT_61114",
         "eurostat:nuts_2021_id":"61114",
         "gn:id":2766439,
         "gp:id":12675052,
         "qs_pg:id":399838
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047195,
     "wof:geomhash":"fa4342487167bd1302a7a8add6496996",
@@ -96,7 +104,7 @@
         }
     ],
     "wof:id":1108838995,
-    "wof:lastmodified":1684351634,
+    "wof:lastmodified":1695877072,
     "wof:name":"St. Peter-Freienstein",
     "wof:parent_id":102049769,
     "wof:placetype":"localadmin",

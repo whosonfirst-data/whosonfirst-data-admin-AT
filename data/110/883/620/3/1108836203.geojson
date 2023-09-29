@@ -29,6 +29,12 @@
     "geom:latitude":48.685171,
     "geom:longitude":15.594824,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.680996,
     "lbl:longitude":15.594845,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"31123",
         "eg:gisco_id":"AT_31123",
         "eurostat:nuts_2021_id":"31123"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046834,
     "wof:geomhash":"35cad22e426628c7a5e156ca49a2706c",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108836203,
-    "wof:lastmodified":1684351556,
+    "wof:lastmodified":1695876906,
     "wof:name":"St. Bernhard - Frauenhofen",
     "wof:parent_id":102049901,
     "wof:placetype":"localadmin",

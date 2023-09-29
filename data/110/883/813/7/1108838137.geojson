@@ -29,6 +29,12 @@
     "geom:latitude":46.761647,
     "geom:longitude":14.165035,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.758238,
     "lbl:longitude":14.160188,
     "lbl:max_zoom":18.0,
@@ -105,9 +111,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"21008",
         "eg:gisco_id":"AT_21008",
         "eurostat:nuts_2021_id":"21008"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047088,
     "wof:geomhash":"6ac0bd3e2d245178783d06204c13e2fa",
@@ -121,7 +129,7 @@
         }
     ],
     "wof:id":1108838137,
-    "wof:lastmodified":1684351608,
+    "wof:lastmodified":1695877019,
     "wof:name":"Sankt Urban",
     "wof:parent_id":102049689,
     "wof:placetype":"localadmin",

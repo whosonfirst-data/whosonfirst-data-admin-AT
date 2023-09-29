@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":584,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.187561,
     "lbl:longitude":11.149483,
     "lbl:max_zoom":17.0,
@@ -137,12 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70314",
         "eg:gisco_id":"AT_70314",
         "eurostat:nuts_2021_id":"70314",
         "gn:id":7872534,
         "gp:id":12675469,
         "qs_pg:id":38400
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047021,
     "wof:geomhash":"f0ab93e869d62c696de1d32b2f404c26",
@@ -156,7 +164,7 @@
         }
     ],
     "wof:id":1108837597,
-    "wof:lastmodified":1684351595,
+    "wof:lastmodified":1695876991,
     "wof:name":"Gries im Sellrain",
     "wof:parent_id":102049735,
     "wof:placetype":"localadmin",

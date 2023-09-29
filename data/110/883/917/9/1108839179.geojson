@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":2623,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.068009,
     "lbl:longitude":15.570195,
     "lbl:max_zoom":15.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"60628",
         "eg:gisco_id":"AT_60628",
         "eurostat:nuts_2021_id":"60628",
         "gn:id":7873405,
         "qs_pg:id":1245864
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047218,
     "wof:geomhash":"aaad4027a7e031645fbf39d345c26d25",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108839179,
-    "wof:lastmodified":1684351640,
+    "wof:lastmodified":1695877083,
     "wof:name":"La\u00dfnitzh\u00f6he",
     "wof:parent_id":102049741,
     "wof:placetype":"localadmin",

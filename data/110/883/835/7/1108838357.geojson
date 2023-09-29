@@ -30,6 +30,12 @@
     "geom:longitude":13.854328,
     "gn:country":null,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.684791,
     "lbl:longitude":13.847546,
     "lbl:max_zoom":18.0,
@@ -96,11 +102,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20724",
         "eg:gisco_id":"AT_20724",
         "eurostat:nuts_2021_id":"20724",
         "gp:id":12673570,
         "qs_pg:id":1301151
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047117,
     "wof:geomhash":"dc02508134f0e1167d76e2d5a27d9045",
@@ -114,7 +122,7 @@
         }
     ],
     "wof:id":1108838357,
-    "wof:lastmodified":1684351616,
+    "wof:lastmodified":1695877035,
     "wof:name":"Treffen",
     "wof:parent_id":102049683,
     "wof:placetype":"localadmin",

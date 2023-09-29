@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087118,
-    "geom:area_square_m":730596395.448018,
+    "geom:area_square_m":730596504.593262,
     "geom:bbox":"16.015158,47.118062,16.489426,47.456821",
     "geom:latitude":47.29575,
     "geom:longitude":16.265762,
@@ -317,14 +317,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"109",
         "hasc:id":"AT.BU.OW",
         "wd:id":"Q671259"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4472974d5264637234ddbbda3e1a98cf",
+    "wof:geomhash":"ee8dd3e51ebaa72b5de82ee41d8a863d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -334,7 +339,7 @@
         }
     ],
     "wof:id":102049757,
-    "wof:lastmodified":1690850884,
+    "wof:lastmodified":1695886098,
     "wof:name":"Oberwart",
     "wof:parent_id":85681651,
     "wof:placetype":"county",

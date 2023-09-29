@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.798899,
     "lbl:longitude":15.364479,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32202",
         "eg:gisco_id":"AT_32202",
         "eurostat:nuts_2021_id":"32202",
         "gn:id":2780959,
@@ -146,6 +153,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":287619
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046845,
     "wof:geomhash":"904bda826ee0df457f7ee54f3c62a1ad",
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1108836285,
-    "wof:lastmodified":1684351558,
+    "wof:lastmodified":1695876911,
     "wof:name":"Dietmanns",
     "wof:parent_id":102049903,
     "wof:placetype":"localadmin",

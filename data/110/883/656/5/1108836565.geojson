@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1546,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.1556,
     "lbl:longitude":13.853123,
     "lbl:max_zoom":16.0,
@@ -107,12 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41814",
         "eg:gisco_id":"AT_41814",
         "eurostat:nuts_2021_id":"41814",
         "gn:id":7873276,
         "gp:id":12674554,
         "qs_pg:id":1192572
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046886,
     "wof:geomhash":"b96f45c40e84c9f307039b3bb0e021fb",
@@ -126,7 +134,7 @@
         }
     ],
     "wof:id":1108836565,
-    "wof:lastmodified":1684351566,
+    "wof:lastmodified":1695876929,
     "wof:name":"Offenhausen",
     "wof:parent_id":102049831,
     "wof:placetype":"localadmin",

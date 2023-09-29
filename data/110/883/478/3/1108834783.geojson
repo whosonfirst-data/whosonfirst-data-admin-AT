@@ -29,6 +29,12 @@
     "geom:latitude":48.119411,
     "geom:longitude":13.025095,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.121801,
     "lbl:longitude":13.02073,
     "lbl:max_zoom":18.0,
@@ -48,9 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40435",
         "eg:gisco_id":"AT_40435",
         "eurostat:nuts_2021_id":"40435"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046646,
     "wof:geomhash":"7570cf66742c005bdd14c01e0e312306",
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":1108834783,
-    "wof:lastmodified":1684351510,
+    "wof:lastmodified":1695876817,
     "wof:name":"St. Georgen am Fillmannsbach",
     "wof:parent_id":102049833,
     "wof:placetype":"localadmin",

@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":12062,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.829573,
     "lbl:longitude":12.759998,
     "lbl:max_zoom":15.0,
@@ -209,12 +215,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"70716",
         "eg:gisco_id":"AT_70716",
         "eurostat:nuts_2021_id":"70716",
         "gn:id":7873678,
         "gp:id":12675527,
         "qs_pg:id":38441
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047009,
     "wof:geomhash":"9d6b3b2da17403a52401bdb57a6708d6",
@@ -228,7 +236,7 @@
         }
     ],
     "wof:id":1108837511,
-    "wof:lastmodified":1684351593,
+    "wof:lastmodified":1695876986,
     "wof:name":"Lienz",
     "wof:parent_id":102049703,
     "wof:placetype":"localadmin",

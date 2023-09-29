@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":241,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.056317,
     "lbl:longitude":13.711005,
     "lbl:max_zoom":17.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"41733",
         "eg:gisco_id":"AT_41733",
         "eurostat:nuts_2021_id":"41733",
         "gn:id":7872172,
         "qs_pg:id":108524
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046877,
     "wof:geomhash":"8ab983f1cc02356fef46f10e13a2262a",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108836491,
-    "wof:lastmodified":1684351564,
+    "wof:lastmodified":1695876924,
     "wof:name":"Rutzenham",
     "wof:parent_id":102049817,
     "wof:placetype":"localadmin",

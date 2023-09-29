@@ -29,6 +29,12 @@
     "geom:latitude":46.610829,
     "geom:longitude":13.83523,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":46.6146,
     "lbl:longitude":13.833077,
     "lbl:max_zoom":18.0,
@@ -231,9 +237,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"20201",
         "eg:gisco_id":"AT_20201",
         "eurostat:nuts_2021_id":"20201"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:coterminous":[
         102049673
     ],
@@ -250,7 +258,7 @@
         }
     ],
     "wof:id":1108838145,
-    "wof:lastmodified":1684351609,
+    "wof:lastmodified":1695877019,
     "wof:name":"Villach",
     "wof:parent_id":102049673,
     "wof:placetype":"localadmin",

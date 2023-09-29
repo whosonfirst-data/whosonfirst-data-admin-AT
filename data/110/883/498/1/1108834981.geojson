@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":874,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.49476,
     "lbl:longitude":15.152975,
     "lbl:max_zoom":17.0,
@@ -119,11 +125,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"32506",
         "eg:gisco_id":"AT_32506",
         "eurostat:nuts_2021_id":"32506",
         "gn:id":7873081,
         "qs_pg:id":743463
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046670,
     "wof:geomhash":"6a48b376e95bb5a6107ea5a1c0d41540",
@@ -137,7 +145,7 @@
         }
     ],
     "wof:id":1108834981,
-    "wof:lastmodified":1684351516,
+    "wof:lastmodified":1695876829,
     "wof:name":"Grafenschlag",
     "wof:parent_id":102049895,
     "wof:placetype":"localadmin",

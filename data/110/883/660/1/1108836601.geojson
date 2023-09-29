@@ -32,6 +32,12 @@
     "gn:fcode":"ADM3",
     "gn:population":1230,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.598762,
     "lbl:longitude":16.779564,
     "lbl:max_zoom":16.0,
@@ -122,6 +128,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30841",
         "eg:gisco_id":"AT_30841",
         "eurostat:nuts_2021_id":"30841",
         "gn:id":7872867,
@@ -131,6 +138,7 @@
     "wof:concordances_alt":{
         "qs_pg:id":31948
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046891,
     "wof:geomhash":"272273bc0bb5cc8b374f17b17deebe2a",
@@ -144,7 +152,7 @@
         }
     ],
     "wof:id":1108836601,
-    "wof:lastmodified":1684351567,
+    "wof:lastmodified":1695876931,
     "wof:name":"Neusiedl an der Zaya",
     "wof:parent_id":102049891,
     "wof:placetype":"localadmin",

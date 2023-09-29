@@ -29,6 +29,12 @@
     "geom:latitude":47.465632,
     "geom:longitude":15.948163,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.464566,
     "lbl:longitude":15.941129,
     "lbl:max_zoom":18.0,
@@ -111,9 +117,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"62245",
         "eg:gisco_id":"AT_62245",
         "eurostat:nuts_2021_id":"62245"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490047206,
     "wof:geomhash":"24cf5ff73de686ec6cd4ccf8c037de90",
@@ -127,7 +135,7 @@
         }
     ],
     "wof:id":1108839095,
-    "wof:lastmodified":1684351637,
+    "wof:lastmodified":1695877078,
     "wof:name":"St. Lorenzen",
     "wof:parent_id":1108892549,
     "wof:placetype":"localadmin",

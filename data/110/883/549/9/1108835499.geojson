@@ -29,6 +29,12 @@
     "geom:latitude":47.769727,
     "geom:longitude":14.218298,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":47.768854,
     "lbl:longitude":14.218312,
     "lbl:max_zoom":18.0,
@@ -144,9 +150,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"40916",
         "eg:gisco_id":"AT_40916",
         "eurostat:nuts_2021_id":"40916"
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046745,
     "wof:geomhash":"0bbbb2a052615854819fee25071791e5",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108835499,
-    "wof:lastmodified":1684351533,
+    "wof:lastmodified":1695876862,
     "wof:name":"St. Pankraz",
     "wof:parent_id":102049815,
     "wof:placetype":"localadmin",

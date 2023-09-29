@@ -32,6 +32,12 @@
     "gn:fcode":"PPLA3",
     "gn:population":0,
     "iso:country":"AT",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":48.093662,
     "lbl:longitude":14.987085,
     "lbl:max_zoom":16.0,
@@ -137,6 +143,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"30512",
         "eg:gisco_id":"AT_30512",
         "eurostat:nuts_2021_id":"30512",
         "gn:id":2779622,
@@ -147,6 +154,7 @@
         "gn:id":7872821,
         "qs_pg:id":1245798
     },
+    "wof:concordances_official":"austriaod:number",
     "wof:country":"AT",
     "wof:created":1490046922,
     "wof:geomhash":"3e3342d4e164942281af6b20aaa29550",
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108836859,
-    "wof:lastmodified":1684351574,
+    "wof:lastmodified":1695876946,
     "wof:name":"Ferschnitz",
     "wof:parent_id":102049835,
     "wof:placetype":"localadmin",

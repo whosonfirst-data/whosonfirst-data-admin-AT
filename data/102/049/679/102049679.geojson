@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014109,
-    "geom:area_square_m":119780462.778695,
+    "geom:area_square_m":119780469.751276,
     "geom:bbox":"14.210253,46.574384,14.416265,46.708708",
     "geom:latitude":46.63888,
     "geom:longitude":14.295755,
@@ -389,14 +389,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "austriaod:number":"201",
         "hasc:id":"AT.KA.KG",
         "wd:id":"Q41753"
     },
+    "wof:concordances_official":"austriaod:number",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"AT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"783f9159e594f501b70d1e4cf917245e",
+    "wof:geomhash":"50ca8c99f60d8a0a92fe6a9972d3f5db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -406,7 +411,7 @@
         }
     ],
     "wof:id":102049679,
-    "wof:lastmodified":1690850890,
+    "wof:lastmodified":1695886106,
     "wof:name":"Klagenfurt",
     "wof:parent_id":85681655,
     "wof:placetype":"county",
