@@ -29,15 +29,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hermsdorf"
+    ],
+    "name:eng_x_variant":[
+        "Hormsdorf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85681687,
         102191581,
-        1108839161,
         85632785,
-        102049741
+        102049741,
+        1108839161,
+        85681687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293485063,
-    "wof:lastmodified":1566597531,
-    "wof:name":"Hormsdorf",
+    "wof:lastmodified":1697057043,
+    "wof:name":"Hermsdorf",
     "wof:parent_id":1108839161,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-at",
