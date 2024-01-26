@@ -9,9 +9,23 @@
     "geom:bbox":"11.66667,47.3,11.66667,47.3",
     "geom:latitude":47.3,
     "geom:longitude":11.66667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"709",
+    "gn:admin3_code":"70938.0",
+    "gn:asciiname":"Weerberg",
     "gn:country":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":976,
     "gn:fcode":"ADM3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2775224,
+    "gn:latitude":47.29841,
+    "gn:longitude":11.66592,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Weerberg",
     "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
     "lbl:bbox":"11.64667,47.28,11.68667,47.32",
     "lbl:latitude":47.3,
@@ -153,6 +167,11 @@
         "qs_pg:id":342142,
         "wd:id":"Q692058"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2775224
+        ]
+    },
     "wof:country":"AT",
     "wof:created":1497292223,
     "wof:geomhash":"675ea1af70f91840b3f5d8db9534503b",
@@ -167,7 +186,7 @@
         }
     ],
     "wof:id":1125824691,
-    "wof:lastmodified":1690851290,
+    "wof:lastmodified":1706239307,
     "wof:name":"Weerberg",
     "wof:parent_id":1108837715,
     "wof:placetype":"locality",
@@ -175,7 +194,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243355331
+    ],
     "wof:tags":[]
 },
   "bbox": [

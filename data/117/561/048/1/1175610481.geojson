@@ -9,7 +9,23 @@
     "geom:bbox":"14.079942,47.517182,14.093835,47.529561",
     "geom:latitude":47.523745,
     "geom:longitude":14.085354,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"612",
+    "gn:admin3_code":"61267.0",
+    "gn:asciiname":"Trautenfels",
+    "gn:country_code":"AT",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11593121,
+    "gn:latitude":47.52256,
+    "gn:longitude":14.0822,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Trautenfels",
+    "gn:population":144,
+    "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"14.0622,47.50256,14.1022,47.54256",
     "lbl:latitude":47.523993,
     "lbl:longitude":14.083466,
     "lbl:max_zoom":18.0,
@@ -121,6 +137,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":406,
     "wof:belongsto":[
         85681687,
@@ -138,7 +155,12 @@
         "wd:id":"Q679484"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1302819
+        "gn:id":[
+            11593121
+        ],
+        "qs_pg:id":[
+            1302819
+        ]
     },
     "wof:country":"AT",
     "wof:geomhash":"0a78a7d5ee9723f087689aec17c4ae16",
@@ -156,15 +178,18 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690850956,
+    "wof:lastmodified":1706239307,
     "wof:name":"Trautenfels",
     "wof:parent_id":1108838891,
     "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[
         101912429,
-        101912431
+        101912431,
+        1259605547
     ],
     "wof:tags":[]
 },

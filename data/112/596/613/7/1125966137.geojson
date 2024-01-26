@@ -9,9 +9,23 @@
     "geom:bbox":"13.839,46.8605,13.839,46.8605",
     "geom:latitude":46.8605,
     "geom:longitude":13.839,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21007.0",
+    "gn:asciiname":"Falkertsee",
     "gn:country":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1768,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594032,
+    "gn:latitude":46.85955,
+    "gn:longitude":13.84046,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Falkertsee",
     "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
     "lbl:bbox":"13.819,46.8405,13.859,46.8805",
     "lbl:latitude":46.8605,
@@ -53,6 +67,7 @@
     "qs_pg:woe_id":28996139,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"K\u00e4rnten",
@@ -70,6 +85,11 @@
         "gp:id":28996139,
         "qs_pg:id":394728
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11594032
+        ]
+    },
     "wof:country":"AT",
     "wof:created":1497297984,
     "wof:geomhash":"2e13df6c0e8440e2ab81c6ec452c4d18",
@@ -84,13 +104,17 @@
         }
     ],
     "wof:id":1125966137,
-    "wof:lastmodified":1566599447,
+    "wof:lastmodified":1706239307,
     "wof:name":"Falkertsee",
     "wof:parent_id":1108838135,
     "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309806919
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,23 @@
     "geom:bbox":"13.859788,48.073855,13.877116,48.102838",
     "geom:latitude":48.086273,
     "geom:longitude":13.866603,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"418.0",
+    "gn:admin3_code":"41820.0",
+    "gn:asciiname":"Stadl-Traun",
+    "gn:country_code":"AT",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2764720,
+    "gn:latitude":48.07963,
+    "gn:longitude":13.8614,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Stadl-Traun",
+    "gn:population":3643,
+    "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"13.8414,48.05963,13.8814,48.09963",
     "lbl:latitude":48.086945,
     "lbl:longitude":13.8664,
     "lbl:max_zoom":18.0,
@@ -119,6 +135,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
         85681677,
@@ -135,6 +152,11 @@
         "wd:id":"Q692598",
         "wk:page":"Stadl-Paura"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2764720
+        ]
+    },
     "wof:country":"AT",
     "wof:geomhash":"d14abadf5c1800efb37fe0e25e31a49f",
     "wof:hierarchy":[
@@ -148,13 +170,17 @@
         }
     ],
     "wof:id":101833211,
-    "wof:lastmodified":1690851021,
+    "wof:lastmodified":1706239306,
     "wof:name":"Stadl-Traun",
     "wof:parent_id":1108836559,
     "wof:placetype":"locality",
+    "wof:population":3643,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225944617
+    ],
     "wof:tags":[]
 },
   "bbox": [

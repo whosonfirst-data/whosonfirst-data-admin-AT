@@ -9,8 +9,23 @@
     "geom:bbox":"16.677637,47.902072,16.712205,47.927231",
     "geom:latitude":47.913175,
     "geom:longitude":16.696141,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10312.0",
+    "gn:asciiname":"Purbach am Neusiedler See",
+    "gn:country_code":"AT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2768242,
+    "gn:latitude":47.91289,
+    "gn:longitude":16.69561,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Purbach am Neusiedler See",
     "gn:population":2657,
+    "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"16.67561,47.89289,16.71561,47.93289",
     "lbl:latitude":47.914036,
     "lbl:longitude":16.694439,
     "lbl:max_zoom":15.0,
@@ -104,6 +119,9 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0440\u0431\u0430\u0445-\u0430\u043c-\u041d\u043e\u0439\u0437\u0456\u0434\u043b\u0435\u0440-\u0417\u0435"
     ],
+    "name:und_x_variant":[
+        "Purbach"
+    ],
     "name:uzb_x_preferred":[
         "Purbach am Neusiedler See"
     ],
@@ -152,7 +170,13 @@
         "gn:id":7871539,
         "gp:id":539007,
         "qs_pg:id":1135797,
-        "wd:id":"Q267457"
+        "wd:id":"Q267457",
+        "wk:page":"Purbach_am_Neusiedlersee"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2768242
+        ]
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -170,7 +194,7 @@
         }
     ],
     "wof:id":101785641,
-    "wof:lastmodified":1690851087,
+    "wof:lastmodified":1706239306,
     "wof:name":"Purbach am Neusiedler See",
     "wof:parent_id":1108838761,
     "wof:placetype":"locality",
@@ -178,7 +202,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293302411
+    ],
     "wof:tags":[]
 },
   "bbox": [

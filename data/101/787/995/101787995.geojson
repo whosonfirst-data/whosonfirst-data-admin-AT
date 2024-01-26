@@ -9,7 +9,24 @@
     "geom:bbox":"15.216772,47.511876,15.247317,47.548164",
     "geom:latitude":47.532953,
     "geom:longitude":15.234082,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"621",
+    "gn:admin3_code":"62138.0",
+    "gn:asciiname":"Aflenz Kurort",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2782967,
+    "gn:latitude":47.54211,
+    "gn:longitude":15.23898,
+    "gn:modification_date":"2018-07-30",
+    "gn:name":"Aflenz Kurort",
+    "gn:population":1017,
+    "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.21898,47.52211,15.25898,47.56211",
     "lbl:latitude":47.542355,
     "lbl:longitude":15.240214,
     "lbl:max_zoom":18.0,
@@ -124,6 +141,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":296,
     "wof:belongsto":[
         85681687,
@@ -141,7 +159,15 @@
         "wk:page":"Aflenz Kurort"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":963837
+        "gn:id":[
+            2782967
+        ],
+        "qs_pg:id":[
+            963837
+        ],
+        "wk:page":[
+            "Aflenz_Kurort"
+        ]
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -159,13 +185,17 @@
         }
     ],
     "wof:id":101787995,
-    "wof:lastmodified":1690851181,
+    "wof:lastmodified":1706239306,
     "wof:name":"Aflenz Kurort",
     "wof:parent_id":1108839327,
     "wof:placetype":"locality",
+    "wof:population":1017,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360179739
+    ],
     "wof:tags":[]
 },
   "bbox": [

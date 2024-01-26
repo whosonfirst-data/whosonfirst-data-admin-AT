@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"13.8614,48.07963,13.8614,48.07963",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -57,14 +59,16 @@
         }
     ],
     "wof:id":1225944617,
-    "wof:lastmodified":1566599781,
+    "wof:lastmodified":1706239306,
     "wof:name":"Stadl-Traun",
     "wof:parent_id":1108836579,
     "wof:placetype":"locality",
     "wof:population":3643,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-at",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101833211
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

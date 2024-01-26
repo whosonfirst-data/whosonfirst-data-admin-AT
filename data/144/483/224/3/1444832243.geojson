@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.0527241244,47.7933138051,13.0527241244,47.7933138051",
+    "geom:bbox":"13.052724,47.793314,13.052724,47.793314",
     "geom:latitude":47.793314,
     "geom:longitude":13.052724,
     "iso:country":"AT",
@@ -15,7 +17,7 @@
     "lbl:longitude":13.052724,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -41,7 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"AT",
-    "wof:geomhash":"63654bd086a6c97b9d75c1cd0eb3f2c9",
+    "wof:geomhash":"64d1b305223b7a1f99b1179329aa9a48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +56,22 @@
         }
     ],
     "wof:id":1444832243,
-    "wof:lastmodified":1566598001,
+    "wof:lastmodified":1706239305,
     "wof:name":"Nonntal",
     "wof:parent_id":1175610443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85898503
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    13.05272412439624,
-    47.79331380509397,
-    13.05272412439624,
-    47.79331380509397
+    13.052724,
+    47.793314,
+    13.052724,
+    47.793314
 ],
-  "geometry": {"coordinates":[13.05272412439624,47.79331380509397],"type":"Point"}
+  "geometry": {"coordinates":[13.052724,47.793314],"type":"Point"}
 }

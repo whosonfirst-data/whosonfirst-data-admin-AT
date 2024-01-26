@@ -39,6 +39,11 @@
     "wof:concordances":{
         "gn:id":2768895
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2779443
+        ]
+    },
     "wof:country":"AT",
     "wof:geomhash":"678adea8a665e46f13128baed78b3f30",
     "wof:hierarchy":[
@@ -48,13 +53,15 @@
         }
     ],
     "wof:id":1209607639,
-    "wof:lastmodified":1566597927,
+    "wof:lastmodified":1706239307,
     "wof:name":"Foirach",
     "wof:parent_id":85632785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276541457
+    ],
     "wof:tags":[]
 },
   "bbox": [
