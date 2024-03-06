@@ -13,6 +13,7 @@
     "gn:fcode":"PPLX",
     "gn:population":0,
     "iso:country":"AT",
+    "lbl:bbox":"13.0763185892,47.775041953,13.0863185892,47.785041953",
     "lbl:latitude":47.783094,
     "lbl:longitude":13.090135,
     "lbl:max_zoom":18.0,
@@ -27,6 +28,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "mz:tier_metro":30,
     "name:arz_x_preferred":[
         "\u062c\u0644\u0627\u0633"
     ],
@@ -169,14 +171,15 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1690850925,
+    "wof:lastmodified":1706239304,
     "wof:name":"Glas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1126078315
+        1126078315,
+        1444828323
     ],
     "wof:tags":[]
 },

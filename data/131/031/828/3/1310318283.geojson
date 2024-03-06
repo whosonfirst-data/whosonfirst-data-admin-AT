@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":11592457
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11592458
+        ]
+    },
     "wof:country":"AT",
     "wof:geomhash":"ae7ca55650a6dee21716df5fa75572fe",
     "wof:hierarchy":[
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":1310318283,
-    "wof:lastmodified":1566598849,
+    "wof:lastmodified":1706239308,
     "wof:name":"Kadoell",
     "wof:parent_id":1108838125,
     "wof:placetype":"locality",
@@ -65,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344169931
+    ],
     "wof:tags":[]
 },
   "bbox": [

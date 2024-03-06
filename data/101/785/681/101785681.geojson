@@ -9,7 +9,24 @@
     "geom:bbox":"15.556142,47.848731,15.593688,47.866194",
     "geom:latitude":47.856686,
     "geom:longitude":15.575158,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"314.0",
+    "gn:admin3_code":"31411.0",
+    "gn:asciiname":"Sankt Aegyd am Neuwalde",
+    "gn:cc2":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2766778,
+    "gn:latitude":47.85383,
+    "gn:longitude":15.56969,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Sankt Aegyd am Neuwalde",
+    "gn:population":1341,
+    "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
+    "lbl:bbox":"15.54969,47.83383,15.58969,47.87383",
     "lbl:latitude":47.854829,
     "lbl:longitude":15.573878,
     "lbl:max_zoom":18.0,
@@ -128,6 +145,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":144,
     "wof:belongsto":[
         85681671,
@@ -143,6 +161,14 @@
         "qs_pg:id":1165842,
         "wd:id":"Q676688",
         "wk:page":"Sankt Aegyd am Neuwalde"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2766778
+        ],
+        "wk:page":[
+            "Sankt_Aegyd_am_Neuwalde"
+        ]
     },
     "wof:country":"AT",
     "wof:geom_alt":[
@@ -160,13 +186,17 @@
         }
     ],
     "wof:id":101785681,
-    "wof:lastmodified":1690851075,
+    "wof:lastmodified":1706239306,
     "wof:name":"Sankt Aegyd am Neuwalde",
     "wof:parent_id":1108836245,
     "wof:placetype":"locality",
+    "wof:population":1341,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225856245
+    ],
     "wof:tags":[]
 },
   "bbox": [

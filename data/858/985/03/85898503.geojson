@@ -10,6 +10,7 @@
     "geom:latitude":47.790909,
     "geom:longitude":13.059347,
     "iso:country":"AT",
+    "lbl:bbox":"13.0477241244,47.7883138051,13.0577241244,47.7983138051",
     "lbl:latitude":47.793643,
     "lbl:longitude":13.056997,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "mz:tier_metro":30,
     "name:bar_x_preferred":[
         "Nonntoi"
     ],
@@ -79,13 +81,15 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1690850928,
+    "wof:lastmodified":1706239305,
     "wof:name":"Nonntal",
     "wof:parent_id":101748065,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1444832243
+    ],
     "wof:tags":[]
 },
   "bbox": [

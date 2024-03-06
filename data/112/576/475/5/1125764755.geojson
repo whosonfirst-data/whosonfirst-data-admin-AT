@@ -9,9 +9,24 @@
     "geom:bbox":"13.72444,46.96944,13.72444,46.96944",
     "geom:latitude":46.96944,
     "geom:longitude":13.72444,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20642.0",
+    "gn:asciiname":"Innerkrems",
     "gn:country":"AT",
+    "gn:country_code":"AT",
+    "gn:dem":1480,
+    "gn:elevation":"1480.0",
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048902,
+    "gn:latitude":46.96858,
+    "gn:longitude":13.726,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Innerkrems",
     "gn:population":0,
+    "gn:timezone":"Europe/Vienna",
     "iso:country":"AT",
     "lbl:bbox":"13.70444,46.94944,13.74444,46.98944",
     "lbl:latitude":46.96944,
@@ -44,6 +59,7 @@
     "qs_pg:woe_id":539665,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"K\u00e4rnten",
@@ -61,6 +77,11 @@
         "gp:id":539665,
         "qs_pg:id":1332154
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11048902
+        ]
+    },
     "wof:country":"AT",
     "wof:created":1497289831,
     "wof:geomhash":"3249f41a5b9d8e4621b5a7e1291448d0",
@@ -75,13 +96,17 @@
         }
     ],
     "wof:id":1125764755,
-    "wof:lastmodified":1566599479,
+    "wof:lastmodified":1706239307,
     "wof:name":"Innerkrems",
     "wof:parent_id":1108838315,
     "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243372287
+    ],
     "wof:tags":[]
 },
   "bbox": [

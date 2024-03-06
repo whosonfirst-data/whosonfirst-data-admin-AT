@@ -10,6 +10,7 @@
     "geom:latitude":47.781272,
     "geom:longitude":13.041174,
     "iso:country":"AT",
+    "lbl:bbox":"13.0363944678,47.7732811554,13.0463944678,47.7832811554",
     "lbl:latitude":47.786918,
     "lbl:longitude":13.039773,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "mz:tier_metro":30,
     "name:ara_x_preferred":[
         "\u0646\u0627\u064a\u0633"
     ],
@@ -369,13 +371,15 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1690850926,
+    "wof:lastmodified":1706239304,
     "wof:name":"Gneis",
     "wof:parent_id":101748065,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1444832219
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -96,7 +96,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2782274
+        "gn:id":2782274,
+        "wk:page":"Atzesberg"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2782273
+        ]
     },
     "wof:country":"AT",
     "wof:geomhash":"5a905fa6fdcac4a3d1f0a00f1f2a3f76",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1276981193,
-    "wof:lastmodified":1566597814,
+    "wof:lastmodified":1706239308,
     "wof:name":"Atzesberg",
     "wof:parent_id":1108835717,
     "wof:placetype":"locality",
@@ -119,7 +125,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-at",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326730611
+    ],
     "wof:tags":[]
 },
   "bbox": [
